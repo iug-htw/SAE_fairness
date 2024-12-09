@@ -1,5 +1,6 @@
 import requests
 import os
+import json
 
 url = "https://www.neuronpedia.org/api/explanation/search"
 api_key = os.getenv("NEURONPEDIA_KEY")
@@ -18,12 +19,31 @@ def search_explanations_by_model():
     }
     response = requests.post(url, json=payload, headers=headers)
     print(response.json())
+    # Create 'json' folder if it doesn't exist
+    if not os.path.exists('json'):
+        os.makedirs('json')
+    # Save the JSON response to a file in the 'json' folder
+    json_data = response.json()
+    with open('json/feature_data.json', 'w') as json_file:
+        json.dump(json_data, json_file, indent=4)
+
 
 
 #search_explanations_by_model()
 
-#Feature runterladen: Featurenummer muss in URL stehen
-url = "https://www.neuronpedia.org/api/feature/gpt2-small/0-res-jb/14057"
-response = requests.get(url, headers=headers)
+def search_explanations_by_feature():
+    #Featurenummer muss in URL stehen
+    featureId= str(14057)
+    url = "https://www.neuronpedia.org/api/feature/gpt2-small/0-res-jb/" + featureId
+    response = requests.get(url, headers=headers)
+    print(response.json())
+    # Create 'json' folder if it doesn't exist
+    if not os.path.exists('json'):
+        os.makedirs('json')
+    # Save the JSON response to a file in the 'json' folder
+    json_data = response.json()
+    with open('json/feature_data.json', 'w') as json_file:
+        json.dump(json_data, json_file, indent=4)
+    print(response.json())
 
-print(response.json())
+search_explanations_by_feature()
