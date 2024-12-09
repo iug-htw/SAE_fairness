@@ -10,12 +10,13 @@ headers = {
 }
 
 def search_explanations_by_model():
+    query = "muslim"
     payload = {
         #Modelle: 
         "modelId": "gemma-2b", 
         #Schichten im Modell?
         "layers": ["0-res-jb", "6-res-jb"],
-        "query": "muslim"
+        "query": query,
     }
     response = requests.post(url, json=payload, headers=headers)
     print(response.json())
@@ -24,12 +25,13 @@ def search_explanations_by_model():
         os.makedirs('json')
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    with open('json/feature_data.json', 'w') as json_file:
+    filename = 'json/explanation_for_query_'+query+'.json'
+    with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
 
 
 
-#search_explanations_by_model()
+search_explanations_by_model()
 
 def search_explanations_by_feature():
     #Featurenummer muss in URL stehen
@@ -42,7 +44,8 @@ def search_explanations_by_feature():
         os.makedirs('json')
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    with open('json/feature_data.json', 'w') as json_file:
+    filename = 'json/data_for_feature_' + featureId + '.json'
+    with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     print(response.json())
 
