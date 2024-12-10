@@ -5,17 +5,17 @@ import json
 
 api_key = os.getenv("NEURONPEDIA_KEY")
 modelId = "gpt2-small" 
-
+query = "muslim"
 
 headers = {
    "Content-Type": "application/json",
    "X-Api-Key": api_key
 }
 
-def search_explanations_by_model():
+def search_explanations_by_model(query=query):
     #search by model aus API https://www.neuronpedia.org/api-doc#tag/explanations/POST/api/explanation/search-model
     url = "https://www.neuronpedia.org/api/explanation/search-model"
-    query = "muslim"
+
     payload = {
         "modelId": modelId,
         "query": query,
@@ -100,9 +100,9 @@ def extract_logits(feature):
 
 # Main execution
 all_output_data = []  # List to collect all output data
-features = search_explanations_by_model()
+features = search_explanations_by_model(query)  # Search explanations by model
 print(features)
-output_filename = 'json/all_output_data.json'
+output_filename = 'json/all_output_data_'+str(query)+'.json'
 if features:
     for feature in features:
         search_explanations_by_feature(feature,modelId)
