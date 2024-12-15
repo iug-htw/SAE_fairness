@@ -1,7 +1,12 @@
 import json
 import os
 
-queries=["muslim", "islam","terrorist","christian","christianity","jew","judaism","Jude","juif","homophob","cocaine"]
+
+def load_queries(filename):
+    if os.path.exists(filename):
+        with open(filename, 'r') as file:
+            return json.load(file)
+    return []
 
 
 def extract_logits(feature,query):
@@ -42,6 +47,10 @@ def extract_logits(feature,query):
     return output_data
 
 # Main execution
+
+# Load queries from queries.json
+queries = load_queries(filename='queries.json')
+
 for query in queries:
     all_output_data = []  # List to collect all output data
     output_filename = 'json/'+query+'/logits_and_description_'+str(query)+'.json'

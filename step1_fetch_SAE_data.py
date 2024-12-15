@@ -5,13 +5,23 @@ import json
 
 api_key = os.getenv("NEURONPEDIA_KEY")
 modelId = "gpt2-small" 
-#prior queries not included anymore: islam, muslim, "terrorist","christian","christianity","jew","judaism","Jude","juif"
+#prior queries not included anymore: see queries.json
 queries = ["homophob","cocaine"] # Query to search for
 
 headers = {
    "Content-Type": "application/json",
    "X-Api-Key": api_key
 }
+
+def load_existing_queries(filename='queries.json'):
+    if os.path.exists(filename):
+        with open(filename, 'r') as file:
+            return json.load(file)
+    return []
+
+def save_queries(queries, filename='queries.json'):
+    with open(filename, 'w') as file:
+        json.dump(queries, file, indent=4)
 
 def search_latent_features_by_model(query):
     #search by model aus API https://www.neuronpedia.org/api-doc#tag/explanations/POST/api/explanation/search-model
@@ -71,3 +81,7 @@ for query in queries:
     else:
         print("Feature IDs not found in the response.")
 
+# Save the updated list of all queries
+existing_queries = load_existing_queries()
+all_queries = list(set(existing_queries + queries))  # Combine and remove duplicates
+save_queries(all_queries)
