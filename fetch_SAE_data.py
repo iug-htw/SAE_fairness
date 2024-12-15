@@ -5,14 +5,14 @@ import json
 
 api_key = os.getenv("NEURONPEDIA_KEY")
 modelId = "gpt2-small" 
-query = "muslim"
+queries = ["muslim","islam"] # Query to search for
 
 headers = {
    "Content-Type": "application/json",
    "X-Api-Key": api_key
 }
 
-def search_latent_features_by_model(query=query):
+def search_latent_features_by_model(query):
     #search by model aus API https://www.neuronpedia.org/api-doc#tag/explanations/POST/api/explanation/search-model
     url = "https://www.neuronpedia.org/api/explanation/search-model"
 
@@ -40,7 +40,7 @@ def search_latent_features_by_model(query=query):
     return features
 
 
-def search_explanations_by_feature(feature,modelID=modelId,query=query):
+def search_explanations_by_feature(feature,query, modelID=modelId):
     #get Feature aus API https://www.neuronpedia.org/api-doc#tag/features/GET/api/feature/{modelId}/{layer}/{index}
     #Featurenummer muss in URL stehen
     layer, index = feature
@@ -60,12 +60,13 @@ def search_explanations_by_feature(feature,modelID=modelId,query=query):
 
 
 # Main execution
-features = search_latent_features_by_model(query)  # Search explanations by model
-print(features)
-output_filename = 'json/'+query+'/all_output_data_'+str(query)+'.json'
-if features:
-    for feature in features:
-        search_explanations_by_feature(feature,modelId,query)
-else:
-    print("Feature IDs not found in the response.")
+for query in queries:
+    features = search_latent_features_by_model(query)  # Search explanations by model
+    print(features)
+    output_filename = 'json/'+query+'/all_output_data_'+str(query)+'.json'
+    if features:
+        for feature in features:
+            search_explanations_by_feature(feature,query,modelId)
+    else:
+        print("Feature IDs not found in the response.")
 
