@@ -6,7 +6,7 @@ import json
 api_key = os.getenv("NEURONPEDIA_KEY")
 modelId = "gpt2-small" 
 #prior queries not included anymore: see queries.json
-queries = ["homophob","cocaine"] # Query to search for
+queries = ["fundamentalist"] # Query to search for
 
 headers = {
    "Content-Type": "application/json",
