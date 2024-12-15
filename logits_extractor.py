@@ -1,10 +1,10 @@
 import json
 import os
 
-query="muslim"
+queries=["muslim", "islam","terrorist","christian","christianity"]
 
 
-def extract_logits(feature,query=query):
+def extract_logits(feature,query):
     layer, index = feature
     filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
     # Load the JSON data from a file
@@ -42,33 +42,34 @@ def extract_logits(feature,query=query):
     return output_data
 
 # Main execution
-all_output_data = []  # List to collect all output data
-output_filename = 'json/'+query+'/logits_and_description_'+str(query)+'.json'
- # Read the JSON file
-filename = f'json/{query}/explanation_for_query_{query}.json'
-if not os.path.exists(filename):
-    print(f"File {filename} does not exist.")
+for query in queries:
+    all_output_data = []  # List to collect all output data
+    output_filename = 'json/'+query+'/logits_and_description_'+str(query)+'.json'
+    # Read the JSON file
+    filename = f'json/{query}/explanation_for_query_{query}.json'
+    if not os.path.exists(filename):
+        print(f"File {filename} does not exist.")
 
-with open(filename, 'r') as json_file:
-    response_data = json.load(json_file)
+    with open(filename, 'r') as json_file:
+        response_data = json.load(json_file)
 
-# Extract the featureId from the response
-features = []
-for result in response_data.get('results', []):
-    layer = result.get('layer')
-    index = result.get('index')
-    features.append((layer, index))
+    # Extract the featureId from the response
+    features = []
+    for result in response_data.get('results', []):
+        layer = result.get('layer')
+        index = result.get('index')
+        features.append((layer, index))
 
-print(features)
-if features:
-    for feature in features:
-        output_data = extract_logits(feature,query)
-        if output_data:
-            all_output_data.append(output_data)
-        # Save all collected output data to a single JSON file
-else:
-    print("Feature IDs not found in the response.")
+    print(features)
+    if features:
+        for feature in features:
+            output_data = extract_logits(feature,query)
+            if output_data:
+                all_output_data.append(output_data)
+            # Save all collected output data to a single JSON file
+    else:
+        print("Feature IDs not found in the response.")
     
-with open(output_filename, 'w') as output_file:
-    json.dump(all_output_data, output_file, indent=4)
-print(f"All output data saved to {output_filename}")    
+    with open(output_filename, 'w') as output_file:
+        json.dump(all_output_data, output_file, indent=4)
+    print(f"All output data saved to {output_filename}")    

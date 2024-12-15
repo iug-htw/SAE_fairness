@@ -1,0 +1,602 @@
+[
+    {
+        "index": "8946",
+        "layer": "1-res-jb",
+        "url": "json/islam/data_for_feature_8946.json",
+        "negative_strings": [
+            "sburgh",
+            " heights",
+            "essee",
+            "illary",
+            "uckland",
+            "esse",
+            "aucus",
+            "estern",
+            "athy",
+            " poles"
+        ],
+        "positive_strings": [
+            " Ramadan",
+            " Eid",
+            "monds",
+            "adan",
+            "DEN",
+            "pler",
+            "iday",
+            "rained",
+            "\u00e3\u0125\u0125\u00e3\u0124\u00af",
+            "itual"
+        ],
+        "description": "words related to Islamic holidays and religious figures"
+    },
+    {
+        "index": "14424",
+        "layer": "1-res-jb",
+        "url": "json/islam/data_for_feature_14424.json",
+        "negative_strings": [
+            "uckland",
+            "riet",
+            "ollo",
+            "olls",
+            "OTT",
+            "peria",
+            "sbm",
+            "ateurs",
+            "arius",
+            "ests"
+        ],
+        "positive_strings": [
+            " State",
+            " Terrorism",
+            " terrorism",
+            " Dept",
+            "istan",
+            " Governments",
+            "abad",
+            "State",
+            " propaganda",
+            " terrorists"
+        ],
+        "description": "mentions of the Islamic State terrorist group"
+    },
+    {
+        "index": "18291",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_18291.json",
+        "negative_strings": [
+            "\u0128\u0134",
+            "etheless",
+            "trial",
+            " shipments",
+            " postage",
+            "wcs",
+            "\u0126\u00a2",
+            " Peninsula",
+            " symp",
+            " crest"
+        ],
+        "positive_strings": [
+            "ually",
+            "uous",
+            "ilde",
+            "iful",
+            "ifully",
+            "uously",
+            "UAL",
+            "alia",
+            "igue",
+            "ieth"
+        ],
+        "description": "proper nouns and specific terms related to Islamic pilgrimage"
+    },
+    {
+        "index": "39153",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_39153.json",
+        "negative_strings": [
+            " srfAttach",
+            "agonist",
+            "oppable",
+            " Brands",
+            "holder",
+            "ainers",
+            "ilitarian",
+            " ellipt",
+            " Ov",
+            " restructuring"
+        ],
+        "positive_strings": [
+            "oras",
+            "gypt",
+            "\u00ef\u00b8\u0131",
+            "cens",
+            "OIL",
+            "hemy",
+            "edi",
+            "usra",
+            "ANY",
+            "anwhile"
+        ],
+        "description": "terms related to politics and religion, especially Islam"
+    },
+    {
+        "index": "4639",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_4639.json",
+        "negative_strings": [
+            "\u00e2\u013a\u0127\u00e2\u013a\u0127",
+            " unbeliev",
+            "\u00e5\u00a7",
+            " Rober",
+            "berries",
+            "\u00d7\u0137",
+            "LEASE",
+            "ync",
+            " nodd",
+            "PART"
+        ],
+        "positive_strings": [
+            "ophobia",
+            "ophobic",
+            "ica",
+            "ologist",
+            "ophob",
+            "ional",
+            "icans",
+            "ican",
+            "ese",
+            "ologists"
+        ],
+        "description": "phrases related to Islamic religion and culture"
+    },
+    {
+        "index": "21613",
+        "layer": "6-res_scl-ajt",
+        "url": "json/islam/data_for_feature_21613.json",
+        "negative_strings": [
+            "ENS",
+            "PsyNetMessage",
+            " BART",
+            "ocamp",
+            "LU",
+            "enegger",
+            " Canaver",
+            " Seah",
+            " Grimes",
+            " Sturgeon"
+        ],
+        "positive_strings": [
+            "abad",
+            " Almighty",
+            "\u012a\u0134",
+            "selves",
+            "istically",
+            "uria",
+            "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+            "istries",
+            "oran",
+            "hammad"
+        ],
+        "description": "passages referencing Islamic religious beliefs and teachings"
+    },
+    {
+        "index": "30338",
+        "layer": "2-res_scl-ajt",
+        "url": "json/islam/data_for_feature_30338.json",
+        "negative_strings": [
+            "\u00e9\u0139\u013a",
+            "enegger",
+            "coat",
+            "bley",
+            "laus",
+            "eters",
+            "butt",
+            "xxxxxxxx",
+            "eries",
+            "brid"
+        ],
+        "positive_strings": [
+            " cleric",
+            "abad",
+            " clerics",
+            " supremacists",
+            " Brotherhood",
+            "ophobic",
+            " Islamic",
+            " republic",
+            " Sharia",
+            " supremacist"
+        ],
+        "description": "references to events or entities related to the Islamic State militant group"
+    },
+    {
+        "index": "2674",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_2674.json",
+        "negative_strings": [
+            "tower",
+            " Reborn",
+            " HH",
+            ")</",
+            "LD",
+            " Stout",
+            "lake",
+            " Sparrow",
+            "ELD",
+            "warming"
+        ],
+        "positive_strings": [
+            "itatively",
+            " guiActiveUn",
+            "tered",
+            " qual",
+            "ulty",
+            "iosity",
+            "idium",
+            " sidx",
+            "it\u00c3\u00a9",
+            "rets"
+        ],
+        "description": "complex terminology and phrases related to Islam, medical processes, technology, and personal histories"
+    },
+    {
+        "index": "5879",
+        "layer": "2-res-jb",
+        "url": "json/islam/data_for_feature_5879.json",
+        "negative_strings": [
+            " Rober",
+            "berries",
+            " WD",
+            "slice",
+            " Member",
+            "LEASE",
+            "parts",
+            "dain",
+            "mie",
+            " Rockefeller"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "zai",
+            "iyah",
+            "Islam",
+            "ocide",
+            "icals",
+            "istani"
+        ],
+        "description": "terms related to Islam"
+    },
+    {
+        "index": "7913",
+        "layer": "0-res-jb",
+        "url": "json/islam/data_for_feature_7913.json",
+        "negative_strings": [
+            " incorporated",
+            " vanity",
+            " Almighty",
+            " Vanity",
+            " Wilmington",
+            " phantom",
+            "$$$$",
+            " NHS",
+            " SPD",
+            " meth"
+        ],
+        "positive_strings": [
+            "ari",
+            "aris",
+            "ARI",
+            "aria",
+            "arian",
+            "arius",
+            "ario",
+            "arians",
+            "arial",
+            "ara"
+        ],
+        "description": "phrases related to Islamic culture and the Arabic language"
+    },
+    {
+        "index": "13249",
+        "layer": "1-res-jb",
+        "url": "json/islam/data_for_feature_13249.json",
+        "negative_strings": [
+            "iolet",
+            "xual",
+            "artney",
+            "uder",
+            "izoph",
+            "endish",
+            "untled",
+            "loo",
+            "arez",
+            "enged"
+        ],
+        "positive_strings": [
+            " Eid",
+            "Dick",
+            " largeDownload",
+            "Thu",
+            " idle",
+            "Sec",
+            "Tue",
+            "\u00e3\u0125\u00b4",
+            "ICS",
+            "\u00e3\u0125\u0128"
+        ],
+        "description": "celebratory events or observances, specifically related to the Islamic holiday of Eid"
+    },
+    {
+        "index": "7221",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_7221.json",
+        "negative_strings": [
+            "CAP",
+            "\u00e6\u00a9",
+            "angled",
+            "resp",
+            "FINE",
+            "ATA",
+            "amina",
+            "ructure",
+            "xxxxxxxx",
+            "LV"
+        ],
+        "positive_strings": [
+            "istani",
+            " cleric",
+            " Brotherhood",
+            " immigrant",
+            "\u0127\u012d",
+            " shooters",
+            " handlers",
+            " sensibilities",
+            " immigrants",
+            " arrivals"
+        ],
+        "description": "words related to Islam and Muslims"
+    },
+    {
+        "index": "2909",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/islam/data_for_feature_2909.json",
+        "negative_strings": [
+            "inson",
+            "ocamp",
+            " Wilmington",
+            " Asheville",
+            " Bellev",
+            " Vaugh",
+            "Catal",
+            " Constantin",
+            " Jenner",
+            " Grimes"
+        ],
+        "positive_strings": [
+            "abad",
+            " Almighty",
+            "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+            " ibn",
+            "ishi",
+            " \u00d8",
+            "hammad",
+            "\u00d9\u0130",
+            "selves",
+            "enei"
+        ],
+        "description": "references concerning Islamic religion and religious practices"
+    },
+    {
+        "index": "17509",
+        "layer": "1-res-jb",
+        "url": "json/islam/data_for_feature_17509.json",
+        "negative_strings": [
+            " Hearth",
+            "\u00e3\u0125\u0125\u00e3\u0125\u012a",
+            " Mercury",
+            " Pry",
+            " Hundred",
+            " Notting",
+            "iture",
+            "issance",
+            " Brach",
+            " charms"
+        ],
+        "positive_strings": [
+            "Os",
+            "LEY",
+            "SO",
+            "PUT",
+            "SON",
+            "SI",
+            "PLAY",
+            "SU",
+            "Orderable",
+            "FIN"
+        ],
+        "description": "phrases or acronyms related to the Islamic State (IS)"
+    },
+    {
+        "index": "30466",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_30466.json",
+        "negative_strings": [
+            "\u00e9\u00be\u012f\u00e5",
+            "sections",
+            " nutrit",
+            " NAD",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122",
+            " HuffPost",
+            "wyn",
+            " Veter",
+            "eah",
+            "\u0138\u013c"
+        ],
+        "positive_strings": [
+            " invading",
+            " attacks",
+            " threats",
+            " hijacked",
+            " extortion",
+            " perpetrated",
+            " encro",
+            " aggression",
+            " attack",
+            " invasion"
+        ],
+        "description": "mentions of the Islamic State group and related activities such as attacks and control of territories"
+    },
+    {
+        "index": "16522",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_16522.json",
+        "negative_strings": [
+            " zinc",
+            "othy",
+            " antioxid",
+            "\u00e9\u00be",
+            " Wind",
+            "velength",
+            "eatures",
+            " pestic",
+            "onsense",
+            "motion"
+        ],
+        "positive_strings": [
+            " Haram",
+            " caliphate",
+            " militants",
+            "ISIS",
+            " fighters",
+            " jihadists",
+            " terrorists",
+            " insurgents",
+            " jihad",
+            " Jihad"
+        ],
+        "description": "references to the Islamic State group (ISIS) and related militant activities"
+    },
+    {
+        "index": "38156",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_38156.json",
+        "negative_strings": [
+            "channelAvailability",
+            " Winc",
+            "kus",
+            "ondon",
+            "SAY",
+            " Crom",
+            "mort",
+            "ependence",
+            " Winchester",
+            " UNIVERS"
+        ],
+        "positive_strings": [
+            " hijab",
+            " versa",
+            " veil",
+            "aii",
+            "azi",
+            "istani",
+            " Shutterstock",
+            "entry",
+            "\u00cd",
+            " Frie"
+        ],
+        "description": "mentions of Islamic religious attire, particularly the hijab, and discussions surrounding its wearers and societal implications"
+    },
+    {
+        "index": "15177",
+        "layer": "1-res-jb",
+        "url": "json/islam/data_for_feature_15177.json",
+        "negative_strings": [
+            "\u00e9\u0139\u013a",
+            "butt",
+            "ym",
+            "brid",
+            "laus",
+            " WD",
+            "eting",
+            "shaw",
+            "slice",
+            ")=("
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            " Islamic",
+            " cleric",
+            " Sharia",
+            " extremism",
+            "Islamic",
+            " Jihad",
+            " jihadist",
+            " suprem"
+        ],
+        "description": "references to Islamic-related terms or topics"
+    },
+    {
+        "index": "35254",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_35254.json",
+        "negative_strings": [
+            "ature",
+            "ngth",
+            "inventoryQuantity",
+            "obal",
+            "intosh",
+            "ALLY",
+            "estern",
+            "orate",
+            "OHN",
+            "urden"
+        ],
+        "positive_strings": [
+            "isha",
+            " Belt",
+            "gpu",
+            "mut",
+            "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+            "plings",
+            "sell",
+            "forming",
+            "fal",
+            "mu"
+        ],
+        "description": "references to different sects of Islam, particularly Sunni and Shia, in the context of conflict and alliances"
+    },
+    {
+        "index": "46046",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/islam/data_for_feature_46046.json",
+        "negative_strings": [
+            " retard",
+            "quickShipAvailable",
+            "izoph",
+            "under",
+            "andering",
+            " fundament",
+            "artifacts",
+            "ften",
+            "owe",
+            "children"
+        ],
+        "positive_strings": [
+            "iq",
+            " Jobs",
+            " Bowie",
+            "atives",
+            "rium",
+            " signature",
+            " Daniels",
+            "\u00e9\u00be\u012f\u00e5\u0138\u013c\u00e5\u00a3\u00ab",
+            "sson",
+            "illard"
+        ],
+        "description": "concepts related to Islamic religious clothing and discriminatory incidents"
+    }
+]
