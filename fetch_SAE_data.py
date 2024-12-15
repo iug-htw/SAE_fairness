@@ -5,8 +5,8 @@ import json
 
 api_key = os.getenv("NEURONPEDIA_KEY")
 modelId = "gpt2-small" 
-#prior queries not included anymore: islam, muslim, "terrorist","christian","christianity
-queries = ["jew","judaism","Jude","juif"] # Query to search for
+#prior queries not included anymore: islam, muslim, "terrorist","christian","christianity","jew","judaism","Jude","juif"
+queries = ["homophob","cocaine"] # Query to search for
 
 headers = {
    "Content-Type": "application/json",

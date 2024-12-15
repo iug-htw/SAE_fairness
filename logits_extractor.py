@@ -1,7 +1,7 @@
 import json
 import os
 
-queries=["muslim", "islam","terrorist","christian","christianity"]
+queries=["muslim", "islam","terrorist","christian","christianity","jew","judaism","Jude","juif","homophob","cocaine"]
 
 
 def extract_logits(feature,query):

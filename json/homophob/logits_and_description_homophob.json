@@ -1,0 +1,392 @@
+[
+    {
+        "index": "16550",
+        "layer": "12-res-jb",
+        "url": "json/homophob/data_for_feature_16550.json",
+        "negative_strings": [
+            "aea",
+            "ruary",
+            "successful",
+            "abiding",
+            "kj",
+            "ITNESS",
+            "bley",
+            "GRE",
+            "ustainable",
+            "erella"
+        ],
+        "positive_strings": [
+            " remarks",
+            " comments",
+            " language",
+            " slurs",
+            " remark",
+            " statements",
+            " rhetoric",
+            " slur",
+            " graffiti",
+            " tweets"
+        ],
+        "description": "negative and controversial language, including homophobic, sexist, racist, misogynistic, and inflammatory remarks"
+    },
+    {
+        "index": "45237",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/homophob/data_for_feature_45237.json",
+        "negative_strings": [
+            "FUL",
+            "REE",
+            "BuyableInstoreAndOnline",
+            "ESSION",
+            " Glory",
+            "\u00e3\u0123\u012f",
+            "AMS",
+            "Doctors",
+            "576",
+            " Medline"
+        ],
+        "positive_strings": [
+            "estead",
+            "onym",
+            "ogeneity",
+            "ogeneous",
+            "icidal",
+            "onymous",
+            "ogenous",
+            "ogly",
+            "imore",
+            "emade"
+        ],
+        "description": "terms related to genetics, immunity, medical challenges, and scientific research"
+    },
+    {
+        "index": "648",
+        "layer": "7-res-jb",
+        "url": "json/homophob/data_for_feature_648.json",
+        "negative_strings": [
+            " sender",
+            "utions",
+            "\u00e7\u0126",
+            " valley",
+            "AAF",
+            "raltar",
+            " Canaver",
+            " Weir",
+            " Mehran",
+            " Camb"
+        ],
+        "positive_strings": [
+            "emade",
+            "osexual",
+            "estead",
+            "ework",
+            "eless",
+            "eline",
+            "lyn",
+            "ily",
+            "eland",
+            "ilia"
+        ],
+        "description": "homophobic and homosexual-related words or phrases"
+    },
+    {
+        "index": "20564",
+        "layer": "2-res-jb",
+        "url": "json/homophob/data_for_feature_20564.json",
+        "negative_strings": [
+            "Dur",
+            " Chiefs",
+            " Grateful",
+            " Bei",
+            " Planes",
+            " Solitaire",
+            "externalActionCode",
+            " CentOS",
+            "Nap",
+            "\u00e7\u00ab"
+        ],
+        "positive_strings": [
+            "osexual",
+            "zilla",
+            "tons",
+            "nor",
+            "ega",
+            "erness",
+            "cation",
+            "gay",
+            "holes",
+            "ther"
+        ],
+        "description": "mentions of homophobic or anti-gay language, actions, or sentiments"
+    },
+    {
+        "index": "2518",
+        "layer": "0-res_post_32k-oai",
+        "url": "json/homophob/data_for_feature_2518.json",
+        "negative_strings": [
+            " Grip",
+            " Til",
+            "utherford",
+            " Nose",
+            "isSpecialOrderable",
+            " Waters",
+            " Sunset",
+            "aura",
+            " Wisdom",
+            "ataka"
+        ],
+        "positive_strings": [
+            "icle",
+            "icles",
+            "idem",
+            "{\\",
+            " behav",
+            "thus",
+            "estead",
+            " \u00e8",
+            "pelled",
+            " \u00ec"
+        ],
+        "description": " terms related to homogeneity and homophobic attitudes"
+    },
+    {
+        "index": "66861",
+        "layer": "2-mlp_128k-oai",
+        "url": "json/homophob/data_for_feature_66861.json",
+        "negative_strings": [
+            "hower",
+            " Pixar",
+            " rusty",
+            " Drift",
+            "JD",
+            "mable",
+            " Kubrick",
+            "mble",
+            " Lighting",
+            " Orn"
+        ],
+        "positive_strings": [
+            "rieved",
+            "\u00c3\u00aa",
+            "iat",
+            "thood",
+            "agonists",
+            "acl",
+            "\u00c3\u00a6",
+            "aco",
+            "imeter",
+            "agonist"
+        ],
+        "description": " references to homophobia or homophobic behavior"
+    },
+    {
+        "index": "21278",
+        "layer": "4-res_post_32k-oai",
+        "url": "json/homophob/data_for_feature_21278.json",
+        "negative_strings": [
+            "utherford",
+            " externalToEVAOnly",
+            "hammad",
+            "EStream",
+            "terday",
+            "hower",
+            "amsung",
+            "avascript",
+            "allery",
+            "asus"
+        ],
+        "positive_strings": [
+            "eland",
+            "estead",
+            "neys",
+            "IST",
+            "eworld",
+            "acre",
+            "\u0141",
+            "liness",
+            "urst",
+            "ertation"
+        ],
+        "description": "terms related to homosexuality and homophobic sentiments"
+    },
+    {
+        "index": "108300",
+        "layer": "10-res_mid_128k-oai",
+        "url": "json/homophob/data_for_feature_108300.json",
+        "negative_strings": [
+            " Hollow",
+            " prolong",
+            " drip",
+            " onward",
+            " Maduro",
+            " curve",
+            " Grip",
+            " indirect",
+            " Abel",
+            " applying"
+        ],
+        "positive_strings": [
+            "ogeneity",
+            "osexual",
+            "eland",
+            "ogenous",
+            "ogeneous",
+            "ilies",
+            "ophobic",
+            "icide",
+            "ogen",
+            "ogene"
+        ],
+        "description": " variations of the term \"hom\" as a reference to homogeneity or homophobic context"
+    },
+    {
+        "index": "459",
+        "layer": "11-res_post_32k-oai",
+        "url": "json/homophob/data_for_feature_459.json",
+        "negative_strings": [
+            " indirect",
+            "\u0123\u0138",
+            "\u00e3\u0125\u0125\u00e3\u0125\u012b",
+            "IVER",
+            " compounded",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
+            "ENCY",
+            " screws",
+            " harness",
+            " deprivation"
+        ],
+        "positive_strings": [
+            "estead",
+            "emade",
+            "eworld",
+            "emaker",
+            "ework",
+            "icidal",
+            "estyle",
+            "ogeneity",
+            "ogeneous",
+            "icide"
+        ],
+        "description": " terms related to homosexuality and homophobic attitudes"
+    },
+    {
+        "index": "35237",
+        "layer": "2-res_scl-ajt",
+        "url": "json/homophob/data_for_feature_35237.json",
+        "negative_strings": [
+            "RNA",
+            "adh",
+            "atch",
+            "acea",
+            "mond",
+            "osa",
+            "thritis",
+            "ada",
+            "lam",
+            "HQ"
+        ],
+        "positive_strings": [
+            " Cologne",
+            "inventoryQuantity",
+            " Columbus",
+            " Governors",
+            "ians",
+            "\u00a3\u0131",
+            " countdown",
+            " Pearce",
+            " legend",
+            "essors"
+        ],
+        "description": "homophobic language or sentiments"
+    },
+    {
+        "index": "124433",
+        "layer": "10-res_post_128k-oai",
+        "url": "json/homophob/data_for_feature_124433.json",
+        "negative_strings": [
+            "\u00ef\u00b8",
+            "APH",
+            " spons",
+            " noses",
+            " heav",
+            "Accessory",
+            " oriented",
+            "Header",
+            " streng",
+            " pse"
+        ],
+        "positive_strings": [
+            "eworld",
+            "ipel",
+            "estead",
+            "okemon",
+            "el",
+            "population",
+            "itol",
+            "archy",
+            "inar",
+            "osphere"
+        ],
+        "description": " references to concepts related to homosexuality or homophobic attitudes"
+    },
+    {
+        "index": "1397",
+        "layer": "0-res-jb",
+        "url": "json/homophob/data_for_feature_1397.json",
+        "negative_strings": [
+            " nails",
+            " pseud",
+            " mirrors",
+            " crystal",
+            " pave",
+            " NT",
+            " certificate",
+            " certificates",
+            " wishes",
+            " Certificate"
+        ],
+        "positive_strings": [
+            "agg",
+            "Agg",
+            "ags",
+            "ag",
+            "agging",
+            "agged",
+            "ugg",
+            " Agg",
+            "igg",
+            "inter"
+        ],
+        "description": "homophobic and derogatory terms targeted at individuals"
+    },
+    {
+        "index": "17960",
+        "layer": "0-att-kk",
+        "url": "json/homophob/data_for_feature_17960.json",
+        "negative_strings": [
+            "Interstitial",
+            "WARD",
+            "SPONSORED",
+            "KEY",
+            "MER",
+            "amina",
+            "pmwiki",
+            "issue",
+            "PT",
+            "upon"
+        ],
+        "positive_strings": [
+            " guiActiveUn",
+            "nesday",
+            "ollah",
+            " citiz",
+            " councill",
+            "\u30a6\u30b9",
+            " offend",
+            " undermin",
+            " lashes",
+            " (\u00a3"
+        ],
+        "description": "references to homophobic and homophobic-related statements"
+    }
+]
