@@ -12,7 +12,7 @@ headers = {
    "X-Api-Key": api_key
 }
 
-def search_explanations_by_model(query=query):
+def search_latent_features_by_model(query=query):
     #search by model aus API https://www.neuronpedia.org/api-doc#tag/explanations/POST/api/explanation/search-model
     url = "https://www.neuronpedia.org/api/explanation/search-model"
 
@@ -24,13 +24,12 @@ def search_explanations_by_model(query=query):
     response_data = response.json()
     
     # Create 'json' folder if it doesn't exist
-    if not os.path.exists('json'):
-        os.makedirs('json')
+    if not os.path.exists('json/'+query):
+        os.makedirs('json/'+query)  
     # Save the JSON response to a file in the 'json' folder
-    json_data = response.json()
-    filename = 'json/explanation_for_query_'+query+'.json'
+    filename = 'json/'+query+'/explanation_for_query_'+query+'.json'
     with open(filename, 'w') as json_file:
-        json.dump(json_data, json_file, indent=4)
+        json.dump(response_data, json_file, indent=4)
     # Extract the featureId from the response
     features = []
     for result in response_data.get('results', []):
@@ -41,7 +40,7 @@ def search_explanations_by_model(query=query):
     return features
 
 
-def search_explanations_by_feature(feature,modelID=modelId):
+def search_explanations_by_feature(feature,modelID=modelId,query=query):
     #get Feature aus API https://www.neuronpedia.org/api-doc#tag/features/GET/api/feature/{modelId}/{layer}/{index}
     #Featurenummer muss in URL stehen
     layer, index = feature
@@ -50,19 +49,16 @@ def search_explanations_by_feature(feature,modelID=modelId):
     print(url)
     response = requests.get(url, headers=headers)
     
-    # Create 'json' folder if it doesn't exist
-    if not os.path.exists('json'):
-        os.makedirs('json')
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    filename = 'json/data_for_feature_' + str(index) + '.json'
+    filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
     with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     #print(response.json())
 
-def extract_logits(feature):
+def extract_logits(feature,query=query):
     layer, index = feature
-    filename = 'json/data_for_feature_' + str(index) + '.json'
+    filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
     # Load the JSON data from a file
     with open(filename, 'r') as file:
         data = json.load(file)
@@ -88,25 +84,24 @@ def extract_logits(feature):
         "positive_strings": pos_str,
         "description": description
     }
-
-    return output_data
-
+    
     # Save the output data to a JSON file
-    output_filename = f'json/output_{os.path.basename(filename)}'
+    output_filename2 = f'json/output_{os.path.basename(filename)}'
     with open(output_filename, 'w') as output_file:
         json.dump(output_data, output_file, indent=4)
 
     print(f"Output saved to {output_filename}")
+    return output_data
 
 # Main execution
 all_output_data = []  # List to collect all output data
-features = search_explanations_by_model(query)  # Search explanations by model
+features = search_latent_features_by_model(query)  # Search explanations by model
 print(features)
-output_filename = 'json/all_output_data_'+str(query)+'.json'
+output_filename = 'json/'+query+'/all_output_data_'+str(query)+'.json'
 if features:
     for feature in features:
-        search_explanations_by_feature(feature,modelId)
-        output_data = extract_logits(feature)
+        search_explanations_by_feature(feature,modelId,query)
+        output_data = extract_logits(feature,query)
         if output_data:
             all_output_data.append(output_data)
         # Save all collected output data to a single JSON file
