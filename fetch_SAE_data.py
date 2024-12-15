@@ -54,61 +54,18 @@ def search_explanations_by_feature(feature,modelID=modelId,query=query):
     filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
     with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
+    print(f"Data saved to {filename}")
     #print(response.json())
 
-def extract_logits(feature,query=query):
-    layer, index = feature
-    filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
-    # Load the JSON data from a file
-    with open(filename, 'r') as file:
-        data = json.load(file)
 
-    # Extract the neg_str and pos_str values
-    neg_str = data.get('neg_str', [])
-    pos_str = data.get('pos_str', [])
-
-    # Extract the layer and description from the explanations
-    explanations = data.get('explanations', [])
-    if explanations:
-        layer = explanations[0].get('layer')
-        description = explanations[0].get('description')
-    else:
-        print("No explanations found.")
-    
-    # Structure the output data
-    output_data = {
-        "index": index,
-        "layer": layer,
-        "url": filename,
-        "negative_strings": neg_str,
-        "positive_strings": pos_str,
-        "description": description
-    }
-    
-    # Save the output data to a JSON file
-    output_filename2 = f'json/output_{os.path.basename(filename)}'
-    with open(output_filename, 'w') as output_file:
-        json.dump(output_data, output_file, indent=4)
-
-    print(f"Output saved to {output_filename}")
-    return output_data
 
 # Main execution
-all_output_data = []  # List to collect all output data
 features = search_latent_features_by_model(query)  # Search explanations by model
 print(features)
 output_filename = 'json/'+query+'/all_output_data_'+str(query)+'.json'
 if features:
     for feature in features:
         search_explanations_by_feature(feature,modelId,query)
-        output_data = extract_logits(feature,query)
-        if output_data:
-            all_output_data.append(output_data)
-        # Save all collected output data to a single JSON file
 else:
     print("Feature IDs not found in the response.")
-    
-with open(output_filename, 'w') as output_file:
-    json.dump(all_output_data, output_file, indent=4)
-print(f"All output data saved to {output_filename}")    
 
