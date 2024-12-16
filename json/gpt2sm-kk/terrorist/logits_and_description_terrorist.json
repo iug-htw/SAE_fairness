@@ -1,0 +1,602 @@
+[
+    {
+        "index": "16980",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_16980.json",
+        "negative_strings": [
+            "jen",
+            "Ear",
+            "Jen",
+            "Cl",
+            "ploy",
+            "Hart",
+            "CL",
+            " cl",
+            " Kear",
+            "peer"
+        ],
+        "positive_strings": [
+            " Ab",
+            "Ab",
+            " ab",
+            " AB",
+            "ab",
+            " Abs",
+            " Abd",
+            "AB",
+            " Abu",
+            " Kab"
+        ],
+        "description": " phrases related to terrorist activities and associated narratives"
+    },
+    {
+        "index": "15932",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_15932.json",
+        "negative_strings": [
+            " Andromeda",
+            " Reincarnated",
+            "LV",
+            " Kepler",
+            "eva",
+            " \u795e",
+            " Pengu",
+            "phis",
+            " Ples",
+            " Beetle"
+        ],
+        "positive_strings": [
+            " Osama",
+            " Cheney",
+            " Jinn",
+            "llah",
+            " Rahman",
+            " Hussain",
+            "Qaida",
+            " Qatar",
+            " Qaeda",
+            " CIA"
+        ],
+        "description": "references to specific dates and terrorist attacks, particularly those related to September 11"
+    },
+    {
+        "index": "4401",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_4401.json",
+        "negative_strings": [
+            " Emin",
+            " Clara",
+            " Esther",
+            " Chilean",
+            " Perse",
+            " candle",
+            "uana",
+            " Dresden",
+            " Tian",
+            " salon"
+        ],
+        "positive_strings": [
+            "emphasis",
+            "NBA",
+            "ESPN",
+            "Buff",
+            "Bow",
+            "BR",
+            "BB",
+            "maxwell",
+            "\ufffd",
+            "buff"
+        ],
+        "description": " references to specific individuals associated with terrorist activities"
+    },
+    {
+        "index": "15071",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_15071.json",
+        "negative_strings": [
+            "SHIP",
+            " biologists",
+            " poker",
+            " plaque",
+            " tart",
+            " microsc",
+            " recomb",
+            " tennis",
+            " sidewalks",
+            "shapeshifter"
+        ],
+        "positive_strings": [
+            "\ufffd",
+            "Rah",
+            "\ufffd",
+            "hatt",
+            "heid",
+            "ibi",
+            "\u00e3",
+            " Amin",
+            "thal",
+            "\ufffd"
+        ],
+        "description": "names associated with terrorist organizations or related individuals"
+    },
+    {
+        "index": "8759",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_8759.json",
+        "negative_strings": [
+            " Chapman",
+            "Arizona",
+            " Brenda",
+            "Search",
+            " Bloom",
+            " Bing",
+            "Ross",
+            " Randy",
+            "pod",
+            " Pearce"
+        ],
+        "positive_strings": [
+            "Paris",
+            " Paris",
+            " Copenhagen",
+            " Hollande",
+            " Rue",
+            "uters",
+            " Brussels",
+            "uble",
+            " Elys",
+            "itters"
+        ],
+        "description": "references to terrorist attacks and plots related to Paris"
+    },
+    {
+        "index": "6956",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_6956.json",
+        "negative_strings": [
+            "Pol",
+            "\ufffd",
+            "mel",
+            " landsl",
+            "lad",
+            "olk",
+            " Lank",
+            "\ufe0f",
+            "claw",
+            " Belarus"
+        ],
+        "positive_strings": [
+            " Abu",
+            " Ou",
+            "Ab",
+            " Bai",
+            " Abel",
+            " Nib",
+            " Baghd",
+            " Barnett",
+            " Ara",
+            "anu"
+        ],
+        "description": "connections to individuals involved in notable criminal or terrorist activities"
+    },
+    {
+        "index": "5383",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_5383.json",
+        "negative_strings": [
+            "oS",
+            " AT",
+            " Roberts",
+            "OTE",
+            "ISA",
+            " Satoshi",
+            "\ufffd",
+            " epist",
+            "ATA",
+            "~~~~"
+        ],
+        "positive_strings": [
+            "senal",
+            " Deborah",
+            " Colomb",
+            " Flore",
+            "hran",
+            "lication",
+            "mur",
+            "llor",
+            " Flam",
+            " Kub"
+        ],
+        "description": "references to terrorist organizations and their activities"
+    },
+    {
+        "index": "29621",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_29621.json",
+        "negative_strings": [
+            " contrace",
+            " skim",
+            " meager",
+            "inarily",
+            " rake",
+            "angelo",
+            "loe",
+            "isl",
+            " cautiously",
+            " ample"
+        ],
+        "positive_strings": [
+            "achu",
+            "\u30df",
+            "operated",
+            "MSN",
+            "RNA",
+            "atible",
+            " Confeder",
+            "gado",
+            "Pattern",
+            " precursor"
+        ],
+        "description": "references to locations and affiliations of terrorist groups"
+    },
+    {
+        "index": "1563",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_1563.json",
+        "negative_strings": [
+            " inventions",
+            " whims",
+            "strument",
+            " surn",
+            " clocks",
+            " planner",
+            " illustrations",
+            " sciences",
+            " plates",
+            "uscript"
+        ],
+        "positive_strings": [
+            " Hezbollah",
+            " ISIL",
+            " YPG",
+            " ISIS",
+            "Nusra",
+            "ISIS",
+            " Taliban",
+            " Jihad",
+            " Boko",
+            " Hamas"
+        ],
+        "description": " references to terrorist organizations and their actions"
+    },
+    {
+        "index": "6345",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_6345.json",
+        "negative_strings": [
+            " Idaho",
+            " Navajo",
+            "Utah",
+            "Alabama",
+            " Spokane",
+            " Boise",
+            "Arizona",
+            " Utah",
+            " Cherokee",
+            "owa"
+        ],
+        "positive_strings": [
+            "Paris",
+            " Paris",
+            " Hollande",
+            " France",
+            " French",
+            "France",
+            "French",
+            " Hebdo",
+            " Fran\u00e7ois",
+            " M\u00e9"
+        ],
+        "description": " references to terrorist activities and related events occurring in Paris"
+    },
+    {
+        "index": "5965",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_5965.json",
+        "negative_strings": [
+            "arians",
+            " seats",
+            " chairs",
+            " desks",
+            "chrom",
+            " Seat",
+            "represented",
+            " Mercury",
+            " benches",
+            " Chron"
+        ],
+        "positive_strings": [
+            "\ufffd\u58eb",
+            "idd",
+            " Kass",
+            "\ufffd",
+            "agan",
+            "Jr",
+            "Allah",
+            "allah",
+            " adolescence",
+            "idal"
+        ],
+        "description": " references to specific individuals associated with terrorist organizations"
+    },
+    {
+        "index": "6936",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_6936.json",
+        "negative_strings": [
+            "NZ",
+            " Wilde",
+            "uckland",
+            " Richie",
+            " ANC",
+            " Nixon",
+            " Garfield",
+            " apartheid",
+            "icz",
+            " 1893"
+        ],
+        "positive_strings": [
+            " Raqqa",
+            " Mosul",
+            " ISIS",
+            " caliphate",
+            " Baghd",
+            " Iraqi",
+            " Daesh",
+            " ISIL",
+            "ISIS",
+            " YPG"
+        ],
+        "description": "references to military actions and conflicts involving terrorist groups"
+    },
+    {
+        "index": "270",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_270.json",
+        "negative_strings": [
+            "aunder",
+            "wcsstore",
+            "ODUCT",
+            " Pluto",
+            "TPP",
+            " Wilde",
+            " Discussion",
+            "artist",
+            " Ridley",
+            "\u2022\u2022\u2022\u2022"
+        ],
+        "positive_strings": [
+            " gunmen",
+            " detonated",
+            " explosives",
+            " deton",
+            " wounded",
+            " gunfire",
+            " casualty",
+            " charred",
+            " explosions",
+            " ambul"
+        ],
+        "description": "incidents of violence and casualties related to terrorist attacks"
+    },
+    {
+        "index": "21613",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_21613.json",
+        "negative_strings": [
+            "ovych",
+            "Greek",
+            "Elsa",
+            " GNOME",
+            " Elsa",
+            " Chrys",
+            " Shinra",
+            " Gaia",
+            " Asheville",
+            "iannopoulos"
+        ],
+        "positive_strings": [
+            "Pakistan",
+            " Islamabad",
+            " Pakistan",
+            " Pakistani",
+            " Karachi",
+            "Pak",
+            " Sharif",
+            " Lah",
+            " Pesh",
+            " Jinn"
+        ],
+        "description": "references to terrorist organizations and their activities"
+    },
+    {
+        "index": "896",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_896.json",
+        "negative_strings": [
+            "natureconservancy",
+            "wcsstore",
+            " Painter",
+            "\ufffd",
+            "Wilson",
+            "conserv",
+            " Proced",
+            "payer",
+            " AMA",
+            ")=("
+        ],
+        "positive_strings": [
+            " bombings",
+            " attackers",
+            " gunmen",
+            " detonated",
+            " Islamist",
+            " jihadist",
+            " attacks",
+            " stabbing",
+            " explosives",
+            " assailants"
+        ],
+        "description": " references to terrorist attacks and related security incidents"
+    },
+    {
+        "index": "8729",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_8729.json",
+        "negative_strings": [
+            " Dragonbound",
+            "wcs",
+            "natureconservancy",
+            " sshd",
+            " Starship",
+            "belt",
+            " ital",
+            "rawdownloadcloneembedreportprint",
+            "retty",
+            " Poke"
+        ],
+        "positive_strings": [
+            "azeera",
+            "abet",
+            "Qaeda",
+            "Qaida",
+            "querque",
+            "\ufffd",
+            "abi",
+            "intel",
+            "\ufffd",
+            "aditional"
+        ],
+        "description": "terms and references related to terrorist organizations, particularly al-Qaeda and its affiliates"
+    },
+    {
+        "index": "31998",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_31998.json",
+        "negative_strings": [
+            "tesy",
+            " attic",
+            " reper",
+            "emale",
+            "inement",
+            "ersion",
+            " lett",
+            " indoors",
+            "comments",
+            "Redditor"
+        ],
+        "positive_strings": [
+            " Qaeda",
+            "Qaeda",
+            " Zub",
+            " Baghd",
+            " Laden",
+            " Boko",
+            " Jihad",
+            " ISIS",
+            " Bakr",
+            " Islamist"
+        ],
+        "description": " mentions of terrorist organizations, specifically al-Qaeda"
+    },
+    {
+        "index": "14088",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_14088.json",
+        "negative_strings": [
+            " Cuban",
+            " Cuba",
+            " Icelandic",
+            " Havana",
+            " Russians",
+            " Tibet",
+            " Iceland",
+            " Poles",
+            " Cub",
+            " Ulster"
+        ],
+        "positive_strings": [
+            " Boko",
+            " Nigerian",
+            " Nigeria",
+            " Niger",
+            "ophe",
+            " Maid",
+            "javascript",
+            "ascript",
+            " JavaScript",
+            "illard"
+        ],
+        "description": " references to terrorist activities and their impact"
+    },
+    {
+        "index": "6144",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_6144.json",
+        "negative_strings": [
+            "obyl",
+            " Marlins",
+            " NVIDIA",
+            " Ghostbusters",
+            "Consumer",
+            "Disney",
+            " Goodell",
+            " Valve",
+            " Witcher",
+            " Pebble"
+        ],
+        "positive_strings": [
+            " caliphate",
+            " Baghd",
+            " militant",
+            " militants",
+            " insurgency",
+            " jihadist",
+            " jihad",
+            " recruitment",
+            "iphate",
+            " Jab"
+        ],
+        "description": " references to terrorist organizations and their activities"
+    },
+    {
+        "index": "8785",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/terrorist/data_for_feature_8785.json",
+        "negative_strings": [
+            " Ghostbusters",
+            " Titanic",
+            " Lovecraft",
+            " Pebble",
+            " Voyager",
+            "Discussion",
+            " Dodd",
+            " Cthulhu",
+            " Garfield",
+            " Cosmic"
+        ],
+        "positive_strings": [
+            " Raqqa",
+            " Mosul",
+            " Daesh",
+            " YPG",
+            " fighters",
+            " insurgents",
+            " Aleppo",
+            " militants",
+            " ISIL",
+            " civilians"
+        ],
+        "description": "references to military operations and engagements involving terrorist groups"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "3769",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_3769.json",
+        "negative_strings": [
+            "Gene",
+            "nin",
+            " Insect",
+            "natureconservancy",
+            "iolet",
+            " Computing",
+            " salmon",
+            " Nicotine",
+            " Polar",
+            " Neural"
+        ],
+        "positive_strings": [
+            " Dh",
+            " Ramadan",
+            " dh",
+            " Daw",
+            " Ahmad",
+            " Bangl",
+            " Hindus",
+            " Sabha",
+            "arded",
+            " Bed"
+        ],
+        "description": "references to Muslims and their positive contributions"
+    },
+    {
+        "index": "21362",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_21362.json",
+        "negative_strings": [
+            " Robotics",
+            " darts",
+            " underwater",
+            " submar",
+            " Pebble",
+            " waterfall",
+            "anos",
+            " aquatic",
+            " Camb",
+            "cig"
+        ],
+        "positive_strings": [
+            " Hate",
+            " hate",
+            "hate",
+            " hateful",
+            " hatred",
+            " bigotry",
+            " intolerance",
+            " bigot",
+            " swast",
+            " Klan"
+        ],
+        "description": "mentions of hate crimes and anti-Muslim sentiment"
+    },
+    {
+        "index": "6852",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_6852.json",
+        "negative_strings": [
+            "Offline",
+            "utenberg",
+            " Extras",
+            " Printed",
+            " Volunte",
+            " organising",
+            " Feedback",
+            " organis",
+            " Credits",
+            " statistic"
+        ],
+        "positive_strings": [
+            " Mattis",
+            " ISIS",
+            " mosques",
+            " Baghd",
+            "ISIS",
+            "terror",
+            " Trump",
+            "FBI",
+            " terrorists",
+            "afort"
+        ],
+        "description": "references to travel restrictions affecting citizens from predominantly Muslim countries"
+    },
+    {
+        "index": "6439",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_6439.json",
+        "negative_strings": [
+            " quotas",
+            " Sina",
+            " Sudan",
+            " impunity",
+            " veto",
+            " quota",
+            " Erit",
+            " Boko",
+            " Somali",
+            "kan"
+        ],
+        "positive_strings": [
+            " rehearsal",
+            " rehe",
+            "afort",
+            " rehears",
+            "itsch",
+            "selage",
+            "workshop",
+            " Dinner",
+            "atre",
+            "cade"
+        ],
+        "description": "phrases related to the regulation or restriction of Muslim immigration"
+    },
+    {
+        "index": "47027",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_47027.json",
+        "negative_strings": [
+            "ijn",
+            "\ufffd\ufffd",
+            " Jacket",
+            "estro",
+            " Failure",
+            "iquette",
+            " Tears",
+            "cape",
+            " Spiral",
+            "acea"
+        ],
+        "positive_strings": [
+            " districts",
+            " counties",
+            " countries",
+            " compounds",
+            " positions",
+            " sectors",
+            "majority",
+            " nations",
+            " professions",
+            " constituencies"
+        ],
+        "description": " phrases related to Muslim-majority countries and their political climate"
+    },
+    {
+        "index": "35926",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_35926.json",
+        "negative_strings": [
+            "gio",
+            "taboola",
+            "Pause",
+            " racks",
+            "Foot",
+            "imeo",
+            "bernatorial",
+            "ocument",
+            " Norton",
+            " dashboard"
+        ],
+        "positive_strings": [
+            "habi",
+            "cair",
+            "ibur",
+            " leftist",
+            "anism",
+            " Pakistani",
+            " fundamentalist",
+            " Lash",
+            "ryu",
+            " indoctr"
+        ],
+        "description": "words and phrases related to radicalization and its impact on Muslims and Palestinians"
+    },
+    {
+        "index": "14628",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_14628.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "\u6a5f",
+            " tiss",
+            "\ufffd\u58eb",
+            "keyes",
+            " Vaugh",
+            "othy",
+            "yss",
+            "abre",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "Joined",
+            "majority",
+            "Muslims",
+            "\ufffd",
+            " Mahmoud",
+            " Koran",
+            " Egyptians",
+            " Quran",
+            "Christ",
+            "hemy"
+        ],
+        "description": "references to legal and political situations, specifically related to Islamic law and countries with Muslim-majority populations"
+    },
+    {
+        "index": "14628",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_14628.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "\u6a5f",
+            " tiss",
+            "\ufffd\u58eb",
+            "keyes",
+            " Vaugh",
+            "othy",
+            "yss",
+            "abre",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "Joined",
+            "majority",
+            "Muslims",
+            "\ufffd",
+            " Mahmoud",
+            " Koran",
+            " Egyptians",
+            " Quran",
+            "Christ",
+            "hemy"
+        ],
+        "description": "references to legal and political situations, specifically related to Islamic law and countries with Muslim-majority populations"
+    },
+    {
+        "index": "9810",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_9810.json",
+        "negative_strings": [
+            " chambers",
+            " feats",
+            " sleeves",
+            " racks",
+            " schemes",
+            " routines",
+            " graphs",
+            " futures",
+            " traps",
+            " gimm"
+        ],
+        "positive_strings": [
+            " Hindu",
+            " Buddhist",
+            " Sikh",
+            "Muslim",
+            " Muslim",
+            "Catholic",
+            "Christian",
+            " Zoro",
+            " Hindus",
+            " Shia"
+        ],
+        "description": " words and phrases related to Muslim identity and interfaith dynamics"
+    },
+    {
+        "index": "13186",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_13186.json",
+        "negative_strings": [
+            "natureconservancy",
+            " magnification",
+            " deed",
+            " deeds",
+            "Roll",
+            "Ultra",
+            " stunts",
+            " livestream",
+            "Offline",
+            "spin"
+        ],
+        "positive_strings": [
+            "uador",
+            " Britann",
+            " Guantanamo",
+            "\u30ef",
+            " foreigners",
+            "ailand",
+            "opol",
+            " Colombia",
+            " populous",
+            " Albania"
+        ],
+        "description": "references to immigration and its various aspects, particularly involving Muslims entering or emigrating to specific countries"
+    },
+    {
+        "index": "14175",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_14175.json",
+        "negative_strings": [
+            " predicament",
+            " predic",
+            "assetsadobe",
+            " situation",
+            "ierrez",
+            "ISION",
+            "INO",
+            "VALUE",
+            "\ufffd\ufffd",
+            "undrum"
+        ],
+        "positive_strings": [
+            " altogether",
+            " banning",
+            " entrances",
+            " cigarettes",
+            " abortions",
+            "cigarettes",
+            " Quran",
+            "anasia",
+            "otle",
+            " Entry"
+        ],
+        "description": "references to bans or restrictions on specific groups, particularly targeting Muslims and associated immigration issues"
+    },
+    {
+        "index": "15694",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_15694.json",
+        "negative_strings": [
+            " comr",
+            " myster",
+            " sheer",
+            " retract",
+            " redund",
+            " departures",
+            " undercover",
+            "erella",
+            " antioxid",
+            "neau"
+        ],
+        "positive_strings": [
+            "doms",
+            "\u0161",
+            "gat",
+            "soDeliveryDate",
+            " Hasan",
+            "phia",
+            "\ufffd",
+            "sburg",
+            "\ufffd",
+            " advocate"
+        ],
+        "description": " references to Muslim communities and related demographics"
+    },
+    {
+        "index": "9528",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_9528.json",
+        "negative_strings": [
+            "ictional",
+            " DRAGON",
+            "luster",
+            "ernels",
+            " Dragonbound",
+            " Blizz",
+            " terrestrial",
+            " corrosion",
+            " Bore",
+            "episode"
+        ],
+        "positive_strings": [
+            " Koran",
+            " Brotherhood",
+            " Prayer",
+            " hijab",
+            "freedom",
+            "iyah",
+            " cleric",
+            " Quran",
+            " prayer",
+            " bashing"
+        ],
+        "description": "phrases related to Islam, Muslims, and Islamic extremism"
+    },
+    {
+        "index": "29747",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_29747.json",
+        "negative_strings": [
+            "reci",
+            "assetsadobe",
+            "staking",
+            "Layer",
+            "ynthesis",
+            "eat",
+            "ernels",
+            "EStream",
+            "plate",
+            " ingenuity"
+        ],
+        "positive_strings": [
+            "ailand",
+            " Belarus",
+            "ulhu",
+            "kaya",
+            " destinations",
+            " populous",
+            " mainland",
+            " Moscow",
+            " staffed",
+            "utherford"
+        ],
+        "description": " mentions of Muslim-majority countries and their associated policies"
+    },
+    {
+        "index": "24427",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_24427.json",
+        "negative_strings": [
+            "assetsadobe",
+            "antage",
+            "pmwiki",
+            "FOX",
+            "\ufffd\ufffd",
+            " antitrust",
+            "mberg",
+            "}}}",
+            "wikipedia",
+            " Turing"
+        ],
+        "positive_strings": [
+            " Ahmad",
+            " Advocate",
+            " Uganda",
+            " Orthodox",
+            "doms",
+            "Occup",
+            " Sudan",
+            " Coalition",
+            " extremist",
+            "amia"
+        ],
+        "description": "references to political actions, specifically those involving countries with a Muslim-majority population"
+    },
+    {
+        "index": "3264",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_3264.json",
+        "negative_strings": [
+            "epad",
+            "xon",
+            " KB",
+            "onom",
+            " Newsp",
+            " WWF",
+            "efficiency",
+            "tein",
+            " LF",
+            " envelope"
+        ],
+        "positive_strings": [
+            "\u0644",
+            "ctuary",
+            "\ufffd",
+            " undocumented",
+            " nationals",
+            "\u064a",
+            " immigrants",
+            "immigrant",
+            "\ufffd\ufffd",
+            " Syrian"
+        ],
+        "description": "keywords related to immigration policies and restrictions, specifically concerning Muslim-majority countries and refugees"
+    },
+    {
+        "index": "12864",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_12864.json",
+        "negative_strings": [
+            " Surviv",
+            "MpServer",
+            " Commodore",
+            " locom",
+            " =================================================================",
+            "ractor",
+            "cule",
+            " Atari",
+            "arsity",
+            "agara"
+        ],
+        "positive_strings": [
+            " mosques",
+            " Muslim",
+            "iannopoulos",
+            "Muslim",
+            "Islam",
+            " Sharia",
+            " Muslims",
+            "\u064a",
+            "Islamic",
+            " nations"
+        ],
+        "description": "references to Muslim-majority countries and related immigration issues"
+    },
+    {
+        "index": "13146",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_13146.json",
+        "negative_strings": [
+            " solic",
+            " outings",
+            " solicit",
+            "nown",
+            "theless",
+            " voyage",
+            " outing",
+            " sheltered",
+            " reimb",
+            " handwritten"
+        ],
+        "positive_strings": [
+            " Grain",
+            " grain",
+            "\ufffd",
+            " Hindu",
+            "grain",
+            " Caucasus",
+            " Islam",
+            "\u03c9",
+            " Trog",
+            "religious"
+        ],
+        "description": "references to ethnic and religious identities, particularly relating to Shia and Sunni Muslim dynamics"
+    },
+    {
+        "index": "17045",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_17045.json",
+        "negative_strings": [
+            "enegger",
+            " Generic",
+            " stunt",
+            " Implement",
+            " gimm",
+            " Developers",
+            "ettings",
+            " introduce",
+            "uter",
+            " Handling"
+        ],
+        "positive_strings": [
+            "Scroll",
+            " \u200e",
+            "Dust",
+            " whence",
+            " swings",
+            "strength",
+            "capacity",
+            "SHA",
+            "iesta",
+            "\ufffd\ufffd"
+        ],
+        "description": "phrases and terms related to anti-Semitism and anti-Muslim sentiments"
+    },
+    {
+        "index": "1218",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/muslim/data_for_feature_1218.json",
+        "negative_strings": [
+            "yip",
+            " Niet",
+            "stood",
+            "\u8005",
+            " Towards",
+            " Tow",
+            "osponsors",
+            "quickShipAvailable",
+            "Mom",
+            " Hands"
+        ],
+        "positive_strings": [
+            "Desktop",
+            " casinos",
+            " stadiums",
+            "abases",
+            "content",
+            "arial",
+            "aliation",
+            "roying",
+            "ghazi",
+            "Profile"
+        ],
+        "description": "terms related to Muslim immigration and travel regulations"
+    }
+]

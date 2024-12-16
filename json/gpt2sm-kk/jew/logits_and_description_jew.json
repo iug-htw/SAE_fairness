@@ -1,0 +1,182 @@
+[
+    {
+        "index": "15774",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_15774.json",
+        "negative_strings": [
+            "advertisement",
+            " throats",
+            "blocking",
+            " WRITE",
+            "VERTISEMENT",
+            "LOCK",
+            " UID",
+            "ought",
+            " HERE",
+            "votes"
+        ],
+        "positive_strings": [
+            "hyde",
+            "isson",
+            "owitz",
+            " Princ",
+            "Compar",
+            "ilial",
+            " consequential",
+            "\ufffd\ufffd",
+            "ascar",
+            " Elementary"
+        ],
+        "description": "phrases related to societal and political issues concerning American Jews"
+    },
+    {
+        "index": "2036",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_2036.json",
+        "negative_strings": [
+            "Tenn",
+            " Tennessee",
+            " Asheville",
+            " Jenny",
+            "\u30ef\u30f3",
+            " Nashville",
+            " Petersen",
+            " FTC",
+            "aii",
+            " Chaser"
+        ],
+        "positive_strings": [
+            " Arab",
+            " Arabs",
+            "Arab",
+            " Arabic",
+            " Jordanian",
+            " Tunis",
+            " Lebanese",
+            " Emir",
+            " Palestinian",
+            " Israelis"
+        ],
+        "description": "references to conflict and political tensions involving Arabs and Jews"
+    },
+    {
+        "index": "9178",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_9178.json",
+        "negative_strings": [
+            "Commerce",
+            "SHIP",
+            "EStream",
+            "apest",
+            "Launch",
+            " Differences",
+            " Understanding",
+            "DH",
+            " Integration",
+            " genesis"
+        ],
+        "positive_strings": [
+            " onto",
+            " into",
+            "into",
+            " unwanted",
+            "adr",
+            "imize",
+            " invaders",
+            " altogether",
+            "onto",
+            "ients"
+        ],
+        "description": "references to expulsion and displacement of groups, particularly regarding Jews and various political contexts"
+    },
+    {
+        "index": "20197",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_20197.json",
+        "negative_strings": [
+            " prohibition",
+            "uyomi",
+            " deterrence",
+            " Theft",
+            " crackdown",
+            " poisoning",
+            " Enforcement",
+            " Prohibition",
+            " prosecutions",
+            " punitive"
+        ],
+        "positive_strings": [
+            "jen",
+            " ASUS",
+            " Asians",
+            " Scarlett",
+            "estamp",
+            " Protoss",
+            " talented",
+            " AMD",
+            " NVIDIA",
+            " actresses"
+        ],
+        "description": "references to antisemitism and hate speech against Jews"
+    },
+    {
+        "index": "6053",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_6053.json",
+        "negative_strings": [
+            "pmwiki",
+            "WARD",
+            "Interstitial",
+            "ctory",
+            "UTION",
+            "CLASSIFIED",
+            " Fargo",
+            "66666666",
+            "FUL",
+            "effective"
+        ],
+        "positive_strings": [
+            "ellery",
+            "artisan",
+            "geist",
+            "Maker",
+            " arte",
+            "flo",
+            "stra",
+            "ozo",
+            "alo",
+            "bats"
+        ],
+        "description": "mentions of the word \"Jew\" in various contexts"
+    },
+    {
+        "index": "22740",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/jew/data_for_feature_22740.json",
+        "negative_strings": [
+            "inement",
+            "ereo",
+            "velt",
+            "Graph",
+            "gui",
+            "zsche",
+            "oned",
+            "rawl",
+            "quet",
+            "Disney"
+        ],
+        "positive_strings": [
+            " Pesh",
+            " Telegram",
+            "kj",
+            "ija",
+            "nah",
+            " KR",
+            "ss",
+            "\u02c8",
+            " Ruk",
+            " Tir"
+        ],
+        "description": "mentions related to religious groups, particularly Muslims and Jews, their histories, interactions, and societal perceptions"
+    }
+]

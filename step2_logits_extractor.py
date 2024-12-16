@@ -4,7 +4,8 @@ import os
 #todo: erweitern so dass es auch modelReleases iteriert
 #allerdings scheint die JSON struktur nciht immer gleich zu sein (mal gibt es Neuronen, mal nicht) 
 
-modelReleases = ["gemma-scope","gpt2sm-k","llama3-8b-it-res-jh"]
+#modelReleases = ["gemma-scope","gpt2sm-k","llama3-8b-it-res-jh"]
+modelReleases = ["gpt2sm-kk"]
 
 def load_queries(filename):
     if os.path.exists(filename):
@@ -61,7 +62,7 @@ for modelRelease in modelReleases:
         all_output_data = []  # List to collect all output data
         output_filename = 'json/'+modelRelease+'/'+query+'/logits_and_description_'+str(query)+'.json'
         # Read the JSON file
-        filename = f'json/'+modelRelease+'/'+query'+/explanation_for_query_{query}.json'
+        filename = f'json/'+modelRelease+'/'+query+'/explanation_for_query_'+query+'.json'
 
         if not os.path.exists(filename):
             print(f"File {filename} does not exist.")

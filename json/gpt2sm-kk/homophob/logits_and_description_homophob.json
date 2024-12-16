@@ -1,0 +1,32 @@
+[
+    {
+        "index": "17960",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/homophob/data_for_feature_17960.json",
+        "negative_strings": [
+            "Interstitial",
+            "WARD",
+            "SPONSORED",
+            "KEY",
+            "MER",
+            "amina",
+            "pmwiki",
+            "issue",
+            "PT",
+            "upon"
+        ],
+        "positive_strings": [
+            " guiActiveUn",
+            "nesday",
+            "ollah",
+            " citiz",
+            " councill",
+            "\u30a6\u30b9",
+            " offend",
+            " undermin",
+            " lashes",
+            " (\u00a3"
+        ],
+        "description": "references to homophobic and homophobic-related statements"
+    }
+]
