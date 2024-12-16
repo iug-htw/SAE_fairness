@@ -1,9 +1,11 @@
 import requests
 import os
 import json
-#this file should be extended so it can collect data for multiple models instead of only gpt2-small
-#data collected should be saved to a folder named after model name
-#Geht anscheinend nicht, da search by model nur für gpt2-small funktioniert
+# nächster Schritt ist dass die unterschiedliche JSON Struktur der Modelle berücksichtigt wird
+#funktioniert für gpt2smk-kk aber nicht für llama3-8b-it-res-jh 
+#dort gibt es weitere Hierarchieebene für "neurons"
+
+
 releaseNames = ["llama3-8b-it-res-jh"]
     #"gemma-scope","gpt2sm-kk",  
     #"llamma-scope" hat nicht funktioniert
