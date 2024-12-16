@@ -1,6 +1,10 @@
 import json
 import os
 
+#todo: erweitern so dass es auch modelReleases iteriert
+#allerdings scheint die JSON struktur nciht immer gleich zu sein (mal gibt es Neuronen, mal nicht) 
+
+modelReleases = ["gemma-scope","gpt2sm-k","llama3-8b-it-res-jh"]
 
 def load_queries(filename):
     if os.path.exists(filename):
@@ -9,9 +13,9 @@ def load_queries(filename):
     return []
 
 
-def extract_logits(feature,query):
+def extract_logits(feature,query,modelRelease):
     layer, index = feature
-    filename = 'json/'+query+'/data_for_feature_' + str(index) + '.json'
+    filename = 'json/'+modelRelease+'/'+query+'/data_for_feature_' + str(index) + '.json'
     # Load the JSON data from a file
     with open(filename, 'r') as file:
         data = json.load(file)
@@ -51,34 +55,37 @@ def extract_logits(feature,query):
 # Load queries from queries.json
 queries = load_queries(filename='queries.json')
 
-for query in queries:
-    all_output_data = []  # List to collect all output data
-    output_filename = 'json/'+query+'/logits_and_description_'+str(query)+'.json'
-    # Read the JSON file
-    filename = f'json/{query}/explanation_for_query_{query}.json'
-    if not os.path.exists(filename):
-        print(f"File {filename} does not exist.")
+for modelRelease in modelReleases:
 
-    with open(filename, 'r') as json_file:
-        response_data = json.load(json_file)
+    for query in queries:
+        all_output_data = []  # List to collect all output data
+        output_filename = 'json/'+modelRelease+'/'+query+'/logits_and_description_'+str(query)+'.json'
+        # Read the JSON file
+        filename = f'json/'+modelRelease+'/'+query'+/explanation_for_query_{query}.json'
 
-    # Extract the featureId from the response
-    features = []
-    for result in response_data.get('results', []):
-        layer = result.get('layer')
-        index = result.get('index')
-        features.append((layer, index))
+        if not os.path.exists(filename):
+            print(f"File {filename} does not exist.")
 
-    print(features)
-    if features:
-        for feature in features:
-            output_data = extract_logits(feature,query)
-            if output_data:
-                all_output_data.append(output_data)
-            # Save all collected output data to a single JSON file
-    else:
-        print("Feature IDs not found in the response.")
-    
-    with open(output_filename, 'w') as output_file:
-        json.dump(all_output_data, output_file, indent=4)
-    print(f"All output data saved to {output_filename}")    
+        with open(filename, 'r') as json_file:
+            response_data = json.load(json_file)
+
+        # Extract the featureId from the response
+        features = []
+        for result in response_data.get('results', []):
+            layer = result.get('layer')
+            index = result.get('index')
+            features.append((layer, index))
+        print(query)
+        print(features)
+        if features:
+            for feature in features:
+                output_data = extract_logits(feature,query,modelRelease)
+                if output_data:
+                    all_output_data.append(output_data)
+                # Save all collected output data to a single JSON file
+        else:
+            print("Feature IDs not found in the response.")
+        
+        with open(output_filename, 'w') as output_file:
+            json.dump(all_output_data, output_file, indent=4)
+        print(f"All output data saved to {output_filename}")    
