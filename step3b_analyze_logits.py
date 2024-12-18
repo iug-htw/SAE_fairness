@@ -1,4 +1,5 @@
 import json
+import os
 from collections import defaultdict
 
 #This checks for duplicate positive and negative strings in the logit data    
@@ -29,9 +30,18 @@ def find_redundancies(data):
     return redundant_positive, redundant_negative
 
 def main():
-    filename = 'json/christian/logits_and_description_christian.json'
-    data = load_json_file(filename)
-    redundant_positive, redundant_negative = find_redundancies(data)
+    
+    directory = 'json/gemma-scope'
+    all_files = []
+
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.startswith('logits_and_description') and file.endswith('.json'):
+                filepath = os.path.join(root, file)
+                filename = load_json_file(filepath)
+                all_files.extend(filename)
+
+    redundant_positive, redundant_negative = find_redundancies(all_files)
 
     if redundant_positive:
         print("Redundant positive strings found:")
