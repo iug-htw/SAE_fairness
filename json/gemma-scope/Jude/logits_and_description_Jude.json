@@ -1,30 +1,224 @@
-{
-    "index": "91507",
-    "layer": "32-gemmascope-mlp-131k",
-    "url": "json/gemma-scope/Jude/data_for_feature_91507.json",
-    "negative_strings": [
-        "ScopeManager",
-        "Gucci",
-        "\u2581protoimpl",
-        "Lexus",
-        "skjaer",
-        "(\"\")]",
-        "Picasso",
-        "TagHelper",
-        "IntoConstraints",
-        "\u2581StyleSheet"
-    ],
-    "positive_strings": [
-        "Sabes",
-        "GEBURTSDATUM",
-        "\ucc38\uace0",
-        "\u2581Wind",
-        "owiec",
-        "\u2581apellidos",
-        "illerato",
-        "Wind",
-        "Jud",
-        "\u2581pierdas"
-    ],
-    "description": " names and references related to the name \"Jude\" or its variations"
-}
+[
+    {
+        "index": "126300",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_126300.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names, often feminine or unisex given names (e.g., Judy, Judi, Jodi, Judith, Jude), and occasionally surnames, typically appearing as complete proper nouns."
+    },
+    {
+        "index": "119205",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_119205.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"Jud\" or its extended forms often refer to names or concepts with Judeo-Christian roots, like \"Judaea\", \"Judeo-Christian\", \"Judith\", \"Judas\", or \"Jude\", and sometimes appear as part of proper nouns, surnames, or in references to biblical contexts."
+    },
+    {
+        "index": "56450",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_56450.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names or words related to judgment, justice, or individuals with names such as Jud, Jude, Judy, or Judah."
+    },
+    {
+        "index": "19407",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_19407.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to books of the Bible, specifically the names of the Gospels (Matthew, Mark, Luke, John) and other books (Leviticus, Judges, Acts, Ephesians, Galatians, Jude)."
+    },
+    {
+        "index": "87302",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_87302.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of people, particularly those with variations of the name \"Jude\" or \"Judith\", and occasionally other proper nouns or words related to Jewish culture and heritage."
+    },
+    {
+        "index": "29164",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_29164.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, often surnames, names of people (e.g. Judah, Jude, Judy, Judd, Judi) or jurisdictions (e.g. Judaea), and words related to the legal system (e.g. Judiciary, Judging, Judaism, Judeo)."
+    },
+    {
+        "index": "10629",
+        "layer": "32-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_10629.json",
+        "negative_strings": [
+            "interopRequire",
+            "\u1ee1ng",
+            "expandindo",
+            "\u2581utafitiHapana",
+            "NTIS",
+            "numerusform",
+            "\u2581awaited",
+            "\u2581j\u0101",
+            "iNdEx",
+            "resizingMask"
+        ],
+        "positive_strings": [
+            "\u2581chapter",
+            "Chapter",
+            "\u2581Chapter",
+            "\u2581chapitre",
+            "chapter",
+            "\u2581chapters",
+            "\u2581capitolo",
+            "\u2581Chapters",
+            "\u2581Kapitel",
+            "\u2581cap\u00edtulo"
+        ],
+        "description": "References to biblical texts, including book names, chapters, and verses, are often preceded by or include abbreviations such as \"Matt\", \"Isa\", \"Lev\", \"Rom\", and \"Jude\", and may be accompanied by or followed by a colon and verse number."
+    },
+    {
+        "index": "38883",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_38883.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Text often contains biblical or scripture-like references, marked by the presence of book names (e.g. 2Pet, Jude, 1 Timothy), chapter and verse numbers (e.g. 5:17-18, 1:5), and quotes from scripture."
+    },
+    {
+        "index": "76461",
+        "layer": "8-gemmascope-res-131k",
+        "url": "json/gemma-scope/Jude/data_for_feature_76461.json",
+        "negative_strings": [
+            "\u2581chimie",
+            "Carriera",
+            "\u2581McMillan",
+            "\u2581r\u00e9giment",
+            "\u2581Velasco",
+            "\u2581Eriksson",
+            "\u2581c\u00e9ramique",
+            "\u2581c\u00e9rami",
+            "\u2581Vlas",
+            "\u2581fourrure"
+        ],
+        "positive_strings": [
+            "\u2581Jude",
+            "Jude",
+            "\u2581jude",
+            "jude",
+            "\u2581Jud",
+            "\u2581JUD",
+            "Jud",
+            "UDE",
+            "\u2581Judea",
+            "\u2581jud"
+        ],
+        "description": "references to the medical company 'Jude Medical'"
+    },
+    {
+        "index": "58337",
+        "layer": "11-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_58337.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names, nouns, and words referring to Jewish culture, people, and places, often including the names \"Judah\", \"Judaism\", \"Jude\", and other variations."
+    },
+    {
+        "index": "34474",
+        "layer": "4-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Jude/data_for_feature_34474.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Abbreviated month names, specifically \"Jul\" for July, often denoting a date, and occasionally proper nouns including \"Jude\", \"Judi\", \"Juan\", \"Ju\", \"Jug\", and \"Jur\", \"Jou\"."
+    },
+    {
+        "index": "974154",
+        "layer": "12-gemmascope-res-1m",
+        "url": "json/gemma-scope/Jude/data_for_feature_974154.json",
+        "negative_strings": [
+            "<eos>",
+            "l",
+            "n",
+            "Bibliograf\u00eda",
+            "\u0645",
+            "\u0440",
+            "\u529b",
+            "cha",
+            "x",
+            "ppt"
+        ],
+        "positive_strings": [
+            "\u2581Jude",
+            "Jude",
+            "\u2581Judea",
+            "\u2581jude",
+            "ocino",
+            "jude",
+            "mobileqq",
+            "\u2581Judd",
+            "]};",
+            "]\")]"
+        ],
+        "description": " references to \"Jude\""
+    },
+    {
+        "index": "57092",
+        "layer": "2-gemmascope-res-65k",
+        "url": "json/gemma-scope/Jude/data_for_feature_57092.json",
+        "negative_strings": [
+            "\u2581pellic",
+            "addOn",
+            "\u2581Kayla",
+            "\u2581Kirkpatrick",
+            "\u2581Schultz",
+            "\u2581scales",
+            "\u2581Cowper",
+            "\u2581Cerr",
+            "\u2581Bullock",
+            "\u2581Monta"
+        ],
+        "positive_strings": [
+            "\u2581Jude",
+            "Jude",
+            "\u2581jude",
+            "jude",
+            "\u2581Jud",
+            "\u2581Judea",
+            "Jud",
+            "\u2581JUD",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581Rave"
+        ],
+        "description": "references to specific people or characters, particularly those named \"Jude\" and \"Heb.\""
+    },
+    {
+        "index": "91507",
+        "layer": "32-gemmascope-mlp-131k",
+        "url": "json/gemma-scope/Jude/data_for_feature_91507.json",
+        "negative_strings": [
+            "ScopeManager",
+            "Gucci",
+            "\u2581protoimpl",
+            "Lexus",
+            "skjaer",
+            "(\"\")]",
+            "Picasso",
+            "TagHelper",
+            "IntoConstraints",
+            "\u2581StyleSheet"
+        ],
+        "positive_strings": [
+            "Sabes",
+            "GEBURTSDATUM",
+            "\ucc38\uace0",
+            "\u2581Wind",
+            "owiec",
+            "\u2581apellidos",
+            "illerato",
+            "Wind",
+            "Jud",
+            "\u2581pierdas"
+        ],
+        "description": " names and references related to the name \"Jude\" or its variations"
+    }
+]

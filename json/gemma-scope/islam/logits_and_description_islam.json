@@ -1,0 +1,382 @@
+[
+    {
+        "index": "7550",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_7550.json",
+        "negative_strings": [
+            "MessageOf",
+            "indd",
+            "\u2581pure",
+            "\u4e0b",
+            "\u064a\u0645\u064a\u062f\u064a\u0627",
+            "VIAF",
+            "\u61b6",
+            "\u2581SwiftUI",
+            "ViewById",
+            "\u2581spare"
+        ],
+        "positive_strings": [
+            "batross",
+            "liances",
+            "berts",
+            "catel",
+            "bertson",
+            "catraz",
+            "erted",
+            "cantara",
+            "ligators",
+            "monds"
+        ],
+        "description": "The prefix \"Al\" in proper nouns, often denoting a person's name or a place, typically of Middle Eastern or Islamic origin."
+    },
+    {
+        "index": "6062",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_6062.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words or word fragments with the \"sla\" sound, often related to violence, confinement, or splitting, and sometimes referring to Islam or names of people and places."
+    },
+    {
+        "index": "2996",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_2996.json",
+        "negative_strings": [
+            "\u2581referrerpolicy",
+            "\u2581disambiguazione",
+            "\u2581Halb",
+            "SourceChecksum",
+            "\u2581Mig",
+            "anguages",
+            "\u24e7",
+            "\u2581Guardia",
+            "\u2581resourceCulture",
+            "tfrac"
+        ],
+        "positive_strings": [
+            "\u2581mus",
+            "\u2581Mus",
+            "\u2581MUS",
+            "\u2581initComponents",
+            "Mus",
+            "RectangleBorder",
+            "saurus",
+            "mus",
+            "cled",
+            "LIM"
+        ],
+        "description": "The majority of the words contain a \"mus\" sound, often found in words that refer to something with mass, Islamic-related terms, or words related to physical strength and growth."
+    },
+    {
+        "index": "26321",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_26321.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The presence of \"Saf\" or similar prefix in various words, often denoting safety, Islamic terms, or proper nouns."
+    },
+    {
+        "index": "25654",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_25654.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"Shi\" often appears as part of a proper noun, particularly in names of individuals, often of Asian or Middle Eastern origin, and in words related to Islam, such as \"Shiite\"."
+    },
+    {
+        "index": "94024",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_94024.json",
+        "negative_strings": [
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581pulumi",
+            "setViewportView",
+            "\u2581ujednoznacz",
+            "\u2581AssemblyTitle",
+            "NameInMap",
+            "\u2581kaarangay",
+            "HideFlags",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581typelib"
+        ],
+        "positive_strings": [
+            "ite",
+            "ites",
+            "vite",
+            "\u2581ite",
+            "\u2581Isma",
+            "\u51fa\u7248\u5e74",
+            "\u00eete",
+            "ITE",
+            "\u2581Muslim",
+            "ism"
+        ],
+        "description": " terms related to Shiite Islam and its sects"
+    },
+    {
+        "index": "73689",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_73689.json",
+        "negative_strings": [
+            "Hentet",
+            "\u2581Lightboxes",
+            "elemField",
+            "writeFieldEnd",
+            "SBATCH",
+            "\u2581noDo",
+            "-------------</",
+            "\u2581stanga",
+            "verwijspagina",
+            "Aholisi"
+        ],
+        "positive_strings": [
+            "\u2581Abi",
+            "\u2581Haz",
+            "\u2581Bat",
+            "\u2581StatelessWidget",
+            "\u2581battu",
+            "\u2581Kat",
+            "Haz",
+            "\u2581abi",
+            "\u2581Hald",
+            "\u2581BATT"
+        ],
+        "description": "references to notable historical Islamic figures"
+    },
+    {
+        "index": "23889",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_23889.json",
+        "negative_strings": [
+            "balleur",
+            "jgl",
+            "Predecesor",
+            "\u2581Stearns",
+            "oarece",
+            "BOURNE",
+            "WriteBarrier",
+            "\u2581Whelan",
+            "\u2581CGRectMake",
+            "\u0440\u0435\u043d\u043d\u044f"
+        ],
+        "positive_strings": [
+            "\u2581Surat",
+            "\u2581Maryam",
+            "\u2581Yusuf",
+            "Surat",
+            "\u2581surat",
+            "\u2581chapter",
+            "\u2581Yunus",
+            "\u2581verse",
+            "\u2581Chapter",
+            "\u2581Hud"
+        ],
+        "description": " references to religious texts and citations within Islamic context"
+    },
+    {
+        "index": "74079",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_74079.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names with Arabic honorifics or prefixes, often found in proper nouns, especially those of Middle Eastern or Islamic origin."
+    },
+    {
+        "index": "4388",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_4388.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Prefixes or partial words of proper nouns, often referring to religious groups or geographical locations, particularly those related to Islam, the Middle East, and South Asia."
+    },
+    {
+        "index": "60619",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_60619.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Arabic words or phrases, especially those related to Islam, terrorism, and Middle Eastern politics, sometimes with misspellings or variations."
+    },
+    {
+        "index": "76495",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_76495.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variant spellings of common words, binomial names, and proper nouns, often of Arabic or Islamic origin, such as names of notable individuals, or surnames."
+    },
+    {
+        "index": "6405",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_6405.json",
+        "negative_strings": [
+            "tonode",
+            "\u2581oprot",
+            "RTLR",
+            "CPtr",
+            "RegressionTest",
+            "Personendaten",
+            "BagConstraints",
+            "\u2581PopupWindow",
+            "\u2581CreateTagHelper",
+            "richTextPanel"
+        ],
+        "positive_strings": [
+            "maj",
+            "Maj",
+            "Mut",
+            "Muta",
+            "Q",
+            "hak",
+            "Hindi",
+            "Har",
+            "Raw",
+            "Mas"
+        ],
+        "description": "Names of people, places, and organizations, often with a prefix or suffix, typically indicating Arabic, Islamic, or Middle Eastern origin, such as \"Al-\", \"El-\", or \"Abu-\"."
+    },
+    {
+        "index": "89564",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_89564.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific expressions in text, particularly in Islamic and religious contexts, often involving phrases or words that show respect or reverence, such as \"(PBUH)\", \"(saas)\", or \"(peace be upon him)\"."
+    },
+    {
+        "index": "491",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_491.json",
+        "negative_strings": [
+            "\u2581peindre",
+            "\u2581swedish",
+            "\u2581kerst",
+            "Kentucky",
+            "Indiana",
+            "\u2581hickory",
+            "\u2581Indiana",
+            "Pea",
+            "\u2581Hickory",
+            "\u2581indian"
+        ],
+        "positive_strings": [
+            "\u2581Allah",
+            "\u2581Qur",
+            "\u2581Shay",
+            "\u2581Muslims",
+            "\u2581Ibn",
+            "Allah",
+            "\u2581Prophet",
+            "\u2581Imam",
+            "\u2581Quran",
+            "\u02f9"
+        ],
+        "description": "English text passages with a variety of sentence structures and vocabulary, often with a focus on Middle Eastern culture and Islam, and including quotes, citations, and examples of formal and informal writing styles."
+    },
+    {
+        "index": "121596",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_121596.json",
+        "negative_strings": [
+            "RenderAtEndOf",
+            "eddable",
+            "chromatic",
+            "\u2581rentr\u00e9e",
+            "\u2581esportivo",
+            "\u2581<<<<<<<<<<<<<<",
+            "principalColumn",
+            "\u2581proje",
+            "\u2581esfuerzan",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581peace",
+            "peace",
+            "\u2581Peace",
+            "Peace",
+            "\u2581SAW",
+            "\u2581PEACE",
+            "PEACE",
+            "\u2581blessings",
+            "\u2581\u0639\u0644\u064a\u0647",
+            "SAW"
+        ],
+        "description": " references to religious figures and concepts in Islam, particularly focusing on the Prophet Muhammad and the teachings of Allah"
+    },
+    {
+        "index": "72643",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_72643.json",
+        "negative_strings": [
+            "elemField",
+            "\u2581noDo",
+            "\u2581Italijanski",
+            "SBATCH",
+            "verwijspagina",
+            "\u2581moeite",
+            "Aholisi",
+            "\u2581Winaray",
+            "\u0435\u043d\u0447\u0430",
+            "aimer"
+        ],
+        "positive_strings": [
+            "\u2581Abi",
+            "\u2581abi",
+            "\u2581StatelessWidget",
+            "\u2581Kat",
+            "\u2581AssemblyTitle",
+            "\u2581battu",
+            "\u2581Bat",
+            "\u2581Kath",
+            "\u2581Rush",
+            "\u2581Haz"
+        ],
+        "description": " references to notable historical figures, specifically those associated with Islamic history"
+    },
+    {
+        "index": "57770",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/islam/data_for_feature_57770.json",
+        "negative_strings": [
+            "\u2581AssemblyTitle",
+            "setViewportView",
+            "\u2581<<<<<<<<<<<<<<",
+            "migrationBuilder",
+            "\u2581ErrInvalid",
+            "\u2581HFILL",
+            "\u2581pulumi",
+            "MemoryWarning",
+            "HideFlags",
+            "\u2581\u00e9tan"
+        ],
+        "positive_strings": [
+            "ite",
+            "ites",
+            "vite",
+            "ITE",
+            "\u2581ite",
+            "\u2581alia",
+            "\u2581Muslim",
+            "ITES",
+            "\u2581Muslims",
+            "ism"
+        ],
+        "description": "references to Shia Islam and its related factions or groups"
+    },
+    {
+        "index": "30609",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_30609.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A descriptive term of a religion or a religious group (mainly \"Islamic\", but also \"Buddhist\", \"Christian\", \"Torah\", \"Muslim\", \"Hellenic\", \"Coptic\", \"Jihad\", \"Sharia\", or \"Islamist\") is used as an adjective to describe a noun or an institution."
+    },
+    {
+        "index": "52190",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/islam/data_for_feature_52190.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"Islamic\" appears to be a key concept, often preceding phrases or words that describe aspects of the Islamic faith, including nations, unity, or financial systems."
+    }
+]

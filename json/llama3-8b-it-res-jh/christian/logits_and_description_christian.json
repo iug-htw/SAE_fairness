@@ -1,0 +1,92 @@
+[
+    {
+        "index": "42443",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/christian/data_for_feature_42443.json",
+        "negative_strings": [
+            "ervoir",
+            "china",
+            "elon",
+            "inspace",
+            "IES",
+            "ATIVE",
+            "athing",
+            "Traversal",
+            "cura",
+            "ULAR"
+        ],
+        "positive_strings": [
+            "ity",
+            " Bale",
+            "ized",
+            "izing",
+            "loub",
+            " Scientists",
+            " Broadcasting",
+            "ize",
+            " Scientist",
+            " Ende"
+        ],
+        "description": " references to Christianity and Christian themes"
+    },
+    {
+        "index": "28843",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/christian/data_for_feature_28843.json",
+        "negative_strings": [
+            "lect",
+            "sap",
+            "ods",
+            "jah",
+            "ilia",
+            "ths",
+            " Sans",
+            "theless",
+            "peria",
+            "\u00e6\u0125\u0133"
+        ],
+        "positive_strings": [
+            " Jesus",
+            "adel",
+            " cruc",
+            " himself",
+            "Jesus",
+            " whom",
+            " Himself",
+            "\u00e3\u0123\u0137\u00e3\u0123\u00be",
+            " alone",
+            ".scalablytyped"
+        ],
+        "description": "references to religious concepts and figures, particularly associated with Christianity"
+    },
+    {
+        "index": "63665",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/christian/data_for_feature_63665.json",
+        "negative_strings": [
+            "lags",
+            " Widget",
+            ".ibm",
+            "cak",
+            " Odin",
+            " Aaron",
+            "MASK",
+            " Brah",
+            "udic",
+            "imens"
+        ],
+        "positive_strings": [
+            "NT",
+            " Luke",
+            " NT",
+            "Luke",
+            "Mark",
+            " Klopp",
+            " Jesus",
+            " Mark",
+            "Jesus",
+            " Gospel"
+        ],
+        "description": " references to Gnostic texts and early Christian writings"
+    }
+]

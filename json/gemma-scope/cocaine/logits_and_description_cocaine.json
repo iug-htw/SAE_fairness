@@ -1,0 +1,316 @@
+[
+    {
+        "index": "21766",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_21766.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to cocaine, Coke, and related words, often in contexts of drug use, addiction, or company names."
+    },
+    {
+        "index": "14411",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_14411.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Prevalence of words related to substance use, such as \"drugs\", \"methamphetamine\", \"cocaine\", and \"alcohol\", alongside words describing their usage, possession, or effects."
+    },
+    {
+        "index": "63293",
+        "layer": "35-gemmascope-res-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_63293.json",
+        "negative_strings": [
+            "LookAnd",
+            "c\u00e8se",
+            "\u2581CanadaChoose",
+            "\u2581mergeFrom",
+            "RTLU",
+            "IsMutable",
+            "\u2581Chwiliwch",
+            "XmlAccessType",
+            "TagNumber",
+            "ecap"
+        ],
+        "positive_strings": [
+            "\u2581Cola",
+            "\u2581Coca",
+            "Cola",
+            "\u2581coca",
+            "\u2581cola",
+            "Coca",
+            "\u2581Coke",
+            "\u2581bott",
+            "coca",
+            "\u2581Kola"
+        ],
+        "description": "terms related to cocaine and specific soda brands"
+    },
+    {
+        "index": "47333",
+        "layer": "37-gemmascope-res-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_47333.json",
+        "negative_strings": [
+            "\u2581Normdatei",
+            "\u2581boire",
+            "\u0421\u044b\u043b\u0442\u0430\u043c\u0430\u043b\u0430\u0440",
+            "\u2581Drinking",
+            "\u559d\u9152",
+            "Drinking",
+            "\u2581voluntarios",
+            "\u2581appelez",
+            "\u616b",
+            "\u2581overuse"
+        ],
+        "positive_strings": [
+            "\u2581kilos",
+            "\u2581uncut",
+            "\u2581purity",
+            "\u2581packages",
+            "CodedInputStream",
+            "\u2581bags",
+            "\u2581rocks",
+            "\u2581doInBackground",
+            "\u2581powder",
+            "IsMutable"
+        ],
+        "description": "terms related to drug transactions, particularly cocaine and marijuana"
+    },
+    {
+        "index": "50426",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_50426.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns and adjectives describing substances, often in the context of laws, regulations, and crime, specifically referencing illicit or controlled substances, such as marijuana, cocaine, and prescription medications."
+    },
+    {
+        "index": "90158",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_90158.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to cannabis, including its legalization, medical use, and cultural associations, as well as mentions of other substances such as cocaine, methamphetamine, and psychedelic drugs."
+    },
+    {
+        "index": "16168",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_16168.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, chemical names, and names of substances, particularly related to addictive or controlled substances like marijuana, cocaine, heroin, and opioids, or hazardous materials like asbestos and uranium, and also names of people like Mariano Rivera and places like Marietta."
+    },
+    {
+        "index": "91277",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_91277.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of controlled substances, such as marijuana, cocaine, heroin, and opium, are the main highlighted tokens."
+    },
+    {
+        "index": "120156",
+        "layer": "32-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_120156.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words related to substance abuse, such as alcohol, tobacco, drug, and specific substances like cocaine and marijuana, often appear as standalone nouns or in phrases that discuss their use, misuse, or consequences."
+    },
+    {
+        "index": "66615",
+        "layer": "31-gemmascope-res-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_66615.json",
+        "negative_strings": [
+            "adaptiveStyles",
+            "\u017byciorys",
+            "TagMode",
+            "irited",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "\u2581suun",
+            "\u2581CanadaChoose",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "\u2581CreateTagHelper",
+            "\u2581Signalez"
+        ],
+        "positive_strings": [
+            "\u2581Coca",
+            "\u2581Coke",
+            "\u2581coca",
+            "Coke",
+            "Coca",
+            "\u2581Cola",
+            "Cola",
+            "\u2581coke",
+            "coca",
+            "\u2581bottles"
+        ],
+        "description": "brand names and references to cocaine and related products"
+    },
+    {
+        "index": "15201",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_15201.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A collection of various news articles and texts, often referencing illicit substances and crime, where specific keywords like \"drug\", \"marijuana\", \"cocaine\", \"smuggling\", and \"money laundering\" are emphasized, and also mentioning geographic locations such as Mexico, India, and the US."
+    },
+    {
+        "index": "52323",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_52323.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "\"co\" often stands for \"company\" while \"Co\" is often an abbreviation for company names, but also other words, such as cocaine or covalently or coconut, and it is often used in chemical formulas and names, such as CO2."
+    },
+    {
+        "index": "26921",
+        "layer": "31-gemmascope-res-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_26921.json",
+        "negative_strings": [
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581nahilalakip",
+            "gebraucht",
+            "enterOuterAlt",
+            "metheus",
+            "clusal",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "WithIOException",
+            "\u2581\u010dlanak",
+            "GEBURTSDATUM"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581Cocaine",
+            "\u2581hydrochloride",
+            "\u2581coca\u00edna",
+            "\u2581addiction",
+            "+#+",
+            "\u2581poffe",
+            "\u2581addict",
+            "\u2581Olympedia",
+            "\u2581addicts"
+        ],
+        "description": "references to cocaine and its various contexts in discussions of drug-related crimes"
+    },
+    {
+        "index": "41283",
+        "layer": "11-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_41283.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to cocaine, coca, coke, or their related derivatives, mostly in contexts of substance use or abuse."
+    },
+    {
+        "index": "31740",
+        "layer": "14-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_31740.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to cocaine and related substances, or words that contain \"coke\" or \"cain\" unrelated to substances, and occasionally other substances and their use."
+    },
+    {
+        "index": "92572",
+        "layer": "15-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_92572.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to substance abuse, particularly cocaine and crack, as well as other recreational substances, and their association with addiction, crime, or health issues."
+    },
+    {
+        "index": "54428",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_54428.json",
+        "negative_strings": [
+            "\u2581overall",
+            "\u2581periods",
+            "\u00fcnster",
+            "SequentialGroup",
+            "\u2581zp\u016f",
+            "\u2581sp\u00f4",
+            "\u2581generally",
+            "\u2581epidemics",
+            "\u2581processes",
+            "\u2581attitudes"
+        ],
+        "positive_strings": [
+            "\u2581stuff",
+            "\u2581thing",
+            "\u2581offending",
+            "\u2581thingy",
+            "\u2581darn",
+            "\u2581damn",
+            "\u2581goods",
+            "adaptiveStyles",
+            "\u2581money",
+            "\u2581item"
+        ],
+        "description": "references to the act of collecting or delivering substances, particularly cocaine"
+    },
+    {
+        "index": "20170",
+        "layer": "18-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/cocaine/data_for_feature_20170.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns referring to well-known brands, particularly those in the beverage industry, or references to the controlled substance 'cocaine'."
+    },
+    {
+        "index": "26926",
+        "layer": "33-gemmascope-mlp-131k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_26926.json",
+        "negative_strings": [
+            "\u2581resourceCulture",
+            "featureID",
+            "\u0004",
+            "SharedCtor",
+            "cold",
+            "KeySpec",
+            "COLD",
+            "\u2581cold",
+            "\u2581cuenca",
+            "\u2581Springer"
+        ],
+        "positive_strings": [
+            "V\u00e4lislingid",
+            "omalies",
+            "\u2581simplifi\u00e9",
+            "\u2581jo\u00e3o",
+            "\u2581courir",
+            "Distribuzione",
+            "hyrchwyd",
+            "RegressionTest",
+            "izophren",
+            "Usted"
+        ],
+        "description": "references to brands of soda and cocaine"
+    },
+    {
+        "index": "10140",
+        "layer": "9-gemmascope-res-16k",
+        "url": "json/gemma-scope/cocaine/data_for_feature_10140.json",
+        "negative_strings": [
+            "\u5150\u5cf6",
+            "sheep",
+            "\u2581la\u017f\u017fen",
+            "reactstrap",
+            "transQ",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "bonucle",
+            "\u2581\u017fich",
+            "\u2581m\u00f6ge",
+            "\u307c\u3046"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581drug",
+            "\u2581coca\u00edna",
+            "\u2581Drug",
+            "\u2581heroin",
+            "\u2581Cocaine",
+            "Drug",
+            "\u2581narkoba",
+            "\u2581DRUG",
+            "drug"
+        ],
+        "description": "references to illegal drugs, particularly cocaine and related activities"
+    }
+]

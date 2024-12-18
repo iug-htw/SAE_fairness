@@ -1,11 +1,7 @@
 import json
 import os
 
-#todo: erweitern so dass es auch modelReleases iteriert
-#allerdings scheint die JSON struktur nciht immer gleich zu sein (mal gibt es Neuronen, mal nicht) 
-
-#modelReleases = ["gemma-scope","gpt2sm-k","llama3-8b-it-res-jh"]
-modelReleases = ["gpt2sm-kk"]
+modelReleases = ["gemma-scope","gpt2sm-kk","llama3-8b-it-res-jh"]
 
 def load_queries(filename):
     if os.path.exists(filename):
@@ -18,38 +14,41 @@ def extract_logits(feature,query,modelRelease):
     layer, index = feature
     filename = 'json/'+modelRelease+'/'+query+'/data_for_feature_' + str(index) + '.json'
     # Load the JSON data from a file
-    with open(filename, 'r') as file:
-        data = json.load(file)
-
-    # Extract the neg_str and pos_str values
-    neg_str = data.get('neg_str', [])
-    pos_str = data.get('pos_str', [])
-
-    # Extract the layer and description from the explanations
-    explanations = data.get('explanations', [])
-    if explanations:
-        layer = explanations[0].get('layer')
-        description = explanations[0].get('description')
+    if not os.path.exists(filename):
+        print(f"File {filename} does not exist. Skipping...")
     else:
-        print("No explanations found.")
-    
-    # Structure the output data
-    output_data = {
-        "index": index,
-        "layer": layer,
-        "url": filename,
-        "negative_strings": neg_str,
-        "positive_strings": pos_str,
-        "description": description
-    }
-    
-    # Save the output data to a JSON file
-    output_filename2 = f'json/output_{os.path.basename(filename)}'
-    with open(output_filename, 'w') as output_file:
-        json.dump(output_data, output_file, indent=4)
+        with open(filename, 'r') as file:
+            data = json.load(file)
 
-    print(f"Output saved to {output_filename}")
-    return output_data
+        # Extract the neg_str and pos_str values
+        neg_str = data.get('neg_str', [])
+        pos_str = data.get('pos_str', [])
+
+        # Extract the layer and description from the explanations
+        explanations = data.get('explanations', [])
+        if explanations:
+            layer = explanations[0].get('layer')
+            description = explanations[0].get('description')
+        else:
+            print("No explanations found.")
+        
+        # Structure the output data
+        output_data = {
+            "index": index,
+            "layer": layer,
+            "url": filename,
+            "negative_strings": neg_str,
+            "positive_strings": pos_str,
+            "description": description
+        }
+        
+        # Save the output data to a JSON file
+        output_filename2 = f'json/output_{os.path.basename(filename)}'
+        with open(output_filename, 'w') as output_file:
+            json.dump(output_data, output_file, indent=4)
+
+        print(f"Output saved to {output_filename}")
+        return output_data
 
 # Main execution
 

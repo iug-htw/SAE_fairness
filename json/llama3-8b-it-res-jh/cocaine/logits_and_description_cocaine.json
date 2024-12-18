@@ -1,0 +1,92 @@
+[
+    {
+        "index": "35529",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/cocaine/data_for_feature_35529.json",
+        "negative_strings": [
+            "asm",
+            "...\n",
+            "angl",
+            "the",
+            "I",
+            "iosa",
+            "aka",
+            "uben",
+            "oproject",
+            "anik"
+        ],
+        "positive_strings": [
+            " shall",
+            " however",
+            " indeed",
+            " according",
+            "shall",
+            " relative",
+            " arg",
+            " quite",
+            " therefore",
+            " strictly"
+        ],
+        "description": " instances of the word \"cocaine\" and related discussions about its effects and usage"
+    },
+    {
+        "index": "22120",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/cocaine/data_for_feature_22120.json",
+        "negative_strings": [
+            "i",
+            "s",
+            "uros",
+            "antee",
+            "ived",
+            "on",
+            "onda",
+            "i\u00c5\u0141",
+            "hare",
+            "\u00cf\u0124"
+        ],
+        "positive_strings": [
+            "cy",
+            "chio",
+            "curring",
+            "chi",
+            "uments",
+            "si",
+            "edo",
+            "Insets",
+            "cor",
+            "ci"
+        ],
+        "description": " mentions of cocaine and its derivatives"
+    },
+    {
+        "index": "22375",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/cocaine/data_for_feature_22375.json",
+        "negative_strings": [
+            " drunken",
+            "\u00db\u012e\u00d8\u00b4",
+            " drunk",
+            "adn\u00c3\u0143",
+            " copyrighted",
+            "kening",
+            " drinking",
+            " adj",
+            "Iss",
+            "zia"
+        ],
+        "positive_strings": [
+            " meth",
+            " dealer",
+            "amphetamine",
+            "meth",
+            " dealers",
+            " grams",
+            " \u00d0\u00b7\u00d0\u00b0\u00d0\u00ba\u00d0\u00bb\u00d0\u00b0\u00d0\u00b4",
+            "dealer",
+            " Dealer",
+            " heroin"
+        ],
+        "description": "references to the cost and effects of drugs, specifically cocaine and steroids"
+    }
+]
