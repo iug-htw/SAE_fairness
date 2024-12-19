@@ -4,6 +4,8 @@ import os
 from collections import defaultdict, Counter
 #this is supposed to check for duplicates in logit strings
 
+#todo: funktioniert aber manche werden mehrfach gefunden -warum? 
+#todo: negative strings auch checken
 
 def load_json_file(filename):
     with open(filename, 'r') as file:
@@ -82,13 +84,13 @@ def retrieve_and_save_duplicates(duplicates_file, collected_data, output_file):
         if count > 1:
             duplicates_info[key] = []
             for entry in collected_strings:
-                print(f"Checking entry: {entry}")  # Debug print
-                #if key in entry.get("string", ""):
-                #    print(f"Match found for key: {key}")  # Debug print
-                #    duplicates_info[key].append({
-                #       "query": entry.get("query"),
-                #        "index": entry.get("index")
-                #    })
+                #print(f"Checking entry: {entry}")  # Debug print
+                if key in entry.get("string", ""):
+                    #print(f"Match found for key: {key}")  # Debug print
+                    duplicates_info[key].append({
+                       "query": entry.get("query"),
+                       "index": entry.get("index")
+                    })
     
     with open(output_file, 'w') as of:
         json.dump(duplicates_info, of, indent=4)
@@ -108,7 +110,8 @@ def main(directory):
     #def analyze_duplicates(input, output_file)
     count_duplicates(collected_data, directory)
     #für diese doppelten strings die query und index finden
-    #retrieve_and_save_duplicates(directory+'duplicates_count.json', collected_data, directory+'duplicates_info.json')   
+    #def retrieve_and_save_duplicates(duplicates_count_file, collected_data, output_file):
+    retrieve_and_save_duplicates(directory+'/duplicates_count.json', collected_data, directory+'/duplicates_info.json')   
 
 if __name__ == "__main__":
     import sys
