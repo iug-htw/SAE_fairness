@@ -3,6 +3,8 @@ import re
 import json
 from collections import defaultdict
 
+# this checks for duplicates in the feature numbers
+
 def find_feature_numbers(directory):
     feature_pattern = re.compile(r'data_for_feature_(\d+)\.json')
     feature_files = defaultdict(list)
