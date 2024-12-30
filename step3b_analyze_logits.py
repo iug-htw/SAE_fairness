@@ -5,7 +5,7 @@ from collections import defaultdict, Counter
 #this is supposed to check for duplicates in logit strings
 
 #todo: funktioniert aber manche werden mehrfach gefunden -warum? 
-#todo: negative strings auch checken
+
 
 def load_json_file(filename):
     with open(filename, 'r') as file:

@@ -6,31 +6,16 @@ import json
 #dort gibt es weitere Hierarchieebene für "neurons"
 
 
-releaseNames = ["llama3-8b-it-res-jh","gemma-scope","gpt2sm-kk"]
+releaseNames = ["gpt2sm-kk"]
+    #"llama3-8b-it-res-jh","gemma-scope","gpt2sm-kk"]
     #           ,  
     #"llamma-scope" hat nicht funktioniert
 api_key = os.getenv("NEURONPEDIA_KEY")
 
 #prior queries not included anymore: see queries.json
 queries = [
-    "male",
-    "female",
-    "boy",
-    "girl",
-    "men",
-    "woman",
-    "grandpa",
-    "grandma",
     "doctor",
-    "nurse",
-    "teacher",
-    "boss",
-    "Mädchen",
-    "Junge",
-    "Frau",
-    "Mann",
-    "Opa",
-    "Oma",
+    
     ] # Query to search for
 
 headers = {
@@ -102,8 +87,7 @@ for releaseName in releaseNames:
     modelID = releaseName
     for query in queries:
         features = search_latent_features_by_model(query,modelID)  # Search explanations by model
-        print(features)
-        output_filename = 'json/'+modelID+'/'+query+'/all_output_data_'+str(query)+'.json'
+        print(features) #die Features werden hier das 2. mal ausgegeben
         if features:
             for feature in features:
                 search_explanations_by_feature(feature,query)

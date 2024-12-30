@@ -3,6 +3,8 @@ import re
 import json
 from collections import defaultdict
 
+modelReleases = ["gemma-scope","gpt2sm-kk","llama3-8b-it-res-jh"]
+
 # this checks for duplicates in the feature numbers
 
 def find_feature_numbers(directory):
@@ -23,25 +25,26 @@ def check_for_duplicates(feature_files):
     return duplicates
 
 def main():
-    directory = 'json'
-    feature_files = find_feature_numbers(directory)
-    duplicates = check_for_duplicates(feature_files)
-    output = {} # Output dictionary to write to JSON file
+    for modelRelease in modelReleases:
+        directory = 'json/' + modelRelease
+        feature_files = find_feature_numbers(directory)
+        duplicates = check_for_duplicates(feature_files)
+        output = {} # Output dictionary to write to JSON file
 
-    if duplicates:
-        output["message"] = "Duplicate feature numbers found:"
-        output["duplicates"] = {}
-        for feature_number, files in duplicates.items():
-            output["duplicates"][feature_number] = files
-            print(f"Feature number {feature_number} found in files:")
-            for file in files:
-                print(f"  - {file}")
-    else:
-        print("No duplicate feature numbers found.")
-    
-    # Write output to a JSON file
-    with open('duplicates_output.json', 'w') as json_file:
-        json.dump(output, json_file, indent=4)
+        if duplicates:
+            output["message"] = "Duplicate feature numbers found:"
+            output["duplicates"] = {}
+            for feature_number, files in duplicates.items():
+                output["duplicates"][feature_number] = files
+                print(f"Feature number {feature_number} found in files:")
+                for file in files:
+                    print(f"  - {file}")
+        else:
+            print("No duplicate feature numbers found.")
+        
+        # Write output to a JSON file
+        with open(directory+'/duplicates_output.json', 'w') as json_file:
+            json.dump(output, json_file, indent=4)
 
 if __name__ == "__main__":
     main()
