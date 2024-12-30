@@ -1,0 +1,62 @@
+[
+    {
+        "index": "49714",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/nurse/data_for_feature_49714.json",
+        "negative_strings": [
+            " labour",
+            " Bers",
+            "ibil",
+            "GetPosition",
+            "ariant",
+            "Abstract",
+            " Huffman",
+            "ooth",
+            " Compensation",
+            "TableRow"
+        ],
+        "positive_strings": [
+            " induction",
+            "ickness",
+            " sickness",
+            " role",
+            " rede",
+            "-role",
+            "role",
+            " Estates",
+            " roles",
+            " Lect"
+        ],
+        "description": " references to nursing salaries and employment conditions"
+    },
+    {
+        "index": "28581",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/nurse/data_for_feature_28581.json",
+        "negative_strings": [
+            " statewide",
+            ".libs",
+            "oler",
+            " \u00ec\u0142\u0126\u00ea\u00b5\u0143",
+            "arton",
+            " Anadolu",
+            " nationally",
+            "alte",
+            ".mx",
+            "\u00d0\u00b8\u00d1\u0123\u00d0\u00bb\u00d0\u00be\u00d0\u00b2"
+        ],
+        "positive_strings": [
+            " abroad",
+            " exp",
+            " foreign",
+            " overseas",
+            " visa",
+            " Overse",
+            " em",
+            " visas",
+            " Foreign",
+            " dias"
+        ],
+        "description": " discussions regarding healthcare workforce dynamics, specifically related to nursing supply and demand"
+    }
+]

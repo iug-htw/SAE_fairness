@@ -1,0 +1,448 @@
+[
+    {
+        "index": "11527",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_11527.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581cucchiai",
+            "FunctionFlags",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "TAWA",
+            "\u2581jScrollPane",
+            "Palmar\u00e8s",
+            "ional",
+            "\u2581it\u017felf",
+            "\u2581pungkasnya"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "friends",
+            "FRIEND",
+            "hood",
+            "scout",
+            "friend",
+            "couts"
+        ],
+        "description": "Words expressing human identity, particularly gender or age, such as \"boy\", \"girl\", \"man\", \"lady\", \"guy\", and \"maid\"."
+    },
+    {
+        "index": "479",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_479.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581EconPapers",
+            "\u2581linkovi",
+            "\u00f3ticas",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "BeginInit",
+            "Personensuche",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "</thead>",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "FRIEND",
+            "scout",
+            "friend",
+            "friends",
+            "hood",
+            "couts"
+        ],
+        "description": "Informal terms for people, such as \"girl\", \"boy\", \"guy\", \"kid\", \"man\", \"lady\", often used colloquially or in casual conversation."
+    },
+    {
+        "index": "80995",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_80995.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"spice\" often appears as a standalone word, but can also be found in phrases such as \"spice girls\", \"spicy\", or \"spices\". In many cases, it is used in the context of food or recipes. Additionally, the token \"spice\" is sometimes used as a proper noun or as part of a brand name."
+    },
+    {
+        "index": "81",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/girl/data_for_feature_81.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "</thead>",
+            "Tembelea",
+            "FunctionFlags",
+            "\u2581cucchiai",
+            "\u2581Bi\u00f4grafia",
+            "\u2581BoxFit",
+            "AutoScaleMode",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "xus"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "scout",
+            "FRIEND",
+            "Scout",
+            "couts",
+            "hood",
+            "band"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "10931",
+        "layer": "36-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_10931.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "RegressionTest",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "StoryboardSegue",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581[*]",
+            "principalColumn",
+            "\u2581themselves",
+            "\u2581snippetHide",
+            "\u2581betweenstory"
+        ],
+        "positive_strings": [
+            "\u2581hood",
+            "Hood",
+            "\u2581labour",
+            "\u2581labor",
+            "\u2581Hood",
+            "HOOD",
+            "\u2581Child",
+            "rendon",
+            "rend",
+            "Labour"
+        ],
+        "description": "Nouns related to family relationships or human development stages, such as \"child\", \"childhood\", \"student\", \"girl\", \"boy\", \"woman\", \"man\", and \"grandchild\"."
+    },
+    {
+        "index": "12296",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_12296.json",
+        "negative_strings": [
+            "URLException",
+            "\u2581CreateTagHelper",
+            "\u2581menino",
+            "\u2581damski",
+            "\u2581cewek",
+            "\u2581p\u00e1ns",
+            "\u2581menina",
+            "\u2581boy",
+            "\u2581d\u00e1msk\u00e9",
+            "\u2581Girlfriend"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "\u2581golfers",
+            "\u2581suffrage",
+            "\u2581voters",
+            "\u2581entrepreneurs",
+            "\u2581Empowerment",
+            "\u2581warriors",
+            "\u2581folk",
+            "\u2581prisoners"
+        ],
+        "description": "Words referring to people, specifically their gender, with \"women\", \"men\", \"ladies\", \"girls\", and \"feminist\" being most prominent, often used in general or formal contexts."
+    },
+    {
+        "index": "619",
+        "layer": "37-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_619.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581linkovi",
+            "\u2581EconPapers",
+            "Personensuche",
+            "\u2581mergeFrom",
+            "FunctionFlags",
+            "IsMutable",
+            "</thead>",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "FRIEND",
+            "\u2581Scout",
+            "friend",
+            "friends",
+            "scout",
+            "boy",
+            "girl"
+        ],
+        "description": "Informal or colloquial nouns referring to people, often used in casual conversation or writing, such as \"boy\", \"girl\", \"guy\", \"kid\", or \"folks\"."
+    },
+    {
+        "index": "42336",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_42336.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns referring to a person, specifically titles or terms used to address or describe an individual, often informal or colloquial, such as \"boy\", \"girl\", \"guy\", \"dude\", or \"mom\"."
+    },
+    {
+        "index": "81195",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_81195.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word \"scout\" often appears as part of the names of organizations, such as the Boy Scouts or Girl Scouts, or in the context of scouting in sports, referring to the act of searching for and evaluating new players."
+    },
+    {
+        "index": "8480",
+        "layer": "32-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_8480.json",
+        "negative_strings": [
+            "../",
+            "HEET",
+            "summary",
+            "\u2581dahin",
+            "Deine",
+            "\u2581DESCRIPTION",
+            "gia",
+            "primaryKey",
+            "ACTS",
+            "gie"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u00e9valuateur",
+            "\u2581empowerment",
+            "\u2581embarazadas",
+            "\u2581warriors",
+            "\u2581folk",
+            "\u2581warrior",
+            "transQ",
+            "MLLoader",
+            "Women"
+        ],
+        "description": "References to females, often using words such as \"woman\", \"women\", \"female\", \"females\", \"girl\", and \"girls\", are prominent throughout the examples, sometimes with possessive suffixes, in various contexts."
+    },
+    {
+        "index": "73342",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_73342.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"Scout\" or \"Scouting\" is often used to describe organizations like the Boy Scouts or Girl Scouts, and also refers to the act of scouting in various contexts such as sports or talent acquisition."
+    },
+    {
+        "index": "3470",
+        "layer": "36-gemmascope-res-16k",
+        "url": "json/gemma-scope/girl/data_for_feature_3470.json",
+        "negative_strings": [
+            "Autowired",
+            "\u2581Italijanski",
+            "Personensuche",
+            "msgSender",
+            "\u2581EconPapers",
+            "</thead>",
+            "\u2581linkovi",
+            "\u2581mergeFrom",
+            "n\u00e4r",
+            "\u2581damska"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "scout",
+            "Boy",
+            "friend",
+            "FRIEND",
+            "Scout",
+            "\u2581Girl"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "97526",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_97526.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Feminine nouns, especially \"girl\", \"girls\", \"girlfriend\", and colloquial variants like \"gf\", often used to refer to or address females in various contexts."
+    },
+    {
+        "index": "14602",
+        "layer": "34-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_14602.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "TestingModule",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "EndInit",
+            "principalColumn",
+            "\u2581[*]",
+            "StoryboardSegue",
+            "RegressionTest",
+            "CloseOperation"
+        ],
+        "positive_strings": [
+            "Child",
+            "\u2581Child",
+            "Hood",
+            "\u2581hood",
+            "\u2581CHILD",
+            "child",
+            "HOOD",
+            "\u2581child",
+            "\u2581autorytatywna",
+            "CHILD"
+        ],
+        "description": "Words related to young people, children, or age groups (e.g., \"child\", \"kid\", \"girl\", \"boy\", \"teen\", \"woman\", and \"student\"), as well as proper nouns and names (e.g., \"Christ\", \"Chick\", \"Travis\", and \"Chad\")."
+    },
+    {
+        "index": "2207",
+        "layer": "38-gemmascope-res-16k",
+        "url": "json/gemma-scope/girl/data_for_feature_2207.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "Personensuche",
+            "\u2581linkovi",
+            "\u2581Inf\u00f3rmanos",
+            "\\{\\\\",
+            "\u2581mergeFrom",
+            "featureID",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "FunctionFlags",
+            "\u2581unknownFields"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "FRIEND",
+            "\u2581Scout",
+            "boss",
+            "scout",
+            "hood",
+            "friend",
+            "friends"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "87768",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_87768.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"scout\" and its variants often appear in contexts referring to organizations, skills, or activities related to scouting, such as the Boy Scouts or Girl Scouts, or in phrases like \"scouting report\" or \"scouting department\"."
+    },
+    {
+        "index": "7228",
+        "layer": "35-gemmascope-res-16k",
+        "url": "json/gemma-scope/girl/data_for_feature_7228.json",
+        "negative_strings": [
+            "\u2581mergeFrom",
+            "\u2581EconPapers",
+            "\u2581linkovi",
+            "Personensuche",
+            "Autowired",
+            "</thead>",
+            "n\u00e4r",
+            "UnknownFields",
+            "BeginInit",
+            "\u2581unknownFields"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Girl",
+            "Girl",
+            "Boy",
+            "boy",
+            "girl",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "\u2581Boy"
+        ],
+        "description": "mentions of gendered terms, specifically related to boys and girls"
+    },
+    {
+        "index": "5806",
+        "layer": "24-gemmascope-res-16k",
+        "url": "json/gemma-scope/girl/data_for_feature_5806.json",
+        "negative_strings": [
+            "\u2581InputDecoration",
+            "ThroughAttribute",
+            "\u2581doInBackground",
+            "transQ",
+            "setCellValue",
+            "\u2581uVar",
+            "WebControls",
+            "\u0012",
+            "dafx",
+            "expandindo"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "FRIEND",
+            "\u2581Scout",
+            "friends",
+            "friend",
+            "\u2581Scouts",
+            "couts",
+            "scout",
+            "Friend"
+        ],
+        "description": "references to gender and sexual orientation, particularly related to boys and girls"
+    },
+    {
+        "index": "64059",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/girl/data_for_feature_64059.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms referring to people, often used as nouns, with varying levels of formality and familiarity, such as girl, boy, guy, and woman."
+    },
+    {
+        "index": "2296",
+        "layer": "25-gemmascope-res-65k",
+        "url": "json/gemma-scope/girl/data_for_feature_2296.json",
+        "negative_strings": [
+            "ConstraintMaker",
+            "\u2581AutoMapper",
+            "PreferredItem",
+            "IBOutlet",
+            "\u2581SafeMath",
+            "stdafx",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "SerializedSize",
+            "GetBytes",
+            "OrBuilder"
+        ],
+        "positive_strings": [
+            "\u2581Meets",
+            "AddTagHelper",
+            "lesque",
+            "\u2581meets",
+            "arsky",
+            "choir",
+            "\u2581raconter",
+            "endsection",
+            "ByPrimaryKey",
+            "\u2581effetto"
+        ],
+        "description": "references to boys and girls or variations of those terms"
+    }
+]

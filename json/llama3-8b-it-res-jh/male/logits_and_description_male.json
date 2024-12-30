@@ -1,0 +1,122 @@
+[
+    {
+        "index": "13190",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/male/data_for_feature_13190.json",
+        "negative_strings": [
+            "\u00e1\u00ba\u00b9",
+            "\u00d8\u00a7\u00d8\u00b2\u00d8\u00a7\u00d8\u00aa",
+            "uil",
+            "uge",
+            "[color",
+            "omanip",
+            " ma\u00c3\u00a7",
+            " Verd",
+            " \u00e2\u0128\u0133",
+            "\"user"
+        ],
+        "positive_strings": [
+            " naked",
+            " bare",
+            " Naked",
+            " nude",
+            " nudity",
+            " Bare",
+            " Nude",
+            "bare",
+            " desn",
+            "\u00e8\u00a3"
+        ],
+        "description": " mentions of male nudity and its societal implications"
+    },
+    {
+        "index": "19294",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/male/data_for_feature_19294.json",
+        "negative_strings": [
+            "etten",
+            " requestOptions",
+            "ersist",
+            " demokrat",
+            "illin",
+            " parliament",
+            "aliz",
+            "\u00d0\u00b0\u00d0\u00ba\u00d1\u0123\u00d0\u00b8\u00d0\u00bc",
+            "childs",
+            "\u00e1\u00bb\u012f"
+        ],
+        "positive_strings": [
+            " votes",
+            " white",
+            " undecided",
+            " swing",
+            "swing",
+            " voters",
+            " Latino",
+            " Evangel",
+            " suburban",
+            " crossover"
+        ],
+        "description": " references to male voters and their political preferences"
+    },
+    {
+        "index": "8865",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/male/data_for_feature_8865.json",
+        "negative_strings": [
+            "roit",
+            ".Obj",
+            "\u00c3\u00a1zd",
+            "akis",
+            "irus",
+            "\u00d8\u00aa\u00d9\u012c\u00d9\u0128",
+            " Mort",
+            "uese",
+            "\u00e5\u013e\u00b3",
+            "nable"
+        ],
+        "positive_strings": [
+            " domestic",
+            " Domestic",
+            " batter",
+            " Batter",
+            "Dom",
+            " abuse",
+            " battered",
+            " domest",
+            " abusive",
+            " Abuse"
+        ],
+        "description": "references to the treatment and support for male victims of domestic violence"
+    },
+    {
+        "index": "15558",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/male/data_for_feature_15558.json",
+        "negative_strings": [
+            "allon",
+            " conspiracy",
+            " Nose",
+            "bler",
+            " Xxx",
+            "etri",
+            "ateria",
+            "oty",
+            "\u00c3\u00a4t",
+            " Conspiracy"
+        ],
+        "positive_strings": [
+            " kill",
+            " killing",
+            " kills",
+            " killed",
+            "kill",
+            " Kill",
+            " killings",
+            "Kill",
+            " Killing",
+            "\u00e6\u00ae\u00ba"
+        ],
+        "description": " actions associated with male behavior and training"
+    }
+]

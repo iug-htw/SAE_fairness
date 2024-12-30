@@ -1,0 +1,426 @@
+[
+    {
+        "index": "99243",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/men/data_for_feature_99243.json",
+        "negative_strings": [
+            "enderror",
+            "FunctionFlags",
+            "\u2581ModelExpression",
+            "\u2581ApiException",
+            "GEBURTS",
+            ".*\")]",
+            "\u2581endblock",
+            "ThroughAttribute",
+            "\u4f8b\u53e5",
+            "PhysRev"
+        ],
+        "positive_strings": [
+            "strual",
+            "agerie",
+            "orca",
+            "orah",
+            "stru",
+            "iscus",
+            "udo",
+            "endez",
+            "iere",
+            "acing"
+        ],
+        "description": "references to the word \"Men\" and its variations in different contexts"
+    },
+    {
+        "index": "6026",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/men/data_for_feature_6026.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "FunctionFlags",
+            "GEBURTS",
+            "enderror",
+            "PhysRev",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u4f8b\u53e5",
+            "\u2581ApiException",
+            "setupUi",
+            "interopRequire"
+        ],
+        "positive_strings": [
+            "agerie",
+            "strual",
+            "stru",
+            "orah",
+            "iscus",
+            "orca",
+            "thol",
+            "acing",
+            "udo",
+            "endez"
+        ],
+        "description": "mentions of men"
+    },
+    {
+        "index": "3453",
+        "layer": "37-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_3453.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "providedIn",
+            "\u2581EconPapers",
+            "smarty",
+            "CodeAttribute",
+            "\u2581endblock",
+            "GEBURTS",
+            "\u2581ModelExpression",
+            "../",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581Men",
+            "\u2581MEN",
+            "Men",
+            "\u2581men",
+            "MEN",
+            "agerie",
+            "WOMEN",
+            "men",
+            "\u2581WOMEN",
+            "folk"
+        ],
+        "description": "The token often refers to a specific gender, usually in a context where it is relevant to distinguish between or specifically address men or women."
+    },
+    {
+        "index": "15841",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_15841.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "ThroughAttribute",
+            "providedIn",
+            "MLLoader",
+            "enderror",
+            "########.",
+            "__).",
+            "SourceChecksum",
+            "NUMX",
+            "\u2581EconPapers"
+        ],
+        "positive_strings": [
+            "agerie",
+            "WOMEN",
+            "\u2581WOMEN",
+            "Women",
+            "folk",
+            "tored",
+            "\u2581women",
+            "\u2581Women",
+            "iscus",
+            "\u2581Men"
+        ],
+        "description": "The word \"men\" often appears in phrases or titles related to groups of people, sports teams, or categories of individuals, and sometimes \"menu\" appears in contexts related to navigation, options, or lists."
+    },
+    {
+        "index": "15841",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_15841.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "ThroughAttribute",
+            "providedIn",
+            "MLLoader",
+            "enderror",
+            "########.",
+            "__).",
+            "SourceChecksum",
+            "NUMX",
+            "\u2581EconPapers"
+        ],
+        "positive_strings": [
+            "agerie",
+            "WOMEN",
+            "\u2581WOMEN",
+            "Women",
+            "folk",
+            "tored",
+            "\u2581women",
+            "\u2581Women",
+            "iscus",
+            "\u2581Men"
+        ],
+        "description": "The word \"men\" often appears in phrases or titles related to groups of people, sports teams, or categories of individuals, and sometimes \"menu\" appears in contexts related to navigation, options, or lists."
+    },
+    {
+        "index": "14787",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_14787.json",
+        "negative_strings": [
+            "enderror",
+            "FunctionFlags",
+            "providedIn",
+            "########.",
+            "\u2581ModelExpression",
+            "\u2581EconPapers",
+            "MLLoader",
+            "SourceChecksum",
+            "orElseThrow",
+            "ThroughAttribute"
+        ],
+        "positive_strings": [
+            "agerie",
+            "iscus",
+            "folk",
+            "tored",
+            "thol",
+            "tioned",
+            "\u2581WOMEN",
+            "WOMEN",
+            "haden",
+            "Women"
+        ],
+        "description": "Words that include \"men\" or \"man\" as a root or standalone word."
+    },
+    {
+        "index": "99137",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_99137.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"Guy\" or \"Guys\" often refers to a male person or people, used as a noun or informal term for a man or men."
+    },
+    {
+        "index": "8598",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_8598.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns referring to people of a specific gender, usually \"men\", often in the context of sports teams or occupational roles, and typically possessive or part of a proper noun."
+    },
+    {
+        "index": "8724",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/men/data_for_feature_8724.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "enderror",
+            "ThroughAttribute",
+            "########.",
+            "providedIn",
+            "__).",
+            "\u2581jo\u00e3o",
+            "interopRequire",
+            "\u2581ModelExpression",
+            "\u0639\u0631\u0650\u0651\u0641"
+        ],
+        "positive_strings": [
+            "agerie",
+            "tored",
+            "iscus",
+            "\u2581WOMEN",
+            "tioned",
+            "strual",
+            "endez",
+            "folk",
+            "WOMEN",
+            "zies"
+        ],
+        "description": "references to \"Men\" or masculine subjects in various contexts"
+    },
+    {
+        "index": "46335",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_46335.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, especially surnames and toponyms, often with initial capitalization, and sometimes with a prefix or suffix such as 'Man', 'Men', or a possessive form."
+    },
+    {
+        "index": "33642",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_33642.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of individuals, especially those of men, often being first names or full names with honorific titles or suffixes."
+    },
+    {
+        "index": "1554",
+        "layer": "39-gemmascope-res-16k",
+        "url": "json/gemma-scope/men/data_for_feature_1554.json",
+        "negative_strings": [
+            "providedIn",
+            "ThroughAttribute",
+            "FunctionFlags",
+            "MLLoader",
+            "enderror",
+            "\u2581ModelExpression",
+            "\u0639\u0631\u0650\u0651\u0641",
+            "\u2581EconPapers",
+            "CodeAttribute",
+            "########."
+        ],
+        "positive_strings": [
+            "agerie",
+            "WOMEN",
+            "\u2581WOMEN",
+            "Women",
+            "\u2581Women",
+            "\u2581women",
+            "\u2581mujeres",
+            "\u2581karet",
+            "\u2581Men",
+            "iscus"
+        ],
+        "description": "mentions of \"men\" and references to masculinity"
+    },
+    {
+        "index": "26858",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_26858.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"Mad\" is predominantly capitalized, appears in different contexts, including as part of a proper noun in titles (\"Mad Men\"), as a username or name suffix, and in words with various meanings (\"mad\" as an adjective or a proper noun in \"Madhya Pradesh\")."
+    },
+    {
+        "index": "30462",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_30462.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, primarily first names, often referring to women (e.g., Sally, Polly) and occasionally men (e.g., Wally, Sully), typically used to identify individuals in various contexts such as news articles, quotes, and personal communications."
+    },
+    {
+        "index": "8437",
+        "layer": "38-gemmascope-res-16k",
+        "url": "json/gemma-scope/men/data_for_feature_8437.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "providedIn",
+            "ThroughAttribute",
+            "CodeAttribute",
+            "\u2581EconPapers",
+            "MLLoader",
+            "########.",
+            "\u2581jo\u00e3o",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
+            "__)."
+        ],
+        "positive_strings": [
+            "agerie",
+            "WOMEN",
+            "\u2581Men",
+            "\u2581WOMEN",
+            "AnchorStyles",
+            "\u2581MEN",
+            "Women",
+            "\u2581Women",
+            "Men",
+            "hdi"
+        ],
+        "description": " references to males or men in various contexts"
+    },
+    {
+        "index": "63887",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/men/data_for_feature_63887.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "\u4f8b\u53e5",
+            "\u2581ModelExpression",
+            "enderror",
+            "\u2581ObjectParameter",
+            "t\u00e9rature",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
+            "ThroughAttribute",
+            "GEBURTS",
+            "Ikus"
+        ],
+        "positive_strings": [
+            "agerie",
+            "\u2581Men",
+            "haden",
+            "folk",
+            "WOMEN",
+            "iscus",
+            "hdi",
+            "\u2581WOMEN",
+            "tored",
+            "\u2581Women"
+        ],
+        "description": "references to men in various contexts"
+    },
+    {
+        "index": "462",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_462.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Token \"Men\" separated from the rest of the word, often as part of a compound word or name."
+    },
+    {
+        "index": "30977",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_30977.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A proper noun or common noun is preceded by the letters 'Man', 'Mans', 'Men', or 'Mens' indicating a word that is being truncated or a prefix being added to form a new word."
+    },
+    {
+        "index": "11303",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/men/data_for_feature_11303.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "providedIn",
+            "ThroughAttribute",
+            "enderror",
+            "\u2581EconPapers",
+            "MLLoader",
+            "\u2581jo\u00e3o",
+            "\u2581ModelExpression",
+            "########.",
+            "\u0639\u0631\u0650\u0651\u0641"
+        ],
+        "positive_strings": [
+            "agerie",
+            "tored",
+            "\u2581WOMEN",
+            "tioned",
+            "WOMEN",
+            "iscus",
+            "Women",
+            "folk",
+            "hdi",
+            "thol"
+        ],
+        "description": " mentions of \"men\" in various contexts"
+    },
+    {
+        "index": "14707",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/men/data_for_feature_14707.json",
+        "negative_strings": [
+            "\u2581player",
+            "Markup",
+            "\u2581\u062c\u0647",
+            "writeFieldEnd",
+            "\u2581poros",
+            "IsMutable",
+            "\u2581Souver",
+            "\u272d\u272d",
+            "\u2581passagers",
+            "\u2581\u017fche"
+        ],
+        "positive_strings": [
+            "\u2581undergoing",
+            "\u2581treated",
+            "\u2581receiving",
+            "\u2581suffering",
+            "receiving",
+            "\u2581diagnosed",
+            "\u2581presenting",
+            "\u2581admitted",
+            "\u2581Treated",
+            "\u2581tratados"
+        ],
+        "description": "Human subjects, including patients, individuals, people, men, women, children, and others, often being described in a medical or experimental context."
+    }
+]

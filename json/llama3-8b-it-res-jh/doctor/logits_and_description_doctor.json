@@ -1,0 +1,212 @@
+[
+    {
+        "index": "39094",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_39094.json",
+        "negative_strings": [
+            "ende",
+            "elite",
+            "ened",
+            "endent",
+            "y",
+            "ias",
+            "ens",
+            " d\u00c3\u0143l",
+            "iche",
+            "EMPL"
+        ],
+        "positive_strings": [
+            "infeld",
+            "aper",
+            " Dr",
+            "ury",
+            "ifting",
+            "iven",
+            "upal",
+            "ucker",
+            "Dr",
+            "illing"
+        ],
+        "description": " mentions of doctors or medical professionals"
+    },
+    {
+        "index": "18409",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_18409.json",
+        "negative_strings": [
+            "quila",
+            "ReuseIdentifier",
+            "\u00e0\u00a5\u0129\u00e0\u00a4\u00ac",
+            " Mirage",
+            "fers",
+            "ultz",
+            "kiye",
+            "\u00c3\u00a9r\u00c3\u00a9",
+            " erotico",
+            "\u00e0\u00b8\u00b2"
+        ],
+        "positive_strings": [
+            " UNIT",
+            " companions",
+            " Companion",
+            " regeneration",
+            " regenerate",
+            "compan",
+            " companion",
+            " Pond",
+            " regenerated",
+            "UNIT"
+        ],
+        "description": " elements related to the \"Doctor Who\" franchise and its visual representation"
+    },
+    {
+        "index": "19135",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_19135.json",
+        "negative_strings": [
+            "\u00c3\u00a9ro",
+            "weise",
+            "ti",
+            "tas",
+            "geber",
+            "kl\u00c3\u00a4",
+            "ties",
+            "longleftrightarrow",
+            "ted",
+            "k\u00c3\u00a1"
+        ],
+        "positive_strings": [
+            "ate",
+            "ial",
+            " treating",
+            "/engine",
+            " prescribing",
+            " appointments",
+            " Who",
+            "al",
+            "/ph",
+            "preneur"
+        ],
+        "description": "references to medical professionals, specifically doctors"
+    },
+    {
+        "index": "42531",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_42531.json",
+        "negative_strings": [
+            "Solar",
+            " Solar",
+            "ocu",
+            " solar",
+            "stab",
+            " \u00d8\u00a7\u00d9\u0126\u00d8\u00b4\u00d9\u0127",
+            "izzy",
+            "odafone",
+            " Claud",
+            "Symbol"
+        ],
+        "positive_strings": [
+            " Dr",
+            "Dr",
+            " dr",
+            " MD",
+            ".dr",
+            ".md",
+            "_MD",
+            " drm",
+            "MD",
+            " DR"
+        ],
+        "description": " references to specific doctors and their reputations or actions"
+    },
+    {
+        "index": "30625",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_30625.json",
+        "negative_strings": [
+            "\u00e7\u0143\u012d",
+            "\u00d1\u0129\u00d0\u00b5",
+            "@js",
+            "\u00c3\u0143\u00c5\u00a1",
+            " dm",
+            "ancial",
+            " mt",
+            "aca",
+            "ellas",
+            " F\u00c3\u00bcr"
+        ],
+        "positive_strings": [
+            " Doctor",
+            "Doctor",
+            " Doctors",
+            " doctor",
+            "doctor",
+            " Pert",
+            " companions",
+            " UNIT",
+            " DWC",
+            "Doctors"
+        ],
+        "description": "references to popular television shows, specifically \"Doctor Who\""
+    },
+    {
+        "index": "54405",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_54405.json",
+        "negative_strings": [
+            "andro",
+            "ibling",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "_VOID",
+            "\u00d1\u012e\u00d0\u00ba\u00d0\u00be",
+            "\u00e0\u00b8\u00a3\u00e0\u00b8\u0129",
+            "onas",
+            " vacc",
+            ".lon",
+            "\u00e7\u013d\u00a4"
+        ],
+        "positive_strings": [
+            " patients",
+            " patient",
+            " Patients",
+            "patients",
+            "Patients",
+            " Patient",
+            " pacientes",
+            "Patient",
+            "patient",
+            " \u00d0\u00bf\u00d0\u00b0\u00d1\u0128\u00d0\u00b8"
+        ],
+        "description": "phrases concerning patient care and doctor-patient interaction"
+    },
+    {
+        "index": "7230",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/doctor/data_for_feature_7230.json",
+        "negative_strings": [
+            "\u00e1\u00ba\u00bft",
+            "ni\u00c5\u00be",
+            "/msg",
+            ".hom",
+            "uisse",
+            "elog",
+            "avis",
+            "voj",
+            "\u00c3\u00b4i",
+            ".Persistent"
+        ],
+        "positive_strings": [
+            " truth",
+            " reason",
+            " logos",
+            " oneself",
+            " consensus",
+            " knowledge",
+            " calculation",
+            " Reason",
+            " inquiry",
+            " risk"
+        ],
+        "description": " concepts related to healthcare and the patient-doctor relationship"
+    }
+]

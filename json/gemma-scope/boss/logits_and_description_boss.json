@@ -1,0 +1,448 @@
+[
+    {
+        "index": "14443",
+        "layer": "37-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_14443.json",
+        "negative_strings": [
+            "\u2581og\u00f3le",
+            "MENAFN",
+            "\u2581Keuangan",
+            "\ucc38\uace0",
+            "Contrary",
+            "gemeins",
+            "Parcelize",
+            "\u2581str\u00e1",
+            "\u2581Contrary",
+            "\ue315"
+        ],
+        "positive_strings": [
+            "Tre",
+            "\u2581Tre",
+            "\u2581TRE",
+            "TRE",
+            "\u2581tre",
+            "Trev",
+            "tre",
+            "\u2581Tr\u00e9",
+            "\u2581Trem",
+            "\u2581tr\u00e9"
+        ],
+        "description": "The presence of a sequence of three letters, often 'bos' or a word with 'tre' or 'bos' as a suffix, sometimes related to tree or boss but often not; the actual significance often lies elsewhere."
+    },
+    {
+        "index": "25911",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_25911.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"bos\" or its variations are used as a prefix or part of a proper noun, often referring to a geographical location such as Bosnia or Boston, or as a suffix in words like boss."
+    },
+    {
+        "index": "2538",
+        "layer": "37-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_2538.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u0627\u062a",
+            "\u2581Preferencias",
+            "bahaya",
+            "richten",
+            "\u2581klart",
+            "\u2581transfieras",
+            "\uc5d0\ub294",
+            "\u2581padat",
+            "\u2581\u062e\u0627\u0637\u0631"
+        ],
+        "positive_strings": [
+            "hood",
+            "fucking",
+            "fucker",
+            "Mother",
+            "MOTHER",
+            "\u2581Mother",
+            "\u2581AssemblyTitle",
+            "lode",
+            "setVerticalGroup",
+            "tongue"
+        ],
+        "description": "Titles, terms of address, or familial relations used to refer to individuals, such as Mother, Father, Brother, Sister, Mom, Dad, Mrs, Doctor, and formal titles like Queen and Boss."
+    },
+    {
+        "index": "64085",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_64085.json",
+        "negative_strings": [
+            "\u2581Lordships",
+            "kh\u00e1u",
+            "etera",
+            "\u2581AttributeSet",
+            "eara",
+            "complexContent",
+            "readAs",
+            "APOLIS",
+            "\u2581stedet",
+            "ighed"
+        ],
+        "positive_strings": [
+            "\u2581lady",
+            "lady",
+            "\u2581Hogg",
+            "\u5a18",
+            "\u2581LADY",
+            "fight",
+            "ses",
+            "\u2581estekak",
+            "anova",
+            "babe"
+        ],
+        "description": "references to 'boss' in various contexts"
+    },
+    {
+        "index": "14024",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_14024.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"boss\" often refers to a person in a position of authority or leadership, typically in a work environment, and is sometimes used as a proper noun (e.g. Hugo Boss) or as part of an idiomatic expression (e.g. \"badass\")."
+    },
+    {
+        "index": "8626",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_8626.json",
+        "negative_strings": [
+            "\u2581\u05d4\u05dc",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "berger",
+            "enumii",
+            "\ufeff//",
+            "IContainer",
+            "\u2581Baj",
+            "\u5e16\u6700\u540e\u7531",
+            "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+            "antMatchers"
+        ],
+        "positive_strings": [
+            "\u2581Supply",
+            "Supply",
+            "\u2581chain",
+            "\u2581supply",
+            "\u2581SUPPLY",
+            "\u2581Chain",
+            "supply",
+            "SUPPLY",
+            "chain",
+            "\u2581CHAIN"
+        ],
+        "description": "The token often appears to be a suffix added to a word, in some cases indicating a comparative degree (\"supply\" and \"supp\" variants), and in other cases possibly being part of a word's root ( bos being part of \"bosom\" or \"boss\")."
+    },
+    {
+        "index": "117132",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_117132.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Abbreviated status identifiers or honorifics (VIP, MVP, WIP, RSVP) and names/titles (Boss, Insider, Executive, Jeep) in formal and informal text, often denoting prestige, exclusivity, or importance."
+    },
+    {
+        "index": "120312",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_120312.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word \"boss\" in various contexts, often used to refer to a person in a position of authority or power."
+    },
+    {
+        "index": "1068",
+        "layer": "38-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_1068.json",
+        "negative_strings": [
+            "\u2581'\\\\;'",
+            "msgTypes",
+            "\u2581trekken",
+            "\u2581sight",
+            "aarrggbb",
+            "\u2581intensive",
+            "\u2581klikken",
+            "assertAll",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\ud615"
+        ],
+        "positive_strings": [
+            "\u2581EconPapers",
+            "\u2581BES",
+            "\u2581utafitiHapana",
+            "\u2581Bes",
+            "\ufeff/**",
+            "Bis",
+            "\u2581bis",
+            "RuleContext",
+            "\u2581Biscuits",
+            "Brainz"
+        ],
+        "description": "Initial parts of surnames and words starting with \"b\", particularly those related to \"bus\", \"boss\", \"bass\", and \"Bush\"."
+    },
+    {
+        "index": "60889",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_60889.json",
+        "negative_strings": [
+            "eara",
+            "etera",
+            "enerbah\u00e7e",
+            "ilung",
+            "izioni",
+            "gemini",
+            "PINES",
+            "tdata",
+            "vensis",
+            "\u00f6lkerung"
+        ],
+        "positive_strings": [
+            "Boss",
+            "\u2581Boss",
+            "\u2581BOSS",
+            "boss",
+            "\u2581boss",
+            "\u2581estekak",
+            "BOSS",
+            "\u2581bosses",
+            "\u2581AssemblyCompany",
+            "\u2581propOrder"
+        ],
+        "description": "references to \"boss\" and related terminology in various contexts"
+    },
+    {
+        "index": "57530",
+        "layer": "37-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_57530.json",
+        "negative_strings": [
+            "enerbah\u00e7e",
+            "the",
+            "etera",
+            "tdata",
+            "bezpiecz",
+            "Sicher",
+            "\u2581stedet",
+            "ilung",
+            "G\u00e9ographie",
+            "\u2581Lordships"
+        ],
+        "positive_strings": [
+            "Boss",
+            "boss",
+            "\u2581Boss",
+            "\u2581boss",
+            "\u2581propOrder",
+            "\u2581BOSS",
+            "\u2581estekak",
+            "BOSS",
+            "\u2581bosses",
+            "\u2581AssemblyCompany"
+        ],
+        "description": "references to the term \"boss\" in various contexts"
+    },
+    {
+        "index": "71398",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_71398.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"boss\" (and its variants) often refers to a person in a position of authority or management, typically in a workplace or organizational setting."
+    },
+    {
+        "index": "15667",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_15667.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"boss\" is frequently used to refer to a person in a position of authority, supervisor, or superior, often in a workplace or professional setting."
+    },
+    {
+        "index": "7486",
+        "layer": "34-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_7486.json",
+        "negative_strings": [
+            "etera",
+            "eara",
+            "\u2581Heathrow",
+            "tdata",
+            "enerbah\u00e7e",
+            "gemini",
+            "\u2581Wilshire",
+            "PINES",
+            "izioni",
+            "mittance"
+        ],
+        "positive_strings": [
+            "Boss",
+            "\u2581Boss",
+            "boss",
+            "\u2581boss",
+            "\u2581BOSS",
+            "\u2581bosses",
+            "BOSS",
+            "\u2581AssemblyCompany",
+            "\u2581estekak",
+            "\u2581employer"
+        ],
+        "description": "references to bosses or authority figures in various contexts"
+    },
+    {
+        "index": "125061",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/boss/data_for_feature_125061.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to or addresses toward people in positions of authority, often using the term \"boss\" or its variants."
+    },
+    {
+        "index": "8174",
+        "layer": "33-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_8174.json",
+        "negative_strings": [
+            "\u2581Wilshire",
+            "ilung",
+            "etera",
+            "\u2581Lido",
+            "eara",
+            "digarh",
+            "Bissau",
+            "TAWA",
+            "\u2581Heathrow",
+            "tdata"
+        ],
+        "positive_strings": [
+            "Boss",
+            "\u2581Boss",
+            "boss",
+            "\u2581boss",
+            "\u2581AssemblyCompany",
+            "BOSS",
+            "\u2581BOSS",
+            "\u2581bosses",
+            "\u2581propOrder",
+            "\u2581employer"
+        ],
+        "description": "references to \"boss\" and related terms indicating authority or leadership"
+    },
+    {
+        "index": "109145",
+        "layer": "32-gemmascope-res-131k",
+        "url": "json/gemma-scope/boss/data_for_feature_109145.json",
+        "negative_strings": [
+            "etera",
+            "eara",
+            "\")));",
+            "\u2581Wilshire",
+            "gemini",
+            "digarh",
+            "Denver",
+            "ichester",
+            "\u2581Lido",
+            "tdata"
+        ],
+        "positive_strings": [
+            "Boss",
+            "boss",
+            "\u2581Boss",
+            "\u2581AssemblyCompany",
+            "\u2581boss",
+            "BOSS",
+            "\u2581BOSS",
+            "bootstrapcdn",
+            "\u2581bosses",
+            "\u2581propOrder"
+        ],
+        "description": "references to authority figures or leaders, specifically bosses"
+    },
+    {
+        "index": "24148",
+        "layer": "22-gemmascope-res-65k",
+        "url": "json/gemma-scope/boss/data_for_feature_24148.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "tr\u00e4ger",
+            "voorbeeld",
+            "Pemer",
+            "thn",
+            "\u0633\u062a\u0645",
+            "ksan",
+            "tichetta",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581boss",
+            "boss",
+            "\u2581bosses",
+            "\u2581lady",
+            "Boss",
+            "\u2581Boss",
+            "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+            "\u2581Hogg",
+            "BOSS"
+        ],
+        "description": "mentions of the word \"boss\" and its variations"
+    },
+    {
+        "index": "20298",
+        "layer": "21-gemmascope-res-65k",
+        "url": "json/gemma-scope/boss/data_for_feature_20298.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u0633\u062a\u0645",
+            "voorbeeld",
+            "ksan",
+            "\u2581paysages",
+            "interop",
+            "idem",
+            "olisian",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+            "\u2581bosses",
+            "\u2581Hogg",
+            "\u2581boss",
+            "\u2581BorderRadius",
+            "ptonshire",
+            "\u2581lady",
+            "boss",
+            "Personendaten"
+        ],
+        "description": " references to the concept of a \"boss\" or authority figure"
+    },
+    {
+        "index": "64668",
+        "layer": "23-gemmascope-res-65k",
+        "url": "json/gemma-scope/boss/data_for_feature_64668.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "CodeAttribute",
+            "interop",
+            "voorbeeld",
+            "dith",
+            "tr\u00e4ger",
+            "thn",
+            "tichetta",
+            "ksan"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581bosses",
+            "\u2581lady",
+            "\u2581override",
+            "\u0440\u043e\u0431\u043d\u0435\u0435",
+            "\u2581boss",
+            "PreAuthorize",
+            "anova",
+            "\u2581actionTypes",
+            "\u2581Hogg"
+        ],
+        "description": "terms related to authority figures or bosses"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "index": "19062",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/Mann/data_for_feature_19062.json",
+        "negative_strings": [
+            "HOME",
+            "BY",
+            "PRES",
+            "PsyNetMessage",
+            "KEN",
+            " Absent",
+            "BOOK",
+            "externalActionCode",
+            "LECT",
+            "OTS"
+        ],
+        "positive_strings": [
+            "daq",
+            "ucci",
+            "ific",
+            "ificent",
+            " lapt",
+            "geist",
+            "ufact",
+            "heim",
+            "itude",
+            "uine"
+        ],
+        "description": "references to a specific individual named \"Mann.\""
+    }
+]

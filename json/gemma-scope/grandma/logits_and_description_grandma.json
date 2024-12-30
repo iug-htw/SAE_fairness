@@ -1,0 +1,294 @@
+[
+    {
+        "index": "6903",
+        "layer": "32-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_6903.json",
+        "negative_strings": [
+            "\u2581Masuk",
+            "\u2581Mulher",
+            "\u2581Mujer",
+            "\u2581s\u1ee9",
+            "\u2581Pol\u00edtica",
+            "\u2581mari\u00e9",
+            "\u043f\u043e\u0447\u043a\u0430",
+            "gesch\u00e4ft",
+            "zkod",
+            "\u2581rense"
+        ],
+        "positive_strings": [
+            "\u2581Grand",
+            "Grand",
+            "grand",
+            "\u2581GRAND",
+            "\u2581grand",
+            "GRAND",
+            "\u2581larceny",
+            "iose",
+            "\u2581Theft",
+            "\u30b0\u30e9\u30f3\u30c9"
+        ],
+        "description": "Proper nouns, including names of places (e.g., Grand Canyon, Grandville), organizations (e.g., MGM Grand), events (e.g., Grand Prix), and people (e.g., Grandma, Grandparents), as well as nouns related to financial aid (e.g., grants)."
+    },
+    {
+        "index": "20928",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_20928.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Familial terms such as Sister, Brother, Mother, Father, Aunt, Grandma, and Daughter used as titles or nouns to refer to individuals, often in a context of affection, respect, or relation."
+    },
+    {
+        "index": "114288",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_114288.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms of endearment and familial relationships, often informal and colloquial, such as \"Mom\", \"Mommy\", \"Mum\", \"Grandma\", \"Mama\", and \"Pop\", typically used in personal and conversational contexts."
+    },
+    {
+        "index": "72151",
+        "layer": "32-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_72151.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Informal terms for family members, often used as affectionate names or titles, such as \"Mom\", \"Mama\", \"Dad\", \"Papa\", \"Grandma\", \"Grandpa\", \"Nana\", \"Bubba\", etc."
+    },
+    {
+        "index": "128907",
+        "layer": "31-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_128907.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Family-related terms, specifically nouns and words referring to parental roles, including \"father\", \"mother\", \"mom\", \"dad\", \"grandma\", \"grandmother\", and \"parenthood\"."
+    },
+    {
+        "index": "91958",
+        "layer": "30-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_91958.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Familial terms of endearment or titles, such as \"Mama\", \"Papa\", \"Daddy\", \"Mommy\", \"Mummy\", \"Grandma\", \"Grandpa\", \"Auntie\", \"Mom\", \"Pa\", often used to express affection or familiarity."
+    },
+    {
+        "index": "101897",
+        "layer": "12-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_101897.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns representing family relationships, such as \"grandchildren\", \"grandson\", \"granddaughter\", \"son\", \"niece\", \"nephew\", and \"grandma\", often used in obituaries and biographical texts to describe familial connections."
+    },
+    {
+        "index": "90240",
+        "layer": "29-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_90240.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms of endearment or familial titles such as \"grandmother\", \"grandfather\", \"grandma\", \"grandpa\", \"granddaughter\", \"grandson\", or \"grandchildren\" often referring to family members across generations."
+    },
+    {
+        "index": "130705",
+        "layer": "1-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_130705.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variations of the word \"grand\" including \"grand\", \"grands\", \"grandmother\", \"grandfather\", \"grandma\", \"grandson\", \"grandchildren\", \"granddaughter\", and \"grandsons\" referring to family relationships or indicating something large in scale or scope."
+    },
+    {
+        "index": "112603",
+        "layer": "13-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_112603.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles or terms of endearment that describe familial relationships, such as uncle, aunt, grandpa, grandma, and cousins, often used to address or refer to individuals in a familial or affectionate context."
+    },
+    {
+        "index": "6498",
+        "layer": "0-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_6498.json",
+        "negative_strings": [
+            "\u2581sat\u0131l\u0131k",
+            "\u2581Absicht",
+            "\u2581hj\u00e6lp",
+            "Daddy",
+            "\u2581\u00e7ekilen",
+            "\u2581Daddy",
+            "Liefs",
+            "\u2581zeitung",
+            "protected",
+            "static"
+        ],
+        "positive_strings": [
+            "\u2581mother",
+            "mother",
+            "\u2581father",
+            "\u2581mothers",
+            "\u2581m\u00e8re",
+            "\u2581moeder",
+            "\u2581m\u00e3e",
+            "ValueStyle",
+            "\u2581madre",
+            "mothers"
+        ],
+        "description": "The token patterns revolve around various concepts, including familial relationships (father, mother, grandfather, grandma), company titles (Founder, CEO), geographical locations (Atlanta), and prepositions indicating position or relation (outside, at, undergoing)."
+    },
+    {
+        "index": "54090",
+        "layer": "12-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_54090.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles of family relationships, often used as nicknames or terms of endearment, including \"Uncle\", \"Aunt\", \"Grandma\", \"Grandpa\", and \"Cousin\"."
+    },
+    {
+        "index": "6614",
+        "layer": "15-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_6614.json",
+        "negative_strings": [
+            "lewati",
+            "\u2581snippetHide",
+            "tagHelperRunner",
+            "\u0135",
+            "slant",
+            "\u2581gle",
+            "\u2581Lightning",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "posure",
+            "lightning"
+        ],
+        "positive_strings": [
+            "\u2581mother",
+            "\u2581Mother",
+            "Mother",
+            "\u2581MOTHER",
+            "\u2581mothers",
+            "Mothers",
+            "mother",
+            "\u2581Mothers",
+            "MOTHER",
+            "\u2581father"
+        ],
+        "description": "References to female family members or parental figures, often using terms like \"mother\", \"mom\", \"grandmother\", \"grandma\", or colloquial/affectionate variations, typically in descriptive or narrative contexts."
+    },
+    {
+        "index": "8871",
+        "layer": "4-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_8871.json",
+        "negative_strings": [
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "wixt",
+            "arsis",
+            "\u46d7",
+            "\u2581quill",
+            "AndEndTag",
+            "\u2581snippetHide",
+            "\u2581transfieras",
+            "elts",
+            "antism"
+        ],
+        "positive_strings": [
+            "\u2581mother",
+            "\u2581Mother",
+            "Mother",
+            "mother",
+            "\u2581MOTHER",
+            "\u2581mothers",
+            "MOTHER",
+            "\u2581Mothers",
+            "\u2581moeder",
+            "\u2581madre"
+        ],
+        "description": "Family relationships, particularly parent-child relationships, often denoted by words like 'mother', 'mom', 'father', 'dad', 'grandma', and 'grandmother'."
+    },
+    {
+        "index": "34882",
+        "layer": "31-gemmascope-res-131k",
+        "url": "json/gemma-scope/grandma/data_for_feature_34882.json",
+        "negative_strings": [
+            "async",
+            "ukone",
+            "\u2581\u00f8",
+            "\u2581async",
+            "\u2581credere",
+            "\u2581imparare",
+            "\u2581previous",
+            "\u2581imp",
+            "\u2581f\u00e9minin",
+            "\u2581\u0442"
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "rungsseite",
+            "\u2581ddelwed",
+            "\u2581CanadaChoose",
+            "\ud83d\udc74",
+            "Grandpa",
+            "\u2581MainAxisSize",
+            "\u2581wi\u017f\u017fen",
+            "\u2581Gei\u017ft",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9"
+        ],
+        "description": " references to family members, particularly those addressed as \"Uncle,\" \"Papa,\" \"Grandma,\" and other familial terms"
+    },
+    {
+        "index": "24450",
+        "layer": "32-gemmascope-res-131k",
+        "url": "json/gemma-scope/grandma/data_for_feature_24450.json",
+        "negative_strings": [
+            "yarnpkg",
+            "\u0647",
+            "isation",
+            "ized",
+            "\ub85c\uc6b4",
+            "edar",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "ised",
+            "AutoScaleMode",
+            "ruptedException"
+        ],
+        "positive_strings": [
+            "Mom",
+            "\u2581econ\u00f4",
+            "GOTREF",
+            "\u2581ddelweddau",
+            "\u2581f\u00e9d\u00e9",
+            "\u2581ChromeDriver",
+            "\u2581guys",
+            "medriver",
+            "\u2581kinda",
+            "\u2581nukes"
+        ],
+        "description": "mentions of maternal figures, particularly 'mom' and 'grandma'"
+    },
+    {
+        "index": "65439",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_65439.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles or familial relationships preceding or succeeding a name (e.g., Mr., Mrs., Dr., Capt., Lord, Mama, Grandma, etc.) indicating a level of respect or affection."
+    },
+    {
+        "index": "27550",
+        "layer": "21-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_27550.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns and noun phrases denoting family relationships, roles, and titles, such as \"mother\", \"father\", \"mom\", \"dad\", \"wife\", \"husband\", \"son\", \"daughter\", \"parent\", \"grandma\", \"kids\", and honorifics like \"Sr\"."
+    },
+    {
+        "index": "31262",
+        "layer": "3-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_31262.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms of endearment or familiarity used to address family members, with a focus on parental figures such as \"mom\", \"dad\", \"mum\", \"mommy\", \"momma\", \"daddy\", and grandparents like \"grandma\" and \"grandpa\"."
+    },
+    {
+        "index": "48717",
+        "layer": "13-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/grandma/data_for_feature_48717.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term referring to a female ancestor, such as \"grandmother\", \"grandma\", \"granny\", \"grandparents\", or other related terms."
+    }
+]

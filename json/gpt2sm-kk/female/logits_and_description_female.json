@@ -1,0 +1,602 @@
+[
+    {
+        "index": "1212",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_1212.json",
+        "negative_strings": [
+            "lig",
+            " Raid",
+            " Dra",
+            " refriger",
+            " Optical",
+            " Olympus",
+            " oun",
+            " raid",
+            " Starg",
+            " OL"
+        ],
+        "positive_strings": [
+            " Chapman",
+            " Chap",
+            " Chrys",
+            " Chandler",
+            " Piper",
+            "Ch",
+            " Chavez",
+            " Coulter",
+            " Ramirez",
+            "chu"
+        ],
+        "description": " references to female leadership in animation"
+    },
+    {
+        "index": "1690",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_1690.json",
+        "negative_strings": [
+            "FontSize",
+            " allowance",
+            " ax",
+            " segregation",
+            "offset",
+            " closet",
+            "Order",
+            "Beck",
+            " orphans",
+            "selection"
+        ],
+        "positive_strings": [
+            " Murphy",
+            "Mur",
+            " Mur",
+            "mur",
+            " Mour",
+            "uro",
+            "umar",
+            "ERAL",
+            "INO",
+            "ynes"
+        ],
+        "description": "mentions of specific individuals, particularly female figures in a context related to news or commentary"
+    },
+    {
+        "index": "451",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_451.json",
+        "negative_strings": [
+            " Dent",
+            "acca",
+            " Jinn",
+            "ead",
+            " dent",
+            " GOODMAN",
+            " Imam",
+            "aed",
+            " Deer",
+            " sharks"
+        ],
+        "positive_strings": [
+            " lesbians",
+            " Lesbian",
+            " lesbian",
+            " bisexual",
+            " heterosexual",
+            " Lat",
+            "bian",
+            " queer",
+            "isexual",
+            "bians"
+        ],
+        "description": " topics related to female sexual identity and bisexuality"
+    },
+    {
+        "index": "12278",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_12278.json",
+        "negative_strings": [
+            " ROCK",
+            "meier",
+            " rocking",
+            " openness",
+            "advertisement",
+            "pps",
+            "\u30d5\u30a1",
+            " Halo",
+            "\\\":",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "ilater",
+            "ezvous",
+            "anwhile",
+            "obbies",
+            "ufact",
+            " resided",
+            "ipl",
+            "eatures",
+            "amia",
+            "acter"
+        ],
+        "description": "pronouns indicating male or female subjects"
+    },
+    {
+        "index": "603",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_603.json",
+        "negative_strings": [
+            " GoPro",
+            " DHS",
+            " Predator",
+            "oppable",
+            " NVIDIA",
+            " MSNBC",
+            " Missile",
+            " DOE",
+            " Rockets",
+            " TSA"
+        ],
+        "positive_strings": [
+            " Medieval",
+            " medieval",
+            " manuscripts",
+            " monastery",
+            " monks",
+            " Anglic",
+            " manuscript",
+            "ieval",
+            " parchment",
+            " Gothic"
+        ],
+        "description": "references to notable female figures from the medieval period"
+    },
+    {
+        "index": "23968",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_23968.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "interstitial",
+            "runners",
+            "brew",
+            "aton",
+            "vre",
+            "pass",
+            "ragon",
+            "insula",
+            "hou"
+        ],
+        "positive_strings": [
+            " wiser",
+            " Norm",
+            "20439",
+            " Dare",
+            " Caucas",
+            " Dani",
+            "zinski",
+            "lishes",
+            " makeup",
+            "ish"
+        ],
+        "description": "descriptions of male and female physical characteristics"
+    },
+    {
+        "index": "48314",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_48314.json",
+        "negative_strings": [
+            ";;;;;;;;;;;;",
+            "utterstock",
+            "COMPLE",
+            " signifies",
+            "Material",
+            " paused",
+            "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+            " pseudonym",
+            "antha",
+            " enhances"
+        ],
+        "positive_strings": [
+            " Cele",
+            "ozy",
+            "WithNo",
+            "comings",
+            " Typhoon",
+            "sembly",
+            "illon",
+            "pmwiki",
+            " Speedway",
+            " Inquisition"
+        ],
+        "description": "references to artists and their works, particularly focusing on female artists' contributions and comparisons to prominent brands or entities"
+    },
+    {
+        "index": "41375",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_41375.json",
+        "negative_strings": [
+            "*/(",
+            "plet",
+            "agara",
+            "ividual",
+            "||||",
+            " Leilan",
+            "abil",
+            "NetMessage",
+            "aic",
+            "omal"
+        ],
+        "positive_strings": [
+            "Said",
+            "said",
+            " said",
+            " lamented",
+            " sigh",
+            " Said",
+            " reiterated",
+            " explained",
+            " sighed",
+            " stressed"
+        ],
+        "description": "references to male and female pronouns"
+    },
+    {
+        "index": "35885",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_35885.json",
+        "negative_strings": [
+            " toget",
+            "ecided",
+            "Registered",
+            " wont",
+            " prev",
+            "pai",
+            " tho",
+            "=/",
+            " tradem",
+            "malink"
+        ],
+        "positive_strings": [
+            "interstitial",
+            " Anger",
+            " painfully",
+            " excruciating",
+            "zsche",
+            " profound",
+            "opsis",
+            " Adin",
+            "iegel",
+            " vividly"
+        ],
+        "description": "references to female characters or entities"
+    },
+    {
+        "index": "17573",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_17573.json",
+        "negative_strings": [
+            "wagen",
+            "Completed",
+            " Flavoring",
+            "Cooldown",
+            "rieg",
+            " externalToEVAOnly",
+            " Savings",
+            "ramid",
+            "LESS",
+            " Wast"
+        ],
+        "positive_strings": [
+            " whom",
+            "who",
+            " aged",
+            "female",
+            "male",
+            " breasts",
+            " ages",
+            " tits",
+            " avatar",
+            " circumcised"
+        ],
+        "description": "mentions of gender-specific terms and female-related topics"
+    },
+    {
+        "index": "9143",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_9143.json",
+        "negative_strings": [
+            " Akira",
+            " Phar",
+            " COURT",
+            " Topic",
+            " Chero",
+            "YN",
+            " Scripture",
+            " KKK",
+            " Inquis",
+            " Maul"
+        ],
+        "positive_strings": [
+            "grain",
+            "uv",
+            "ende",
+            "ipop",
+            "henko",
+            "ongo",
+            "emort",
+            "uve",
+            "essen",
+            "export"
+        ],
+        "description": "female names"
+    },
+    {
+        "index": "24102",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_24102.json",
+        "negative_strings": [
+            " Polk",
+            " Oaks",
+            "ELD",
+            " Bright",
+            " Olsen",
+            " Canter",
+            "Pitt",
+            "bernatorial",
+            " Pebble",
+            " Byr"
+        ],
+        "positive_strings": [
+            " organised",
+            " authorised",
+            " Rw",
+            " perpetrators",
+            " recognised",
+            " barbaric",
+            " Tamil",
+            " pract",
+            " unlaw",
+            " diarr"
+        ],
+        "description": "references to female genital mutilation (FGM) and related practices"
+    },
+    {
+        "index": "7222",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_7222.json",
+        "negative_strings": [
+            "dyl",
+            " kinetic",
+            "76561",
+            " augmented",
+            " respawn",
+            "kaya",
+            " cond",
+            " dehyd",
+            " announ",
+            " denim"
+        ],
+        "positive_strings": [
+            " Them",
+            "'?",
+            " Amount",
+            "],\"",
+            " Relationship",
+            " Firm",
+            "].\"",
+            "lihood",
+            " Gutenberg",
+            "?\u300d"
+        ],
+        "description": "references to female empowerment and collaboration in music culture"
+    },
+    {
+        "index": "15520",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_15520.json",
+        "negative_strings": [
+            "livion",
+            "iru",
+            "arthed",
+            "bard",
+            "ndra",
+            "iscovered",
+            "ebook",
+            "nox",
+            " detonated",
+            "kson"
+        ],
+        "positive_strings": [
+            " spectators",
+            " witnesses",
+            " witness",
+            " impression",
+            " seating",
+            " males",
+            " hats",
+            " participants",
+            " spectator",
+            " gull"
+        ],
+        "description": "references to female subjects"
+    },
+    {
+        "index": "2166",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_2166.json",
+        "negative_strings": [
+            "pun",
+            "entry",
+            "hire",
+            "ton",
+            "rocket",
+            "rn",
+            "np",
+            "lehem",
+            "ofi",
+            "lap"
+        ],
+        "positive_strings": [
+            " orally",
+            " forgetting",
+            " assum",
+            "owan",
+            "ACTED",
+            " noticing",
+            " tired",
+            " herself",
+            "\u30b4\u30f3",
+            " cared"
+        ],
+        "description": "mentions of females in various contexts"
+    },
+    {
+        "index": "30077",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_30077.json",
+        "negative_strings": [
+            " [|",
+            "vernment",
+            "agascar",
+            "istration",
+            " Origins",
+            " Dangerous",
+            "Reloaded",
+            " Begins",
+            "versive",
+            "heimer"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            " recount",
+            "bh",
+            " Cind",
+            " Wit",
+            " electroly",
+            " Torres",
+            "Ay",
+            " cohesion",
+            " recalling"
+        ],
+        "description": "mentions of female individuals in various contexts"
+    },
+    {
+        "index": "17392",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_17392.json",
+        "negative_strings": [
+            "ACTED",
+            "PRES",
+            "eq",
+            "\u59eb",
+            "LESS",
+            "Various",
+            "upon",
+            "HI",
+            "published",
+            " unpublished"
+        ],
+        "positive_strings": [
+            " lapt",
+            " agre",
+            "VIDIA",
+            "asus",
+            "nesday",
+            " destro",
+            " proble",
+            " challeng",
+            "atron",
+            "yssey"
+        ],
+        "description": "terms related to female reproductive anatomy and fertility"
+    },
+    {
+        "index": "10001",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_10001.json",
+        "negative_strings": [
+            "083",
+            "021",
+            "\u30fc\u30c6\u30a3",
+            "Bull",
+            "059",
+            " Candidate",
+            "026",
+            "055",
+            "020",
+            "endment"
+        ],
+        "positive_strings": [
+            "athing",
+            " tremend",
+            " enthusi",
+            "pard",
+            "pher",
+            " encour",
+            "uggest",
+            "rael",
+            " misunder",
+            "NetMessage"
+        ],
+        "description": "personal pronouns referring to a female person"
+    },
+    {
+        "index": "22082",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_22082.json",
+        "negative_strings": [
+            " Horizons",
+            "isSpecialOrderable",
+            " Garmin",
+            "izons",
+            "inventoryQuantity",
+            " VMware",
+            "BuyableInstoreAndOnline",
+            " Signal",
+            " momentum",
+            " Slack"
+        ],
+        "positive_strings": [
+            " torture",
+            " punishments",
+            " raping",
+            " abuses",
+            " barbaric",
+            " abuse",
+            " executions",
+            " abusing",
+            " atrocities",
+            " punishment"
+        ],
+        "description": "references to female genital mutilation and related practices"
+    },
+    {
+        "index": "14376",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/female/data_for_feature_14376.json",
+        "negative_strings": [
+            "nesday",
+            " glim",
+            " sacrific",
+            " conclud",
+            "glers",
+            " tremend",
+            "hovah",
+            " Phar",
+            " sinners",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "burgh",
+            "inav",
+            "pora",
+            "anova",
+            " Profile",
+            " Islands",
+            "stro",
+            "kov",
+            "\ufe0f",
+            "eden"
+        ],
+        "description": "female first names starting with \"Lor\" and \"Laur\""
+    }
+]

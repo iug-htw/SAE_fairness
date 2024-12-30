@@ -1,0 +1,602 @@
+[
+    {
+        "index": "375",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_375.json",
+        "negative_strings": [
+            " Tulsa",
+            " Kuwait",
+            " Wichita",
+            " Erdogan",
+            " Azerbaijan",
+            " Akron",
+            " PU",
+            " Azerbai",
+            " Raptors",
+            " Nigerian"
+        ],
+        "positive_strings": [
+            " Doctor",
+            "Doctor",
+            " Moff",
+            "ARDIS",
+            " Clara",
+            " Doctors",
+            " Sherlock",
+            " Dale",
+            " regeneration",
+            " regener"
+        ],
+        "description": "references to specific Doctor Who titles and characters"
+    },
+    {
+        "index": "7478",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_7478.json",
+        "negative_strings": [
+            " Yanukovych",
+            "avez",
+            " Kuwait",
+            " Venezuela",
+            " ALEC",
+            "igslist",
+            "enezuel",
+            " Tulsa",
+            "oslav",
+            " Toledo"
+        ],
+        "positive_strings": [
+            " Doctor",
+            "Doctor",
+            " Moff",
+            " Sherlock",
+            " Clara",
+            "ARDIS",
+            " sci",
+            " BBC",
+            " Doctors",
+            " Firefly"
+        ],
+        "description": "references to various Doctor Who productions and their related elements"
+    },
+    {
+        "index": "8519",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_8519.json",
+        "negative_strings": [
+            "appropriate",
+            "usercontent",
+            " ours",
+            " gel",
+            "\ufffd\ufffd",
+            " predators",
+            "pedia",
+            "icable",
+            "mong",
+            "luaj"
+        ],
+        "positive_strings": [
+            "\u5c06",
+            "Royal",
+            "igham",
+            " issued",
+            "ATIONAL",
+            "urch",
+            " Duty",
+            " flagship",
+            "rics",
+            "kov"
+        ],
+        "description": "references to academic institutions and titles such as priest, bishop, and doctor"
+    },
+    {
+        "index": "21778",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_21778.json",
+        "negative_strings": [
+            " redistributed",
+            "\"?",
+            " rooting",
+            ")?",
+            " followed",
+            "?\",",
+            " answered",
+            " fingerprint",
+            " mayors",
+            " zip"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            " Leban",
+            "\ufffd\ufffd",
+            "essors",
+            "isSpecial",
+            " Seym",
+            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
+            " Karin",
+            " metic",
+            "ruciating"
+        ],
+        "description": "mentions of doctors and their titles"
+    },
+    {
+        "index": "9495",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_9495.json",
+        "negative_strings": [
+            "oglu",
+            " \u00ad",
+            "aila",
+            "alysed",
+            "\u2010",
+            "raits",
+            "anchester",
+            "ewitness",
+            "chard",
+            " kilometres"
+        ],
+        "positive_strings": [
+            " tremend",
+            " downright",
+            " alot",
+            " kinda",
+            " insane",
+            " lackluster",
+            "advertising",
+            " VERY",
+            " badass",
+            " thous"
+        ],
+        "description": "content focusing on 'Doctor Who' and its related media"
+    },
+    {
+        "index": "12318",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_12318.json",
+        "negative_strings": [
+            " songs",
+            " singers",
+            " emot",
+            " scenes",
+            "scenes",
+            " Winged",
+            "eros",
+            " Creed",
+            "orean",
+            " patriotism"
+        ],
+        "positive_strings": [
+            "doi",
+            "estinal",
+            "nutrition",
+            "Abstract",
+            "Department",
+            "treatment",
+            "poly",
+            "MD",
+            " pione",
+            " genetic"
+        ],
+        "description": "mentions of medical doctor titles and their associated roles or positions"
+    },
+    {
+        "index": "10092",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_10092.json",
+        "negative_strings": [
+            "avez",
+            "igslist",
+            " Asheville",
+            " prioritize",
+            " Armenia",
+            " Yelp",
+            "imize",
+            " volleyball",
+            " nonprofits",
+            " Lyft"
+        ],
+        "positive_strings": [
+            " Doctor",
+            " Cardiff",
+            " Sir",
+            " BBC",
+            " Whilst",
+            " scept",
+            "ARDIS",
+            " coloured",
+            " Britons",
+            " humour"
+        ],
+        "description": "details about the Doctor and companion relationships in the \"Doctor Who\" series"
+    },
+    {
+        "index": "6797",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_6797.json",
+        "negative_strings": [
+            " territory",
+            " surroundings",
+            " airspace",
+            " wording",
+            " slope",
+            " area",
+            " premises",
+            " jurisdiction",
+            " wavelength",
+            " direction"
+        ],
+        "positive_strings": [
+            " replacements",
+            "DragonMagazine",
+            "enaries",
+            "arers",
+            " certs",
+            "stals",
+            " ambassadors",
+            "assadors",
+            "aneously",
+            "orsi"
+        ],
+        "description": "references to the Doctor Who series and its characters"
+    },
+    {
+        "index": "19679",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_19679.json",
+        "negative_strings": [
+            "factor",
+            "Factor",
+            "EStreamFrame",
+            " Peaks",
+            " Peak",
+            " STATS",
+            "nown",
+            "ItemTracker",
+            "Zero",
+            " Score"
+        ],
+        "positive_strings": [
+            " Saud",
+            "arcer",
+            ":,",
+            "abases",
+            ".-",
+            "reements",
+            "ihu",
+            " Ari",
+            " Neb",
+            "Nev"
+        ],
+        "description": "mentions of individuals with medical titles, particularly doctors"
+    },
+    {
+        "index": "10364",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_10364.json",
+        "negative_strings": [
+            "MIT",
+            "animous",
+            "SPONSORED",
+            "ilet",
+            "pri",
+            "hash",
+            "esta",
+            "ramid",
+            "Princ",
+            " ARTICLE"
+        ],
+        "positive_strings": [
+            " altern",
+            " versatility",
+            " unpredict",
+            " intermitt",
+            " regener",
+            " pacing",
+            " uncanny",
+            " rotated",
+            " Bers",
+            " transitions"
+        ],
+        "description": "mentions and references related to \"Doctor Who\""
+    },
+    {
+        "index": "34776",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_34776.json",
+        "negative_strings": [
+            " enjoys",
+            " starring",
+            " playable",
+            "ebted",
+            "Laun",
+            "tumblr",
+            "Ranked",
+            " bragging",
+            "netflix",
+            " launcher"
+        ],
+        "positive_strings": [
+            " Ambro",
+            " caut",
+            " Canaver",
+            "ierrez",
+            " Probe",
+            " reper",
+            " conclud",
+            " suspic",
+            "endra",
+            "pta"
+        ],
+        "description": "phrases related to medical diagnoses and the actions of doctors"
+    },
+    {
+        "index": "3330",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_3330.json",
+        "negative_strings": [
+            "ilantro",
+            "inventoryQuantity",
+            "ertodd",
+            " Kendrick",
+            " foreclosure",
+            "arijuana",
+            "Trump",
+            "GOP",
+            "erguson",
+            " Kanye"
+        ],
+        "positive_strings": [
+            " fandom",
+            " continuity",
+            " Nemesis",
+            " Davies",
+            " DS",
+            " programme",
+            " Fiji",
+            " Picard",
+            " Fey",
+            " adventures"
+        ],
+        "description": "mentions of the television show Doctor Who"
+    },
+    {
+        "index": "25143",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_25143.json",
+        "negative_strings": [
+            "Palest",
+            " volunt",
+            "cens",
+            "\ufffd",
+            "Gaza",
+            " nig",
+            " testimonies",
+            " disg",
+            " pled",
+            " Allaah"
+        ],
+        "positive_strings": [
+            " Conan",
+            " Moff",
+            " predecessor",
+            " XVI",
+            " Apprentice",
+            " airs",
+            " Torch",
+            " predecessors",
+            " Surprise",
+            " \u203a"
+        ],
+        "description": "references to characters and events from the \"Doctor Who\" series"
+    },
+    {
+        "index": "16190",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_16190.json",
+        "negative_strings": [
+            "isSpecialOrderable",
+            "together",
+            "wcsstore",
+            " COURT",
+            "etition",
+            " upstream",
+            "amazon",
+            "\ufffd",
+            "Downloadha",
+            "rely"
+        ],
+        "positive_strings": [
+            " Grim",
+            " Desmond",
+            " Jonah",
+            "sis",
+            "asus",
+            " Venom",
+            " Doctor",
+            " Paras",
+            " assassinated",
+            " Edmund"
+        ],
+        "description": "phrases related to the TV show \"Doctor Who.\""
+    },
+    {
+        "index": "18504",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_18504.json",
+        "negative_strings": [
+            "acent",
+            "nown",
+            "wings",
+            "tern",
+            "illions",
+            "oms",
+            "hap",
+            "ague",
+            "omed",
+            "adesh"
+        ],
+        "positive_strings": [
+            "HAEL",
+            " Franz",
+            " Quan",
+            " Jen",
+            " Preston",
+            " Kass",
+            " Osw",
+            " Meier",
+            " Ry",
+            " Junk"
+        ],
+        "description": "references to doctors and their professional titles"
+    },
+    {
+        "index": "250",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_250.json",
+        "negative_strings": [
+            "avez",
+            "\ufffd\ufffd",
+            "izons",
+            "fml",
+            " sugg",
+            " zoning",
+            "emetery",
+            "\u30df",
+            "erest",
+            "tions"
+        ],
+        "positive_strings": [
+            "wine",
+            "rake",
+            "Bir",
+            "issance",
+            "alph",
+            "rogen",
+            "inger",
+            "Prim",
+            "oly",
+            "``"
+        ],
+        "description": "names of doctors and sports figures"
+    },
+    {
+        "index": "23915",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_23915.json",
+        "negative_strings": [
+            "erest",
+            "\ufffd",
+            "esville",
+            " horizont",
+            "Thumbnail",
+            "itives",
+            "together",
+            "nings",
+            "ptoms",
+            "ribune"
+        ],
+        "positive_strings": [
+            "\ufffd\u58eb",
+            "akura",
+            " Hare",
+            " Wales",
+            " Misty",
+            " Reincarn",
+            " Theresa",
+            " examines",
+            " Laboratories",
+            " Deaths"
+        ],
+        "description": " references to the television show \"Doctor Who.\""
+    },
+    {
+        "index": "7543",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_7543.json",
+        "negative_strings": [
+            "edition",
+            " Reloaded",
+            " (\u00a3",
+            "/#",
+            "lash",
+            " Rarity",
+            " Forever",
+            "ortium",
+            " \u00a5",
+            "\u30a6"
+        ],
+        "positive_strings": [
+            "ches",
+            "amination",
+            "uss",
+            "ussen",
+            "involved",
+            "elect",
+            " concerned",
+            " evaluations",
+            "Fac",
+            "Discussion"
+        ],
+        "description": "references to doctors and their titles"
+    },
+    {
+        "index": "2987",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_2987.json",
+        "negative_strings": [
+            " flares",
+            "\u30a9",
+            "URA",
+            "\u30b4\u30f3",
+            "\ufffd",
+            "\u9f8d\u559a\u58eb",
+            "SPONSORED",
+            " pardon",
+            " cataly",
+            " contr"
+        ],
+        "positive_strings": [
+            "imester",
+            "anche",
+            "ember",
+            "mort",
+            "ree",
+            "ailable",
+            "ella",
+            "liction",
+            "thro",
+            "cision"
+        ],
+        "description": "references to a specific fictional character named \"Dalek\" from the science fiction series \"Doctor Who\""
+    },
+    {
+        "index": "48638",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/doctor/data_for_feature_48638.json",
+        "negative_strings": [
+            " committees",
+            " Committees",
+            "ittees",
+            " railways",
+            " highways",
+            " Churches",
+            " fleets",
+            " councils",
+            " factions",
+            " successors"
+        ],
+        "positive_strings": [
+            "stein",
+            "enko",
+            "owsky",
+            "\u2588\u2588\u2588\u2588",
+            "\ufffd",
+            "nin",
+            "baum",
+            "anton",
+            "anson",
+            "thy"
+        ],
+        "description": " mentions of doctors and their significant actions or contributions in medical contexts"
+    }
+]

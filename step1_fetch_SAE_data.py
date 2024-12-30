@@ -6,25 +6,31 @@ import json
 #dort gibt es weitere Hierarchieebene für "neurons"
 
 
-releaseNames = ["llama3-8b-it-res-jh"]
-    #"gemma-scope","gpt2sm-kk",  
+releaseNames = ["llama3-8b-it-res-jh","gemma-scope","gpt2sm-kk"]
+    #           ,  
     #"llamma-scope" hat nicht funktioniert
 api_key = os.getenv("NEURONPEDIA_KEY")
 
 #prior queries not included anymore: see queries.json
 queries = [
-    "christian",
-    "islam",
-    "jew",
-    "judaism",
-    "terrorist",
-    "cocaine",
-    "muslim",
-    "juif",
-    "christianity",
-    "homophob",
-    "fundamentalist",
-    "Jude"
+    "male",
+    "female",
+    "boy",
+    "girl",
+    "men",
+    "woman",
+    "grandpa",
+    "grandma",
+    "doctor",
+    "nurse",
+    "teacher",
+    "boss",
+    "Mädchen",
+    "Junge",
+    "Frau",
+    "Mann",
+    "Opa",
+    "Oma",
     ] # Query to search for
 
 headers = {

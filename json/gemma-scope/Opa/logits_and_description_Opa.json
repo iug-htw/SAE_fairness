@@ -1,0 +1,56 @@
+[
+    {
+        "index": "124831",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Opa/data_for_feature_124831.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Prefixes and suffixes of various words, including \"op\", \"oper\", \"opp\", \"sup\", \"cop\", \"opa\", \"opin\", and others, which often have Latin roots and are used to form words with different meanings, often in fields like law, medicine, and music."
+    },
+    {
+        "index": "63081",
+        "layer": "3-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Opa/data_for_feature_63081.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Familial relationships (grandparent, aunt, uncle), affectionate titles (Opa, Oma, Gandalf, Sifu), and cultural terms of endearment, indicating a familial or close relationship."
+    },
+    {
+        "index": "104495",
+        "layer": "7-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/Opa/data_for_feature_104495.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, organization names, technical terms, surnames, and website addresses often contain \"pa\" or \"PA\", and sometimes \"apa\", \"IPA\", \"opa\", or \"upa\" as part of the name."
+    },
+    {
+        "index": "18120",
+        "layer": "0-gemmascope-att-65k",
+        "url": "json/gemma-scope/Opa/data_for_feature_18120.json",
+        "negative_strings": [
+            "\u2581avoient",
+            "\u2581feroit",
+            "\u2581auroit",
+            "\u2581imprim\u00e9e",
+            "SourceChecksum",
+            "\u2581\u00e9toient",
+            "\u2581pouvoit",
+            "\u2581ainfi",
+            "\u2581chr\u00e9",
+            "\u2581abstrait"
+        ],
+        "positive_strings": [
+            "/",
+            "}",
+            "NSNotification",
+            "\u2581(",
+            "-",
+            "1",
+            "\u2581Es",
+            "%",
+            "\u2581enca",
+            "ManagedBean"
+        ],
+        "description": " attends to tokens related to \"opa\" from associated tokens marked with \"ed.\""
+    }
+]

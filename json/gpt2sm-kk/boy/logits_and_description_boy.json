@@ -1,0 +1,602 @@
+[
+    {
+        "index": "9358",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_9358.json",
+        "negative_strings": [
+            " Berman",
+            "veland",
+            " Watergate",
+            " Ferguson",
+            " Manit",
+            " Berm",
+            "orne",
+            " Carpenter",
+            " Rutherford",
+            "erguson"
+        ],
+        "positive_strings": [
+            " Girls",
+            "Girls",
+            " girls",
+            "girls",
+            " Girl",
+            " girl",
+            "Girl",
+            "girl",
+            " Boys",
+            " boys"
+        ],
+        "description": "references to societal issues impacting boys and girls, particularly in education and representation"
+    },
+    {
+        "index": "3786",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_3786.json",
+        "negative_strings": [
+            " Emergency",
+            " Budget",
+            "Offline",
+            "Rest",
+            " Synd",
+            " Controlled",
+            " crem",
+            " Tax",
+            "\u30bb",
+            " refuel"
+        ],
+        "positive_strings": [
+            " boys",
+            " girls",
+            " females",
+            "Girls",
+            " Girls",
+            "girls",
+            " males",
+            "boys",
+            " Females",
+            " Boys"
+        ],
+        "description": " references to gender and the portrayal of boys and girls in literature"
+    },
+    {
+        "index": "20761",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_20761.json",
+        "negative_strings": [
+            " reper",
+            "\ufffd\ufffd",
+            "paio",
+            " Antar",
+            "chwitz",
+            " indemn",
+            " cyan",
+            "ifix",
+            " grazing",
+            "urion"
+        ],
+        "positive_strings": [
+            " girls",
+            " Girls",
+            "Girls",
+            "girls",
+            " boys",
+            " girl",
+            " Girl",
+            " females",
+            "Girl",
+            "girl"
+        ],
+        "description": "discussions about educational challenges and differences affecting boys and girls"
+    },
+    {
+        "index": "33689",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_33689.json",
+        "negative_strings": [
+            " SAP",
+            " Shroud",
+            " Paragu",
+            " Tsuk",
+            " rapp",
+            " caul",
+            "uci",
+            " Umb",
+            " Hulu",
+            "EStreamFrame"
+        ],
+        "positive_strings": [
+            "boy",
+            "boys",
+            "Boy",
+            " Boys",
+            " Boy",
+            " boy",
+            " boys",
+            "bish",
+            "girl",
+            "Girl"
+        ],
+        "description": "references to specific characters or entities associated with a series named \"Trailer Park Boys.\""
+    },
+    {
+        "index": "23353",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_23353.json",
+        "negative_strings": [
+            " discipline",
+            "Connector",
+            " natural",
+            " chemistry",
+            " workload",
+            " stint",
+            " suspensions",
+            " grades",
+            " fines",
+            " proficiency"
+        ],
+        "positive_strings": [
+            "antly",
+            "enium",
+            "\u7248",
+            "endants",
+            " balcon",
+            "anwhile",
+            "interstitial",
+            "umatic",
+            "pty",
+            "lete"
+        ],
+        "description": "names of individuals described as poster boys or poster children in various contexts"
+    },
+    {
+        "index": "23353",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_23353.json",
+        "negative_strings": [
+            " discipline",
+            "Connector",
+            " natural",
+            " chemistry",
+            " workload",
+            " stint",
+            " suspensions",
+            " grades",
+            " fines",
+            " proficiency"
+        ],
+        "positive_strings": [
+            "antly",
+            "enium",
+            "\u7248",
+            "endants",
+            " balcon",
+            "anwhile",
+            "interstitial",
+            "umatic",
+            "pty",
+            "lete"
+        ],
+        "description": "names of individuals described as poster boys or poster children in various contexts"
+    },
+    {
+        "index": "20141",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_20141.json",
+        "negative_strings": [
+            "oslav",
+            " repaid",
+            " repayment",
+            " accustomed",
+            "igne",
+            " redistributed",
+            " together",
+            " winters",
+            " sworn",
+            " allowances"
+        ],
+        "positive_strings": [
+            "umatic",
+            "culosis",
+            "lete",
+            "ript",
+            " Icar",
+            "STAT",
+            "icons",
+            "neum",
+            " Computing",
+            "iac"
+        ],
+        "description": "references to 'poster boy' or 'poster child' in various contexts"
+    },
+    {
+        "index": "989",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_989.json",
+        "negative_strings": [
+            "76561",
+            " Lange",
+            "\ufffd\ufffd",
+            "NetMessage",
+            "assis",
+            " refuel",
+            " Tracker",
+            " Luxem",
+            " Wast",
+            " DPR"
+        ],
+        "positive_strings": [
+            " preschool",
+            " puberty",
+            " kindergarten",
+            "Parents",
+            " adolescence",
+            " kids",
+            " school",
+            " adulthood",
+            " teenagers",
+            " toddlers"
+        ],
+        "description": "references to gender roles and stereotypes, particularly concerning boys and girls in educational contexts"
+    },
+    {
+        "index": "17939",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_17939.json",
+        "negative_strings": [
+            "lihood",
+            " indirect",
+            " issu",
+            "ramid",
+            " mechanisms",
+            " banners",
+            " ACTIONS",
+            "yss",
+            " stations",
+            " sqor"
+        ],
+        "positive_strings": [
+            "ija",
+            " Corvette",
+            "jack",
+            " Alter",
+            " Amelia",
+            "Jr",
+            "ogie",
+            " Wolver",
+            " Alma",
+            " Orleans"
+        ],
+        "description": "references to minors, specifically boys and girls"
+    },
+    {
+        "index": "9539",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_9539.json",
+        "negative_strings": [
+            "govtrack",
+            "eus",
+            "Vers",
+            "lations",
+            "ilater",
+            "Planet",
+            " Hots",
+            "Spect",
+            " hubs",
+            " prominently"
+        ],
+        "positive_strings": [
+            "iary",
+            " RCMP",
+            " Rodrigo",
+            "ukemia",
+            "olesterol",
+            "cipline",
+            " ADD",
+            "ploma",
+            " cane",
+            "rette"
+        ],
+        "description": "references to specific individuals (e.g., man, woman, or boy) in different scenarios"
+    },
+    {
+        "index": "16985",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_16985.json",
+        "negative_strings": [
+            "aunder",
+            "owl",
+            "baugh",
+            "wrong",
+            "inventoryQuantity",
+            "oeuv",
+            "estern",
+            "ossal",
+            "tesque",
+            "CHAPTER"
+        ],
+        "positive_strings": [
+            ")?",
+            "?",
+            "?!",
+            "'?",
+            "\"?",
+            " alternatives",
+            "?:",
+            "?).",
+            " neighbors",
+            "!?"
+        ],
+        "description": " inquiries regarding the challenges and experiences of men and boys, particularly in relation to societal expectations and parental involvement"
+    },
+    {
+        "index": "12433",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_12433.json",
+        "negative_strings": [
+            "aeda",
+            "raviolet",
+            "ickr",
+            "insula",
+            "nyder",
+            "umbn",
+            "undai",
+            "psey",
+            " prevailing",
+            "icago"
+        ],
+        "positive_strings": [
+            "WithNo",
+            "\\\\\\\\\\\\\\\\",
+            "friend",
+            "buster",
+            "fish",
+            "pool",
+            "ishly",
+            " Chaser",
+            "backer",
+            "lings"
+        ],
+        "description": "boys or male characters"
+    },
+    {
+        "index": "646",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_646.json",
+        "negative_strings": [
+            "mble",
+            "aeda",
+            "undai",
+            "icago",
+            "raviolet",
+            " prosecuting",
+            " plurality",
+            " receptive",
+            "andem",
+            "insula"
+        ],
+        "positive_strings": [
+            "fish",
+            "WithNo",
+            "friend",
+            "\\\\\\\\",
+            "buster",
+            "bags",
+            "ishly",
+            "boy",
+            "brother",
+            "backer"
+        ],
+        "description": "references to the term \"boy\", often used in the context of fandom or criticism"
+    },
+    {
+        "index": "15234",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_15234.json",
+        "negative_strings": [
+            "JUST",
+            "eele",
+            "aeda",
+            "mediated",
+            "andem",
+            "Palest",
+            "ablishment",
+            "resents",
+            "trak",
+            "inventoryQuantity"
+        ],
+        "positive_strings": [
+            "lings",
+            "backer",
+            "fish",
+            "smanship",
+            "bags",
+            "buster",
+            "ager",
+            "ishly",
+            "bag",
+            "hood"
+        ],
+        "description": "the word \"boys\" or its variations"
+    },
+    {
+        "index": "739",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_739.json",
+        "negative_strings": [
+            "USS",
+            "OFF",
+            "\ufffd",
+            "CHAT",
+            " HEAD",
+            " Hazard",
+            " OFF",
+            " PAY",
+            "RP",
+            "DragonMagazine"
+        ],
+        "positive_strings": [
+            " alike",
+            " domest",
+            " extraord",
+            " incarn",
+            " campaigners",
+            "emale",
+            " aspiration",
+            " advocates",
+            " Egyptians",
+            " companions"
+        ],
+        "description": "demographics such as boys, men, women, young adults, and children"
+    },
+    {
+        "index": "13227",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_13227.json",
+        "negative_strings": [
+            "yip",
+            "irie",
+            "eer",
+            "raviolet",
+            "eers",
+            "ierrez",
+            "ourke",
+            " hindsight",
+            "itialized",
+            "issue"
+        ],
+        "positive_strings": [
+            " ILCS",
+            "TPPStreamerBot",
+            "taboola",
+            "SPONSORED",
+            "\u5973",
+            "cffffcc",
+            "pedia",
+            "Minecraft",
+            "\u00f0",
+            "SourceFile"
+        ],
+        "description": "gender-related discussions, particularly around societal issues impacting men and boys"
+    },
+    {
+        "index": "6958",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_6958.json",
+        "negative_strings": [
+            " mattress",
+            "adder",
+            " Osw",
+            "culosis",
+            " Builder",
+            "\u30b4\u30f3",
+            " chuckle",
+            " Junk",
+            " Hend",
+            "phrine"
+        ],
+        "positive_strings": [
+            "Catal",
+            "wcsstore",
+            " Catalonia",
+            "?\u300d",
+            "={",
+            " \u200b",
+            "'?",
+            "\u00eds",
+            "\u00ee",
+            "\u200e"
+        ],
+        "description": " references to societal challenges faced by men and boys"
+    },
+    {
+        "index": "2186",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_2186.json",
+        "negative_strings": [
+            "raints",
+            "uart",
+            "independent",
+            "emed",
+            "hetti",
+            "VK",
+            "allery",
+            "ulous",
+            "itored",
+            "alez"
+        ],
+        "positive_strings": [
+            "terness",
+            " suspic",
+            "etheless",
+            " gobl",
+            " Saiyan",
+            "worms",
+            "cakes",
+            " Enhancement",
+            " overc",
+            " nood"
+        ],
+        "description": "references to boys"
+    },
+    {
+        "index": "8910",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_8910.json",
+        "negative_strings": [
+            "bleacher",
+            " Lov",
+            " Sett",
+            " Spiel",
+            " Doe",
+            " Gw",
+            "ijk",
+            " Garry",
+            " Starr",
+            " Uk"
+        ],
+        "positive_strings": [
+            " Canon",
+            " Typhoon",
+            "canon",
+            " Nikon",
+            "nikov",
+            " Cinema",
+            "EngineDebug",
+            " Fuji",
+            " lens",
+            " airplanes"
+        ],
+        "description": " keywords related to organizations, particularly youth organizations like the Boy Scouts of America"
+    },
+    {
+        "index": "5540",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/boy/data_for_feature_5540.json",
+        "negative_strings": [
+            " Gomez",
+            " Fallout",
+            " Kern",
+            "anchester",
+            "zes",
+            " Joey",
+            " Rails",
+            " Bender",
+            "Whe",
+            " Haley"
+        ],
+        "positive_strings": [
+            " serpent",
+            " Vaugh",
+            " ser",
+            " advoc",
+            " precip",
+            "theless",
+            " nonex",
+            " firsthand",
+            " vantage",
+            "voy"
+        ],
+        "description": "references to legal or societal issues specifically affecting men and boys"
+    }
+]
