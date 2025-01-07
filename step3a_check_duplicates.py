@@ -3,7 +3,7 @@ import re
 import json
 from collections import defaultdict
 
-modelReleases = ["llama3.1-8b-eleuther_gp", "llama-scope","gemma-scope","gpt2sm-apollojt","gpt2sm-rfs-jb" ]
+modelReleases = ["llama3.1-8b-eleuther_gp", "llama-scope","gemma-scope","gpt2sm-apollojt","gpt2sm-rfs-jb", "gpt2sm-kk", "llama3-8b-it-res-jh" ]
 
 # this checks for duplicates in the feature numbers
 
