@@ -1,0 +1,404 @@
+[
+    {
+        "index": "7174",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_7174.json",
+        "negative_strings": [
+            "\u2581boste",
+            "\u2581n\u00f8dvendig",
+            "\u2581plain",
+            "RTLE",
+            "\u2581another",
+            "\u2581especially",
+            "\"\\",
+            "\u2581\u00e9pa",
+            "\u2581remaining",
+            "downe"
+        ],
+        "positive_strings": [
+            "\u2581Dr",
+            "Dr",
+            "\u2581Drs",
+            "\u2581dr",
+            "\u2581Seuss",
+            "ummer",
+            "\u2581DR",
+            "Doctor",
+            "\u2581Jekyll",
+            "\u2581docteur"
+        ],
+        "description": "Honorifics or academic titles preceding names, such as \"Dr.\", \"PhD\", \"Professor\", \"MD\", indicating a person with a high level of expertise or a specific profession."
+    },
+    {
+        "index": "100054",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_100054.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles or nouns referring to roles of expertise or authority, such as professors, professionals, and prophets, which are often honorific or signifying specialized knowledge."
+    },
+    {
+        "index": "57517",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_57517.json",
+        "negative_strings": [
+            "\u2581c\u00e0",
+            "\u2581utafitiHapana",
+            "########.",
+            "\u2581cro",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581poj",
+            "->___",
+            "\u2581Viva",
+            "\u2581Stip",
+            "\u2581Salve"
+        ],
+        "positive_strings": [
+            "\u2581autorytatywna",
+            "lig",
+            "anity",
+            "essori",
+            "\u2581lenker",
+            "Prof",
+            "\u2581prof",
+            "esseur",
+            "\u2581PROF",
+            "ressional"
+        ],
+        "description": "words related to professors or academic titles"
+    },
+    {
+        "index": "104574",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_104574.json",
+        "negative_strings": [
+            "\u2581Bell",
+            "Bell",
+            "\u2581Bee",
+            "BELL",
+            "kmale",
+            "\u2581Stip",
+            "\u2581glu",
+            "ATORS",
+            "\u2581poj",
+            "\u2581cro"
+        ],
+        "positive_strings": [
+            "\u2581lenker",
+            "\u2581autorytatywna",
+            "\u2581intptr",
+            "\u2581surla",
+            "\u2581prof",
+            "esser",
+            "SourceChecksum",
+            "ressional",
+            "lig",
+            "ound"
+        ],
+        "description": "references to the title \"Professor\" in various contexts"
+    },
+    {
+        "index": "80799",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_80799.json",
+        "negative_strings": [
+            "AndEndTag",
+            "\u2581cro",
+            "\u2581fluide",
+            "\u2581Screen",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "BarItem",
+            "\u2581Bee",
+            "\u2581Cell",
+            "Bell",
+            "\u2581Snake"
+        ],
+        "positive_strings": [
+            "\u2581lenker",
+            "lig",
+            "ressional",
+            "esser",
+            "\u2581prof",
+            "essions",
+            "ESSION",
+            "\u2581PROF",
+            "ecy",
+            "esso"
+        ],
+        "description": "references to professors or academic titles"
+    },
+    {
+        "index": "59718",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_59718.json",
+        "negative_strings": [
+            "AndEndTag",
+            "RectangleBorder",
+            "Geplaatst",
+            "$_['",
+            "ArrowToggle",
+            "\u2581nahilalakip",
+            "\u064a\u0645\u064a\u062f\u064a\u0627",
+            "XmlAccessType",
+            "\u00fag\u00f3",
+            "ATORS"
+        ],
+        "positive_strings": [
+            "\u2581prof",
+            "\u2581PROF",
+            "Prof",
+            "\u2581lenker",
+            "\u2581Prof",
+            "prof",
+            "esso",
+            "ound",
+            "esser",
+            "\u2581Profil"
+        ],
+        "description": "references to the concept of \"prof\" or \"professor\""
+    },
+    {
+        "index": "4199",
+        "layer": "34-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_4199.json",
+        "negative_strings": [
+            "makeText",
+            "\u2581initComponents",
+            "rzez",
+            "\u2581It\u00e1lia",
+            "Discography",
+            "\u2581Egipto",
+            "\u2581env\u00eda",
+            "EndContext",
+            "\u2581provinsi",
+            "\u2581Hoffnung"
+        ],
+        "positive_strings": [
+            "\u2581professional",
+            "\u2581Professional",
+            "ism",
+            "professional",
+            "\u2581PROFESSIONAL",
+            "Professional",
+            "ized",
+            "\u2581profesional",
+            "\u2581grade",
+            "ize"
+        ],
+        "description": "The term \"professional\" and its various forms, including \"profession\", \"professor\", and abbreviations like \"pro\", often indicating expertise, vocation, or occupation in a context."
+    },
+    {
+        "index": "14712",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_14712.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Common patterns found include linking verbs, adjectives, and adverbs that describe or characterize people, staff, professors, or services as positive, friendly, helpful, understanding, great, wonderful, fantastic, or excellent."
+    },
+    {
+        "index": "51496",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_51496.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles or positions of authority, often in academic or professional settings, such as professors, researchers, doctors, and executives."
+    },
+    {
+        "index": "124905",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_124905.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns referring to academic staff, including \"faculty\", \"staff\", \"clergy\", \"professor\", and \"instructor\", typically found in educational or academic contexts."
+    },
+    {
+        "index": "27901",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_27901.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"faculty\" used in academic contexts to refer to professors, instructors, or other educators at a university or college, often appearing in formal and descriptive passages."
+    },
+    {
+        "index": "33871",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_33871.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words ending in \"-er\", \"-or\", or \"-is\" often signifying a person or organization that performs a specific role or function, such as advisER, sponsOR, treasURER, professOR, or counsELOR."
+    },
+    {
+        "index": "9364",
+        "layer": "31-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_9364.json",
+        "negative_strings": [
+            "\u2581non",
+            "\u2581Non",
+            "Non",
+            "ennom",
+            "\u2581plain",
+            "enes",
+            "ene",
+            "anyag",
+            "non",
+            "\u2581\u062c\u0645\u0639"
+        ],
+        "positive_strings": [
+            "\u2581Drs",
+            "\u2581Dr",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "Dr",
+            "\u2581DR",
+            "Doctor",
+            "principalTable",
+            "\u2581MainAxisSize",
+            "\u2581dr",
+            "\u2581DOCTOR"
+        ],
+        "description": "Titles and suffixes of individuals, particularly in academic and professional contexts, often denoted by abbreviations such as \"Dr\", \"Ph.D\", or words like \"physician\" and \"professor\"."
+    },
+    {
+        "index": "63151",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_63151.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns or adjectives referring to people or entities that interact with a service, product, or organization, often denoting roles or relationships such as customer, user, patient, member, client, student, teacher, professor, volunteer, employee, or audience."
+    },
+    {
+        "index": "34918",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_34918.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns referring to educators or university personnel, primarily professors and instructors."
+    },
+    {
+        "index": "45833",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_45833.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Common patterns include mentions of job titles or professions, often in formal or official contexts, such as \"Attorney\", \"Lawyer\", \"Professor\", and other related terms, which often appear in phrases that introduce or describe individuals, typically in formal or professional settings."
+    },
+    {
+        "index": "10904",
+        "layer": "30-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_10904.json",
+        "negative_strings": [
+            "csi",
+            "\ufeff\r",
+            "\u2581mogelijk",
+            "AppMethodBeat",
+            "\u0449\u0430\u0434\u044c",
+            "\\/",
+            "est",
+            "\u044d\u0442\u043e\u043c\u0443",
+            "\u3000\u3000\uff08",
+            "\u1160"
+        ],
+        "positive_strings": [
+            "\u2581Mister",
+            "Mister",
+            "\u2581Monfieur",
+            "Mr",
+            "\u2581Mr",
+            "\u2581MRS",
+            "WithIOException",
+            "\u2581MR",
+            "\u2581m\u00e9t\u00e9o",
+            "\u2581mrs"
+        ],
+        "description": "Honorific titles such as Mr, Mrs, Ms, Dr, and Professor often precede a person's name, and abbreviations like Mr., Dr., or Prof. are commonly used."
+    },
+    {
+        "index": "89246",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_89246.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "\u2581nakalista",
+            "enterOuterAlt",
+            "\u5e16\u6700\u540e\u7531",
+            "irited",
+            "httphttps",
+            "\u043e\u043b\u043e\u0432\u0456",
+            "\u2581autorytatywna",
+            "bootstrapcdn",
+            "RTEE"
+        ],
+        "positive_strings": [
+            "\u2581Extension",
+            "Extension",
+            "\u2581extension",
+            "\u2581profes",
+            "\u2581extensi\u00f3n",
+            "profes",
+            "\u2581Clinical",
+            "\u2581professor",
+            "extension",
+            "\u2581Professor"
+        ],
+        "description": "terms related to academic titles or positions, specifically focusing on professors and assistants"
+    },
+    {
+        "index": "10254",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/professor/data_for_feature_10254.json",
+        "negative_strings": [
+            "\u2581Kraw",
+            "\u0e48\u0e27\u0e07",
+            "\u0e23\u0e2d\u0e07",
+            "atility",
+            "\u0449\u0435\u043d\u0438\u044e",
+            "\u2581Bayard",
+            "\u2581McNamara",
+            "\u2581Borders",
+            "lete",
+            "\u2581Altman"
+        ],
+        "positive_strings": [
+            "Teach",
+            "\u2581Teach",
+            "Teaching",
+            "\u2581teach",
+            "\u2581pinulongan",
+            "\u2581Teaching",
+            "\u2581teaching",
+            "teaching",
+            "\u2581TEACH",
+            "teach"
+        ],
+        "description": "Titles or roles associated with education or instruction, such as teaching, professor, lecturer, coach, or nursing, often in an academic, clinical, or professional setting."
+    },
+    {
+        "index": "73207",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/professor/data_for_feature_73207.json",
+        "negative_strings": [
+            "AnchorStyles",
+            "setVerticalGroup",
+            "\u2581\u062a\u0643\u0628\u0631\u0647\u0627",
+            "\u2581Comprometido",
+            "modelBuilder",
+            "\u2581Jehov\u00e1",
+            "instancetype",
+            "aarrggbb",
+            "tvguidetime",
+            "\u2581OnTriggerEnter"
+        ],
+        "positive_strings": [
+            "\u2581Departments",
+            "\u2581Department",
+            "\u2581Dept",
+            "\u2581Germanic",
+            "Departments",
+            "Dept",
+            "\u2581psychiatry",
+            "\u2581departments",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "Department"
+        ],
+        "description": "phrases related to academic departments and professors"
+    }
+]

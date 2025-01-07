@@ -1,0 +1,602 @@
+[
+    {
+        "index": "26257",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_26257.json",
+        "negative_strings": [
+            "anium",
+            "xing",
+            "INGS",
+            "EncodingException",
+            "cision",
+            " recurrence",
+            "ityEngine",
+            "\u00d0\u00b3\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b4",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b4",
+            "ampionship"
+        ],
+        "positive_strings": [
+            "ist",
+            "ists",
+            " area",
+            " desk",
+            "nist",
+            "-area",
+            " Desk",
+            "area",
+            " desks",
+            "ista"
+        ],
+        "description": " references to the role of receptionists or reception areas"
+    },
+    {
+        "index": "99663",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_99663.json",
+        "negative_strings": [
+            "ainen",
+            " spectator",
+            "anko",
+            "fal",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d1\u0124",
+            "prov",
+            "cision",
+            "ocking",
+            "\u00eb\u00a7\u0132",
+            "rous"
+        ],
+        "positive_strings": [
+            "ists",
+            "ist",
+            " area",
+            "-area",
+            " desk",
+            "istas",
+            "area",
+            "_area",
+            " Desk",
+            " areas"
+        ],
+        "description": " references to receptionists or reception-related roles"
+    },
+    {
+        "index": "7455",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_7455.json",
+        "negative_strings": [
+            "ainen",
+            "fal",
+            "iqueta",
+            "headed",
+            "\u00d1\u0123\u00d0\u00b8\u00d0\u00b9",
+            "lek",
+            " meis",
+            " ep",
+            " sobie",
+            "upported"
+        ],
+        "positive_strings": [
+            " desk",
+            " Desk",
+            " area",
+            "ists",
+            "-area",
+            "_area",
+            "istas",
+            "area",
+            "desk",
+            " desks"
+        ],
+        "description": "mentions of roles related to receptionists"
+    },
+    {
+        "index": "1643",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_1643.json",
+        "negative_strings": [
+            "ainen",
+            " meis",
+            "anko",
+            "fal",
+            "anium",
+            "\u00c3\u00bc\u00c3\u00a7\u00c3\u00bck",
+            "\u00d8",
+            "ANE",
+            "   ",
+            "\u00d0\u00b3\u00d0\u00bb\u00d1\u0131"
+        ],
+        "positive_strings": [
+            " desk",
+            " reception",
+            " Reception",
+            "ists",
+            "-area",
+            " area",
+            " Desk",
+            "ist",
+            "desk",
+            "_area"
+        ],
+        "description": "references to receptionists or reception-related roles"
+    },
+    {
+        "index": "104135",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_104135.json",
+        "negative_strings": [
+            "ainen",
+            "anko",
+            "tings",
+            "iqueta",
+            "\u00d1\u0123\u00d0\u00b8\u00d0\u00b9",
+            "ulis",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d1\u0124",
+            " meis",
+            "arter",
+            "   "
+        ],
+        "positive_strings": [
+            "ist",
+            "ists",
+            "istas",
+            " desk",
+            "ista",
+            " area",
+            "naire",
+            "-area",
+            "istes",
+            "isty"
+        ],
+        "description": "terms related to receptionists and their roles"
+    },
+    {
+        "index": "32926",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_32926.json",
+        "negative_strings": [
+            "ainen",
+            "letic",
+            "anko",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d1\u0124",
+            " meis",
+            "ulis",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d1\u0124",
+            " sobie",
+            " \u00e6\u00a9\u0141",
+            "iqueta"
+        ],
+        "positive_strings": [
+            "ist",
+            "ists",
+            " area",
+            " desk",
+            "-area",
+            "istas",
+            " areas",
+            "_area",
+            " Desk",
+            "area"
+        ],
+        "description": " mentions of receptionists or related roles within various professional contexts"
+    },
+    {
+        "index": "6555",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_6555.json",
+        "negative_strings": [
+            "xing",
+            "isi",
+            "\u00ed",
+            "fix",
+            "realm",
+            "reece",
+            "gings",
+            "ging",
+            "osci",
+            "644"
+        ],
+        "positive_strings": [
+            "ively",
+            " Sass",
+            "/trans",
+            "ance",
+            "ivity",
+            "\u00d0\u00bb\u00d0\u00b5\u00d0\u00bc",
+            "ables",
+            "\u00eb\u00a3\u012e",
+            "iens",
+            "roma"
+        ],
+        "description": " references to receptionists or reception-related contexts"
+    },
+    {
+        "index": "100421",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_100421.json",
+        "negative_strings": [
+            "\u00cf\u0122\u00ce\u00ac",
+            " meis",
+            "ainen",
+            "anko",
+            "   ",
+            "ouz",
+            "ubyte",
+            "letic",
+            "%B",
+            "anium"
+        ],
+        "positive_strings": [
+            "ively",
+            "naire",
+            "ible",
+            "ary",
+            "ists",
+            "ator",
+            "ist",
+            "ista",
+            "onym",
+            " desk"
+        ],
+        "description": "terms related to receptionists and their roles"
+    },
+    {
+        "index": "80672",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_80672.json",
+        "negative_strings": [
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00b5\u00d1\u0124",
+            "zos",
+            "peng",
+            "iqueta",
+            "stype",
+            "-scrollbar",
+            " meis",
+            "rous",
+            "tti",
+            "uthor"
+        ],
+        "positive_strings": [
+            " desk",
+            "ists",
+            "ist",
+            " desks",
+            " Desk",
+            "istas",
+            "ista",
+            "/front",
+            "desk",
+            " area"
+        ],
+        "description": "mentions of receptionists and reception-related roles"
+    },
+    {
+        "index": "15479",
+        "layer": "17-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_15479.json",
+        "negative_strings": [
+            "tings",
+            " latter",
+            "/loose",
+            "\u00eb\u00a6\u00bd",
+            " exper",
+            "vet",
+            "osci",
+            "ainen",
+            "ollen",
+            "414"
+        ],
+        "positive_strings": [
+            "ists",
+            "ively",
+            "aire",
+            "ist",
+            "istas",
+            "ording",
+            "bum",
+            " adequ",
+            "naire",
+            "ate"
+        ],
+        "description": " terms related to receptionists and their roles"
+    },
+    {
+        "index": "39276",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_39276.json",
+        "negative_strings": [
+            "chas",
+            "hani",
+            "\u00e8\u012a",
+            " bana",
+            "\u00e5\u00bd\u00a6",
+            " b\u00c3\u00a1nh",
+            " Reception",
+            " columna",
+            "\u00e0\u00b8\u00a4\u00e0\u00b8\u00a9",
+            "hek"
+        ],
+        "positive_strings": [
+            " area",
+            "voje",
+            " Area",
+            "Areas",
+            "Area",
+            "-area",
+            "bere",
+            " areas",
+            " AREA",
+            "AreaView"
+        ],
+        "description": " references to job titles or roles associated with receptionists"
+    },
+    {
+        "index": "11273",
+        "layer": "16-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_11273.json",
+        "negative_strings": [
+            "arra",
+            "ainen",
+            "keit",
+            "chwitz",
+            "xing",
+            "zers",
+            "414",
+            "tings",
+            "ouz",
+            "c"
+        ],
+        "positive_strings": [
+            "ively",
+            "naire",
+            "ary",
+            "ipy",
+            "istas",
+            "writeln",
+            "aire",
+            "/Foundation",
+            "ive",
+            "avel"
+        ],
+        "description": "terms related to receptionists and their roles"
+    },
+    {
+        "index": "123905",
+        "layer": "25-llamascope-mlp-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_123905.json",
+        "negative_strings": [
+            "quee",
+            "allon",
+            " Programmer",
+            "\u00d0\u00b0\u00d0\u00bb\u00d0\u00be\u00d0\u00b2",
+            "tility",
+            "oppable",
+            "Extern",
+            "stants",
+            " qu",
+            "aption"
+        ],
+        "positive_strings": [
+            "ist",
+            "opol",
+            "a",
+            "umer",
+            "po",
+            "\u00c3\u00a6",
+            "th",
+            "gewater",
+            "ien",
+            "216"
+        ],
+        "description": " terms related to the role and function of receptionists in various contexts"
+    },
+    {
+        "index": "108312",
+        "layer": "23-llamascope-mlp-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_108312.json",
+        "negative_strings": [
+            "BT",
+            "\u00d9\u012a\u00d8\u00b1\u00d8\u00a7\u00d9\u0128",
+            "391",
+            " \u00d8\u00b3\u00db\u012e",
+            "ulis",
+            "\u00e5\u00af\u00a7",
+            "\u00da\u00af\u00db\u012e",
+            "\u00e0\u00a4\u00bf\u00e0\u00a4\u00a1",
+            " Bake",
+            "ropp"
+        ],
+        "positive_strings": [
+            "empt",
+            "_area",
+            " Area",
+            "uncios",
+            " AREA",
+            "ist",
+            "utton",
+            "edm",
+            "onomous",
+            "asca"
+        ],
+        "description": "references to various roles or positions related to receptionists"
+    },
+    {
+        "index": "57013",
+        "layer": "22-llamascope-mlp-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_57013.json",
+        "negative_strings": [
+            ".POS",
+            "chner",
+            "//{{",
+            "sert",
+            "rrha",
+            "BOUND",
+            "mand",
+            "-Core",
+            " Dag",
+            " \u00ec\u00b1"
+        ],
+        "positive_strings": [
+            "ist",
+            "ists",
+            "icha",
+            "istas",
+            "ism",
+            "IST",
+            "346",
+            " ovar",
+            "\u00c3\u00a4lt",
+            "-area"
+        ],
+        "description": " mentions of receptionists and reception-related contexts"
+    },
+    {
+        "index": "19378",
+        "layer": "24-llamascope-mlp-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_19378.json",
+        "negative_strings": [
+            " Sunder",
+            "hos",
+            "agas",
+            "/org",
+            "ioso",
+            " Excell",
+            "aeper",
+            " \u00c4\u0133o\u00e1\u00ba\u00a1n",
+            " Cornwall",
+            "code"
+        ],
+        "positive_strings": [
+            "\u00a3\u00bc",
+            "\u00e7\u0135\u013e",
+            "ist",
+            "QUI",
+            "qv",
+            "eres",
+            "nist",
+            "wards",
+            "OST",
+            "ook"
+        ],
+        "description": " mentions of receptionists or reception-related roles"
+    },
+    {
+        "index": "19445",
+        "layer": "13-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_19445.json",
+        "negative_strings": [
+            "c",
+            "one",
+            "entic",
+            "ulus",
+            "action",
+            "-\u00d0\u00b7\u00d0\u00b0",
+            "\u00cc\u012a",
+            "x",
+            "anko",
+            "cation"
+        ],
+        "positive_strings": [
+            "ively",
+            "GenerationStrategy",
+            "naire",
+            "undra",
+            "ables",
+            "ariat",
+            "nik",
+            "ive",
+            "edImage",
+            "ries"
+        ],
+        "description": "terms related to receptions and the role of receptionists"
+    },
+    {
+        "index": "47615",
+        "layer": "5-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_47615.json",
+        "negative_strings": [
+            "engl",
+            "/qt",
+            " Lace",
+            "IFO",
+            " Becker",
+            "ailles",
+            "adal",
+            "insic",
+            "inst",
+            "app"
+        ],
+        "positive_strings": [
+            " rede",
+            "\u00e0\u00a4\u0141\u00e0\u00a4\u0137",
+            "heimer",
+            ".Generated",
+            " reint",
+            " che",
+            " yapm\u00c4\u00b1\u00c5\u0141",
+            " mor",
+            " past",
+            " visitor"
+        ],
+        "description": " roles and activities associated with receptionists and customer service"
+    },
+    {
+        "index": "110472",
+        "layer": "5-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_110472.json",
+        "negative_strings": [
+            "c",
+            "\u00ec\u013c\u00b4\u00eb\u012f\u00b0",
+            "ching",
+            "/apps",
+            "avig",
+            "'",
+            " combination",
+            "arah",
+            "x",
+            " Facts"
+        ],
+        "positive_strings": [
+            "geist",
+            ".Parcel",
+            "edImage",
+            "monds",
+            ".gwt",
+            "AdapterManager",
+            "Ymd",
+            "asts",
+            ".ProgressBar",
+            "\u00d0\u00b0\u00d0\u00b3\u00d0\u00b0\u00d1\u0124\u00d0\u00be"
+        ],
+        "description": "terms related to receptionists and reception areas"
+    },
+    {
+        "index": "54940",
+        "layer": "12-llamascope-res-131k",
+        "url": "json/llama-scope/receptionist/data_for_feature_54940.json",
+        "negative_strings": [
+            "lio",
+            "artz",
+            "c",
+            "face",
+            "arith",
+            "entic",
+            "oui",
+            "ajar",
+            "ematics",
+            "arez"
+        ],
+        "positive_strings": [
+            "ables",
+            "ees",
+            "GenerationStrategy",
+            "undra",
+            "ableView",
+            "ebek",
+            ".codes",
+            "unfold",
+            "_Syntax",
+            "/respond"
+        ],
+        "description": " terms related to receptions and receptionists"
+    }
+]

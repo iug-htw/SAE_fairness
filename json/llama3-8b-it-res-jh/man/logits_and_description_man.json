@@ -1,0 +1,62 @@
+[
+    {
+        "index": "33251",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/man/data_for_feature_33251.json",
+        "negative_strings": [
+            "ToLocal",
+            "italic",
+            "ardo",
+            "uxe",
+            "\u00e5\u012b\u013d",
+            " Dreams",
+            "umhur",
+            " \"('",
+            "\u00d0\u00be\u00d1\u0124\u00d0\u00be\u00d0\u00b2",
+            "ramid"
+        ],
+        "positive_strings": [
+            " zone",
+            " Zone",
+            "ua",
+            "zone",
+            " Left",
+            "atee",
+            "Zone",
+            " zones",
+            "-zone",
+            " left"
+        ],
+        "description": "references to the title \"No Man's Land\" and its variants related to men"
+    },
+    {
+        "index": "61680",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/man/data_for_feature_61680.json",
+        "negative_strings": [
+            "ernel",
+            "eker",
+            "\u00a3p",
+            " Citizens",
+            "663",
+            "emap",
+            " primitive",
+            "primitive",
+            "_decrypt",
+            "minent"
+        ],
+        "positive_strings": [
+            " artificial",
+            " man",
+            " Artificial",
+            " synthetic",
+            " artificially",
+            " Synthetic",
+            " unnatural",
+            " synth",
+            "ificial",
+            "syn"
+        ],
+        "description": " references to man-made structures or events, particularly catastrophic situations"
+    }
+]

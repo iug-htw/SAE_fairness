@@ -1,0 +1,32 @@
+[
+    {
+        "index": "23505",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/naive/data_for_feature_23505.json",
+        "negative_strings": [
+            "uing",
+            ".opend",
+            "olf",
+            "esar",
+            "eree",
+            "ricks",
+            "\u00cc\u0123",
+            " sund",
+            "auled",
+            ".bd"
+        ],
+        "positive_strings": [
+            "ive",
+            "IVE",
+            "yer",
+            "iv\u00c3\u00a9",
+            "ve",
+            " Zot",
+            "ively",
+            "ivet",
+            "shire",
+            "creativecommons"
+        ],
+        "description": "instances of the word \"naive\" and its variations"
+    }
+]

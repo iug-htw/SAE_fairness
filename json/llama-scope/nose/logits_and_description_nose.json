@@ -1,0 +1,602 @@
+[
+    {
+        "index": "94017",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_94017.json",
+        "negative_strings": [
+            "erdale",
+            "ediator",
+            "astered",
+            "eur",
+            "edes",
+            "spath",
+            "eu",
+            "etty",
+            "\u00d8\u00a7\u00d8\u00aa",
+            "\u00eb\u012f\u00b0"
+        ],
+        "positive_strings": [
+            "ble",
+            "cone",
+            " bleed",
+            "bridge",
+            "piece",
+            " hairs",
+            "plug",
+            "pick",
+            "hair",
+            "job"
+        ],
+        "description": "terms related to the nose and nasal conditions"
+    },
+    {
+        "index": "54313",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_54313.json",
+        "negative_strings": [
+            "#Region",
+            "jure",
+            "istry",
+            "actics",
+            "rema",
+            "URE",
+            "uilt",
+            "fmt",
+            "wiki",
+            "enci"
+        ],
+        "positive_strings": [
+            "deer",
+            " ant",
+            " Rud",
+            " dear",
+            " deer",
+            "inde",
+            " rein",
+            "\u00e9\u00b9\u00bf",
+            " Dear",
+            " Moss"
+        ],
+        "description": " references to the \"Rudolph the Red-Nosed Reindeer\" character and related themes"
+    },
+    {
+        "index": "99062",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_99062.json",
+        "negative_strings": [
+            "erdale",
+            " ninh",
+            "odic",
+            "/REC",
+            "soever",
+            "etty",
+            "\u00eb\u012f\u00b0",
+            "reuse",
+            "eur",
+            "ALLY"
+        ],
+        "positive_strings": [
+            "ble",
+            "cone",
+            "piece",
+            " bridge",
+            "bridge",
+            "-tip",
+            " tip",
+            " bleed",
+            " cone",
+            "gay"
+        ],
+        "description": "terms related to the human nose and associated conditions"
+    },
+    {
+        "index": "51494",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_51494.json",
+        "negative_strings": [
+            "eur",
+            " addCriterion",
+            "/REC",
+            "odic",
+            "\u00eb\u012f\u00b0",
+            "eward",
+            "u\u00c4\u012f",
+            "etty",
+            "ediator",
+            "erdale"
+        ],
+        "positive_strings": [
+            "ble",
+            "cone",
+            " tip",
+            "-tip",
+            "piece",
+            " Tip",
+            "Tip",
+            " bridge",
+            "gay",
+            " cone"
+        ],
+        "description": "references to the nose or related anatomical terms"
+    },
+    {
+        "index": "72037",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_72037.json",
+        "negative_strings": [
+            "yms",
+            " \u00d0\u00bf\u00d0\u00be\u00d0\u00b1\u00d0\u00b0",
+            "ropa",
+            "inne",
+            ".AI",
+            "odom",
+            "amet",
+            "utow",
+            "esub",
+            "abaj"
+        ],
+        "positive_strings": [
+            " nose",
+            " nos",
+            " schn",
+            " Nose",
+            "\u00c2\u0142n",
+            " noses",
+            " \u00d0\u00bd\u00d0\u00be\u00d1\u0123",
+            " nostr",
+            " sn",
+            " NO"
+        ],
+        "description": " actions and references related to sensory experiences, particularly involving noses and related activities"
+    },
+    {
+        "index": "4303",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_4303.json",
+        "negative_strings": [
+            "ergy",
+            "ropa",
+            "erin",
+            "ableObject",
+            "iglia",
+            "eron",
+            "IGNAL",
+            "umont",
+            "lain",
+            "icking"
+        ],
+        "positive_strings": [
+            " Valent",
+            "oyal",
+            "omon",
+            " Diesel",
+            " Giuliani",
+            ".gdx",
+            "rary",
+            "osis",
+            "velt",
+            "-Owned"
+        ],
+        "description": " references to Rudolph the Red-Nosed Reindeer"
+    },
+    {
+        "index": "448",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/nose/data_for_feature_448.json",
+        "negative_strings": [
+            "PEC",
+            "eut",
+            "\u00e8\u0127\u00b0",
+            ".dm",
+            "gth",
+            "-thumbnail",
+            "\u00e0\u00a5\u013e\u00e0\u00a4\u0137",
+            "-caret",
+            " abdominal",
+            " jer"
+        ],
+        "positive_strings": [
+            " nasal",
+            " Nas",
+            " nose",
+            " Nose",
+            " noses",
+            " nas",
+            " nostr",
+            "\u00e9\u00bc\u00bb",
+            "nas",
+            " rh"
+        ],
+        "description": " information related to anatomical structures and their functions, specifically focusing on turbinates in the nose"
+    },
+    {
+        "index": "123553",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_123553.json",
+        "negative_strings": [
+            "yms",
+            "amet",
+            "ropa",
+            ".AI",
+            "alfa",
+            "inne",
+            "uji",
+            ".ai",
+            " \u00d0\u00bf\u00d0\u00be\u00d0\u00b1\u00d0\u00b0",
+            ".GroupLayout"
+        ],
+        "positive_strings": [
+            " nos",
+            " nose",
+            " Nose",
+            " noses",
+            " \u00d0\u00bd\u00d0\u00be\u00d1\u0123",
+            " nostr",
+            "Nos",
+            " Nos",
+            "-n",
+            "\u00e9\u00bc\u00bb"
+        ],
+        "description": " instances of emotional expressions and physical actions related to noses"
+    },
+    {
+        "index": "22450",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_22450.json",
+        "negative_strings": [
+            "eur",
+            " addCriterion",
+            "\u00eb\u012f\u00b0",
+            "reuse",
+            "icens",
+            "/REC",
+            "erdale",
+            "antar",
+            "rror",
+            "odic"
+        ],
+        "positive_strings": [
+            "ble",
+            "cone",
+            "piece",
+            "-tip",
+            " tip",
+            "less",
+            "gay",
+            "band",
+            " bridge",
+            "Tip"
+        ],
+        "description": "references to the nose or related anatomical features"
+    },
+    {
+        "index": "72467",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_72467.json",
+        "negative_strings": [
+            " addCriterion",
+            "eur",
+            "_cores",
+            "shaw",
+            "icher",
+            "etty",
+            "antar",
+            "hurst",
+            "rror",
+            "nelle"
+        ],
+        "positive_strings": [
+            "ble",
+            "cone",
+            "piece",
+            "less",
+            "gay",
+            " Nose",
+            " nose",
+            "pick",
+            "band",
+            " tip"
+        ],
+        "description": "words related to noses and nasal activities"
+    },
+    {
+        "index": "33207",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_33207.json",
+        "negative_strings": [
+            " addCriterion",
+            "hurst",
+            "etty",
+            "icher",
+            "shaw",
+            "eur",
+            "\u00d0\u00b2\u00d1\u0123\u00d1\u0131",
+            "/REC",
+            "antar",
+            "reuse"
+        ],
+        "positive_strings": [
+            "ble",
+            " nose",
+            "cone",
+            " Nose",
+            "less",
+            " noses",
+            "gay",
+            "piece",
+            "band",
+            " nostr"
+        ],
+        "description": "references to the nose"
+    },
+    {
+        "index": "12919",
+        "layer": "28-llamascope-mlp-32k",
+        "url": "json/llama-scope/nose/data_for_feature_12919.json",
+        "negative_strings": [
+            " sniff",
+            "indow",
+            "NYSE",
+            "igits",
+            "arpa",
+            " toe",
+            "vr",
+            "a\u00c4\u0141\u00c4\u00b1",
+            "INY",
+            ".libs"
+        ],
+        "positive_strings": [
+            "-n",
+            "\u00c2\u0142n",
+            " nos",
+            "\u00c2\u0142N",
+            "NO",
+            "-N",
+            " NO",
+            "_n",
+            "Nos",
+            " Nos"
+        ],
+        "description": " references to the human nose and related features or conditions"
+    },
+    {
+        "index": "52744",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_52744.json",
+        "negative_strings": [
+            "\u00eb\u012f\u00b0",
+            " addCriterion",
+            "eur",
+            "icens",
+            "\u00d0\u00b2\u00d1\u0123\u00d1\u0131",
+            "nelle",
+            "/REC",
+            "shaw",
+            "etty",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u013e"
+        ],
+        "positive_strings": [
+            "ble",
+            "less",
+            "cone",
+            " Nose",
+            " nose",
+            "piece",
+            " nostr",
+            " noses",
+            "Tip",
+            " tip"
+        ],
+        "description": "terms related to the nose and nasal issues"
+    },
+    {
+        "index": "83758",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_83758.json",
+        "negative_strings": [
+            "usercontent",
+            "rale",
+            "\u00e6\u012a",
+            "chemas",
+            "PEAT",
+            "ronics",
+            "adb",
+            "ra\u00c3\u00a7",
+            "arrant",
+            "\u00ec\u00b9\u013a\u00eb\u012c\u0136"
+        ],
+        "positive_strings": [
+            " rein",
+            " Rud",
+            " nose",
+            " Nose",
+            " Rank",
+            " noses",
+            " rank",
+            "mis",
+            "\u00e9\u00a9",
+            "\u00c3\u00a9tico"
+        ],
+        "description": " references to the holiday special \"Rudolph the Red-Nosed Reindeer.\""
+    },
+    {
+        "index": "125554",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_125554.json",
+        "negative_strings": [
+            "icens",
+            "etty",
+            "\u00d0\u00b2\u00d1\u0123\u00d1\u0131",
+            "\u00eb\u012f\u00b0",
+            " Heb",
+            " addCriterion",
+            "icensed",
+            "shal",
+            "nen",
+            "soever"
+        ],
+        "positive_strings": [
+            "less",
+            " nose",
+            " Nose",
+            " noses",
+            " tip",
+            " nostr",
+            "cone",
+            "piece",
+            " bridge",
+            "Tip"
+        ],
+        "description": "terms related to nose and nasal conditions"
+    },
+    {
+        "index": "82447",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_82447.json",
+        "negative_strings": [
+            "etty",
+            "\u00d0\u00b2\u00d1\u0123\u00d1\u0131",
+            "icens",
+            "/REC",
+            "eur",
+            "\u00eb\u012f\u00b0",
+            " Heb",
+            "NamedQuery",
+            "istan",
+            "\u00d0\u00bd\u00d0\u00b0\u00d1\u0129\u00d0\u00b5"
+        ],
+        "positive_strings": [
+            "less",
+            "piece",
+            "cone",
+            "gay",
+            "ble",
+            " nose",
+            " sniff",
+            " tip",
+            "Tip",
+            " bridge"
+        ],
+        "description": "references to the nose and related anatomical terms"
+    },
+    {
+        "index": "35536",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_35536.json",
+        "negative_strings": [
+            "_lazy",
+            " Crab",
+            "cobra",
+            "\u00e8\u013d\u0129",
+            " craw",
+            " didSelectRowAtIndexPath",
+            "azard",
+            " genie",
+            "\u00e5\u00a4\u00a7\u00e5\u0127\u00a8",
+            " Snake"
+        ],
+        "positive_strings": [
+            " rein",
+            " Rud",
+            " sle",
+            " ant",
+            " reins",
+            "-re",
+            " Sle",
+            " Re",
+            " Rein",
+            "deer"
+        ],
+        "description": "references to holiday-themed characters and concepts, particularly Rudolph the Red-Nosed Reindeer"
+    },
+    {
+        "index": "20131",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/nose/data_for_feature_20131.json",
+        "negative_strings": [
+            " nerve",
+            " medial",
+            "jo",
+            "dal",
+            "esign",
+            "umo",
+            "amo",
+            " Reflex",
+            " noct",
+            " bile"
+        ],
+        "positive_strings": [
+            " vicinity",
+            " involved",
+            "\u00e7\u0127\u00a7",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            ".Sync",
+            "llum",
+            " orbits",
+            " orbit",
+            "\u00c3\u00b3st",
+            "\u00e6\u0141\u0126"
+        ],
+        "description": " anatomical terms and descriptions related to the nose and surgical procedures"
+    },
+    {
+        "index": "129361",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_129361.json",
+        "negative_strings": [
+            " mastur",
+            " Arb",
+            "\u00d0\u00bd\u00d0\u00be\u00d0\u00b2\u00d0\u00b0",
+            "ra\u00c3\u00a7",
+            "agnostic",
+            "arkin",
+            "enci",
+            " cigaret",
+            "\u00e7\u0132",
+            "late"
+        ],
+        "positive_strings": [
+            "deer",
+            " stamp",
+            " harness",
+            " AssemblyCopyright",
+            "forest",
+            " Aurora",
+            "DITION",
+            " animals",
+            " dip",
+            " Dexter"
+        ],
+        "description": " references to Rudolph the Red-Nosed Reindeer and related holiday themes"
+    },
+    {
+        "index": "115761",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/nose/data_for_feature_115761.json",
+        "negative_strings": [
+            "shal",
+            "itesse",
+            "hurst",
+            "ORMAT",
+            "tutorial",
+            "NamedQuery",
+            "\u00c5\u00a1ak",
+            "nelle",
+            "\u00e9\u0123\u0137",
+            "sh"
+        ],
+        "positive_strings": [
+            " Shar",
+            "print",
+            "less",
+            "atsu",
+            "ful",
+            "-length",
+            "ault",
+            " Fountain",
+            "lessly",
+            "piece"
+        ],
+        "description": " occurrences of the word \"nose\" and its variations throughout the text"
+    }
+]

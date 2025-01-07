@@ -1,0 +1,602 @@
+[
+    {
+        "index": "34052",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_34052.json",
+        "negative_strings": [
+            "apego",
+            " Hann",
+            " Pil",
+            "pecting",
+            "pmwiki",
+            " Alam",
+            "thora",
+            "beit",
+            "trap",
+            " Predator"
+        ],
+        "positive_strings": [
+            "chest",
+            " donate",
+            " fund",
+            "Daily",
+            " redistributed",
+            "bleacher",
+            "onian",
+            " bottle",
+            " finance",
+            "uy"
+        ],
+        "description": "phrases related to assistance and support"
+    },
+    {
+        "index": "23341",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_23341.json",
+        "negative_strings": [
+            "many",
+            "mare",
+            "lihood",
+            " Bengal",
+            " Laden",
+            "fall",
+            " Alone",
+            " Apocalypse",
+            " Nightmares",
+            "beard"
+        ],
+        "positive_strings": [
+            " solic",
+            " solicitation",
+            " solicit",
+            "olicited",
+            "iting",
+            "ited",
+            "ourced",
+            "lected",
+            "atoon",
+            "atell"
+        ],
+        "description": "terms related to solicitation or requests"
+    },
+    {
+        "index": "58083",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_58083.json",
+        "negative_strings": [
+            " CFR",
+            "iatus",
+            "razil",
+            "erous",
+            "teen",
+            "raft",
+            "erry",
+            "papers",
+            " Hurricanes",
+            "ersen"
+        ],
+        "positive_strings": [
+            "vana",
+            "XM",
+            " Siri",
+            "Bot",
+            "Talk",
+            " Enabled",
+            "ki",
+            "loo",
+            "Kit",
+            " Cortana"
+        ],
+        "description": "references to Siri, Apple's digital assistant"
+    },
+    {
+        "index": "2092",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_2092.json",
+        "negative_strings": [
+            "apeake",
+            " pores",
+            "OPE",
+            " Hebdo",
+            "cffffcc",
+            " sweat",
+            "tein",
+            "\u00e3\u0125\u00a3",
+            " dare",
+            "sung"
+        ],
+        "positive_strings": [
+            "Support",
+            "heses",
+            "arity",
+            " Vector",
+            "ament",
+            " Supports",
+            "itism",
+            "bands",
+            "ive",
+            "ative"
+        ],
+        "description": "language related to providing assistance, approval, or backing for various purposes"
+    },
+    {
+        "index": "43665",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_43665.json",
+        "negative_strings": [
+            "iatus",
+            "\u00e5\u00a5\u00b3",
+            "\u0138\u013c",
+            "ibli",
+            "rise",
+            " Plain",
+            "ebook",
+            "tnc",
+            "apest",
+            "cakes"
+        ],
+        "positive_strings": [
+            "ilot",
+            " override",
+            " Systems",
+            " enabled",
+            " subsystem",
+            " Loaded",
+            " autop",
+            "\u00c2\u00ae",
+            " functionality",
+            " throttle"
+        ],
+        "description": " references to advanced driver assistance systems, particularly related to \"Autopilot\""
+    },
+    {
+        "index": "2084",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_2084.json",
+        "negative_strings": [
+            "sis",
+            "alde",
+            "pac",
+            "FactoryReloaded",
+            "century",
+            "isol",
+            "SHIP",
+            "cles",
+            "cling",
+            "CLE"
+        ],
+        "positive_strings": [
+            " condolences",
+            " refunds",
+            " discounts",
+            " suggestions",
+            " insight",
+            " us",
+            " advice",
+            " encouragement",
+            " tours",
+            " redemption"
+        ],
+        "description": "phrases related to offers or acts of assistance"
+    },
+    {
+        "index": "88860",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_88860.json",
+        "negative_strings": [
+            "aval",
+            "itiveness",
+            "Population",
+            "istic",
+            "ifiable",
+            "ALE",
+            "izoph",
+            "Increases",
+            "soDeliveryDate",
+            "ISM"
+        ],
+        "positive_strings": [
+            " Huma",
+            "maid",
+            " aide",
+            " counsel",
+            " tasked",
+            "wife",
+            "hern",
+            " thereto",
+            "rote",
+            "robe"
+        ],
+        "description": "references to assistants or aides in political contexts"
+    },
+    {
+        "index": "946",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_946.json",
+        "negative_strings": [
+            "TOP",
+            "theless",
+            "BER",
+            "o\u00c4\u0141",
+            "uala",
+            "eros",
+            "cia",
+            " Paste",
+            " payment",
+            " informal"
+        ],
+        "positive_strings": [
+            " afar",
+            " lens",
+            " favorably",
+            " Compass",
+            " lenses",
+            " horrified",
+            "SEE",
+            " nostalg",
+            "ocular",
+            " curiously"
+        ],
+        "description": "expressions related to assistance or looking out for others"
+    },
+    {
+        "index": "78817",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_78817.json",
+        "negative_strings": [
+            " residues",
+            "ium",
+            "stones",
+            "odus",
+            "parts",
+            "ista",
+            "\u00e6\u00b3",
+            "place",
+            "bara",
+            "ipment"
+        ],
+        "positive_strings": [
+            "iliate",
+            "glers",
+            " guiActiveUn",
+            " digestion",
+            "irst",
+            "draw",
+            " labou",
+            " downt",
+            " guiIcon",
+            " efforts"
+        ],
+        "description": "phrases that reference assistance or support in various contexts"
+    },
+    {
+        "index": "22989",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_22989.json",
+        "negative_strings": [
+            " shaved",
+            " squared",
+            " restrooms",
+            " netted",
+            "inav",
+            " Rated",
+            "aceutical",
+            "ammy",
+            "pler",
+            "earable"
+        ],
+        "positive_strings": [
+            "Oracle",
+            "\u013a\u0127",
+            "Production",
+            " perpet",
+            "\u00b2\u00be",
+            "00200000",
+            "ment",
+            "ress",
+            "CLASSIFIED",
+            " perjury"
+        ],
+        "description": " words associated with support or assistance in various contexts"
+    },
+    {
+        "index": "4067",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_4067.json",
+        "negative_strings": [
+            "iem",
+            " Haz",
+            " indisp",
+            " Mish",
+            " condol",
+            " Habit",
+            "aram",
+            "Nob",
+            "tal",
+            "stre"
+        ],
+        "positive_strings": [
+            " guiActive",
+            "atherine",
+            "ullivan",
+            "each",
+            "bons",
+            " each",
+            "anners",
+            "byss",
+            "uers",
+            "Kevin"
+        ],
+        "description": "references to actions and items related to practical support or assistance"
+    },
+    {
+        "index": "61724",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_61724.json",
+        "negative_strings": [
+            " Hots",
+            "agall",
+            " mosa",
+            " everlasting",
+            "Else",
+            " Schne",
+            "asted",
+            "itbart",
+            " ante",
+            " autos"
+        ],
+        "positive_strings": [
+            "ilities",
+            "itech",
+            "ilitation",
+            "ament",
+            "meet",
+            "inia",
+            "PsyNetMessage",
+            "giving",
+            "abet",
+            "taker"
+        ],
+        "description": " references to assistance or support, particularly in the context of social issues or health care"
+    },
+    {
+        "index": "34941",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_34941.json",
+        "negative_strings": [
+            "soType",
+            " Valve",
+            "\u00e9\u0139",
+            " appar",
+            ")\",",
+            " psychiat",
+            " disadvant",
+            " mechanically",
+            "Magikarp",
+            "\u00ce\u00b3"
+        ],
+        "positive_strings": [
+            " Latest",
+            "ttes",
+            "eon",
+            "Alert",
+            " rid",
+            " updates",
+            " Updates",
+            "ests",
+            " alerts",
+            " Slate"
+        ],
+        "description": "calls to action related to obtaining information or assistance"
+    },
+    {
+        "index": "44867",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_44867.json",
+        "negative_strings": [
+            " Paras",
+            " Zup",
+            " Funk",
+            " Xen",
+            "yon",
+            " Swan",
+            " Flam",
+            " Ferry",
+            " Bung",
+            " Ny"
+        ],
+        "positive_strings": [
+            " MUST",
+            " SHOULD",
+            "Must",
+            "must",
+            " should",
+            " must",
+            " need",
+            "should",
+            "quickShipAvailable",
+            " Must"
+        ],
+        "description": " mentions of assistance and urgency in conjunction with human needs"
+    },
+    {
+        "index": "14136",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_14136.json",
+        "negative_strings": [
+            "ouf",
+            "enos",
+            "esan",
+            "EMS",
+            "articles",
+            "holders",
+            "enegger",
+            "osaurs",
+            "issues",
+            "ning"
+        ],
+        "positive_strings": [
+            "dit",
+            "elta",
+            "iatrics",
+            " confir",
+            " takeover",
+            "paren",
+            "rive",
+            " Meditation",
+            " retreat",
+            " regeneration"
+        ],
+        "description": " words related to guidance and assistance in various contexts"
+    },
+    {
+        "index": "46392",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_46392.json",
+        "negative_strings": [
+            "Browser",
+            "interstitial",
+            "isSpecialOrderable",
+            "going",
+            "quickShipAvailable",
+            "aun",
+            "loss",
+            "Got",
+            "washer",
+            "ieu"
+        ],
+        "positive_strings": [
+            " oversee",
+            " accompany",
+            " help",
+            " assist",
+            " join",
+            " handle",
+            " administer",
+            " lend",
+            " ensure",
+            " undertake"
+        ],
+        "description": "phrases indicating assistance or support"
+    },
+    {
+        "index": "5648",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_5648.json",
+        "negative_strings": [
+            " Atmosp",
+            "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
+            "\u00e7\u012b\u012a",
+            "Temperature",
+            "\u00a3\u0131",
+            " mosqu",
+            "echo",
+            "stanbul",
+            "Ul",
+            "Gamer"
+        ],
+        "positive_strings": [
+            " entitle",
+            " eligibility",
+            " recipients",
+            " payments",
+            " vouchers",
+            " Disability",
+            " repayment",
+            " entitlement",
+            " reimburse",
+            " rebate"
+        ],
+        "description": "mentions of social welfare programs and financial assistance"
+    },
+    {
+        "index": "43248",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_43248.json",
+        "negative_strings": [
+            "mbuds",
+            "soDeliveryDate",
+            "UTION",
+            "displayText",
+            "STON",
+            "ITNESS",
+            "\u00e7\u012b\u012a",
+            "ATER",
+            "\u00e9\u00bb\u0134",
+            "isSpecialOrderable"
+        ],
+        "positive_strings": [
+            "ially",
+            "asma",
+            "iary",
+            "heon",
+            "iate",
+            "ropy",
+            "ucket",
+            "yne",
+            "aneous",
+            "iasis"
+        ],
+        "description": " words related to \"assistant\" or associated roles and job titles"
+    },
+    {
+        "index": "74244",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_74244.json",
+        "negative_strings": [
+            "theless",
+            "iu",
+            "pict",
+            "bryce",
+            "parts",
+            "ception",
+            "terday",
+            "comings",
+            " Fn",
+            "Pict"
+        ],
+        "positive_strings": [
+            " alleviate",
+            " stabilize",
+            " fund",
+            " claimants",
+            " financially",
+            " subsid",
+            " borrowers",
+            " compensate",
+            " needy",
+            " relieve"
+        ],
+        "description": " words related to assistance or support"
+    },
+    {
+        "index": "20373",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/assistant/data_for_feature_20373.json",
+        "negative_strings": [
+            "anka",
+            "quickShipAvailable",
+            "\u00e3\u0124\u00aa",
+            "ophe",
+            "fall",
+            "sin",
+            " Viet",
+            "OVA",
+            "spir",
+            "VERTISEMENT"
+        ],
+        "positive_strings": [
+            " clarification",
+            " assurances",
+            " signatures",
+            " explanations",
+            " submissions",
+            " permission",
+            " subpoen",
+            " copies",
+            " answers",
+            " transcripts"
+        ],
+        "description": "requests for information or assistance"
+    }
+]

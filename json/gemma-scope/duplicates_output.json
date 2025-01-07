@@ -1,12 +1,21 @@
 {
     "message": "Duplicate feature numbers found:",
     "duplicates": {
+        "4802": [
+            "json/gemma-scope/gospel/data_for_feature_4802.json",
+            "json/gemma-scope/quran/data_for_feature_4802.json"
+        ],
+        "63151": [
+            "json/gemma-scope/teacher/data_for_feature_63151.json",
+            "json/gemma-scope/professor/data_for_feature_63151.json"
+        ],
         "619": [
             "json/gemma-scope/girl/data_for_feature_619.json",
             "json/gemma-scope/boy/data_for_feature_619.json"
         ],
         "479": [
             "json/gemma-scope/girl/data_for_feature_479.json",
+            "json/gemma-scope/man/data_for_feature_479.json",
             "json/gemma-scope/lady/data_for_feature_479.json",
             "json/gemma-scope/boy/data_for_feature_479.json"
         ],
@@ -37,6 +46,7 @@
         ],
         "11527": [
             "json/gemma-scope/girl/data_for_feature_11527.json",
+            "json/gemma-scope/man/data_for_feature_11527.json",
             "json/gemma-scope/lady/data_for_feature_11527.json",
             "json/gemma-scope/boy/data_for_feature_11527.json"
         ],
@@ -60,13 +70,26 @@
             "json/gemma-scope/synagogue/data_for_feature_107876.json",
             "json/gemma-scope/shabbat/data_for_feature_107876.json"
         ],
+        "46335": [
+            "json/gemma-scope/men/data_for_feature_46335.json",
+            "json/gemma-scope/man/data_for_feature_46335.json"
+        ],
+        "14787": [
+            "json/gemma-scope/men/data_for_feature_14787.json",
+            "json/gemma-scope/man/data_for_feature_14787.json"
+        ],
         "99137": [
             "json/gemma-scope/men/data_for_feature_99137.json",
-            "json/gemma-scope/male/data_for_feature_99137.json"
+            "json/gemma-scope/male/data_for_feature_99137.json",
+            "json/gemma-scope/man/data_for_feature_99137.json"
         ],
         "72583": [
             "json/gemma-scope/homophob/data_for_feature_72583.json",
             "json/gemma-scope/kosher/data_for_feature_72583.json"
+        ],
+        "53364": [
+            "json/gemma-scope/homophob/data_for_feature_53364.json",
+            "json/gemma-scope/homemaker/data_for_feature_53364.json"
         ],
         "82137": [
             "json/gemma-scope/gentleman/data_for_feature_82137.json",
@@ -239,11 +262,20 @@
         ],
         "10640": [
             "json/gemma-scope/nurse/data_for_feature_10640.json",
+            "json/gemma-scope/engineer/data_for_feature_10640.json",
             "json/gemma-scope/doctor/data_for_feature_10640.json"
         ],
         "20928": [
             "json/gemma-scope/grandma/data_for_feature_20928.json",
             "json/gemma-scope/daughter/data_for_feature_20928.json"
+        ],
+        "47316": [
+            "json/gemma-scope/midwife/data_for_feature_47316.json",
+            "json/gemma-scope/wife/data_for_feature_47316.json"
+        ],
+        "12898": [
+            "json/gemma-scope/sacrament/data_for_feature_12898.json",
+            "json/gemma-scope/torah/data_for_feature_12898.json"
         ],
         "7618": [
             "json/gemma-scope/mosque/data_for_feature_7618.json",
@@ -316,6 +348,14 @@
             "json/gemma-scope/woman/data_for_feature_355.json",
             "json/gemma-scope/daughter/data_for_feature_355.json"
         ],
+        "8086": [
+            "json/gemma-scope/woman/data_for_feature_8086.json",
+            "json/gemma-scope/assistant/data_for_feature_8086.json"
+        ],
+        "23844": [
+            "json/gemma-scope/woman/data_for_feature_23844.json",
+            "json/gemma-scope/man/data_for_feature_23844.json"
+        ],
         "3614": [
             "json/gemma-scope/bible/data_for_feature_3614.json",
             "json/gemma-scope/torah/data_for_feature_3614.json"
@@ -356,6 +396,10 @@
         "94010": [
             "json/gemma-scope/jew/data_for_feature_94010.json",
             "json/gemma-scope/judaism/data_for_feature_94010.json"
+        ],
+        "1732": [
+            "json/gemma-scope/shabbat/data_for_feature_1732.json",
+            "json/gemma-scope/assistant/data_for_feature_1732.json"
         ]
     }
 }

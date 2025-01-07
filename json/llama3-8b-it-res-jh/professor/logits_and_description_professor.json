@@ -1,0 +1,92 @@
+[
+    {
+        "index": "20417",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/professor/data_for_feature_20417.json",
+        "negative_strings": [
+            "quet",
+            "er",
+            "era",
+            " sinon",
+            "eries",
+            "erk",
+            "erro",
+            " yp",
+            "herent",
+            "SI"
+        ],
+        "positive_strings": [
+            "ess",
+            "iling",
+            "ession",
+            "iciency",
+            "essions",
+            "essed",
+            "umo",
+            "essor",
+            "esor",
+            "esser"
+        ],
+        "description": "references to academic professionals, specifically professors"
+    },
+    {
+        "index": "15101",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/professor/data_for_feature_15101.json",
+        "negative_strings": [
+            "edes",
+            "ough",
+            "\u00e0\u00b8\u0126",
+            "orph",
+            "Principal",
+            "SI",
+            "@student",
+            "avan",
+            "edin",
+            "\u00e6\u0143"
+        ],
+        "positive_strings": [
+            "ial",
+            "iate",
+            "ship",
+            "ships",
+            " Emer",
+            "ession",
+            "esse",
+            "ess",
+            "IAL",
+            " em"
+        ],
+        "description": "mentions of academic professionals, specifically professors"
+    },
+    {
+        "index": "7714",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/professor/data_for_feature_7714.json",
+        "negative_strings": [
+            "@student",
+            "\u00d9\u012a\u00d8\u00b7",
+            "\u00e0\u00b8\u0137\u00e0\u00b8\u00b0",
+            "zd",
+            "\u00ce\u00b4\u00ce\u00bf",
+            "weise",
+            ",Integer",
+            "inned",
+            "etur",
+            " Representatives"
+        ],
+        "positive_strings": [
+            " at",
+            " t\u00e1\u00ba\u00a1i",
+            " em",
+            "ial",
+            "emer",
+            " Emer",
+            "RowAt",
+            "at",
+            " of",
+            "Emer"
+        ],
+        "description": "titles and roles related to academic positions and professors"
+    }
+]

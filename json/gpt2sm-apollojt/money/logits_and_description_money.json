@@ -1,0 +1,602 @@
+[
+    {
+        "index": "11451",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_11451.json",
+        "negative_strings": [
+            "quickShipAvailable",
+            "apa",
+            "appa",
+            "okin",
+            "estation",
+            "ealous",
+            "catentry",
+            "lime",
+            "apist",
+            "iator"
+        ],
+        "positive_strings": [
+            "payers",
+            " subsid",
+            " taxpayers",
+            "payer",
+            " dollars",
+            " dime",
+            " Dollars",
+            " funded",
+            " taxpayer",
+            " reimburse"
+        ],
+        "description": " references to taxpayer money and financial concerns"
+    },
+    {
+        "index": "39242",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_39242.json",
+        "negative_strings": [
+            "attled",
+            " Buckingham",
+            "ournal",
+            " Fran\u00c3\u00a7",
+            "pires",
+            "odic",
+            " therap",
+            "riages",
+            " whim",
+            "quickShipAvailable"
+        ],
+        "positive_strings": [
+            " receipts",
+            "ewater",
+            "hest",
+            "es",
+            "gross",
+            " gross",
+            "cre",
+            "efully",
+            "oms",
+            "medi"
+        ],
+        "description": "economic and financial terms related to money, income, and production"
+    },
+    {
+        "index": "16318",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_16318.json",
+        "negative_strings": [
+            "lime",
+            "occ",
+            "azes",
+            " Bolt",
+            " Condition",
+            " Thing",
+            "appa",
+            " Sadd",
+            "iu",
+            " Lightning"
+        ],
+        "positive_strings": [
+            "payers",
+            " subsid",
+            " taxpayers",
+            " dollars",
+            " taxpayer",
+            "payer",
+            " bailed",
+            " subsidized",
+            "ridor",
+            " subsidy"
+        ],
+        "description": " references to taxpayer money and its allocation"
+    },
+    {
+        "index": "3612",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_3612.json",
+        "negative_strings": [
+            "lime",
+            "occ",
+            "azes",
+            " Condition",
+            " Bolt",
+            " Finder",
+            "appa",
+            "quickShipAvailable",
+            " Sadd",
+            " Lightning"
+        ],
+        "positive_strings": [
+            "payers",
+            " subsid",
+            " taxpayers",
+            " taxpayer",
+            "payer",
+            " dollars",
+            " bailed",
+            " subsidized",
+            "ridor",
+            " subsidy"
+        ],
+        "description": "references to taxpayers and taxpayer money"
+    },
+    {
+        "index": "40354",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_40354.json",
+        "negative_strings": [
+            "nis",
+            "embed",
+            "assian",
+            "anwhile",
+            "occup",
+            "Semitism",
+            "orrow",
+            "athy",
+            "isma",
+            "aho"
+        ],
+        "positive_strings": [
+            " leaflets",
+            " goodies",
+            " keys",
+            " clues",
+            " flyers",
+            " control",
+            " certificates",
+            " waivers",
+            " information",
+            " reins"
+        ],
+        "description": " instances of giving, receiving, or distributing items or money"
+    },
+    {
+        "index": "38741",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_38741.json",
+        "negative_strings": [
+            "abad",
+            " Occupations",
+            " Hast",
+            " Surv",
+            " Frequ",
+            " Grad",
+            " Defin",
+            "\u00e7\u0130\u012d",
+            " Osw",
+            "ept"
+        ],
+        "positive_strings": [
+            " purse",
+            " purs",
+            "bag",
+            "bags",
+            "pak",
+            "glers",
+            "tips",
+            "knife",
+            " snatch",
+            "lock"
+        ],
+        "description": "terms related to money and financial concepts"
+    },
+    {
+        "index": "20017",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_20017.json",
+        "negative_strings": [
+            " Oslo",
+            "ochemical",
+            " Hiroshima",
+            "umsy",
+            "nsic",
+            " Term",
+            "anamo",
+            "icious",
+            "\u00da",
+            "ariat"
+        ],
+        "positive_strings": [
+            " buck",
+            " dollar",
+            "whe",
+            "robe",
+            " bucks",
+            "buck",
+            " toe",
+            "aby",
+            "boards",
+            "die"
+        ],
+        "description": " references to money or financial transactions"
+    },
+    {
+        "index": "18804",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_18804.json",
+        "negative_strings": [
+            " Bram",
+            "malink",
+            " exerc",
+            " Referred",
+            "itor",
+            " hall",
+            "\u00e5\u00a5\u00b3",
+            "oran",
+            " Poo",
+            " Administ"
+        ],
+        "positive_strings": [
+            "interstitial",
+            "/,",
+            "100",
+            "150",
+            "tone",
+            "_.",
+            "1000",
+            "\u00e3\u0123\u012f",
+            "Tai",
+            "tm"
+        ],
+        "description": "financial figures and amounts of money mentioned in a text"
+    },
+    {
+        "index": "10074",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_10074.json",
+        "negative_strings": [
+            "zai",
+            "ategory",
+            "imester",
+            "factor",
+            "galitarian",
+            "Factor",
+            "tackle",
+            "touch",
+            "herer",
+            "ablishment"
+        ],
+        "positive_strings": [
+            " remainder",
+            " entire",
+            " entirety",
+            " contents",
+            " remaining",
+            " offending",
+            " necessary",
+            " same",
+            " requisite",
+            " rest"
+        ],
+        "description": " phrases related to significant events involving money, transactions, and theft"
+    },
+    {
+        "index": "38852",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_38852.json",
+        "negative_strings": [
+            "thia",
+            "OVA",
+            "IPS",
+            " Sturgeon",
+            "gery",
+            "BOOK",
+            "swick",
+            " glac",
+            "arity",
+            "\u00e5\u00a5\u00b3"
+        ],
+        "positive_strings": [
+            " margins",
+            "ably",
+            " margin",
+            " profit",
+            " profits",
+            " motive",
+            " ventures",
+            "ulent",
+            " repatri",
+            "oreal"
+        ],
+        "description": "references to financial terms related to money and business, particularly profits and losses"
+    },
+    {
+        "index": "18637",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_18637.json",
+        "negative_strings": [
+            " pastoral",
+            " padd",
+            " elevation",
+            " pri",
+            " respons",
+            " swallowing",
+            " travers",
+            " explos",
+            " symp",
+            " fencing"
+        ],
+        "positive_strings": [
+            " SHARES",
+            " NCT",
+            "redits",
+            "\u00e5\u00b9",
+            ":{",
+            " ILCS",
+            "\u00c2\u00bd",
+            " Explicit",
+            "651",
+            "nd"
+        ],
+        "description": "references to diverse topics such as sports, money, media, and personal development"
+    },
+    {
+        "index": "36455",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_36455.json",
+        "negative_strings": [
+            "blank",
+            "itar",
+            "bur",
+            "birth",
+            "lee",
+            " Fitness",
+            "Dur",
+            " Upton",
+            "imus",
+            "fig"
+        ],
+        "positive_strings": [
+            "aundering",
+            " laundering",
+            " dealings",
+            " trafficking",
+            " smuggling",
+            " laund",
+            "eering",
+            " bribery",
+            " funnel",
+            " underworld"
+        ],
+        "description": " references to money laundering and related legal issues"
+    },
+    {
+        "index": "27841",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_27841.json",
+        "negative_strings": [
+            "boxing",
+            "dayName",
+            "MODE",
+            "sit",
+            "terness",
+            "ectomy",
+            "ategories",
+            "iquette",
+            "oland",
+            "orst"
+        ],
+        "positive_strings": [
+            " money",
+            " funds",
+            " dollars",
+            " cash",
+            " profits",
+            " proceeds",
+            "money",
+            " revenue",
+            " Dollars",
+            " resources"
+        ],
+        "description": " phrases related to financial accountability and taxpayers' money"
+    },
+    {
+        "index": "5373",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_5373.json",
+        "negative_strings": [
+            "reditary",
+            "imaru",
+            "apons",
+            " Causes",
+            "LECT",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9",
+            " Bind",
+            "ignty",
+            "igning",
+            "hess"
+        ],
+        "positive_strings": [
+            "glass",
+            "wise",
+            "endment",
+            "ometer",
+            "neapolis",
+            "obic",
+            "ness",
+            "worm",
+            "ierre",
+            "rox"
+        ],
+        "description": "information related to timekeeping, hourly calculations, and measured amounts of time or money"
+    },
+    {
+        "index": "7880",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_7880.json",
+        "negative_strings": [
+            "iard",
+            "mare",
+            "inem",
+            "unt",
+            " Dunk",
+            "enberg",
+            "unci",
+            " Brewers",
+            "IGH",
+            "amp"
+        ],
+        "positive_strings": [
+            " agreeing",
+            " payment",
+            " payments",
+            " bribes",
+            " agreements",
+            " Donation",
+            " guaranteeing",
+            " assurances",
+            " bargaining",
+            " rewarded"
+        ],
+        "description": " phrases related to reciprocal exchanges or transactions, such as exchanging money for goods or services"
+    },
+    {
+        "index": "14171",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_14171.json",
+        "negative_strings": [
+            "VIEW",
+            "ById",
+            "NL",
+            "PLAY",
+            "RF",
+            "CW",
+            "SHIP",
+            "\u00e7\u012b",
+            "\u00e5\u00a3",
+            "Search"
+        ],
+        "positive_strings": [
+            " bol",
+            "uates",
+            "oulos",
+            "acas",
+            "acca",
+            "gomery",
+            "anca",
+            "accompan",
+            "uations",
+            " todd"
+        ],
+        "description": "mentions of the country Venezuela and its economic situation"
+    },
+    {
+        "index": "10236",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_10236.json",
+        "negative_strings": [
+            " Parade",
+            " Rodham",
+            "uber",
+            " Opp",
+            " assassinated",
+            " Foley",
+            " contest",
+            "Aren",
+            " pronounced",
+            " teased"
+        ],
+        "positive_strings": [
+            "itures",
+            "iture",
+            "htaking",
+            " wisely",
+            "ths",
+            " lav",
+            " yarn",
+            "#$#$",
+            "ycle",
+            "ONEY"
+        ],
+        "description": "phrases related to spending money or financial transactions"
+    },
+    {
+        "index": "39071",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_39071.json",
+        "negative_strings": [
+            "ierre",
+            " Comfort",
+            "Minor",
+            " Material",
+            " Cosponsors",
+            "76561",
+            " Schwarz",
+            " Sed",
+            "spect",
+            "agonist"
+        ],
+        "positive_strings": [
+            " laundering",
+            " invested",
+            "bags",
+            "flow",
+            " flowing",
+            " spent",
+            " laund",
+            "flows",
+            " allocated",
+            " owed"
+        ],
+        "description": " discussions about financial issues and the concept of money"
+    },
+    {
+        "index": "3382",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_3382.json",
+        "negative_strings": [
+            "humans",
+            "lain",
+            "TPPStreamerBot",
+            "perse",
+            "bler",
+            "minist",
+            "anmar",
+            "fruit",
+            " Leban",
+            "broken"
+        ],
+        "positive_strings": [
+            " tune",
+            " tuned",
+            " tunes",
+            " horns",
+            "aments",
+            " Emerson",
+            "OGR",
+            " whist",
+            "oscope",
+            "ophon"
+        ],
+        "description": "phrases related to money or financial transactions"
+    },
+    {
+        "index": "32743",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/money/data_for_feature_32743.json",
+        "negative_strings": [
+            "SPONSORED",
+            "\u00e5\u00a5\u00b3",
+            "\u012a\u00e8",
+            "ranean",
+            "lems",
+            "\u00e6\u00a9\u0141",
+            "\u00e7\u013c",
+            "adal",
+            "\u00e7\u00ab",
+            "alities"
+        ],
+        "positive_strings": [
+            " suspense",
+            " hassle",
+            " bacon",
+            " hostages",
+            " precious",
+            " penn",
+            " sanity",
+            " sake",
+            "anza",
+            " Lives"
+        ],
+        "description": "information related to saving things like money, lives, or day-to-day items"
+    }
+]

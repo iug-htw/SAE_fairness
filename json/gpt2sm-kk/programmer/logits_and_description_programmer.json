@@ -1,0 +1,32 @@
+[
+    {
+        "index": "24211",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/programmer/data_for_feature_24211.json",
+        "negative_strings": [
+            " NCT",
+            " Sons",
+            " TYPE",
+            " Stars",
+            " Pieces",
+            "STAR",
+            " Standards",
+            " IST",
+            "Republic",
+            " STAR"
+        ],
+        "positive_strings": [
+            " Rus",
+            " mortg",
+            "arrison",
+            "ordan",
+            "jriwal",
+            "haw",
+            " esc",
+            " evict",
+            "Rew",
+            " Damon"
+        ],
+        "description": " programmer comments and types of data structures"
+    }
+]

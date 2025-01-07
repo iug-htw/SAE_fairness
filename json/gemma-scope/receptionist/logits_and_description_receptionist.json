@@ -1,0 +1,470 @@
+[
+    {
+        "index": "102433",
+        "layer": "5-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_102433.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"recession\" appears frequently, often referring to a period of economic downturn, and is sometimes preceded by or associated with words that describe its severity or characteristics, while other tokens such as \"cession\", \"cessionist\", \"secession\", \"recess\", \"intercession\", and \"receptionist\" appear less frequently, often with distinct meanings related to concepts like yielding, withdrawal, or assistance."
+    },
+    {
+        "index": "522",
+        "layer": "20-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_522.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "$",
+            "autoconfigure",
+            "Wy",
+            "WO",
+            "Gut",
+            "Bool",
+            "Var",
+            "\u2581Wise",
+            "\u2581Willy"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "parsedMessage",
+            "\u2581receptive",
+            "\u2581Empfang"
+        ],
+        "description": " references to reception and receptionists in various contexts"
+    },
+    {
+        "index": "89711",
+        "layer": "1-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_89711.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The verb \"receive\" in various forms (e.g. \"receive\", \"receiving\", \"received\", \"receipt\", \"receptor\", \"reception\", \"receptionist\") often represents an action where an entity (person, organization, device) is getting something (information, payment, signal, object) from another source or entity."
+    },
+    {
+        "index": "109661",
+        "layer": "12-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_109661.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A social gathering or formal event, typically a wedding or a party, often referred to as a \"reception\", or a person who receives guests or phone calls in a professional setting, referred to as a \"receptionist\"."
+    },
+    {
+        "index": "46000",
+        "layer": "15-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_46000.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns related to receiving, containing, or gathering, such as reception, receptacle, and receptionist, often appearing in contexts of weddings, venues, and formal events."
+    },
+    {
+        "index": "129739",
+        "layer": "11-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_129739.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "Gut",
+            "\u2581gut",
+            "*",
+            "Wy",
+            "Var",
+            "Wi",
+            "$",
+            "\u2581Jar",
+            "Zn"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581Empfang",
+            "\u2581recep",
+            "\u2581receptive"
+        ],
+        "description": "words related to receptions and receptionists"
+    },
+    {
+        "index": "115530",
+        "layer": "12-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_115530.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "Gut",
+            "Wy",
+            "\u2581gut",
+            "$",
+            "\u2581Zy",
+            "*",
+            "Var",
+            "Wi",
+            "wart"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581Empfang",
+            "\u2581recep",
+            "\u2581receptive"
+        ],
+        "description": "references to receptions or receptionists"
+    },
+    {
+        "index": "14189",
+        "layer": "8-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_14189.json",
+        "negative_strings": [
+            "\u2581zpr\u00e1",
+            "\u2581geloof",
+            "SaveChanges",
+            "]\")]",
+            "\u2581Europa",
+            "\u2581imageName",
+            "\u2581love",
+            "\u2581bet",
+            "gefahr",
+            "ToRead"
+        ],
+        "positive_strings": [
+            "\u2581assistant",
+            "\u2581Assistant",
+            "Assistant",
+            "\u2581assistants",
+            "assistant",
+            "\u2581Assistants",
+            "\u2581ASSISTANT",
+            "Assist",
+            "\u2581asistente",
+            "assist"
+        ],
+        "description": "Occupations and roles often referred to with formal or specific titles, such as assistant, associate, deputy, technician, receptionist, and others, typically in a professional, corporate, or organizational context."
+    },
+    {
+        "index": "25785",
+        "layer": "24-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_25785.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "Matter",
+            "\u2581Willy",
+            "Willy",
+            "Gut",
+            "autoconfigure",
+            "NodeId",
+            "$",
+            "\u2581Algo",
+            "\u2581Dutchman"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581receptive",
+            "\u2581r\u00e9ception",
+            "\u2581Empfang",
+            "\u2581received"
+        ],
+        "description": " references to receptions and receptionists"
+    },
+    {
+        "index": "104596",
+        "layer": "23-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_104596.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "\u2581Willy",
+            "NodeId",
+            "\u2581Algo",
+            "$",
+            "\u2581gunman",
+            "Willy",
+            "autoconfigure",
+            "WO",
+            "\u2581twister"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581receptive",
+            "\u2581Empfang",
+            "\u2581Receiving"
+        ],
+        "description": " terms related to receptions and receptionists"
+    },
+    {
+        "index": "83864",
+        "layer": "17-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_83864.json",
+        "negative_strings": [
+            "$",
+            "\u2581Gut",
+            "*",
+            "\u2581Zy",
+            "\uac01\uc8fc",
+            "Var",
+            "autoconfigure",
+            "Wy",
+            "\u2581Star",
+            "\u2581mud"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581receptive",
+            "\u2581Empfang",
+            "\u2581recep"
+        ],
+        "description": "terms related to events or gatherings, particularly those involving hospitality or welcoming"
+    },
+    {
+        "index": "14005",
+        "layer": "16-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_14005.json",
+        "negative_strings": [
+            "\u2581Gut",
+            "$",
+            "Wy",
+            "Gut",
+            "*",
+            "Var",
+            "Klik",
+            "mad",
+            "\u2581gut",
+            "Zh"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "reception",
+            "Reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581Empfang",
+            "\u2581receptive",
+            "\u2581receptionist"
+        ],
+        "description": " terms related to receptions and gathering events"
+    },
+    {
+        "index": "11151",
+        "layer": "3-gemmascope-res-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_11151.json",
+        "negative_strings": [
+            "\u2581BorderSide",
+            "\u2581\u0432\u0456\u043a\u0456",
+            "indelijk",
+            "NodeId",
+            "\u2581Gut",
+            "AndroidJUnit",
+            "\u2581m\u00e0y",
+            "addFlags",
+            "\u2581\u8cbc",
+            "\u2581Puritan"
+        ],
+        "positive_strings": [
+            "\u2581reception",
+            "\u2581Reception",
+            "Reception",
+            "reception",
+            "\u2581receptions",
+            "\u2581recepci\u00f3n",
+            "\u2581r\u00e9ception",
+            "\u2581Empfang",
+            "\u2581receptionist",
+            "\u2581recep"
+        ],
+        "description": "terms related to receptions and receptionists in various contexts"
+    },
+    {
+        "index": "118501",
+        "layer": "10-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_118501.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Official or formal titles of individuals, such as Respondent, Moderator, Reverend, Commentator, Protestor, and Receptionist, typically used in formal or professional contexts."
+    },
+    {
+        "index": "26334",
+        "layer": "6-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_26334.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles and professions, often with specific roles such as archivists, librarians, receptionists, and organists, particularly in academic, library, or administrative settings."
+    },
+    {
+        "index": "34907",
+        "layer": "12-gemmascope-res-65k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_34907.json",
+        "negative_strings": [
+            "WidgetItem",
+            "NewGuid",
+            "InputBorder",
+            "INCREF",
+            "JsonInclude",
+            "getKeyCode",
+            "\u2581AssemblyCulture",
+            "GetBytes",
+            "findpost",
+            ":\u2728"
+        ],
+        "positive_strings": [
+            "\u2581Reception",
+            "\u2581reception",
+            "Reception",
+            "\u2581receptions",
+            "reception",
+            "\u2581Recep",
+            "Recep",
+            "recep",
+            "\u2581recep",
+            "\u2581receptionist"
+        ],
+        "description": "terms related to receptions and receptionists"
+    },
+    {
+        "index": "6232",
+        "layer": "6-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/receptionist/data_for_feature_6232.json",
+        "negative_strings": [
+            "TypedDataSet",
+            "\u2581inform\u00e9e",
+            "\u2581Indon",
+            "RectangleBorder",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581infanti",
+            "\u2581In\u017f",
+            "openqa"
+        ],
+        "positive_strings": [
+            "\u2581evening",
+            "\u2581Evening",
+            "evening",
+            "Evening",
+            "\u2581evenings",
+            "\u2581EVENING",
+            "\u2581Abends",
+            "\u2581Abend",
+            "\u2581avond",
+            "\u2581soir"
+        ],
+        "description": "Nouns denoting time of day (evening, tonight), meals (dinner), people (physician, receptionist), locations (house, mansion, seminary), concepts (gospel, networking, curfew), or general objects (beverage, companion, deceased) often in formal or descriptive contexts."
+    },
+    {
+        "index": "69947",
+        "layer": "33-gemmascope-mlp-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_69947.json",
+        "negative_strings": [
+            "rungsseite",
+            "\u2581surla",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581Re\u017f",
+            "\u24e7",
+            "\u2581incre\u00ed",
+            "bardier",
+            "httphttps",
+            "tagHelperRunner",
+            "Tembelea"
+        ],
+        "positive_strings": [
+            "astify",
+            "\u2581Pal",
+            "zzleHttp",
+            "\u2581nem",
+            "\u2581AppModule",
+            "DES",
+            "\u2581Young",
+            "SequentialGroup",
+            "\u2581OkHttpClient",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649"
+        ],
+        "description": " mentions of receptions or receptionists in various contexts"
+    },
+    {
+        "index": "98505",
+        "layer": "17-gemmascope-mlp-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_98505.json",
+        "negative_strings": [
+            "astify",
+            "Viited",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "telep\u00fcl\u00e9s",
+            "R\u00fcyada",
+            "\u2581empower",
+            "enderror",
+            "almaz",
+            "alties",
+            "\u2581disagreed"
+        ],
+        "positive_strings": [
+            "########.",
+            "ruptedException",
+            "ViewFeatures",
+            "\u2581Eingang",
+            "PvB",
+            "\u2581Entrance",
+            "Entrance",
+            "\u2581Arrivals",
+            "URLException",
+            "\u2581u\u0219"
+        ],
+        "description": " references to receptionists and their interactions with visitors"
+    },
+    {
+        "index": "54894",
+        "layer": "7-gemmascope-mlp-131k",
+        "url": "json/gemma-scope/receptionist/data_for_feature_54894.json",
+        "negative_strings": [
+            "otoro",
+            "\u2581lung",
+            "\u2581ukry",
+            "\u2581prossima",
+            "\u2581Panjang",
+            "\u2581stroke",
+            "\u2581protected",
+            "\u2581pokry",
+            "envolvimento",
+            "\u2581Amarillo"
+        ],
+        "positive_strings": [
+            "CloseOperation",
+            "\u2581Bi\u00f4grafia",
+            "Geplaatst",
+            "AccessorTable",
+            "\u2581Desk",
+            "\u2581transf\u00e9rez",
+            "\u00e9valuateur",
+            "\u2581dAtA",
+            "AntiForgeryToken",
+            "RefNanny"
+        ],
+        "description": "terms related to receptionist and front office roles"
+    }
+]

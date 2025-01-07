@@ -1,0 +1,250 @@
+[
+    {
+        "index": "8100",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_8100.json",
+        "negative_strings": [
+            "\udb40\udc74",
+            "\udb40\udc7f",
+            "\u2581TextInputType",
+            "\u2581planar",
+            "\u2581ujednoznacz",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "MessageOf",
+            "\u2581nakalista",
+            "kenstock",
+            "\uf5bf"
+        ],
+        "positive_strings": [
+            "\u2581ahead",
+            "nings",
+            "kton",
+            "demic",
+            "ogram",
+            "imetric",
+            "eload",
+            "ahead",
+            "imetry",
+            "ograms"
+        ],
+        "description": "Plans, planning, and related concepts, often referring to organized actions, strategies, or proposals, as well as nouns related to organization, such as programmes."
+    },
+    {
+        "index": "2819",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_2819.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The abbreviation or word \"UN\" (United Nations) appears in various contexts, often referring to the international organization itself or related entities, such as the UN Environment Programme, UNICEF, or UNHCR."
+    },
+    {
+        "index": "47126",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_47126.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns in titles or names of entities including companies, products, programmes, concepts, and organizations."
+    },
+    {
+        "index": "62474",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_62474.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to computer science and programming, including the terms \"programming\" and \"programmers\"."
+    },
+    {
+        "index": "124342",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_124342.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Texts often referencing nuclear proliferation, nuclear programmes, nuclear deals and nuclear weapons, often associated with countries such as Iran, and the concerns surrounding them."
+    },
+    {
+        "index": "75688",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_75688.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to computer programming, software development, and related concepts, often using terms like \"program\", \"programming\", \"programmer\", or \"programmers\"."
+    },
+    {
+        "index": "49581",
+        "layer": "31-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_49581.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word 'program' (or its variants, such as 'programs' or 'programme') appears in a variety of contexts, such as education, technology, healthcare, government, and entertainment, often referring to a set of related projects, courses, or initiatives."
+    },
+    {
+        "index": "83117",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_83117.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A planned set of goals or objectives, often used in formal or business contexts, typically referring to a schedule or list of activities, such as an agenda, itinerary, roadmap, or programme."
+    },
+    {
+        "index": "94416",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_94416.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to institutional or organizational initiatives, often academic or structured in nature, denoted by the term \"program\" or \"programme\"."
+    },
+    {
+        "index": "122891",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_122891.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms related to computer science, including nouns and adjectives referring to programming, programmers, and software development, often used in contexts that describe educational or professional activities."
+    },
+    {
+        "index": "36703",
+        "layer": "32-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_36703.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Acronyms and abbreviations, particularly those that represent organizations, technologies, or concepts, including FPS (frames per second), FPGA (Field-Programmable Gate Array), FP (Field-Programmable), RFP (Request for Proposal), AFP (Agence France-Presse), and others."
+    },
+    {
+        "index": "12764",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_12764.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Mainly programming-related terms and phrases, including names of programming languages (e.g. C, C++, Java, Python), software development frameworks and libraries (e.g. wxWidgets, boost), and technical concepts (e.g. GUI, API, SDK, CLR, Win32), as well as personal names of programmers and programming-related individuals."
+    },
+    {
+        "index": "2329",
+        "layer": "35-gemmascope-res-16k",
+        "url": "json/gemma-scope/programmer/data_for_feature_2329.json",
+        "negative_strings": [
+            "R\u00fcyada",
+            "\u2581rowCount",
+            "\u2581bul",
+            "setItems",
+            "Insee",
+            "\u2581\u0432\u0435\u0440",
+            "\u03c4\u03c1\u03bf",
+            "\u2581ouv",
+            "\u2581grig",
+            "\u2581omnia"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "rawDesc",
+            "equals",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "\u043d\u0456\u0446\u0438\u043f\u0430",
+            "}-*/;",
+            ")));\r",
+            "orianCalendar",
+            "hashCode",
+            "domada"
+        ],
+        "description": " programmer-specific syntax and operations in code"
+    },
+    {
+        "index": "70583",
+        "layer": "33-gemmascope-res-131k",
+        "url": "json/gemma-scope/programmer/data_for_feature_70583.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "\u2581nonUne",
+            "\u056d",
+            "\u2581eye",
+            "ScopeManager",
+            "\u2581pri",
+            "\u2581justi\u00e7a",
+            "\u2581Slack",
+            "\u2581Dal",
+            "\u2581cri"
+        ],
+        "positive_strings": [
+            "\u2581FPGA",
+            "FPGA",
+            "\u2581programmable",
+            "\u2581ASIC",
+            "\u2581chip",
+            "IsMutable",
+            "\u2581chips",
+            "\u2581Programmable",
+            "chip",
+            "\u2581hardware"
+        ],
+        "description": "technical terms related to hardware implementation, particularly in programmable logic devices"
+    },
+    {
+        "index": "7083",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_7083.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Acronyms and abbreviations of proper nouns, primarily government agencies, such as EPA (United States Environmental Protection Agency) and UNEP (United Nations Environment Programme)."
+    },
+    {
+        "index": "3579",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_3579.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words related to the concept of programming, including \"programming\", \"program\", \"programmed\", \"programmer\", and \"programmers\", often used in contexts of computer science, software development, and technology."
+    },
+    {
+        "index": "79215",
+        "layer": "29-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_79215.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to reputable organizations, institutions, or initiatives related to environmental conservation, biodiversity, and wildlife preservation, such as the International Union for Conservation of Nature (IUCN), World Wildlife Fund (WWF), United Nations Environment Programme (UNEP), and UNESCO's World Heritage Committee."
+    },
+    {
+        "index": "117137",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_117137.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of locations such as institutions or establishments that have \"Centre\", \"Theatre\", or \"Programme\" in their names, often used to describe organizations, event venues, or specific parts of a city."
+    },
+    {
+        "index": "7677",
+        "layer": "31-gemmascope-res-16k",
+        "url": "json/gemma-scope/programmer/data_for_feature_7677.json",
+        "negative_strings": [
+            "IndentedString",
+            "oa\u030dt",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "stateMutability",
+            "Port\u00e1ly",
+            "\u2581\u0643\u0648\u0645\u0648\u0646\u0632",
+            "Tembelea",
+            "\u00e9rieures",
+            "Referanser"
+        ],
+        "positive_strings": [
+            "\u2581given",
+            "\u2581provided",
+            "given",
+            "provided",
+            "\u2581Provided",
+            "Provided",
+            "\u2581supplied",
+            "Given",
+            "\u2581Given",
+            "\u2581GIVEN"
+        ],
+        "description": " references to programmers, programming questions, or coding-related issues"
+    },
+    {
+        "index": "127224",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/programmer/data_for_feature_127224.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"developer\" or related terms, such as \"programmer\", \"coder\", or \"developers\", often appear in contexts related to software creation, technology, and innovation, highlighting their role in shaping digital products and experiences."
+    }
+]

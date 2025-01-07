@@ -1,0 +1,602 @@
+[
+    {
+        "index": "15314",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_15314.json",
+        "negative_strings": [
+            "rej",
+            "\u00e9\u013c\u0128",
+            "edList",
+            "ionales",
+            "sst",
+            "sWith",
+            "enda",
+            "slope",
+            "itud",
+            "eration"
+        ],
+        "positive_strings": [
+            "nze",
+            "brand",
+            "flies",
+            "truck",
+            "fly",
+            "places",
+            "fighter",
+            "storm",
+            "fighters",
+            "ball"
+        ],
+        "description": "references to fires and firefighting activities"
+    },
+    {
+        "index": "51951",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_51951.json",
+        "negative_strings": [
+            "/jav",
+            "imon",
+            "/framework",
+            "anke",
+            "ocuk",
+            "ocaly",
+            "imson",
+            "\u00e5\u0132\u013d",
+            "\u00ce\u00b8\u00ce\u00ae",
+            "\u00e5\u00ae\u013b"
+        ],
+        "positive_strings": [
+            "fighter",
+            "fighters",
+            "fig",
+            "fight",
+            " fighters",
+            "house",
+            " fighter",
+            " Fighters",
+            "Fight",
+            "men"
+        ],
+        "description": "terms related to fire services and firefighting activities"
+    },
+    {
+        "index": "23235",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_23235.json",
+        "negative_strings": [
+            "rej",
+            "soever",
+            "sWith",
+            "ahr",
+            "ask",
+            "sett",
+            "sk",
+            "orative",
+            "itud",
+            "rei"
+        ],
+        "positive_strings": [
+            "nze",
+            "places",
+            "brand",
+            "ball",
+            "brands",
+            "starter",
+            "flies",
+            "work",
+            "fly",
+            "wood"
+        ],
+        "description": "terms related to fire and firefighting"
+    },
+    {
+        "index": "12841",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_12841.json",
+        "negative_strings": [
+            "soever",
+            "rej",
+            "sWith",
+            "sk",
+            "ahr",
+            "sst",
+            "itud",
+            "ask",
+            "sett",
+            "orative"
+        ],
+        "positive_strings": [
+            "places",
+            "nze",
+            "brand",
+            "brands",
+            "ball",
+            "work",
+            "proof",
+            "nds",
+            "starter",
+            "balls"
+        ],
+        "description": "terms related to fire and firefighting"
+    },
+    {
+        "index": "73219",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_73219.json",
+        "negative_strings": [
+            "imon",
+            "anke",
+            "/framework",
+            "ocuk",
+            "esel",
+            " Freund",
+            "ivant",
+            " \u00e6\u00b9",
+            "ocus",
+            "ordum"
+        ],
+        "positive_strings": [
+            "fighters",
+            "fighter",
+            " fighters",
+            "fig",
+            " fighter",
+            " protection",
+            " Chief",
+            " Fighters",
+            " Protection",
+            "fight"
+        ],
+        "description": " references to fire departments and firefighting activities"
+    },
+    {
+        "index": "22513",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_22513.json",
+        "negative_strings": [
+            "soever",
+            "rej",
+            "ahr",
+            "sk",
+            "sett",
+            "itud",
+            "orative",
+            "sst",
+            "uco",
+            "ask"
+        ],
+        "positive_strings": [
+            "nze",
+            "places",
+            "brand",
+            "ball",
+            "brands",
+            "work",
+            "starter",
+            "nds",
+            "proof",
+            "walls"
+        ],
+        "description": " terms related to fire and firefighting"
+    },
+    {
+        "index": "32177",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_32177.json",
+        "negative_strings": [
+            "anke",
+            "esel",
+            "/framework",
+            "imon",
+            "aida",
+            "/jav",
+            "DbType",
+            "LError",
+            "/Framework",
+            "sst"
+        ],
+        "positive_strings": [
+            "fighters",
+            "fighter",
+            "fig",
+            " Chief",
+            " fighters",
+            "men",
+            " chief",
+            " protection",
+            " Prevention",
+            " fighter"
+        ],
+        "description": " references to fire departments, firefighters, and fire-related incidents"
+    },
+    {
+        "index": "58827",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_58827.json",
+        "negative_strings": [
+            "imon",
+            "/framework",
+            "sst",
+            "anke",
+            "itung",
+            "/jav",
+            " Freund",
+            "\u00e5\u00ae\u013b",
+            "esel",
+            "/Gate"
+        ],
+        "positive_strings": [
+            "fighter",
+            "fighters",
+            " fighters",
+            " Chief",
+            " fighter",
+            " chief",
+            "fig",
+            "house",
+            "men",
+            " Fighters"
+        ],
+        "description": " terms related to firefighting and fire investigation"
+    },
+    {
+        "index": "22674",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_22674.json",
+        "negative_strings": [
+            "anke",
+            "sst",
+            "/framework",
+            "imon",
+            "itung",
+            "esel",
+            "/jav",
+            "/Gate",
+            "QUEUE",
+            "queued"
+        ],
+        "positive_strings": [
+            " Chief",
+            "fighter",
+            "fig",
+            " chief",
+            " fighters",
+            "fighters",
+            "men",
+            "Chief",
+            "chief",
+            " fighter"
+        ],
+        "description": " terms related to firefighting and fire-related incidents"
+    },
+    {
+        "index": "7481",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_7481.json",
+        "negative_strings": [
+            "soever",
+            "sett",
+            "sk",
+            "569",
+            "296",
+            "rej",
+            "endir",
+            "ener",
+            "iped",
+            "601"
+        ],
+        "positive_strings": [
+            "nze",
+            "places",
+            "brand",
+            "walls",
+            "nds",
+            "ball",
+            "works",
+            "bird",
+            "brands",
+            "fly"
+        ],
+        "description": " terms related to fire and firefighting"
+    },
+    {
+        "index": "78641",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_78641.json",
+        "negative_strings": [
+            "anke",
+            "/framework",
+            "sst",
+            "\u00e5\u00ae\u013b",
+            "/Gate",
+            "ionales",
+            "imon",
+            "meyen",
+            "ssel",
+            "ypad"
+        ],
+        "positive_strings": [
+            " fighters",
+            "men",
+            " Chief",
+            " chief",
+            "fighter",
+            "fig",
+            "fighters",
+            " fighting",
+            " fighter",
+            " Fighters"
+        ],
+        "description": "terms related to firefighting and fire departments"
+    },
+    {
+        "index": "24384",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_24384.json",
+        "negative_strings": [
+            "rif",
+            "ardless",
+            "bgcolor",
+            "ednou",
+            "rv\u00c3\u00a9",
+            "_slices",
+            " disasters",
+            "\u00c4\u013dr",
+            "\u00e6\u0135\u00a6",
+            "\u00d8\u00b4\u00d9\u012a\u00d8\u00b1"
+        ],
+        "positive_strings": [
+            " containment",
+            " suppression",
+            " crews",
+            " contained",
+            " extingu",
+            " attacking",
+            " estimated",
+            " Crew",
+            " spread",
+            " ventil"
+        ],
+        "description": " references to firefighting incidents and related emergency responses"
+    },
+    {
+        "index": "3428",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_3428.json",
+        "negative_strings": [
+            "rello",
+            "zung",
+            "reur",
+            "\u00d1\u0123\u00d1\u0124\u00d0\u00be\u00d1\u0122",
+            "-regexp",
+            "\u00ea\u00b6\u0123",
+            "akit",
+            "ificio",
+            "\u00eb\u0131\u012e",
+            " \u00e9\u0139"
+        ],
+        "positive_strings": [
+            " Cape",
+            " Bras",
+            " NS",
+            " Guys",
+            " cape",
+            " Sydney",
+            " Ant",
+            " Jud",
+            "NS",
+            " Nova"
+        ],
+        "description": "mentions of volunteer firefighters and related organizations"
+    },
+    {
+        "index": "2191",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_2191.json",
+        "negative_strings": [
+            "rella",
+            "anou",
+            "MOVED",
+            "imap",
+            "unga",
+            "kek",
+            "\u00e0\u00a4\u0124\u00e0\u00a4\u013e",
+            " Migration",
+            "agoon",
+            "rej"
+        ],
+        "positive_strings": [
+            " firefighter",
+            " firefighters",
+            " firefight",
+            " fire",
+            " Fire",
+            "Fire",
+            "fire",
+            " FIRE",
+            "-fire",
+            " fires"
+        ],
+        "description": " references to fire-related incidents and tributes to firefighters"
+    },
+    {
+        "index": "27074",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_27074.json",
+        "negative_strings": [
+            "rej",
+            "\u00d1\u0131\u00d0\u00bd",
+            "itud",
+            "uco",
+            "ahr",
+            "onas",
+            "\u00e9\u013c\u0128",
+            "unct",
+            "keit",
+            "omas"
+        ],
+        "positive_strings": [
+            "nze",
+            "nds",
+            "fly",
+            "work",
+            "walls",
+            "flies",
+            "places",
+            "bird",
+            "works",
+            "starter"
+        ],
+        "description": " words and phrases related to fire and firefighting"
+    },
+    {
+        "index": "80425",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_80425.json",
+        "negative_strings": [
+            "raham",
+            " Michaels",
+            "ramer",
+            "radient",
+            "\u00d8\u00ae\u00d8\u00a8",
+            "ruc",
+            "rp",
+            "raf",
+            "Rendering",
+            "paque"
+        ],
+        "positive_strings": [
+            "fighters",
+            "fighter",
+            "stone",
+            "fly",
+            "works",
+            "nze",
+            " Emblem",
+            "Fly",
+            "fight",
+            "arm"
+        ],
+        "description": " words related to fire and firefighting activities"
+    },
+    {
+        "index": "32029",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/firefighter/data_for_feature_32029.json",
+        "negative_strings": [
+            "anke",
+            "/framework",
+            "imon",
+            "uela",
+            "sst",
+            "/jav",
+            "\u00d1\u0125\u00d0\u00bb\u00d1\u012e\u00d1\u0124\u00d0\u00b0",
+            "/Gate",
+            "cott",
+            "meyen"
+        ],
+        "positive_strings": [
+            " Chief",
+            " fighters",
+            "fighter",
+            "fig",
+            " chief",
+            "fighters",
+            "men",
+            "chief",
+            " fighter",
+            "Chief"
+        ],
+        "description": " words related to firefighting and fire rescue services"
+    },
+    {
+        "index": "60626",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_60626.json",
+        "negative_strings": [
+            "YST",
+            "ypad",
+            "'field",
+            " Malone",
+            "\u00c4\u013dr",
+            "ilter",
+            "affer",
+            "ulp",
+            "/autoload",
+            "izo"
+        ],
+        "positive_strings": [
+            "ext",
+            " contain",
+            "-ext",
+            " contained",
+            " ext",
+            " extingu",
+            " Ext",
+            "Ext",
+            " containing",
+            " contains"
+        ],
+        "description": " terms related to fires and firefighting efforts"
+    },
+    {
+        "index": "46972",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_46972.json",
+        "negative_strings": [
+            "imon",
+            "\u00e5\u00ae\u013b",
+            "esel",
+            "anke",
+            "ivant",
+            "addin",
+            "/Gate",
+            "/framework",
+            "meyen",
+            "togroup"
+        ],
+        "positive_strings": [
+            "fighter",
+            " fighters",
+            "fighters",
+            " fighting",
+            "fight",
+            " Fighters",
+            " Fighter",
+            " fighter",
+            "Fight",
+            "fig"
+        ],
+        "description": " terms related to fire departments and firefighting activities"
+    },
+    {
+        "index": "12459",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/firefighter/data_for_feature_12459.json",
+        "negative_strings": [
+            "E",
+            "evi",
+            "rz",
+            "itational",
+            "oned",
+            "rq",
+            "estring",
+            "RING",
+            "ETCH",
+            "onet"
+        ],
+        "positive_strings": [
+            "IC",
+            "s",
+            "MLS",
+            "ny",
+            "NY",
+            "anders",
+            "LP",
+            "LC",
+            "ML",
+            "&C"
+        ],
+        "description": "references to firefighting organizations and their activities"
+    }
+]

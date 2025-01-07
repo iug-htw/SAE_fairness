@@ -1,0 +1,92 @@
+[
+    {
+        "index": "6889",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/nose/data_for_feature_6889.json",
+        "negative_strings": [
+            "conom",
+            "arcity",
+            " Wasteland",
+            " FML",
+            "RPG",
+            " Hammond",
+            "\\\\\\\\\\\\\\\\",
+            " RPG",
+            " Hunger",
+            "oppable"
+        ],
+        "positive_strings": [
+            " noses",
+            " nose",
+            " Nose",
+            " nasal",
+            " nost",
+            " facial",
+            " palate",
+            " sniff",
+            " sne",
+            " tongues"
+        ],
+        "description": "references to the human nose and related sensory perceptions"
+    },
+    {
+        "index": "22410",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/nose/data_for_feature_22410.json",
+        "negative_strings": [
+            "MER",
+            "RESULTS",
+            "Published",
+            "AIN",
+            "ATA",
+            "INA",
+            "ARR",
+            "ITNESS",
+            "effective",
+            "RELATED"
+        ],
+        "positive_strings": [
+            " eater",
+            " nodd",
+            "olicy",
+            " traged",
+            " princ",
+            " destro",
+            " tremend",
+            " disse",
+            "lio",
+            " suspic"
+        ],
+        "description": "references to body parts, especially the nose"
+    },
+    {
+        "index": "5316",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/nose/data_for_feature_5316.json",
+        "negative_strings": [
+            "forth",
+            "foreseen",
+            "pez",
+            "gently",
+            " footing",
+            "asonable",
+            "atever",
+            "timer",
+            "rises",
+            "cible"
+        ],
+        "positive_strings": [
+            " Rahul",
+            " Mehran",
+            " AAA",
+            " blockchain",
+            " Lumia",
+            "INESS",
+            " Roku",
+            " stereotypes",
+            " VIDEOS",
+            " Blockchain"
+        ],
+        "description": "words related to body parts, specifically the nose, mouth, and throat"
+    }
+]

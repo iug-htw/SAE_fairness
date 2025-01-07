@@ -1,0 +1,602 @@
+[
+    {
+        "index": "19838",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_19838.json",
+        "negative_strings": [
+            " Leilan",
+            "ework",
+            "iations",
+            "ivari",
+            "erent",
+            "EStreamFrame",
+            "idis",
+            "terness",
+            "ials",
+            " Lak"
+        ],
+        "positive_strings": [
+            " engines",
+            " warrant",
+            " engine",
+            " Warrant",
+            " warrants",
+            " queries",
+            " query",
+            "able",
+            " results",
+            " algorithm"
+        ],
+        "description": "terms and references related to search engines and search functionality"
+    },
+    {
+        "index": "24990",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_24990.json",
+        "negative_strings": [
+            "icho",
+            "oslov",
+            "laus",
+            "azo",
+            "istani",
+            "atana",
+            "ities",
+            "shirt",
+            "imet",
+            "epad"
+        ],
+        "positive_strings": [
+            " powering",
+            " engine",
+            " compartment",
+            " braking",
+            " combustion",
+            " powered",
+            " turbine",
+            " horsepower",
+            " engines",
+            " ignition"
+        ],
+        "description": "technical terms related to engines and mechanical components"
+    },
+    {
+        "index": "16306",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_16306.json",
+        "negative_strings": [
+            " hitch",
+            "mson",
+            " Chambers",
+            " Bourbon",
+            " Chop",
+            " shake",
+            " Hitch",
+            "UGH",
+            "milo",
+            "Frameworks"
+        ],
+        "positive_strings": [
+            "itent",
+            "seless",
+            "esis",
+            "emies",
+            "insula",
+            "etr",
+            "zyme",
+            "\u00c3\u00a7a",
+            "arios",
+            "itors"
+        ],
+        "description": "words related to the concept of \"engine\" or \"engineering\""
+    },
+    {
+        "index": "20204",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_20204.json",
+        "negative_strings": [
+            "\u00e5\u00a5\u00b3",
+            "iannopoulos",
+            "orld",
+            "onyms",
+            "ettings",
+            "ihad",
+            "lihood",
+            "ordan",
+            " Bei",
+            "\u00e9\u00be\u012f\u00e5\u0138\u013c\u00e5\u00a3\u00ab"
+        ],
+        "positive_strings": [
+            " rods",
+            " combustion",
+            "less",
+            " fuel",
+            "stocks",
+            " consumption",
+            "fuel",
+            " fueling",
+            " fumes",
+            "train"
+        ],
+        "description": "terms related to fuel, energy, engines, and consumption"
+    },
+    {
+        "index": "2573",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_2573.json",
+        "negative_strings": [
+            "chest",
+            "lihood",
+            "lies",
+            "chuk",
+            "liness",
+            " Nigerian",
+            " Filipino",
+            " Ukrain",
+            " Ukrainian",
+            " Cheong"
+        ],
+        "positive_strings": [
+            "EDIT",
+            "udence",
+            "ACK",
+            "OSS",
+            "ISIS",
+            "ASH",
+            "isco",
+            "ERO",
+            "attle",
+            "ANCE"
+        ],
+        "description": "types of genetic engineering techniques and processes"
+    },
+    {
+        "index": "37185",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_37185.json",
+        "negative_strings": [
+            "HCR",
+            "night",
+            " Alic",
+            "ICT",
+            "entin",
+            " Orth",
+            "azo",
+            " Unch",
+            "ARR",
+            "oken"
+        ],
+        "positive_strings": [
+            " pipes",
+            " vents",
+            " pipe",
+            " hose",
+            " valves",
+            "pipe",
+            " manif",
+            " duct",
+            " valve",
+            " piping"
+        ],
+        "description": "components and systems related to engine design and exhaust management"
+    },
+    {
+        "index": "45267",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_45267.json",
+        "negative_strings": [
+            "onymous",
+            "tle",
+            "hyde",
+            "emonic",
+            "etheless",
+            "unin",
+            "theless",
+            " Beir",
+            " [+",
+            "ookie"
+        ],
+        "positive_strings": [
+            " marvel",
+            "rador",
+            " engineer",
+            " technician",
+            " specs",
+            "Engineers",
+            " specifications",
+            " sergeant",
+            "workshop",
+            " bay"
+        ],
+        "description": "terms related to engineering and technical aspects"
+    },
+    {
+        "index": "30954",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_30954.json",
+        "negative_strings": [
+            "arcity",
+            "ktop",
+            "uyomi",
+            "lest",
+            "endez",
+            "rero",
+            "istle",
+            "eur",
+            "hood",
+            "orial"
+        ],
+        "positive_strings": [
+            " inline",
+            " skating",
+            " scissors",
+            " sheets",
+            " Sina",
+            " sheet",
+            " PHOTO",
+            "forth",
+            "inline",
+            " SVG"
+        ],
+        "description": " technical terms and specifications related to engineering or gaming"
+    },
+    {
+        "index": "40543",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_40543.json",
+        "negative_strings": [
+            "\u00e3\u0123\u012f",
+            "\u00e9\u00be\u012f",
+            "\u00e5\u00a3\u00ab",
+            "Interstitial",
+            "\u00e3\u0123\u0135",
+            "\u00e9\u0123",
+            "Marg",
+            "%]",
+            " recess",
+            " Cause"
+        ],
+        "positive_strings": [
+            "liner",
+            "liners",
+            "ting",
+            "tering",
+            "pack",
+            "packs",
+            "ty",
+            "ted",
+            "oleon",
+            "punk"
+        ],
+        "description": "terms related to jet engines and aircrafts"
+    },
+    {
+        "index": "20908",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_20908.json",
+        "negative_strings": [
+            "UGE",
+            "ELL",
+            " Zucker",
+            "lace",
+            " Orion",
+            " Huff",
+            "rays",
+            " Kell",
+            " Shap",
+            " Owl"
+        ],
+        "positive_strings": [
+            "cycl",
+            "icals",
+            "ical",
+            "20439",
+            "iste",
+            "icism",
+            "ophone",
+            "ieu",
+            "icles",
+            "ophile"
+        ],
+        "description": " terms related to engines and mechanical components"
+    },
+    {
+        "index": "18343",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_18343.json",
+        "negative_strings": [
+            "ajor",
+            " McCoy",
+            " Bundy",
+            " Quart",
+            " disarm",
+            " Kissinger",
+            " Okin",
+            "lethal",
+            " Ruff",
+            "hern"
+        ],
+        "positive_strings": [
+            " SEO",
+            " WordPress",
+            " ads",
+            " URLs",
+            " marketers",
+            " advertis",
+            " clicks",
+            " Ads",
+            " spam",
+            " keywords"
+        ],
+        "description": " terms related to search engine optimization (SEO) and online marketing strategies"
+    },
+    {
+        "index": "4659",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_4659.json",
+        "negative_strings": [
+            "ean",
+            " Coverage",
+            "lihood",
+            " Debor",
+            " Settlement",
+            " Judgment",
+            " Territories",
+            " Delivery",
+            " Elephant",
+            " Mand"
+        ],
+        "positive_strings": [
+            "ports",
+            "sembly",
+            "ournaments",
+            "istor",
+            "port",
+            "paces",
+            "undown",
+            "merce",
+            " motors",
+            "warm"
+        ],
+        "description": "phrases related to technical aspects of machinery and engineering"
+    },
+    {
+        "index": "18268",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_18268.json",
+        "negative_strings": [
+            "ivals",
+            "Duration",
+            " MMR",
+            "ezvous",
+            "mination",
+            "quit",
+            "\u0128\u0134",
+            "dule",
+            "\u00e0\u00bc",
+            "xiety"
+        ],
+        "positive_strings": [
+            " adorned",
+            " matte",
+            " redesigned",
+            " sleek",
+            " protr",
+            " molded",
+            " translucent",
+            " sculpt",
+            " curved",
+            " chrome"
+        ],
+        "description": " elements related to product features and characteristics, particularly in design and engineering contexts"
+    },
+    {
+        "index": "1454",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_1454.json",
+        "negative_strings": [
+            " Lennon",
+            " Collider",
+            " WARN",
+            " Mavericks",
+            " Cruiser",
+            " Corrections",
+            " Lewis",
+            "erve",
+            "estone",
+            "\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142"
+        ],
+        "positive_strings": [
+            "absor",
+            "ption",
+            "mented",
+            "rum",
+            "cffff",
+            "ptive",
+            "mone",
+            "mentation",
+            "bing",
+            "bed"
+        ],
+        "description": "phrases related to technical concepts in science and engineering"
+    },
+    {
+        "index": "33741",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_33741.json",
+        "negative_strings": [
+            "ramer",
+            " Staten",
+            " yours",
+            " livest",
+            "eely",
+            "exempt",
+            " Laf",
+            " detox",
+            "ruct",
+            "script"
+        ],
+        "positive_strings": [
+            "STEM",
+            "llah",
+            "gebra",
+            " STEM",
+            "nces",
+            " hubs",
+            " Achievement",
+            "Build",
+            "llor",
+            "Shop"
+        ],
+        "description": "phrases related to STEM (Science, Technology, Engineering, Mathematics) fields"
+    },
+    {
+        "index": "12805",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_12805.json",
+        "negative_strings": [
+            "lain",
+            "anguage",
+            "icka",
+            "loads",
+            "itional",
+            "chairs",
+            "river",
+            "morph",
+            "owship",
+            "bnb"
+        ],
+        "positive_strings": [
+            " Satoshi",
+            "\u00e3\u0125\u0125\u00e3\u0125\u012b",
+            " Nak",
+            " Hiro",
+            "otle",
+            "oshi",
+            "FIL",
+            " M\u00c3\u00bc",
+            "FT",
+            " Mats"
+        ],
+        "description": "names related to technology and software engineering"
+    },
+    {
+        "index": "3853",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_3853.json",
+        "negative_strings": [
+            "construct",
+            "Whe",
+            "irgin",
+            "herty",
+            "itary",
+            "ren",
+            "sized",
+            "tight",
+            "ridge",
+            " Wein"
+        ],
+        "positive_strings": [
+            "ictionary",
+            "earchers",
+            "MSN",
+            " browsing",
+            " searches",
+            " Yelp",
+            " analytics",
+            "wana",
+            " marketplace",
+            "vine"
+        ],
+        "description": " keywords and terms related to search engines and SEO strategies"
+    },
+    {
+        "index": "19730",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_19730.json",
+        "negative_strings": [
+            " Haku",
+            "06",
+            " Sixth",
+            " Gan",
+            "UI",
+            " Kul",
+            " 06",
+            " Mull",
+            " Kahn",
+            "Balt"
+        ],
+        "positive_strings": [
+            "paralle",
+            "xt",
+            "VIDIA",
+            " Payton",
+            "ival",
+            "eryl",
+            "Mar",
+            " Att",
+            "Attach",
+            "mare"
+        ],
+        "description": "parts of products and specifications related to engineering or physical items"
+    },
+    {
+        "index": "4491",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_4491.json",
+        "negative_strings": [
+            "EStream",
+            " Cursed",
+            "ecd",
+            " bloc",
+            "916",
+            " brace",
+            "geoning",
+            "avorite",
+            " reper",
+            " stem"
+        ],
+        "positive_strings": [
+            "ination",
+            "ustration",
+            "baugh",
+            "orius",
+            "ortment",
+            "inations",
+            "advertisement",
+            "Represent",
+            "entin",
+            "Adapt"
+        ],
+        "description": "scientific and technical descriptions related to physics and engineering"
+    },
+    {
+        "index": "34608",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/engineer/data_for_feature_34608.json",
+        "negative_strings": [
+            "nesday",
+            " Cruel",
+            "weet",
+            "Nature",
+            "uesday",
+            "ratom",
+            "achu",
+            "astical",
+            "oneliness",
+            "ongo"
+        ],
+        "positive_strings": [
+            " cockpit",
+            " windshield",
+            " vents",
+            " turret",
+            " hull",
+            " chassis",
+            " rear",
+            " ventilation",
+            " compartment",
+            " doors"
+        ],
+        "description": " technical specifications and descriptions related to engineering and design"
+    }
+]

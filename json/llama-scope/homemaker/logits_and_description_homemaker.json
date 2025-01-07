@@ -1,0 +1,602 @@
+[
+    {
+        "index": "22994",
+        "layer": "31-llamascope-mlp-32k",
+        "url": "json/llama-scope/homemaker/data_for_feature_22994.json",
+        "negative_strings": [
+            "upos",
+            "auc",
+            "rex",
+            "avis",
+            "acobian",
+            "roti",
+            " Nov\u00c3\u00a1",
+            "\u00e6\u0139",
+            " Spicer",
+            "assis"
+        ],
+        "positive_strings": [
+            "ophilia",
+            "as",
+            "ophobic",
+            "oph",
+            "ogen",
+            "mah",
+            "onym",
+            "ophon",
+            "ocide",
+            "ophil"
+        ],
+        "description": " references to homemakers and home-making tasks"
+    },
+    {
+        "index": "10705",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/homemaker/data_for_feature_10705.json",
+        "negative_strings": [
+            "\u00e5\u00b0\u0133\u00e5\u00b9\u00b4",
+            "alie",
+            " backpack",
+            "\u00e7\u013d\u0139",
+            "ruba",
+            " Backpack",
+            "\u00d1\u0122\u00d0\u00b5\u00d1\u012a",
+            "elmet",
+            "anou",
+            "iento"
+        ],
+        "positive_strings": [
+            " domestic",
+            " Domestic",
+            " domest",
+            " house",
+            " homem",
+            " cook",
+            " household",
+            " cooking",
+            " kitchen",
+            " cooks"
+        ],
+        "description": " references to homemaking and domestic responsibilities"
+    },
+    {
+        "index": "7071",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_7071.json",
+        "negative_strings": [
+            "apat",
+            "\u00e8\u00a1\u0128",
+            "zell",
+            "ulta",
+            "ptal",
+            "inen",
+            "\u00d8\u00b7\u00d8\u00b1",
+            "hog",
+            "SPI",
+            "bish"
+        ],
+        "positive_strings": [
+            "akers",
+            "aking",
+            "aker",
+            "ade",
+            "king",
+            "AKER",
+            "ong",
+            "aid",
+            "ake",
+            " Baker"
+        ],
+        "description": " terms related to policymaking and homemaking"
+    },
+    {
+        "index": "7936",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_7936.json",
+        "negative_strings": [
+            " k\u00c3\u00a5",
+            "strap",
+            "ingle",
+            " nexus",
+            "lick",
+            " Mach",
+            " erection",
+            "istro",
+            " surviv",
+            " Nexus"
+        ],
+        "positive_strings": [
+            " decl",
+            " organization",
+            " organizing",
+            " clutter",
+            " organiz",
+            " Decl",
+            "organization",
+            "decl",
+            "Decl",
+            " organisation"
+        ],
+        "description": " words and phrases related to organization and homemaking activities"
+    },
+    {
+        "index": "13081",
+        "layer": "29-llamascope-mlp-32k",
+        "url": "json/llama-scope/homemaker/data_for_feature_13081.json",
+        "negative_strings": [
+            "\u00e5\u00a1\u013c",
+            " jour",
+            "\u00e8\u00bc\u00aa",
+            "\u00c5\u013b\u00c3\u0143d",
+            "ikler",
+            "\u00ba",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab",
+            " approx",
+            "UGIN",
+            "\u00e6\u00b0\u00a3"
+        ],
+        "positive_strings": [
+            "oe",
+            "eru",
+            "ese",
+            "erg",
+            "erm",
+            "er",
+            "ton",
+            "tor",
+            "\u00e5\u0129",
+            "erp"
+        ],
+        "description": " references to homemaking or home-related activities"
+    },
+    {
+        "index": "41704",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_41704.json",
+        "negative_strings": [
+            " fucks",
+            " fucked",
+            " fucking",
+            " existential",
+            "Fuck",
+            " shitty",
+            " booze",
+            " shit",
+            " asshole",
+            " fuck"
+        ],
+        "positive_strings": [
+            " homem",
+            " Homes",
+            " homeschool",
+            ".hom",
+            " Hom",
+            " ladies",
+            " hom",
+            " Ladies",
+            " homes",
+            "homes"
+        ],
+        "description": " topics related to homemaking and natural living"
+    },
+    {
+        "index": "56137",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_56137.json",
+        "negative_strings": [
+            " MIME",
+            " turno",
+            "\u00e9\u013b\u00b5",
+            " mach",
+            "sburg",
+            " CIF",
+            "_CD",
+            "\u00e8\u0127\u0132",
+            ".addProperty",
+            " ci"
+        ],
+        "positive_strings": [
+            " intentional",
+            " deliberate",
+            " slow",
+            " slowing",
+            " Slow",
+            " intention",
+            " slowed",
+            "\u00e6\u0127\u00a2",
+            "slow",
+            " intentionally"
+        ],
+        "description": " content related to homemaking and family care"
+    },
+    {
+        "index": "127443",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_127443.json",
+        "negative_strings": [
+            " k\u00c3\u00a5",
+            " nexus",
+            "strap",
+            "istro",
+            "ingle",
+            "lick",
+            " muschi",
+            "ingly",
+            "@student",
+            " \u00d8\u00a8\u00d9\u012a\u00d8\u00a7\u00d8\u00a8\u00d8\u00a9"
+        ],
+        "positive_strings": [
+            " decl",
+            " organization",
+            " organizing",
+            " clutter",
+            " organisation",
+            "organization",
+            " organiz",
+            "Decl",
+            " Decl",
+            "decl"
+        ],
+        "description": " elements related to organizing and homemaking activities"
+    },
+    {
+        "index": "11013",
+        "layer": "28-llamascope-mlp-32k",
+        "url": "json/llama-scope/homemaker/data_for_feature_11013.json",
+        "negative_strings": [
+            "uitka",
+            "_locale",
+            "utto",
+            "\u00e8\u00a8\u00ba",
+            ".clips",
+            "Spin",
+            " Calder",
+            " ------------------------------------------------------------------------\n",
+            "atti",
+            "\u00e8\u0124\u00a9"
+        ],
+        "positive_strings": [
+            "848",
+            "egrity",
+            "b\u00c3\u0143",
+            "annis",
+            "deniz",
+            "esch",
+            "oust",
+            "336",
+            "eson",
+            "urrent"
+        ],
+        "description": " references to the concept of \"home\" or \"homemaker.\""
+    },
+    {
+        "index": "55245",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_55245.json",
+        "negative_strings": [
+            "inos",
+            "zell",
+            "-m",
+            "ma",
+            "305",
+            "untas",
+            " MAT",
+            "mtx",
+            "iglia",
+            "stav"
+        ],
+        "positive_strings": [
+            " ade",
+            "aking",
+            "ade",
+            "\u00e0\u00a4\u0137\u00e0\u00a4\u00a8",
+            "akers",
+            " kB",
+            "INGLE",
+            " Sweep",
+            "APT",
+            "\u00e8\u012c\u00b8"
+        ],
+        "description": " references to home economics or homemaking activities"
+    },
+    {
+        "index": "15894",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_15894.json",
+        "negative_strings": [
+            "sburg",
+            "gart",
+            "_flash",
+            "earer",
+            ".quest",
+            "ildo",
+            " synthes",
+            " syn",
+            " Synopsis",
+            "okie"
+        ],
+        "positive_strings": [
+            "neutral",
+            "reveal",
+            "Neutral",
+            " neutral",
+            " powder",
+            "updates",
+            " Powder",
+            " punches",
+            " Anthrop",
+            " Refresh"
+        ],
+        "description": "mentions of new products or services related to homemaking"
+    },
+    {
+        "index": "107418",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_107418.json",
+        "negative_strings": [
+            " rehe",
+            ".uml",
+            "upro",
+            " Fav",
+            "\u00d9\u012c\u00d9\u0128\u00d9\u012c",
+            "_Desc",
+            " groom",
+            " Hunger",
+            " Facts",
+            " Tinder"
+        ],
+        "positive_strings": [
+            " homeschool",
+            " natural",
+            " Natural",
+            " hom",
+            " Homes",
+            " Cloth",
+            "Natural",
+            "homes",
+            "natural",
+            " cloth"
+        ],
+        "description": " phrases related to homemaking and family management"
+    },
+    {
+        "index": "38928",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_38928.json",
+        "negative_strings": [
+            " eSports",
+            " TripAdvisor",
+            "oley",
+            "adia",
+            " triang",
+            "XR",
+            "awi",
+            " Rupert",
+            " Rencontres",
+            "\u00c4\u012f\u00c3\u0143"
+        ],
+        "positive_strings": [
+            " Fly",
+            "Fly",
+            " fly",
+            "-fly",
+            "fly",
+            " Flynn",
+            " Chore",
+            " homem",
+            " chores",
+            " flies"
+        ],
+        "description": "elements related to family and homemaking topics"
+    },
+    {
+        "index": "100751",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_100751.json",
+        "negative_strings": [
+            "RIX",
+            "ANJI",
+            "\u00e0\u00b8\u00b8\u00e0\u00b9\u012a",
+            "vrd",
+            "acerb",
+            "ccione",
+            "eros",
+            "UFFER",
+            "urope",
+            ".StackTrace"
+        ],
+        "positive_strings": [
+            "ens",
+            "ans",
+            "ent",
+            "hal",
+            "ah",
+            "\u00e3\u0124\u012b\u00e3\u0123\u0126",
+            "ahn",
+            "ash",
+            "ali",
+            "fo"
+        ],
+        "description": " terms related to craftsmanship and homemaking"
+    },
+    {
+        "index": "75286",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_75286.json",
+        "negative_strings": [
+            " reklam",
+            "\u00c4\u013dst",
+            " rekl",
+            " razor",
+            "ildo",
+            "Margins",
+            "#Region",
+            "earer",
+            "stadt",
+            "ollapsed"
+        ],
+        "positive_strings": [
+            " wall",
+            "tutorial",
+            "-wall",
+            " walls",
+            " updates",
+            " transformation",
+            " project",
+            "hou",
+            " update",
+            " dramatic"
+        ],
+        "description": " references to new products or projects related to home improvement or homemaking"
+    },
+    {
+        "index": "20488",
+        "layer": "22-llamascope-mlp-32k",
+        "url": "json/llama-scope/homemaker/data_for_feature_20488.json",
+        "negative_strings": [
+            "ogra",
+            "\u00e9\u0125\u0130",
+            "304",
+            "\u00e0\u00a5\u0129\u00e0\u00a4\u00a3",
+            " promin",
+            "oggles",
+            "\u00e0\u00a4\u0139\u00e0\u00a4\u00b0",
+            " Pure",
+            "aga",
+            " Walking"
+        ],
+        "positive_strings": [
+            "hom",
+            "oze",
+            " hom",
+            "estead",
+            "ldb",
+            "ozy",
+            "eda",
+            "\u00d0\u00bb\u00d1\u0130",
+            "Hom",
+            "\u00ce\u00b5\u00cf\u0127"
+        ],
+        "description": "references to \"home\" or \"homemaking\" concepts and related terms"
+    },
+    {
+        "index": "78875",
+        "layer": "18-llamascope-mlp-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_78875.json",
+        "negative_strings": [
+            "tras",
+            " s",
+            "cop",
+            " Crown",
+            " population",
+            " plate",
+            " Hind",
+            "\u00e0\u00a5\u0123\u00e0\u00a4\u013c",
+            " esk",
+            "isy"
+        ],
+        "positive_strings": [
+            " house",
+            " household",
+            " Household",
+            " households",
+            " CLEAN",
+            " \u00d9\u0127\u00d9\u0128\u00d8\u00b2\u00d9\u0126",
+            "_house",
+            " cleaning",
+            " \u00e0\u00a4\u013a\u00e0\u00a4\u00b0",
+            "antt"
+        ],
+        "description": " roles and responsibilities related to traditional homemaking"
+    },
+    {
+        "index": "61090",
+        "layer": "12-llamascope-res-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_61090.json",
+        "negative_strings": [
+            "\u00c3\u00a8s",
+            "ogi",
+            "noho",
+            "uw",
+            "resden",
+            "arf",
+            " \u00d0\u00b7\u00d0\u00b0\u00d0\u00ba",
+            "\u00cc\u0125",
+            "emann",
+            "idine"
+        ],
+        "positive_strings": [
+            "\u00e8\u00b3\u0122",
+            "ackers",
+            "ahlen",
+            "649",
+            "isser",
+            "pheric",
+            "813",
+            ".AnchorStyles",
+            "ych",
+            "\tvolatile"
+        ],
+        "description": " phrases related to homemaking and domestic roles"
+    },
+    {
+        "index": "104875",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_104875.json",
+        "negative_strings": [
+            "ses",
+            "\u00e1\u00ba\u00bf",
+            "ories",
+            "edb",
+            "lest",
+            "ion",
+            " underline",
+            "ylene",
+            "tas",
+            "edes"
+        ],
+        "positive_strings": [
+            "ToFront",
+            " ><?",
+            "chap",
+            "Supply",
+            "\u00ec\u013f\u00b4\u00ec\u0138\u00b4",
+            "\u00d1\u0123\u00d1\u0124\u00d0\u00b8\u00d0\u00bd",
+            "ennon",
+            "\u00cf\u0122\u00cf\u012e",
+            "enties",
+            "/qu"
+        ],
+        "description": "references to helpful resources and personal experiences in the context of homemaking and blogging"
+    },
+    {
+        "index": "19161",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/homemaker/data_for_feature_19161.json",
+        "negative_strings": [
+            "amment",
+            "\u00e0\u00a5\u0129\u00e0\u00a4\u013e",
+            "outh",
+            "\u00e5\u0130\u0127",
+            "agas",
+            "\u00e3\u0123\u013b\u00e3\u0123\u013b",
+            "avou",
+            "inding",
+            "g\u00c3\u00bcn",
+            "\u00d1\u0131\u00d0\u00b3"
+        ],
+        "positive_strings": [
+            ".scalablytyped",
+            " member",
+            " Member",
+            " MEMBER",
+            "hotmail",
+            " Members",
+            "-member",
+            " lessons",
+            " package",
+            "subscriber"
+        ],
+        "description": " references to online educational programs related to homemaking"
+    }
+]

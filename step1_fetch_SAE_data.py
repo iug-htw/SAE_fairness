@@ -18,33 +18,7 @@ api_key = os.getenv("NEURONPEDIA_KEY")
 
 #prior queries not included anymore: see queries.json
 queries = [
-    "church",
-    "synagogue",
-    "mosque",
-    "temple",    
-    "bible",
-    "torah",
-    "quran",
-    "shabbat",
-    "kippah",   
-    "hijab",
-    "burka",
-    "kosher",   
-    "halal",
-    "mecca",
-    "allah",
-    "jesus",
-    "pope",    
-    "king",
-    "queen",    
-    "gentleman",
-    "lady",
-    "he",   
-    "she",
-    "husband",
-    "wife",
-    "son",
-    "daughter",
+    "gospel"       
     ] # Query to search for
 
 headers = {

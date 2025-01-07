@@ -1,0 +1,602 @@
+[
+    {
+        "index": "122765",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_122765.json",
+        "negative_strings": [
+            "horn",
+            "izmet",
+            "TypeDef",
+            "/stdc",
+            " Colleg",
+            ".IDENTITY",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "\u00ed\u013b\u0136",
+            "ship",
+            "aland"
+        ],
+        "positive_strings": [
+            " component",
+            " Component",
+            "ap",
+            "component",
+            "ajas",
+            " neod",
+            "Component",
+            "OUND",
+            " \u00d1\u0123\u00d0\u00b2",
+            " well"
+        ],
+        "description": " phrases indicating assistance or support in various contexts"
+    },
+    {
+        "index": "8635",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_8635.json",
+        "negative_strings": [
+            "osate",
+            "APPER",
+            "ideon",
+            "dech",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00be",
+            "quer",
+            "sov",
+            " allegedly",
+            "rir",
+            "ttp"
+        ],
+        "positive_strings": [
+            " don",
+            "eeee",
+            "eee",
+            " excuse",
+            " forgive",
+            "ee",
+            " pardon",
+            " somebody",
+            " sir",
+            "forg"
+        ],
+        "description": "requests and pleas for action or assistance"
+    },
+    {
+        "index": "5310",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_5310.json",
+        "negative_strings": [
+            "ijing",
+            "ritz",
+            " snaps",
+            "APO",
+            "cek",
+            "\u00d0\u00be\u00d0\u00b2\u00d0\u00b0\u00d1\u0122",
+            "avis",
+            "\u00e3\u0123\u0140",
+            " Wenger",
+            "upo"
+        ],
+        "positive_strings": [
+            " lay",
+            " basket",
+            " baseline",
+            " bank",
+            " baskets",
+            "alley",
+            " contested",
+            " flo",
+            " Lay",
+            " Basket"
+        ],
+        "description": " scoring plays and assists in a sports context"
+    },
+    {
+        "index": "3397",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_3397.json",
+        "negative_strings": [
+            "paid",
+            "uge",
+            "rof",
+            "irth",
+            "andle",
+            "ifen",
+            "stad",
+            "\u00ce\u00bd\u00cf\u0130",
+            "segments",
+            "Paid"
+        ],
+        "positive_strings": [
+            " banks",
+            " bank",
+            "bank",
+            "banks",
+            " Banks",
+            " pantry",
+            " pan",
+            " Bank",
+            " Pan",
+            " BANK"
+        ],
+        "description": " mentions of food assistance and related services"
+    },
+    {
+        "index": "11788",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_11788.json",
+        "negative_strings": [
+            "Caller",
+            "caller",
+            "fits",
+            "\u00e4\u00b8\u0122\u00e4\u00ba\u00ba",
+            "akit",
+            ".bt",
+            "\u00e1\u00ba\u00a7m",
+            "unami",
+            "isFunction",
+            "alous"
+        ],
+        "positive_strings": [
+            " ring",
+            "ring",
+            " buzz",
+            " Ring",
+            " rings",
+            "-ring",
+            "Ring",
+            "RING",
+            " quick",
+            " heads"
+        ],
+        "description": "requests and offers for assistance or communication"
+    },
+    {
+        "index": "13117",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_13117.json",
+        "negative_strings": [
+            "itten",
+            " Ingen",
+            "orde",
+            "zos",
+            "VML",
+            "isinde",
+            "_ship",
+            "stuff",
+            " Klo",
+            " Britt"
+        ],
+        "positive_strings": [
+            " favor",
+            " service",
+            " favors",
+            " favour",
+            " fav",
+            "service",
+            " services",
+            "-service",
+            "(service",
+            " kindness"
+        ],
+        "description": " phrases related to service and assistance"
+    },
+    {
+        "index": "105233",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_105233.json",
+        "negative_strings": [
+            " Boh",
+            "arte",
+            " pile",
+            "andex",
+            " twist",
+            " Barber",
+            " Ort",
+            " sem",
+            "ideo",
+            "ones"
+        ],
+        "positive_strings": [
+            " Job",
+            " Attendance",
+            " ESA",
+            "ESA",
+            " Employment",
+            " Housing",
+            " Universal",
+            "universal",
+            " Income",
+            "credits"
+        ],
+        "description": " references to social welfare and financial assistance programs"
+    },
+    {
+        "index": "3531",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_3531.json",
+        "negative_strings": [
+            "Breadcrumb",
+            "-prepend",
+            "ombo",
+            "\u00d1\u0122\u00d0\u00b5\u00d0\u00b7",
+            "uteur",
+            "fak",
+            "avar",
+            "oler",
+            "abeth",
+            "IDA"
+        ],
+        "positive_strings": [
+            " assist",
+            " Earn",
+            " serving",
+            " welcome",
+            " serve",
+            " exceeding",
+            " hearing",
+            " exceed",
+            " earning",
+            " earn"
+        ],
+        "description": " expressions of anticipation and eagerness to communicate or assist"
+    },
+    {
+        "index": "29024",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_29024.json",
+        "negative_strings": [
+            "quina",
+            " aks",
+            " Amit",
+            " Ashton",
+            "facet",
+            "uy",
+            "_ASCII",
+            "anou",
+            " ASE",
+            "yro"
+        ],
+        "positive_strings": [
+            " All",
+            "All",
+            "-all",
+            "_all",
+            ".All",
+            "_All",
+            "\u00c3\u00a4ll",
+            "al",
+            "alls",
+            "ALL"
+        ],
+        "description": " references to assisting or guiding processes and notions related to value or worth"
+    },
+    {
+        "index": "62518",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_62518.json",
+        "negative_strings": [
+            "pery",
+            "-tm",
+            "yang",
+            "j\u00c5\u00a1\u00c3\u0143",
+            "gnore",
+            "enade",
+            "mma",
+            "ifton",
+            "iants",
+            "querque"
+        ],
+        "positive_strings": [
+            "ham",
+            "les",
+            "less",
+            "lessly",
+            "lep",
+            "lest",
+            "iest",
+            "iness",
+            "le",
+            "tok"
+        ],
+        "description": " instances where assistance or help is requested"
+    },
+    {
+        "index": "3723",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_3723.json",
+        "negative_strings": [
+            "uman",
+            " Congratulations",
+            " BOT",
+            ".fhir",
+            "\\application",
+            "EditingController",
+            " Impossible",
+            "\u00d8\u00aa\u00d9\u012a\u00d8\u00a7\u00d9\u0128",
+            " congratulations",
+            "/apis"
+        ],
+        "positive_strings": [
+            " appreciated",
+            " appreciate",
+            " greatly",
+            " Apprec",
+            " appreciation",
+            " much",
+            " apprec",
+            " Much",
+            " great",
+            "Much"
+        ],
+        "description": " requests for assistance or help"
+    },
+    {
+        "index": "25421",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_25421.json",
+        "negative_strings": [
+            "illion",
+            "ales",
+            "keiten",
+            "\u00e5\u00be\u0126",
+            "issy",
+            "mouseout",
+            "isher",
+            "elig",
+            "dden",
+            "akter"
+        ],
+        "positive_strings": [
+            "ailable",
+            "isted",
+            "ault",
+            "OCI",
+            "ass",
+            "assin",
+            "essment",
+            " Ass",
+            "orted",
+            "wipe"
+        ],
+        "description": "words related to assistance and support"
+    },
+    {
+        "index": "8916",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_8916.json",
+        "negative_strings": [
+            "unal",
+            "gles",
+            "\u00e5\u00b1\u00b1\u00e5\u00b8\u0124",
+            "uars",
+            "mars",
+            "okrat",
+            "meld",
+            "andest",
+            "lyph",
+            "\u00e1\u00ba\u00a5p"
+        ],
+        "positive_strings": [
+            " covered",
+            " Covered",
+            "covered",
+            "-covered",
+            " COVER",
+            "Cover",
+            " cover",
+            " covers",
+            "-cover",
+            " Cover"
+        ],
+        "description": "references to assistance or coverage in various contexts"
+    },
+    {
+        "index": "124560",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_124560.json",
+        "negative_strings": [
+            " attempting",
+            "rowable",
+            ".Dynamic",
+            " steward",
+            "_try",
+            "\u00c3\u00a9t\u00c3\u00a9",
+            "eof",
+            " coax",
+            "ernals",
+            " headed"
+        ],
+        "positive_strings": [
+            " alot",
+            " to",
+            " lot",
+            "\u00e0\u00b9\u0125\u00e0\u00b8\u013b\u00e0\u00b8\u0123\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            " tremendously",
+            " \u00c3\u0143ch",
+            "lot",
+            " immensely",
+            " enormously",
+            " boosting"
+        ],
+        "description": "terms related to assistance or helping in various contexts"
+    },
+    {
+        "index": "75324",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_75324.json",
+        "negative_strings": [
+            "zdy",
+            "\u00d0\u00b5\u00d0\u00bb\u00d1\u0130",
+            "ebi",
+            "istrovstv\u00c3\u0143",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b6",
+            "ieber",
+            "strar",
+            ".cloudflare",
+            "legg",
+            "utow"
+        ],
+        "positive_strings": [
+            " kill",
+            " passing",
+            " bright",
+            "-pass",
+            " blow",
+            " dest",
+            " while",
+            " killing",
+            " pass",
+            " Kill"
+        ],
+        "description": " expressions related to assistance, guidance, or making things easier"
+    },
+    {
+        "index": "108737",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_108737.json",
+        "negative_strings": [
+            "v\u00c4\u013d",
+            "atetime",
+            "/facebook",
+            "\u00ea\u00b2\u00a9",
+            "at\u00c3\u00b6r",
+            "\u00e8\u00bc\u00af",
+            ".SizeF",
+            "arduino",
+            "tees",
+            "ityEngine"
+        ],
+        "positive_strings": [
+            "ful",
+            " Wanted",
+            " wanted",
+            "ed",
+            "wanted",
+            "FUL",
+            "ing",
+            " me",
+            " sought",
+            "fulness"
+        ],
+        "description": "phrases related to assistance or providing help"
+    },
+    {
+        "index": "69368",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_69368.json",
+        "negative_strings": [
+            "eways",
+            " photograph",
+            "stagram",
+            "AMESPACE",
+            ".getOwnPropertyDescriptor",
+            "\u00c5\u0124ad",
+            "xCD",
+            "\u00e7\u0127\u00a7\u00e7\u012b\u0129",
+            "\u00ec\u012c\u00a8",
+            "xED"
+        ],
+        "positive_strings": [
+            " Frequently",
+            " answers",
+            " FAQs",
+            " FAQ",
+            " frequently",
+            " Answers",
+            " answered",
+            "FAQ",
+            "Answers",
+            " fa"
+        ],
+        "description": " inquiries regarding assistance or information"
+    },
+    {
+        "index": "87237",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_87237.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "utzer",
+            "\u00e1\u00bb\u00aba",
+            " zlat",
+            "ikat",
+            "\u00a4\u00ed\u0136\u0126",
+            "\u00c3\u00b3st",
+            "i\u00c3\u0143",
+            "cce",
+            "afia"
+        ],
+        "positive_strings": [
+            " help",
+            " assistance",
+            " support",
+            " aid",
+            " outside",
+            "help",
+            " HELP",
+            " aide",
+            "-help",
+            " Help"
+        ],
+        "description": " words and phrases related to seeking support and assistance, particularly in mental health contexts"
+    },
+    {
+        "index": "1511",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/assistant/data_for_feature_1511.json",
+        "negative_strings": [
+            "\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00a3",
+            "\u00e3\u0123\u00aa\u00e3\u0123\u0133\u00e3\u0124\u012e\u00e3\u0123\u00b0",
+            "\u00d8",
+            "_nat",
+            "apel",
+            "JECT",
+            "BuilderInterface",
+            " \u00d0\u00bc\u00d0\u00b8\u00d0\u00bd\u00d1\u0125",
+            "ypress",
+            " anthrop"
+        ],
+        "positive_strings": [
+            " mainly",
+            " cat",
+            " apart",
+            " aim",
+            " possess",
+            " assure",
+            " endeavour",
+            " intend",
+            " believe",
+            " intents"
+        ],
+        "description": " phrases related to service offerings and assistance in various industries"
+    },
+    {
+        "index": "39912",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/assistant/data_for_feature_39912.json",
+        "negative_strings": [
+            "amas",
+            "\u00e0\u00a5\u00b0",
+            "\u00e4\u00b8\u012f\u00e8\u00bf\u0129",
+            "nist",
+            "want",
+            "\u00d0\u00be\u00d0\u00b1\u00d1\u0122\u00d0\u00b0\u00d0",
+            "\u00d1\u0124\u00d1\u0122\u00d0\u00b8",
+            "gnore",
+            "\u00d9\u0127\u00d8\u00a7\u00d9\u0127",
+            "jen"
+        ],
+        "positive_strings": [
+            " appreciated",
+            " appreciate",
+            " appreciation",
+            " Apprec",
+            " apprec",
+            " me",
+            "App",
+            " help",
+            " app",
+            " GREAT"
+        ],
+        "description": "expressions of desire or requests for assistance"
+    }
+]

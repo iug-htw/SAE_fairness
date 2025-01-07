@@ -1,6 +1,11 @@
 {
     "message": "Duplicate feature numbers found:",
     "duplicates": {
+        "22308": [
+            "json/llama-scope/gospel/data_for_feature_22308.json",
+            "json/llama-scope/christian/data_for_feature_22308.json",
+            "json/llama-scope/christianity/data_for_feature_22308.json"
+        ],
         "90925": [
             "json/llama-scope/girl/data_for_feature_90925.json",
             "json/llama-scope/boy/data_for_feature_90925.json"
@@ -21,6 +26,10 @@
             "json/llama-scope/girl/data_for_feature_57967.json",
             "json/llama-scope/boy/data_for_feature_57967.json"
         ],
+        "11273": [
+            "json/llama-scope/receptionist/data_for_feature_11273.json",
+            "json/llama-scope/mosque/data_for_feature_11273.json"
+        ],
         "30437": [
             "json/llama-scope/men/data_for_feature_30437.json",
             "json/llama-scope/boy/data_for_feature_30437.json"
@@ -29,6 +38,10 @@
             "json/llama-scope/men/data_for_feature_90864.json",
             "json/llama-scope/boy/data_for_feature_90864.json"
         ],
+        "7071": [
+            "json/llama-scope/homemaker/data_for_feature_7071.json",
+            "json/llama-scope/woman/data_for_feature_7071.json"
+        ],
         "89594": [
             "json/llama-scope/islam/data_for_feature_89594.json",
             "json/llama-scope/muslim/data_for_feature_89594.json"
@@ -36,6 +49,10 @@
         "4193": [
             "json/llama-scope/islam/data_for_feature_4193.json",
             "json/llama-scope/mosque/data_for_feature_4193.json"
+        ],
+        "5310": [
+            "json/llama-scope/kosher/data_for_feature_5310.json",
+            "json/llama-scope/assistant/data_for_feature_5310.json"
         ],
         "27399": [
             "json/llama-scope/male/data_for_feature_27399.json",
@@ -82,10 +99,6 @@
             "json/llama-scope/christianity/data_for_feature_20798.json",
             "json/llama-scope/jesus/data_for_feature_20798.json"
         ],
-        "22308": [
-            "json/llama-scope/christian/data_for_feature_22308.json",
-            "json/llama-scope/christianity/data_for_feature_22308.json"
-        ],
         "13244": [
             "json/llama-scope/christian/data_for_feature_13244.json",
             "json/llama-scope/christianity/data_for_feature_13244.json"
@@ -121,6 +134,10 @@
         "108489": [
             "json/llama-scope/husband/data_for_feature_108489.json",
             "json/llama-scope/wife/data_for_feature_108489.json"
+        ],
+        "123553": [
+            "json/llama-scope/nose/data_for_feature_123553.json",
+            "json/llama-scope/king/data_for_feature_123553.json"
         ]
     }
 }

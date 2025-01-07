@@ -1,0 +1,62 @@
+[
+    {
+        "index": "23170",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/gospel/data_for_feature_23170.json",
+        "negative_strings": [
+            "\u00e5\u013f",
+            "533",
+            "574",
+            ".workflow",
+            " spiritual",
+            "umble",
+            " lay",
+            "arth",
+            " Spiritual",
+            " prayers"
+        ],
+        "positive_strings": [
+            " message",
+            "message",
+            " truth",
+            " truths",
+            " Message",
+            "-message",
+            "truth",
+            "essage",
+            ".Message",
+            " tid"
+        ],
+        "description": "references to the Gospel and related biblical texts"
+    },
+    {
+        "index": "58849",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/gospel/data_for_feature_58849.json",
+        "negative_strings": [
+            ".ptr",
+            "uled",
+            "abant",
+            "egot",
+            "\u00e4\u00bb\u013b",
+            "isis",
+            "finder",
+            "edException",
+            " \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0123",
+            " queryInterface"
+        ],
+        "positive_strings": [
+            " Lord",
+            "Lord",
+            " Word",
+            " Son",
+            " LORD",
+            " Cross",
+            " cross",
+            " Lamb",
+            " Body",
+            " Father"
+        ],
+        "description": " references to the gospel and questions related to godliness"
+    }
+]

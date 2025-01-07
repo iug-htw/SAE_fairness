@@ -1,0 +1,492 @@
+[
+    {
+        "index": "111950",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/assistant/data_for_feature_111950.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Cient\u00ed",
+            "\u2581mourut",
+            "\u2581Garant\u00eda",
+            "\u2581feroit",
+            "\u2581patrulla",
+            "\ub010",
+            "\u2581enti\u00e8re"
+        ],
+        "positive_strings": [
+            "\u2581revert",
+            "\u2581Suggest",
+            "\u2581suggest",
+            "\u2581guide",
+            "Suggest",
+            "suggest",
+            "\u2581Guide",
+            "guide",
+            "\u2581reverted",
+            "Guide"
+        ],
+        "description": "requests for assistance or information"
+    },
+    {
+        "index": "8086",
+        "layer": "35-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_8086.json",
+        "negative_strings": [
+            "\u2581engra\u00e7adas",
+            "\u2581acompanhar",
+            "iyle",
+            "Katso",
+            "\u2581berdua",
+            "accompag",
+            "\u2581giuri",
+            "\u2581y\u0131ll",
+            "\u2581terribly",
+            "UseVisualStyle"
+        ],
+        "positive_strings": [
+            "\u2581contact",
+            "contact",
+            "Contact",
+            "\u2581Contact",
+            "\u2581CONTACT",
+            "\u2581contacts",
+            "\u2581kontakt",
+            "CONTACT",
+            "Kontakt",
+            "\u2581Contacts"
+        ],
+        "description": "The word \"contact\" appears often, typically in contexts where it refers to reaching out to someone or an organization for information, assistance, or other purposes."
+    },
+    {
+        "index": "101699",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/assistant/data_for_feature_101699.json",
+        "negative_strings": [
+            "\u2581<<<<<<<<<<<<<<",
+            "preventDefault",
+            "zule",
+            "\u2581PyLong",
+            "either",
+            "pexpr",
+            "cshtml",
+            "\u2581partially",
+            "contentValues",
+            "\u2581itself"
+        ],
+        "positive_strings": [
+            "\u2581professor",
+            "professor",
+            "\u2581coach",
+            "\u2581Professor",
+            "\u2581commandant",
+            "\u2581manager",
+            "Professor",
+            "\u2581PROFESSOR",
+            "\u2581editor",
+            "\u2581superintendent"
+        ],
+        "description": " titles and roles associated with the position of \"Assistant.\""
+    },
+    {
+        "index": "758",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/assistant/data_for_feature_758.json",
+        "negative_strings": [
+            "h\u00e5nd",
+            "hits",
+            "\u2581Supporting",
+            "Supporting",
+            "featureID",
+            "\u2581hy\u00f6",
+            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
+            "\u2581Supported",
+            "happen",
+            "importanza"
+        ],
+        "positive_strings": [
+            "\u2581help",
+            "help",
+            "\u2581hep",
+            "\u2581hj\u00e4lp",
+            "\u2581ayuda",
+            "\u2581Hilfe",
+            "Help",
+            "\u2581ajuda",
+            "\u2581Help",
+            "\u2581helfen"
+        ],
+        "description": " phrases related to assistance and support"
+    },
+    {
+        "index": "641",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_641.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Government assistance programs, statistics, and financial data, often related to food and unemployment benefits."
+    },
+    {
+        "index": "94879",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/assistant/data_for_feature_94879.json",
+        "negative_strings": [
+            "quelize",
+            "intenant",
+            "\u2581nemus",
+            "tanleria",
+            "wrote",
+            "TemporalType",
+            "\u0159ev\u011b",
+            "\u53c8\u4e0d\u662f",
+            "belline",
+            "\u2581supuestamente"
+        ],
+        "positive_strings": [
+            "\u2581appreciated",
+            "\u2581welcomed",
+            "\u2581welcome",
+            "\u2581anyone",
+            "Anyone",
+            "\u2581anybody",
+            "\u2581willkommen",
+            "\u2581Anyone",
+            "appreciated",
+            "\u2581greatly"
+        ],
+        "description": "requests for assistance or suggestions"
+    },
+    {
+        "index": "2471",
+        "layer": "39-gemmascope-res-16k",
+        "url": "json/gemma-scope/assistant/data_for_feature_2471.json",
+        "negative_strings": [
+            "PageRoute",
+            "addPreferredGap",
+            "bootstrapcdn",
+            "\u2581\u0628\u064a\u0647\u0627",
+            "UIControlState",
+            "postsleuth",
+            "SequentialGroup",
+            "vertx",
+            "FromNib",
+            "\u2581Mushroom"
+        ],
+        "positive_strings": [
+            "\u2581IVF",
+            "\u2581fertility",
+            "\u2581sperm",
+            "\u2581fertilization",
+            "\u2581fertil",
+            "\u2581fertiliz",
+            "\u2581Fer",
+            "\u2581infertility",
+            "\u2581fertili",
+            "Fer"
+        ],
+        "description": "phrases related to genetic evaluation and assisted reproduction"
+    },
+    {
+        "index": "4060",
+        "layer": "38-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_4060.json",
+        "negative_strings": [
+            "\u2581wypo",
+            "\u2581Exactos",
+            "\u2581Polda",
+            "RUnlock",
+            "\u2581tak\u0131m\u0131",
+            "\u2581Polisi",
+            "\u2581Hirst",
+            "\u2581Garrick",
+            "\u2581protoimpl",
+            "Organisateur"
+        ],
+        "positive_strings": [
+            "\u2581benefits",
+            "\u2581welfare",
+            "\u2581benefit",
+            "benefits",
+            "\u2581Benefits",
+            "Benefit",
+            "Benefits",
+            "\u2581Benefit",
+            "\u2581Welfare",
+            "welfare"
+        ],
+        "description": "Text features are associated with topics related to government programs, policies, social issues, financial assistance, and public services, such as Social Security, unemployment benefits, and health care."
+    },
+    {
+        "index": "28001",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/assistant/data_for_feature_28001.json",
+        "negative_strings": [
+            "Plaintiff",
+            "complexType",
+            "plate",
+            "optarg",
+            "PropertyChanging",
+            "\u2581plate",
+            "\u2581\uc0ac\uc5c5",
+            "\u2581plaintiff",
+            "\u2581plaintiffs",
+            "EqualsAnd"
+        ],
+        "positive_strings": [
+            "\u2581habeas",
+            "\u2581convicted",
+            "\u2581ineffective",
+            "\u2581post",
+            "\u2581conviction",
+            "\u2581alibi",
+            "effectiveness",
+            "\u2581peniten",
+            "\u2581sentencing",
+            "Post"
+        ],
+        "description": "legal terminology related to ineffective assistance of counsel claims"
+    },
+    {
+        "index": "84250",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_84250.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Polite requests for information, opinions, or assistance, often using nouns that convey a sense of seeking input or guidance."
+    },
+    {
+        "index": "6914",
+        "layer": "22-gemmascope-res-16k",
+        "url": "json/gemma-scope/assistant/data_for_feature_6914.json",
+        "negative_strings": [
+            "\ub9c1",
+            "\u2581andet",
+            "\u2581intermediates",
+            "ynki",
+            "\u2581quede",
+            "literals",
+            "\u2581famiglie",
+            "\u2581literally",
+            "\u6e08",
+            "jelen"
+        ],
+        "positive_strings": [
+            "MethodManager",
+            "\u2581plea\u017fure",
+            "EnableWeb",
+            "TargetException",
+            "\u2581IBOutlet",
+            "invokeLater",
+            "\u2581editor",
+            "\u2581Efq",
+            "\u2581purpo\u017fe",
+            "\u2581combineReducers"
+        ],
+        "description": "titles and roles related to assistant and deputy positions in various organizations"
+    },
+    {
+        "index": "56510",
+        "layer": "25-gemmascope-res-65k",
+        "url": "json/gemma-scope/assistant/data_for_feature_56510.json",
+        "negative_strings": [
+            "szta\u0142",
+            "\u2581d\u00e9sol\u00e9s",
+            "\u2581betweenstory",
+            "MessageOf",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "cadilly",
+            "Tikang",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "guenos",
+            "AccessorTable"
+        ],
+        "positive_strings": [
+            "\u2581feel",
+            "\u2581let",
+            "\u2581don",
+            "\u2581shoot",
+            "shoot",
+            "feel",
+            "Shoot",
+            "fire",
+            "\u2581get",
+            "\u2581fell"
+        ],
+        "description": "phrases requesting assistance or responses from the reader"
+    },
+    {
+        "index": "2299",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/assistant/data_for_feature_2299.json",
+        "negative_strings": [
+            "\u2581defaultstate",
+            "\u2581kasarigan",
+            "\u2581nucl\u00e9aire",
+            "unpack",
+            "antas\u0131",
+            "\u2581przeds",
+            "\u9535",
+            "\ufeff<?",
+            "\u2581Naturschutz",
+            "\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
+        ],
+        "positive_strings": [
+            "\u2581addiction",
+            "\u2581recovery",
+            "\u2581sobriety",
+            "\u2581Addiction",
+            "\u2581addicts",
+            "Addiction",
+            "\u2581Recovery",
+            "\u2581addict",
+            "\u2581relapse",
+            "Recovery"
+        ],
+        "description": "terms related to addiction treatment and medication-assisted recovery"
+    },
+    {
+        "index": "12842",
+        "layer": "37-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_12842.json",
+        "negative_strings": [
+            "esModule",
+            "httphttps",
+            "\u2581ContentValues",
+            "\u2581Meksiku",
+            "XmlElement",
+            "expandindo",
+            "Atsauces",
+            "\u2581finnas",
+            "KommentareTeilen",
+            "WebVitals"
+        ],
+        "positive_strings": [
+            "\u2581insight",
+            "\u2581idea",
+            "\u2581glimpse",
+            "\u2581insights",
+            "insight",
+            "\u2581\u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435",
+            "\u2581picture",
+            "\u2581clue",
+            "\u2581understanding",
+            "\u2581indication"
+        ],
+        "description": "Indefinite articles (\"a\", \"an\") and other determiners (\"no\", \"some\", \"the\") used to introduce a noun or noun phrase, and verbs (\"give\", \"provide\", \"get\", \"become\") that are part of idiomatic expressions or phrases that offer, convey, or receive something, especially information or assistance."
+    },
+    {
+        "index": "49911",
+        "layer": "32-gemmascope-res-131k",
+        "url": "json/gemma-scope/assistant/data_for_feature_49911.json",
+        "negative_strings": [
+            "rrggbb",
+            "\u2581\u0440\u0430\u0437\u0443",
+            "\u00fcyada",
+            "\u2581circula",
+            "\u2581Onion",
+            "endregion",
+            "\u2581Transport",
+            "\u2581European",
+            "\u2581Progressive",
+            "Diweddarwch"
+        ],
+        "positive_strings": [
+            "fac",
+            "\u2581Fac",
+            "Fac",
+            "\u2581fac",
+            "\u2581FAC",
+            "FAC",
+            "\u2581Fak",
+            "\u2581facades",
+            "Fak",
+            "\u2581\u0424\u0430"
+        ],
+        "description": "words related to facilitation or assistance"
+    },
+    {
+        "index": "9669",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/assistant/data_for_feature_9669.json",
+        "negative_strings": [
+            "\u3067\u3057\u305f\u306d",
+            "\u3067\u3057\u305f\u304b",
+            "\u2581yourself",
+            "\u0423\u0434\u0430\u0447\u0438",
+            "\u8ba9\u4f60",
+            "\u041f\u0440\u0438\u044f\u0442",
+            "\u2581StatelessWidget",
+            "\u2581kasarigan",
+            "yourself",
+            "PMailer"
+        ],
+        "positive_strings": [
+            "\u2581Anyone",
+            "\u2581anyone",
+            "\u2581Anybody",
+            "Anyone",
+            "\u2581HELP",
+            "Help",
+            "\u2581Help",
+            "\u2581Any",
+            "\u2581anybody",
+            "\u2581help"
+        ],
+        "description": "questions or requests for assistance regarding programming or technical issues"
+    },
+    {
+        "index": "75981",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_75981.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles or roles within an organization that denote a level of authority or responsibility, such as \"assistant\", \"associate\", \"deputy\", \"acting\", or \"executive\", often preceding a noun."
+    },
+    {
+        "index": "72123",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/assistant/data_for_feature_72123.json",
+        "negative_strings": [
+            "rentices",
+            "\u5733",
+            "\u2581combineReducers",
+            "\u2581p\u00e9dagogique",
+            "\u2581Alibaba",
+            "\u2581africain",
+            "\u2581g\u00e9ant",
+            "FunctionFlags",
+            "anyang",
+            "grafos"
+        ],
+        "positive_strings": [
+            "\u2581euth",
+            "\u2581assisted",
+            "\u2581Assisted",
+            "Assisted",
+            "\u2581suicide",
+            "assisted",
+            "\u2581termin",
+            "\u2581suicides",
+            "anasia",
+            "suicide"
+        ],
+        "description": "terms related to assisted suicide and its associated factors"
+    },
+    {
+        "index": "121635",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_121635.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Emergency telephone numbers, particularly \"911\", appear to be highlighted in the provided examples, often in the context of dialing or calling for assistance in urgent situations."
+    },
+    {
+        "index": "43563",
+        "layer": "30-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/assistant/data_for_feature_43563.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"welfare\" is used primarily in the context of social or public assistance programs, while \"warfare\" is used to describe military or ideological conflicts."
+    }
+]

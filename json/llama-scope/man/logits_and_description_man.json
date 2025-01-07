@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6006",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_6006.json",
+        "negative_strings": [
+            "tone",
+            "yaw",
+            "ATIC",
+            "y",
+            "ted",
+            "tach",
+            "yen",
+            "sense",
+            "tt",
+            "ounder"
+        ],
+        "positive_strings": [
+            "agements",
+            "tras",
+            "agment",
+            "made",
+            "hattan",
+            "ufac",
+            "handling",
+            "chester",
+            "handled",
+            "hole"
+        ],
+        "description": " occurrences of the word \"man\" and its variations in context"
+    },
+    {
+        "index": "21563",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_21563.json",
+        "negative_strings": [
+            "ahl",
+            "eket",
+            "ahlen",
+            "ihu",
+            "iyet",
+            " Ov",
+            "iyi",
+            " Bret",
+            "fffffff",
+            "urre"
+        ],
+        "positive_strings": [
+            "-Man",
+            "man",
+            "wick",
+            "Verse",
+            "verse",
+            "web",
+            "-man",
+            "webs",
+            " Gwen",
+            " Verse"
+        ],
+        "description": " references to the Spider-Man character and associated titles"
+    },
+    {
+        "index": "1848",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_1848.json",
+        "negative_strings": [
+            "baugh",
+            "yat",
+            " addCriterion",
+            " K\u00c3\u00bclt\u00c3\u00bcr",
+            "elop",
+            "vais",
+            "\u00c3\u00a8m",
+            " Lap",
+            "v\u00c4\u013d",
+            "ovi"
+        ],
+        "positive_strings": [
+            " Spider",
+            "Spider",
+            " spider",
+            " Peter",
+            " Venom",
+            " webs",
+            " Parker",
+            "\u00e8\u013e\u013a\u00e8\u013d\u013d",
+            " spiders",
+            " Sp"
+        ],
+        "description": " mentions of characters or elements related to the Spider-Man franchise"
+    },
+    {
+        "index": "3456",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_3456.json",
+        "negative_strings": [
+            "phalt",
+            "y",
+            "h",
+            "gli",
+            "v",
+            "yh",
+            "tree",
+            "ar",
+            "ston",
+            "i"
+        ],
+        "positive_strings": [
+            "verage",
+            "agues",
+            "verages",
+            "ech",
+            "aks",
+            "aning",
+            "veled",
+            "ighton",
+            "eward",
+            "aned"
+        ],
+        "description": "references to Le Mans, particularly in the context of racing"
+    },
+    {
+        "index": "50740",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_50740.json",
+        "negative_strings": [
+            "yaw",
+            "ATIC",
+            "tone",
+            "yen",
+            "mdb",
+            "yne",
+            "oggler",
+            "sense",
+            "y",
+            "IZED"
+        ],
+        "positive_strings": [
+            "ning",
+            "agements",
+            "cala",
+            "agment",
+            "na",
+            "ufac",
+            "tras",
+            "ouver",
+            "nan",
+            "handled"
+        ],
+        "description": " occurrences of the word \"man\""
+    },
+    {
+        "index": "79390",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_79390.json",
+        "negative_strings": [
+            "abolic",
+            "\u00eb\u012d\u012b",
+            "ihu",
+            "\u00c3\u00b1ana",
+            "AILS",
+            " McCart",
+            "aises",
+            "spent",
+            "mgr",
+            "styleType"
+        ],
+        "positive_strings": [
+            "wick",
+            "man",
+            "-Man",
+            "-man",
+            "web",
+            "verse",
+            "bite",
+            "webs",
+            "Verse",
+            " bite"
+        ],
+        "description": " references to the character Spider-Man"
+    },
+    {
+        "index": "31201",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_31201.json",
+        "negative_strings": [
+            "genic",
+            "imler",
+            "gor",
+            "gid",
+            "side",
+            "gd",
+            "tsy",
+            "leanor",
+            "arton",
+            "enaire"
+        ],
+        "positive_strings": [
+            "fred",
+            "ifold",
+            "tra",
+            "uela",
+            "agment",
+            "iscal",
+            "hattan",
+            "iac",
+            "power",
+            "ually"
+        ],
+        "description": " references to \"Man\" or \"Manhattan.\""
+    },
+    {
+        "index": "8104",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_8104.json",
+        "negative_strings": [
+            "t",
+            "gne",
+            "side",
+            "tor",
+            "tiv",
+            "gd",
+            "genic",
+            "AGEMENT",
+            "gambar",
+            "si"
+        ],
+        "positive_strings": [
+            "ifold",
+            "fred",
+            "atee",
+            "agment",
+            "chest",
+            "zan",
+            "hatt",
+            "agements",
+            "power",
+            "zano"
+        ],
+        "description": "instances of the term \"Man\" as a reference to a specific entity or concept"
+    },
+    {
+        "index": "11623",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_11623.json",
+        "negative_strings": [
+            "ea",
+            "lers",
+            "olars",
+            "ermo",
+            "led",
+            "urs",
+            "ture",
+            "aney",
+            "gx",
+            "kos"
+        ],
+        "positive_strings": [
+            "ically",
+            "mong",
+            " ore",
+            "workers",
+            "ical",
+            " Maiden",
+            "worker",
+            " filings",
+            " maiden",
+            "cl"
+        ],
+        "description": "references to \"Iron\" or \"Iron Man\" related terms"
+    },
+    {
+        "index": "22106",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_22106.json",
+        "negative_strings": [
+            "bsites",
+            " ATTRIBUTE",
+            "ritz",
+            "tone",
+            "arty",
+            "ijn",
+            "shire",
+            "yaw",
+            "\u00c3\u00bcgen",
+            "yen"
+        ],
+        "positive_strings": [
+            "made",
+            "tras",
+            "agements",
+            "ufac",
+            "ouver",
+            "hole",
+            "hattan",
+            "uf",
+            "-made",
+            "cala"
+        ],
+        "description": " occurrences of the word \"man\" in various contexts"
+    },
+    {
+        "index": "23471",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_23471.json",
+        "negative_strings": [
+            "IRM",
+            "imbus",
+            "addin",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b6",
+            "CKER",
+            "\u00d1\u0123\u00d0\u00be\u00d1\u0124",
+            "\u00d1\u0123\u00d1\u0138\u00d0\u00bc",
+            "ransition",
+            "ellar",
+            "InputBorder"
+        ],
+        "positive_strings": [
+            "iac",
+            "imal",
+            "child",
+            "ic",
+            " crush",
+            "ly",
+            "imals",
+            "liest",
+            " cave",
+            "handling"
+        ],
+        "description": " references to \"man\" or masculinity"
+    },
+    {
+        "index": "17255",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_17255.json",
+        "negative_strings": [
+            "rez",
+            "alars",
+            "ts",
+            "gor",
+            "\u00e0\u00b8\u013c\u00e0\u00b8\u0123",
+            "\u00c3\u00bcgen",
+            "ossal",
+            "idan",
+            "genic",
+            "/lic"
+        ],
+        "positive_strings": [
+            "hattan",
+            "agements",
+            "tras",
+            "agment",
+            "iscal",
+            "fred",
+            "chester",
+            "orial",
+            "handled",
+            "ifold"
+        ],
+        "description": " instances of the word \"man.\""
+    },
+    {
+        "index": "64878",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_64878.json",
+        "negative_strings": [
+            "gui",
+            "shire",
+            "izzie",
+            "leanor",
+            "ersonic",
+            "dings",
+            "\u00c5\u013b\u00c3\u0143z",
+            "axies",
+            "ts",
+            "ldb"
+        ],
+        "positive_strings": [
+            "ifest",
+            "ufact",
+            "aged",
+            "ufac",
+            "agers",
+            "agements",
+            "ufacturer",
+            "aging",
+            "ifold",
+            "uf"
+        ],
+        "description": " variations of the term \"man\" in different contexts"
+    },
+    {
+        "index": "15470",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_15470.json",
+        "negative_strings": [
+            "shaw",
+            "ritz",
+            "\u00c3\u00bcgen",
+            "enda",
+            "gor",
+            "shal",
+            "imler",
+            "/lic",
+            "onda",
+            "alars"
+        ],
+        "positive_strings": [
+            "tras",
+            "made",
+            "hattan",
+            "agements",
+            "ure",
+            "eu",
+            "iple",
+            "ouver",
+            "agment",
+            "hole"
+        ],
+        "description": " occurrences of the word \"man\" in various contexts"
+    },
+    {
+        "index": "25998",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_25998.json",
+        "negative_strings": [
+            "hlas",
+            "ihu",
+            " brush",
+            "ahlen",
+            " McCart",
+            "\u00d8\u00a7\u00d8\u00ae",
+            "uries",
+            ".SDK",
+            "baugh",
+            ".mousePosition"
+        ],
+        "positive_strings": [
+            "-Man",
+            "pig",
+            "-man",
+            " Sense",
+            "Verse",
+            " sense",
+            "wick",
+            "verse",
+            " verse",
+            " Gwen"
+        ],
+        "description": "references to the character Spider-Man and related titles"
+    },
+    {
+        "index": "18214",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_18214.json",
+        "negative_strings": [
+            "e",
+            "o",
+            "lar",
+            "oxy",
+            "yro",
+            "echn",
+            "ties",
+            "aal",
+            "yah",
+            "lah"
+        ],
+        "positive_strings": [
+            "aged",
+            "age",
+            "aging",
+            "AGED",
+            "ages",
+            "ual",
+            "ufact",
+            "-aged",
+            " aged",
+            "ifest"
+        ],
+        "description": "terms with the substring \"man\""
+    },
+    {
+        "index": "95575",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_95575.json",
+        "negative_strings": [
+            "genic",
+            "gor",
+            "istrovstv\u00c3\u0143",
+            "arcy",
+            "gid",
+            "enaire",
+            "imler",
+            "stile",
+            "nock",
+            "YE"
+        ],
+        "positive_strings": [
+            "fred",
+            "olo",
+            "tra",
+            " Booker",
+            "hattan",
+            "agers",
+            "uel",
+            "ually",
+            "iscal",
+            "uela"
+        ],
+        "description": "mentions of the word \"Man.\""
+    },
+    {
+        "index": "11073",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/man/data_for_feature_11073.json",
+        "negative_strings": [
+            "ecycle",
+            "echan",
+            "ocene",
+            "pty",
+            "ADATA",
+            "venes",
+            "echn",
+            "tok",
+            "ivor",
+            "ostel"
+        ],
+        "positive_strings": [
+            "laughter",
+            "field",
+            "ions",
+            "ouri",
+            "uet",
+            "oor",
+            "our",
+            "arov",
+            "ory",
+            "IONS"
+        ],
+        "description": " references to the term \"Mans\" in various contexts"
+    },
+    {
+        "index": "111945",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_111945.json",
+        "negative_strings": [
+            "ijn",
+            "allon",
+            "ckill",
+            "bsites",
+            ".weixin",
+            "shire",
+            "ited",
+            "OrNil",
+            "ylon",
+            "enaire"
+        ],
+        "positive_strings": [
+            "iac",
+            "tras",
+            "handling",
+            "handled",
+            "ouver",
+            "handle",
+            " cave",
+            "ia",
+            "ly",
+            "ne"
+        ],
+        "description": "references to \"man\" in various contexts"
+    },
+    {
+        "index": "11631",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/man/data_for_feature_11631.json",
+        "negative_strings": [
+            "cak",
+            "ighet",
+            "igo",
+            "TRACK",
+            "ardu",
+            "rok",
+            "cad",
+            "amate",
+            "839",
+            ".rad"
+        ],
+        "positive_strings": [
+            " Manning",
+            " Peyton",
+            " Hill",
+            "ey",
+            " Lilly",
+            " Chung",
+            " Place",
+            " Eli",
+            "\u00c2\u0142M",
+            " Branch"
+        ],
+        "description": " mentions of Peyton Manning"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "index": "59163",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/firefighter/data_for_feature_59163.json",
+        "negative_strings": [
+            "oled",
+            " landslide",
+            "bru",
+            "isper",
+            "LOOD",
+            "-relative",
+            "\u00e0\u00b8\u00b9\u00e0\u00b9\u012a",
+            "agne",
+            " bruises",
+            "leaflet"
+        ],
+        "positive_strings": [
+            " flames",
+            " smoke",
+            " blaze",
+            " Flames",
+            "Smoke",
+            " Smoke",
+            " char",
+            " firefighters",
+            " burning",
+            " scor"
+        ],
+        "description": " intense and dramatic descriptions of fires and firefighting efforts"
+    }
+]

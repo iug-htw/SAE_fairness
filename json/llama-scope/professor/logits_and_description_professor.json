@@ -1,0 +1,602 @@
+[
+    {
+        "index": "19471",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_19471.json",
+        "negative_strings": [
+            "emens",
+            "ques",
+            "ennen",
+            "fal",
+            " overhe",
+            "rote",
+            "ropa",
+            "cznie",
+            "\u00e0\u00a4\u00a6\u00e0\u00a4\u00ae",
+            "asper"
+        ],
+        "positive_strings": [
+            "ession",
+            "iling",
+            "iciency",
+            "ess",
+            "essions",
+            "icient",
+            "anity",
+            "essed",
+            "umo",
+            "iting"
+        ],
+        "description": "references to academic titles or roles, particularly related to professors"
+    },
+    {
+        "index": "14832",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/professor/data_for_feature_14832.json",
+        "negative_strings": [
+            "fang",
+            "\u00c4\u012fek",
+            "bara",
+            "ques",
+            "eric",
+            "\u00e0\u00a4\u00a6\u00e0\u00a4\u00ae",
+            "Enlarge",
+            "cznie",
+            "\u00e8\u00b9",
+            "ATUS"
+        ],
+        "positive_strings": [
+            "essed",
+            "anity",
+            "essions",
+            "usion",
+            "ess",
+            "iciency",
+            "iciencies",
+            "ession",
+            "use",
+            "esso"
+        ],
+        "description": " words related to academic and professional titles, particularly those denoting professors"
+    },
+    {
+        "index": "127145",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_127145.json",
+        "negative_strings": [
+            "\u00e8\u00b9",
+            "\u00e0\u00a4\u00a6\u00e0\u00a4\u00ae",
+            " overhe",
+            "\\grid",
+            "Enlarge",
+            "}\\.[",
+            "adena",
+            "ACHED",
+            "\u00c4\u012fek",
+            "ooke"
+        ],
+        "positive_strings": [
+            "essions",
+            "iciency",
+            "ess",
+            "icient",
+            "iling",
+            "ound",
+            "iciencies",
+            "anity",
+            "esor",
+            "essed"
+        ],
+        "description": "references to academic titles and professors"
+    },
+    {
+        "index": "109365",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_109365.json",
+        "negative_strings": [
+            "fork",
+            "tlement",
+            "nton",
+            "\u00e0\u00a5\u0122\u00e0\u00a4\u0137\u00e0\u00a4\u00b0\u00e0\u00a4\u00a3",
+            "elpers",
+            ":async",
+            "essler",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u00b3\u00e3\u0125\u012b",
+            "ibble",
+            "\u00e0\u00a5\u0123\u00e0\u00a4\u00b5"
+        ],
+        "positive_strings": [
+            "er",
+            "irit",
+            "eri",
+            "ert",
+            "eria",
+            "rit",
+            "rita",
+            "erti",
+            "irus",
+            "itus"
+        ],
+        "description": " instances of the term \"emeritus\" associated with professors"
+    },
+    {
+        "index": "45436",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_45436.json",
+        "negative_strings": [
+            "acked",
+            "ATUS",
+            "egin",
+            "ento",
+            "arch",
+            "entes",
+            "enta",
+            "enco",
+            "ennen",
+            "ocht"
+        ],
+        "positive_strings": [
+            "essions",
+            "essional",
+            "ession",
+            "iling",
+            "ess",
+            "iciency",
+            "anity",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123",
+            "essed",
+            "issional"
+        ],
+        "description": " instances of the word \"professor\" and its variations"
+    },
+    {
+        "index": "2329",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_2329.json",
+        "negative_strings": [
+            "inesis",
+            ".abstract",
+            "liness",
+            "adera",
+            "geries",
+            "\u00d0\u00a2\u00d0\u0140",
+            "ittings",
+            "ocale",
+            "\u00c5\u013bik",
+            "ings"
+        ],
+        "positive_strings": [
+            "ive",
+            " professor",
+            "ure",
+            "IVE",
+            "ured",
+            "ively",
+            "-prof",
+            "ural",
+            "istant",
+            " faculty"
+        ],
+        "description": " terms related to academic positions or titles, particularly \"adjunct professor.\""
+    },
+    {
+        "index": "91066",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_91066.json",
+        "negative_strings": [
+            "zioni",
+            "ERSHEY",
+            "ymm",
+            "nton",
+            "fork",
+            "holm",
+            "aspers",
+            "ibble",
+            "\u00d1\u0125\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00bd\u00d1\u0138",
+            "ctions"
+        ],
+        "positive_strings": [
+            "er",
+            "irit",
+            " em",
+            "irus",
+            "emer",
+            "rito",
+            "-em",
+            "\u00d0\u00bc\u00d0\u00b5\u00d1\u0122",
+            "itus",
+            "ritos"
+        ],
+        "description": " variations of the word \"emeritus\" and references to professors"
+    },
+    {
+        "index": "109650",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_109650.json",
+        "negative_strings": [
+            "enco",
+            "quet",
+            "dbl",
+            "egin",
+            " cust",
+            "SI",
+            "ento",
+            " zer",
+            "\u00e0\u00a4\u00a6\u00e0\u00a4\u00ae",
+            "EDITOR"
+        ],
+        "positive_strings": [
+            "essions",
+            "ession",
+            "essional",
+            "anity",
+            "ess",
+            "iling",
+            "iciency",
+            "essor",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123",
+            "esse"
+        ],
+        "description": " terms related to academic or professional titles, particularly \"professor\""
+    },
+    {
+        "index": "11611",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_11611.json",
+        "negative_strings": [
+            "kili",
+            "bras",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u012a\u00e0\u00b8\u00a3",
+            "\u00ec\u0126\u0143",
+            "Executor",
+            "ollen",
+            " bru",
+            "abal",
+            "leftright",
+            "\u00e0\u00b8\u00a9"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "ships",
+            "IAL",
+            " jointly",
+            "SHIP",
+            "ially",
+            "-direct",
+            " II",
+            " ad"
+        ],
+        "description": "references to academic titles or roles, specifically \"Professor.\""
+    },
+    {
+        "index": "20018",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/professor/data_for_feature_20018.json",
+        "negative_strings": [
+            "arch",
+            "dbl",
+            "lish",
+            " cust",
+            "quet",
+            "olest",
+            "ento",
+            "ocht",
+            "SI",
+            "fal"
+        ],
+        "positive_strings": [
+            "essed",
+            "ess",
+            "essions",
+            "essional",
+            "ession",
+            "anity",
+            " prof",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123",
+            "iciency",
+            "iling"
+        ],
+        "description": " the presence of the term \"professor\" in various contexts"
+    },
+    {
+        "index": "109540",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_109540.json",
+        "negative_strings": [
+            "herence",
+            "fact",
+            "arch",
+            " cust",
+            "ento",
+            "SI",
+            "ATUS",
+            "dbl",
+            "opard",
+            "alli"
+        ],
+        "positive_strings": [
+            "essions",
+            "ession",
+            "essional",
+            "anity",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123",
+            "ess",
+            "iling",
+            "iciency",
+            "esse",
+            "essed"
+        ],
+        "description": "academic titles and descriptors related to professors"
+    },
+    {
+        "index": "72436",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_72436.json",
+        "negative_strings": [
+            "Associ",
+            " Associates",
+            "associ",
+            "association",
+            " associates",
+            "assoc",
+            "Association",
+            " Associ",
+            " asoci",
+            " associ"
+        ],
+        "positive_strings": [
+            " Dean",
+            " professor",
+            "ive",
+            " dean",
+            " editor",
+            " degree",
+            " Professor",
+            " producer",
+            "-degree",
+            " Degree"
+        ],
+        "description": "titles related to academic positions, specifically \"Associate Professor\""
+    },
+    {
+        "index": "53289",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_53289.json",
+        "negative_strings": [
+            "adera",
+            "inesis",
+            "\u00d0\u00be\u00d0\u00ba\u00d0\u00b8",
+            " CGRectGet",
+            ".abstract",
+            "gings",
+            "\u00d9\u0130\u00d9\u012b",
+            "\u00d0\u00b5\u00d0\u00bd\u00d1\u0123",
+            "liness",
+            "\u00d0\u00a2\u00d0\u0140"
+        ],
+        "positive_strings": [
+            "ive",
+            "ure",
+            "urer",
+            "istant",
+            " professor",
+            "-f",
+            "istory",
+            "ault",
+            " status",
+            "ural"
+        ],
+        "description": " references to academic positions, particularly adjunct professors"
+    },
+    {
+        "index": "27706",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/professor/data_for_feature_27706.json",
+        "negative_strings": [
+            "\u00e8\u00aa\u012e",
+            "\u00ec\u0126\u0143",
+            "Executor",
+            "osas",
+            "kili",
+            "leftright",
+            "elles",
+            "lfw",
+            "zd",
+            "\u00c4\u013bk"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            " jointly",
+            " within",
+            " focusing",
+            " Emer",
+            "ships",
+            "SHIP",
+            " joint",
+            "ially"
+        ],
+        "description": "references to academic titles and roles, particularly those related to professors and their fields of study"
+    },
+    {
+        "index": "115652",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_115652.json",
+        "negative_strings": [
+            "osas",
+            "Boss",
+            " Boss",
+            "ollen",
+            "kili",
+            "bras",
+            " prof",
+            "VENTORY",
+            "\u00e9\u013e",
+            "\u00d9\u012c\u00d8\u00a7\u00d8\u00aa"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "SHIP",
+            " jointly",
+            "ships",
+            "joint",
+            "708",
+            " joint",
+            "ially",
+            "IAL"
+        ],
+        "description": "references to academic professors and their positions"
+    },
+    {
+        "index": "13545",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_13545.json",
+        "negative_strings": [
+            "lish",
+            "opard",
+            "ATUS",
+            "edes",
+            "SI",
+            " cust",
+            "arch",
+            " chopping",
+            "rong",
+            "ulas"
+        ],
+        "positive_strings": [
+            "anity",
+            "essed",
+            "ession",
+            "essions",
+            "essional",
+            " prof",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123",
+            "iciency",
+            "esso",
+            "umo"
+        ],
+        "description": "references to academic or professional titles, particularly related to professors"
+    },
+    {
+        "index": "62261",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_62261.json",
+        "negative_strings": [
+            "omin",
+            "\u00e6\u013d\u00b0",
+            " pool",
+            "zier",
+            "anny",
+            "iant",
+            "pool",
+            "ict",
+            "\u00d0\u00bc\u00d0\u00be\u00d1\u0124",
+            "ia"
+        ],
+        "positive_strings": [
+            "/Foundation",
+            " professor",
+            " holder",
+            " Found",
+            "Found",
+            " End",
+            " Presidential",
+            "prof",
+            " Regents",
+            " distinguished"
+        ],
+        "description": " academic titles and positions related to professors and their affiliations"
+    },
+    {
+        "index": "718",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/professor/data_for_feature_718.json",
+        "negative_strings": [
+            " professionals",
+            " Professionals",
+            "edes",
+            " professions",
+            " professionalism",
+            "ohn",
+            " professionnel",
+            "upe",
+            "SI",
+            "utenberg"
+        ],
+        "positive_strings": [
+            "ial",
+            "ess",
+            "iate",
+            "ship",
+            "ships",
+            "esso",
+            "esor",
+            "ession",
+            "ESS",
+            "esse"
+        ],
+        "description": "references to professors and academic titles"
+    },
+    {
+        "index": "26622",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_26622.json",
+        "negative_strings": [
+            "ses",
+            "istas",
+            "aldi",
+            "Associ",
+            "raid",
+            "zdy",
+            ".UnitTesting",
+            "czy",
+            "associ",
+            "association"
+        ],
+        "positive_strings": [
+            " professor",
+            " Professor",
+            " degree",
+            " producer",
+            " Dean",
+            " dean",
+            " editor",
+            " pastor",
+            " director",
+            " prof"
+        ],
+        "description": " references to academic titles and positions, particularly \"Associate Professor.\""
+    },
+    {
+        "index": "85272",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/professor/data_for_feature_85272.json",
+        "negative_strings": [
+            " Professionals",
+            " professionals",
+            " Operators",
+            "\u00e1\u00ba\u00bfp",
+            "tres",
+            "\u00d9\u012a\u00d8\u00b7",
+            "\u00c3\u00b3t",
+            "edes",
+            "osti",
+            "ingly"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "iate",
+            "ships",
+            " em",
+            " Emer",
+            "SHIP",
+            "ess",
+            "IAL",
+            "ession"
+        ],
+        "description": "references to academic titles and positions, specifically \"Professor.\""
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "index": "92126",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/midwife/data_for_feature_92126.json",
+        "negative_strings": [
+            "\u00e5\u012d",
+            "contres",
+            "duit",
+            "isphere",
+            "ymous",
+            "ighbors",
+            " d\u00c3\u0142i",
+            " \u00ce\u013e\u00ce\u00b5\u00cf\u0126\u00ce\u00b1",
+            " \u00e7\u0137",
+            "sak"
+        ],
+        "positive_strings": [
+            "ery",
+            "ERY",
+            " deliveries",
+            " care",
+            " bir",
+            "birth",
+            " delivery",
+            " delivering",
+            " Led",
+            "/mat"
+        ],
+        "description": " instances of the term \"midwife\" and related concepts in the context of nursing"
+    },
+    {
+        "index": "40055",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/midwife/data_for_feature_40055.json",
+        "negative_strings": [
+            "IER",
+            "\u00e4\u00b8\u00b9",
+            "\u00e0\u00a4\u00a4\u00e0\u00a4\u00b0",
+            "ificates",
+            "\u00e3\u0123\u0138",
+            "ATUS",
+            "GED",
+            ".decor",
+            "hoot",
+            "\u00ed\u0124\u00b9"
+        ],
+        "positive_strings": [
+            "ery",
+            " bir",
+            "umo",
+            "yne",
+            "ERY",
+            "birth",
+            "/mat",
+            "stery",
+            " delivery",
+            " deliveries"
+        ],
+        "description": " occurrences of the word \"midwife\" and related terms"
+    },
+    {
+        "index": "13820",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/midwife/data_for_feature_13820.json",
+        "negative_strings": [
+            "_reporting",
+            "IER",
+            "odore",
+            "zug",
+            "_CAST",
+            "ABEL",
+            "ARENT",
+            "AIT",
+            ".dev",
+            "\u00e3\u0123\u0138"
+        ],
+        "positive_strings": [
+            " bir",
+            " delivery",
+            "bir",
+            "birth",
+            " Bir",
+            " delivering",
+            " deliveries",
+            " Birth",
+            " care",
+            " delivered"
+        ],
+        "description": " occurrences of the word \"midwife\" and related terms"
+    },
+    {
+        "index": "8516",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/midwife/data_for_feature_8516.json",
+        "negative_strings": [
+            "\u00ec\u0129\u00bc",
+            "\u00e9\u00aa",
+            "ridor",
+            " Rudd",
+            "\u00e3\u0124\u00b7\u00e3\u0125\u00a7",
+            "593",
+            "ehr",
+            "meer",
+            "\u00e9\u00a4",
+            " x\u00e1\u00bb\u00a9"
+        ],
+        "positive_strings": [
+            "\\Carbon",
+            "box",
+            "zy",
+            ".GUI",
+            "boxes",
+            "TG",
+            "ifu",
+            ".openConnection",
+            " box",
+            "asmus"
+        ],
+        "description": "references to the word \"As\" and variations of \"midwife.\""
+    }
+]

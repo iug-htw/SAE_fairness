@@ -1,0 +1,362 @@
+[
+    {
+        "index": "10217",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_10217.json",
+        "negative_strings": [
+            " Wallet",
+            "eele",
+            " Chess",
+            " Spiel",
+            "Card",
+            "Money",
+            " Rivals",
+            " debit",
+            " chess",
+            " Psychology"
+        ],
+        "positive_strings": [
+            " blaze",
+            " extinguished",
+            " flames",
+            " ignition",
+            " ignited",
+            " flame",
+            " flared",
+            " burning",
+            " engulf",
+            " engulfed"
+        ],
+        "description": "references to fire incidents and firefighting efforts"
+    },
+    {
+        "index": "3240",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_3240.json",
+        "negative_strings": [
+            " Turing",
+            "ossier",
+            " Guant",
+            "\ufffd",
+            " disenfranch",
+            "osexual",
+            " bisexual",
+            " menstru",
+            " intellectual",
+            " GPA"
+        ],
+        "positive_strings": [
+            " firefighters",
+            " firefighter",
+            " fire",
+            " flames",
+            "Fire",
+            " blaze",
+            " Fire",
+            " extingu",
+            " fires",
+            " wildfire"
+        ],
+        "description": "mentions of fire incidents and their impact on firefighters"
+    },
+    {
+        "index": "4952",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_4952.json",
+        "negative_strings": [
+            " Juda",
+            "uggage",
+            " embargo",
+            "Purchase",
+            "isoft",
+            " jew",
+            "aband",
+            " merchants",
+            "Cart",
+            "ubi"
+        ],
+        "positive_strings": [
+            " firefighter",
+            " paramed",
+            " Volunteer",
+            " Chattanooga",
+            " retire",
+            " firefighters",
+            " retirement",
+            " retiring",
+            " volunteer",
+            " HF"
+        ],
+        "description": "terms related to emergency services and firefighter activities"
+    },
+    {
+        "index": "79",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_79.json",
+        "negative_strings": [
+            "anguage",
+            "\ufffd\ufffd",
+            " Languages",
+            "onyms",
+            "\u795e",
+            "\u30fc\u30af",
+            " Emin",
+            "\ufffd\ufffd",
+            "learn",
+            "Font"
+        ],
+        "positive_strings": [
+            " panicked",
+            " fault",
+            " carc",
+            " scrambling",
+            " branch",
+            " checkpoint",
+            " Howe",
+            " wreckage",
+            " corpses",
+            " Sierra"
+        ],
+        "description": "terms related to the fire department and incidents regarding firefighters"
+    },
+    {
+        "index": "22049",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_22049.json",
+        "negative_strings": [
+            "\ufffd",
+            "\u9f8d\u559a\u58eb",
+            "TG",
+            "Tele",
+            "\u65b9",
+            "Hor",
+            "\ufffd\ufffd",
+            "$$$$",
+            " //[",
+            "eele"
+        ],
+        "positive_strings": [
+            " destro",
+            "adoes",
+            "ornia",
+            "olesterol",
+            " Oaks",
+            " espresso",
+            "icides",
+            " inqu",
+            " dams",
+            "minecraft"
+        ],
+        "description": "terms related to fire incidents and firefighting"
+    },
+    {
+        "index": "238",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_238.json",
+        "negative_strings": [
+            " pronouns",
+            " pronoun",
+            "utive",
+            "Accessory",
+            " Turing",
+            " transsexual",
+            " charisma",
+            "Letter",
+            "Lex",
+            " unconsciously"
+        ],
+        "positive_strings": [
+            " flooding",
+            " inund",
+            "icide",
+            " wildfires",
+            " Areas",
+            " Flood",
+            " Surviv",
+            " advis",
+            " dumping",
+            "icides"
+        ],
+        "description": "words related to wildfires and firefighting"
+    },
+    {
+        "index": "21147",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_21147.json",
+        "negative_strings": [
+            "soDeliveryDate",
+            " \u88cf\ufffd",
+            " commissions",
+            "SpaceEngineers",
+            " pockets",
+            " NCT",
+            "Border",
+            " scissors",
+            " Tub",
+            " pocket"
+        ],
+        "positive_strings": [
+            "ciating",
+            "amines",
+            "ione",
+            "rification",
+            "iencies",
+            "cially",
+            "vable",
+            "\u00e3o",
+            "ovich",
+            "idis"
+        ],
+        "description": "phrases related to evacuation orders and firefighting efforts"
+    },
+    {
+        "index": "22802",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_22802.json",
+        "negative_strings": [
+            " pronoun",
+            "leans",
+            "aucas",
+            "icion",
+            "uchin",
+            " demographics",
+            " pronouns",
+            "isSpecialOrderable",
+            "\ufffd\ufffd",
+            " hairst"
+        ],
+        "positive_strings": [
+            "waters",
+            "eering",
+            "fighting",
+            "Engineers",
+            " calmed",
+            "din",
+            " debris",
+            "MH",
+            " fires",
+            " drowned"
+        ],
+        "description": "words related to fire incidents and firefighting activities"
+    },
+    {
+        "index": "4833",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_4833.json",
+        "negative_strings": [
+            "\u58eb",
+            "\u7248",
+            " digitally",
+            "\u9f8d\u559a\u58eb",
+            " Lie",
+            " Lifetime",
+            "galitarian",
+            "\u9f8d\ufffd",
+            "\ufffd",
+            " Virtue"
+        ],
+        "positive_strings": [
+            "itals",
+            "ifix",
+            "insula",
+            "operated",
+            "atorium",
+            "entimes",
+            "enaries",
+            " destro",
+            "iage",
+            " lookout"
+        ],
+        "description": "terms related to firefighting and fire safety protocols"
+    },
+    {
+        "index": "5978",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_5978.json",
+        "negative_strings": [
+            "ertain",
+            "itle",
+            "oS",
+            "utor",
+            " Literary",
+            "etus",
+            "o",
+            "auth",
+            "aran",
+            "eon"
+        ],
+        "positive_strings": [
+            " hemor",
+            "fighting",
+            "fighters",
+            " shaft",
+            " exting",
+            "\ufffd\ufffd",
+            "rower",
+            " undermin",
+            " debris",
+            " discharged"
+        ],
+        "description": "terms related to fire and firefighting incidents"
+    },
+    {
+        "index": "14934",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_14934.json",
+        "negative_strings": [
+            "\ufffd",
+            "\ufffd",
+            "oku",
+            "marriage",
+            "isSpecialOrderable",
+            " attractiveness",
+            "Gamer",
+            "\u30b7\u30e3",
+            " Marriage",
+            " encoding"
+        ],
+        "positive_strings": [
+            " evacuated",
+            " inspecting",
+            " mosqu",
+            " EMS",
+            " paramedics",
+            " stationed",
+            "nsic",
+            " Borough",
+            " downed",
+            " evacuate"
+        ],
+        "description": "information related to events involving firefighters such as rescues and casualties"
+    },
+    {
+        "index": "13962",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/firefighter/data_for_feature_13962.json",
+        "negative_strings": [
+            "sole",
+            "MR",
+            "repeat",
+            "yx",
+            "add",
+            "\u3057",
+            " UCHIJ",
+            "ventory",
+            "ori",
+            "INTER"
+        ],
+        "positive_strings": [
+            "imore",
+            "chwitz",
+            "\u30fc\u30af",
+            "halla",
+            " Royale",
+            "acebook",
+            " endeav",
+            " entreprene",
+            "edient",
+            " Awakens"
+        ],
+        "description": "words related to firefighting and emergency response"
+    }
+]
