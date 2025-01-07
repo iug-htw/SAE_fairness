@@ -1,0 +1,152 @@
+[
+    {
+        "index": "10394",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/mosque/data_for_feature_10394.json",
+        "negative_strings": [
+            " WD",
+            "\u00e6\u00a9",
+            "cold",
+            "amina",
+            " Vaugh",
+            "ATA",
+            "anke",
+            " Rockefeller",
+            "TOP",
+            "angled"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            " Brotherhood",
+            "istani",
+            "ophobia",
+            "majority",
+            " supremacist",
+            " cleric",
+            " fundamentalist",
+            " supremacists"
+        ],
+        "description": "mentions of Islam, Muslims, mosques, and multiculturalism"
+    },
+    {
+        "index": "47768",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/mosque/data_for_feature_47768.json",
+        "negative_strings": [
+            "lasses",
+            "dit",
+            "eu",
+            " Luthor",
+            "lass",
+            "hyde",
+            "lust",
+            ")=(",
+            "DragonMagazine",
+            " Snowden"
+        ],
+        "positive_strings": [
+            " loudspe",
+            " prayer",
+            " cleric",
+            "abad",
+            " mosque",
+            " congregation",
+            " mosques",
+            "hammad",
+            " attendance",
+            " prayers"
+        ],
+        "description": "references to mosques and worship activities"
+    },
+    {
+        "index": "92802",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/mosque/data_for_feature_92802.json",
+        "negative_strings": [
+            "lasses",
+            "dit",
+            " Luthor",
+            "\u00d1\u012d",
+            "lust",
+            ")=(",
+            "lass",
+            "eu",
+            "Product",
+            "\u00e9\u00bb\u0134"
+        ],
+        "positive_strings": [
+            " loudspe",
+            "abad",
+            " prayer",
+            " mosque",
+            " cleric",
+            " mosques",
+            " congregation",
+            "hammad",
+            " prayers",
+            " attendance"
+        ],
+        "description": " references to mosques"
+    },
+    {
+        "index": "92802",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/mosque/data_for_feature_92802.json",
+        "negative_strings": [
+            "lasses",
+            "dit",
+            " Luthor",
+            "\u00d1\u012d",
+            "lust",
+            ")=(",
+            "lass",
+            "eu",
+            "Product",
+            "\u00e9\u00bb\u0134"
+        ],
+        "positive_strings": [
+            " loudspe",
+            "abad",
+            " prayer",
+            " mosque",
+            " cleric",
+            " mosques",
+            " congregation",
+            "hammad",
+            " prayers",
+            " attendance"
+        ],
+        "description": " references to mosques"
+    },
+    {
+        "index": "14337",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/mosque/data_for_feature_14337.json",
+        "negative_strings": [
+            "lasses",
+            "dit",
+            "eu",
+            " Luthor",
+            "lass",
+            "AW",
+            " Snowden",
+            " Overs",
+            "Product",
+            "Tank"
+        ],
+        "positive_strings": [
+            " loudspe",
+            " prayer",
+            " mosque",
+            " cleric",
+            " mosques",
+            "abad",
+            " congregation",
+            "hammad",
+            " prayers",
+            " attendance"
+        ],
+        "description": "mentions of mosques and related activities or incidents around mosques"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "index": "22572",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_22572.json",
+        "negative_strings": [
+            "vantage",
+            "estern",
+            "izabeth",
+            "FTWARE",
+            "owered",
+            "ortium",
+            "ground",
+            "yles",
+            " Cheong",
+            " Proc"
+        ],
+        "positive_strings": [
+            " Quran",
+            " Qur",
+            " Koran",
+            " Sabha",
+            " manuscripts",
+            "ican",
+            "abal",
+            "anic",
+            "geries",
+            "uran"
+        ],
+        "description": "references to the Quran and its teachings"
+    },
+    {
+        "index": "6304",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_6304.json",
+        "negative_strings": [
+            " Vaugh",
+            "enegger",
+            "ologne",
+            "ONS",
+            "PsyNetMessage",
+            "ocamp",
+            "GN",
+            "LU",
+            " Falk",
+            "ENS"
+        ],
+        "positive_strings": [
+            "abad",
+            "icans",
+            " Allah",
+            "ican",
+            "Allah",
+            "istically",
+            "mouth",
+            "ashtra",
+            "hari",
+            "selves"
+        ],
+        "description": "keywords related to religious topics, specifically focusing on references to Islam and the Quran"
+    },
+    {
+        "index": "8769",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_8769.json",
+        "negative_strings": [
+            "vantage",
+            " Cheong",
+            "ortium",
+            "ofi",
+            "\u00e9\u0139\u013a",
+            "espie",
+            "ony",
+            "IDES",
+            "psey",
+            "oyal"
+        ],
+        "positive_strings": [
+            " Qur",
+            "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+            " Quran",
+            "geon",
+            "inx",
+            "cus",
+            "geons",
+            "cale",
+            "Scroll",
+            "gers"
+        ],
+        "description": "references to religious texts, such as the Quran, and terms related to education, such as syllabus"
+    },
+    {
+        "index": "7524",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_7524.json",
+        "negative_strings": [
+            "earable",
+            "redits",
+            "dress",
+            " Worldwide",
+            "owered",
+            "ground",
+            "heses",
+            " Mandela",
+            "dash",
+            "estern"
+        ],
+        "positive_strings": [
+            "geries",
+            " Quran",
+            "anic",
+            "ococ",
+            " unden",
+            " Qur",
+            "oran",
+            "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+            "ican",
+            "agen"
+        ],
+        "description": "references to Islamic religious texts, beliefs, and figures"
+    },
+    {
+        "index": "13887",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_13887.json",
+        "negative_strings": [
+            "ptive",
+            "cker",
+            "onomy",
+            "utive",
+            "ttle",
+            "lect",
+            "ggle",
+            "uten",
+            "omer",
+            "berman"
+        ],
+        "positive_strings": [
+            "eers",
+            " XD",
+            "eering",
+            "atche",
+            " Gazette",
+            "quez",
+            " Vader",
+            " Quran",
+            "\u00e6\u013a\u00af",
+            " Sakuya"
+        ],
+        "description": " references to the Quran and related Islamic texts"
+    },
+    {
+        "index": "43046",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_43046.json",
+        "negative_strings": [
+            "estern",
+            "LOS",
+            "epad",
+            "eas",
+            "fm",
+            "lining",
+            "eting",
+            "ech",
+            "assetsadobe",
+            "few"
+        ],
+        "positive_strings": [
+            " confir",
+            " Sanct",
+            "Arc",
+            " eru",
+            " absor",
+            " intrins",
+            " sag",
+            "Unit",
+            " Aires",
+            "units"
+        ],
+        "description": "phrases related to technological concepts and coding"
+    },
+    {
+        "index": "38201",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_38201.json",
+        "negative_strings": [
+            "gd",
+            " exceptions",
+            " Briggs",
+            " Clover",
+            "cffff",
+            " roadside",
+            " buck",
+            " Priority",
+            " gram",
+            " Rain"
+        ],
+        "positive_strings": [
+            "%).",
+            "]);",
+            "ribute",
+            "Ukraine",
+            "chenko",
+            "'.\"",
+            "\\'",
+            ").[",
+            "))))",
+            "nosis"
+        ],
+        "description": "various aircraft-related terms, Quranic verses, and coding-related commands and expressions"
+    },
+    {
+        "index": "44610",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_44610.json",
+        "negative_strings": [
+            "NetMessage",
+            " exploiting",
+            " skating",
+            "ottenham",
+            " relegation",
+            " grounding",
+            " sheltered",
+            "estern",
+            " respect",
+            " kickoff"
+        ],
+        "positive_strings": [
+            "imen",
+            "ococ",
+            "icals",
+            "ners",
+            "imens",
+            "selves",
+            "nen",
+            "Ca",
+            "nings",
+            "sworth"
+        ],
+        "description": " references to the Quran and religious concepts associated with it"
+    },
+    {
+        "index": "44610",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_44610.json",
+        "negative_strings": [
+            "NetMessage",
+            " exploiting",
+            " skating",
+            "ottenham",
+            " relegation",
+            " grounding",
+            " sheltered",
+            "estern",
+            " respect",
+            " kickoff"
+        ],
+        "positive_strings": [
+            "imen",
+            "ococ",
+            "icals",
+            "ners",
+            "imens",
+            "selves",
+            "nen",
+            "Ca",
+            "nings",
+            "sworth"
+        ],
+        "description": " references to the Quran and religious concepts associated with it"
+    },
+    {
+        "index": "38412",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/quran/data_for_feature_38412.json",
+        "negative_strings": [
+            "lin",
+            "lins",
+            "tan",
+            "lus",
+            " Virtue",
+            "nas",
+            "lde",
+            "itate",
+            "ity",
+            " vitality"
+        ],
+        "positive_strings": [
+            "igmat",
+            "gage",
+            "LOG",
+            "agall",
+            "AKING",
+            "URE",
+            "LOCK",
+            "BIT",
+            "adeon",
+            "ETF"
+        ],
+        "description": "Quranic verses related to violence or religious teachings from different schools of Buddhism"
+    }
+]

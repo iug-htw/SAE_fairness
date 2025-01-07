@@ -1,0 +1,602 @@
+[
+    {
+        "index": "24291",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_24291.json",
+        "negative_strings": [
+            "rende",
+            "orny",
+            "_FP",
+            "cerr",
+            "\u00eb\u00a6\u0143",
+            "\u00c5\u013bi",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "\u00c3\u00a1u",
+            "i\u00c4\u0129",
+            "Occurrences"
+        ],
+        "positive_strings": [
+            "ift",
+            "unken",
+            "unk",
+            "ifting",
+            "ives",
+            "inking",
+            "agnet",
+            "illing",
+            "ifter",
+            "iven"
+        ],
+        "description": "the abbreviation \"Dr\" and related variations, indicating references to doctors or medical professionals"
+    },
+    {
+        "index": "16621",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_16621.json",
+        "negative_strings": [
+            "ende",
+            "791",
+            "itta",
+            "oya",
+            "raf",
+            "ahun",
+            "cerr",
+            "iqu",
+            "oub",
+            "itor"
+        ],
+        "positive_strings": [
+            "ift",
+            "inks",
+            "inking",
+            "illing",
+            "ives",
+            "ifting",
+            "agnet",
+            "unk",
+            "astic",
+            "ugs"
+        ],
+        "description": "the abbreviation \"Dr\" and related terms indicating a doctor or medical context"
+    },
+    {
+        "index": "40142",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_40142.json",
+        "negative_strings": [
+            "rian",
+            "otle",
+            "gomery",
+            "othy",
+            "tingham",
+            "ar",
+            "tempts",
+            "on",
+            "stitute",
+            "lehem"
+        ],
+        "positive_strings": [
+            ".D",
+            "yll",
+            "osphate",
+            "osph",
+            "araoh",
+            "yt",
+            "ylum",
+            "ases",
+            "rases",
+            "uong"
+        ],
+        "description": " references to doctoral degrees or Ph.D. qualifications"
+    },
+    {
+        "index": "29830",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_29830.json",
+        "negative_strings": [
+            "elite",
+            ".heroku",
+            "ed",
+            "gio",
+            "datal",
+            "ramid",
+            "riter",
+            "riters",
+            "\u00d9\u012a\u00d8\u00a7",
+            "ectl"
+        ],
+        "positive_strings": [
+            "aper",
+            "inking",
+            "ake",
+            "astic",
+            "iven",
+            "illing",
+            "ucker",
+            "ury",
+            "unk",
+            "ugs"
+        ],
+        "description": "references to medical professionals or doctors"
+    },
+    {
+        "index": "82516",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_82516.json",
+        "negative_strings": [
+            "oui",
+            "\u00c5\u013bez",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0136",
+            "mav",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "ekce",
+            "eners",
+            "maf",
+            "pliers",
+            "esel"
+        ],
+        "positive_strings": [
+            "ate",
+            "ates",
+            "al",
+            "aten",
+            "ATES",
+            "ial",
+            "ATE",
+            "ado",
+            "atus",
+            "ating"
+        ],
+        "description": "references to academic degrees, especially doctorates"
+    },
+    {
+        "index": "81456",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_81456.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "esel",
+            "\u0125\u0123",
+            "\u00cf\u0130\u00cf\u0124",
+            "agli",
+            "\u00e1\u00ba\u00bfp",
+            "pliers",
+            "ened",
+            "elia",
+            "\u00c5\u013bez"
+        ],
+        "positive_strings": [
+            "ate",
+            "ates",
+            "ATE",
+            "ATES",
+            "ado",
+            "aten",
+            "ial",
+            "ship",
+            "ating",
+            "ated"
+        ],
+        "description": " references to doctoral degrees"
+    },
+    {
+        "index": "14755",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_14755.json",
+        "negative_strings": [
+            "ens",
+            "oub",
+            "791",
+            "osp",
+            "itta",
+            "ened",
+            "iqu",
+            "ouis",
+            "iu",
+            "ende"
+        ],
+        "positive_strings": [
+            "ury",
+            "aper",
+            "upal",
+            "iven",
+            "ainer",
+            "illing",
+            "infeld",
+            " dr",
+            "agoon",
+            "inks"
+        ],
+        "description": " instances of the abbreviation \"dr\" or references to doctors and medical professionals"
+    },
+    {
+        "index": "85747",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_85747.json",
+        "negative_strings": [
+            "egal",
+            "ards",
+            "amped",
+            "ijd",
+            "ken",
+            " Wel",
+            "abelle",
+            "\u00d0\u00bc\u00d0\u00b8\u00d0\u00bd\u00d0\u00b8",
+            "ember",
+            "epam"
+        ],
+        "positive_strings": [
+            "yll",
+            "oe",
+            " Ph",
+            "araoh",
+            "nom",
+            "aed",
+            "rases",
+            "ishing",
+            "osph",
+            "thal"
+        ],
+        "description": "the presence of the abbreviation \"Ph\" indicating a reference to philosophy or a doctoral degree in related fields"
+    },
+    {
+        "index": "65395",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_65395.json",
+        "negative_strings": [
+            "yz",
+            "/locale",
+            "alez",
+            "_GC",
+            "Datum",
+            ".hardware",
+            "igua",
+            "ocoa",
+            "suppress",
+            "datum"
+        ],
+        "positive_strings": [
+            "iven",
+            "ives",
+            "iving",
+            "ivable",
+            "iv",
+            "IVEN",
+            "ift",
+            "ills",
+            "astically",
+            "illing"
+        ],
+        "description": "words related to doctors and medical professionals"
+    },
+    {
+        "index": "18698",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_18698.json",
+        "negative_strings": [
+            " Leban",
+            "\u00d1\u0124\u00d1\u0131",
+            "utr",
+            " LSM",
+            "HS",
+            " b\u00e1\u00bb\u0133",
+            "\u00d1\u0124\u00d1\u012e",
+            "-Israel",
+            "ght",
+            " Emanuel"
+        ],
+        "positive_strings": [
+            " Doctor",
+            "Doctor",
+            " Moff",
+            " Doctors",
+            " regeneration",
+            " Tenn",
+            " doctor",
+            " regenerated",
+            " Torch",
+            " regenerate"
+        ],
+        "description": " titles and references related to the show \"Doctor Who.\""
+    },
+    {
+        "index": "13072",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_13072.json",
+        "negative_strings": [
+            "ed",
+            " Mr",
+            "e",
+            "671",
+            "gio",
+            "elite",
+            "rd",
+            " latter",
+            "UBLE",
+            "datal"
+        ],
+        "positive_strings": [
+            "iven",
+            "aper",
+            "ugs",
+            "astically",
+            "inking",
+            "astic",
+            "illing",
+            "unk",
+            "ives",
+            "ucker"
+        ],
+        "description": " references to doctors and medical professionals"
+    },
+    {
+        "index": "65298",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_65298.json",
+        "negative_strings": [
+            "flix",
+            "ums",
+            "loquent",
+            "erts",
+            "averse",
+            "\u00c3\u00bai",
+            "klady",
+            "isu",
+            "apons",
+            "ube"
+        ],
+        "positive_strings": [
+            "d",
+            ".D",
+            "osphate",
+            "raz",
+            "\u00ce\u00bf\u00cf\u0124",
+            "sv",
+            "yll",
+            ".d",
+            "rone",
+            "sc"
+        ],
+        "description": "references to academic qualifications, specifically doctoral degrees"
+    },
+    {
+        "index": "9217",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_9217.json",
+        "negative_strings": [
+            "utzer",
+            "oui",
+            "pliers",
+            "itchens",
+            "expo",
+            "esel",
+            "ynos",
+            "erness",
+            "ted",
+            "aiser"
+        ],
+        "positive_strings": [
+            "ate",
+            "ates",
+            "ATE",
+            "ATES",
+            "ial",
+            "ing",
+            "ow",
+            "iales",
+            " Strange",
+            "preneur"
+        ],
+        "description": " references to academic qualifications, particularly doctoral degrees"
+    },
+    {
+        "index": "91755",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_91755.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "ened",
+            "ems",
+            "esel",
+            "agli",
+            "elia",
+            "utory",
+            "orre",
+            "igers",
+            "propri"
+        ],
+        "positive_strings": [
+            "ate",
+            "ates",
+            "ATE",
+            "ATES",
+            "aten",
+            "ial",
+            "ado",
+            "ship",
+            "ating",
+            "atee"
+        ],
+        "description": "references to academic degrees, particularly doctoral degrees"
+    },
+    {
+        "index": "117607",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_117607.json",
+        "negative_strings": [
+            "ened",
+            "ende",
+            "y",
+            "oun",
+            "ed",
+            "ens",
+            "ie",
+            "ounds",
+            "osp",
+            "791"
+        ],
+        "positive_strings": [
+            "ury",
+            "infeld",
+            "aper",
+            "iven",
+            "illing",
+            "agoon",
+            "ifting",
+            "acula",
+            "ift",
+            "\u00c3\u00b4le"
+        ],
+        "description": "references to medical professionals, specifically doctors"
+    },
+    {
+        "index": "4543",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_4543.json",
+        "negative_strings": [
+            "raf",
+            "oun",
+            "ened",
+            "ipple",
+            "ende",
+            "itta",
+            "ens",
+            "alez",
+            "ed",
+            "ounds"
+        ],
+        "positive_strings": [
+            "ury",
+            "aper",
+            "agoon",
+            "ago",
+            "iven",
+            "infeld",
+            "illing",
+            "isc",
+            "ifting",
+            "astic"
+        ],
+        "description": "references to individuals with the title \"Dr.\" or doctors"
+    },
+    {
+        "index": "35098",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_35098.json",
+        "negative_strings": [
+            "antry",
+            "MEA",
+            "munition",
+            "anmar",
+            "essenger",
+            "erness",
+            "USB",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "\u00e1\u00ba\u00b7ng",
+            " yc"
+        ],
+        "positive_strings": [
+            " Who",
+            "acula",
+            " Strange",
+            " Doom",
+            " Zh",
+            " Manhattan",
+            " Dol",
+            "acular",
+            "agnet",
+            "Who"
+        ],
+        "description": "references to the television series \"Doctor Who\" and related content"
+    },
+    {
+        "index": "58583",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/doctor/data_for_feature_58583.json",
+        "negative_strings": [
+            "\u00b1\u00d0\u00be\u00d1\u0124",
+            "|RF",
+            "IIIK",
+            "avatel",
+            "iesel",
+            "ERRQ",
+            "TRGL",
+            "adla",
+            "AILABLE",
+            "yonel"
+        ],
+        "positive_strings": [
+            "d",
+            "D",
+            "Lic",
+            ".D",
+            "\u00e7\u00a2",
+            "ds",
+            "Db",
+            "orte",
+            "raz",
+            "los"
+        ],
+        "description": "references to the Doctor of Philosophy degree (PhD)"
+    },
+    {
+        "index": "27399",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_27399.json",
+        "negative_strings": [
+            "oub",
+            "ens",
+            "791",
+            "ened",
+            "osp",
+            "imas",
+            "ende",
+            "y",
+            "idas",
+            "ias"
+        ],
+        "positive_strings": [
+            "iven",
+            "infeld",
+            " dr",
+            "ury",
+            "inks",
+            "agoon",
+            "inking",
+            "/dr",
+            "ivel",
+            "ifter"
+        ],
+        "description": "instances of the abbreviation \"dr\" likely indicating 'doctor' or 'drumming'"
+    },
+    {
+        "index": "2575",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/doctor/data_for_feature_2575.json",
+        "negative_strings": [
+            "ened",
+            "raf",
+            "ed",
+            "gio",
+            "ennon",
+            "ende",
+            "opot",
+            "y",
+            "antino",
+            "plementary"
+        ],
+        "positive_strings": [
+            "aper",
+            "ury",
+            "iven",
+            "astic",
+            "acula",
+            "ifting",
+            "isc",
+            "avid",
+            "ago",
+            "inking"
+        ],
+        "description": "references to doctors and medical professionals"
+    }
+]

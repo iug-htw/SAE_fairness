@@ -1,0 +1,122 @@
+[
+    {
+        "index": "92689",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/quran/data_for_feature_92689.json",
+        "negative_strings": [
+            "kus",
+            "ptive",
+            "holm",
+            "ourcing",
+            "pter",
+            "tten",
+            "amina",
+            "ptives",
+            " Constantin",
+            "ttle"
+        ],
+        "positive_strings": [
+            " Quran",
+            " Koran",
+            " manuscript",
+            " verse",
+            " manuscripts",
+            " verses",
+            "ophobic",
+            " scripture",
+            "quez",
+            "sworth"
+        ],
+        "description": " references to religious texts, particularly the Quran and Torah"
+    },
+    {
+        "index": "92689",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/quran/data_for_feature_92689.json",
+        "negative_strings": [
+            "kus",
+            "ptive",
+            "holm",
+            "ourcing",
+            "pter",
+            "tten",
+            "amina",
+            "ptives",
+            " Constantin",
+            "ttle"
+        ],
+        "positive_strings": [
+            " Quran",
+            " Koran",
+            " manuscript",
+            " verse",
+            " manuscripts",
+            " verses",
+            "ophobic",
+            " scripture",
+            "quez",
+            "sworth"
+        ],
+        "description": " references to religious texts, particularly the Quran and Torah"
+    },
+    {
+        "index": "58403",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/quran/data_for_feature_58403.json",
+        "negative_strings": [
+            " Cheong",
+            " Proc",
+            " largeDownload",
+            " Quadro",
+            " Richie",
+            ")=(",
+            " Worldwide",
+            " harvesting",
+            "ortium",
+            "assetsadobe"
+        ],
+        "positive_strings": [
+            "anic",
+            "\u00be",
+            "\u00b9",
+            "\u0125",
+            "adr",
+            "ashi",
+            "\u00a5",
+            "wark",
+            "itans",
+            "\u00a8"
+        ],
+        "description": "references to religious texts or contexts involving the Quran"
+    },
+    {
+        "index": "7294",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/quran/data_for_feature_7294.json",
+        "negative_strings": [
+            "ptive",
+            "NetMessage",
+            "ttle",
+            "holm",
+            "opsy",
+            "izabeth",
+            "ptives",
+            "yles",
+            "ovo",
+            " territ"
+        ],
+        "positive_strings": [
+            " Quran",
+            " verse",
+            " verses",
+            " scripture",
+            " passages",
+            " scriptures",
+            " manuscripts",
+            " Verse",
+            " manuscript",
+            " passage"
+        ],
+        "description": "references to religious texts, particularly the Quran and the Torah"
+    }
+]

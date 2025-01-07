@@ -1,0 +1,92 @@
+[
+    {
+        "index": "92241",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/kosher/data_for_feature_92241.json",
+        "negative_strings": [
+            " Tuc",
+            "hani",
+            "GAME",
+            "enez",
+            "Rate",
+            " NCT",
+            "older",
+            "close",
+            " Afric",
+            "76561"
+        ],
+        "positive_strings": [
+            " kosher",
+            "\u00a3\u0131",
+            " certification",
+            " foods",
+            " cows",
+            " food",
+            "ity",
+            "osher",
+            " baking",
+            " slaughter"
+        ],
+        "description": " mentions of kosher practices and references to the Sabbath"
+    },
+    {
+        "index": "92241",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/kosher/data_for_feature_92241.json",
+        "negative_strings": [
+            " Tuc",
+            "hani",
+            "GAME",
+            "enez",
+            "Rate",
+            " NCT",
+            "older",
+            "close",
+            " Afric",
+            "76561"
+        ],
+        "positive_strings": [
+            " kosher",
+            "\u00a3\u0131",
+            " certification",
+            " foods",
+            " cows",
+            " food",
+            "ity",
+            "osher",
+            " baking",
+            " slaughter"
+        ],
+        "description": " mentions of kosher practices and references to the Sabbath"
+    },
+    {
+        "index": "15329",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/kosher/data_for_feature_15329.json",
+        "negative_strings": [
+            "IBLE",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "iments",
+            "ional",
+            "Charge",
+            "\u00d6\u00bc",
+            "EMENT",
+            "ions",
+            "\u00e5\u00a4\u00a9",
+            "phrine"
+        ],
+        "positive_strings": [
+            "lov",
+            " Klux",
+            "lyak",
+            "won",
+            "inski",
+            "etchup",
+            "lein",
+            "mare",
+            "ernels",
+            "ernel"
+        ],
+        "description": "terms related to the word \"Kosher\""
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "index": "46286",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/halal/data_for_feature_46286.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names that start with \"Hal\", \"Halal\", or \"Halv\", and words that end with the suffix \"-hal-\"."
+    },
+    {
+        "index": "5111",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/halal/data_for_feature_5111.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to Islamic terms, concepts, or practices, often in the context of finance, law, or cultural traditions, with a focus on Sharia, Halal, and other Arabic words."
+    },
+    {
+        "index": "75192",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/halal/data_for_feature_75192.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"hal\" is often related to the concept or word \"Halal\" and is used in contexts referring to Islamic dietary laws or Middle Eastern culture."
+    },
+    {
+        "index": "237858",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/halal/data_for_feature_237858.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"par\" is often used in golf, denoting a goal or standard score for each hole or round, while the token \"hal\" appears in various contexts, sometimes as a prefix or part of a word (e.g. \"halal\", \"halo\", \"hale\", \"halftime\"), and \"hal\" as a standalone word is likely an abbreviation or a proper noun."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "2701",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_2701.json",
+        "negative_strings": [
+            "inations",
+            "izons",
+            "\u00e7\u012b\u012a",
+            "eering",
+            " Ramadan",
+            "inates",
+            "izoph",
+            "naire",
+            "\u00e2\u0138\u00ac",
+            " SX"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " practitioners",
+            " nursing",
+            " nurs",
+            " nurse",
+            " examiner",
+            " Nurs",
+            " attendants",
+            " anesthesia"
+        ],
+        "description": "terms related to nursing and healthcare services"
+    },
+    {
+        "index": "16353",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_16353.json",
+        "negative_strings": [
+            "ADRA",
+            "umar",
+            "pmwiki",
+            "ourning",
+            "arta",
+            "ournal",
+            "OPER",
+            "ahime",
+            "DEN",
+            "witz"
+        ],
+        "positive_strings": [
+            "plate",
+            "fed",
+            "bone",
+            " milk",
+            " implants",
+            "mil",
+            "feeding",
+            "plates",
+            " breasts",
+            " cancer"
+        ],
+        "description": "phrases related to breast cancer, breast milk, nursing, and maternity leave"
+    },
+    {
+        "index": "20229",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_20229.json",
+        "negative_strings": [
+            "inations",
+            "izons",
+            "\u00e7\u012b\u012a",
+            "\u00e3\u0125\u012a",
+            " Ramadan",
+            "inates",
+            "izoph",
+            "obo",
+            " Afgh",
+            "itious"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " examiner",
+            " nurs",
+            " nursing",
+            " nurse",
+            " practitioners",
+            " Nurs",
+            "bay",
+            " lact"
+        ],
+        "description": "terms related to nursing and healthcare professions"
+    },
+    {
+        "index": "20616",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_20616.json",
+        "negative_strings": [
+            "inations",
+            "izons",
+            "\u00e7\u012b\u012a",
+            "\u00e3\u0125\u012a",
+            "inates",
+            "obo",
+            " Ramadan",
+            "auri",
+            "ozy",
+            "eering"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " examiner",
+            " practitioners",
+            " nurs",
+            " nurse",
+            " nursing",
+            " Nurs",
+            "bay",
+            "erest"
+        ],
+        "description": "nurses in hospital settings"
+    },
+    {
+        "index": "35662",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_35662.json",
+        "negative_strings": [
+            "inatory",
+            "ieg",
+            "idable",
+            " attm",
+            "aunder",
+            "azeera",
+            " Mayweather",
+            "aneous",
+            "GV",
+            "XXXX"
+        ],
+        "positive_strings": [
+            " nursing",
+            " Homes",
+            "home",
+            "hurst",
+            "house",
+            "otin",
+            "Home",
+            "atorium",
+            " beverages",
+            " home"
+        ],
+        "description": "phrases related to nursing, healthcare, and medical care"
+    },
+    {
+        "index": "35832",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_35832.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "\u00d9\u0127",
+            "arta",
+            " Afgh",
+            "AIN",
+            "inations",
+            "RFC",
+            "\u00e3\u0125\u012a",
+            "itious",
+            "izons"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " nurse",
+            " nurs",
+            " examiner",
+            " nursing",
+            " nurses",
+            " practitioners",
+            " Nurs",
+            " Nurse"
+        ],
+        "description": "mentions of healthcare professionals, particularly nurses"
+    },
+    {
+        "index": "35832",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_35832.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "\u00d9\u0127",
+            "arta",
+            " Afgh",
+            "AIN",
+            "inations",
+            "RFC",
+            "\u00e3\u0125\u012a",
+            "itious",
+            "izons"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " nurse",
+            " nurs",
+            " examiner",
+            " nursing",
+            " nurses",
+            " practitioners",
+            " Nurs",
+            " Nurse"
+        ],
+        "description": "mentions of healthcare professionals, particularly nurses"
+    },
+    {
+        "index": "23233",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_23233.json",
+        "negative_strings": [
+            "inatory",
+            " attm",
+            "################",
+            "XXXX",
+            "inations",
+            "xxxxxxxx",
+            "ablishment",
+            "aneous",
+            "errilla",
+            " Kinnikuman"
+        ],
+        "positive_strings": [
+            " nursing",
+            " Nursing",
+            "otin",
+            "ntil",
+            " nurs",
+            " proble",
+            "tub",
+            " rink",
+            " practition",
+            "maid"
+        ],
+        "description": " terms related to nursing and healthcare"
+    },
+    {
+        "index": "34448",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_34448.json",
+        "negative_strings": [
+            "################",
+            " attm",
+            "XXXX",
+            "inatory",
+            "\u00e3\u0125\u0137",
+            "aneous",
+            "errilla",
+            " Kinnikuman",
+            " Terry",
+            "naire"
+        ],
+        "positive_strings": [
+            " nursing",
+            "otin",
+            " proble",
+            "ntil",
+            "tub",
+            " Nursing",
+            "workshop",
+            "lehem",
+            " rink",
+            "etsk"
+        ],
+        "description": "references to nursing and healthcare-related activities and environments"
+    },
+    {
+        "index": "33997",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_33997.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "inations",
+            "izons",
+            " Ramadan",
+            "\u00e3\u0125\u012a",
+            "\u00d9\u0127",
+            "-+-+",
+            "=-=-=-=-",
+            "ogh",
+            " Afgh"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            "erest",
+            " examiner",
+            " nurs",
+            "kowski",
+            " ashore",
+            "yard",
+            " practitioners",
+            "hop"
+        ],
+        "description": "references to the profession of nursing and related terms"
+    },
+    {
+        "index": "17405",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_17405.json",
+        "negative_strings": [
+            "DN",
+            "SEE",
+            "Israeli",
+            "DX",
+            "Os",
+            "Ti",
+            "inav",
+            "CTV",
+            "FY",
+            "uper"
+        ],
+        "positive_strings": [
+            " Nurs",
+            "ery",
+            "hops",
+            "eries",
+            "esis",
+            "er",
+            "ultan",
+            "iques",
+            "iture",
+            " practitioner"
+        ],
+        "description": "mention of nurses or nursing-related activities"
+    },
+    {
+        "index": "32695",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_32695.json",
+        "negative_strings": [
+            "\u00e2\u0137\u0132\u00e2\u0137\u0132",
+            "\u00d4",
+            "\u00e2\u0137\u0132",
+            "\u00e3\u0124\u00a1",
+            "\u00e3\u0124\u00ae",
+            "\u00ef\u00b8\u0131",
+            "ombs",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "\u00e3\u0125\u00a3",
+            "\u00e3\u0125\u0137"
+        ],
+        "positive_strings": [
+            " dementia",
+            " gentleman",
+            " nodd",
+            "escent",
+            " juven",
+            " fashioned",
+            "warming",
+            " Brach",
+            " dement",
+            " ageing"
+        ],
+        "description": "mentions of elderly individuals, nursing homes, and related care situations"
+    },
+    {
+        "index": "37782",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_37782.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            " Gamb",
+            " Werewolf",
+            "okers",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "selves",
+            "izons",
+            "oS",
+            "izont",
+            " attm"
+        ],
+        "positive_strings": [
+            " practitioner",
+            "ery",
+            "maid",
+            "eries",
+            " practitioners",
+            "ent",
+            "ess",
+            "ens",
+            "ety",
+            "sac"
+        ],
+        "description": " terms related to nursing and healthcare professionals"
+    },
+    {
+        "index": "21677",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_21677.json",
+        "negative_strings": [
+            "inations",
+            "\u00d6\u00bc",
+            "azeera",
+            "\u00e7\u012b\u012a",
+            "orate",
+            "-+-+-+-+",
+            "itious",
+            "IBLE",
+            "ibility",
+            "\u00e3\u0125\u012a"
+        ],
+        "positive_strings": [
+            " practitioner",
+            "maid",
+            "erest",
+            " practitioners",
+            "accompan",
+            "agara",
+            " nurs",
+            "farm",
+            "pace",
+            " nursing"
+        ],
+        "description": " terms related to nursing and nursing care"
+    },
+    {
+        "index": "25021",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_25021.json",
+        "negative_strings": [
+            "milo",
+            "ascript",
+            "cephal",
+            " skelet",
+            "ulty",
+            "ormal",
+            "ively",
+            "phabet",
+            "onential",
+            "asma"
+        ],
+        "positive_strings": [
+            " home",
+            "home",
+            " HOME",
+            "Home",
+            " Home",
+            " homes",
+            " homers",
+            "HOME",
+            " Homes",
+            " residence"
+        ],
+        "description": " references to healthcare and nursing contexts"
+    },
+    {
+        "index": "23643",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_23643.json",
+        "negative_strings": [
+            "eering",
+            "\u00e7\u012b\u012a",
+            "ulhu",
+            "neau",
+            "inations",
+            "eous",
+            "ilage",
+            "itious",
+            "\u00d6\u00bc",
+            "IBLE"
+        ],
+        "positive_strings": [
+            " practitioner",
+            "maid",
+            " practitioners",
+            "skilled",
+            " nurs",
+            "farm",
+            "erest",
+            " examiner",
+            "accompan",
+            " lear"
+        ],
+        "description": "references to medical professionals, particularly nurses"
+    },
+    {
+        "index": "45550",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_45550.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            " Ramadan",
+            "inations",
+            "arta",
+            "isal",
+            "atform",
+            "\u00e3\u0125\u012a",
+            "\u00e3\u0125\u012b",
+            "ansion",
+            "ilage"
+        ],
+        "positive_strings": [
+            " nursing",
+            " nurs",
+            "maid",
+            " practitioner",
+            " Nursing",
+            "loo",
+            " practitioners",
+            "ice",
+            "kowski",
+            "agara"
+        ],
+        "description": " terms related to nursing and caregiving"
+    },
+    {
+        "index": "45550",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_45550.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            " Ramadan",
+            "inations",
+            "arta",
+            "isal",
+            "atform",
+            "\u00e3\u0125\u012a",
+            "\u00e3\u0125\u012b",
+            "ansion",
+            "ilage"
+        ],
+        "positive_strings": [
+            " nursing",
+            " nurs",
+            "maid",
+            " practitioner",
+            " Nursing",
+            "loo",
+            " practitioners",
+            "ice",
+            "kowski",
+            "agara"
+        ],
+        "description": " terms related to nursing and caregiving"
+    },
+    {
+        "index": "19038",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_19038.json",
+        "negative_strings": [
+            "apesh",
+            "\u00e3\u0125\u012a",
+            "inez",
+            "ablishment",
+            "inatory",
+            "orious",
+            "inates",
+            "atinum",
+            "oyer",
+            "orate"
+        ],
+        "positive_strings": [
+            " nursing",
+            " nurs",
+            " Homes",
+            "otin",
+            " Home",
+            "ties",
+            "urst",
+            " home",
+            "unit",
+            " lear"
+        ],
+        "description": " terms related to nursing and breastfeeding"
+    },
+    {
+        "index": "34631",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/nurse/data_for_feature_34631.json",
+        "negative_strings": [
+            "?????-",
+            "heads",
+            " srfAttach",
+            "\u00e3\u0125\u0135",
+            "spin",
+            "\u00e6\u013a",
+            "\u00e3\u0125\u00b4",
+            " \u00e5\u00a4",
+            " Canaan",
+            " \u00e9"
+        ],
+        "positive_strings": [
+            "dule",
+            "alg",
+            "ombat",
+            "odiac",
+            " Moose",
+            "kowski",
+            "ernaut",
+            "urat",
+            "perty",
+            " tractor"
+        ],
+        "description": "terms related to various types of \"seeing\" or \"finding\" as well as mentions of nursing"
+    }
+]

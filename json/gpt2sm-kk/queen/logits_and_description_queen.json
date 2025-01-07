@@ -1,0 +1,122 @@
+[
+    {
+        "index": "19979",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/queen/data_for_feature_19979.json",
+        "negative_strings": [
+            " Trent",
+            " Gilbert",
+            " Clippers",
+            "cart",
+            " Chu",
+            " Patt",
+            "nces",
+            " \ufffd",
+            " Philippe",
+            " Cla"
+        ],
+        "positive_strings": [
+            " Hive",
+            " hive",
+            " brood",
+            " bees",
+            " Swarm",
+            " swarm",
+            " spores",
+            " Horus",
+            " Bees",
+            " coh"
+        ],
+        "description": "references to the status and dynamics of beehives, particularly involving queens and their functions"
+    },
+    {
+        "index": "11065",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/queen/data_for_feature_11065.json",
+        "negative_strings": [
+            " Blaz",
+            " pharmac",
+            " licence",
+            " reper",
+            "alcohol",
+            " concess",
+            "Rogue",
+            " licensee",
+            " cannabinoid",
+            "Drug"
+        ],
+        "positive_strings": [
+            " nests",
+            " nest",
+            " nesting",
+            " Nest",
+            " crib",
+            " eggs",
+            " nursery",
+            " Eggs",
+            " brood",
+            " bunk"
+        ],
+        "description": " references to hives and the presence or absence of a queen bee"
+    },
+    {
+        "index": "17957",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/queen/data_for_feature_17957.json",
+        "negative_strings": [
+            "abus",
+            "inarily",
+            "mercial",
+            "ilitary",
+            "ettlement",
+            "oaded",
+            "urgical",
+            "oslav",
+            "DragonMagazine",
+            "Downloadha"
+        ],
+        "positive_strings": [
+            " Romeo",
+            " Cosmos",
+            "\ufffd\ufffd",
+            " Royals",
+            " Shirley",
+            " Grac",
+            " Tennis",
+            " Pelicans",
+            " Gin",
+            " Beasts"
+        ],
+        "description": "mentions of royalty, particularly names associated with queens and their titles"
+    },
+    {
+        "index": "18885",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/queen/data_for_feature_18885.json",
+        "negative_strings": [
+            "trak",
+            "RESULTS",
+            "ENDED",
+            "Published",
+            "Population",
+            "avez",
+            "andem",
+            "ufficient",
+            " pree",
+            "issue"
+        ],
+        "positive_strings": [
+            " lapt",
+            "esses",
+            " certs",
+            "ciating",
+            "conservancy",
+            "poke",
+            "crow",
+            "asus",
+            "pool",
+            "adia"
+        ],
+        "description": "mentions of royalty, specifically queens"
+    }
+]

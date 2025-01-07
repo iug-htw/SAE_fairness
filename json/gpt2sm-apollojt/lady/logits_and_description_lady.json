@@ -1,0 +1,602 @@
+[
+    {
+        "index": "32861",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_32861.json",
+        "negative_strings": [
+            " largeDownload",
+            "EStream",
+            " graft",
+            " stabilization",
+            "SHIP",
+            "anwhile",
+            " prelim",
+            "\u00a9\u00b6\u00e6",
+            "\u00a5\u0140",
+            "stocks"
+        ],
+        "positive_strings": [
+            "Sir",
+            "zech",
+            "leaf",
+            " Sir",
+            "ran",
+            "bridge",
+            " Laurent",
+            "acha",
+            "angelo",
+            "cliffe"
+        ],
+        "description": "proper titles or honorifics such as \"Sir\" or \"Lady\" before names"
+    },
+    {
+        "index": "2419",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_2419.json",
+        "negative_strings": [
+            "onential",
+            "osta",
+            "aeda",
+            "CAST",
+            "icted",
+            "ozy",
+            "venants",
+            "emp",
+            "ometric",
+            "utherford"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            "bird",
+            "bugs",
+            "maid",
+            "birds",
+            " Mary",
+            "weed",
+            "ng",
+            " Jane"
+        ],
+        "description": "references to the title \"Lady\" and phrases associated with women in societal roles"
+    },
+    {
+        "index": "33079",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_33079.json",
+        "negative_strings": [
+            " Palestin",
+            "ighed",
+            "insula",
+            "ively",
+            "nown",
+            "istar",
+            "+(",
+            "rawdownloadcloneembedreportprint",
+            "lied",
+            " nep"
+        ],
+        "positive_strings": [
+            "bug",
+            "bugs",
+            " Gaga",
+            "pole",
+            "gery",
+            " droid",
+            "boys",
+            "maid",
+            " towels",
+            "mate"
+        ],
+        "description": " references to 'lady' and its variations"
+    },
+    {
+        "index": "23144",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_23144.json",
+        "negative_strings": [
+            "osta",
+            "ozy",
+            "icted",
+            "ologies",
+            "obyl",
+            "ologically",
+            "ocry",
+            "iary",
+            "oval",
+            "orama"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            "woman",
+            "maid",
+            "bugs",
+            "men",
+            "women",
+            "folk",
+            "bird",
+            "flies"
+        ],
+        "description": " references to \"Lady\" and associated characters or titles"
+    },
+    {
+        "index": "31233",
+        "layer": "10-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_31233.json",
+        "negative_strings": [
+            "obyl",
+            "\u0138\u013c",
+            "edia",
+            "omal",
+            "istar",
+            "aned",
+            "ozy",
+            "utical",
+            "=-=-",
+            "ocry"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            "bugs",
+            "parts",
+            "killers",
+            "bird",
+            " Bird",
+            " Dynam",
+            "birds",
+            " Luck"
+        ],
+        "description": "references to individuals or concepts associated with the title \"Lady.\""
+    },
+    {
+        "index": "33079",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_33079.json",
+        "negative_strings": [
+            " Palestin",
+            "ighed",
+            "insula",
+            "ively",
+            "nown",
+            "istar",
+            "+(",
+            "rawdownloadcloneembedreportprint",
+            "lied",
+            " nep"
+        ],
+        "positive_strings": [
+            "bug",
+            "bugs",
+            " Gaga",
+            "pole",
+            "gery",
+            " droid",
+            "boys",
+            "maid",
+            " towels",
+            "mate"
+        ],
+        "description": " references to 'lady' and its variations"
+    },
+    {
+        "index": "24450",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_24450.json",
+        "negative_strings": [
+            "ORN",
+            "ozy",
+            "aeda",
+            "icted",
+            "emp",
+            "obyl",
+            "66666666",
+            "ortium",
+            "iku",
+            "onential"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bird",
+            "bug",
+            "maid",
+            "bugs",
+            "birds",
+            "hawk",
+            "stones",
+            "fing",
+            "folk"
+        ],
+        "description": "names related to noble or prestigious titles such as \"Lady\" and possibly specific individuals or characters holding those titles"
+    },
+    {
+        "index": "20299",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_20299.json",
+        "negative_strings": [
+            "NRS",
+            "inventoryQuantity",
+            "ADRA",
+            "insula",
+            " constitu",
+            "\u00a5\u0140",
+            " subscribing",
+            "ozy",
+            "sbm",
+            " srf"
+        ],
+        "positive_strings": [
+            " Gaga",
+            " Lady",
+            "ettes",
+            "Lady",
+            "ette",
+            "fish",
+            " Mary",
+            "ty",
+            "mate",
+            "brother"
+        ],
+        "description": "names of celebrities, particularly Lady Gaga, and titles related to royalty"
+    },
+    {
+        "index": "20299",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_20299.json",
+        "negative_strings": [
+            "NRS",
+            "inventoryQuantity",
+            "ADRA",
+            "insula",
+            " constitu",
+            "\u00a5\u0140",
+            " subscribing",
+            "ozy",
+            "sbm",
+            " srf"
+        ],
+        "positive_strings": [
+            " Gaga",
+            " Lady",
+            "ettes",
+            "Lady",
+            "ette",
+            "fish",
+            " Mary",
+            "ty",
+            "mate",
+            "brother"
+        ],
+        "description": "names of celebrities, particularly Lady Gaga, and titles related to royalty"
+    },
+    {
+        "index": "1940",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_1940.json",
+        "negative_strings": [
+            "rador",
+            "osta",
+            " susceptibility",
+            "irrel",
+            "sense",
+            "anan",
+            "river",
+            "uilt",
+            "onent",
+            "orter"
+        ],
+        "positive_strings": [
+            " ladies",
+            " Ladies",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "adies",
+            "ature",
+            "ieve",
+            "women",
+            " Spoiler",
+            "\u0138\u013c",
+            " gentlemen"
+        ],
+        "description": "phrases related to social interactions, including gender-specific references"
+    },
+    {
+        "index": "42055",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_42055.json",
+        "negative_strings": [
+            "ingen",
+            "uckland",
+            "semb",
+            " drilled",
+            "adish",
+            "ModLoader",
+            "isive",
+            " Barbar",
+            "reve",
+            "omer"
+        ],
+        "positive_strings": [
+            "fare",
+            "ady",
+            "jet",
+            "computer",
+            "bilt",
+            "voice",
+            "stre",
+            "WARE",
+            "rov",
+            "bass"
+        ],
+        "description": "mentions of the word \"lady.\""
+    },
+    {
+        "index": "3051",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_3051.json",
+        "negative_strings": [
+            "obyl",
+            " Palestin",
+            "Offline",
+            "66666666",
+            "Emb",
+            "Builder",
+            "Indust",
+            "AIN",
+            "onent",
+            "Lev"
+        ],
+        "positive_strings": [
+            "bug",
+            "bugs",
+            "pole",
+            " lady",
+            " Gaga",
+            "fing",
+            "tesy",
+            "maid",
+            "woman",
+            "tis"
+        ],
+        "description": "phrases related to women"
+    },
+    {
+        "index": "18223",
+        "layer": "2-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_18223.json",
+        "negative_strings": [
+            " Palestin",
+            " corrid",
+            "insula",
+            "onite",
+            "ajor",
+            " Bore",
+            "ISO",
+            "ighed",
+            "ADRA",
+            " ABE"
+        ],
+        "positive_strings": [
+            "pole",
+            "bugs",
+            "bug",
+            "boys",
+            "mate",
+            " Gaga",
+            "friend",
+            "bal",
+            "boy",
+            "poke"
+        ],
+        "description": "references to \"Lady,\" particularly as it pertains to notable female figures or contexts"
+    },
+    {
+        "index": "31233",
+        "layer": "10-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_31233.json",
+        "negative_strings": [
+            "obyl",
+            "\u0138\u013c",
+            "edia",
+            "omal",
+            "istar",
+            "aned",
+            "ozy",
+            "utical",
+            "=-=-",
+            "ocry"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            "bugs",
+            "parts",
+            "killers",
+            "bird",
+            " Bird",
+            " Dynam",
+            "birds",
+            " Luck"
+        ],
+        "description": "references to individuals or concepts associated with the title \"Lady.\""
+    },
+    {
+        "index": "33079",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_33079.json",
+        "negative_strings": [
+            " Palestin",
+            "ighed",
+            "insula",
+            "ively",
+            "nown",
+            "istar",
+            "+(",
+            "rawdownloadcloneembedreportprint",
+            "lied",
+            " nep"
+        ],
+        "positive_strings": [
+            "bug",
+            "bugs",
+            " Gaga",
+            "pole",
+            "gery",
+            " droid",
+            "boys",
+            "maid",
+            " towels",
+            "mate"
+        ],
+        "description": " references to 'lady' and its variations"
+    },
+    {
+        "index": "33079",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_33079.json",
+        "negative_strings": [
+            " Palestin",
+            "ighed",
+            "insula",
+            "ively",
+            "nown",
+            "istar",
+            "+(",
+            "rawdownloadcloneembedreportprint",
+            "lied",
+            " nep"
+        ],
+        "positive_strings": [
+            "bug",
+            "bugs",
+            " Gaga",
+            "pole",
+            "gery",
+            " droid",
+            "boys",
+            "maid",
+            " towels",
+            "mate"
+        ],
+        "description": " references to 'lady' and its variations"
+    },
+    {
+        "index": "24327",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_24327.json",
+        "negative_strings": [
+            "icted",
+            "ORN",
+            "estern",
+            " Territory",
+            "ighed",
+            " Bore",
+            " Territories",
+            "rawdownloadcloneembedreportprint",
+            "elsen",
+            "etter"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            "bird",
+            "birds",
+            "bugs",
+            "boys",
+            "gae",
+            "boy",
+            "parts",
+            "maid"
+        ],
+        "description": "references to female artists or public figures, particularly using the term \"Lady.\""
+    },
+    {
+        "index": "42592",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_42592.json",
+        "negative_strings": [
+            "\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2",
+            "ball",
+            " boil",
+            " knowledgeable",
+            " profitable",
+            "OTT",
+            " structured",
+            " quo",
+            " suspense",
+            " newsp"
+        ],
+        "positive_strings": [
+            "vernment",
+            "uthor",
+            "osate",
+            "utsche",
+            "Lens",
+            "adeon",
+            "gio",
+            "imates",
+            "ifax",
+            "uments"
+        ],
+        "description": "names of celebrities, specifically Lady Gaga, and locations, including Grande Rio and Rio Grande"
+    },
+    {
+        "index": "13613",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_13613.json",
+        "negative_strings": [
+            "ullivan",
+            "etheus",
+            "acly",
+            "amn",
+            "gypt",
+            " millisec",
+            " acquisition",
+            "icult",
+            "vez",
+            " locality"
+        ],
+        "positive_strings": [
+            "adies",
+            " Ladies",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "\u0138\u013c",
+            "UGH",
+            " Gamble",
+            " Apprentice",
+            " Relax",
+            " Spa",
+            ";;;;;;;;"
+        ],
+        "description": " phrases containing the word \"ladies\""
+    },
+    {
+        "index": "72",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/lady/data_for_feature_72.json",
+        "negative_strings": [
+            "eele",
+            "alys",
+            "imus",
+            "natureconservancy",
+            "usp",
+            "elling",
+            "alogy",
+            "itionally",
+            "TPS",
+            "rill"
+        ],
+        "positive_strings": [
+            " gentleman",
+            " gentlemen",
+            " Gardens",
+            " 1918",
+            "gang",
+            " XIV",
+            " Clan",
+            " Room",
+            " Mafia",
+            " reassured"
+        ],
+        "description": "phrases related to social interactions and descriptions of people in various settings"
+    }
+]

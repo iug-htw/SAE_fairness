@@ -1,0 +1,106 @@
+[
+    {
+        "index": "188293",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_188293.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Medical terms often have a combination of Greek or Latin roots, with the presence of suffixes such as \"edema\", \"osis\", \"itis\", \"oma\", \"emia\", and others, frequently denoting medical conditions or diseases."
+    },
+    {
+        "index": "10454",
+        "layer": "23-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_10454.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Medical terms, specifically diseases and related conditions, often represented by a suffix such as -emia, -oma, -osis, or -logy, indicating a condition or study of a particular body part or system."
+    },
+    {
+        "index": "71245",
+        "layer": "23-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_71245.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixes of words related to medical conditions or diseases, such as -osis, -omy, -itis, -ia, -osis, -oma."
+    },
+    {
+        "index": "204106",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_204106.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Medical terms, procedures, or test names, often related to cancer, often with prefixes and suffixes (e.g., \"cyt\", \"scope\", \"oma\", \"pap\") and sometimes abbreviated (e.g., \"HPV\", \"PAP\", \"PSA\")."
+    },
+    {
+        "index": "26160",
+        "layer": "29-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_26160.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The tokens \"er\", \"oma\", and \"lymph\" are identified as significant in the context of various medical conditions, often related to cancer or disease names, such as melanoma, lymphoma, and carcinoma."
+    },
+    {
+        "index": "112068",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_112068.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixes and roots related to diseases, particularly cancer, and their characteristics, such as \"carcin\", \"oma\", \"sarcom\", \"malign\", and \"neoplas\", as well as terms related to tumors and cells."
+    },
+    {
+        "index": "53900",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_53900.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixes of medical terms, often indicating a condition, disease, or disorder, such as -itis, -osis, -iasis, -oma, and -asis."
+    },
+    {
+        "index": "23219",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_23219.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixes or parts of words related to tumors, diseases, or cancer, such as -oma, -macy, or -osis, appear in technical medical language."
+    },
+    {
+        "index": "215923",
+        "layer": "23-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_215923.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Scientific terms and names of organisms, particularly those related to parasites, often have a specific suffix such as \"os\", \"oma\", \"is\", \"ode\", \"z\", and \"ium\"."
+    },
+    {
+        "index": "131732",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_131732.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixes in medical terms, commonly found in words related to disease or conditions, such as -osis, -mat, -oid, and -oma."
+    },
+    {
+        "index": "207858",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_207858.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms related to medical conditions, often suffixes or parts of words referring to types of tumors, cells, or diseases, such as \"-oma\", \"gli\", \"gi\", often in the context of scientific or medical research."
+    },
+    {
+        "index": "81806",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_81806.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Suffixed forms of words related to cancer, particularly \"carcin\", \"-oma\", and \"-in\" variants (e.g. \"carcinogen\", \"carcinoma\", \"carcinogenic\", and \"carcinomas\"), as well as standalone words \"cancer\" and \"carcinoma\", often in contexts describing the risk, treatment, or research of cancer."
+    },
+    {
+        "index": "32570",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/Oma/data_for_feature_32570.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The pattern found in these examples is the presence of suffixes in biological terms, particularly in names of bacteria, diseases, and medical conditions, such as -occus, -pt, -oma, -ella, and -ces, often denoting a specific type or class of organism."
+    }
+]

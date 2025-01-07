@@ -1,0 +1,602 @@
+[
+    {
+        "index": "37561",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_37561.json",
+        "negative_strings": [
+            "spar",
+            "074",
+            "eel",
+            "adaki",
+            "hone",
+            "DEST",
+            " Cand",
+            " Lak",
+            "467",
+            "eil"
+        ],
+        "positive_strings": [
+            "oon",
+            "coon",
+            "aine",
+            "otte",
+            "reation",
+            "reator",
+            "ottes",
+            "conut",
+            "nut",
+            "cy"
+        ],
+        "description": "references to the word \"cocaine\" or its variants"
+    },
+    {
+        "index": "128402",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_128402.json",
+        "negative_strings": [
+            " ant",
+            "\u00e3\u0124\u00b6\u00e3\u0125\u00bc",
+            "hone",
+            "spar",
+            "   ",
+            "alous",
+            " Ant",
+            "ungs",
+            "tabs",
+            "dden"
+        ],
+        "positive_strings": [
+            "oon",
+            "cy",
+            "aine",
+            "coon",
+            "agne",
+            "ayne",
+            "otte",
+            "arde",
+            "aines",
+            "aina"
+        ],
+        "description": " the word \"cocaine\" and its variations"
+    },
+    {
+        "index": "40357",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_40357.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "repos",
+            "aser",
+            "Writable",
+            "asers",
+            "ably",
+            "elist",
+            "ibilities",
+            "ensity",
+            "\u00e6\u012c\u00a5"
+        ],
+        "positive_strings": [
+            "oon",
+            " Coc",
+            "aine",
+            "-Cola",
+            "cy",
+            "arde",
+            "conut",
+            "ordin",
+            "lesh",
+            "agne"
+        ],
+        "description": "terms related to the substance cocaine and its derivatives"
+    },
+    {
+        "index": "34082",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_34082.json",
+        "negative_strings": [
+            "orsch",
+            "inden",
+            "ventus",
+            " Orchard",
+            "jang",
+            "lant",
+            "EMU",
+            " Pension",
+            "embers",
+            "izik"
+        ],
+        "positive_strings": [
+            " cocaine",
+            " Coc",
+            "coc",
+            " coke",
+            " Coke",
+            " Coca",
+            " crack",
+            " Crack",
+            " coc",
+            " powder"
+        ],
+        "description": " references to illegal drugs, specifically cocaine and related substances"
+    },
+    {
+        "index": "65320",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_65320.json",
+        "negative_strings": [
+            " drunken",
+            " Drinking",
+            " drunk",
+            " Drink",
+            "anager",
+            " drinking",
+            " alcohol",
+            " consc",
+            " UIL",
+            " wines"
+        ],
+        "positive_strings": [
+            " crack",
+            " Crack",
+            " cocaine",
+            " coke",
+            " powder",
+            " Coc",
+            "coc",
+            " purity",
+            " heroin",
+            "/sn"
+        ],
+        "description": "references to illegal drugs, particularly cocaine and heroin"
+    },
+    {
+        "index": "19033",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_19033.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "meer",
+            ".rl",
+            "_Utils",
+            "estructor",
+            "thag",
+            "edb",
+            "\u00e2\u0138\u012a\u00e2\u0138\u012a\u00e2\u0138\u012a\u00e2\u0138\u012a",
+            "elist",
+            "JECT"
+        ],
+        "positive_strings": [
+            " Coc",
+            "-Cola",
+            "oon",
+            "aine",
+            "anut",
+            " Nest",
+            "tail",
+            " coc",
+            "comb",
+            "anuts"
+        ],
+        "description": "references to cocaine and its derivatives"
+    },
+    {
+        "index": "122593",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_122593.json",
+        "negative_strings": [
+            "jang",
+            "ugi",
+            "ajaran",
+            "anager",
+            "olet",
+            "orsch",
+            " Cypress",
+            "isor",
+            "lant",
+            "icast"
+        ],
+        "positive_strings": [
+            " cocaine",
+            " crack",
+            " Crack",
+            "coc",
+            " Coc",
+            " powder",
+            " coke",
+            " purity",
+            "street",
+            " street"
+        ],
+        "description": " terms and references related to illicit drugs, particularly cocaine and substances associated with drug use"
+    },
+    {
+        "index": "84328",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_84328.json",
+        "negative_strings": [
+            " Lon",
+            "trand",
+            "isol",
+            "lys",
+            "ype",
+            " cash",
+            " isolated",
+            " poil",
+            "ni\u00c5\u00be",
+            "emand"
+        ],
+        "positive_strings": [
+            "okoj",
+            "ovit",
+            "ptron",
+            "ollen",
+            "ASK",
+            "stitutions",
+            "Wunused",
+            "ze\u00c5\u0126",
+            "oci",
+            "chip"
+        ],
+        "description": "references to the word \"cocaine\" or related terms and concept"
+    },
+    {
+        "index": "59386",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_59386.json",
+        "negative_strings": [
+            " drunken",
+            "ija",
+            "embers",
+            " alcohol",
+            "ixa",
+            " Liqu",
+            " liquor",
+            "\u0142",
+            " drinking",
+            " canned"
+        ],
+        "positive_strings": [
+            " Crack",
+            " coke",
+            " cocaine",
+            " Coc",
+            " crack",
+            " powder",
+            "/sn",
+            "coc",
+            "-sn",
+            " Blow"
+        ],
+        "description": " references to illegal drugs, particularly cocaine"
+    },
+    {
+        "index": "24936",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_24936.json",
+        "negative_strings": [
+            "eren",
+            "lug",
+            "adi",
+            "acked",
+            "l\u00c3\u00a9",
+            "rote",
+            "uja",
+            "iyan",
+            "_PWM",
+            "ing"
+        ],
+        "positive_strings": [
+            "-Cola",
+            " powder",
+            "ordin",
+            " Powder",
+            " parties",
+            "pow",
+            "town",
+            "rouch",
+            "glas",
+            "pur"
+        ],
+        "description": " references to cocaine and related substances"
+    },
+    {
+        "index": "74751",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_74751.json",
+        "negative_strings": [
+            "lug",
+            "\u00e5\u00af\u00bf",
+            "iad",
+            "bies",
+            "eren",
+            "others",
+            "l\u00c3\u00a9",
+            "iyan",
+            "iets",
+            "uja"
+        ],
+        "positive_strings": [
+            " Coc",
+            "-Cola",
+            " cocaine",
+            " crystal",
+            "tober",
+            "\u00e0\u00b8\u00a1",
+            " Crack",
+            "ordin",
+            " crack",
+            " parties"
+        ],
+        "description": "references to illegal drugs, specifically focusing on cocaine and its comparisons to other substances"
+    },
+    {
+        "index": "94918",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_94918.json",
+        "negative_strings": [
+            "eren",
+            "\u00e5\u013f\u0122",
+            "bies",
+            "l\u00c3\u00a9",
+            "ija",
+            "lak",
+            "amb",
+            "utos",
+            "iminal",
+            "akov"
+        ],
+        "positive_strings": [
+            " Coc",
+            "-Cola",
+            "rouch",
+            " Alonso",
+            "\u00d1\u012b",
+            "ordin",
+            "\u00d0\u00b5\u00d1\u0129",
+            " Rica",
+            " powder",
+            "Monkey"
+        ],
+        "description": " references to cocaine and related substances"
+    },
+    {
+        "index": "29117",
+        "layer": "24-llamascope-mlp-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_29117.json",
+        "negative_strings": [
+            "upp",
+            "bell",
+            " Carr",
+            "686",
+            "a",
+            "oci",
+            "wire",
+            " Mam",
+            "Quest",
+            " boots"
+        ],
+        "positive_strings": [
+            "aira",
+            " Pok",
+            "abbo",
+            "UBLISH",
+            "bsolute",
+            "quals",
+            "edor",
+            "CurrentValue",
+            "raft",
+            "\u0123n"
+        ],
+        "description": "references to narcotics or drugs, particularly those related to cocaine"
+    },
+    {
+        "index": "41338",
+        "layer": "20-llamascope-mlp-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_41338.json",
+        "negative_strings": [
+            "oser",
+            "\u00c3\u00a4t",
+            "nell",
+            "onia",
+            "ogenerated",
+            "ied",
+            "onne",
+            "OSE",
+            "elly",
+            "itori"
+        ],
+        "positive_strings": [
+            "omap",
+            " Lit",
+            " lit",
+            "omics",
+            "jian",
+            "opal",
+            "anut",
+            ".tim",
+            " Citadel",
+            "\u00c4\u012fila"
+        ],
+        "description": "terms related to cocaine and related substances"
+    },
+    {
+        "index": "94832",
+        "layer": "19-llamascope-mlp-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_94832.json",
+        "negative_strings": [
+            "edList",
+            "edd",
+            "amm",
+            "Synopsis",
+            "PLUS",
+            "okit",
+            " seiz",
+            "iyan",
+            "anter",
+            "vault"
+        ],
+        "positive_strings": [
+            " m\u00c3\u00b3",
+            "otte",
+            "otate",
+            "ship",
+            " counted",
+            "354",
+            "reator",
+            "otu",
+            "odos",
+            "arde"
+        ],
+        "description": "terms related to the substance cocaine and its derivatives"
+    },
+    {
+        "index": "107299",
+        "layer": "14-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_107299.json",
+        "negative_strings": [
+            "abouts",
+            "ings",
+            "adio",
+            "\u00d1\u0123\u00d0\u00bf",
+            "aben",
+            "nder",
+            "ing",
+            "ky",
+            "\u00d1\u0123\u00d0\u00be\u00d1\u0124",
+            "alling"
+        ],
+        "positive_strings": [
+            "ewan",
+            "eros",
+            " vice",
+            "/map",
+            " Vice",
+            "\u00d1\u012b",
+            "ierz",
+            "parer",
+            "asio",
+            "/mock"
+        ],
+        "description": "references to illegal drugs, particularly cocaine and methamphetamine"
+    },
+    {
+        "index": "30494",
+        "layer": "20-llamascope-mlp-32k",
+        "url": "json/llama-scope/cocaine/data_for_feature_30494.json",
+        "negative_strings": [
+            "GBT",
+            "obus",
+            "inion",
+            " mainstream",
+            "conv",
+            " final",
+            "oser",
+            "ordum",
+            "ric",
+            "Radius"
+        ],
+        "positive_strings": [
+            " Citadel",
+            "\u00c4\u012fila",
+            "owi",
+            "omics",
+            " Compact",
+            "Msp",
+            "opal",
+            "omap",
+            "iem",
+            "ansa"
+        ],
+        "description": "references to the substance cocaine and related terms"
+    },
+    {
+        "index": "78205",
+        "layer": "6-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_78205.json",
+        "negative_strings": [
+            "ings",
+            " recourse",
+            "allest",
+            "ender",
+            "ENDER",
+            "\u00e6\u0123\u00a9",
+            "inkel",
+            "\u00e4\u00bb\u012d",
+            " Im",
+            "lore"
+        ],
+        "positive_strings": [
+            "ypy",
+            "-Ta",
+            "-REAL",
+            "/mock",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u012e",
+            "abbage",
+            "\u00d0\u00ba\u00d1\u0125\u00d1\u0123",
+            "\\CMS",
+            "ez",
+            "mdl"
+        ],
+        "description": "terms and references related to cocaine and related substances"
+    },
+    {
+        "index": "28230",
+        "layer": "8-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_28230.json",
+        "negative_strings": [
+            "inkel",
+            " recourse",
+            " OnTrigger",
+            " \u00d1\u0123\u00d0\u00bf\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b0",
+            "gere",
+            " \u00d8\u00a8\u00d8\u00b1\u00d8\u00a7\u00d8\u00a8\u00d8\u00b1",
+            "SystemService",
+            "\u00d1\u0123\u00d0\u00be\u00d1\u0124",
+            "ings",
+            " unint"
+        ],
+        "positive_strings": [
+            "PURE",
+            "fang",
+            "/mock",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u012e",
+            "erce",
+            "\u00d1\u012b",
+            " Hawkins",
+            "\u00d1\u0129\u00d0\u00b5\u00d1\u0123\u00d0\u00ba\u00d0\u00b8",
+            "zeug",
+            ".glide"
+        ],
+        "description": "references to cocaine and related drug terminology"
+    },
+    {
+        "index": "69018",
+        "layer": "9-llamascope-res-131k",
+        "url": "json/llama-scope/cocaine/data_for_feature_69018.json",
+        "negative_strings": [
+            "asco",
+            "\u00c3\u00basqueda",
+            "ings",
+            " une",
+            " \u00d1\u0123\u00d0\u00bf\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b0",
+            "iola",
+            "args",
+            "aben",
+            "elah",
+            "ena"
+        ],
+        "positive_strings": [
+            " Hawkins",
+            "/mock",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u012e",
+            " migrationBuilder",
+            "ede",
+            "riminal",
+            "ibal",
+            "\u00e0\u00b8\u0136\u00e0\u00b8\u00b3",
+            "ancellable",
+            "ierz"
+        ],
+        "description": " terms related to cocaine"
+    }
+]

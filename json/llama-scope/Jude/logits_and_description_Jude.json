@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6490",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_6490.json",
+        "negative_strings": [
+            ".strict",
+            "\u00d9\u012a\u00d9\u0128\u00d9\u0129",
+            "\u00c5\u013bej",
+            "eway",
+            "ONA",
+            "dings",
+            "iage",
+            "\u00e3\u0125\u00bc\u00e3\u0124\u00af",
+            "owers",
+            "unt"
+        ],
+        "positive_strings": [
+            "anel",
+            "ao",
+            "gement",
+            "geme",
+            "gment",
+            "o",
+            "ans",
+            " D\u00c4\u013d",
+            "anned",
+            "-Christian"
+        ],
+        "description": " variations of the word \"Jude\" or related variations in context"
+    },
+    {
+        "index": "66061",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_66061.json",
+        "negative_strings": [
+            "iers",
+            "neau",
+            "\u00e7\u00bb\u013e",
+            "857",
+            "fir",
+            "estatus",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "onden",
+            "ertext",
+            "401"
+        ],
+        "positive_strings": [
+            "anel",
+            "geme",
+            "\u00c5\u0124aw",
+            "gement",
+            "\u00c3\u00a9t\u00c3\u00a9",
+            "\u00ce\u00b4\u00ce\u00b5\u00ce\u00b9",
+            "sti",
+            " Skywalker",
+            "kker",
+            "gment"
+        ],
+        "description": " the word \"Jude\" and its variations"
+    },
+    {
+        "index": "35338",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_35338.json",
+        "negative_strings": [
+            "readcr",
+            "\u00c3\u00bcrn",
+            "iese",
+            "ilha",
+            "exus",
+            " prive",
+            "\u00d1\u0138\u00d0\u00b7",
+            "jezd",
+            "chaft",
+            "ujet"
+        ],
+        "positive_strings": [
+            " Law",
+            "Law",
+            "o",
+            " law",
+            "law",
+            "e",
+            " Cic",
+            " Hill",
+            " Laws",
+            "an"
+        ],
+        "description": " mentions of the name \"Jude.\""
+    },
+    {
+        "index": "130548",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_130548.json",
+        "negative_strings": [
+            "iers",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "HK",
+            " Fallon",
+            "fed",
+            "\u00e7\u00bb\u013e",
+            "REFERRED",
+            "853",
+            "rates",
+            "nob"
+        ],
+        "positive_strings": [
+            "usz",
+            "bugs",
+            "anel",
+            "ao",
+            "arcy",
+            " Jude",
+            "lei",
+            "kker",
+            " D\u00c4\u013d",
+            "ans"
+        ],
+        "description": "mentions of the name \"Jude.\""
+    },
+    {
+        "index": "42208",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_42208.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            "umen",
+            "maze",
+            "_mE",
+            "neys",
+            "OTA",
+            "\u00d0\u013e\u00d0\u0140",
+            "eyse",
+            " Esper",
+            "AZY"
+        ],
+        "positive_strings": [
+            " Skywalker",
+            "olec",
+            "h",
+            "o",
+            "irsch",
+            "ye",
+            " Salah",
+            "hat",
+            "omatic",
+            "kker"
+        ],
+        "description": " references to the name \"Jude.\""
+    },
+    {
+        "index": "60169",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_60169.json",
+        "negative_strings": [
+            "\u00d0\u00b8\u00d1\u0123\u00d1\u012e",
+            "\u00e1\u00bb\u0131",
+            "neau",
+            "eyse",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "maze",
+            "avl",
+            "wner",
+            "iers",
+            "Wunused"
+        ],
+        "positive_strings": [
+            "o",
+            "\u00c3\u00a9t\u00c3\u00a9",
+            " Skywalker",
+            "gement",
+            "aux",
+            "irit",
+            "ye",
+            " D\u00c4\u013d",
+            "s",
+            "UpDown"
+        ],
+        "description": " mentions of the name \"Jude\" and its variations"
+    },
+    {
+        "index": "128280",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_128280.json",
+        "negative_strings": [
+            "umen",
+            "_mE",
+            "ser",
+            "maze",
+            "\u00e4\u00b9\u0127\u00e4\u00b9\u0127",
+            " Esper",
+            "SCI",
+            "asje",
+            "nob",
+            "_mB"
+        ],
+        "positive_strings": [
+            " Skywalker",
+            "o",
+            "veloper",
+            "ialect",
+            "kker",
+            "edn",
+            "erchant",
+            "ira",
+            "squeeze",
+            "utschen"
+        ],
+        "description": "mentions of the name \"Jude.\""
+    },
+    {
+        "index": "8623",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_8623.json",
+        "negative_strings": [
+            "estre",
+            "arium",
+            "ocities",
+            "\u00e4\u00b9\u0127\u00e4\u00b9\u0127",
+            "tvrt",
+            "maze",
+            " {*",
+            "umen",
+            " swe",
+            "ruba"
+        ],
+        "positive_strings": [
+            "o",
+            "h",
+            "icious",
+            "ven",
+            " Salah",
+            "usz",
+            "hap",
+            "s",
+            "ging",
+            "ja"
+        ],
+        "description": "the name \"Jude\" and its derivatives in various contexts"
+    },
+    {
+        "index": "80726",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_80726.json",
+        "negative_strings": [
+            "umen",
+            " Esper",
+            "lok",
+            "ser",
+            "\u00e4\u00b9\u0127\u00e4\u00b9\u0127",
+            "\u00d0\u013e\u00d0\u0140",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            ".MixedReality",
+            "umbo",
+            "arium"
+        ],
+        "positive_strings": [
+            "olic",
+            "h",
+            "ally",
+            "ye",
+            "o",
+            "veloper",
+            " Skywalker",
+            "lya",
+            "ja",
+            " Salah"
+        ],
+        "description": " mentions of the name \"Jude\" and its variants"
+    },
+    {
+        "index": "86602",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_86602.json",
+        "negative_strings": [
+            "\u00c3\u00bat",
+            ".inverse",
+            "imuth",
+            "ruba",
+            "umbo",
+            "vise",
+            "nip",
+            "tvrt",
+            "\u00ef\u00bb\u00bf#",
+            ".getResponse"
+        ],
+        "positive_strings": [
+            "o",
+            "usz",
+            "hat",
+            "ally",
+            "kker",
+            "ye",
+            "zas",
+            "olic",
+            "ven",
+            "hift"
+        ],
+        "description": " occurrences of the name \"Jude\" and variations of it"
+    },
+    {
+        "index": "58477",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_58477.json",
+        "negative_strings": [
+            "werk",
+            "ruba",
+            "\u00c3\u00bat",
+            "estre",
+            "orts",
+            ".inverse",
+            "\u00e4\u00b9\u0127\u00e4\u00b9\u0127",
+            "tvrt",
+            "anding",
+            " Fallon"
+        ],
+        "positive_strings": [
+            "olic",
+            "usz",
+            "h",
+            "ally",
+            "ity",
+            "ger",
+            "\u00c3\u00a9t\u00c3\u00a9",
+            "oli",
+            " Prompt",
+            "burgh"
+        ],
+        "description": "mentions of the name \"Jude.\""
+    },
+    {
+        "index": "60085",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_60085.json",
+        "negative_strings": [
+            "yll",
+            " loose",
+            "610",
+            "ries",
+            "595",
+            "226",
+            "tainment",
+            "GRES",
+            "uplic",
+            "PD"
+        ],
+        "positive_strings": [
+            "997",
+            "_unused",
+            " initWithStyle",
+            "\u00e7\u00bd\u00b2",
+            "\u00d8\u00b2\u00d8\u00a7\u00d8\u00b1",
+            "acky",
+            "ngrx",
+            "\u00d0\u00bb\u00d0\u00b0\u00d0\u00b1",
+            " Sweep",
+            "unky"
+        ],
+        "description": "the character \"Jude.\""
+    },
+    {
+        "index": "7231",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_7231.json",
+        "negative_strings": [
+            "798",
+            "oder",
+            "zel",
+            "azer",
+            "olum",
+            "fen",
+            "/static",
+            ".btnExit",
+            "aging",
+            "\u00e5\u00b7"
+        ],
+        "positive_strings": [
+            " Children",
+            "Children",
+            "s",
+            "children",
+            "erman",
+            " children",
+            " Pillow",
+            "(children",
+            "RAIN",
+            "ildren"
+        ],
+        "description": " mentions of names and places, particularly focusing on \"Jude\" and \"Judges\""
+    },
+    {
+        "index": "25685",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_25685.json",
+        "negative_strings": [
+            " yana",
+            "untas",
+            "vale",
+            "cher",
+            "\u00c4\u00a2",
+            ".intellij",
+            "qing",
+            "qed",
+            "oyer",
+            "itag"
+        ],
+        "positive_strings": [
+            "\u00ec\u012a\u0142",
+            "agner",
+            "Dispose",
+            "eward",
+            " Normal",
+            "etti",
+            "uzz",
+            " Ballard",
+            " dispose",
+            "ander"
+        ],
+        "description": "mentions of the name \"Jude.\""
+    },
+    {
+        "index": "4535",
+        "layer": "21-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_4535.json",
+        "negative_strings": [
+            "cth",
+            "_maps",
+            "ville",
+            " ninth",
+            "StackTrace",
+            "\u00e0\u00b8\u013a",
+            " Pony",
+            " Morr",
+            "estre",
+            " map"
+        ],
+        "positive_strings": [
+            "omik",
+            "undry",
+            "UDO",
+            "leta",
+            "usher",
+            "kir",
+            "olis",
+            "iferay",
+            "singleton",
+            " UsersController"
+        ],
+        "description": "mentions of the name \"Jude.\""
+    },
+    {
+        "index": "24757",
+        "layer": "20-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_24757.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00b1\u00e0\u00b8\u0129\u00e0\u00b8\u0123",
+            "umpt",
+            "ouples",
+            "ijn",
+            " Tut",
+            ".sax",
+            "INAL",
+            "(Fl",
+            "\u00c7",
+            " Ang"
+        ],
+        "positive_strings": [
+            "_penalty",
+            "udas",
+            "nda",
+            "pedia",
+            "cke",
+            "bote",
+            "bery",
+            " fabric",
+            "ngo",
+            "askell"
+        ],
+        "description": " occurrences of the name \"Jude\" in various contexts"
+    },
+    {
+        "index": "44048",
+        "layer": "24-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_44048.json",
+        "negative_strings": [
+            " Tes",
+            "\u00d8\u00a7\u00d9\u0123\u00d9\u0129",
+            " \u00d8\u00aa\u00d8\u00af",
+            "\u00e0\u00a4\u00bf\u00e0\u00a4\u00ac",
+            "\u00ce\u00bc\u00cf\u012b\u00ce\u00bd",
+            "ZA",
+            "\u00c3\u0143a",
+            "\u00e6\u00b4\u00a5",
+            "Tes",
+            "imson"
+        ],
+        "positive_strings": [
+            " EntityState",
+            "InSection",
+            "eled",
+            " RoundedRectangle",
+            "kest",
+            "eker",
+            "irl",
+            "untas",
+            "angler",
+            "ych"
+        ],
+        "description": "mentions of the name \"Jude\" or its variations"
+    },
+    {
+        "index": "32389",
+        "layer": "19-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_32389.json",
+        "negative_strings": [
+            "arus",
+            "erva",
+            "neau",
+            "seealso",
+            " communion",
+            "cir",
+            "estre",
+            ".mybatisplus",
+            "ngine",
+            "cntl"
+        ],
+        "positive_strings": [
+            "664",
+            "oli",
+            "_picker",
+            " Ritch",
+            "\u00c3\u00b3w",
+            "itches",
+            " Morales",
+            " Hess",
+            "ikon",
+            "halt"
+        ],
+        "description": "references to the name \"Jude\" in various contexts"
+    },
+    {
+        "index": "88508",
+        "layer": "23-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_88508.json",
+        "negative_strings": [
+            "mers",
+            "_:*",
+            "emie",
+            "YLON",
+            "\u00e4\u00b9\u0130",
+            "ersh",
+            " Rum",
+            "soles",
+            "ampa",
+            "ARS"
+        ],
+        "positive_strings": [
+            "itter",
+            "t\u00c3\u00bc",
+            "\u00d0\u00bd\u00d0\u00b8\u00d0\u00bd",
+            "uka",
+            "arya",
+            " Universal",
+            "ustin",
+            " gro",
+            " char",
+            "kir"
+        ],
+        "description": "references to the name \"Jude.\""
+    },
+    {
+        "index": "109565",
+        "layer": "26-llamascope-mlp-131k",
+        "url": "json/llama-scope/Jude/data_for_feature_109565.json",
+        "negative_strings": [
+            " Mej",
+            "llib",
+            "arten",
+            "obot",
+            "piel",
+            "cko",
+            "deo",
+            "eking",
+            "iou",
+            "gard"
+        ],
+        "positive_strings": [
+            "\u00d8\u00af\u00d9\u0128",
+            " Corm",
+            "__/",
+            "aleb",
+            "ssi",
+            "imbus",
+            " setInterval",
+            "\u00e3\u0124\u00a3",
+            " Blades",
+            "oot"
+        ],
+        "description": "references to the name \"Jude\" in various contexts"
+    }
+]

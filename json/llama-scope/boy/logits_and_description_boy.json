@@ -1,0 +1,602 @@
+[
+    {
+        "index": "22719",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_22719.json",
+        "negative_strings": [
+            ".weixin",
+            "\u00d0\u00bc\u00d0\u00be\u00d0\u00b2",
+            "mittel",
+            "\u00d1\u0125\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
+            "raphics",
+            "poons",
+            "\u00d1\u0125\u00d0\u00b2",
+            "emplace",
+            " vite",
+            "n\u00c3\u0143"
+        ],
+        "positive_strings": [
+            "friends",
+            "hood",
+            "friend",
+            "ish",
+            "cott",
+            "ishly",
+            "band",
+            "toy",
+            "nton",
+            "bands"
+        ],
+        "description": " references to \"boy\" and associated contexts related to male youth or male identity"
+    },
+    {
+        "index": "90864",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_90864.json",
+        "negative_strings": [
+            " females",
+            " male",
+            " males",
+            "Female",
+            " female",
+            " Male",
+            "male",
+            " Female",
+            "Male",
+            "female"
+        ],
+        "positive_strings": [
+            " basketball",
+            " hoops",
+            " lac",
+            " tennis",
+            " soccer",
+            " hoop",
+            " swimming",
+            "-basket",
+            " lax",
+            " golf"
+        ],
+        "description": " references to men's and boys' sports teams and related coaching roles"
+    },
+    {
+        "index": "23102",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/boy/data_for_feature_23102.json",
+        "negative_strings": [
+            "\u00d1\u0125\u00d0\u00b2",
+            "\u00eb\u00a8\u00b8\u00eb\u012d\u012a",
+            "ecta",
+            "\u00d0\u00bc\u00d0\u00be\u00d0\u00b2",
+            "agogue",
+            "poon",
+            "poons",
+            " vite",
+            "mittel",
+            "n\u00c3\u0143"
+        ],
+        "positive_strings": [
+            "friend",
+            "friends",
+            "cott",
+            "nton",
+            "hood",
+            " Scouts",
+            " Scout",
+            "toy",
+            " scouts",
+            " scout"
+        ],
+        "description": " terms related to \"boy\" and \"boyfriend.\""
+    },
+    {
+        "index": "25410",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/boy/data_for_feature_25410.json",
+        "negative_strings": [
+            "raphics",
+            "poons",
+            "\u00d0\u00bc\u00d0\u00be\u00d0\u00b2",
+            ".weixin",
+            "poon",
+            "mmo",
+            "viso",
+            "ecta",
+            "anter",
+            "yntax"
+        ],
+        "positive_strings": [
+            "friends",
+            "friend",
+            "hood",
+            "nton",
+            "ish",
+            "cott",
+            "ishly",
+            " Scouts",
+            "/man",
+            "/g"
+        ],
+        "description": "references to boys and male characters in various contexts"
+    },
+    {
+        "index": "51152",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_51152.json",
+        "negative_strings": [
+            "ujet",
+            "atever",
+            "adolu",
+            "atrib",
+            "bris",
+            "eration",
+            "Breadcrumb",
+            "eras",
+            "arma",
+            "ptic"
+        ],
+        "positive_strings": [
+            "ly",
+            "ie",
+            "mode",
+            "liest",
+            "ial",
+            "liness",
+            " Mode",
+            "Mode",
+            "master",
+            "ies"
+        ],
+        "description": " references to the band \"Beastie Boys\""
+    },
+    {
+        "index": "30437",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_30437.json",
+        "negative_strings": [
+            " female",
+            " male",
+            " Male",
+            " Female",
+            " females",
+            " males",
+            "\u00e5\u00a5\u00b3\u00e6\u0122\u00a7",
+            "male",
+            "\u00e7\u0136\u00b7\u00e6\u0122\u00a7",
+            "Female"
+        ],
+        "positive_strings": [
+            " lac",
+            " basketball",
+            " soccer",
+            " tennis",
+            " golf",
+            " Lac",
+            " cross",
+            "vol",
+            "lac",
+            " hoops"
+        ],
+        "description": " references to men's and boys' sports teams and competitions"
+    },
+    {
+        "index": "90925",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_90925.json",
+        "negative_strings": [
+            "/ion",
+            "\u00c4\u0125m",
+            "etal",
+            "vely",
+            "hya",
+            "ayette",
+            "trim",
+            "\u00c3\u00a5de",
+            "NSSet",
+            " comm"
+        ],
+        "positive_strings": [
+            "Town",
+            "cout",
+            " Republic",
+            " Town",
+            " town",
+            " ranch",
+            " Ranch",
+            "\u00c5\u013be",
+            "inen",
+            "Republic"
+        ],
+        "description": " mentions of the Boys and Girls Club"
+    },
+    {
+        "index": "36968",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_36968.json",
+        "negative_strings": [
+            "\u00d0\u00b8",
+            " tslint",
+            "\u00e9\u0127\u012f",
+            "ograd",
+            "ONT",
+            " Ellis",
+            "iveness",
+            "peon",
+            "/***/",
+            " Singap"
+        ],
+        "positive_strings": [
+            "ass",
+            "lands",
+            "dest",
+            "asses",
+            "ly",
+            "finger",
+            "DEST",
+            "azz",
+            "-Ass",
+            "land"
+        ],
+        "description": "references to \"Bad Boys\" and related media"
+    },
+    {
+        "index": "57967",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_57967.json",
+        "negative_strings": [
+            " egt",
+            "nowled",
+            "/ion",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bc",
+            "etur",
+            "GES",
+            "seat",
+            "oko",
+            "alars",
+            "asse"
+        ],
+        "positive_strings": [
+            " Clubs",
+            " Aid",
+            "\u00e5\u0132\u00b9",
+            " Supplies",
+            " Harbor",
+            "uby",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u0123\u00e0\u00b8\u00a3",
+            " clubs",
+            "\u00e8\u00be\u0127",
+            " Club"
+        ],
+        "description": " references to youth organizations, specifically Boys and Girls Clubs"
+    },
+    {
+        "index": "16504",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_16504.json",
+        "negative_strings": [
+            " vite",
+            "agrid",
+            "\u00eb\u00a8\u00b8\u00eb\u012d\u012a",
+            ".weixin",
+            ".psi",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u0126",
+            "TURE",
+            "\u00d0\u00bc\u00d0\u00be\u00d0\u00b2",
+            "steller",
+            "anter"
+        ],
+        "positive_strings": [
+            "friends",
+            "friend",
+            "hood",
+            " Wonder",
+            "cott",
+            "cot",
+            " wonder",
+            "ish",
+            "band",
+            "toy"
+        ],
+        "description": "references to \"boy\" and variations of the word, indicating a focus on male youth"
+    },
+    {
+        "index": "35014",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_35014.json",
+        "negative_strings": [
+            "hsi",
+            "bish",
+            "lesh",
+            "ipo",
+            "sandbox",
+            "krv",
+            "qid",
+            "FAILURE",
+            "Falsy",
+            "plr"
+        ],
+        "positive_strings": [
+            " Scouts",
+            "dst",
+            "ds",
+            "ce",
+            " Scout",
+            "-s",
+            "ington",
+            "-Owned",
+            " Elves",
+            "er"
+        ],
+        "description": "references to the Boy Scouts organization"
+    },
+    {
+        "index": "111762",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_111762.json",
+        "negative_strings": [
+            "wich",
+            "\u00eb\u00a8\u00b8\u00eb\u012d\u012a",
+            "nist",
+            " ########################################################################",
+            ".metro",
+            "poons",
+            "ynet",
+            " D\u00c3\u00bcn",
+            "\u00ea\u00b2\u00a9",
+            "\u00e5\u00af\u0128"
+        ],
+        "positive_strings": [
+            "nton",
+            "ce",
+            "les",
+            "lan",
+            "dst",
+            "friend",
+            "den",
+            "ds",
+            "ne",
+            "er"
+        ],
+        "description": "references to the word \"Boy\" in various contexts"
+    },
+    {
+        "index": "46292",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_46292.json",
+        "negative_strings": [
+            "/ion",
+            "ette",
+            "GES",
+            "oko",
+            " egt",
+            "CRET",
+            "\u00c4\u013bki",
+            ".HandlerFunc",
+            "-lfs",
+            "seat"
+        ],
+        "positive_strings": [
+            " Clubs",
+            "uby",
+            "vert",
+            " Harbor",
+            "720",
+            "enheim",
+            "idor",
+            "ellar",
+            " Republic",
+            "errick"
+        ],
+        "description": "references to youth organizations, specifically those related to Boys and Girls Clubs"
+    },
+    {
+        "index": "118074",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_118074.json",
+        "negative_strings": [
+            "\u00eb\u0142\u00b9",
+            "cke",
+            "ettings",
+            "\u00d0\u00b7\u00d0\u00b0\u00d0\u00b1",
+            "hle",
+            "\u00d0\u00ba\u00d0\u00bc",
+            "vely",
+            "chio",
+            "ulle",
+            "eldon"
+        ],
+        "positive_strings": [
+            " Girls",
+            " girls",
+            " Girl",
+            " Club",
+            "-girl",
+            "Girls",
+            " girl",
+            " club",
+            "girls",
+            " amp"
+        ],
+        "description": "references to youth organizations, specifically those associated with boys and girls clubs"
+    },
+    {
+        "index": "71216",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_71216.json",
+        "negative_strings": [
+            "iversite",
+            "rubu",
+            "ordes",
+            "iggers",
+            "ysa",
+            "rv",
+            "ailed",
+            "aimassage",
+            "mits",
+            "wis"
+        ],
+        "positive_strings": [
+            "ed",
+            "ance",
+            "ish",
+            "ishly",
+            "antly",
+            "ant",
+            "ancy",
+            "kop",
+            "our",
+            "ery"
+        ],
+        "description": " references to boys, particularly in a variety of contexts related to personal relationships or characteristics"
+    },
+    {
+        "index": "102011",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_102011.json",
+        "negative_strings": [
+            "uder",
+            "cla",
+            "irst",
+            "tings",
+            "eson",
+            "onaut",
+            "mits",
+            "iven",
+            "ypress",
+            "ukan"
+        ],
+        "positive_strings": [
+            "ance",
+            "ant",
+            "antly",
+            "ish",
+            "ishly",
+            "ANCE",
+            "ishment",
+            "ancy",
+            "ous",
+            "ishing"
+        ],
+        "description": " references to various types of boys or masculine figures"
+    },
+    {
+        "index": "14487",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/boy/data_for_feature_14487.json",
+        "negative_strings": [
+            "viso",
+            " guys",
+            "poons",
+            "mq",
+            "mw",
+            "poon",
+            "onica",
+            "n\u00c3\u0143",
+            "anter",
+            "sti"
+        ],
+        "positive_strings": [
+            "friends",
+            "friend",
+            "nton",
+            "hood",
+            "/man",
+            "ishly",
+            "cott",
+            " Scouts",
+            "toy",
+            " scout"
+        ],
+        "description": "references to \"boy\" and related terms in various contexts"
+    },
+    {
+        "index": "65997",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_65997.json",
+        "negative_strings": [
+            "GES",
+            "ufs",
+            "/ion",
+            "\u00c4\u013bki",
+            "oko",
+            " egt",
+            "seat",
+            "ette",
+            "Closure",
+            "erin"
+        ],
+        "positive_strings": [
+            "ellar",
+            "rk",
+            " Clubs",
+            "iece",
+            "ongyang",
+            "720",
+            " Ment",
+            "719",
+            " par",
+            "\u00bd\u00e6\u0137\u00b0"
+        ],
+        "description": "references to youth organizations, particularly those related to \"Boys and Girls Clubs.\""
+    },
+    {
+        "index": "18752",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_18752.json",
+        "negative_strings": [
+            "ucz",
+            "bourg",
+            "*>*",
+            "emean",
+            " Why",
+            "mazon",
+            "infeld",
+            "\u00b4",
+            "elta",
+            "[opt"
+        ],
+        "positive_strings": [
+            " oh",
+            " does",
+            "Oh",
+            "oh",
+            " did",
+            "-o",
+            "odel",
+            " do",
+            " Oh",
+            " am"
+        ],
+        "description": "expressions of surprise or admiration, particularly related to \"boy.\""
+    },
+    {
+        "index": "80828",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/boy/data_for_feature_80828.json",
+        "negative_strings": [
+            " vite",
+            "poons",
+            "mq",
+            "edList",
+            "mh",
+            "elda",
+            " discrepan",
+            "agrid",
+            " guys",
+            ".psi"
+        ],
+        "positive_strings": [
+            "friends",
+            "hood",
+            "friend",
+            "band",
+            "ish",
+            "bands",
+            "ishly",
+            " wonder",
+            "toy",
+            "zone"
+        ],
+        "description": "references to male individuals or boy bands"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "2951",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_2951.json",
+        "negative_strings": [
+            "angled",
+            "ainer",
+            "amina",
+            "anke",
+            "TOP",
+            "escription",
+            "lain",
+            "ACY",
+            "resso",
+            "inventoryQuantity"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            " cleric",
+            "istani",
+            " clerics",
+            "majority",
+            "abad",
+            " supremacist",
+            " pilgrims",
+            " extremists",
+            " fundamentalist"
+        ],
+        "description": " mentions of the term \"Muslim\" and related contexts"
+    },
+    {
+        "index": "23897",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_23897.json",
+        "negative_strings": [
+            "amina",
+            "ainer",
+            "angled",
+            "uracy",
+            "vable",
+            "\u00e5\u00a7",
+            "anke",
+            "atoes",
+            "arget",
+            " Rober"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "ophobic",
+            "ophobia",
+            "abad",
+            "ophob",
+            "majority",
+            "oph",
+            " supremacist",
+            "istani",
+            "ophone"
+        ],
+        "description": "terms related to Muslims and Islam"
+    },
+    {
+        "index": "26592",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_26592.json",
+        "negative_strings": [
+            "osal",
+            "\u0138\u013c",
+            "obyl",
+            "inventoryQuantity",
+            " Myster",
+            "anwhile",
+            "uracy",
+            "ptroller",
+            "videos",
+            " Turing"
+        ],
+        "positive_strings": [
+            " extremists",
+            " supremacist",
+            "majority",
+            " militias",
+            " militant",
+            " nationalist",
+            " Arabs",
+            " hegemony",
+            " Muslim",
+            " extremist"
+        ],
+        "description": " terms and phrases related to sectarian identities, particularly between Sunni and Shia Muslims"
+    },
+    {
+        "index": "30446",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_30446.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "dated",
+            "angled",
+            "ATA",
+            "CAP",
+            "ername",
+            "age",
+            "ructure",
+            "FINE"
+        ],
+        "positive_strings": [
+            "istani",
+            " cleric",
+            "ophobic",
+            " shooters",
+            "abad",
+            " Sabha",
+            " Brotherhood",
+            " clerics",
+            "hammad",
+            " immigrant"
+        ],
+        "description": " references to Muslim identity and related concepts"
+    },
+    {
+        "index": "28300",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_28300.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            " Myster",
+            " Vaugh",
+            "angled",
+            "ATA",
+            "maxwell",
+            "cold",
+            "ainer",
+            " WD"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "ophobic",
+            "abad",
+            "istani",
+            "majority",
+            "ophobia",
+            " supremacist",
+            " cleric",
+            " fundamentalist",
+            " supremacists"
+        ],
+        "description": "phrases related to Muslim identity and community"
+    },
+    {
+        "index": "13030",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_13030.json",
+        "negative_strings": [
+            " Rober",
+            "berries",
+            "TY",
+            "PsyNetMessage",
+            " WD",
+            " Seah",
+            "eff",
+            " heights",
+            " Member",
+            " EAR"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "ization",
+            "ification",
+            "icals",
+            "ics",
+            "etics",
+            "ista"
+        ],
+        "description": "terms related to Islam and Muslims, focusing on statements, beliefs, and actions regarding the religion"
+    },
+    {
+        "index": "37714",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_37714.json",
+        "negative_strings": [
+            "osal",
+            "ucha",
+            "ptroller",
+            "inventoryQuantity",
+            "hire",
+            "\u0138\u013c",
+            "hoff",
+            "ships",
+            "odore",
+            " Myster"
+        ],
+        "positive_strings": [
+            " Arabs",
+            " Arab",
+            " Muslim",
+            " Islamist",
+            " jihad",
+            " jihadists",
+            " jihadist",
+            " Islam",
+            " citiz",
+            " sleeper"
+        ],
+        "description": "terms related to Sunni Muslims and their sectarian dynamics"
+    },
+    {
+        "index": "27759",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_27759.json",
+        "negative_strings": [
+            " srfAttach",
+            "utor",
+            "join",
+            "ename",
+            "ija",
+            " \u00e0\u00a4",
+            "osc",
+            "Limited",
+            "availability",
+            "rh"
+        ],
+        "positive_strings": [
+            " sentiment",
+            " crus",
+            " sentiments",
+            " bias",
+            " rhetoric",
+            " stance",
+            " bigotry",
+            " zeal",
+            " ferv",
+            " propaganda"
+        ],
+        "description": " references related to geopolitical conflicts and narratives involving Ukraine, Israel, and Muslim communities"
+    },
+    {
+        "index": "30446",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_30446.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "dated",
+            "angled",
+            "ATA",
+            "CAP",
+            "ername",
+            "age",
+            "ructure",
+            "FINE"
+        ],
+        "positive_strings": [
+            "istani",
+            " cleric",
+            "ophobic",
+            " shooters",
+            "abad",
+            " Sabha",
+            " Brotherhood",
+            " clerics",
+            "hammad",
+            " immigrant"
+        ],
+        "description": " references to Muslim identity and related concepts"
+    },
+    {
+        "index": "19303",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_19303.json",
+        "negative_strings": [
+            "acly",
+            "\u00e3\u0124\u00aa",
+            "isu",
+            "amine",
+            " Glasgow",
+            "Lex",
+            " Normandy",
+            "pport",
+            "atro",
+            "ivers"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "hemy",
+            " hands",
+            " affiliates",
+            "uth",
+            " Unlimited",
+            "alions",
+            " members",
+            "undy",
+            " infiltr"
+        ],
+        "description": "references to the Muslim Brotherhood and associated political context in Egypt"
+    },
+    {
+        "index": "31652",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_31652.json",
+        "negative_strings": [
+            "stood",
+            " Morales",
+            "ttes",
+            "XT",
+            " strawberries",
+            "ilage",
+            " cutter",
+            " wool",
+            "haul",
+            " Clicker"
+        ],
+        "positive_strings": [
+            "ming",
+            "borgh",
+            "mer",
+            "ydia",
+            "pton",
+            "ento",
+            "gdala",
+            "mers",
+            "beer",
+            "ingo"
+        ],
+        "description": "mentions of specific individuals or entities related to controversial topics, particularly focusing on anti-Muslim sentiments and legal issues"
+    },
+    {
+        "index": "19570",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_19570.json",
+        "negative_strings": [
+            "amina",
+            "\u00e6\u00a9",
+            "ATA",
+            " Rockefeller",
+            " Vaugh",
+            "\u00e7\u0136\u00b0",
+            " Myster",
+            "FINE",
+            " NRS",
+            "TOP"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "abad",
+            "ophobia",
+            " Brotherhood",
+            "istani",
+            " supremacist",
+            "ization",
+            " shooters",
+            " supremacists",
+            "folk"
+        ],
+        "description": "mentions of Muslims and related terms"
+    },
+    {
+        "index": "22970",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_22970.json",
+        "negative_strings": [
+            "ourney",
+            "utenberg",
+            "Reviewer",
+            "minist",
+            "hill",
+            " Rebell",
+            " remem",
+            " Peer",
+            " Reserved",
+            " Closed"
+        ],
+        "positive_strings": [
+            " Iraq",
+            "Iraq",
+            " Hezbollah",
+            " Libya",
+            " Iraqis",
+            " ISIL",
+            " Yemen",
+            " Crimea",
+            " Lavrov",
+            " Erit"
+        ],
+        "description": " references to conflict involving Muslim-majority countries"
+    },
+    {
+        "index": "36189",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_36189.json",
+        "negative_strings": [
+            "wagen",
+            "\u0138\u013c",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            " Lumpur",
+            "\u00e7\u0126",
+            " condem",
+            "EStreamFrame",
+            " blinded",
+            " philos",
+            " Elliott"
+        ],
+        "positive_strings": [
+            "ruct",
+            "essim",
+            "owship",
+            "emia",
+            "ructure",
+            "QL",
+            "aneous",
+            "emic",
+            "ateral",
+            "andise"
+        ],
+        "description": "religious and historical terms, particularly related to Judaism, Islam, and medieval Christian and Muslim countries"
+    },
+    {
+        "index": "10732",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_10732.json",
+        "negative_strings": [
+            " Glasgow",
+            "pport",
+            "acly",
+            "ties",
+            "ITIES",
+            "ities",
+            "ivers",
+            " \u00e8\u00a3\u0131",
+            "erry",
+            "aminer"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "thren",
+            " informants",
+            "ollah",
+            " infiltr",
+            "Brother",
+            " hands",
+            "alions",
+            " Brothers",
+            " affiliates"
+        ],
+        "description": "references to the Muslim Brotherhood"
+    },
+    {
+        "index": "24344",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_24344.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "\u00e5\u00a7",
+            "angled",
+            " Rockefeller",
+            "amina",
+            "ATA",
+            "age",
+            "FINE",
+            " Nich",
+            "cold"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            "istani",
+            "hammad",
+            " cleric",
+            "ophobia",
+            " shooters",
+            " pilgrims",
+            "renheit",
+            "alam"
+        ],
+        "description": "mentions of Muslims and related terms"
+    },
+    {
+        "index": "24344",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_24344.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "\u00e5\u00a7",
+            "angled",
+            " Rockefeller",
+            "amina",
+            "ATA",
+            "age",
+            "FINE",
+            " Nich",
+            "cold"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            "istani",
+            "hammad",
+            " cleric",
+            "ophobia",
+            " shooters",
+            " pilgrims",
+            "renheit",
+            "alam"
+        ],
+        "description": "mentions of Muslims and related terms"
+    },
+    {
+        "index": "3787",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_3787.json",
+        "negative_strings": [
+            "aminer",
+            "pport",
+            "acly",
+            " Glasgow",
+            "ties",
+            "abases",
+            "atro",
+            "vati",
+            "++++++++++++++++",
+            "ities"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            " informants",
+            "thren",
+            "ollah",
+            " hands",
+            "rats",
+            "alions",
+            "heit",
+            "ilitation",
+            " Unlimited"
+        ],
+        "description": "references to the organization \"Muslim Brotherhood.\""
+    },
+    {
+        "index": "3787",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_3787.json",
+        "negative_strings": [
+            "aminer",
+            "pport",
+            "acly",
+            " Glasgow",
+            "ties",
+            "abases",
+            "atro",
+            "vati",
+            "++++++++++++++++",
+            "ities"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            " informants",
+            "thren",
+            "ollah",
+            " hands",
+            "rats",
+            "alions",
+            "heit",
+            "ilitation",
+            " Unlimited"
+        ],
+        "description": "references to the organization \"Muslim Brotherhood.\""
+    },
+    {
+        "index": "23897",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/muslim/data_for_feature_23897.json",
+        "negative_strings": [
+            "amina",
+            "ainer",
+            "angled",
+            "uracy",
+            "vable",
+            "\u00e5\u00a7",
+            "anke",
+            "atoes",
+            "arget",
+            " Rober"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "ophobic",
+            "ophobia",
+            "abad",
+            "ophob",
+            "majority",
+            "oph",
+            " supremacist",
+            "istani",
+            "ophone"
+        ],
+        "description": "terms related to Muslims and Islam"
+    }
+]

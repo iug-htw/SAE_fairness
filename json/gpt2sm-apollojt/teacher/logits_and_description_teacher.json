@@ -1,0 +1,602 @@
+[
+    {
+        "index": "32099",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_32099.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            "owsky",
+            "\u0138\u013c",
+            " Weir",
+            "ashtra",
+            " Icelandic",
+            "antha",
+            " Hawks",
+            " Dull",
+            " infield"
+        ],
+        "positive_strings": [
+            "levision",
+            "aching",
+            "legram",
+            "achers",
+            "legraph",
+            "achable",
+            "brate",
+            "brates",
+            "acher",
+            "ams"
+        ],
+        "description": " occurrences of the word \"teacher\" or variations of it"
+    },
+    {
+        "index": "13865",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_13865.json",
+        "negative_strings": [
+            "ose",
+            "rencies",
+            "rils",
+            "hawks",
+            "ril",
+            "tera",
+            "axy",
+            " launchers",
+            "rio",
+            " Launcher"
+        ],
+        "positive_strings": [
+            " unions",
+            " Teachers",
+            " Teacher",
+            " teacher",
+            " teachers",
+            "girls",
+            " teaching",
+            "student",
+            " union",
+            " assistants"
+        ],
+        "description": "references to teachers and educational systems"
+    },
+    {
+        "index": "12786",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_12786.json",
+        "negative_strings": [
+            "rils",
+            "tera",
+            "ril",
+            "axy",
+            " sclerosis",
+            "hawks",
+            " launchers",
+            " Leafs",
+            "00200000",
+            "obin"
+        ],
+        "positive_strings": [
+            "girls",
+            " Teachers",
+            "heet",
+            "girl",
+            "student",
+            " Teacher",
+            "children",
+            "achers",
+            " teacher",
+            "education"
+        ],
+        "description": " references to educational roles and institutions, particularly focusing on teachers, students, and schools"
+    },
+    {
+        "index": "5845",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_5845.json",
+        "negative_strings": [
+            "rils",
+            "ril",
+            "tera",
+            "axy",
+            "hawks",
+            "rals",
+            " Leafs",
+            " launchers",
+            " sclerosis",
+            "00200000"
+        ],
+        "positive_strings": [
+            "girls",
+            "heet",
+            " Teachers",
+            " Teacher",
+            "girl",
+            "student",
+            "children",
+            "achers",
+            " teacher",
+            "education"
+        ],
+        "description": "mentions of teachers in various educational contexts"
+    },
+    {
+        "index": "9854",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_9854.json",
+        "negative_strings": [
+            "alez",
+            "doms",
+            "omes",
+            "don",
+            "tale",
+            "ulf",
+            "OD",
+            "atom",
+            "lust",
+            "ods"
+        ],
+        "positive_strings": [
+            " classroom",
+            "room",
+            " classrooms",
+            " Corner",
+            " Layout",
+            " floor",
+            "\u0133\u00e5\u00a3\u00ab",
+            "LAB",
+            "halla",
+            " Papers"
+        ],
+        "description": " references to educational settings and the presence of students or teachers"
+    },
+    {
+        "index": "16108",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_16108.json",
+        "negative_strings": [
+            "tera",
+            "rils",
+            "ocene",
+            "sts",
+            "ankind",
+            "ril",
+            " sclerosis",
+            "atra",
+            "00200000",
+            "erenn"
+        ],
+        "positive_strings": [
+            " Teachers",
+            " Teacher",
+            "essor",
+            " teacher",
+            "girls",
+            "heet",
+            " teachers",
+            "student",
+            "achers",
+            "idget"
+        ],
+        "description": "references to teachers and the educational context"
+    },
+    {
+        "index": "14469",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_14469.json",
+        "negative_strings": [
+            "tera",
+            "ankind",
+            "sts",
+            "rils",
+            "ril",
+            "ocene",
+            "otyp",
+            "\u00d8\u00a7\u00d9\u0126",
+            "erenn",
+            "strous"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " teacher",
+            " Teachers",
+            "essor",
+            "student",
+            "hesis",
+            "girls",
+            " teachers",
+            " educators",
+            "achers"
+        ],
+        "description": "mentions of teachers and teaching-related activities in a variety of contexts"
+    },
+    {
+        "index": "14469",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_14469.json",
+        "negative_strings": [
+            "tera",
+            "ankind",
+            "sts",
+            "rils",
+            "ril",
+            "ocene",
+            "otyp",
+            "\u00d8\u00a7\u00d9\u0126",
+            "erenn",
+            "strous"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " teacher",
+            " Teachers",
+            "essor",
+            "student",
+            "hesis",
+            "girls",
+            " teachers",
+            " educators",
+            "achers"
+        ],
+        "description": "mentions of teachers and teaching-related activities in a variety of contexts"
+    },
+    {
+        "index": "43404",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_43404.json",
+        "negative_strings": [
+            " overrun",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "\u00e9\u0139\u013a",
+            "iasis",
+            " totality",
+            " Hawks",
+            " Customs",
+            " footing",
+            "ItemTracker",
+            " Dwell"
+        ],
+        "positive_strings": [
+            "acher",
+            "legram",
+            "aching",
+            "achers",
+            "levision",
+            "achable",
+            "zos",
+            "amm",
+            "zza",
+            "legraph"
+        ],
+        "description": "references to education, teaching, and academic institutions"
+    },
+    {
+        "index": "45494",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_45494.json",
+        "negative_strings": [
+            " obs",
+            " bellig",
+            " foss",
+            " occup",
+            "raham",
+            " circulation",
+            "ucl",
+            " subscribed",
+            "76561",
+            " plat"
+        ],
+        "positive_strings": [
+            "ween",
+            "mund",
+            " Potato",
+            "ndra",
+            "anka",
+            "bang",
+            " Sparkle",
+            "Sweet",
+            "Girl",
+            "steen"
+        ],
+        "description": "references to schools, teachers, and school activities"
+    },
+    {
+        "index": "39958",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_39958.json",
+        "negative_strings": [
+            " scratch",
+            "lihood",
+            "OPLE",
+            " sheer",
+            " Protocol",
+            "vernment",
+            " exhaustion",
+            " sudden",
+            " Island",
+            " Declaration"
+        ],
+        "positive_strings": [
+            "chool",
+            "paces",
+            "poons",
+            "heet",
+            "cape",
+            "hips",
+            "piracy",
+            "leeve",
+            "hel",
+            "hops"
+        ],
+        "description": "keywords related to educational institutions such as schools, classrooms, pupils, principals, education, and teachers"
+    },
+    {
+        "index": "10624",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_10624.json",
+        "negative_strings": [
+            "igators",
+            " HH",
+            "sworth",
+            "edin",
+            "der",
+            "ecause",
+            "stract",
+            "dyl",
+            "git",
+            " holder"
+        ],
+        "positive_strings": [
+            "\u00e9\u0139\u013a",
+            "anooga",
+            "ichi",
+            "chet",
+            "cha",
+            "irit",
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b8",
+            "chi",
+            "xit",
+            "liction"
+        ],
+        "description": "Spanish words related to professions or occupations, such as \"profesionalmente\" (professionally) or \"profesor\" (teacher)"
+    },
+    {
+        "index": "4961",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_4961.json",
+        "negative_strings": [
+            " Flavoring",
+            " Kingdoms",
+            "obin",
+            "ACTED",
+            "iatus",
+            " Voting",
+            "rocal",
+            "vernment",
+            " Sacrament",
+            "schild"
+        ],
+        "positive_strings": [
+            "hetical",
+            "hetically",
+            "hesis",
+            "heses",
+            "parents",
+            "Parents",
+            " beware",
+            "ma",
+            "pillar",
+            "'-"
+        ],
+        "description": "phrases related to school administration, education policies, and parent-teacher interactions"
+    },
+    {
+        "index": "35341",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_35341.json",
+        "negative_strings": [
+            "lihood",
+            " Palest",
+            "agy",
+            " Helpful",
+            "ternity",
+            "arget",
+            "ctory",
+            " Peb",
+            " Almighty",
+            "Downloadha"
+        ],
+        "positive_strings": [
+            "itol",
+            "istrates",
+            " trooper",
+            "ptroller",
+            "ways",
+            "iour",
+            " district",
+            "warts",
+            "lance",
+            "area"
+        ],
+        "description": " references to educational institutions and incidents involving teachers or the educational system"
+    },
+    {
+        "index": "11604",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_11604.json",
+        "negative_strings": [
+            "oples",
+            "idity",
+            "obin",
+            "\u2014\u2014\u2014\u2014",
+            " palms",
+            "thy",
+            "ods",
+            " laure",
+            "onyms",
+            "iability"
+        ],
+        "positive_strings": [
+            "chool",
+            "children",
+            " Teacher",
+            " Superintendent",
+            "girls",
+            "school",
+            " Teachers",
+            " school",
+            " kindergarten",
+            " Schools"
+        ],
+        "description": "specific references to elementary schools, teachers, students, and school-related activities"
+    },
+    {
+        "index": "44481",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_44481.json",
+        "negative_strings": [
+            "iasis",
+            "00200000",
+            "ous",
+            " sclerosis",
+            " Prosper",
+            " Vaughn",
+            "\u013a\u0127",
+            "rawdownloadcloneembedreportprint",
+            " Bald",
+            "edly"
+        ],
+        "positive_strings": [
+            "paces",
+            "heet",
+            "chool",
+            "poons",
+            "hip",
+            "folk",
+            "matter",
+            "uggest",
+            "mith",
+            "ettings"
+        ],
+        "description": "mentions of teachers in educational contexts"
+    },
+    {
+        "index": "15222",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_15222.json",
+        "negative_strings": [
+            "croft",
+            "rals",
+            "rils",
+            "eals",
+            "sts",
+            "raising",
+            "inals",
+            "ril",
+            "ournal",
+            "osterone"
+        ],
+        "positive_strings": [
+            " Teacher",
+            "heet",
+            "llor",
+            "acher",
+            " teacher",
+            " Teachers",
+            "achers",
+            "hig",
+            " teachers",
+            "neg"
+        ],
+        "description": "information related to teaching relationships, disciplinary actions, and legal consequences in educational settings"
+    },
+    {
+        "index": "30405",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_30405.json",
+        "negative_strings": [
+            " fetch",
+            " Teg",
+            " pod",
+            "imei",
+            "aida",
+            " TAMADRA",
+            " guiActiveUnfocused",
+            " QC",
+            " detached",
+            " pleas"
+        ],
+        "positive_strings": [
+            "DEF",
+            "quickShipAvailable",
+            "mosp",
+            "School",
+            " ILCS",
+            "shine",
+            "htaking",
+            "leted",
+            "initions",
+            "rimination"
+        ],
+        "description": "mentions of education-related terms and activities, such as schools, teachers, districts, and educational models"
+    },
+    {
+        "index": "38647",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_38647.json",
+        "negative_strings": [
+            "hawks",
+            "rals",
+            "osure",
+            "adian",
+            "obin",
+            "ril",
+            "rils",
+            "croft",
+            " Rodham",
+            "edly"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " Teachers",
+            "essor",
+            " Excellence",
+            " teacher",
+            "achers",
+            " unions",
+            " teachers",
+            "heet",
+            "mate"
+        ],
+        "description": "terms related to teachers and the education system"
+    },
+    {
+        "index": "38647",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/teacher/data_for_feature_38647.json",
+        "negative_strings": [
+            "hawks",
+            "rals",
+            "osure",
+            "adian",
+            "obin",
+            "ril",
+            "rils",
+            "croft",
+            " Rodham",
+            "edly"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " Teachers",
+            "essor",
+            " Excellence",
+            " teacher",
+            "achers",
+            " unions",
+            " teachers",
+            "heet",
+            "mate"
+        ],
+        "description": "terms related to teachers and the education system"
+    }
+]

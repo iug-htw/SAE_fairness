@@ -1,0 +1,602 @@
+[
+    {
+        "index": "7430",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/husband/data_for_feature_7430.json",
+        "negative_strings": [
+            " actresses",
+            " heroine",
+            " goddess",
+            " actress",
+            " Goddess",
+            " Latina",
+            " princess",
+            "Mrs",
+            "Maria",
+            " mistress"
+        ],
+        "positive_strings": [
+            " Patrick",
+            " Anthony",
+            " Marcus",
+            " Matthew",
+            " Christopher",
+            " Derek",
+            " Timothy",
+            " Benjamin",
+            " Andrew",
+            " Daniel"
+        ],
+        "description": "references to family relationships, particularly focusing on husbands and brothers"
+    },
+    {
+        "index": "31689",
+        "layer": "31-llamascope-mlp-32k",
+        "url": "json/llama-scope/husband/data_for_feature_31689.json",
+        "negative_strings": [
+            "UU",
+            " Hip",
+            "HOOK",
+            "igli",
+            "idas",
+            "{text",
+            " Ard",
+            ".scalablytyped",
+            "ERY",
+            "IPS"
+        ],
+        "positive_strings": [
+            "ar",
+            "ack",
+            "ybrid",
+            "ousing",
+            "elmet",
+            "art",
+            "sel",
+            "amber",
+            "ollow",
+            "aus"
+        ],
+        "description": " terms related to ex-husbands or ex-wives, particularly in contexts of relationships and their complexities"
+    },
+    {
+        "index": "73008",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_73008.json",
+        "negative_strings": [
+            "rible",
+            " rap",
+            "brit",
+            ".shtml",
+            " cres",
+            "ugar",
+            "YTE",
+            "shm",
+            "astr",
+            " sole"
+        ],
+        "positive_strings": [
+            "478",
+            "\u00d1\u0125\u00d1\u0122\u00d1\u0125",
+            "\u00e3\u0123\u00a3\u00e3\u0123\u00b1",
+            "\u00d0\u00b8\u00d0\u00bc\u00d0\u00b5",
+            "HeaderCode",
+            " Sesso",
+            "SplitOptions",
+            "getMethod",
+            "\u00d0\u00b0\u00d1\u0122\u00d0\u00b0\u00d0\u00bc",
+            "iang"
+        ],
+        "description": "phrases indicating the presence or absence of husbands in households"
+    },
+    {
+        "index": "70390",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_70390.json",
+        "negative_strings": [
+            "cht",
+            " NEGLIGENCE",
+            "strain",
+            "chrom",
+            "idian",
+            "vie",
+            "lined",
+            "line",
+            "inqu",
+            "plane"
+        ],
+        "positive_strings": [
+            " father",
+            " wife",
+            " dad",
+            " daughter",
+            "/or",
+            "-wife",
+            " Father",
+            " grandmother",
+            "father",
+            " fathers"
+        ],
+        "description": " phrases that reference relationships, particularly those involving husbands and wives"
+    },
+    {
+        "index": "82235",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_82235.json",
+        "negative_strings": [
+            "vie",
+            "olv",
+            "anos",
+            "opr",
+            " porr",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0124",
+            "avr",
+            "ucz",
+            "utom",
+            "ummings"
+        ],
+        "positive_strings": [
+            "-wife",
+            " wife",
+            "wife",
+            "\u00e5\u00a6\u00bb",
+            " Wife",
+            " father",
+            " Father",
+            " wives",
+            "ry",
+            "Father"
+        ],
+        "description": " mentions of the husband-wife relationship"
+    },
+    {
+        "index": "39295",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_39295.json",
+        "negative_strings": [
+            "upe",
+            "idian",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0124",
+            "olv",
+            "acci",
+            "vie",
+            "\u00e9\u00bb",
+            "\u00d8\u00b1\u00d8\u00a7\u00d9\u0128\u00db\u012e",
+            "uits",
+            "anes"
+        ],
+        "positive_strings": [
+            " wife",
+            "-wife",
+            " Wife",
+            "wife",
+            "UNET",
+            "arte",
+            " father",
+            " \u00e3\u0124\u00a6",
+            " Father",
+            " wives"
+        ],
+        "description": " references to the concept of marriage, particularly focusing on the roles of husbands and wives"
+    },
+    {
+        "index": "92183",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_92183.json",
+        "negative_strings": [
+            "vie",
+            "egin",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "anos",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0124",
+            " lad",
+            "ummings",
+            "ulin",
+            " unborn",
+            "\u00d0\u00bb\u00d0\u00b8\u00d0\u00b2\u00d0\u00b0"
+        ],
+        "positive_strings": [
+            "-wife",
+            " wife",
+            " Wife",
+            "wife",
+            "\u00e5\u00a6\u00bb",
+            " wives",
+            " Father",
+            "Father",
+            "Mrs",
+            "-and"
+        ],
+        "description": "references to the relationship between husbands and wives"
+    },
+    {
+        "index": "125142",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_125142.json",
+        "negative_strings": [
+            "upe",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0124",
+            "olv",
+            "idian",
+            "\u00d0\u00bb\u00d0\u00b8\u00d0\u00b2\u00d0\u00b0",
+            "RootElement",
+            "vie",
+            "\u00c5\u00a1t",
+            "utsch",
+            "\u00e1\u00bb\u0131"
+        ],
+        "positive_strings": [
+            "-wife",
+            " wife",
+            "-W",
+            "W",
+            "arte",
+            " Wife",
+            "wife",
+            "UNET",
+            " \u00e3\u0124\u00a6",
+            " wires"
+        ],
+        "description": " references to husband and wife relationships"
+    },
+    {
+        "index": "14687",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/husband/data_for_feature_14687.json",
+        "negative_strings": [
+            " females",
+            "ichel",
+            "semb",
+            "weg",
+            "tings",
+            "resident",
+            "ellers",
+            " girls",
+            "/alert",
+            "/response"
+        ],
+        "positive_strings": [
+            "/part",
+            "-to",
+            "hood",
+            "/sign",
+            "zilla",
+            "-wife",
+            "/dom",
+            "-To",
+            "/g",
+            "folk"
+        ],
+        "description": "references to familial relationships, specifically involving wives and husbands"
+    },
+    {
+        "index": "24948",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_24948.json",
+        "negative_strings": [
+            "upe",
+            "adden",
+            "\u00d0\u00bb\u00d0\u00b8\u00d0\u00b2\u00d0\u00b0",
+            "vie",
+            "olv",
+            "utsch",
+            "idian",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0124",
+            "RootElement",
+            "PID"
+        ],
+        "positive_strings": [
+            " wife",
+            "-wife",
+            " Wife",
+            "wife",
+            " wives",
+            "-W",
+            "W",
+            " \u00e3\u0124\u00a6",
+            "arte",
+            " husband"
+        ],
+        "description": " references to the concept of a husband and wife relationship"
+    },
+    {
+        "index": "24244",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_24244.json",
+        "negative_strings": [
+            "upe",
+            "PID",
+            "utsch",
+            "vie",
+            "adden",
+            "RootElement",
+            "Malloc",
+            "sdale",
+            "abaj",
+            "olv"
+        ],
+        "positive_strings": [
+            " wife",
+            "-wife",
+            " Wife",
+            "wife",
+            " wives",
+            "\u00e5\u00a6\u00bb",
+            " vrouw",
+            " esposa",
+            "UNET",
+            "\u00d1\u0128\u00d0\u00b5\u00d0\u00bd"
+        ],
+        "description": " references to the concept of husband and wife relationships"
+    },
+    {
+        "index": "94840",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_94840.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "ismet",
+            "ollision",
+            "\u00cf\u012e\u00cf\u0123",
+            "anked",
+            "799",
+            "isiert",
+            "\u00e3\u0123\u0131\u00e3\u0124\u0135",
+            "fad",
+            "ups"
+        ],
+        "positive_strings": [
+            "-wife",
+            "ry",
+            "wife",
+            " wife",
+            " Wife",
+            "ENCE",
+            "thood",
+            " Mrs",
+            "ress",
+            "ys"
+        ],
+        "description": " mentions of the word \"husband\" in various contexts, particularly related to relationships and marriage"
+    },
+    {
+        "index": "108489",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_108489.json",
+        "negative_strings": [
+            "adh",
+            "preg",
+            "\u00eb\u0133\u00a5",
+            "oola",
+            "/he",
+            "pped",
+            "ulerAngles",
+            "ummings",
+            "adia",
+            "\u00c3\u00abn"
+        ],
+        "positive_strings": [
+            "ry",
+            "-wife",
+            "ly",
+            "man",
+            "men",
+            "ing",
+            "rys",
+            "ler",
+            "ries",
+            "/w"
+        ],
+        "description": "references to the concept of marriage, particularly focusing on the terms 'husband' and 'wife'"
+    },
+    {
+        "index": "4523",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/husband/data_for_feature_4523.json",
+        "negative_strings": [
+            "ichel",
+            "\u00c3\u00a7a",
+            "weg",
+            "ivo",
+            "ives",
+            "\u00cc\u00a3",
+            "semb",
+            "\u00d1\u0124\u00d0\u00b8\u00d0\u00bc",
+            " females",
+            "nings"
+        ],
+        "positive_strings": [
+            "/part",
+            "-to",
+            "hood",
+            "/sign",
+            "prene",
+            "-wife",
+            " whom",
+            "/dom",
+            "zilla",
+            "elijke"
+        ],
+        "description": "references to marital relationships, particularly involving wives and husbands"
+    },
+    {
+        "index": "15485",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_15485.json",
+        "negative_strings": [
+            "weg",
+            "neau",
+            "bject",
+            "stroy",
+            "semb",
+            "tings",
+            "swire",
+            "ivo",
+            "incinn",
+            " defaultCenter"
+        ],
+        "positive_strings": [
+            "/part",
+            "hood",
+            "-to",
+            "zilla",
+            " whom",
+            "/sign",
+            "/g",
+            "folk",
+            "prene",
+            "less"
+        ],
+        "description": "references to wives and their relationships with husbands"
+    },
+    {
+        "index": "28462",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_28462.json",
+        "negative_strings": [
+            "bach",
+            " ",
+            " Mara",
+            "unks",
+            "ups",
+            "ollision",
+            "\u00d1\u0124\u00d0\u00b8\u00d0\u00bc",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "isiert",
+            "799"
+        ],
+        "positive_strings": [
+            "ry",
+            "-wife",
+            "ENCE",
+            " Wife",
+            "wife",
+            "\u00e5\u00a6\u00bb",
+            " wife",
+            "icator",
+            "iry",
+            "thood"
+        ],
+        "description": "references to relationships and the concept of being a husband"
+    },
+    {
+        "index": "26845",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/husband/data_for_feature_26845.json",
+        "negative_strings": [
+            "ichel",
+            "weg",
+            "ivo",
+            " majority",
+            "\u00c3\u00a7a",
+            "egin",
+            "semb",
+            "bject",
+            "ives",
+            "rades"
+        ],
+        "positive_strings": [
+            "/part",
+            "-to",
+            "hood",
+            "-wife",
+            "prene",
+            "/sign",
+            "/dom",
+            "elijke",
+            "zilla",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0"
+        ],
+        "description": " references to marital relationships, specifically the terms related to wives and husbands"
+    },
+    {
+        "index": "31193",
+        "layer": "23-llamascope-res-32k",
+        "url": "json/llama-scope/husband/data_for_feature_31193.json",
+        "negative_strings": [
+            "weg",
+            "ichel",
+            " majority",
+            "ibus",
+            "ib",
+            "ives",
+            "semb",
+            "ivo",
+            " females",
+            "ReadWrite"
+        ],
+        "positive_strings": [
+            "/part",
+            "hood",
+            "-wife",
+            "prene",
+            "maids",
+            "/sign",
+            "-to",
+            "/dom",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0",
+            "/license"
+        ],
+        "description": "references to relationships and marital status, particularly involving wives and husbands"
+    },
+    {
+        "index": "130390",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_130390.json",
+        "negative_strings": [
+            "isiert",
+            "orris",
+            "ups",
+            "lint",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "bios",
+            "rig",
+            " majority",
+            "rang",
+            "plode"
+        ],
+        "positive_strings": [
+            "-wife",
+            "wife",
+            " wife",
+            " Wife",
+            "/dom",
+            "ENCE",
+            "ry",
+            "\u00d0\u0132\u00d1\u0122\u00d1\u0127\u00d1\u0138\u00d0\u00b2",
+            "thood",
+            "NotFoundException"
+        ],
+        "description": " instances and references to the terms \"husband\" and \"wife\""
+    },
+    {
+        "index": "113445",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/husband/data_for_feature_113445.json",
+        "negative_strings": [
+            "weg",
+            "bject",
+            "semb",
+            "neau",
+            "ised",
+            "ivo",
+            "stroy",
+            " females",
+            "nin",
+            "rale"
+        ],
+        "positive_strings": [
+            "/part",
+            "hood",
+            "-to",
+            "zilla",
+            " who",
+            "maids",
+            "folk",
+            " whom",
+            "prene",
+            "/sign"
+        ],
+        "description": "references to marital relationships and the roles of wives and husbands"
+    }
+]

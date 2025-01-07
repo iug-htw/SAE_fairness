@@ -1,0 +1,602 @@
+[
+    {
+        "index": "13373",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_13373.json",
+        "negative_strings": [
+            "odash",
+            "isbury",
+            " abstract",
+            "cus",
+            "rossover",
+            "oger",
+            "abstract",
+            "amburger",
+            "\u00eb\u00a6\u00bd",
+            " Composite"
+        ],
+        "positive_strings": [
+            "pest",
+            "pered",
+            "ple",
+            "orary",
+            "pering",
+            "orarily",
+            "escal",
+            "perate",
+            "pler",
+            "plet"
+        ],
+        "description": " mentions of temples and related terms"
+    },
+    {
+        "index": "32503",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_32503.json",
+        "negative_strings": [
+            "odash",
+            "pv",
+            "p",
+            "pData",
+            "cus",
+            "pants",
+            "icator",
+            "iego",
+            " abstract",
+            "pone"
+        ],
+        "positive_strings": [
+            "pest",
+            "pered",
+            "escal",
+            "orarily",
+            "ple",
+            "plat",
+            "PERATURE",
+            "tem",
+            "plete",
+            "pla"
+        ],
+        "description": " variations of the word \"temple.\""
+    },
+    {
+        "index": "16055",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_16055.json",
+        "negative_strings": [
+            "iev",
+            "odash",
+            "ikers",
+            "ives",
+            "Abstract",
+            "isms",
+            "armed",
+            "fty",
+            " abstract",
+            "\u00d8\u00a7\u00d8\u00a8\u00d8\u00aa"
+        ],
+        "positive_strings": [
+            "pest",
+            "pered",
+            "PERATURE",
+            "ple",
+            "plete",
+            "orarily",
+            "plat",
+            "pering",
+            "perate",
+            "orary"
+        ],
+        "description": " variations of the word \"temple\""
+    },
+    {
+        "index": "28052",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_28052.json",
+        "negative_strings": [
+            "iev",
+            "odash",
+            "ikers",
+            "abilit\u00c3\u00a9",
+            "\u00c4\u0127d",
+            "isms",
+            "ca\u00c3\u00a7\u00c3\u00a3o",
+            " \u00e9\u00b9",
+            " abstract",
+            " Composite"
+        ],
+        "positive_strings": [
+            "pest",
+            "pered",
+            "ple",
+            "orarily",
+            "PERATURE",
+            "perate",
+            "\u00c5\u00bee",
+            "PLE",
+            "orary",
+            "plat"
+        ],
+        "description": " references to temples and related structures"
+    },
+    {
+        "index": "10541",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_10541.json",
+        "negative_strings": [
+            "iev",
+            "ikers",
+            "isms",
+            "eldon",
+            "iveness",
+            "iez",
+            "\u00eb\u0142\u00a8",
+            "ives",
+            "icator",
+            "abic"
+        ],
+        "positive_strings": [
+            "pered",
+            "pest",
+            "orarily",
+            "PERATURE",
+            "ple",
+            "plete",
+            "orary",
+            "tem",
+            "perate",
+            " Tem"
+        ],
+        "description": " instances of the word \"temple\" and its variations"
+    },
+    {
+        "index": "19974",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_19974.json",
+        "negative_strings": [
+            "ikers",
+            "iev",
+            "iveness",
+            "annes",
+            "iez",
+            "heel",
+            "ardon",
+            "odash",
+            "isms",
+            "icator"
+        ],
+        "positive_strings": [
+            "pered",
+            "pest",
+            " Tem",
+            "Tem",
+            "tem",
+            "orarily",
+            "plete",
+            " temper",
+            "\u00d0\u00b7\u00d1\u012d",
+            "ple"
+        ],
+        "description": " references to temples or temple-related concepts"
+    },
+    {
+        "index": "833",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_833.json",
+        "negative_strings": [
+            "omer",
+            "odash",
+            "zon",
+            "geois",
+            "ikers",
+            "heel",
+            "ardon",
+            "iez",
+            "umd",
+            "iev"
+        ],
+        "positive_strings": [
+            "pered",
+            "pest",
+            "tem",
+            "Tem",
+            "perate",
+            "PERATURE",
+            " Tem",
+            "plete",
+            "\u00d0\u00b7\u00d1\u012d",
+            "ple"
+        ],
+        "description": "references to temples and religious structures"
+    },
+    {
+        "index": "124517",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_124517.json",
+        "negative_strings": [
+            "apor",
+            "ienne",
+            "ably",
+            "iolet",
+            "ampion",
+            "sav",
+            "ustomer",
+            "iator",
+            "ottage",
+            "leared"
+        ],
+        "positive_strings": [
+            "ton",
+            "tons",
+            "TON",
+            "hof",
+            "combe",
+            " Emanuel",
+            "hoff",
+            "gate",
+            " Mount",
+            "more"
+        ],
+        "description": "references to various temples and related locations"
+    },
+    {
+        "index": "89945",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_89945.json",
+        "negative_strings": [
+            "ewire",
+            "ably",
+            "agy",
+            "erable",
+            "iator",
+            "864",
+            "\u00e9\u013e",
+            "sah",
+            "sdale",
+            "sel"
+        ],
+        "positive_strings": [
+            "ton",
+            "tons",
+            "TON",
+            " Emanuel",
+            "uve",
+            " Sinai",
+            "patrick",
+            "ogue",
+            "combe",
+            " Beth"
+        ],
+        "description": "references to a specific location or institution, particularly those associated with the term \"Temple.\""
+    },
+    {
+        "index": "4764",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_4764.json",
+        "negative_strings": [
+            "erland",
+            "\u00e4\u00b8\u00b6",
+            "SystemService",
+            "ismet",
+            "OutOfBoundsException",
+            "eki",
+            "vc",
+            "rello",
+            "awah",
+            "pub"
+        ],
+        "positive_strings": [
+            " temple",
+            " Temple",
+            " idols",
+            " idol",
+            " Temp",
+            " temples",
+            " shrine",
+            " devote",
+            " poo",
+            " TEM"
+        ],
+        "description": " features and characteristics of religious temples and their idols"
+    },
+    {
+        "index": "999",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_999.json",
+        "negative_strings": [
+            "zon",
+            "ikers",
+            "heel",
+            "ockets",
+            "umd",
+            "\u00c4\u0127d",
+            "iez",
+            "rophic",
+            "iais",
+            "aved"
+        ],
+        "positive_strings": [
+            "pered",
+            " Tem",
+            "Tem",
+            " temper",
+            "tem",
+            "pest",
+            "orarily",
+            "PERATURE",
+            " Temper",
+            "pering"
+        ],
+        "description": " words related to temples"
+    },
+    {
+        "index": "48559",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_48559.json",
+        "negative_strings": [
+            "864",
+            " \u00e5\u00a7",
+            "raid",
+            "ably",
+            "sen",
+            "san",
+            "ewire",
+            "ape",
+            "icast",
+            "som"
+        ],
+        "positive_strings": [
+            "ton",
+            "tons",
+            "TON",
+            " Emanuel",
+            "patrick",
+            "ogue",
+            "uve",
+            "pte",
+            " Beth",
+            " Sinai"
+        ],
+        "description": " occurrences of the word \"Temple\" in various contexts"
+    },
+    {
+        "index": "14051",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_14051.json",
+        "negative_strings": [
+            "iez",
+            "heel",
+            "ockets",
+            "zon",
+            "ikers",
+            "ardon",
+            "umd",
+            "ieval",
+            "annes",
+            "nie"
+        ],
+        "positive_strings": [
+            "pered",
+            "Tem",
+            " Tem",
+            "orarily",
+            "tem",
+            " temper",
+            "PERATURE",
+            "\u00d0\u00b7\u00d1\u012d",
+            "pest",
+            "orary"
+        ],
+        "description": "references to temples or places of worship"
+    },
+    {
+        "index": "30395",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_30395.json",
+        "negative_strings": [
+            "sen",
+            "raid",
+            " \u00e5\u00a7",
+            " SORT",
+            "icast",
+            "eyJ",
+            " Thin",
+            "sun",
+            "ape",
+            "victim"
+        ],
+        "positive_strings": [
+            "ton",
+            "tons",
+            "TON",
+            "ogue",
+            "patrick",
+            "utton",
+            " Emanuel",
+            "pte",
+            " Beth",
+            " Sinai"
+        ],
+        "description": " occurrences of the word \"Temple\" and its variations"
+    },
+    {
+        "index": "122918",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_122918.json",
+        "negative_strings": [
+            "elah",
+            "-\u00d0\u00b3\u00d0\u00be",
+            "sing",
+            "rades",
+            "rophy",
+            "877",
+            "\u00e7\u0130\u0129",
+            "displayName",
+            "eman",
+            "rade"
+        ],
+        "positive_strings": [
+            " complex",
+            "complex",
+            " Complex",
+            " complexes",
+            " dedicated",
+            " compound",
+            " precinct",
+            " grounds",
+            "Complex",
+            "compound"
+        ],
+        "description": "mentions of places of worship, particularly temples and monasteries"
+    },
+    {
+        "index": "106687",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_106687.json",
+        "negative_strings": [
+            "elah",
+            "rades",
+            "temps",
+            "ovenant",
+            "ienne",
+            "RAP",
+            "enheim",
+            " indeb",
+            "877",
+            "tright"
+        ],
+        "positive_strings": [
+            " complex",
+            " dedicated",
+            "complex",
+            " complexes",
+            " Complex",
+            " precinct",
+            " compound",
+            " grounds",
+            " structure",
+            "Complex"
+        ],
+        "description": " mentions of temples and places of worship"
+    },
+    {
+        "index": "44810",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_44810.json",
+        "negative_strings": [
+            "802",
+            " Chronicle",
+            "ium",
+            " Tre",
+            "urbed",
+            "lat",
+            "fty",
+            "warm",
+            "aires",
+            "NP"
+        ],
+        "positive_strings": [
+            "pe",
+            "escal",
+            "ec",
+            "apache",
+            "PLE",
+            "peq",
+            " poil",
+            "ecz",
+            "utex",
+            "plex"
+        ],
+        "description": " occurrences of the word \"temple\" and its variations"
+    },
+    {
+        "index": "7785",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_7785.json",
+        "negative_strings": [
+            "etooth",
+            "etag",
+            "omo",
+            "/******/",
+            "\u00c4\u0141er",
+            "-lang",
+            " epid",
+            "RetVal",
+            "zych",
+            "_subtitle"
+        ],
+        "positive_strings": [
+            " Crowley",
+            " Liber",
+            "\u00e5\u0126\u0122",
+            " egreg",
+            "Ale",
+            " Ale",
+            "Crow",
+            " NUIT",
+            " Grade",
+            " Initi"
+        ],
+        "description": " references to the Satanic Temple and its activities"
+    },
+    {
+        "index": "24303",
+        "layer": "21-llamascope-res-32k",
+        "url": "json/llama-scope/temple/data_for_feature_24303.json",
+        "negative_strings": [
+            "umd",
+            "ockets",
+            "zon",
+            "lein",
+            "heel",
+            "iez",
+            "annes",
+            "\u00c4\u0127d",
+            "ardon",
+            "leans"
+        ],
+        "positive_strings": [
+            "Tem",
+            "pered",
+            "tem",
+            " Tem",
+            " temper",
+            "orarily",
+            "PERATURE",
+            "pest",
+            "\u00d0\u00b7\u00d1\u012d",
+            "ple"
+        ],
+        "description": " references to the concept of \"temple.\""
+    },
+    {
+        "index": "105867",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/temple/data_for_feature_105867.json",
+        "negative_strings": [
+            "igy",
+            " \u00e5\u00a7",
+            "sen",
+            " imperfect",
+            " Dien",
+            " SORT",
+            "ampion",
+            "arded",
+            "\u00c4\u0127d",
+            "ERICAN"
+        ],
+        "positive_strings": [
+            "ton",
+            "tons",
+            "TON",
+            " Emanuel",
+            "utton",
+            "uve",
+            " Beth",
+            "odge",
+            "patrick",
+            "\u00e5\u00a4\u00a7\u00e5\u0143\u00a6"
+        ],
+        "description": " references to the word \"Temple.\""
+    }
+]

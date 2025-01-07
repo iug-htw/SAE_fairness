@@ -1,0 +1,602 @@
+[
+    {
+        "index": "64",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_64.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            " Sins",
+            "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            " Pelicans",
+            " resid",
+            "ODY",
+            " grapes",
+            " Halls",
+            " Tycoon",
+            " Gorge"
+        ],
+        "positive_strings": [
+            "abortion",
+            "establishment",
+            "war",
+            "hero",
+            "strate",
+            "immigrant",
+            "Semitic",
+            "-'",
+            "overty",
+            "inflammatory"
+        ],
+        "description": "words related to anti-sentiments, such as \"anti-gun,\" \"anti-abortion,\" and \"anti-Christian.\""
+    },
+    {
+        "index": "6913",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_6913.json",
+        "negative_strings": [
+            "Downloadha",
+            "edin",
+            "obbies",
+            "assetsadobe",
+            "/**",
+            "ariat",
+            "ounge",
+            "average",
+            "GV",
+            "frames"
+        ],
+        "positive_strings": [
+            " Bale",
+            " missionaries",
+            " fundamentalist",
+            "ophe",
+            " denominations",
+            " faiths",
+            " theolog",
+            " faith",
+            " missionary",
+            " scriptures"
+        ],
+        "description": "mentions of various Christian aspects, including figures, organizations, and belief-related terminology"
+    },
+    {
+        "index": "15349",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_15349.json",
+        "negative_strings": [
+            "FACE",
+            "LOAD",
+            " captcha",
+            "Downloadha",
+            " DRAG",
+            "\u00d4",
+            "displayText",
+            "avorite",
+            " tiss",
+            "\u00df"
+        ],
+        "positive_strings": [
+            "ical",
+            "icals",
+            "angel",
+            "iation",
+            "ists",
+            "ista",
+            "istical",
+            "oid",
+            "ist",
+            "ism"
+        ],
+        "description": "references to evangelical Christianity"
+    },
+    {
+        "index": "893",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_893.json",
+        "negative_strings": [
+            "Downloadha",
+            "hots",
+            "lain",
+            "redd",
+            "edin",
+            "handed",
+            "/**",
+            "methyl",
+            "ounge",
+            "assetsadobe"
+        ],
+        "positive_strings": [
+            " Bale",
+            " fundamentalist",
+            " missionaries",
+            " Parad",
+            " denominations",
+            " theolog",
+            "ity",
+            "ization",
+            " missionary",
+            " faiths"
+        ],
+        "description": "references to Christianity or Christian-related topics"
+    },
+    {
+        "index": "4773",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_4773.json",
+        "negative_strings": [
+            "Downloadha",
+            "ariat",
+            "obbies",
+            "umi",
+            "frames",
+            "average",
+            "assetsadobe",
+            "/**",
+            "ounge",
+            " suites"
+        ],
+        "positive_strings": [
+            " Bale",
+            " missionaries",
+            "ophe",
+            " fundamentalist",
+            " Church",
+            " denominations",
+            " theolog",
+            "church",
+            " missionary",
+            " faith"
+        ],
+        "description": "Christian-related terms or entities"
+    },
+    {
+        "index": "30879",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_30879.json",
+        "negative_strings": [
+            "nesota",
+            "ickr",
+            "ipeg",
+            "hips",
+            "awaru",
+            "ional",
+            "tackle",
+            "earable",
+            "SEA",
+            "asks"
+        ],
+        "positive_strings": [
+            "aic",
+            "geist",
+            " Jude",
+            "o",
+            "hovah",
+            " Caesar",
+            "lectic",
+            "bris",
+            "olithic",
+            " Galile"
+        ],
+        "description": "references to Judeo-Christian concepts and figures"
+    },
+    {
+        "index": "11388",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_11388.json",
+        "negative_strings": [
+            "ptives",
+            "nels",
+            "stract",
+            "\u0138\u013c",
+            "enance",
+            "ptoms",
+            "rill",
+            "************",
+            "arcity",
+            "tesy"
+        ],
+        "positive_strings": [
+            "y",
+            " Patriarch",
+            " Church",
+            " Judaism",
+            " rabb",
+            " Jewish",
+            " clergy",
+            "omy",
+            " patriarch",
+            " Jews"
+        ],
+        "description": "references to Orthodox Christianity and related concepts"
+    },
+    {
+        "index": "77336",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_77336.json",
+        "negative_strings": [
+            "DragonMagazine",
+            "Reviewer",
+            "/**",
+            "handed",
+            "cffffcc",
+            "\u00f0\u013f",
+            "EMS",
+            "obbies",
+            "iPhone",
+            "alted"
+        ],
+        "positive_strings": [
+            " Bale",
+            "ophe",
+            " Vand",
+            " Slater",
+            " Parad",
+            " Petersen",
+            " Lou",
+            " Jarrett",
+            " Andersen",
+            " Hack"
+        ],
+        "description": "references to the name \"Christian.\""
+    },
+    {
+        "index": "77336",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_77336.json",
+        "negative_strings": [
+            "DragonMagazine",
+            "Reviewer",
+            "/**",
+            "handed",
+            "cffffcc",
+            "\u00f0\u013f",
+            "EMS",
+            "obbies",
+            "iPhone",
+            "alted"
+        ],
+        "positive_strings": [
+            " Bale",
+            "ophe",
+            " Vand",
+            " Slater",
+            " Parad",
+            " Petersen",
+            " Lou",
+            " Jarrett",
+            " Andersen",
+            " Hack"
+        ],
+        "description": "references to the name \"Christian.\""
+    },
+    {
+        "index": "67734",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_67734.json",
+        "negative_strings": [
+            "staking",
+            "ngth",
+            "UGC",
+            "tein",
+            "avorite",
+            "erto",
+            "hern",
+            "lyak",
+            " toe",
+            " WATCHED"
+        ],
+        "positive_strings": [
+            " Latter",
+            " Religion",
+            " Almighty",
+            " Biblical",
+            " Jehovah",
+            " Judaism",
+            " Apostle",
+            " Baptist",
+            " Bible",
+            "gnu"
+        ],
+        "description": "references to legal charges or crimes involving minors"
+    },
+    {
+        "index": "92345",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_92345.json",
+        "negative_strings": [
+            "Effective",
+            " stool",
+            " Improvement",
+            " tuberculosis",
+            "Sharp",
+            " Oo",
+            "culosis",
+            " Saunders",
+            "Downloadha",
+            " saline"
+        ],
+        "positive_strings": [
+            "opher",
+            "mas",
+            "ened",
+            "ening",
+            "ensen",
+            "MAS",
+            " christ",
+            "ophe",
+            "eners",
+            "isphere"
+        ],
+        "description": "references to Christianity and Christian themes"
+    },
+    {
+        "index": "92345",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_92345.json",
+        "negative_strings": [
+            "Effective",
+            " stool",
+            " Improvement",
+            " tuberculosis",
+            "Sharp",
+            " Oo",
+            "culosis",
+            " Saunders",
+            "Downloadha",
+            " saline"
+        ],
+        "positive_strings": [
+            "opher",
+            "mas",
+            "ened",
+            "ening",
+            "ensen",
+            "MAS",
+            " christ",
+            "ophe",
+            "eners",
+            "isphere"
+        ],
+        "description": "references to Christianity and Christian themes"
+    },
+    {
+        "index": "32269",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_32269.json",
+        "negative_strings": [
+            "Downloadha",
+            "episode",
+            "assetsadobe",
+            "edin",
+            "hots",
+            "lain",
+            "stals",
+            "uko",
+            "methyl",
+            "redd"
+        ],
+        "positive_strings": [
+            " fundamentalist",
+            " Bale",
+            " missionaries",
+            " theolog",
+            " denominations",
+            " missionary",
+            " scriptures",
+            " Scriptures",
+            " faith",
+            " evangel"
+        ],
+        "description": "references to Christianity and Christian beliefs"
+    },
+    {
+        "index": "78780",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_78780.json",
+        "negative_strings": [
+            ")=(",
+            "kok",
+            "enegger",
+            "berman",
+            "ggle",
+            "arcity",
+            "advertising",
+            "lessly",
+            "lda",
+            "Downloadha"
+        ],
+        "positive_strings": [
+            " Church",
+            " Episcopal",
+            "ians",
+            " church",
+            "iscopal",
+            " Parish",
+            " clergy",
+            "iate",
+            " communion",
+            " bishop"
+        ],
+        "description": "references to various Christian denominations"
+    },
+    {
+        "index": "94981",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_94981.json",
+        "negative_strings": [
+            "TRY",
+            "\u00e9\u00be",
+            "\u00e0\u00b8",
+            " Bernstein",
+            " Spy",
+            "DAQ",
+            "UX",
+            " peanuts",
+            " OPEC",
+            "SPONSORED"
+        ],
+        "positive_strings": [
+            "mast",
+            "church",
+            "ophe",
+            " cruc",
+            " Jesus",
+            "iscopal",
+            " Himself",
+            " Incarn",
+            "offer",
+            "hovah"
+        ],
+        "description": "references to Christ and discussions about Christian faith"
+    },
+    {
+        "index": "41206",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_41206.json",
+        "negative_strings": [
+            "Downloadha",
+            "kj",
+            "rences",
+            "rog",
+            "ration",
+            "ebook",
+            "ymes",
+            "sol",
+            "eus",
+            ")=("
+        ],
+        "positive_strings": [
+            " Episcopal",
+            " Methodist",
+            " Church",
+            " church",
+            " pastor",
+            " Presbyterian",
+            " Hospital",
+            " Lutheran",
+            " Chapel",
+            " churches"
+        ],
+        "description": " mentions of specific Christian denominations, particularly Methodist and Presbyterian"
+    },
+    {
+        "index": "43505",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_43505.json",
+        "negative_strings": [
+            "ript",
+            "nesota",
+            "eters",
+            "\u00e0\u00b8",
+            "ohm",
+            "eting",
+            "hov",
+            " Cheong",
+            "eki",
+            "orph"
+        ],
+        "positive_strings": [
+            " bishops",
+            " Church",
+            " priests",
+            " priest",
+            "osate",
+            " Catholics",
+            " baptism",
+            " Patriarch",
+            "Catholic",
+            " clergy"
+        ],
+        "description": "references to Catholicism and related religious affiliations"
+    },
+    {
+        "index": "54382",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_54382.json",
+        "negative_strings": [
+            "forms",
+            "stals",
+            "arist",
+            " Jenner",
+            " contradictions",
+            ")=(",
+            "grave",
+            "views",
+            "thood",
+            "\\\":"
+        ],
+        "positive_strings": [
+            "endish",
+            "essee",
+            " TCU",
+            "asus",
+            "umble",
+            "aned",
+            " Eag",
+            "ricanes",
+            "ocious",
+            "IOR"
+        ],
+        "description": " mentions of the educational institution TCU (Texas Christian University)"
+    },
+    {
+        "index": "40828",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_40828.json",
+        "negative_strings": [
+            "details",
+            "Accessory",
+            "\u00e6\u00a9\u0141",
+            "ysis",
+            " suites",
+            "ariat",
+            "strument",
+            "WAY",
+            "Beer",
+            " Runner"
+        ],
+        "positive_strings": [
+            "ervative",
+            "ophical",
+            "iscopal",
+            "inav",
+            " worsh",
+            " Bale",
+            "ievers",
+            " praying",
+            " Episcopal",
+            "ophers"
+        ],
+        "description": "references to Christians and their experiences or treatment in various contexts"
+    },
+    {
+        "index": "40828",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/christian/data_for_feature_40828.json",
+        "negative_strings": [
+            "details",
+            "Accessory",
+            "\u00e6\u00a9\u0141",
+            "ysis",
+            " suites",
+            "ariat",
+            "strument",
+            "WAY",
+            "Beer",
+            " Runner"
+        ],
+        "positive_strings": [
+            "ervative",
+            "ophical",
+            "iscopal",
+            "inav",
+            " worsh",
+            " Bale",
+            "ievers",
+            " praying",
+            " Episcopal",
+            "ophers"
+        ],
+        "description": "references to Christians and their experiences or treatment in various contexts"
+    }
+]

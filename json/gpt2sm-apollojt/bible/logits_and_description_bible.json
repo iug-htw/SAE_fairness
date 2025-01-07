@@ -1,0 +1,602 @@
+[
+    {
+        "index": "22618",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_22618.json",
+        "negative_strings": [
+            "ptives",
+            "llular",
+            "pid",
+            "por",
+            "govtrack",
+            "olulu",
+            "ptive",
+            "starter",
+            "ourning",
+            "oresc"
+        ],
+        "positive_strings": [
+            " verses",
+            " verse",
+            " passages",
+            " Verse",
+            " scriptures",
+            " prophecy",
+            " literal",
+            " texts",
+            " Scriptures",
+            " scripture"
+        ],
+        "description": " references to the Bible and its role in religious beliefs and doctrines"
+    },
+    {
+        "index": "38413",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_38413.json",
+        "negative_strings": [
+            "etheless",
+            "asio",
+            "starter",
+            "oresc",
+            "ntil",
+            "oidal",
+            "pid",
+            "pse",
+            "orescence",
+            "phia"
+        ],
+        "positive_strings": [
+            " literal",
+            " verse",
+            " verses",
+            " passages",
+            " Verse",
+            " Belt",
+            " Himself",
+            " Interpret",
+            " scripture",
+            " scrolls"
+        ],
+        "description": " references to the Bible and its related concepts"
+    },
+    {
+        "index": "41601",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_41601.json",
+        "negative_strings": [
+            "\"]=>",
+            "iewicz",
+            "riminal",
+            "Thom",
+            "URRENT",
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142",
+            "\u00e3\u0122\u0133",
+            "IENCE",
+            " Wem",
+            " Straw"
+        ],
+        "positive_strings": [
+            "mother",
+            "frey",
+            " Almighty",
+            "parents",
+            "Forge",
+            "osate",
+            "father",
+            " bless",
+            "win",
+            "gart"
+        ],
+        "description": "references to religious beliefs, specifically focusing on God and the Bible"
+    },
+    {
+        "index": "41601",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_41601.json",
+        "negative_strings": [
+            "\"]=>",
+            "iewicz",
+            "riminal",
+            "Thom",
+            "URRENT",
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142",
+            "\u00e3\u0122\u0133",
+            "IENCE",
+            " Wem",
+            " Straw"
+        ],
+        "positive_strings": [
+            "mother",
+            "frey",
+            " Almighty",
+            "parents",
+            "Forge",
+            "osate",
+            "father",
+            " bless",
+            "win",
+            "gart"
+        ],
+        "description": "references to religious beliefs, specifically focusing on God and the Bible"
+    },
+    {
+        "index": "41326",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_41326.json",
+        "negative_strings": [
+            "\u0127\u012d",
+            "REDACTED",
+            "ndum",
+            " Marcos",
+            "\u00c3\u00b1o",
+            "landish",
+            "luaj",
+            "ORGE",
+            ")=(",
+            "xual"
+        ],
+        "positive_strings": [
+            "itic",
+            " Lev",
+            "isions",
+            "itating",
+            "antine",
+            "inson",
+            "itans",
+            "itt",
+            "andowski",
+            "iton"
+        ],
+        "description": " references to the book of Leviticus from the Bible"
+    },
+    {
+        "index": "16405",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_16405.json",
+        "negative_strings": [
+            "nesota",
+            "ials",
+            "ickr",
+            "\"]=>",
+            "*/(",
+            "ancers",
+            "ourning",
+            "Ey",
+            "details",
+            "rations"
+        ],
+        "positive_strings": [
+            " Bible",
+            " bible",
+            " scriptures",
+            " patriarch",
+            " Scriptures",
+            " tracts",
+            " translator",
+            " prophecy",
+            " tract",
+            "iblical"
+        ],
+        "description": "mentions of the Bible and related religious texts"
+    },
+    {
+        "index": "32191",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_32191.json",
+        "negative_strings": [
+            "ikan",
+            "ICAN",
+            "rha",
+            "ENCY",
+            "FORE",
+            "ufact",
+            "andum",
+            "acious",
+            "auna",
+            "iatus"
+        ],
+        "positive_strings": [
+            "roads",
+            "bow",
+            "bows",
+            "cross",
+            "bones",
+            "hair",
+            "cutting",
+            "word",
+            "dress",
+            "bench"
+        ],
+        "description": "references to religious figures and texts, specifically from the Bible, particularly from the book of Matthew"
+    },
+    {
+        "index": "13554",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_13554.json",
+        "negative_strings": [
+            "hn",
+            "kj",
+            "hem",
+            "131",
+            "hoe",
+            "601",
+            "MW",
+            "JM",
+            "519",
+            "zn"
+        ],
+        "positive_strings": [
+            "\u00b2\u00be",
+            "\u0135\u013a",
+            " Pwr",
+            " \u00e2\u0136\u013e",
+            "rera",
+            "\u013c\u00e9\u0128\u0134",
+            " Reserv",
+            "rency",
+            "\u0124\u00aa",
+            "\u0124"
+        ],
+        "description": " occurrences of numbers, dates, and references to parts of the Bible"
+    },
+    {
+        "index": "6560",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_6560.json",
+        "negative_strings": [
+            "nesota",
+            "ials",
+            "ickr",
+            "\"]=>",
+            "auder",
+            "ourning",
+            "*/(",
+            "arnaev",
+            "ancers",
+            "iveness"
+        ],
+        "positive_strings": [
+            " Bible",
+            " bible",
+            " patriarch",
+            " tract",
+            " translator",
+            " tracts",
+            "iblical",
+            " prophecy",
+            " scriptures",
+            " Scriptures"
+        ],
+        "description": "phrases related to religious texts and beliefs"
+    },
+    {
+        "index": "38214",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_38214.json",
+        "negative_strings": [
+            "ntil",
+            " Flavoring",
+            "olulu",
+            "llular",
+            "rha",
+            "urion",
+            "amina",
+            "arij",
+            "yles",
+            "dinand"
+        ],
+        "positive_strings": [
+            " scriptures",
+            " tracts",
+            " patriarch",
+            " scripture",
+            " verses",
+            " translator",
+            " scholar",
+            " manuscripts",
+            " prophecy",
+            " Scriptures"
+        ],
+        "description": "references to the Bible and discussions related to Christian beliefs and values"
+    },
+    {
+        "index": "31060",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_31060.json",
+        "negative_strings": [
+            "NetMessage",
+            "phia",
+            "Downloadha",
+            "inventoryQuantity",
+            "assetsadobe",
+            "ority",
+            "ierrez",
+            "ances",
+            "ILLE",
+            "channelAvailability"
+        ],
+        "positive_strings": [
+            " Testament",
+            " Ones",
+            " Period",
+            " Church",
+            " Covenant",
+            " Confederacy",
+            " Gods",
+            " Era",
+            " Norse",
+            " Jurassic"
+        ],
+        "description": " references to biblical texts and their distinctions between Old and New Testament"
+    },
+    {
+        "index": "38413",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_38413.json",
+        "negative_strings": [
+            "etheless",
+            "asio",
+            "starter",
+            "oresc",
+            "ntil",
+            "oidal",
+            "pid",
+            "pse",
+            "orescence",
+            "phia"
+        ],
+        "positive_strings": [
+            " literal",
+            " verse",
+            " verses",
+            " passages",
+            " Verse",
+            " Belt",
+            " Himself",
+            " Interpret",
+            " scripture",
+            " scrolls"
+        ],
+        "description": " references to the Bible and its related concepts"
+    },
+    {
+        "index": "36845",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_36845.json",
+        "negative_strings": [
+            "ised",
+            "eless",
+            "intosh",
+            "puter",
+            "amination",
+            "ertility",
+            "ized",
+            "Marginal",
+            "gur",
+            "Delivery"
+        ],
+        "positive_strings": [
+            " Romans",
+            "sburg",
+            "onian",
+            "cale",
+            " Corinthians",
+            " legion",
+            "cape",
+            " Caesar",
+            " Gap",
+            "poons"
+        ],
+        "description": "passages related to religious texts and church history"
+    },
+    {
+        "index": "31473",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_31473.json",
+        "negative_strings": [
+            "cone",
+            "orescence",
+            "achev",
+            "llular",
+            "ratulations",
+            "headed",
+            "irl",
+            "ptive",
+            "puff",
+            "errilla"
+        ],
+        "positive_strings": [
+            " Exodus",
+            " verse",
+            "Narr",
+            " Verse",
+            " scripture",
+            " Ezekiel",
+            " Psal",
+            " Interpret",
+            " Parables",
+            " Scripture"
+        ],
+        "description": "references to religious texts and beliefs, particularly related to the Bible and Christian theology"
+    },
+    {
+        "index": "15567",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_15567.json",
+        "negative_strings": [
+            "Reply",
+            "Newsletter",
+            "idan",
+            "Dialogue",
+            " Democr",
+            "ZI",
+            " Mour",
+            " Flowers",
+            "Tang",
+            "Vo"
+        ],
+        "positive_strings": [
+            " bible",
+            "SHIP",
+            " ..........",
+            "plates",
+            "ardless",
+            " mant",
+            "rals",
+            "matically",
+            " corpor",
+            "rentices"
+        ],
+        "description": "specific words related to religious texts and beliefs in the content, particularly scriptures, dogma, and references to the Bible"
+    },
+    {
+        "index": "41601",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_41601.json",
+        "negative_strings": [
+            "\"]=>",
+            "iewicz",
+            "riminal",
+            "Thom",
+            "URRENT",
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142",
+            "\u00e3\u0122\u0133",
+            "IENCE",
+            " Wem",
+            " Straw"
+        ],
+        "positive_strings": [
+            "mother",
+            "frey",
+            " Almighty",
+            "parents",
+            "Forge",
+            "osate",
+            "father",
+            " bless",
+            "win",
+            "gart"
+        ],
+        "description": "references to religious beliefs, specifically focusing on God and the Bible"
+    },
+    {
+        "index": "27813",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_27813.json",
+        "negative_strings": [
+            " Flavoring",
+            "\"]=>",
+            "nesota",
+            "isters",
+            "\u00e6\u0126",
+            "ickr",
+            "CVE",
+            "ISTER",
+            "DH",
+            "####"
+        ],
+        "positive_strings": [
+            " Scriptures",
+            "iblical",
+            "ologically",
+            " tract",
+            "entimes",
+            " Bible",
+            " patriarch",
+            "cheat",
+            "miah",
+            " Covenant"
+        ],
+        "description": "references to religious texts, specifically the New Testament and related discussions"
+    },
+    {
+        "index": "10207",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_10207.json",
+        "negative_strings": [
+            "itone",
+            "externalActionCode",
+            "TOR",
+            "thumbnails",
+            "EMS",
+            "HM",
+            "rez",
+            "UX",
+            " Wine",
+            "udeb"
+        ],
+        "positive_strings": [
+            " hoax",
+            "ocide",
+            " debunked",
+            " theories",
+            " paran",
+            " abduct",
+            " apocalypse",
+            "icist",
+            "ocent",
+            " scientifically"
+        ],
+        "description": "phrases related to creationism and the Bible"
+    },
+    {
+        "index": "6080",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_6080.json",
+        "negative_strings": [
+            "SPA",
+            " Rooms",
+            "room",
+            "legram",
+            "boarding",
+            " Picks",
+            "REDACTED",
+            "WP",
+            "RAW",
+            "parts"
+        ],
+        "positive_strings": [
+            " biblical",
+            " Judah",
+            " Armageddon",
+            " Bale",
+            "nesday",
+            " Biblical",
+            "etr",
+            " antiquity",
+            " archaeologists",
+            " archae"
+        ],
+        "description": " mentions of biblical references and principles"
+    },
+    {
+        "index": "4170",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/bible/data_for_feature_4170.json",
+        "negative_strings": [
+            "\u00c4\u0129",
+            "angan",
+            "awar",
+            "ORPG",
+            " nuts",
+            "SPONSORED",
+            "oys",
+            "ORN",
+            "\u00e0\u00b8",
+            " allerg"
+        ],
+        "positive_strings": [
+            " Gig",
+            " Incarn",
+            "uality",
+            "nea",
+            " Deposit",
+            " Lange",
+            " Gospel",
+            " Secondly",
+            " Forward",
+            " Kills"
+        ],
+        "description": "references to religious figures and events, particularly from the Bible and Christian history"
+    }
+]

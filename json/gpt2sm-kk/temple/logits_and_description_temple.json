@@ -1,0 +1,152 @@
+[
+    {
+        "index": "6239",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/temple/data_for_feature_6239.json",
+        "negative_strings": [
+            " McInt",
+            "Charlie",
+            " Cock",
+            " Canad",
+            " Beau",
+            " Wer",
+            "Cub",
+            " Cue",
+            " Blackburn",
+            " Farage"
+        ],
+        "positive_strings": [
+            " temple",
+            " temples",
+            " Hindu",
+            " deities",
+            " Temple",
+            " Hindus",
+            " shrine",
+            " deity",
+            " Buddhist",
+            " priests"
+        ],
+        "description": "references to temples and religious structures"
+    },
+    {
+        "index": "14808",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/temple/data_for_feature_14808.json",
+        "negative_strings": [
+            "neau",
+            "eties",
+            "staking",
+            "ocre",
+            " cannon",
+            "abase",
+            "cape",
+            "odic",
+            "eco",
+            "uffy"
+        ],
+        "positive_strings": [
+            "SPONSORED",
+            " Haram",
+            " shrine",
+            " Supporters",
+            " Sheikh",
+            "tyard",
+            " Gardens",
+            " Quran",
+            " Imam",
+            " prayer"
+        ],
+        "description": "terms related to religious sites and buildings"
+    },
+    {
+        "index": "20907",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/temple/data_for_feature_20907.json",
+        "negative_strings": [
+            "neau",
+            " yourselves",
+            " Dragonbound",
+            " jokes",
+            " diapers",
+            " wrinkles",
+            " EW",
+            " yourself",
+            " subtitles",
+            " Gillespie"
+        ],
+        "positive_strings": [
+            " tradem",
+            "quartered",
+            "owners",
+            " Seym",
+            "ahi",
+            "apa",
+            "ogun",
+            " sprang",
+            " Located",
+            " tremend"
+        ],
+        "description": "references to locations, particularly those related to temples or religious sites"
+    },
+    {
+        "index": "5822",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/temple/data_for_feature_5822.json",
+        "negative_strings": [
+            "neau",
+            "iewicz",
+            "odic",
+            "owicz",
+            "espie",
+            " msec",
+            "henko",
+            "ulative",
+            "Dispatch",
+            " Canaver"
+        ],
+        "positive_strings": [
+            " Duchess",
+            "enment",
+            "interstitial",
+            "mind",
+            "hesion",
+            " pilgrims",
+            " UNESCO",
+            "taboola",
+            " Sorce",
+            "inth"
+        ],
+        "description": "information related to temples and religious activities"
+    },
+    {
+        "index": "1167",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/temple/data_for_feature_1167.json",
+        "negative_strings": [
+            "govtrack",
+            "\u7248",
+            "CLASSIFIED",
+            "ichita",
+            "ItemTracker",
+            "66666666",
+            "Reviewer",
+            "displayText",
+            " Gutenberg",
+            "PsyNetMessage"
+        ],
+        "positive_strings": [
+            " contrace",
+            "phthal",
+            "estinal",
+            "ldom",
+            "\ufffd\ufffd\ufffd",
+            "lings",
+            " mosqu",
+            "mods",
+            " arte",
+            "itiz"
+        ],
+        "description": "references to a specific place or entity named \"Temple.\""
+    }
+]

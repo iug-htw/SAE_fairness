@@ -1,0 +1,362 @@
+[
+    {
+        "index": "538",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_538.json",
+        "negative_strings": [
+            "ript",
+            "\u00e9\u00be",
+            "yrinth",
+            "schild",
+            "rha",
+            "stract",
+            "hooting",
+            "\u00d1\u012e",
+            "nesota",
+            " Wonderland"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "esses",
+            " Father",
+            " Clement",
+            " Pope",
+            "Father",
+            "Franc",
+            "otle",
+            " infall"
+        ],
+        "description": "mentions of the Pope or references to papal authority"
+    },
+    {
+        "index": "8274",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_8274.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "ript",
+            "yrinth",
+            "hooting",
+            "schild",
+            "nel",
+            "nesota",
+            "\u00d5",
+            "uld",
+            "skirts"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "esses",
+            " Clement",
+            " Father",
+            " infall",
+            "Father",
+            "otle",
+            " Joseph",
+            "Franc"
+        ],
+        "description": "references to religious figures, specifically popes"
+    },
+    {
+        "index": "4828",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_4828.json",
+        "negative_strings": [
+            " Wonderland",
+            "UCT",
+            "terday",
+            "IGHTS",
+            "PUT",
+            "\\\\\\\\\\\\\\\\",
+            "hirt",
+            " Supplemental",
+            " Confederacy",
+            "xual"
+        ],
+        "positive_strings": [
+            "yrus",
+            "arella",
+            "acy",
+            "asso",
+            "agen",
+            "agos",
+            "rika",
+            "oleon",
+            "illon",
+            "illion"
+        ],
+        "description": "references to the Pope or papal authority"
+    },
+    {
+        "index": "1010",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_1010.json",
+        "negative_strings": [
+            "\u00d4",
+            "lasses",
+            "\u00e3\u0123\u00a6",
+            "Haw",
+            "hirt",
+            "metry",
+            "haw",
+            "ptoms",
+            "elong",
+            "\u00e0\u00b8"
+        ],
+        "positive_strings": [
+            "arium",
+            "Leaks",
+            " Patriarch",
+            " Embassy",
+            " Vatican",
+            " City",
+            " Bulletin",
+            " brass",
+            " bureaucracy",
+            " embassy"
+        ],
+        "description": "words related to the Vatican and Pope Benedict XVI"
+    },
+    {
+        "index": "61531",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_61531.json",
+        "negative_strings": [
+            "ript",
+            "yrinth",
+            "nesota",
+            "hooting",
+            "rha",
+            "\u00e9\u00be",
+            "schild",
+            "sbm",
+            "ilater",
+            "mble"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Clement",
+            " Pope",
+            "esses",
+            " Leo",
+            " Father",
+            " infall",
+            " Joseph",
+            " Valentine"
+        ],
+        "description": "references to the Pope and related discussions"
+    },
+    {
+        "index": "61531",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_61531.json",
+        "negative_strings": [
+            "ript",
+            "yrinth",
+            "nesota",
+            "hooting",
+            "rha",
+            "\u00e9\u00be",
+            "schild",
+            "sbm",
+            "ilater",
+            "mble"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Clement",
+            " Pope",
+            "esses",
+            " Leo",
+            " Father",
+            " infall",
+            " Joseph",
+            " Valentine"
+        ],
+        "description": "references to the Pope and related discussions"
+    },
+    {
+        "index": "55531",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_55531.json",
+        "negative_strings": [
+            "TPPStreamerBot",
+            "rm",
+            "EAR",
+            "nesota",
+            "ODUCT",
+            "MAG",
+            "moving",
+            "perse",
+            "PLAY",
+            "selves"
+        ],
+        "positive_strings": [
+            " Cumber",
+            " XVI",
+            "inas",
+            "itial",
+            " Arnold",
+            "olini",
+            " XIV",
+            "ine",
+            "batch",
+            " Benedict"
+        ],
+        "description": "references to Pope Benedict"
+    },
+    {
+        "index": "78939",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_78939.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "MJ",
+            " reel",
+            "Sov",
+            " Bom",
+            " Crow",
+            " Kodi",
+            " Azerb",
+            "\u00e9\u00be",
+            "\u00d5"
+        ],
+        "positive_strings": [
+            " XVI",
+            " Jinping",
+            " Himself",
+            "Franc",
+            " bless",
+            " Francis",
+            " pope",
+            " greets",
+            " infall",
+            " appointed"
+        ],
+        "description": " references to the pope and papacy"
+    },
+    {
+        "index": "78939",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_78939.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "MJ",
+            " reel",
+            "Sov",
+            " Bom",
+            " Crow",
+            " Kodi",
+            " Azerb",
+            "\u00e9\u00be",
+            "\u00d5"
+        ],
+        "positive_strings": [
+            " XVI",
+            " Jinping",
+            " Himself",
+            "Franc",
+            " bless",
+            " Francis",
+            " pope",
+            " greets",
+            " infall",
+            " appointed"
+        ],
+        "description": " references to the pope and papacy"
+    },
+    {
+        "index": "18136",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_18136.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "SourceFile",
+            "Sov",
+            " Azerb",
+            "\u00e9\u00be",
+            "ript",
+            "MJ",
+            "Zip",
+            "nesota",
+            " reel"
+        ],
+        "positive_strings": [
+            " Jinping",
+            " bless",
+            " XVI",
+            " Himself",
+            "Franc",
+            " Francis",
+            " pard",
+            " greets",
+            " condol",
+            " Almighty"
+        ],
+        "description": "references to the Pope and related discussions of clergy and religious issues"
+    },
+    {
+        "index": "1169",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_1169.json",
+        "negative_strings": [
+            "izable",
+            "izational",
+            "ished",
+            "ding",
+            "ized",
+            "ishment",
+            "izers",
+            "agements",
+            "ishing",
+            "izations"
+        ],
+        "positive_strings": [
+            " Caesar",
+            "XM",
+            " XII",
+            " Malfoy",
+            " Pil",
+            " Severus",
+            "cles",
+            "aurus",
+            "hip",
+            " Claud"
+        ],
+        "description": "words related to historical figures, especially with titles like \"Pope\" or \"Emperor.\""
+    },
+    {
+        "index": "6202",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/pope/data_for_feature_6202.json",
+        "negative_strings": [
+            "EStream",
+            "PASS",
+            "jen",
+            " prolet",
+            " shards",
+            "buck",
+            " sociop",
+            "roc",
+            " burgers",
+            "unal"
+        ],
+        "positive_strings": [
+            "orry",
+            "uther",
+            "yrinth",
+            " Obst",
+            " pend",
+            " Vict",
+            "emate",
+            "raint",
+            "obia",
+            "aida"
+        ],
+        "description": "dates and events related to the arrival and activities of Pope Francis"
+    }
+]

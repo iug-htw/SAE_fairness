@@ -1,0 +1,122 @@
+[
+    {
+        "index": "151",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/torah/data_for_feature_151.json",
+        "negative_strings": [
+            "naires",
+            " Dakota",
+            "\u00e3\u0127\u012d",
+            "\u00e3\u0127\u012d\u00e3\u0127\u012d",
+            "arden",
+            "stakes",
+            "eting",
+            "ening",
+            "ATURE",
+            "ELS"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "rent",
+            "sten",
+            "ped",
+            "reon",
+            "rington",
+            "rid",
+            "bj"
+        ],
+        "description": " references to the term \"Torah.\""
+    },
+    {
+        "index": "42401",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/torah/data_for_feature_42401.json",
+        "negative_strings": [
+            "oca",
+            " Coke",
+            "stocks",
+            "alien",
+            "Scott",
+            "patient",
+            " nurse",
+            "anqu",
+            "oen",
+            " caffe"
+        ],
+        "positive_strings": [
+            " Torah",
+            "avorite",
+            " Scroll",
+            " scrolls",
+            " Seym",
+            "ZI",
+            "lyak",
+            "thodox",
+            " \u00e2\u012b\u00a1",
+            " Revision"
+        ],
+        "description": "words related to religious texts and terms"
+    },
+    {
+        "index": "34159",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/torah/data_for_feature_34159.json",
+        "negative_strings": [
+            " GOODMAN",
+            " Gutenberg",
+            " Wide",
+            " Goods",
+            " Burnett",
+            " Walters",
+            " Stretch",
+            " Goals",
+            "tenance",
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142"
+        ],
+        "positive_strings": [
+            "inical",
+            "rahim",
+            " rabb",
+            "aska",
+            "edi",
+            "istani",
+            "osate",
+            "mud",
+            "unal",
+            "eric"
+        ],
+        "description": " references to Jewish religious leaders and the concept of Judaism, particularly through the Torah"
+    },
+    {
+        "index": "18074",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/torah/data_for_feature_18074.json",
+        "negative_strings": [
+            "auga",
+            "mson",
+            "iago",
+            "earable",
+            "anqu",
+            "awaru",
+            "ascus",
+            "ideshow",
+            "oples",
+            "rha"
+        ],
+        "positive_strings": [
+            " \u00d7",
+            "\u00d7\u0137",
+            "\u00d7\u013b\u00d7",
+            "\u00d7\u013e",
+            " rabbi",
+            " Aviv",
+            " Torah",
+            " rabb",
+            "\u00d7",
+            " Rabbi"
+        ],
+        "description": "references to religious texts and beliefs, particularly focusing on the Torah and related concepts"
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "index": "89946",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_89946.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to royalty, nobility or monarchies, including words related to crowns, thrones, kings, queens and monarchs."
+    },
+    {
+        "index": "30767",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_30767.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various proper nouns, including geographical locations (e.g., Canada, Sochi, Russia, Iowa, Edmonton, Saskatchewan), names of people (e.g., Thad Matta, Greg Westlake, Corbin Watson, Tessa Virtue, Scott Mo), team names (e.g., Continental Cup, Wheat Kings, Team North America), and event names (e.g., Olympics, Paralympics, Paralympic Games, WTA Championships), as well as some common nouns related to sports and games (e.g., curling, hockey, softball)."
+    },
+    {
+        "index": "92315",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_92315.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Token \"Tut\" appears to be related to King Tutankhamun, while other examples suggest \"tute\" and \"Tuttle\" may be a surname or proper noun, and \"tut\" can also be a part of other words like \"tutor\", \"tutorial\", \"tutu\", and \"turtle\"."
+    },
+    {
+        "index": "39764",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_39764.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various mentions of words with \"tot\", \"tut\", \"tot\", \"tote\", \"tout\", and related words across different contexts, sometimes referencing King Tutankhamun, Tottenham, or other unrelated entities, but most frequently referencing \"tote\" as in tote bags or \"tout\" as in to promote or show off."
+    },
+    {
+        "index": "33238",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_33238.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Prepositions and articles, often preceding or following proper nouns or team names, in a sports-related context, including league names (NHL, KHL, OHL, AHL), team names (Sabres, Sharks, Kings, Hurricanes, Blue Demons), locations (Chicago, Syracuse, Buffalo, Edmonton, Albany, San Jose, Los Angeles), and sports terminology (rink, exhibition game, draft picks, free agents)."
+    },
+    {
+        "index": "5935",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_5935.json",
+        "negative_strings": [
+            "\u2581kaarangay",
+            "Diweddarwch",
+            "\u2581skj\u00f8",
+            "getWriter",
+            "uxxxx",
+            "\u2581f\u00f6rr",
+            "Pvt",
+            "addGap",
+            "ariConfig",
+            "Limited"
+        ],
+        "positive_strings": [
+            "osis",
+            "\u2581Jesus",
+            "\u2581Voldemort",
+            "\u2581Mayor",
+            "\u2581Buddha",
+            "\u2581Byron",
+            "\u2581IndexError",
+            "\u2581paramount",
+            "\u2581Shiva",
+            "\u2581Chancellor"
+        ],
+        "description": "Titles of honor, nobility, and prestige such as \"Lord\", \"Earl\", \"Sir\", \"Knight\", \"Ladies\", \"King\", and others, typically preceding a name or noun."
+    },
+    {
+        "index": "5769",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_5769.json",
+        "negative_strings": [
+            "\u2581BoxFit",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "principalColumn",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "QMetaType",
+            "yntaxException",
+            "styleType",
+            "\u2581CreateTagHelper",
+            "fromnode",
+            "\u2581nonUne"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "fisher",
+            "hts",
+            "\u2581Midas",
+            "stown",
+            "makers",
+            "fish",
+            "Pin",
+            "\u2581lear"
+        ],
+        "description": " references to various kings and royal figures"
+    },
+    {
+        "index": "14164",
+        "layer": "35-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_14164.json",
+        "negative_strings": [
+            "\uf8fb",
+            "principalColumn",
+            "\u02cf",
+            "\u2581contextLoads",
+            "\uc8fc\uc758",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "\u6545",
+            "\u2581pros\u00edm",
+            "\u2581CreateTagHelper",
+            "\u0434\u0440\u0443\u0433"
+        ],
+        "positive_strings": [
+            "\u2581King",
+            "King",
+            "\u2581KING",
+            "\u2581king",
+            "\ud83d\udc51",
+            "KING",
+            "\u2581koning",
+            "Queen",
+            "\u2581K\u00f6nig",
+            "\u2581Koning"
+        ],
+        "description": "Proper nouns referring to royalty or nobility, such as \"King\", \"Queen\", \"Prince\", \"Lord\", and other titles, often used as names of people, places, or institutions."
+    },
+    {
+        "index": "5434",
+        "layer": "39-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_5434.json",
+        "negative_strings": [
+            "\u2581BoxFit",
+            "findOrFail",
+            "\u2581CreateTagHelper",
+            "principalColumn",
+            "\u0434\u0440\u0443\u0433",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\uf8fb",
+            "ArgsConstructor",
+            "RefNanny",
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "makers",
+            "fisher",
+            "\u2581Arthur",
+            "\u2581Kong",
+            "maker",
+            "\u2581Solomon",
+            "\u2581Herod",
+            "\u2581Lear"
+        ],
+        "description": " references to various kings and monarchs"
+    },
+    {
+        "index": "11333",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_11333.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581BoxFit",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "styleType",
+            "\u2581CreateTagHelper",
+            "QMetaType",
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+            "RefNanny",
+            "\u0434\u0440\u0443\u0433",
+            "\u2581Walkover"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "makers",
+            "hts",
+            "maker",
+            "fisher",
+            "stown",
+            "Pin",
+            "size",
+            "\u2581lear"
+        ],
+        "description": "references to royalty, specifically kings and queens"
+    },
+    {
+        "index": "9422",
+        "layer": "37-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_9422.json",
+        "negative_strings": [
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+            "\u2581CreateTagHelper",
+            "IBOutlet",
+            "yntaxException",
+            "principalColumn",
+            "AISSEE",
+            "PostInfinity",
+            "\u2581BoxFit",
+            "isContained"
+        ],
+        "positive_strings": [
+            "pin",
+            "fisher",
+            "\u2581Kong",
+            "Kong",
+            "pins",
+            "maker",
+            "\u2581kong",
+            "size",
+            "\u2581Lear",
+            "\u2581LEAR"
+        ],
+        "description": "references to kings and monarchs"
+    },
+    {
+        "index": "9356",
+        "layer": "38-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_9356.json",
+        "negative_strings": [
+            "\u2581BoxFit",
+            "yntaxException",
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+            "\u2581CreateTagHelper",
+            "principalColumn",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\uf8fb",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "Diwedd",
+            "findOrFail"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "\u2581Kong",
+            "fisher",
+            "Kong",
+            "makers",
+            "maker",
+            "\u2581kong",
+            "\u2581Lear",
+            "\u2581lear"
+        ],
+        "description": "references to kings and monarchs"
+    },
+    {
+        "index": "120745",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_120745.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Possessive suffixes (\"'s\") and nouns referring to people in positions of power or nobility (Kings, Queens, Presidents) as well as common nouns (Kids)."
+    },
+    {
+        "index": "2998",
+        "layer": "36-gemmascope-res-16k",
+        "url": "json/gemma-scope/king/data_for_feature_2998.json",
+        "negative_strings": [
+            "principalColumn",
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+            "PostInfinity",
+            "\uf8fb",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581nonUne",
+            "\u2581beginnetje",
+            "\u2581CreateTagHelper",
+            "tagHelperRunner"
+        ],
+        "positive_strings": [
+            "Kong",
+            "pin",
+            "\u2581Kong",
+            "\u2581kong",
+            "King",
+            "pins",
+            "fisher",
+            "\u2581King",
+            "\u2581saud",
+            "\u2581koning"
+        ],
+        "description": "references to kings or monarchy-related figures"
+    },
+    {
+        "index": "127421",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_127421.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Titles of nobility or honorifics, such as King, Queen, Emperor, and Prince, often used to refer to people of high status or authority."
+    },
+    {
+        "index": "100567",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_100567.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles of nobility, titles, or royalty, often denoted by terms such as \"Duke\", \"Duchess\", \"Prince\", \"Princess\", \"Marquis\", and \"King\", usually preceding a surname or a geographical location."
+    },
+    {
+        "index": "129590",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/king/data_for_feature_129590.json",
+        "negative_strings": [
+            "yntaxException",
+            "QMetaType",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "ni\u0161t",
+            "Reducers",
+            "ArgsConstructor",
+            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
+            "\u2581BoxFit",
+            "AISSEE",
+            "th\u00e2u"
+        ],
+        "positive_strings": [
+            "horn",
+            "tees",
+            "span",
+            "\u2581Edward",
+            "\u2581Abdullah",
+            "\u2581Abdu",
+            "fish",
+            "standing",
+            "\u2581Stur",
+            "\u2581Saud"
+        ],
+        "description": "the mention of the word \"King.\""
+    },
+    {
+        "index": "92329",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/king/data_for_feature_92329.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, particularly names of famous people, often referencing the \"King\" (presumably Elvis Presley or Michael Jackson), and occasionally referencing other notable figures, geographical locations, and dates."
+    },
+    {
+        "index": "3561",
+        "layer": "25-gemmascope-res-65k",
+        "url": "json/gemma-scope/king/data_for_feature_3561.json",
+        "negative_strings": [
+            "fromnode",
+            "\u062d\u064a\u0627\u062a\u0647",
+            "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u0915",
+            "windowFixed",
+            "epam",
+            "PickerController",
+            "\u062d\u064a\u0627\u062a\u0647\u0627",
+            "\u2581'\\\\;'",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "reactivex"
+        ],
+        "positive_strings": [
+            "fisher",
+            "pin",
+            "\u2581Kong",
+            "pins",
+            "hts",
+            "\u2581lear",
+            "dome",
+            "Kong",
+            "fish",
+            "size"
+        ],
+        "description": " references to individuals with the title \"King.\""
+    },
+    {
+        "index": "87404",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/king/data_for_feature_87404.json",
+        "negative_strings": [
+            "ArgsConstructor",
+            "\u2581BoxFit",
+            "ni\u0161t",
+            "yntaxException",
+            "QMetaType",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "Reducers",
+            "tangentMode",
+            "\u2581betweenstory",
+            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f"
+        ],
+        "positive_strings": [
+            "tees",
+            "\u2581Edward",
+            "\u2581jouet",
+            "stree",
+            "horn",
+            "\u2581Princesa",
+            "\u2581Abdullah",
+            "\u2581Princess",
+            "\u2581Abdu",
+            "\u2581Saud"
+        ],
+        "description": " mentions of the word \"King\""
+    }
+]

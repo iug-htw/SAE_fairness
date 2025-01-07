@@ -1,0 +1,92 @@
+[
+    {
+        "index": "21485",
+        "layer": "2-llamascope-res-32k",
+        "url": "json/llama-scope/halal/data_for_feature_21485.json",
+        "negative_strings": [
+            "OMB",
+            "uzu",
+            "\u00ed\u0134\u012a",
+            "\u00d0\u00bf\u00d0\u00b5\u00d1\u0129",
+            "529",
+            "skin",
+            "aN",
+            "angan",
+            "crm",
+            ".LayoutStyle"
+        ],
+        "positive_strings": [
+            "ritz",
+            "Trait",
+            " imper",
+            "iba",
+            " Cannon",
+            "zig",
+            "rias",
+            " Gig",
+            "Exact",
+            "lien"
+        ],
+        "description": " terms related to halal cuisine and practices"
+    },
+    {
+        "index": "7935",
+        "layer": "2-llamascope-mlp-32k",
+        "url": "json/llama-scope/halal/data_for_feature_7935.json",
+        "negative_strings": [
+            ").__",
+            "\u00e8\u00b0\u00b7",
+            "enie",
+            "chaft",
+            "/GPL",
+            "brig",
+            " \u00e9\u013a",
+            "r\u00c3\u00a1l",
+            "\u00d9\u0129\u00d9\u012a\u00d8\u00b1\u00db\u012e",
+            "CDATA"
+        ],
+        "positive_strings": [
+            "ELLOW",
+            "utow",
+            "sworth",
+            "ruh",
+            "rou",
+            " Gee",
+            "rod",
+            "ylon",
+            " Term",
+            "ges"
+        ],
+        "description": "references to the term \"halal\" and its derivatives"
+    },
+    {
+        "index": "28973",
+        "layer": "2-llamascope-mlp-32k",
+        "url": "json/llama-scope/halal/data_for_feature_28973.json",
+        "negative_strings": [
+            "<?,",
+            "hart",
+            " Chall",
+            "mrt",
+            "iture",
+            "\u00e5\u00b9\u00b2",
+            " bordel",
+            " Madden",
+            "enance",
+            "\u00e3\u0125\u0132\u00e3\u0125\u00bc"
+        ],
+        "positive_strings": [
+            " Ney",
+            "owler",
+            "anela",
+            "\u00d8\u00b4\u00d8\u00aa",
+            "Orm",
+            " Dawn",
+            "eyn",
+            "\u00e8\u013d\u0129",
+            "iez",
+            "\u00ce\u00b3\u00ce\u00ae"
+        ],
+        "description": "words related to halal dietary practices"
+    }
+]

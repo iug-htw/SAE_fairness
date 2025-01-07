@@ -1,0 +1,602 @@
+[
+    {
+        "index": "30998",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_30998.json",
+        "negative_strings": [
+            "allo",
+            "PickerController",
+            " Sant",
+            "sworth",
+            "ariat",
+            "azo",
+            "basket",
+            "lettes",
+            " Brid",
+            " FindObjectOfType"
+        ],
+        "positive_strings": [
+            " poly",
+            " inf",
+            " disbelief",
+            "poly",
+            " Inf",
+            " Poly",
+            " idol",
+            " unbelie",
+            "Poly",
+            " apost"
+        ],
+        "description": " references to the experiences and challenges faced by Muslim communities in relation to migration and cultural practices"
+    },
+    {
+        "index": "89594",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_89594.json",
+        "negative_strings": [
+            "ancement",
+            "top",
+            "\u00e3\u0123\u012d\u00e3\u0123\u0133",
+            "ehler",
+            "time",
+            "alsa",
+            "\u00d9\u012a\u00d8\u00a8\u00db\u012e",
+            "rowth",
+            "ength",
+            "\u00d1\u012e\u00d0\u00be\u00d0\u00b3\u00d0\u00be\u00d0\u00b4"
+        ],
+        "positive_strings": [
+            "belie",
+            "-bel",
+            "-Muslim",
+            "Bel",
+            " believer",
+            "agen",
+            " Bel",
+            ".bel",
+            "resident",
+            " believers"
+        ],
+        "description": "references to non-Muslim individuals or groups in relation to Islamic contexts"
+    },
+    {
+        "index": "2231",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_2231.json",
+        "negative_strings": [
+            "otp",
+            "allen",
+            "/facebook",
+            "entifier",
+            " {*",
+            "odings",
+            "\u00d1\u0128\u00d0\u00be",
+            "\u00d9\u0131\u00d9\u0127",
+            "eck",
+            "\u00e3\u0125\u012f\u00e3\u0125\u00ab"
+        ],
+        "positive_strings": [
+            "ites",
+            "ite",
+            "achat",
+            "cite",
+            "itte",
+            "ITE",
+            "ITES",
+            "ism",
+            "\u00c3\u0143te",
+            "iasm"
+        ],
+        "description": " references to specific religious or sectarian identities, particularly related to Shiite Muslims"
+    },
+    {
+        "index": "118444",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_118444.json",
+        "negative_strings": [
+            " Muslims",
+            "egl",
+            " MUSIC",
+            " muscles",
+            " \u00c4\u00b0slam",
+            "edor",
+            "isel",
+            "Muslim",
+            "nothrow",
+            "entes"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "ah",
+            "-Christian",
+            "-dominated",
+            "-owned",
+            "-American",
+            " majority",
+            "-Americans",
+            "a"
+        ],
+        "description": " references to Islam and Muslim-related themes, often highlighting extremist ideologies and group associations"
+    },
+    {
+        "index": "29255",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_29255.json",
+        "negative_strings": [
+            "tat",
+            "issan",
+            "\u00a1",
+            "h",
+            "t",
+            "tion",
+            "ing",
+            "tir",
+            "\u00c3\u00b8j",
+            " Thornton"
+        ],
+        "positive_strings": [
+            "quer",
+            "_makeConstraints",
+            "jid",
+            "chine",
+            "sey",
+            "_equalTo",
+            "lacak",
+            ".mas",
+            " Mas",
+            "\u00c3\u00bcst\u00c3\u00bc"
+        ],
+        "description": "the term \"Masjid\" and its variations, indicating a focus on places of worship in the Muslim community"
+    },
+    {
+        "index": "15593",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_15593.json",
+        "negative_strings": [
+            " Muslims",
+            " Buddhism",
+            " \u00c4\u00b0slam",
+            "Muslim",
+            " MUSIC",
+            "egl",
+            "----------------------------------------------------------------------\n",
+            "ENU",
+            ".localization",
+            " muslim"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "ah",
+            "-Christian",
+            " majority",
+            "-dominated",
+            "-American",
+            "-owned",
+            " fundamental",
+            "ified"
+        ],
+        "description": " references to Muslim identity and related groups or concepts"
+    },
+    {
+        "index": "27243",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_27243.json",
+        "negative_strings": [
+            " Muslims",
+            " Muslim",
+            " \u00c4\u00b0slam",
+            " Islam",
+            "Muslim",
+            " Buddhism",
+            " muslim",
+            "Islam",
+            "Islamic",
+            " Judaism"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "-Christian",
+            "ah",
+            "-owned",
+            "-dominated",
+            " majority",
+            "/non",
+            " fundamental",
+            "-background"
+        ],
+        "description": "references to Islamic and Muslim-related terms"
+    },
+    {
+        "index": "15308",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_15308.json",
+        "negative_strings": [
+            " Muslims",
+            "Muslim",
+            " Blank",
+            " Islam",
+            "USIC",
+            " blank",
+            " Muslim",
+            " muslim",
+            "egl",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00b1"
+        ],
+        "positive_strings": [
+            "-major",
+            "-Christian",
+            " fundamental",
+            " Brotherhood",
+            "abad",
+            " holy",
+            "-West",
+            "aph",
+            "/M",
+            " cler"
+        ],
+        "description": " references to Islamic or Muslim identity and concepts"
+    },
+    {
+        "index": "10199",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_10199.json",
+        "negative_strings": [
+            " Muslims",
+            "Muslim",
+            " Muslim",
+            " muslim",
+            " Buddhism",
+            " \u00c4\u00b0slam",
+            "egl",
+            " Islam",
+            " MUSIC",
+            "imus"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "ah",
+            "-Christian",
+            " majority",
+            "/non",
+            "-owned",
+            " faith",
+            "major",
+            "ischer"
+        ],
+        "description": "references to Muslims and associated terms, highlighting discussions around identity and societal roles"
+    },
+    {
+        "index": "110028",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_110028.json",
+        "negative_strings": [
+            "\u00ce\u00b3\u00ce\u00ba\u00ce\u00b1",
+            " Redistributions",
+            "amm",
+            " localize",
+            " retire",
+            " retiring",
+            "ugas",
+            "SWG",
+            "gfx",
+            " BindingFlags"
+        ],
+        "positive_strings": [
+            " visa",
+            " entry",
+            " nationals",
+            " travel",
+            " Visa",
+            " majority",
+            " Entry",
+            "Entry",
+            " terror",
+            "entry"
+        ],
+        "description": " references to travel restrictions affecting predominantly Muslim countries"
+    },
+    {
+        "index": "25326",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_25326.json",
+        "negative_strings": [
+            " Muslims",
+            " Muslim",
+            "Muslim",
+            " muslim",
+            " \u00c4\u00b0slam",
+            " Islam",
+            " Buddhism",
+            " Catholic",
+            " Judaism",
+            "Islamic"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "-Christian",
+            " majority",
+            " fundamental",
+            "ah",
+            "/non",
+            " cler",
+            "-dominated",
+            "major"
+        ],
+        "description": "references to Muslim identity and culture"
+    },
+    {
+        "index": "5386",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_5386.json",
+        "negative_strings": [
+            " Muslims",
+            " Muslim",
+            " Islam",
+            "Muslim",
+            " muslim",
+            " \u00c4\u00b0slam",
+            " Buddhism",
+            "Islamic",
+            "Islam",
+            " Islamic"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "-major",
+            "-Christian",
+            "ah",
+            "/non",
+            " majority",
+            "isches",
+            " fundamental",
+            "ischer",
+            " cler"
+        ],
+        "description": "references to Muslims and Islamic identity, often with negative connotations"
+    },
+    {
+        "index": "15757",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_15757.json",
+        "negative_strings": [
+            " Muslims",
+            " Islam",
+            " Muslim",
+            " \u00c4\u00b0slam",
+            " muslim",
+            " Buddhism",
+            "Islamic",
+            "Muslim",
+            " Islamic",
+            " Catholic"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            " majority",
+            "-Christian",
+            " fundamental",
+            " cler",
+            "\u00e5\u00be\u0134",
+            "/non",
+            "ah",
+            "ischer"
+        ],
+        "description": "references to Muslim identity and related cultural elements"
+    },
+    {
+        "index": "86710",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_86710.json",
+        "negative_strings": [
+            " Muslims",
+            " Muslim",
+            "Muslim",
+            " muslim",
+            " Buddhism",
+            " Catholic",
+            " \u00c4\u00b0slam",
+            "ENU",
+            "egl",
+            " Islam"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "-Christian",
+            " majority",
+            "ah",
+            "/non",
+            "ified",
+            " fundamental",
+            "major",
+            "abad"
+        ],
+        "description": " references to the Muslim community and related terms"
+    },
+    {
+        "index": "80513",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_80513.json",
+        "negative_strings": [
+            ".ibm",
+            "inki",
+            "Australian",
+            "Margins",
+            "\u00e9\u013a\u0127\u00e8\u00af\u00bb\u00e6\u00ac\u00a1\u00e6\u0137\u00b0",
+            " stockholm",
+            " utrecht",
+            "zers",
+            " Localization",
+            "Localized"
+        ],
+        "positive_strings": [
+            " war",
+            " Somalia",
+            " backgrounds",
+            " origin",
+            " conflict",
+            " origins",
+            "-war",
+            " origen",
+            " places",
+            " Syria"
+        ],
+        "description": "references to immigration and its demographic characteristics, particularly concerning Muslim and Syrian individuals"
+    },
+    {
+        "index": "6234",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_6234.json",
+        "negative_strings": [
+            " Krishna",
+            "anse",
+            " Krish",
+            " baptized",
+            " Amit",
+            "ellen",
+            " bapt",
+            " \u00d9\u0124\u00d8\u00a7\u00d8\u00af\u00d8\u00b1",
+            "arian",
+            " opr"
+        ],
+        "positive_strings": [
+            " etiqu",
+            " Tas",
+            " tas",
+            " Zak",
+            " salah",
+            " juris",
+            " Sala",
+            "Narrated",
+            " rulings",
+            " Shay"
+        ],
+        "description": " expressions related to Muslim identity and community issues"
+    },
+    {
+        "index": "56639",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_56639.json",
+        "negative_strings": [
+            "\u00d0\u00b0\u00d0\u00bd\u00d0\u00b8\u00d1\u0128",
+            "_NON",
+            "ehler",
+            "ahun",
+            " uncon",
+            "\u00d9\u0123\u00d8\u00b4",
+            " many",
+            " non",
+            "gaard",
+            ".px"
+        ],
+        "positive_strings": [
+            "agen",
+            "-A",
+            "-native",
+            "native",
+            "binary",
+            "-J",
+            "-L",
+            "-M",
+            "-white",
+            "white"
+        ],
+        "description": " references to non-Muslims and discussions about their experiences or perspectives"
+    },
+    {
+        "index": "127726",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/muslim/data_for_feature_127726.json",
+        "negative_strings": [
+            " Buddhism",
+            "\u00e4\u00be\u00bf",
+            ".localization",
+            " Judaism",
+            "nici",
+            "ibold",
+            "hta",
+            " Catholic",
+            "HT",
+            " Hindus"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            "-owned",
+            " majority",
+            "/non",
+            "ischer",
+            "major",
+            "ah",
+            "-Christian",
+            "-friendly"
+        ],
+        "description": " terms related to Muslims and Islamic organizations"
+    },
+    {
+        "index": "18433",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_18433.json",
+        "negative_strings": [
+            " Catholic",
+            " Buddhism",
+            " th\u00e1\u00bb\u00a9c",
+            " Judaism",
+            " Lutheran",
+            "nici",
+            " jewish",
+            "ially",
+            "rowned",
+            "ODE"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            " majority",
+            "/non",
+            "\u00e5\u00be\u0134",
+            "-Americans",
+            "ophobic",
+            "-American",
+            " Majority",
+            "ischer"
+        ],
+        "description": "references to Islamic and Muslim identities or concepts"
+    },
+    {
+        "index": "27344",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/muslim/data_for_feature_27344.json",
+        "negative_strings": [
+            " Krishna",
+            " bapt",
+            " baptized",
+            " Bapt",
+            " Krish",
+            " Armenian",
+            " christ",
+            " Israel",
+            " Baptist",
+            "anse"
+        ],
+        "positive_strings": [
+            " tas",
+            " Hij",
+            " Tas",
+            " Minh",
+            " mush",
+            " Shay",
+            " etiqu",
+            " Isl",
+            " Zak",
+            " salah"
+        ],
+        "description": " discussions related to community growth and unity among Muslims"
+    }
+]

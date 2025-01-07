@@ -1,0 +1,26 @@
+[
+    {
+        "index": "233968",
+        "layer": "23-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/homophob/data_for_feature_233968.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"hom\" is often found in various words or phrases, including \"homestead\", \"homosexuality\", \"homophobic\", and other related words, which often have to do with sexuality or a place of residence."
+    },
+    {
+        "index": "164710",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/homophob/data_for_feature_164710.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The text contains various examples of words or phrases that may be considered sensitive, inappropriate, or potentially objectionable, including those that are offensive, racist, sexist, homophobic, or violent."
+    },
+    {
+        "index": "61492",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/homophob/data_for_feature_61492.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The presence of the prefix \"hom\" often in words related to home or homeward movement, often seen in words such as home, homestead, homeward, and homophobic, as well as a homophone in the word homocysteine."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "index": "68672",
+        "layer": "8-llamascope-res-131k",
+        "url": "json/llama-scope/homophob/data_for_feature_68672.json",
+        "negative_strings": [
+            "ewise",
+            "ordinal",
+            " pageTitle",
+            "exo",
+            "ureau",
+            " Wikip",
+            "ritch",
+            "rippling",
+            "ousel",
+            " copyrighted"
+        ],
+        "positive_strings": [
+            "ayah",
+            "ekt",
+            "atro",
+            "untu",
+            "elic",
+            "ivas",
+            " classical",
+            "utra",
+            "irk",
+            "anie"
+        ],
+        "description": " derogatory racial and homophobic terms"
+    },
+    {
+        "index": "66056",
+        "layer": "2-llamascope-res-131k",
+        "url": "json/llama-scope/homophob/data_for_feature_66056.json",
+        "negative_strings": [
+            "ennie",
+            "rift",
+            "\u00e0\u00a4\u00b6\u00e0\u00a4\u0137",
+            "enheim",
+            " Parenthood",
+            "bic",
+            ".sharedInstance",
+            " verr",
+            " Tor",
+            "emet"
+        ],
+        "positive_strings": [
+            "tuk",
+            "reso",
+            "ired",
+            "FIELDS",
+            "icky",
+            "SKI",
+            "aid",
+            "ulp",
+            "\u00d8\u00b1\u00d8\u00af\u00d9\u0129",
+            "ango"
+        ],
+        "description": " instances of the word \"homophobic\" and related contextual phrases"
+    },
+    {
+        "index": "124608",
+        "layer": "10-llamascope-res-131k",
+        "url": "json/llama-scope/homophob/data_for_feature_124608.json",
+        "negative_strings": [
+            " naken",
+            "\u00e6\u0123\u00af",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u00a8\u00e0\u00b8\u00a9",
+            "peria",
+            "bear",
+            "allo",
+            "erken",
+            "/Home",
+            "ollider",
+            " Ethnic"
+        ],
+        "positive_strings": [
+            " Mehr",
+            "izr",
+            "rum",
+            "alue",
+            "iture",
+            " Rune",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b0",
+            "AVIS",
+            "aved",
+            "851"
+        ],
+        "description": " topics related to LGBTQ+ rights and issues, particularly focusing on homophobic violence and opposition to marriage equality"
+    },
+    {
+        "index": "31893",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/homophob/data_for_feature_31893.json",
+        "negative_strings": [
+            " par",
+            "ullan",
+            " tun",
+            "rray",
+            "illo",
+            "avanaugh",
+            "\u00e3\u0123\u00b0",
+            "ilda",
+            "ulas",
+            "rzy"
+        ],
+        "positive_strings": [
+            "\u00ef\u00bd\u00a5",
+            "\u00c3\u00a1zi",
+            "pitch",
+            " Vaults",
+            "etri",
+            ".Sin",
+            " cutting",
+            "ya",
+            " Cutting",
+            "obel"
+        ],
+        "description": " references to homophobic violence or discrimination"
+    }
+]

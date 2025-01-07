@@ -1,0 +1,602 @@
+[
+    {
+        "index": "16260",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_16260.json",
+        "negative_strings": [
+            "dfa",
+            "\u00eb\u00a1\u013e\u00ec\u0126\u013e",
+            "dar",
+            "dan",
+            "ustin",
+            "tier",
+            ".Formatter",
+            "tte",
+            "gf",
+            "enaire"
+        ],
+        "positive_strings": [
+            "thesize",
+            "thesis",
+            "apse",
+            "apses",
+            "theses",
+            "thesized",
+            "thetic",
+            "cret",
+            "optic",
+            "esthesia"
+        ],
+        "description": "references to synagogues or related concepts"
+    },
+    {
+        "index": "8617",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_8617.json",
+        "negative_strings": [
+            "dfa",
+            ".scalablytyped",
+            "veal",
+            "\u00eb\u00a1\u013e\u00ec\u0126\u013e",
+            "tier",
+            "ziej",
+            "\u00ce\u00b9\u00ce\u00b1\u00ce\u00bd",
+            "\u00eb\u00a1\u013e",
+            "df",
+            "atin"
+        ],
+        "positive_strings": [
+            "thesize",
+            "apse",
+            "apses",
+            "thesis",
+            "thetic",
+            "thesized",
+            "cret",
+            "onymous",
+            "thes",
+            "onym"
+        ],
+        "description": " words related to synagogues and concepts associated with them"
+    },
+    {
+        "index": "3525",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_3525.json",
+        "negative_strings": [
+            "amoto",
+            "atin",
+            "LO",
+            "iform",
+            " Burk",
+            ".scalablytyped",
+            "veal",
+            "752",
+            "otify",
+            "itura"
+        ],
+        "positive_strings": [
+            "apse",
+            "thetic",
+            "thesize",
+            "onyms",
+            "apses",
+            "onym",
+            "posium",
+            "cret",
+            "thesis",
+            "aptic"
+        ],
+        "description": " words related to synagogues and related religious or spiritual terms"
+    },
+    {
+        "index": "22778",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_22778.json",
+        "negative_strings": [
+            "dfa",
+            "itura",
+            "752",
+            "PEAR",
+            "atin",
+            "ired",
+            " Burk",
+            "\u00e0\u00b9\u012a\u00e0\u00b8\u00b2\u00e0\u00b8\u013b",
+            "ican",
+            "amoto"
+        ],
+        "positive_strings": [
+            "apse",
+            "thesis",
+            "cret",
+            "thesize",
+            "apses",
+            "onyms",
+            "onym",
+            "thes",
+            "OPSIS",
+            "onymous"
+        ],
+        "description": "references to synagogues and related themes in religious contexts"
+    },
+    {
+        "index": "32550",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_32550.json",
+        "negative_strings": [
+            " Burk",
+            "amoto",
+            "atin",
+            "itura",
+            "LO",
+            "vais",
+            "752",
+            "irates",
+            "oux",
+            " Eug"
+        ],
+        "positive_strings": [
+            "apse",
+            "aptic",
+            "apses",
+            "thesize",
+            "thetic",
+            "thesis",
+            "cret",
+            "apt",
+            "opsis",
+            "onyms"
+        ],
+        "description": "references to synagogues or synod structures in religious contexts"
+    },
+    {
+        "index": "26860",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_26860.json",
+        "negative_strings": [
+            "amoto",
+            "atin",
+            "LO",
+            "itura",
+            " Burk",
+            "ired",
+            "tep",
+            "veal",
+            "831",
+            "\u00cf\u0128\u00ce\u00bf\u00cf\u0123"
+        ],
+        "positive_strings": [
+            "apse",
+            "thesize",
+            "thetic",
+            "aptic",
+            "apses",
+            "apt",
+            "cret",
+            "opsis",
+            "thesis",
+            "OPSIS"
+        ],
+        "description": "references to synagogues"
+    },
+    {
+        "index": "9353",
+        "layer": "23-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_9353.json",
+        "negative_strings": [
+            "amoto",
+            "atin",
+            "LO",
+            "tep",
+            "ilk",
+            "ired",
+            "741",
+            "vais",
+            "baugh",
+            "tons"
+        ],
+        "positive_strings": [
+            "apse",
+            "thesize",
+            "thetic",
+            "aptic",
+            "cret",
+            "opsis",
+            "apses",
+            "thesis",
+            "thesized",
+            "OPSIS"
+        ],
+        "description": "\"synagogue-related\" terms and concepts"
+    },
+    {
+        "index": "15854",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_15854.json",
+        "negative_strings": [
+            "veal",
+            "vais",
+            "\u00e1\u00bb\u0131",
+            "amoto",
+            "ired",
+            "iao",
+            "itura",
+            "oux",
+            "atin",
+            "legation"
+        ],
+        "positive_strings": [
+            "apse",
+            "thetic",
+            "thesize",
+            "aptic",
+            "cret",
+            "apses",
+            "thesized",
+            "OPSIS",
+            "onymous",
+            "apt"
+        ],
+        "description": " references to synagogues and their significance"
+    },
+    {
+        "index": "12613",
+        "layer": "21-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_12613.json",
+        "negative_strings": [
+            "atin",
+            "iao",
+            "tep",
+            "vais",
+            "veal",
+            "igans",
+            "/il",
+            "\u00e1\u00bb\u0131",
+            "amoto",
+            " cours"
+        ],
+        "positive_strings": [
+            "apse",
+            "thetic",
+            "thesize",
+            "thesized",
+            "aptic",
+            "apses",
+            "\u00d9\u0129",
+            "OPSIS",
+            "agogue",
+            "onymous"
+        ],
+        "description": " references to synagogues and related terms in a historical or cultural context"
+    },
+    {
+        "index": "9095",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_9095.json",
+        "negative_strings": [
+            " Odin",
+            "usercontent",
+            "edii",
+            "olulu",
+            " Tracy",
+            "jango",
+            "adress",
+            "WARDS",
+            ".truth",
+            "adro"
+        ],
+        "positive_strings": [
+            " Ein",
+            " Scrolls",
+            "Ein",
+            " Dead",
+            " Mish",
+            " tel",
+            " Jordan",
+            " Qed",
+            " Mas",
+            " Mig"
+        ],
+        "description": "references to ancient Jewish synagogues and their associated symbols"
+    },
+    {
+        "index": "9235",
+        "layer": "20-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_9235.json",
+        "negative_strings": [
+            "amoto",
+            "iform",
+            "veal",
+            "atin",
+            "uzu",
+            "Metal",
+            "anteed",
+            "oux",
+            "UV",
+            "\u00d0\u00bd\u00d0\u00be\u00d1\u0129"
+        ],
+        "positive_strings": [
+            "apse",
+            "thesize",
+            "aps",
+            "onyms",
+            "thetic",
+            "onym",
+            "esthesia",
+            ".syn",
+            "cret",
+            " SYN"
+        ],
+        "description": "terms related to synagogues and their architectural or cultural aspects"
+    },
+    {
+        "index": "117970",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/synagogue/data_for_feature_117970.json",
+        "negative_strings": [
+            "\u00ce\u00af\u00ce\u00bd\u00ce\u00b7",
+            "zie",
+            "gaard",
+            "je",
+            "isers",
+            "\u00ec\u0142\u0122",
+            "isman",
+            "lesh",
+            " Toilet",
+            "usable"
+        ],
+        "positive_strings": [
+            "agogue",
+            "agog",
+            "ago",
+            "ogue",
+            "odal",
+            "od",
+            "tember",
+            " Temple",
+            "agua",
+            " temple"
+        ],
+        "description": " references to synagogues and syncretism in religious contexts"
+    },
+    {
+        "index": "21336",
+        "layer": "19-llamascope-res-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_21336.json",
+        "negative_strings": [
+            "\u00e6\u00b4\u00a5",
+            "weg",
+            "loff",
+            "amoto",
+            "iform",
+            "oux",
+            "veal",
+            "ennon",
+            "idge",
+            "Metal"
+        ],
+        "positive_strings": [
+            "apse",
+            "onym",
+            "onyms",
+            "thesize",
+            "aptic",
+            "aps",
+            "apses",
+            "thetic",
+            "onymous",
+            "posium"
+        ],
+        "description": " references to synagogues and related religious or cultural themes"
+    },
+    {
+        "index": "19381",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/synagogue/data_for_feature_19381.json",
+        "negative_strings": [
+            "ORM",
+            "orman",
+            "ieres",
+            "\u00ec\u0142\u0122",
+            "irs",
+            "\u00ce\u00af\u00ce\u00bd\u00ce\u00b7",
+            "illy",
+            "gaard",
+            "BT",
+            "isers"
+        ],
+        "positive_strings": [
+            "od",
+            "agogue",
+            "odal",
+            "agog",
+            "ods",
+            "\u00d0\u00be\u00d0\u00b4\u00d1\u0125",
+            "odo",
+            "ago",
+            "ode",
+            "axis"
+        ],
+        "description": " occurrences of religious terminology, particularly related to synagogues and syncretism"
+    },
+    {
+        "index": "2299",
+        "layer": "28-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_2299.json",
+        "negative_strings": [
+            "elay",
+            "cente",
+            "ivos",
+            "ibal",
+            "PTY",
+            " Tomb",
+            " Comb",
+            "anko",
+            "allas",
+            "ifi"
+        ],
+        "positive_strings": [
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0138",
+            "\u00e5\u0135\u00a1",
+            "ather",
+            " branded",
+            "/stdc",
+            " Nic",
+            "hev",
+            " \u00d8\u00b4\u00d8\u00b9",
+            "\u00ce\u00bf\u00cf\u0127",
+            ".codehaus"
+        ],
+        "description": " terms related to synagogues or synaptic connections"
+    },
+    {
+        "index": "31433",
+        "layer": "23-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_31433.json",
+        "negative_strings": [
+            "ourn",
+            "spiel",
+            "\u00e8\u012f\u00b7",
+            "945",
+            "_REGEX",
+            "\u00ce\u00b5\u00ce\u00bb",
+            "831",
+            " defaultProps",
+            "li\u00c4\u012f",
+            "zza"
+        ],
+        "positive_strings": [
+            "thesis",
+            "eyed",
+            "\u00e5\u012e",
+            "YLON",
+            "pector",
+            "oyer",
+            "estre",
+            "ptime",
+            "veys",
+            "\u00e1\u00ba\u00bd"
+        ],
+        "description": " occurrences of the term \"synagogue\" and related variations, as well as concepts associated with syncretism"
+    },
+    {
+        "index": "21805",
+        "layer": "26-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_21805.json",
+        "negative_strings": [
+            " SYN",
+            " Smy",
+            "sync",
+            " Syn",
+            "opor",
+            "syn",
+            "ToString",
+            " synth",
+            "searchModel",
+            "iki"
+        ],
+        "positive_strings": [
+            "axon",
+            "anos",
+            "onomy",
+            "onomous",
+            "byt",
+            "assi",
+            "ADATA",
+            "adata",
+            "\u00ea\u00b3\u00a4",
+            "chat"
+        ],
+        "description": " mentions of \"synagogue\" or related terms"
+    },
+    {
+        "index": "29101",
+        "layer": "21-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_29101.json",
+        "negative_strings": [
+            "\u00e1\u00bb\u00b9",
+            "iyel",
+            "iros",
+            "onna",
+            ".sul",
+            "\u00d8\u00a8\u00db\u012e\u00d9\u0128",
+            " Xu\u00c3\u00a2n",
+            " EB",
+            " slur",
+            "lew"
+        ],
+        "positive_strings": [
+            "apse",
+            "\u0142",
+            "\u00c5\u00afr",
+            " Urb",
+            "apses",
+            "FileSystem",
+            "ahun",
+            "ouch",
+            "aggable",
+            "etch"
+        ],
+        "description": "references to synagogues or related religious concepts"
+    },
+    {
+        "index": "11166",
+        "layer": "27-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_11166.json",
+        "negative_strings": [
+            "iem",
+            "erald",
+            "iez",
+            "ierz",
+            "ieres",
+            "letes",
+            "acin",
+            "gz",
+            " susp",
+            " Impact"
+        ],
+        "positive_strings": [
+            "rawer",
+            "resco",
+            " agre",
+            "SystemService",
+            "\u00ec\u013f\u00b4\u00ec\u012c\u00a4",
+            "andle",
+            "uppen",
+            " Ses",
+            "\u00e7\u00ab",
+            "\u00eb\u0142\u00a8"
+        ],
+        "description": "references to synagogues and related concepts within Jewish culture"
+    },
+    {
+        "index": "23024",
+        "layer": "25-llamascope-mlp-32k",
+        "url": "json/llama-scope/synagogue/data_for_feature_23024.json",
+        "negative_strings": [
+            "oser",
+            "dm",
+            " charge",
+            " charges",
+            " div",
+            " sui",
+            " Manning",
+            "kil",
+            " charged",
+            " Grove"
+        ],
+        "positive_strings": [
+            "ovu",
+            " zev",
+            "EGA",
+            "acen",
+            " Mein",
+            "wind",
+            "SOC",
+            " \u00d0\u00bf\u00d0\u00be\u00d1\u0122",
+            "enos",
+            "/sdk"
+        ],
+        "description": " variations of the word 'synagogue.'"
+    }
+]

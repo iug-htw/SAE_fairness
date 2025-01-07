@@ -1,0 +1,602 @@
+[
+    {
+        "index": "39995",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_39995.json",
+        "negative_strings": [
+            "\u00e3\u0125\u0135",
+            "pmwiki",
+            "\u00e3\u0124\u00b6",
+            "isite",
+            "lain",
+            "rw",
+            "rador",
+            "urst",
+            "mble",
+            "orph"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Himself",
+            " Jesus",
+            "Christ",
+            "'",
+            " Savior",
+            " Messiah",
+            " CHRIST",
+            " apostles",
+            "Jesus"
+        ],
+        "description": "references to Jesus Christ and related theological concepts"
+    },
+    {
+        "index": "44169",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_44169.json",
+        "negative_strings": [
+            "pmwiki",
+            "isite",
+            "\u00e3\u0124\u00b6",
+            "\u00e3\u0124\u00aa",
+            "\u00e3\u0125\u0135",
+            "rw",
+            "lain",
+            "rador",
+            "stable",
+            "ugal"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            " Himself",
+            "Christ",
+            " Savior",
+            " Messiah",
+            " CHRIST",
+            " Lizard",
+            " Skywalker",
+            " apostles"
+        ],
+        "description": " references to Jesus and Christianity"
+    },
+    {
+        "index": "3499",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_3499.json",
+        "negative_strings": [
+            "ROR",
+            "okemon",
+            "anwhile",
+            "\"]=>",
+            " Cheong",
+            " Lima",
+            "TOR",
+            "ratulations",
+            "amina",
+            "ickr"
+        ],
+        "positive_strings": [
+            "frey",
+            " Almighty",
+            " Himself",
+            "father",
+            "win",
+            "liness",
+            "mother",
+            " Bless",
+            "parents",
+            "olphin"
+        ],
+        "description": "references to religious beliefs and figures, particularly God and Jesus"
+    },
+    {
+        "index": "41514",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_41514.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "ateur",
+            "ugal",
+            "ANY",
+            "\u00e6\u00a9\u0141",
+            "urst",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "pmwiki",
+            "idges",
+            "orph"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            " Himself",
+            "inez",
+            " Savior",
+            " Messiah",
+            " Isa",
+            " Skywalker",
+            " Ramirez",
+            " Doodle"
+        ],
+        "description": "references to Jesus Christ and related religious concepts"
+    },
+    {
+        "index": "5776",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_5776.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "ateur",
+            "ugal",
+            "urst",
+            "\u00e6\u00a9\u0141",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "ANY",
+            "pmwiki",
+            "orph",
+            "rw"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            " Himself",
+            " Savior",
+            "inez",
+            " Messiah",
+            " Skywalker",
+            " Isa",
+            " Ramirez",
+            " Doodle"
+        ],
+        "description": "references to religious figures and biblical themes surrounding Jesus Christ"
+    },
+    {
+        "index": "1954",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_1954.json",
+        "negative_strings": [
+            "Downloadha",
+            " MAD",
+            "emis",
+            "isal",
+            "itars",
+            "Els",
+            "ilater",
+            " Pwr",
+            "uters",
+            " Yak"
+        ],
+        "positive_strings": [
+            " polygamy",
+            " apostle",
+            " apostles",
+            " Church",
+            " Apostle",
+            " missionary",
+            " missionaries",
+            "ormons",
+            " Mormonism",
+            "Leaks"
+        ],
+        "description": " references to the Church of Jesus Christ of Latter-day Saints, its beliefs, and its history"
+    },
+    {
+        "index": "40518",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_40518.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "ANY",
+            "orph",
+            "ateur",
+            "pmwiki",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "ULL",
+            "ariat",
+            "shown"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "inez",
+            " Savior",
+            "Jesus",
+            " Himself",
+            " Ramirez",
+            " Carlos",
+            "otle",
+            " Skywalker"
+        ],
+        "description": "references to Jesus and related religious concepts"
+    },
+    {
+        "index": "29955",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_29955.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "orph",
+            "ANY",
+            "ateur",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "pmwiki",
+            "urst",
+            "ariat",
+            "ULL"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "inez",
+            " Ramirez",
+            " Savior",
+            " Carlos",
+            " Himself",
+            "Jesus",
+            " Skywalker",
+            "sein"
+        ],
+        "description": "references to Jesus Christ and Christianity"
+    },
+    {
+        "index": "29955",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_29955.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "orph",
+            "ANY",
+            "ateur",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "pmwiki",
+            "urst",
+            "ariat",
+            "ULL"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "inez",
+            " Ramirez",
+            " Savior",
+            " Carlos",
+            " Himself",
+            "Jesus",
+            " Skywalker",
+            "sein"
+        ],
+        "description": "references to Jesus Christ and Christianity"
+    },
+    {
+        "index": "29160",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_29160.json",
+        "negative_strings": [
+            "atos",
+            "avorite",
+            "IUM",
+            "espie",
+            "awei",
+            "nel",
+            "orem",
+            "fen",
+            "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            "inished"
+        ],
+        "positive_strings": [
+            " Jesus",
+            " Scientology",
+            " Latter",
+            " Christ",
+            " England",
+            " Confederation",
+            " Wales",
+            " Scotland",
+            " Steel",
+            " Healer"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "index": "36575",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_36575.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e6\u00a9\u0141",
+            "ugal",
+            "ANY",
+            "idges",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "\u00df",
+            "RAG",
+            "ieth",
+            "ORN"
+        ],
+        "positive_strings": [
+            " Christ",
+            "inez",
+            " Jesus",
+            " Skywalker",
+            " Ramirez",
+            " Doodle",
+            "angelo",
+            " Savior",
+            " Lizard",
+            " Mata"
+        ],
+        "description": "references to Jesus Christ and related biblical themes and teachings"
+    },
+    {
+        "index": "14177",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_14177.json",
+        "negative_strings": [
+            "ahime",
+            "RIP",
+            "Reward",
+            "RGB",
+            "ATA",
+            "PC",
+            "EGA",
+            "ADE",
+            "inates",
+            "amd"
+        ],
+        "positive_strings": [
+            " Latter",
+            "stad",
+            "theless",
+            "\u0126\u00a2",
+            "entimes",
+            "minster",
+            " Day",
+            "ezvous",
+            "eteenth",
+            "thren"
+        ],
+        "description": "mentions of specific religious affiliations, particularly the \"Church of Jesus Christ of Latter-day Saints\""
+    },
+    {
+        "index": "10817",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_10817.json",
+        "negative_strings": [
+            "phrine",
+            " Flavoring",
+            "IFE",
+            "WAY",
+            "UGE",
+            "TRY",
+            " Yugoslavia",
+            "KS",
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b8",
+            "GMT"
+        ],
+        "positive_strings": [
+            "ophe",
+            "church",
+            "mast",
+            "lia",
+            "esian",
+            "ophers",
+            "iscopal",
+            "inas",
+            "inez",
+            " cruc"
+        ],
+        "description": "references to religious figures, particularly Jesus Christ"
+    },
+    {
+        "index": "34326",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_34326.json",
+        "negative_strings": [
+            "romy",
+            "weights",
+            " iodine",
+            " Ammo",
+            " Stephenson",
+            " Scotia",
+            " RF",
+            "iances",
+            "\u00e9\u00be",
+            " Bei"
+        ],
+        "positive_strings": [
+            " Jes",
+            "Jes",
+            "kai",
+            "uits",
+            "ker",
+            "clair",
+            "kers",
+            "uates",
+            "erey",
+            "ues"
+        ],
+        "description": "names of individuals named Jes, Jesus, or similar, and some related terms or concepts"
+    },
+    {
+        "index": "37818",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_37818.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00b6",
+            "lain",
+            "ugu",
+            "\u00e3\u0125\u0135",
+            "\u00e9\u00be",
+            "GBT",
+            "ridges",
+            "stable",
+            "DOS",
+            "Effective"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            " CHRIST",
+            " Himself",
+            "Christ",
+            " Savior",
+            " christ",
+            " Messiah",
+            " Pose",
+            " cruc"
+        ],
+        "description": " references to Jesus and concepts related to his death and resurrection"
+    },
+    {
+        "index": "30720",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_30720.json",
+        "negative_strings": [
+            "ateur",
+            "ANY",
+            "pmwiki",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "ickr",
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "Auth",
+            "parts",
+            "GN"
+        ],
+        "positive_strings": [
+            " Christ",
+            "inez",
+            " Jesus",
+            " Ramirez",
+            " Cena",
+            " Tsukuyomi",
+            "hua",
+            "Jesus",
+            " Mata",
+            " Savior"
+        ],
+        "description": "mentions of Jesus Christ and his teachings"
+    },
+    {
+        "index": "30720",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_30720.json",
+        "negative_strings": [
+            "ateur",
+            "ANY",
+            "pmwiki",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "ickr",
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "Auth",
+            "parts",
+            "GN"
+        ],
+        "positive_strings": [
+            " Christ",
+            "inez",
+            " Jesus",
+            " Ramirez",
+            " Cena",
+            " Tsukuyomi",
+            "hua",
+            "Jesus",
+            " Mata",
+            " Savior"
+        ],
+        "description": "mentions of Jesus Christ and his teachings"
+    },
+    {
+        "index": "19205",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_19205.json",
+        "negative_strings": [
+            "adium",
+            "apers",
+            "ortex",
+            "itars",
+            " Auschwitz",
+            "ANN",
+            "aterial",
+            "verbs",
+            " pregn",
+            "isle"
+        ],
+        "positive_strings": [
+            "iness",
+            "terness",
+            "ness",
+            "nesses",
+            "hip",
+            "edly",
+            "\u012a\u0134",
+            "alos",
+            "nect",
+            "hift"
+        ],
+        "description": "words related to physical descriptions or assessments like \"aromatic depth,\" \"muscular Jesus,\" and \"unhealthy skinny starlets.\""
+    },
+    {
+        "index": "45382",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_45382.json",
+        "negative_strings": [
+            "\u00e5\u00a7",
+            "pmwiki",
+            "\u00e8\u00aa",
+            "\u00e9\u00be",
+            "orph",
+            "jet",
+            "ugal",
+            "parts",
+            "\u00e6\u0126",
+            "paragraph"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Khe",
+            " Ramirez",
+            " Pablo",
+            " Carlos",
+            "atos",
+            "inez",
+            " Jesus",
+            "ciating",
+            "areth"
+        ],
+        "description": "mentions of Jesus and Christ in various contexts"
+    },
+    {
+        "index": "39668",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jesus/data_for_feature_39668.json",
+        "negative_strings": [
+            "nesota",
+            "pring",
+            "izable",
+            " actionGroup",
+            "CTV",
+            "schild",
+            "pmwiki",
+            "ilver",
+            " Wonderland",
+            "sense"
+        ],
+        "positive_strings": [
+            " pont",
+            " Pont",
+            " Pap",
+            "antry",
+            " infall",
+            "abase",
+            " Pope",
+            "acy",
+            "unia",
+            "rez"
+        ],
+        "description": "references to historical and religious figures or topics, such as Jesus, Vatican, and papal documents"
+    }
+]

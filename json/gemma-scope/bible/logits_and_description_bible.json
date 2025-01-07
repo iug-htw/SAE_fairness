@@ -1,0 +1,360 @@
+[
+    {
+        "index": "105565",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_105565.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variations of words related to \"detect\", \"detach\", \"detain\", or \"detour\" and also words related to \"Detroit\" or \"Deuteronomy\", a book of the Bible."
+    },
+    {
+        "index": "108618",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_108618.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to the Bible or biblical concepts, often in discussions of faith, spirituality, or morality."
+    },
+    {
+        "index": "7637",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_7637.json",
+        "negative_strings": [
+            "tonode",
+            "complexContent",
+            "AndEndTag",
+            "rensa",
+            "\u2581Victim",
+            "CloseOperation",
+            "Feliz",
+            "\u2581Feliz",
+            "MENTE",
+            "\u2581greu"
+        ],
+        "positive_strings": [
+            "worm",
+            "worms",
+            "sellers",
+            "marked",
+            "club",
+            "keeper",
+            "helves",
+            "stores",
+            "ends",
+            "ish"
+        ],
+        "description": "The token represents a written or printed work, often bound, containing pages glued or sewn together, typically focusing on a specific subject or story, such as books, textbooks, bibles, novels, handbooks, or journals."
+    },
+    {
+        "index": "95275",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_95275.json",
+        "negative_strings": [
+            "AddTagHelper",
+            "emptory",
+            "\u2581initComponents",
+            "ressible",
+            "\u0004",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "\u2581rel\u00e2che",
+            "\u2581BIBLE",
+            "antas\u0131",
+            "IntoConstraints"
+        ],
+        "positive_strings": [
+            "\u2581Belt",
+            "\u2581Quiz",
+            "\u2581college",
+            "\u2581quiz",
+            "\u2581College",
+            "College",
+            "\u2581thump",
+            "\u2581School",
+            "\u2581story",
+            "\u2581believing"
+        ],
+        "description": "references to the Bible and its study"
+    },
+    {
+        "index": "55339",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_55339.json",
+        "negative_strings": [
+            "AddTagHelper",
+            "emptory",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "anta",
+            "\u0004",
+            "ressible",
+            "ant",
+            "\u2581rel\u00e2che",
+            "\u2581WebDriverWait"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "\u2581Belt",
+            "\u2581college",
+            "\u2581prophecy",
+            "\u2581College",
+            "College",
+            "\u2581thump",
+            "\u2581Quiz",
+            "\u2581believing",
+            "\u2581Study"
+        ],
+        "description": "references to the Bible and Bible-related studies"
+    },
+    {
+        "index": "115889",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_115889.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns referring to sacred texts, including but not limited to the Bible, Torah, Quran, and other scriptures, often appearing with a title case or as standalone nouns."
+    },
+    {
+        "index": "4021",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_4021.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Texts that reference or contain parts of religious texts such as the Bible, Torah, or Testament, often with a focus on study, interpretation, or discussion."
+    },
+    {
+        "index": "4906",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_4906.json",
+        "negative_strings": [
+            "\u2581doInBackground",
+            "\u0628\u0648\u0627\u0628\u0629",
+            "SuccessListener",
+            "\u0452\u0430",
+            "\u51fa\u7248\u5e74",
+            "\u2581politiet",
+            "\u2581resourceCulture",
+            "\u2581defaultstate",
+            "\u2581hun",
+            "\u2581@\"/"
+        ],
+        "positive_strings": [
+            "cloths",
+            "tennis",
+            "cloth",
+            "\u2581tennis",
+            "\u2581Tennis",
+            "aux",
+            "Tennis",
+            "aus",
+            "tops",
+            "LayoutPanel"
+        ],
+        "description": "Words related to furniture or objects typically found in a setting, often referring to tables, desks, or other items of furniture, as well as other nouns like \"Bible\" that may be found on them."
+    },
+    {
+        "index": "3614",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_3614.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to a holy scripture or sacred text, often denoted by titles such as \"Bible\", \"Scripture\", \"Torah\", or \"Koran\"."
+    },
+    {
+        "index": "123596",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_123596.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to religious texts, primarily \"Bible\", often used to convey authority, authenticity, or citation."
+    },
+    {
+        "index": "1843",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_1843.json",
+        "negative_strings": [
+            "AddTagHelper",
+            "\u2581v\u00edtima",
+            "\u2581v\u00edctima",
+            "\u2581oprot",
+            "\u2581tendencia",
+            "neighbours",
+            "\u2581v\u00edtimas",
+            "\u2581betroffen",
+            "antas\u0131",
+            "\u2581afectado"
+        ],
+        "positive_strings": [
+            "\u2581Belt",
+            "withIdentifier",
+            "Belt",
+            "\u2581Quiz",
+            "\u2581belt",
+            "belt",
+            "\u2581quiz",
+            "\u2581\u017fch",
+            "College",
+            "\u2581college"
+        ],
+        "description": "references to the Bible or biblical concepts"
+    },
+    {
+        "index": "85089",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_85089.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to the Bible or biblical concepts, often used in Christian or theological contexts, and occasionally used in non-religious contexts such as product names or idioms."
+    },
+    {
+        "index": "74378",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_74378.json",
+        "negative_strings": [
+            "\u2581oprot",
+            "\u2581initComponents",
+            "AddTagHelper",
+            "ViewImports",
+            "\u2581AssemblyCulture",
+            "ReusableCell",
+            "\u2581resourceCulture",
+            "emptory",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "InjectAttribute"
+        ],
+        "positive_strings": [
+            "\u2581Quiz",
+            "\u2581quiz",
+            "\u2581college",
+            "College",
+            "Quiz",
+            "\u2581Belt",
+            "way",
+            "\u2581Trivia",
+            "\u2581disambiguazione",
+            "Drill"
+        ],
+        "description": "references to the Bible and related studies"
+    },
+    {
+        "index": "14258",
+        "layer": "37-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_14258.json",
+        "negative_strings": [
+            "AddTagHelper",
+            "\u0004",
+            "\u2581v\u00edtima",
+            "\u2581afectar",
+            "\u2581tendencia",
+            "\u2581afectada",
+            "\u2581\u015bwiad",
+            "rower",
+            "WindowListener",
+            "ineno"
+        ],
+        "positive_strings": [
+            "\u2581Belt",
+            "withIdentifier",
+            "\u2581Quiz",
+            "Belt",
+            "\u2581\u017fch",
+            "\u2581quiz",
+            "\u2581QUIZ",
+            "Tikang",
+            "\u2581Trivia",
+            "\u2581\u017ftand"
+        ],
+        "description": "references to the Bible and related studies or discussions"
+    },
+    {
+        "index": "30135",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_30135.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The use of a pronoun or an article to initiate a sentence or quote from the Bible, scripture, literature, or other written texts; or preceding a proper noun or a formal title often associated with deity or higher power."
+    },
+    {
+        "index": "10882",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_10882.json",
+        "negative_strings": [
+            "OGND",
+            "ItemBackground",
+            "\u2581R\u00e9alisation",
+            "halb",
+            "hyrchwyd",
+            "stateProvider",
+            "enment",
+            "\u015bcio",
+            "://",
+            "\u00edmite"
+        ],
+        "positive_strings": [
+            "\u2581nakalista",
+            "Tikang",
+            "directional",
+            "partisan",
+            "weekly",
+            "setVerticalGroup",
+            "complexContent",
+            "monthly",
+            "########.",
+            "irection"
+        ],
+        "description": "Words that begin with \"bi\" or have \"bi\" within them, often related to prefixes or referring to specific names and topics, such as biology, bible, big, or biz."
+    },
+    {
+        "index": "1711",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/bible/data_for_feature_1711.json",
+        "negative_strings": [
+            "AddTagHelper",
+            "\u0004",
+            "PostInfinity",
+            "\u2581afectar",
+            "InitVars",
+            "<!--[",
+            "\u2581appelez",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581v\u00edtima",
+            "\u2581afectada"
+        ],
+        "positive_strings": [
+            "\u2581Belt",
+            "Belt",
+            "withIdentifier",
+            "\u2581unknownFields",
+            "\u2581\u017ftand",
+            "\u2581\u017fch",
+            "\u2581belt",
+            "qtype",
+            "\u2581college",
+            "\u2581an\u017f"
+        ],
+        "description": "references to the Bible and its related studies or discussions"
+    },
+    {
+        "index": "113625",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_113625.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to sacred texts or scriptures, particularly the Bible, often signifying a connection to spirituality, faith, or cultural heritage."
+    },
+    {
+        "index": "64872",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_64872.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to the Book of Matthew in the Bible."
+    },
+    {
+        "index": "99828",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/bible/data_for_feature_99828.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Citations and references to texts from the Quran, Bible, or other religious and academic sources using a standardized notation system with numbers, colons, and parentheses to denote chapter, verse, and page information."
+    }
+]

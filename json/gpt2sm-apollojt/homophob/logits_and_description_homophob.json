@@ -1,0 +1,62 @@
+[
+    {
+        "index": "45237",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/homophob/data_for_feature_45237.json",
+        "negative_strings": [
+            "FUL",
+            "REE",
+            "BuyableInstoreAndOnline",
+            "ESSION",
+            " Glory",
+            "\u00e3\u0123\u012f",
+            "AMS",
+            "Doctors",
+            "576",
+            " Medline"
+        ],
+        "positive_strings": [
+            "estead",
+            "onym",
+            "ogeneity",
+            "ogeneous",
+            "icidal",
+            "onymous",
+            "ogenous",
+            "ogly",
+            "imore",
+            "emade"
+        ],
+        "description": "terms related to genetics, immunity, medical challenges, and scientific research"
+    },
+    {
+        "index": "35237",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/homophob/data_for_feature_35237.json",
+        "negative_strings": [
+            "RNA",
+            "adh",
+            "atch",
+            "acea",
+            "mond",
+            "osa",
+            "thritis",
+            "ada",
+            "lam",
+            "HQ"
+        ],
+        "positive_strings": [
+            " Cologne",
+            "inventoryQuantity",
+            " Columbus",
+            " Governors",
+            "ians",
+            "\u00a3\u0131",
+            " countdown",
+            " Pearce",
+            " legend",
+            "essors"
+        ],
+        "description": "homophobic language or sentiments"
+    }
+]

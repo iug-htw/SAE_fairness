@@ -1,0 +1,82 @@
+{
+    "request": {
+        "releaseName": "llama3.1-8b-eleuther_gp",
+        "query": "Opa"
+    },
+    "results": [
+        {
+            "modelId": "llama3.1-8b",
+            "layer": "29-eleuther_gp-res-262k",
+            "index": "18595",
+            "description": "The text features a pattern of words with parts of medical terms, often including the letters \"pa\", \"opa\", \"ha\", \"ana\", \"Rep\", \"neph\", \"or\", and \"Tra\", which are typically associated with fields of medicine, including orthopedics, pediatrics, and nephrology.",
+            "explanationModelName": "llama-3.1-70b-instruct",
+            "typeName": "eleuther_acts",
+            "maxActApprox": 0,
+            "frac_nonzero": 0,
+            "neuron": {
+                "modelId": "llama3.1-8b",
+                "layer": "29-eleuther_gp-res-262k",
+                "index": "18595",
+                "sourceSetName": "eleuther_gp-res-262k",
+                "creatorId": "cljj57d3c000076ei38vwnv35",
+                "createdAt": "2024-11-04T18:22:31.206Z",
+                "maxActApprox": 0,
+                "hasVector": false,
+                "vector": [],
+                "vectorLabel": null,
+                "vectorDefaultSteerStrength": 10,
+                "hookName": null,
+                "topkCosSimIndices": [],
+                "topkCosSimValues": [],
+                "neuron_alignment_indices": [],
+                "neuron_alignment_values": [],
+                "neuron_alignment_l1": [],
+                "correlated_neurons_indices": [],
+                "correlated_neurons_pearson": [],
+                "correlated_neurons_l1": [],
+                "correlated_features_indices": [],
+                "correlated_features_pearson": [],
+                "correlated_features_l1": [],
+                "neg_str": [],
+                "neg_values": [],
+                "pos_str": [],
+                "pos_values": [],
+                "frac_nonzero": 0,
+                "freq_hist_data_bar_heights": [],
+                "freq_hist_data_bar_values": [],
+                "logits_hist_data_bar_heights": [],
+                "logits_hist_data_bar_values": [],
+                "decoder_weights_dist": [],
+                "umap_cluster": null,
+                "umap_log_feature_sparsity": null,
+                "umap_x": null,
+                "umap_y": null,
+                "explanations": [
+                    {
+                        "id": "xnz4whywobe7fy1s1uhf0eari",
+                        "modelId": "llama3.1-8b",
+                        "layer": "29-eleuther_gp-res-262k",
+                        "index": "18595",
+                        "description": "The text features a pattern of words with parts of medical terms, often including the letters \"pa\", \"opa\", \"ha\", \"ana\", \"Rep\", \"neph\", \"or\", and \"Tra\", which are typically associated with fields of medicine, including orthopedics, pediatrics, and nephrology.",
+                        "authorId": "cm02nt9s70000r2q20uwado4s",
+                        "triggeredByUserId": "cm02nt9s70000r2q20uwado4s",
+                        "notes": null,
+                        "scoreV1": 0,
+                        "scoreV2": null,
+                        "umap_x": 0,
+                        "umap_y": 0,
+                        "umap_cluster": 0,
+                        "umap_log_feature_sparsity": 0,
+                        "typeName": "eleuther_acts",
+                        "explanationModelName": "llama-3.1-70b-instruct",
+                        "createdAt": "2024-11-04T19:14:48.168Z",
+                        "updatedAt": "2024-11-04T19:14:48.168Z"
+                    }
+                ],
+                "activations": []
+            }
+        }
+    ],
+    "resultsCount": 1,
+    "hasMore": false
+}

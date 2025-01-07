@@ -1,0 +1,62 @@
+[
+    {
+        "index": "33060",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/halal/data_for_feature_33060.json",
+        "negative_strings": [
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " princip",
+            "\u00e4\u00bc",
+            " Conserv",
+            " nec",
+            "resa",
+            "icult",
+            "Virginia",
+            "rait",
+            "urated"
+        ],
+        "positive_strings": [
+            "ving",
+            "ifax",
+            "ved",
+            " hal",
+            "agos",
+            "ftime",
+            "ocaust",
+            "pless",
+            "cone",
+            "Lev"
+        ],
+        "description": " occurrences of the word \"hal\" and its variations, indicating discussions around halal practices or concepts"
+    },
+    {
+        "index": "19029",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/halal/data_for_feature_19029.json",
+        "negative_strings": [
+            "URI",
+            " Memories",
+            " FANT",
+            "ULTS",
+            " Favor",
+            " Petr",
+            " Hiroshima",
+            "orsi",
+            " Borders",
+            " Perspective"
+        ],
+        "positive_strings": [
+            "tered",
+            "keley",
+            "fter",
+            "ters",
+            "ter",
+            "tering",
+            "leys",
+            "tern",
+            "mand",
+            "amed"
+        ],
+        "description": "references to halal food and dietary practices"
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "index": "24564",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/quran/data_for_feature_24564.json",
+        "negative_strings": [
+            "UnusedPrivate",
+            "IntoConstraints",
+            "calciatore",
+            "\u2581utafitiHapana",
+            "posedge",
+            "\u2581Marek",
+            "\u2581castel",
+            "\u2581brewery",
+            "\u2581redo",
+            "#+#"
+        ],
+        "positive_strings": [
+            "\u02be",
+            "anic",
+            "\u2581Qur",
+            "Qur",
+            "Quran",
+            "\u2581Quran",
+            "\u2581Koran",
+            "\u2581\u0627\u0644\u0643\u0631\u064a\u0645",
+            "th\u00e2u",
+            "Maj"
+        ],
+        "description": " references to the Quran"
+    },
+    {
+        "index": "115889",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_115889.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns referring to sacred texts, including but not limited to the Bible, Torah, Quran, and other scriptures, often appearing with a title case or as standalone nouns."
+    },
+    {
+        "index": "6909",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_6909.json",
+        "negative_strings": [
+            "\u2581gethan",
+            "\u70b9\u6b64\u4e3e\u62a5",
+            "MigrationBuilder",
+            "Enlla\u00e7os",
+            "\u2581BrowserModule",
+            "pecabe",
+            "\u2581ioutil",
+            "\u2581hunne",
+            "\u2581groote",
+            "\u2581zijne"
+        ],
+        "positive_strings": [
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581[",
+            "\u2026.\u201d",
+            "\u2581\u2026\u201d",
+            "\u2026\u201d",
+            "\u2581Myself",
+            "\u201d\u2014",
+            "\u2581Himself",
+            "\u2026\"",
+            "\u2026\u2019"
+        ],
+        "description": "Biblical or Quranic scripture, often featuring a formal or poetic tone, with a focus on divine authority, moral guidance, and spiritual themes."
+    },
+    {
+        "index": "99828",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_99828.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Citations and references to texts from the Quran, Bible, or other religious and academic sources using a standardized notation system with numbers, colons, and parentheses to denote chapter, verse, and page information."
+    },
+    {
+        "index": "37538",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_37538.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Religiously affiliated text, including biblical and quranic phrases, as well as references to Islamic and Christian figures, with a focus on quotes, sayings, and passages."
+    },
+    {
+        "index": "4802",
+        "layer": "35-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_4802.json",
+        "negative_strings": [
+            "RTLR",
+            "CloseOperation",
+            "\u0004",
+            "\u2581ProtoMessage",
+            "AddTagHelper",
+            "IntoConstraints",
+            "enderror",
+            "featureID",
+            "fromnode",
+            "\u2581rel\u00e2che"
+        ],
+        "positive_strings": [
+            "yargs",
+            "\u2581odkazy",
+            "\u2581study",
+            "thmetic",
+            "\u2581scholar",
+            "\u2581verses",
+            "\u2581verse",
+            "\u2581teaching",
+            "\u2581trivia",
+            "\u2581Colleg"
+        ],
+        "description": "Proper nouns, particularly those referring to important documents, religious texts, and institutions (e.g., Bible, Constitution, Scripture, Gospel, Psalms, Quran, Amendment, and Eucharist), as well as concepts related to government, law, and politics."
+    },
+    {
+        "index": "111176",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_111176.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A reference number, often representing a chapter or verse, usually in a biblical or Quranic context, following the abbreviation of a holy book or a name."
+    },
+    {
+        "index": "57061",
+        "layer": "32-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_57061.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, specifically names of individuals, including first names (e.g., Kurt, Kurz) and last names (e.g., Kurtz), as well as place names (e.g., Quraysh, Kursk) and titles (e.g., Quran), often indicating people, locations, or texts."
+    },
+    {
+        "index": "53072",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_53072.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, specifically names of books or texts considered sacred or significant in various cultures and religions, such as the Quran and Buddhist sutras."
+    },
+    {
+        "index": "16412",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_16412.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Quotations, phrases or words from religious texts or literature, including the Quran, Bible, and other scriptures, often set apart or referenced in a distinct manner."
+    },
+    {
+        "index": "68681",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_68681.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Arabic phrases often consisting of a sequence of words and letters that often form a clause or a sentence, typically representing a quote or a passage from the Quran."
+    },
+    {
+        "index": "115097",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_115097.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Text representing a narrative or historical account of Islamic events, figures, and traditions, often referencing the Quran, Prophets, and companions, with a focus on their actions, teachings, and significance."
+    },
+    {
+        "index": "35688",
+        "layer": "35-gemmascope-res-131k",
+        "url": "json/gemma-scope/quran/data_for_feature_35688.json",
+        "negative_strings": [
+            "schrift",
+            "gwin",
+            "train",
+            "\u2581\u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627",
+            "\u2581train",
+            "ingga",
+            "\u2581Wayne",
+            "Vege",
+            "binary",
+            "WebApplication"
+        ],
+        "positive_strings": [
+            "\u2581betweenstory",
+            "AsUp",
+            "\u2581Imran",
+            "\u2581chapter",
+            "\u2581EconPapers",
+            "\u21b9",
+            "\u2581Meksiku",
+            "KommentareTeilen",
+            "\u2581cap\u00edtulo",
+            "\u766c"
+        ],
+        "description": " references to Quranic verses and their interpretations"
+    },
+    {
+        "index": "25199",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_25199.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to Islamic texts or concepts, including quotes from the Quran and Hadith, as well as mentions of Islamic terminology and practices."
+    },
+    {
+        "index": "12629",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_12629.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "InSection",
+            "\u2581nawr",
+            "\u2581portfolio",
+            "\u2581revanche",
+            "\u2581initComponents",
+            "AddHtmlAttribute",
+            "RenderAtEndOf",
+            "UserInput",
+            "\u2581Venise"
+        ],
+        "positive_strings": [
+            "\u2581Prophet",
+            "Prophet",
+            "\u2581prophet",
+            "\u2581prophets",
+            "\u2581Prophets",
+            "\u2581Messenger",
+            "\u2581proph",
+            "\u2581\u067e\u06cc\u0627\u0645",
+            "\u2581profeta",
+            "\u2581messenger"
+        ],
+        "description": "References to Islamic terms, concepts, historical figures, and religious texts, including mentions of Muhammad, the Quran, and Islamic prophets."
+    },
+    {
+        "index": "115097",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_115097.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Text representing a narrative or historical account of Islamic events, figures, and traditions, often referencing the Quran, Prophets, and companions, with a focus on their actions, teachings, and significance."
+    },
+    {
+        "index": "70312",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_70312.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Texts referencing Islam and the Quran, often in a context of discussion, explanation, or critique."
+    },
+    {
+        "index": "108380",
+        "layer": "30-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_108380.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various fragments of Islamic text, including narratives, descriptions of historical figures, and quotes from the Quran, with an emphasis on prophetic traditions, historical events, and theological concepts."
+    },
+    {
+        "index": "104411",
+        "layer": "29-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_104411.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Abbreviated references to book or chapter names, often from religious texts, such as the Bible, Quran, or Buddhist scriptures, and sometimes from classical works."
+    },
+    {
+        "index": "6240",
+        "layer": "32-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/quran/data_for_feature_6240.json",
+        "negative_strings": [
+            "\u2581plea\u017fure",
+            "\u2581\u017fta",
+            "\u2581\u017fch",
+            "\u2581CreateTagHelper",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "\u2581ligiloj",
+            "\u2581An\u017f",
+            "\u2581\u017fte",
+            "\u2581it\u017felf",
+            "\u2581hou\u017fe"
+        ],
+        "positive_strings": [
+            "\u2581m\u00f3vel",
+            "\u2581avanc\u00e9e",
+            "\u2581Seguran\u00e7a",
+            "gonic",
+            "\u2581Ensino",
+            "\u2581emprego",
+            "sejarah",
+            "\u2581boneco",
+            "\u2581n\u00edveis",
+            "\u2581car\u00e1ter"
+        ],
+        "description": "Arabic phrases, often with Islamic or Quranic context, which may be part of a larger text or quote."
+    }
+]

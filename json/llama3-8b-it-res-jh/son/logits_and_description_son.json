@@ -1,0 +1,62 @@
+[
+    {
+        "index": "9214",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/son/data_for_feature_9214.json",
+        "negative_strings": [
+            "tures",
+            "resse",
+            "otland",
+            "pery",
+            "alls",
+            "perator",
+            "ees",
+            "rottle",
+            "IZER",
+            "tick"
+        ],
+        "positive_strings": [
+            "der",
+            "ny",
+            "orous",
+            "ewhere",
+            "nen",
+            "etimes",
+            "ically",
+            "ewhat",
+            "ship",
+            "al"
+        ],
+        "description": " occurrences of the word \"son\" and its variations"
+    },
+    {
+        "index": "11503",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/son/data_for_feature_11503.json",
+        "negative_strings": [
+            "\u00c3\u00b2a",
+            "mens",
+            "MAS",
+            "menuItem",
+            "\u00e4\u00b8\u012a\u00e5\u00a4\u00ab",
+            "TestFixture",
+            " Couples",
+            "raman",
+            "\u00e9\u0125\u0130",
+            " hubby"
+        ],
+        "positive_strings": [
+            " mother",
+            " Mother",
+            "Mother",
+            "mother",
+            " mothers",
+            " mom",
+            " Mothers",
+            "\u00e6\u00af\u012f",
+            "\u00e6\u00af\u012f\u00e4\u00ba\u00b2",
+            " Mom"
+        ],
+        "description": " references to familial relationships, particularly involving mothers and their sons"
+    }
+]

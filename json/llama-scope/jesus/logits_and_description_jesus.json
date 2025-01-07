@@ -1,0 +1,602 @@
+[
+    {
+        "index": "128712",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_128712.json",
+        "negative_strings": [
+            "ullet",
+            "\u00cf\u0125\u00cf\u0126\u00cf\u0123\u00ce\u00bf",
+            "_Util",
+            "xico",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u00aa\u00e0\u00a4\u00a8",
+            "aylight",
+            "\u00e8\u013b",
+            "\u00d8\u00b2\u00d8\u00a7",
+            " borderTop",
+            " pozem"
+        ],
+        "positive_strings": [
+            " Loves",
+            " desires",
+            " loves",
+            " delights",
+            " forg",
+            " loved",
+            " long",
+            " died",
+            " rede",
+            " desire"
+        ],
+        "description": "references to God and Jesus, along with attributes and actions associated with them"
+    },
+    {
+        "index": "16744",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_16744.json",
+        "negative_strings": [
+            "sob",
+            "icios",
+            "ationale",
+            "readcr",
+            "ugs",
+            "gett",
+            "chsel",
+            "651",
+            "\u00e5\u00af",
+            "lush"
+        ],
+        "positive_strings": [
+            "ensen",
+            "church",
+            "ophe",
+            "opher",
+            "mast",
+            "ening",
+            "offer",
+            "enson",
+            "MAS",
+            "like"
+        ],
+        "description": "references to Christ or Jesus in various contexts"
+    },
+    {
+        "index": "20981",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_20981.json",
+        "negative_strings": [
+            "appable",
+            "\u00c4\u0125n",
+            "rippling",
+            "itches",
+            "exion",
+            "tae",
+            "igg",
+            "\u00d8\u00a7\u00d9\u012a\u00d9\u0128\u00d8\u00af",
+            "unch",
+            "tg"
+        ],
+        "positive_strings": [
+            "uit",
+            "uits",
+            "\u00c3\u00bas",
+            "uiten",
+            "uite",
+            "mond",
+            "zcze",
+            "UIT",
+            " Suit",
+            " suit"
+        ],
+        "description": "references to the name \"Jesus\" and related variations"
+    },
+    {
+        "index": "24359",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_24359.json",
+        "negative_strings": [
+            "<quote",
+            " Caldwell",
+            "xia",
+            "ulia",
+            "ianne",
+            "iji",
+            " Diagram",
+            "urile",
+            " Dagger",
+            "odega"
+        ],
+        "positive_strings": [
+            " Jesus",
+            " Christ",
+            "Jesus",
+            " JC",
+            "Christ",
+            " Jes",
+            " Messiah",
+            " CHRIST",
+            " j",
+            " christ"
+        ],
+        "description": " themes of redemption and the significance of Jesus' sacrificial death"
+    },
+    {
+        "index": "130985",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_130985.json",
+        "negative_strings": [
+            "ANCES",
+            "ednou",
+            "igos",
+            "tery",
+            "ARRIER",
+            "t\u00c3\u00a9",
+            "sWith",
+            "ally",
+            "slashes",
+            " JAVA"
+        ],
+        "positive_strings": [
+            " Christ",
+            "Christ",
+            " CHRIST",
+            " Crist",
+            " christ",
+            " Chr",
+            " Christie",
+            " Chris",
+            " Messiah",
+            " Himself"
+        ],
+        "description": "references to Jesus Christ and related theological concepts"
+    },
+    {
+        "index": "5221",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_5221.json",
+        "negative_strings": [
+            "orb",
+            "itches",
+            "appable",
+            "\u00c4\u0125n",
+            "itele",
+            "okers",
+            " substance",
+            "incinn",
+            "achment",
+            "issement"
+        ],
+        "positive_strings": [
+            "uit",
+            "uits",
+            "uiten",
+            "\u00c3\u00bas",
+            "zcze",
+            "uite",
+            "urum",
+            "amine",
+            " suites",
+            "uitar"
+        ],
+        "description": "references to the name \"Jesus.\""
+    },
+    {
+        "index": "20798",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_20798.json",
+        "negative_strings": [
+            "\u00c3\u00b3nico",
+            "oru",
+            " dostan",
+            "xico",
+            "ault",
+            "icher",
+            "acle",
+            "ies",
+            "ULAR",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0129"
+        ],
+        "positive_strings": [
+            " Himself",
+            " Christ",
+            " himself",
+            "Christ",
+            "/Y",
+            "alem",
+            "-follow",
+            " Who",
+            " cruc",
+            " Cruc"
+        ],
+        "description": " references to Jesus Christ and concepts related to Christianity"
+    },
+    {
+        "index": "116123",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_116123.json",
+        "negative_strings": [
+            " jih",
+            "ednou",
+            ".MixedReality",
+            "\u00e5\u00bb\u012c",
+            "WND",
+            "quat",
+            " jeux",
+            "ifs",
+            "yre",
+            "ARRIER"
+        ],
+        "positive_strings": [
+            " Christ",
+            "Christ",
+            " CHRIST",
+            " christ",
+            " Crist",
+            " Chris",
+            " Christie",
+            "christ",
+            "CHR",
+            " Chr"
+        ],
+        "description": "mentions of Jesus and related themes"
+    },
+    {
+        "index": "70630",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_70630.json",
+        "negative_strings": [
+            "]={\n",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00b2",
+            "_tuples",
+            "erdale",
+            " \u00d0\u00ba\u00d0\u00b0\u00d0\u00b4",
+            "661",
+            "witch",
+            "ionage",
+            "631",
+            " cita"
+        ],
+        "positive_strings": [
+            " Inc",
+            " incarn",
+            " incarnation",
+            "Inc",
+            " enf",
+            " human",
+            " Emmanuel",
+            " flesh",
+            " humanity",
+            " Flesh"
+        ],
+        "description": "references to religious themes and figures, particularly focusing on Jesus"
+    },
+    {
+        "index": "26816",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_26816.json",
+        "negative_strings": [
+            "\u00c3\u00a1p",
+            "\u00e8\u00ae",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u0125\u00e3\u0124\u00af",
+            "rix",
+            "thon",
+            "uja",
+            "Written",
+            " CSP",
+            "recision",
+            "643"
+        ],
+        "positive_strings": [
+            " Himself",
+            " heals",
+            " heal",
+            " healed",
+            " healing",
+            "-follow",
+            " commissions",
+            " commission",
+            " himself",
+            " teaching"
+        ],
+        "description": "references to Jesus and his teachings"
+    },
+    {
+        "index": "8268",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_8268.json",
+        "negative_strings": [
+            "orb",
+            " strengths",
+            "ugu",
+            "cks",
+            " substance",
+            "nout",
+            "orges",
+            "bx",
+            "\u00d8\u00aa\u00d9\u0129",
+            " jean"
+        ],
+        "positive_strings": [
+            "uits",
+            "uit",
+            "uiten",
+            "\u00c3\u00bas",
+            "zcze",
+            "uite",
+            " suites",
+            "amine",
+            "olo",
+            " suite"
+        ],
+        "description": "references to the name \"Jesus\" and related terms"
+    },
+    {
+        "index": "111643",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_111643.json",
+        "negative_strings": [
+            "\u0125\u00bd",
+            "egis",
+            "ervas",
+            " dostan",
+            "ahat",
+            "dbuf",
+            "chwitz",
+            "Vtbl",
+            "alama",
+            "riba"
+        ],
+        "positive_strings": [
+            " taught",
+            " reb",
+            " exh",
+            " Washer",
+            " told",
+            " warned",
+            " instruct",
+            " healed",
+            " teaches",
+            " instructed"
+        ],
+        "description": "references to Jesus and discussions surrounding his character and teachings"
+    },
+    {
+        "index": "116861",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_116861.json",
+        "negative_strings": [
+            "utomation",
+            "usu",
+            "pios",
+            "irut",
+            "latex",
+            " \u00d9\u0123\u00d8\u00b1\u00d9\u012c\u00d9\u0124",
+            "FRING",
+            "byss",
+            "(floor",
+            "ampie"
+        ],
+        "positive_strings": [
+            " ministry",
+            " teaching",
+            " Passion",
+            " Ser",
+            " teachings",
+            " Ministry",
+            " miracles",
+            " earthly",
+            " passion",
+            " arrest"
+        ],
+        "description": "references to Jesus and his teachings, particularly concerning his life, death, and resurrection"
+    },
+    {
+        "index": "9160",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_9160.json",
+        "negative_strings": [
+            "orb",
+            "okers",
+            "cks",
+            "\u00d8\u00aa\u00d9\u0129",
+            "izi",
+            " strengths",
+            "ishi",
+            "ifen",
+            "incinn",
+            "\u00c3\u00a5n"
+        ],
+        "positive_strings": [
+            "uits",
+            "uit",
+            "uiten",
+            "\u00c3\u00bas",
+            "zcze",
+            "uite",
+            "amine",
+            " Christ",
+            "enia",
+            "avage"
+        ],
+        "description": " mentions of \"Jesus\" and associated terms"
+    },
+    {
+        "index": "53845",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_53845.json",
+        "negative_strings": [
+            "indr",
+            "ellar",
+            " Byl",
+            "rien",
+            "alice",
+            "xico",
+            "enties",
+            "enberg",
+            "ritch",
+            "\u00c3\u00b3ria"
+        ],
+        "positive_strings": [
+            "Mess",
+            " Son",
+            " mess",
+            "Son",
+            " Mess",
+            " Messiah",
+            " Messi",
+            " son",
+            "mess",
+            " SON"
+        ],
+        "description": "references to Jesus Christ and theological assertions about divinity"
+    },
+    {
+        "index": "4807",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/jesus/data_for_feature_4807.json",
+        "negative_strings": [
+            "okers",
+            "orb",
+            "\u00c3\u00a5n",
+            "\u00d1\u0131",
+            "cks",
+            "ishi",
+            "ois",
+            "ugu",
+            "\u00d8\u00aa\u00d9\u0129",
+            "ines"
+        ],
+        "positive_strings": [
+            "uits",
+            "uit",
+            "uiten",
+            "zcze",
+            "uite",
+            "\u00c3\u00bas",
+            " suites",
+            " Suites",
+            "Suit",
+            " suit"
+        ],
+        "description": " references to the name \"Jesus.\""
+    },
+    {
+        "index": "91028",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_91028.json",
+        "negative_strings": [
+            "HITE",
+            "\u00d0\u00ba\u00d1\u0125\u00d0\u00bb\u00d1\u0131",
+            "pret",
+            "\u00e6\u00b7",
+            "IVO",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u0125\u00e3\u0124\u00af",
+            "iev",
+            ".study",
+            "igu",
+            "\u00d1\u0125\u00d0\u00b6"
+        ],
+        "positive_strings": [
+            " alone",
+            " died",
+            "paid",
+            "alone",
+            " gave",
+            " long",
+            " paid",
+            " desire",
+            " came",
+            " bore"
+        ],
+        "description": " references to religious figures and concepts, particularly focusing on God and Jesus"
+    },
+    {
+        "index": "35278",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_35278.json",
+        "negative_strings": [
+            "iesz",
+            "\u00e7",
+            "\u00d0\u00bb\u00d1\u0125\u00d0\u00b3",
+            "Localized",
+            "t\u00c3\u00a9",
+            "\u00e4\u00ba\u0143",
+            " SCI",
+            "HIR",
+            " excellence",
+            "kop"
+        ],
+        "positive_strings": [
+            " Christ",
+            "alem",
+            "ita",
+            " christ",
+            " Loves",
+            " Campos",
+            "Christ",
+            "ju",
+            "Camp",
+            "sson"
+        ],
+        "description": "mentions of the name \"Jesus\" in various contexts"
+    },
+    {
+        "index": "22607",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_22607.json",
+        "negative_strings": [
+            "egov",
+            " \n\n",
+            "isle",
+            "indr",
+            "xico",
+            "enberg",
+            "_mex",
+            " Byl",
+            "rien",
+            "aney"
+        ],
+        "positive_strings": [
+            " Son",
+            " Prince",
+            "Mess",
+            " Lamb",
+            " savoir",
+            "Son",
+            " Messiah",
+            " King",
+            " Comfort",
+            " rede"
+        ],
+        "description": "references to religious beliefs and concepts regarding God and Jesus"
+    },
+    {
+        "index": "72063",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/jesus/data_for_feature_72063.json",
+        "negative_strings": [
+            "\u00c3\u00a1p",
+            "oru",
+            "ednou",
+            "lds",
+            "indr",
+            "899",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0129",
+            "erty",
+            "\u00e4\u00bc\u0123",
+            "alous"
+        ],
+        "positive_strings": [
+            " Christ",
+            "Christ",
+            " christ",
+            " CHRIST",
+            " Crist",
+            "alem",
+            "christ",
+            " Chr",
+            " Christie",
+            "CHR"
+        ],
+        "description": "references to Jesus Christ"
+    }
+]

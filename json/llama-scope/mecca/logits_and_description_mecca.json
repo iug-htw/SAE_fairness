@@ -1,0 +1,62 @@
+[
+    {
+        "index": "2105",
+        "layer": "3-llamascope-res-32k",
+        "url": "json/llama-scope/mecca/data_for_feature_2105.json",
+        "negative_strings": [
+            "oot",
+            "\u0124",
+            " Diet",
+            "ouble",
+            "oa",
+            "_nat",
+            "\u00d0\u00b0\u00d0\u00bc\u00d0\u00bf",
+            "urette",
+            "/native",
+            "drs"
+        ],
+        "positive_strings": [
+            "irez",
+            "\u00d1\u0124\u00d1\u012e",
+            "_RD",
+            "pit",
+            " Bilg",
+            " Larson",
+            "\u00d0\u00b2\u00d0\u00be\u00d1\u0122",
+            " \u00c4\u0133\u00c3\u0143ch",
+            "avar",
+            "alie"
+        ],
+        "description": "references to Mecca, Medina, and related Islamic concepts"
+    },
+    {
+        "index": "433",
+        "layer": "1-llamascope-res-32k",
+        "url": "json/llama-scope/mecca/data_for_feature_433.json",
+        "negative_strings": [
+            "put",
+            "eful",
+            "amina",
+            " sadd",
+            "kan",
+            "umbn",
+            "a\u00c3\u00a7",
+            "\u00d0\u00b0\u00d1\u0122\u00d1\u0129",
+            "[--",
+            "oref"
+        ],
+        "positive_strings": [
+            "erre",
+            "eland",
+            "iband",
+            "ories",
+            "\u00e5\u00b1",
+            "{{",
+            "\u00cf\u012e\u00ce\u00b4",
+            " breeze",
+            ".obtain",
+            "eker"
+        ],
+        "description": "references to \"Mecca\" or related terms associated with it"
+    }
+]

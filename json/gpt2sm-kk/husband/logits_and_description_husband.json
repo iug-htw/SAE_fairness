@@ -1,0 +1,242 @@
+[
+    {
+        "index": "7536",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_7536.json",
+        "negative_strings": [
+            " Hogan",
+            " Marriott",
+            "Jackson",
+            " CLSID",
+            " Moff",
+            " Hutch",
+            "ederation",
+            " Draper",
+            " rou",
+            " Bauer"
+        ],
+        "positive_strings": [
+            "PATH",
+            " CrossRef",
+            "ocamp",
+            "izoph",
+            " ISI",
+            "\"],",
+            "yne",
+            "choes",
+            " STATS",
+            " neuroscience"
+        ],
+        "description": "references to familial relationships, particularly focusing on husbands and wives"
+    },
+    {
+        "index": "6954",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_6954.json",
+        "negative_strings": [
+            "CHA",
+            "INA",
+            "Women",
+            "witch",
+            "nia",
+            " sqor",
+            " NFC",
+            "ARA",
+            " WOM",
+            " EW"
+        ],
+        "positive_strings": [
+            " businessman",
+            " Mehran",
+            " chef",
+            " mogul",
+            " billionaire",
+            " businessmen",
+            " propriet",
+            " Kev",
+            " brewer",
+            " grandfather"
+        ],
+        "description": "references to husbands or partners in relationships"
+    },
+    {
+        "index": "15727",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_15727.json",
+        "negative_strings": [
+            " qualifiers",
+            " Parables",
+            " subclass",
+            " crunch",
+            " jargon",
+            " flagged",
+            " procedural",
+            " tropes",
+            " speculative",
+            " qualifier"
+        ],
+        "positive_strings": [
+            "uncle",
+            "\ufffd",
+            " istg",
+            " wife",
+            "husband",
+            "stead",
+            "wife",
+            "nette",
+            "aternal",
+            "\ufffd"
+        ],
+        "description": " relationships involving husbands and wives or partners"
+    },
+    {
+        "index": "20424",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_20424.json",
+        "negative_strings": [
+            "arbon",
+            "issions",
+            "obal",
+            "esters",
+            "soDeliveryDate",
+            "atform",
+            "ector",
+            "WD",
+            "\u30a2\u30eb",
+            "ptive"
+        ],
+        "positive_strings": [
+            " Sue",
+            " herself",
+            " confid",
+            "Lou",
+            " attendants",
+            " nurse",
+            " anx",
+            "Madison",
+            " Irma",
+            " slaves"
+        ],
+        "description": "mentions of the relationships involving wives or husbands in various contexts"
+    },
+    {
+        "index": "18790",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_18790.json",
+        "negative_strings": [
+            "roth",
+            "eele",
+            "YP",
+            "orrow",
+            "ngth",
+            "henko",
+            "qual",
+            " Featured",
+            "okin",
+            "qus"
+        ],
+        "positive_strings": [
+            " girlfriends",
+            " mothers",
+            " neighbours",
+            " grandparents",
+            " governors",
+            " nuns",
+            " grandmother",
+            " sisters",
+            " siblings",
+            " secretaries"
+        ],
+        "description": " references to marital relationships, particularly involving the terms \"husband\" and \"wife.\""
+    },
+    {
+        "index": "10734",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_10734.json",
+        "negative_strings": [
+            "nergy",
+            " surface",
+            "etition",
+            "ioxide",
+            "IUM",
+            "uum",
+            "auldron",
+            "Draft",
+            "ivable",
+            "ential"
+        ],
+        "positive_strings": [
+            " Cabin",
+            " paed",
+            "artney",
+            " trousers",
+            " himself",
+            " wife",
+            " girlfriends",
+            " wives",
+            " BJ",
+            "jac"
+        ],
+        "description": "mentions of family members or relationships, particularly husbands and wives"
+    },
+    {
+        "index": "17240",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_17240.json",
+        "negative_strings": [
+            "ablishment",
+            "umbn",
+            "uncture",
+            "ickr",
+            "emonium",
+            " Matter",
+            "evidence",
+            " Flavoring",
+            " hazard",
+            "early"
+        ],
+        "positive_strings": [
+            "owship",
+            "andowski",
+            "bats",
+            "bugs",
+            "worm",
+            "bage",
+            " crabs",
+            "birds",
+            " Saiyan",
+            "awan"
+        ],
+        "description": "mentions of husbands, often associated with different situations or actions involving them"
+    },
+    {
+        "index": "23854",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/husband/data_for_feature_23854.json",
+        "negative_strings": [
+            "ickr",
+            "ablishment",
+            " Flavoring",
+            "umbn",
+            "govtrack",
+            "olulu",
+            "vernment",
+            "anchester",
+            "PsyNetMessage",
+            "asking"
+        ],
+        "positive_strings": [
+            "birds",
+            "bugs",
+            "izont",
+            "\ufffd",
+            "andowski",
+            "bats",
+            "\u30d3",
+            "wife",
+            "\u30fc\u30c6",
+            "iHUD"
+        ],
+        "description": "mentions of the word \"husband\" in various contexts"
+    }
+]

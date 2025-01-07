@@ -1,0 +1,602 @@
+[
+    {
+        "index": "89903",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_89903.json",
+        "negative_strings": [
+            "sak",
+            "verity",
+            "etsk",
+            "/Foundation",
+            "ritel",
+            "olut",
+            "yt",
+            "ikat",
+            "untas",
+            "akt"
+        ],
+        "positive_strings": [
+            " King",
+            "King",
+            " king",
+            " KING",
+            " Jr",
+            "\u00e3\u0124\u0143\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            " Kind",
+            "king",
+            " Kings",
+            " Luther"
+        ],
+        "description": "references to Martin Luther King Jr. and associated mentions related to him"
+    },
+    {
+        "index": "60642",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_60642.json",
+        "negative_strings": [
+            "olut",
+            "sak",
+            "akt",
+            "iker",
+            "untas",
+            "ennes",
+            "edii",
+            " haul",
+            "uki",
+            "etwork"
+        ],
+        "positive_strings": [
+            " King",
+            "king",
+            "King",
+            " king",
+            " KING",
+            " Kings",
+            "\u00e3\u0124\u0143\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            " Jr",
+            "\u00e7\u0130\u012d",
+            " jr"
+        ],
+        "description": "references to Martin Luther King Jr. and discussions of civil rights"
+    },
+    {
+        "index": "2869",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_2869.json",
+        "negative_strings": [
+            "tps",
+            "obic",
+            "peater",
+            "vester",
+            "oxel",
+            "\u00e3\u0125\u0125\u00e3\u0124\u00ab\u00e3\u0125\u00bc",
+            " Nickel",
+            "iox",
+            "\u00d0\u00b8\u00d0\u00b6",
+            " dias"
+        ],
+        "positive_strings": [
+            " Mac",
+            " Duncan",
+            "Mac",
+            " Ban",
+            " Lady",
+            " Scotland",
+            " Malcolm",
+            " mac",
+            " MAC",
+            "MAC"
+        ],
+        "description": "references to characters and themes from Shakespeare's \"King Lear.\""
+    },
+    {
+        "index": "13673",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_13673.json",
+        "negative_strings": [
+            "okit",
+            "iglia",
+            "sik",
+            "ourcem",
+            "ylan",
+            "sed",
+            "\u00e1\u00ba\u00a5n",
+            "sse",
+            "allas",
+            "vvm"
+        ],
+        "positive_strings": [
+            "fish",
+            "pin",
+            "dom",
+            "pins",
+            "ston",
+            "maker",
+            " Kong",
+            "ergarten",
+            "makers",
+            "horn"
+        ],
+        "description": " mentions of the word \"king\" in various contexts"
+    },
+    {
+        "index": "59070",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_59070.json",
+        "negative_strings": [
+            "icone",
+            "oxel",
+            "iddy",
+            "ahren",
+            "tsky",
+            "\u00ce\u00b9\u00ce\u00b1\u00ce\u00ba",
+            "td",
+            "arest",
+            "ennes",
+            "enez"
+        ],
+        "positive_strings": [
+            "ley",
+            "bury",
+            "olver",
+            "mill",
+            "way",
+            "north",
+            " Lynn",
+            "wood",
+            "land",
+            "ford"
+        ],
+        "description": "references to kings and related synonyms or derivatives"
+    },
+    {
+        "index": "5188",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_5188.json",
+        "negative_strings": [
+            "sed",
+            " Kraj",
+            "alous",
+            "sar",
+            "sik",
+            "scape",
+            "sse",
+            "leck",
+            "okit",
+            "sert"
+        ],
+        "positive_strings": [
+            "pin",
+            "fish",
+            "dom",
+            "pins",
+            "ston",
+            "ergarten",
+            "ht",
+            " lear",
+            "maker",
+            "DOM"
+        ],
+        "description": "references to kings and significant royal figures"
+    },
+    {
+        "index": "80471",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_80471.json",
+        "negative_strings": [
+            "apiro",
+            "resco",
+            "ibling",
+            "ifact",
+            "ilst",
+            "orch",
+            "erval",
+            "asje",
+            "igy",
+            "POCH"
+        ],
+        "positive_strings": [
+            " Martin",
+            " King",
+            " Rev",
+            " Marin",
+            " Rever",
+            " martin",
+            " ML",
+            "Martin",
+            "Rev",
+            " MART"
+        ],
+        "description": " references to Martin Luther King Jr. and his contributions"
+    },
+    {
+        "index": "123553",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_123553.json",
+        "negative_strings": [
+            "\u00d0\u00be\u00d0\u00bc\u00d0\u00b5\u00d1\u0122",
+            "amble",
+            "ureau",
+            "amate",
+            "\u00d0\u00bf\u00d0\u00b8\u00d1\u0123",
+            "outers",
+            "/Test",
+            ".Constraint",
+            "sep",
+            "ilers"
+        ],
+        "positive_strings": [
+            "K",
+            "King",
+            "GW",
+            " King",
+            "aza",
+            "KL",
+            "GBT",
+            " KING",
+            "awah",
+            "\u00e3\u0124\u0143\u00e3\u0125\u00b3\u00e3\u0124\u00b0"
+        ],
+        "description": "references to Martin Luther King Jr. and his legacy"
+    },
+    {
+        "index": "71794",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_71794.json",
+        "negative_strings": [
+            "ylvania",
+            "\u00e6\u00b4\u012d",
+            "iker",
+            "elsen",
+            "ovit",
+            "ennes",
+            " load",
+            "adies",
+            " wz",
+            "eshire"
+        ],
+        "positive_strings": [
+            " King",
+            "king",
+            "King",
+            " Jr",
+            " king",
+            " KING",
+            " Luther",
+            "\u00e3\u0124\u0143\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            " jr",
+            "\u00e7\u0130\u012d"
+        ],
+        "description": " mentions of Martin Luther King Jr. and related figures"
+    },
+    {
+        "index": "106643",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_106643.json",
+        "negative_strings": [
+            "undry",
+            "uien",
+            "urent",
+            "unik",
+            "sak",
+            "uron",
+            "uren",
+            "s",
+            "ullo",
+            "uelles"
+        ],
+        "positive_strings": [
+            "esses",
+            "ess",
+            "heart",
+            " cub",
+            "-hearted",
+            "fish",
+            " Cub",
+            "hart",
+            " Cubs",
+            "head"
+        ],
+        "description": " references to the Lion King"
+    },
+    {
+        "index": "100727",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_100727.json",
+        "negative_strings": [
+            "akra",
+            "LEC",
+            "untime",
+            ".tom",
+            "prav",
+            "\u00e5\u0138\u00b6",
+            "toi",
+            "\u00db\u012e\u00d8\u00b2\u00db\u012e",
+            " toc",
+            "\u00e3\u0123\u012d\u00e3\u0124\u012c"
+        ],
+        "positive_strings": [
+            " Luther",
+            " King",
+            " king",
+            "King",
+            " KING",
+            " l",
+            " Jr",
+            "uther",
+            "king",
+            " Ni"
+        ],
+        "description": "references to Martin Luther King Jr"
+    },
+    {
+        "index": "27764",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_27764.json",
+        "negative_strings": [
+            "sed",
+            "sik",
+            "alous",
+            "sar",
+            "scape",
+            "leck",
+            "allas",
+            " Kraj",
+            "\u012e\u00a8",
+            "vens"
+        ],
+        "positive_strings": [
+            "pin",
+            "dom",
+            "pins",
+            "fish",
+            "ston",
+            " lear",
+            "ergarten",
+            "PIN",
+            "DOM",
+            "maker"
+        ],
+        "description": "references to \"King\" or variations of the word in different contexts"
+    },
+    {
+        "index": "1348",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_1348.json",
+        "negative_strings": [
+            "ansom",
+            "eor",
+            "ardless",
+            "tach",
+            "unca",
+            "untime",
+            "sie",
+            "kie",
+            "quals",
+            "nout"
+        ],
+        "positive_strings": [
+            " Luther",
+            "ique",
+            "elli",
+            "IQUE",
+            "iqu",
+            "borough",
+            "engo",
+            "uzzi",
+            "ussen",
+            "ho"
+        ],
+        "description": "references to Martin Luther King Jr. and related contexts"
+    },
+    {
+        "index": "27",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_27.json",
+        "negative_strings": [
+            "sse",
+            "imers",
+            "ourcem",
+            "s",
+            "ousse",
+            "sik",
+            "okit",
+            "anela",
+            "uff",
+            "svc"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "dom",
+            "maker",
+            "fish",
+            "makers",
+            "liest",
+            "ston",
+            "-pin",
+            "Pin"
+        ],
+        "description": "references to \"king\" and related terms or figures in various contexts"
+    },
+    {
+        "index": "27177",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_27177.json",
+        "negative_strings": [
+            "iglia",
+            "@js",
+            "sch",
+            "s\u00c3\u0143",
+            "sar",
+            "\u012e\u00a8",
+            "QRST",
+            "ulant",
+            "adera",
+            "ancia"
+        ],
+        "positive_strings": [
+            "fish",
+            "uss",
+            "ston",
+            " Fah",
+            "man",
+            "stown",
+            "standing",
+            " County",
+            "dom",
+            "stone"
+        ],
+        "description": "references to the term \"King.\""
+    },
+    {
+        "index": "2269",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_2269.json",
+        "negative_strings": [
+            "quam",
+            "rawer",
+            "nout",
+            "onda",
+            "osu",
+            "ardless",
+            "eor",
+            "erer",
+            "rd",
+            "ansom"
+        ],
+        "positive_strings": [
+            " Luther",
+            "ique",
+            "elli",
+            "IQUE",
+            "engo",
+            "borough",
+            "ussen",
+            "son",
+            "iqu",
+            "iano"
+        ],
+        "description": "references to historical figures, particularly Martin Luther King Jr"
+    },
+    {
+        "index": "23906",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/king/data_for_feature_23906.json",
+        "negative_strings": [
+            "sar",
+            "sed",
+            "sik",
+            "scape",
+            "\u012e\u00a8",
+            "ourcem",
+            "leck",
+            "anmar",
+            " Kraj",
+            "alous"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "dom",
+            "fish",
+            "ston",
+            " lear",
+            "ergarten",
+            "ht",
+            " Kong",
+            "DOM"
+        ],
+        "description": "references to \"King\" or related titles and variations in various contexts"
+    },
+    {
+        "index": "31293",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_31293.json",
+        "negative_strings": [
+            "ancia",
+            "scape",
+            "sar",
+            "sel",
+            "sik",
+            " Kraj",
+            "vens",
+            "urved",
+            "sed",
+            "alous"
+        ],
+        "positive_strings": [
+            "dom",
+            "fish",
+            "ston",
+            "pin",
+            "ht",
+            " lear",
+            "pins",
+            " Lear",
+            " Crimson",
+            " Arthur"
+        ],
+        "description": " mentions of the word \"King.\""
+    },
+    {
+        "index": "23783",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_23783.json",
+        "negative_strings": [
+            "addListener",
+            "ikip",
+            "amate",
+            "kili",
+            "quam",
+            " Yo",
+            "\u00eb\u0124\u013e",
+            "\u00d0\u00ba\u00d0\u00bb\u00d0\u00b0\u00d0\u00b4",
+            "\u00ed\u0126\u00b0",
+            "osu"
+        ],
+        "positive_strings": [
+            "itary",
+            "ive",
+            "iddy",
+            "GW",
+            "itt",
+            "LET",
+            "\u00e5\u00b1",
+            "omp",
+            "HttpRequest",
+            "jure"
+        ],
+        "description": "references to Martin Luther King Jr. (MLK)"
+    },
+    {
+        "index": "8930",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/king/data_for_feature_8930.json",
+        "negative_strings": [
+            " wz",
+            "ylvania",
+            "iker",
+            "ikat",
+            "hcp",
+            "\u00e6\u00b4\u012d",
+            "elsen",
+            "otal",
+            "edii",
+            ".tel"
+        ],
+        "positive_strings": [
+            " King",
+            "King",
+            "king",
+            " king",
+            " KING",
+            " Jr",
+            "\u00e3\u0124\u0143\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            " Kings",
+            " Luther",
+            "\u00e7\u0130\u012d"
+        ],
+        "description": "references to Martin Luther King Jr. and related topics"
+    }
+]

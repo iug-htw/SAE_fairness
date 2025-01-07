@@ -1,0 +1,92 @@
+[
+    {
+        "index": "67584",
+        "layer": "18-llamascope-mlp-131k",
+        "url": "json/llama-scope/grandma/data_for_feature_67584.json",
+        "negative_strings": [
+            "licht",
+            "\u00e6\u00ba\u00b6",
+            "ajor",
+            "iare",
+            "aus",
+            " \u00e5\u012d",
+            "andalone",
+            "\u00e8\u012f\u012b",
+            "waukee",
+            "\u00d0\u00b4\u00d0\u00b0\u00d1\u0130\u00d1\u0124"
+        ],
+        "positive_strings": [
+            "bol",
+            "apult",
+            " minim",
+            "iosper",
+            ".Auto",
+            "opian",
+            "iox",
+            "PCM",
+            " Az",
+            "owitz"
+        ],
+        "description": "words related to \"Grand\" or \"Grandma.\""
+    },
+    {
+        "index": "81900",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/grandma/data_for_feature_81900.json",
+        "negative_strings": [
+            "yl",
+            "ens",
+            "onen",
+            "erm",
+            "ernes",
+            "gaard",
+            "rega",
+            "cf",
+            "ly",
+            "ong"
+        ],
+        "positive_strings": [
+            "\u00c4\u013dti",
+            " Shak",
+            "ehler",
+            "kowski",
+            "leston",
+            "hte",
+            "ceipt",
+            "bolt",
+            " circle",
+            "ublisher"
+        ],
+        "description": "mentions of \"grandma\" in various contexts"
+    },
+    {
+        "index": "93412",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/grandma/data_for_feature_93412.json",
+        "negative_strings": [
+            "kt",
+            "trs",
+            " switch",
+            "oke",
+            "\u00e0\u00b8\u00a1\u00e0\u00b8\u0124",
+            "ono",
+            "gn",
+            " Stanton",
+            "prs",
+            " perse"
+        ],
+        "positive_strings": [
+            "iani",
+            "uffix",
+            "iskey",
+            "ousse",
+            "aub",
+            " Orta",
+            "connexion",
+            "\u00d1\u0123\u00d0\u00b8",
+            "\u00c3\u00b3ria",
+            "409"
+        ],
+        "description": "mentions of familial or personal relationships, particularly focused on the term \"Grandma\""
+    }
+]

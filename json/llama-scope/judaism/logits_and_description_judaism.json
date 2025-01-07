@@ -1,0 +1,602 @@
+[
+    {
+        "index": "13178",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_13178.json",
+        "negative_strings": [
+            "rana",
+            "rael",
+            "-Israel",
+            " Israel",
+            "MDB",
+            "Israel",
+            " Israelis",
+            " Incontri",
+            "Israeli",
+            "\u00e3\u0124\u00a4\u00e3\u0124\u00b9"
+        ],
+        "positive_strings": [
+            " Has",
+            " Hass",
+            " Lub",
+            "Has",
+            " Orth",
+            " Ultra",
+            " hass",
+            "Orth",
+            " Sep",
+            " ultra"
+        ],
+        "description": " references to different streams and identities within Judaism"
+    },
+    {
+        "index": "11870",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_11870.json",
+        "negative_strings": [
+            "elf",
+            "286",
+            "older",
+            "ebo",
+            "flo",
+            "\u00e0\u00b9\u012a\u00e0\u00b8\u00b2\u00e0\u00b8\u0129\u00e0\u00b8\u0123",
+            "onen",
+            "eroon",
+            "ombo",
+            "neau"
+        ],
+        "positive_strings": [
+            "-Christian",
+            "ophobic",
+            "ocracy",
+            "anism",
+            "anness",
+            "istic",
+            "gement",
+            "ism",
+            "ocide",
+            "gment"
+        ],
+        "description": "references to Judaism and related concepts"
+    },
+    {
+        "index": "70256",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_70256.json",
+        "negative_strings": [
+            " Wyoming",
+            "_US",
+            " Sioux",
+            " americ",
+            " \u00d8\u00a7\u00d8",
+            "uche",
+            " Indones",
+            "FTWARE",
+            "ighton",
+            " Wilmington"
+        ],
+        "positive_strings": [
+            " Constant",
+            " Nero",
+            " Emperor",
+            " emperor",
+            " Rome",
+            " persec",
+            "Constant",
+            " Constantin",
+            " pag",
+            " Pag"
+        ],
+        "description": " references to historical power dynamics involving Judaism and Christianity"
+    },
+    {
+        "index": "25333",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_25333.json",
+        "negative_strings": [
+            "uzu",
+            "y",
+            " terminal",
+            "\u00e5\u00a2\u0125",
+            "alue",
+            "yb",
+            "ubes",
+            "ANDARD",
+            "sns",
+            "nika"
+        ],
+        "positive_strings": [
+            "bi",
+            "bin",
+            "bits",
+            "shake",
+            "bon",
+            "ble",
+            "\u00d0\u00b1\u00d0\u00b8",
+            "ban",
+            "-bin",
+            "\u00ce\u00b2\u00ce\u00b9"
+        ],
+        "description": "terms associated with religious authority figures, specifically those within Judaism"
+    },
+    {
+        "index": "77627",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_77627.json",
+        "negative_strings": [
+            "olen",
+            "IAS",
+            "etik",
+            "iability",
+            "lington",
+            "\u00d8\u00b7\u00d9\u0123",
+            "\u00e0\u00b8\u00b5\u00e0\u00b9\u0124",
+            "AMESPACE",
+            "Ticker",
+            "\u00ea\u00b3\u00bc\u00ec\u013f\u013a"
+        ],
+        "positive_strings": [
+            "ical",
+            "owitz",
+            "ut",
+            " cal",
+            "ale",
+            "ute",
+            "uda",
+            "bate",
+            " cad",
+            "bin"
+        ],
+        "description": " words related to religious authority and roles within Judaism"
+    },
+    {
+        "index": "126029",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_126029.json",
+        "negative_strings": [
+            " Shib",
+            "avel",
+            "omb",
+            "annah",
+            "atures",
+            "aps",
+            "ond",
+            "utation",
+            "aud",
+            "arte"
+        ],
+        "positive_strings": [
+            "ica",
+            "ean",
+            "EO",
+            "ism",
+            "izers",
+            "ic",
+            "istic",
+            "ical",
+            "HITE",
+            "izing"
+        ],
+        "description": " references to Jewish studies or Judaism-related terms"
+    },
+    {
+        "index": "31737",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_31737.json",
+        "negative_strings": [
+            "nze",
+            "\u00e5\u00a2\u0125",
+            "uzu",
+            "ANDARD",
+            "ktion",
+            "iving",
+            "\u00d0\u00be\u00d0\u00bc\u00d1\u0138",
+            "ivant",
+            "y",
+            "zing"
+        ],
+        "positive_strings": [
+            "bin",
+            "bi",
+            "bits",
+            " Rab",
+            "bon",
+            " rab",
+            "ble",
+            "ban",
+            "shake",
+            "idity"
+        ],
+        "description": " references to religious figures and titles related to Judaism"
+    },
+    {
+        "index": "39080",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_39080.json",
+        "negative_strings": [
+            ".strict",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "adiens",
+            "\u00d9\u012a\u00d9\u0128\u00d9\u0129",
+            "htaking",
+            "razione",
+            "ertext",
+            "idunt",
+            " escorte",
+            " Cumhur"
+        ],
+        "positive_strings": [
+            "ans",
+            "an",
+            "a",
+            "h",
+            "o",
+            "ao",
+            "gment",
+            "gement",
+            "-Christian",
+            "ocide"
+        ],
+        "description": "terms related to Judaism and Judeo-Christian themes"
+    },
+    {
+        "index": "29646",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_29646.json",
+        "negative_strings": [
+            "uzu",
+            "omid",
+            "ktion",
+            "ANDARD",
+            "ery",
+            "alue",
+            "ibaba",
+            "\u00e5\u00a2\u0125",
+            "ilers",
+            "zza"
+        ],
+        "positive_strings": [
+            "bin",
+            "bits",
+            " Rab",
+            " rab",
+            "BIT",
+            "shake",
+            "bi",
+            "cad",
+            "ble",
+            "idity"
+        ],
+        "description": " references to religious figures or titles, particularly those associated with Judaism"
+    },
+    {
+        "index": "102801",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_102801.json",
+        "negative_strings": [
+            ".strict",
+            "andin",
+            "htaking",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "din",
+            "\u00d0\u00b0\u00d0\u00bb\u00d0\u00b5\u00d0\u00b6",
+            "eway",
+            "\u00d9\u012a\u00d9\u0128\u00d9\u0129",
+            "ertext",
+            " US"
+        ],
+        "positive_strings": [
+            "gment",
+            "gement",
+            "a",
+            "ans",
+            "ovah",
+            "ao",
+            "edor",
+            "\u00e7\u0136\u00b7\u00e6\u0122\u00a7",
+            "-Christian",
+            "gments"
+        ],
+        "description": "references to Judaism and related terminology"
+    },
+    {
+        "index": "28695",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_28695.json",
+        "negative_strings": [
+            "ighton",
+            "zet",
+            "vant",
+            "ilers",
+            "ktion",
+            "ery",
+            " \u00e5\u0131\u00a4",
+            "uzu",
+            "\u00c3\u00a7\u00c3\u00a3o",
+            "ibaba"
+        ],
+        "positive_strings": [
+            "bin",
+            "bits",
+            "bi",
+            " rab",
+            " Rab",
+            "bing",
+            "ble",
+            "cad",
+            "BIT",
+            "shake"
+        ],
+        "description": "references to Judaism and its leaders, particularly titles like \"Rabbi.\""
+    },
+    {
+        "index": "42517",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_42517.json",
+        "negative_strings": [
+            "etik",
+            "\u00d8\u00b7\u00d9\u0123",
+            "olen",
+            "\u00e0\u00b8\u00b5\u00e0\u00b9\u0124",
+            "\u00c3\u00b3st",
+            "woord",
+            "OLON",
+            "\u00ed\u0125\u0137",
+            "AMESPACE",
+            "ypi"
+        ],
+        "positive_strings": [
+            "ical",
+            "owitz",
+            "erse",
+            "erp",
+            "ale",
+            "erk",
+            " cal",
+            "er",
+            " cad",
+            "erin"
+        ],
+        "description": "words related to religious roles or titles within Judaism"
+    },
+    {
+        "index": "14951",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_14951.json",
+        "negative_strings": [
+            "erken",
+            "foy",
+            "\u00c5\u013beba",
+            "ikip",
+            "erase",
+            "bob",
+            "ooke",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0129",
+            " Truy",
+            "\u00d9\u0126\u00d9\u012a"
+        ],
+        "positive_strings": [
+            "is",
+            "inate",
+            "ler",
+            "inic",
+            "ionic",
+            "ages",
+            "ane",
+            "alah",
+            " round",
+            "aim"
+        ],
+        "description": "words related to religious authority, specifically within Judaism"
+    },
+    {
+        "index": "22260",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/judaism/data_for_feature_22260.json",
+        "negative_strings": [
+            "ighton",
+            "ivant",
+            "\u00c3\u0141e",
+            "atural",
+            "ropoda",
+            "nze",
+            "ktion",
+            "nce",
+            "leton",
+            "unga"
+        ],
+        "positive_strings": [
+            " rab",
+            " Rab",
+            "bin",
+            "idity",
+            "rab",
+            "bi",
+            "cad",
+            " rabbits",
+            "ble",
+            "bers"
+        ],
+        "description": " references to religious titles or terms related to Judaism"
+    },
+    {
+        "index": "46333",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_46333.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "peria",
+            "tery",
+            "eyin",
+            "\u00d1\u0122\u00d1\u0125\u00d1\u0129",
+            "lou",
+            "ISON",
+            "AndHashCode",
+            "vertime",
+            "\u00e7\u00b9\u0136"
+        ],
+        "positive_strings": [
+            "iles",
+            " Gent",
+            "ile",
+            " gent",
+            " nations",
+            "tiles",
+            " Gentle",
+            "ILES",
+            " Christian",
+            " converts"
+        ],
+        "description": "references to diverse cultural or ethnic groups, particularly with contexts relating to Judaism and its intersection with other identities"
+    },
+    {
+        "index": "62444",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_62444.json",
+        "negative_strings": [
+            "ografie",
+            "ifer",
+            " h\u00c3\u0142nh",
+            "isted",
+            "foy",
+            "esel",
+            "ofil",
+            " virgin",
+            "PointF",
+            "oba"
+        ],
+        "positive_strings": [
+            "inate",
+            "inic",
+            "anut",
+            "ban",
+            " Nach",
+            "bin",
+            " rab",
+            "anim",
+            " rabbits",
+            "loi"
+        ],
+        "description": "terms related to religious or rabbinic authority within Judaism"
+    },
+    {
+        "index": "99948",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_99948.json",
+        "negative_strings": [
+            "acre",
+            "omb",
+            "atty",
+            "\u00cf\u0123\u00ce\u00b7",
+            "ombo",
+            "voy",
+            "olen",
+            " \u00d1\u0123\u00d1\u0124\u00d0\u00b0\u00d0\u00bd\u00d0\u00be\u00d0\u00b2",
+            "\u00d0\u00be\u00d0\u00bd\u00d0\u00b8",
+            "uten"
+        ],
+        "positive_strings": [
+            "-Christian",
+            "deo",
+            "EDA",
+            ".comm",
+            "\u00d0\u00b5\u00d0\u00be",
+            "-ajax",
+            "VERR",
+            "aising",
+            "gment",
+            "aised"
+        ],
+        "description": " terms and phrases related to Judaism"
+    },
+    {
+        "index": "74629",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_74629.json",
+        "negative_strings": [
+            "xfff",
+            " Pare",
+            "ippet",
+            "\u00e0\u00b8\u00b5\u00e0\u00b9\u0122\u00e0\u00b8\u0143",
+            "nesc",
+            "conds",
+            "_STA",
+            "\u00d8\u00ac\u00d9\u0128",
+            " Niet",
+            "etter"
+        ],
+        "positive_strings": [
+            " Temple",
+            " temple",
+            "/tab",
+            " tab",
+            "Tem",
+            " TEM",
+            "-tab",
+            "tem",
+            " temples",
+            " Tab"
+        ],
+        "description": " references to religious themes and structures related to Judaism and its historical context"
+    },
+    {
+        "index": "76404",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_76404.json",
+        "negative_strings": [
+            "atty",
+            "olen",
+            " \u00d1\u0123\u00d1\u0124\u00d0\u00b0\u00d0\u00bd\u00d0\u00be\u00d0\u00b2",
+            "omon",
+            "ond",
+            "r\u00c3\u00a9",
+            "\u00cf\u0123\u00ce\u00b7",
+            "inh",
+            "yang",
+            "omb"
+        ],
+        "positive_strings": [
+            "-Christian",
+            "EDA",
+            "deo",
+            "aised",
+            " Jud",
+            "\u00d1\u012a\u00d0\u00ba\u00d0\u00b8",
+            "iyim",
+            " Mine",
+            "enko",
+            "caff"
+        ],
+        "description": " references to Judaism and related studies"
+    },
+    {
+        "index": "120653",
+        "layer": "31-llamascope-mlp-131k",
+        "url": "json/llama-scope/judaism/data_for_feature_120653.json",
+        "negative_strings": [
+            "\u00e0\u00a4\u00ab",
+            " QUEUE",
+            " \u00d9\u0128\u00d8\u00a7\u00d8\u0143",
+            "\u00ce\u00b9\u00ce\u00bf",
+            "\u00cf\u0123\u00ce\u00b5",
+            " \u00d9\u0126\u00d8\u00af\u00d9\u012c",
+            " |-",
+            " worldly",
+            "\u00e3\u0124\u00a4\u00e3\u0124\u00ba",
+            "\u0137"
+        ],
+        "positive_strings": [
+            " Illustrated",
+            " Hardcover",
+            " Paperback",
+            " ISBN",
+            " Workbook",
+            " eBook",
+            " ed",
+            " Revised",
+            " Edited",
+            " workbook"
+        ],
+        "description": " terminology and concepts related to Judaism and its historical context"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "86390",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_86390.json",
+        "negative_strings": [
+            "izer",
+            "\u00e5\u013b\u00a8",
+            "agn",
+            "TED",
+            "ECT",
+            "ager",
+            " baptized",
+            "ation",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b3",
+            "able"
+        ],
+        "positive_strings": [
+            " Portions",
+            " study",
+            " portion",
+            " portions",
+            " scroll",
+            "portion",
+            "oment",
+            "\tscroll",
+            "ertz",
+            "\u00c4\u012f\u00c3\u0143"
+        ],
+        "description": " references to the Torah and its related concepts"
+    },
+    {
+        "index": "96697",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_96697.json",
+        "negative_strings": [
+            "TED",
+            "ingly",
+            " baptized",
+            "\u00e4\u00b8\u012f\u00e4\u00ba\u0128",
+            "able",
+            "\u00e5\u013b\u00a8",
+            "ging",
+            "urs",
+            " encount",
+            "ation"
+        ],
+        "positive_strings": [
+            "quito",
+            "otel",
+            "lectron",
+            " study",
+            "chin",
+            "\u00c4\u012f\u00c3\u0143",
+            "issen",
+            " D\u00c3\u00b6n",
+            "/angular",
+            "paque"
+        ],
+        "description": " references to Jewish religious texts, particularly the Torah and the Bible"
+    },
+    {
+        "index": "2086",
+        "layer": "20-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_2086.json",
+        "negative_strings": [
+            "rollo",
+            " Lam",
+            " Tide",
+            "Alive",
+            "orta",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00bc",
+            "emax",
+            "pps",
+            " mic",
+            "abbo"
+        ],
+        "positive_strings": [
+            " Aaron",
+            "-tab",
+            "Aaron",
+            "nap",
+            " tab",
+            " bam",
+            "itzer",
+            " Tab",
+            "ikel",
+            " Mig"
+        ],
+        "description": " references to sacrifices and religious rituals from the Torah"
+    },
+    {
+        "index": "15745",
+        "layer": "4-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_15745.json",
+        "negative_strings": [
+            "nos",
+            "iet",
+            "ount",
+            " Scoped",
+            "953",
+            "akat",
+            "imson",
+            "coni",
+            "IVAL",
+            "ies"
+        ],
+        "positive_strings": [
+            "oste",
+            "@nate",
+            " Thousand",
+            "ylon",
+            "'field",
+            " Chu",
+            " tent",
+            "icl",
+            "\u00d9\u012a\u00db\u012e\u00d9\u0128",
+            " Wander"
+        ],
+        "description": " references to Moses and the Torah"
+    },
+    {
+        "index": "10880",
+        "layer": "6-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_10880.json",
+        "negative_strings": [
+            "yd",
+            "\u00e5\u0143\u013a\u00e4\u00ba\u0130",
+            "te\u00c5\u0141",
+            "nin",
+            "aye",
+            "ero",
+            "tery",
+            "\u00e6\u00b0\u00b8\u00e4\u00b9\u0127",
+            "amina",
+            " newPos"
+        ],
+        "positive_strings": [
+            "\u00c5\u013ben",
+            "CCI",
+            " Indies",
+            "\u00e3\u0125\u00a3",
+            "abyrinth",
+            "oppable",
+            "\u00e8\u012a\u0140",
+            "iller",
+            " Pulitzer",
+            " Ideal"
+        ],
+        "description": "references to significant figures and concepts in religious texts, particularly related to Moses and the Torah"
+    },
+    {
+        "index": "50865",
+        "layer": "7-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_50865.json",
+        "negative_strings": [
+            "een",
+            "a",
+            "uco",
+            "lying",
+            "umen",
+            "e",
+            "u",
+            " '",
+            "lem",
+            "\u00ce\u00ae\u00cf\u0124"
+        ],
+        "positive_strings": [
+            "/WebAPI",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            "\u00ce\u00be\u00ce\u00b9",
+            "\u00c4\u012fil",
+            " c\u00c3\u00a9lib",
+            "$__",
+            "POOL",
+            "\u00ea\u00b8\u0122",
+            ".nasa",
+            "ulace"
+        ],
+        "description": " references to the Torah and its components"
+    },
+    {
+        "index": "24341",
+        "layer": "8-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_24341.json",
+        "negative_strings": [
+            "a",
+            "lying",
+            "umen",
+            "loh",
+            "lem",
+            "\u00ce\u00ae\u00cf\u0124",
+            "uers",
+            "een",
+            "u",
+            "zero"
+        ],
+        "positive_strings": [
+            "/WebAPI",
+            "\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bb",
+            "ABCDEFGHIJKLMNOP",
+            "$__",
+            " D\u00c3\u00bcn",
+            "\u00c4\u012fan",
+            "ska",
+            ".nasa",
+            "\u00ea\u00b8\u0122",
+            "asic"
+        ],
+        "description": " references to religious texts, specifically the Torah and its related concepts"
+    },
+    {
+        "index": "81244",
+        "layer": "6-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_81244.json",
+        "negative_strings": [
+            "een",
+            "a",
+            " '",
+            "lisi",
+            "\u00ce\u00ae\u00cf\u0124",
+            "lying",
+            "nil",
+            "umen",
+            "ersive",
+            "gings"
+        ],
+        "positive_strings": [
+            " c\u00c3\u00a9lib",
+            " INTERRUPTION",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            "akedirs",
+            "/WebAPI",
+            "POOL",
+            "asic",
+            " Astronomy",
+            "TargetException",
+            ".psi"
+        ],
+        "description": "references to religious texts, particularly the Torah and the Bible"
+    },
+    {
+        "index": "16232",
+        "layer": "5-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_16232.json",
+        "negative_strings": [
+            "ount",
+            "reau",
+            "ahat",
+            "imson",
+            "arta",
+            "te\u00c5\u0141",
+            " okul",
+            " moh",
+            "iet",
+            "ings"
+        ],
+        "positive_strings": [
+            "oppable",
+            "\u00e7\u0137\u00a5",
+            "abyrinth",
+            "@nate",
+            "orge",
+            "\u00e1\u00ba\u00a3",
+            "allee",
+            " hack",
+            " Blind",
+            "\u00e3\u0125\u00a3"
+        ],
+        "description": " references to biblical figures and concepts, particularly those related to Moses and the Torah"
+    },
+    {
+        "index": "128722",
+        "layer": "5-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_128722.json",
+        "negative_strings": [
+            "ums",
+            "\u00ce\u00ae\u00cf\u0124",
+            "lying",
+            "umen",
+            "a",
+            "\n",
+            "unci",
+            "alog",
+            " scarc",
+            "age"
+        ],
+        "positive_strings": [
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            "\u00d0\u00be\u00d0\u00bf\u00d0\u00be\u00d0\u00bb",
+            "ILD",
+            ".addProperty",
+            "EDIA",
+            "\u00e2\u0122\u00ab",
+            "/WebAPI",
+            ".nasa",
+            "\u00ea\u00b8\u0122",
+            "\u010c"
+        ],
+        "description": "references to the Torah and related concepts"
+    },
+    {
+        "index": "12519",
+        "layer": "4-llamascope-mlp-32k",
+        "url": "json/llama-scope/torah/data_for_feature_12519.json",
+        "negative_strings": [
+            " Eag",
+            "iet",
+            ".Parcelable",
+            "\u00e3\u0123\u00a3\u00e3\u0123\u00b1\u00e3\u0123\u0126",
+            "arium",
+            "ripper",
+            "CKER",
+            "ount",
+            " Beaver",
+            "\u00c3\u00bc\u00c3\u00a7\u00c3\u00bck"
+        ],
+        "positive_strings": [
+            "\u00d9\u012a\u00db\u012e\u00d9\u0128",
+            "ibu",
+            "bell",
+            "ubl",
+            " interchangeable",
+            " Carb",
+            "unched",
+            " Erd",
+            "ktor",
+            " carb"
+        ],
+        "description": "references to religious figures and texts, particularly those related to Moses and the Torah"
+    },
+    {
+        "index": "3169",
+        "layer": "4-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_3169.json",
+        "negative_strings": [
+            "\u00ce\u00ae\u00cf\u0124",
+            "ges",
+            "ums",
+            " cou",
+            "lisi",
+            ".",
+            "_UUID",
+            " provoke",
+            "_ops",
+            "iar"
+        ],
+        "positive_strings": [
+            ".scalablytyped",
+            "ABCDEFGHIJKLMNOP",
+            "ulace",
+            "/WebAPI",
+            "akedirs",
+            "ILLE",
+            ".firebaseapp",
+            "aversable",
+            "paged",
+            "\u00ce\u00af\u00ce\u00b4\u00ce\u00b1"
+        ],
+        "description": " mentions of the Torah or its components"
+    },
+    {
+        "index": "39726",
+        "layer": "3-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_39726.json",
+        "negative_strings": [
+            "ow",
+            " bet",
+            "nil",
+            " cou",
+            "imers",
+            "mother",
+            "hall",
+            " brows",
+            "her",
+            "\u00ce\u00ae\u00cf\u0124"
+        ],
+        "positive_strings": [
+            ".scalablytyped",
+            "linkplain",
+            "ABCDEFGHIJKLMNOP",
+            "gamber",
+            "ABCDEFGHI",
+            "/WebAPI",
+            "asename",
+            "abcdefghijklmnop",
+            "longleftrightarrow",
+            "ABCDEFG"
+        ],
+        "description": " references to the Torah and its teachings"
+    },
+    {
+        "index": "21702",
+        "layer": "3-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_21702.json",
+        "negative_strings": [
+            " Hir",
+            "rome",
+            "iest",
+            "861",
+            "Submitted",
+            "ergus",
+            " Lyons",
+            "ies",
+            "ung",
+            "\u00e6\u00b4"
+        ],
+        "positive_strings": [
+            "ellow",
+            "emean",
+            "/do",
+            "adero",
+            "hma",
+            "Und",
+            "alie",
+            "empo",
+            "::.",
+            "FU"
+        ],
+        "description": " references to Moses and the Torah"
+    },
+    {
+        "index": "2705",
+        "layer": "22-llamascope-mlp-32k",
+        "url": "json/llama-scope/torah/data_for_feature_2705.json",
+        "negative_strings": [
+            "CI",
+            "anut",
+            "910",
+            "inho",
+            "ymoon",
+            "sah",
+            "rans",
+            "ually",
+            " distracted",
+            "Drag"
+        ],
+        "positive_strings": [
+            "imony",
+            "odium",
+            "ync",
+            "ssi",
+            "atic",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u012a",
+            "\u00e3\u0125\u0125",
+            " front",
+            "asion",
+            "erior"
+        ],
+        "description": "references to religious texts and commandments, particularly in relation to the Torah and Moses"
+    },
+    {
+        "index": "83163",
+        "layer": "2-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_83163.json",
+        "negative_strings": [
+            "\u00e6\u00b5\u00a6",
+            "lying",
+            "\u00e8\u00a9\u0140",
+            "\u00d0\u00b6\u00d0\u00b8\u00d0\u00b2",
+            "isi",
+            "umen",
+            " Carla",
+            "\u00e7\u0141\u00bf",
+            "811",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b0\u00d0\u00bb\u00d1\u012e"
+        ],
+        "positive_strings": [
+            ".scalablytyped",
+            "ABCDEFGHIJKLMNOP",
+            "ABCDEFGHI",
+            "ABCDEFG",
+            "(IDC",
+            " Overs",
+            "hiba",
+            "longleftrightarrow",
+            "ulace",
+            "EDIA"
+        ],
+        "description": "references to the Torah and related Hebrew texts"
+    },
+    {
+        "index": "38456",
+        "layer": "4-llamascope-mlp-131k",
+        "url": "json/llama-scope/torah/data_for_feature_38456.json",
+        "negative_strings": [
+            "rnek",
+            " Beaver",
+            "imson",
+            "\u00d8\u00b3\u00d8\u00a7\u00d8\u00b3",
+            "arium",
+            "coni",
+            "ada\u00c5\u0141",
+            ".Parcelable",
+            "iversit",
+            " Eag"
+        ],
+        "positive_strings": [
+            " Simpl",
+            "by",
+            " interchangeable",
+            "zew",
+            "bell",
+            "\u00d9\u012a\u00db\u012e\u00d9\u0128",
+            " simpl",
+            " goodness",
+            "icast",
+            "obel"
+        ],
+        "description": "references to biblical figures and texts, specifically focusing on the Torah and individuals like Moses, David, and Solomon"
+    },
+    {
+        "index": "30286",
+        "layer": "1-llamascope-res-131k",
+        "url": "json/llama-scope/torah/data_for_feature_30286.json",
+        "negative_strings": [
+            "gar",
+            " Ivy",
+            "ahi",
+            " Nob",
+            "ly",
+            " foreign",
+            "979",
+            " Carla",
+            "eries",
+            "ads"
+        ],
+        "positive_strings": [
+            ".scalablytyped",
+            "byt",
+            " componentDid",
+            "phin",
+            "(IDC",
+            "allee",
+            "uckle",
+            "dea",
+            "bung",
+            "hiba"
+        ],
+        "description": " references to the Torah or related concepts"
+    },
+    {
+        "index": "28758",
+        "layer": "1-llamascope-res-32k",
+        "url": "json/llama-scope/torah/data_for_feature_28758.json",
+        "negative_strings": [
+            " cou",
+            "gar",
+            "omm",
+            "\u00c4\u00b1f",
+            " foreign",
+            " Hav",
+            "403",
+            " teams",
+            "979",
+            "zl"
+        ],
+        "positive_strings": [
+            "achi",
+            ".blob",
+            "ACHI",
+            "oucher",
+            ".scalablytyped",
+            "byt",
+            "ipher",
+            "\u00ce\u00b7\u00ce\u00b3",
+            "phin",
+            "\u00e9\u012e"
+        ],
+        "description": "repeated references to the term \"Torah.\""
+    },
+    {
+        "index": "98302",
+        "layer": "4-llamascope-mlp-131k",
+        "url": "json/llama-scope/torah/data_for_feature_98302.json",
+        "negative_strings": [
+            "\u00e3\u0123\u0137\u00e3\u0124\u012b",
+            "uggy",
+            "_LD",
+            "ame",
+            "uti",
+            "ums",
+            " Older",
+            "\u00e1\u00bb\u0123n",
+            "aler",
+            "chen"
+        ],
+        "positive_strings": [
+            "ropp",
+            " succ",
+            "_DEPRECATED",
+            "endale",
+            "ildo",
+            "maid",
+            "phys",
+            "-major",
+            "RIX",
+            "\u00e3\u0123\u0139\u00e3\u0124\u0129"
+        ],
+        "description": "references to the Torah and biblical texts"
+    }
+]

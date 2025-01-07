@@ -1,0 +1,602 @@
+[
+    {
+        "index": "85811",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_85811.json",
+        "negative_strings": [
+            "ISS",
+            "ocode",
+            "amma",
+            "shortcode",
+            " Ivanka",
+            "jab",
+            "atel",
+            "blink",
+            "eniz",
+            "eming"
+        ],
+        "positive_strings": [
+            " nar",
+            " sanctuary",
+            " Sanctuary",
+            " Fellowship",
+            " Nar",
+            " fellowship",
+            " sac",
+            " Sunday",
+            " nave",
+            " sant"
+        ],
+        "description": " references to growth and development within a church or religious community"
+    },
+    {
+        "index": "20146",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_20146.json",
+        "negative_strings": [
+            "stva",
+            "ERSHEY",
+            " Khal",
+            "mium",
+            " prey",
+            "nea",
+            "'gc",
+            "\u00c3\u00a4lt",
+            "960",
+            "icontrol"
+        ],
+        "positive_strings": [
+            "ony",
+            "oney",
+            ".",
+            "ev",
+            " Mary",
+            " Joseph",
+            " Johns",
+            " Michaels",
+            "aten",
+            " Marks"
+        ],
+        "description": "references to churches or religious institutions"
+    },
+    {
+        "index": "5052",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_5052.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0138",
+            "inston",
+            "entai",
+            "lid",
+            "isto",
+            "rien",
+            "oder",
+            "Us",
+            "xin",
+            "\u00d8\u00b2\u00d8\u00af"
+        ],
+        "positive_strings": [
+            "\u00f3",
+            "\u2013",
+            "-",
+            "\u00e2\u012a\u0134",
+            " thru",
+            "\u00c2\u0138",
+            " to",
+            " through",
+            "\u00c3\u0132",
+            "?-"
+        ],
+        "description": "references to historical figures and events, particularly related to governance and church doctrine"
+    },
+    {
+        "index": "95619",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_95619.json",
+        "negative_strings": [
+            "yll",
+            ".dead",
+            "poz",
+            "ennon",
+            "onaut",
+            "ewire",
+            "\u00e1\u00bb\u013d",
+            "\\core",
+            " lesbi",
+            "inema"
+        ],
+        "positive_strings": [
+            " Our",
+            " Im",
+            " Most",
+            "Our",
+            " St",
+            " Ass",
+            " SS",
+            " Corpus",
+            " Nat",
+            " Sacred"
+        ],
+        "description": " references to churches and their related activities"
+    },
+    {
+        "index": "387",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_387.json",
+        "negative_strings": [
+            "VECTOR",
+            "isoft",
+            " Archbishop",
+            ".mdl",
+            "\u00c4\u012fin",
+            "ishops",
+            " Podle",
+            " \u00d1\u0124\u00d0\u00b8",
+            "ishop",
+            "utar"
+        ],
+        "positive_strings": [
+            " Assembly",
+            " United",
+            " Baptist",
+            " Tab",
+            " assembly",
+            " Primitive",
+            " Seventh",
+            "Assembly",
+            " Free",
+            " Mission"
+        ],
+        "description": "names of churches and religious organizations"
+    },
+    {
+        "index": "127521",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_127521.json",
+        "negative_strings": [
+            "poz",
+            "\u00c3\u00a8o",
+            "Islam",
+            "reamble",
+            "weathermap",
+            "eah",
+            "surf",
+            "\u00cf\u0123\u00ce\u00ba",
+            " addCriterion",
+            "ursed"
+        ],
+        "positive_strings": [
+            " Parish",
+            " parish",
+            " Roman",
+            " Rect",
+            " Catholic",
+            " rect",
+            " Basil",
+            " Byz",
+            " Ukrainian",
+            " RC"
+        ],
+        "description": " references to specific Catholic churches and their communities"
+    },
+    {
+        "index": "19609",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_19609.json",
+        "negative_strings": [
+            " Churches",
+            "ublik",
+            " Church",
+            "aea",
+            "quence",
+            "ottage",
+            "Church",
+            "ccione",
+            " Rahman",
+            " Specialists"
+        ],
+        "positive_strings": [
+            "yard",
+            "going",
+            "go",
+            "yards",
+            "ward",
+            "manship",
+            "(es",
+            "wide",
+            "men",
+            "-going"
+        ],
+        "description": " references to churches and religious institutions"
+    },
+    {
+        "index": "96990",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_96990.json",
+        "negative_strings": [
+            "argas",
+            "azard",
+            "activex",
+            "ahren",
+            "TING",
+            " DOT",
+            "iciel",
+            "cntl",
+            "\u00a6\u00ac",
+            " INTERRU"
+        ],
+        "positive_strings": [
+            "di",
+            "idi",
+            " di",
+            "-di",
+            "dio",
+            "ido",
+            ".di",
+            "_di",
+            "abb",
+            " Di"
+        ],
+        "description": "references to religious titles and positions, particularly within the Catholic Church"
+    },
+    {
+        "index": "74533",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_74533.json",
+        "negative_strings": [
+            " Gent",
+            " Comb",
+            ".qml",
+            "icia",
+            " comb",
+            ".CV",
+            "ica",
+            "Comb",
+            "byname",
+            "erca"
+        ],
+        "positive_strings": [
+            "edral",
+            "elen",
+            "ol",
+            "olis",
+            "rif",
+            "rient",
+            "ath",
+            "olie",
+            "och",
+            "rieg"
+        ],
+        "description": " references to the Catholic Church and associated terms"
+    },
+    {
+        "index": "78348",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_78348.json",
+        "negative_strings": [
+            "eyer",
+            "ecies",
+            "landa",
+            "\u00d1\u0123\u00d0\u00be\u00d0\u00bb",
+            "GenerationStrategy",
+            "Alchemy",
+            "ValueCollection",
+            "osity",
+            "kaar",
+            "ehen"
+        ],
+        "positive_strings": [
+            "ar",
+            "inel",
+            "arine",
+            "ines",
+            "esp",
+            "uri",
+            "_elt",
+            "ari",
+            "abay",
+            "enes"
+        ],
+        "description": "mentions of specific locations, primarily related to churches or communities"
+    },
+    {
+        "index": "32515",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_32515.json",
+        "negative_strings": [
+            " McCabe",
+            "leigh",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u00b3\u00e3\u0124\u00b9",
+            "iffin",
+            "croft",
+            "ienne",
+            " extras",
+            "419",
+            "l\u00c3\u00a1d",
+            "947"
+        ],
+        "positive_strings": [
+            " Relief",
+            " Stake",
+            "stakes",
+            " stake",
+            " temple",
+            " Oaks",
+            " stakes",
+            " Welfare",
+            "lds",
+            " CES"
+        ],
+        "description": " references to leadership roles and church governance"
+    },
+    {
+        "index": "57303",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_57303.json",
+        "negative_strings": [
+            "ainter",
+            "Entropy",
+            "\u00d8\u00a7\u00d9\u012a\u00d8\u00b1\u00db\u012e",
+            "lda",
+            " \u00d8\u00a7\u00d9\u0129",
+            "okoj",
+            "?url",
+            "_bulk",
+            " edin",
+            "\u00d8\u00af\u00d9\u012a"
+        ],
+        "positive_strings": [
+            "eken",
+            " Fayette",
+            " Cro",
+            " Chap",
+            " Queue",
+            " Made",
+            " Prairie",
+            " Pager",
+            " Ro",
+            " Tour"
+        ],
+        "description": "phrases that include the French articles and prepositions related to locations and churches"
+    },
+    {
+        "index": "107913",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_107913.json",
+        "negative_strings": [
+            "stripe",
+            " Parliamentary",
+            "aign",
+            " parliamentary",
+            "ecko",
+            "endencies",
+            "ulings",
+            ".Navigator",
+            "mojom",
+            "effects"
+        ],
+        "positive_strings": [
+            "ion",
+            "ION",
+            "oner",
+            "-ion",
+            " ion",
+            "ions",
+            " Ion",
+            "ione",
+            "Ion",
+            "ionic"
+        ],
+        "description": "references to religious communities or church-related terms"
+    },
+    {
+        "index": "6220",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_6220.json",
+        "negative_strings": [
+            " Y\u00c3\u00bcz",
+            " Qu\u00e1\u00bb\u0133c",
+            "ylene",
+            "\u00e0\u00b8\u00b5\u00e0\u00b8\u00aa",
+            "YST",
+            "StartupScript",
+            " federal",
+            " pans",
+            "\u00e5\u0141\u0130",
+            "veloper"
+        ],
+        "positive_strings": [
+            " Kir",
+            "Kir",
+            " Sak",
+            "kir",
+            " Org",
+            " Patron",
+            " roman",
+            " sak",
+            " Mari",
+            "roman"
+        ],
+        "description": " terms related to ecclesiastical or church contexts"
+    },
+    {
+        "index": "17338",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_17338.json",
+        "negative_strings": [
+            "_NON",
+            "ockey",
+            "Dog",
+            " Charity",
+            "cej",
+            "ynes",
+            " Cock",
+            " Naval",
+            " Aristotle",
+            "ijn"
+        ],
+        "positive_strings": [
+            " Advent",
+            " Seventh",
+            " Sabbath",
+            " Ellen",
+            " advent",
+            " AD",
+            " Pathfinder",
+            " Andrews",
+            " seventh",
+            "Ell"
+        ],
+        "description": " mentions of church-related organizations and leadership activities"
+    },
+    {
+        "index": "27467",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/church/data_for_feature_27467.json",
+        "negative_strings": [
+            "\u00e7\u012c\u00ac",
+            "ournals",
+            "\u00e7\u013e\u0142",
+            "cloud",
+            " pope",
+            "commerce",
+            "opak",
+            " spas",
+            "mdl",
+            " Plug"
+        ],
+        "positive_strings": [
+            " Church",
+            " United",
+            " Fellowship",
+            " Cong",
+            " Assembly",
+            " congregation",
+            " Community",
+            "Church",
+            " church",
+            " Tab"
+        ],
+        "description": " references to organizations, churches, and community services"
+    },
+    {
+        "index": "1106",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_1106.json",
+        "negative_strings": [
+            " \u00ec\u00a1",
+            " \u00d0\u00bf\u00d0\u00be\u00d1\u0122\u00d1\u0124",
+            ".magic",
+            "rell",
+            "\u00e1\u00ba\u00a1nh",
+            "gency",
+            " Biol",
+            " \u00e5\u0126",
+            " Sect",
+            "ipur"
+        ],
+        "positive_strings": [
+            " First",
+            " Emmanuel",
+            " Grace",
+            "First",
+            " Im",
+            "Grace",
+            " Eb",
+            " Emanuel",
+            " Second",
+            "Elim"
+        ],
+        "description": "mentions of church leaders and their roles within the church community"
+    },
+    {
+        "index": "88730",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_88730.json",
+        "negative_strings": [
+            "romium",
+            "443",
+            "gue",
+            "ovi",
+            "icit",
+            " \u00d8\u00ae",
+            "\u00e8\u00bd\u00bd",
+            " \u00e6\u00a8",
+            " caric",
+            " bure"
+        ],
+        "positive_strings": [
+            "ies",
+            "IES",
+            "iese",
+            "jes",
+            "cup",
+            " Ges",
+            "j\u00c3\u0142",
+            " Mesa",
+            "iazza",
+            "ucher"
+        ],
+        "description": " references to religious architecture and churches"
+    },
+    {
+        "index": "66672",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_66672.json",
+        "negative_strings": [
+            "oka",
+            "zend",
+            "ued",
+            "\u00e3\u0125\u00ac\u00e3\u0125\u0125\u00e3\u0125\u012a",
+            "\u00e0\u00b8\u0123\u00e0\u00b8\u00a3\u00e0\u00b8\u00a3\u00e0\u00b8\u00a1",
+            " Fleming",
+            "tran",
+            "\u0125\u0123",
+            "idy",
+            "DialogTitle"
+        ],
+        "positive_strings": [
+            " powers",
+            " Powers",
+            " mosque",
+            " Mosque",
+            " church",
+            "powers",
+            "agogue",
+            " synagogue",
+            " doma",
+            " religion"
+        ],
+        "description": "discussions about the separation of church and state in the context of education"
+    },
+    {
+        "index": "90080",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/church/data_for_feature_90080.json",
+        "negative_strings": [
+            "elen",
+            "\u0125\u0123",
+            "ebek",
+            "arbon",
+            "emu",
+            ".bd",
+            "nts",
+            "ckt",
+            "\u00e8\u00b1\u00aa",
+            "ddit"
+        ],
+        "positive_strings": [
+            " separation",
+            " church",
+            " Separ",
+            " mosque",
+            " wall",
+            " Church",
+            "Separ",
+            " establishment",
+            " Jefferson",
+            " temporal"
+        ],
+        "description": "references to the separation of church and state"
+    }
+]

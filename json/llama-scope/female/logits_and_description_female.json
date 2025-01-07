@@ -1,0 +1,602 @@
+[
+    {
+        "index": "20321",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_20321.json",
+        "negative_strings": [
+            "OPY",
+            " Yard",
+            " Trib",
+            "unker",
+            "ube",
+            "ropy",
+            "umber",
+            " Dra",
+            "riter",
+            "stride"
+        ],
+        "positive_strings": [
+            "ette",
+            "ettes",
+            "\u00e5\u00a6\u0125",
+            "vas",
+            "ves",
+            "etta",
+            "va",
+            "ines",
+            "vasion",
+            "azon"
+        ],
+        "description": " mentions of divas or references to strong female performers"
+    },
+    {
+        "index": "77740",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_77740.json",
+        "negative_strings": [
+            "NSNumber",
+            "bard",
+            "yw",
+            "poon",
+            "ATED",
+            " Nie",
+            "\u00e0\u00b8\u00b8\u00e0\u00b9\u012b",
+            "unkt",
+            "yang",
+            "ardon"
+        ],
+        "positive_strings": [
+            "ales",
+            "mes",
+            "aled",
+            "oral",
+            "toc",
+            "slash",
+            "inity",
+            "mina",
+            "vertising",
+            " ale"
+        ],
+        "description": "references to female gender"
+    },
+    {
+        "index": "7266",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_7266.json",
+        "negative_strings": [
+            "ensch",
+            "nage",
+            "ackbar",
+            "viar",
+            "\u00cc\u0124",
+            " dise\u00c3\u00b1ador",
+            "\u00e7\u00b5\u0126",
+            "zar",
+            "\"<?",
+            "\u00e1\u00ba\u00afp"
+        ],
+        "positive_strings": [
+            " REC",
+            " Saw",
+            " possession",
+            " Blair",
+            " possessed",
+            " Jeep",
+            "REC",
+            " Poss",
+            " Cann",
+            " Oculus"
+        ],
+        "description": " representations of female agency and sexuality in horror films"
+    },
+    {
+        "index": "16863",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_16863.json",
+        "negative_strings": [
+            "mv",
+            " football",
+            "\u00e3\u0123\u0131\u00e3\u0123\u0142",
+            " basketball",
+            "thouse",
+            "-football",
+            "Basket",
+            "-League",
+            "ENCH",
+            "\u00e6\u00b3\u0137\u00e9\u013b\u00a2"
+        ],
+        "positive_strings": [
+            " Stroke",
+            " stroke",
+            " Golf",
+            " PGA",
+            " Amateur",
+            " golf",
+            "Stroke",
+            "stroke",
+            " amateur",
+            " amateurs"
+        ],
+        "description": " mentions of female amateur golfers and their achievements"
+    },
+    {
+        "index": "50213",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_50213.json",
+        "negative_strings": [
+            "ubat",
+            "icari",
+            "\u00d0\u00b0\u00d0\u00bb\u00d0\u00b5\u00d0\u00b6",
+            "metatable",
+            "amina",
+            "ocities",
+            "isine",
+            "ucer",
+            "enha",
+            "_tcb"
+        ],
+        "positive_strings": [
+            " Conway",
+            "v",
+            "ape",
+            " poll",
+            "anne",
+            "wal",
+            "itan",
+            "side",
+            " Trump",
+            "leigh"
+        ],
+        "description": "mentions of specific names, particularly female names associated with public figures"
+    },
+    {
+        "index": "91803",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_91803.json",
+        "negative_strings": [
+            "ancia",
+            "drawable",
+            " Premi",
+            "ersen",
+            "\u00c3\u0143\u00c5\u00a1e",
+            "redients",
+            " expans",
+            "ANO",
+            "tod",
+            "iclass"
+        ],
+        "positive_strings": [
+            " Robbie",
+            " Kid",
+            "Kid",
+            " Harley",
+            "iyel",
+            " kid",
+            "kop",
+            " Font",
+            " Zem",
+            "grams"
+        ],
+        "description": "prominent female names"
+    },
+    {
+        "index": "29142",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_29142.json",
+        "negative_strings": [
+            "-uri",
+            "\u00d1\u0131\u00d1\u0127",
+            "eck",
+            " fog",
+            " Fog",
+            "ebb",
+            "_legacy",
+            "xm",
+            "ined",
+            "mark"
+        ],
+        "positive_strings": [
+            "affe",
+            "aff",
+            " Gir",
+            "lish",
+            "friend",
+            " gir",
+            "ardin",
+            "bau",
+            "oux",
+            "der"
+        ],
+        "description": " references to female identity or femininity"
+    },
+    {
+        "index": "112110",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_112110.json",
+        "negative_strings": [
+            "irk",
+            "ymax",
+            "ittal",
+            "ARA",
+            "osite",
+            " Franken",
+            "iliar",
+            ".pix",
+            "\u00c4\u00b1z\u00c4\u00b1",
+            " Richards"
+        ],
+        "positive_strings": [
+            "ine",
+            "placer",
+            "oglobin",
+            "uter",
+            "INE",
+            "iene",
+            "anean",
+            "oton",
+            "\u00c6\u00a1",
+            "inea"
+        ],
+        "description": "terms related to the female reproductive system, particularly focusing on the uterus"
+    },
+    {
+        "index": "30356",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_30356.json",
+        "negative_strings": [
+            "nya",
+            "ses",
+            "num",
+            "ship",
+            "net",
+            "rai",
+            "ly",
+            "rol",
+            "ss",
+            "nox"
+        ],
+        "positive_strings": [
+            "ikh",
+            "arer",
+            "pherd",
+            "ffield",
+            "boy",
+            "erness",
+            "pher",
+            "ared",
+            "ppard",
+            "amus"
+        ],
+        "description": "references to a specific female subject or character"
+    },
+    {
+        "index": "4042",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_4042.json",
+        "negative_strings": [
+            " Claw",
+            "xes",
+            " Snape",
+            "_OS",
+            "614",
+            "757",
+            "idian",
+            "681",
+            "636",
+            "\u00c3\u00a4ge"
+        ],
+        "positive_strings": [
+            " Naughty",
+            " Ellie",
+            " Joel",
+            "Na",
+            " Na",
+            "Ell",
+            " Ell",
+            " ell",
+            " naughty",
+            " ellipt"
+        ],
+        "description": " references to female representation and gender dynamics in video games"
+    },
+    {
+        "index": "100877",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_100877.json",
+        "negative_strings": [
+            "ting",
+            "adero",
+            "tings",
+            "oi",
+            "raf",
+            "PCA",
+            "rc",
+            "pen",
+            "posing",
+            "mode"
+        ],
+        "positive_strings": [
+            "est",
+            "ies",
+            "yt",
+            "tte",
+            "tt",
+            "ottie",
+            "tty",
+            "kop",
+            "avax",
+            "AMILY"
+        ],
+        "description": "words related to attractiveness or desirability, particularly in the context of female athletes and public figures"
+    },
+    {
+        "index": "6823",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_6823.json",
+        "negative_strings": [
+            ".uni",
+            " kaps",
+            " \u00d8\u00a7\u00d9\u0126\u00d9\u012a\u00d8\u00b5",
+            "\u00c3\u00b3j",
+            " nackt",
+            " \u00d0\u00bf\u00d1\u0122\u00d0\u00b0",
+            "opard",
+            "portun",
+            "\u00e3\u0123\u0141\u00e3\u0123\u0131",
+            "ignon"
+        ],
+        "positive_strings": [
+            " Category",
+            "Category",
+            " External",
+            "External",
+            " category",
+            " {{",
+            "Coordinates",
+            " external",
+            "category",
+            "Authority"
+        ],
+        "description": " information related to rankings and lists, particularly in the context of chess and female players"
+    },
+    {
+        "index": "108254",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_108254.json",
+        "negative_strings": [
+            "uden",
+            "itioner",
+            "t",
+            "ingly",
+            "illance",
+            "arna",
+            "\u00e3\u0123",
+            "gren",
+            " fflush",
+            "igkeit"
+        ],
+        "positive_strings": [
+            "ds",
+            "ders",
+            "ded",
+            "ding",
+            "der",
+            "dbo",
+            "dm",
+            "\u00c3\u00a3ng",
+            "dsa",
+            " ds"
+        ],
+        "description": "references to female possessives and pronouns"
+    },
+    {
+        "index": "31571",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_31571.json",
+        "negative_strings": [
+            "PERT",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0129\u00e3\u0124\u00a3",
+            " Wilmington",
+            ".sg",
+            " {-",
+            "lya",
+            " Penn",
+            " puck",
+            "jac",
+            " Alabama"
+        ],
+        "positive_strings": [
+            " Nepal",
+            " Nep",
+            " Kath",
+            " Everest",
+            " nep",
+            " Pok",
+            " Trib",
+            " Suns",
+            "Pok",
+            " Himal"
+        ],
+        "description": " references to governance and female leadership in local government"
+    },
+    {
+        "index": "38587",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_38587.json",
+        "negative_strings": [
+            "ialias",
+            ":eq",
+            "\u00d9\u0126\u00d8\u00a8",
+            "/Grid",
+            "\u00c3\u00a1tico",
+            "olf",
+            "aeda",
+            "\u00e0\u00b8\u0143\u00e0\u00b8\u0143",
+            " Sachs",
+            " Owl"
+        ],
+        "positive_strings": [
+            " comp",
+            " Mut",
+            " Cons",
+            " bronze",
+            " defending",
+            " Werk",
+            " Tir",
+            " Ti",
+            " Comp",
+            " Faith"
+        ],
+        "description": " metrics related to female athletic performance"
+    },
+    {
+        "index": "81867",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_81867.json",
+        "negative_strings": [
+            " omas",
+            ":eq",
+            " odv",
+            " fabric",
+            "shop",
+            "ohl",
+            "vais",
+            "alytics",
+            "ziel",
+            "803"
+        ],
+        "positive_strings": [
+            " Fey",
+            " Werk",
+            " Tir",
+            " Geb",
+            " Ethiopia",
+            " Ethi",
+            " Geoffrey",
+            " Tig",
+            " defending",
+            " Kenya"
+        ],
+        "description": " references to elite female marathon runners and their achievements"
+    },
+    {
+        "index": "86332",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_86332.json",
+        "negative_strings": [
+            "pig",
+            "atings",
+            "\u00e0\u00b8\u00b4\u00e0\u00b8\u013c",
+            " Pig",
+            "::::::::",
+            " \u00ce\u00a4\u00ce\u00b9",
+            "ORIZED",
+            "\u00b5\u00ac",
+            "_UTIL",
+            "BoxLayout"
+        ],
+        "positive_strings": [
+            "opause",
+            "op",
+            "arch",
+            "pause",
+            " men",
+            " pa",
+            "\u00d0\u00be\u00d0\u00bf",
+            "OP",
+            "orrh",
+            "-op"
+        ],
+        "description": " references to menopause and related female health issues"
+    },
+    {
+        "index": "5712",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/female/data_for_feature_5712.json",
+        "negative_strings": [
+            "isel",
+            "429",
+            "929",
+            "uge",
+            "ayet",
+            "utters",
+            "[\".",
+            "anch",
+            " \u00d0\u013f\u00d0\u00b0\u00d1\u0123",
+            "edl"
+        ],
+        "positive_strings": [
+            " naked",
+            " stark",
+            "\u00e8\u00a3",
+            " stripping",
+            " nude",
+            " stripped",
+            " bare",
+            " top",
+            " nudity",
+            " unc"
+        ],
+        "description": " references to nudity and female bodies"
+    },
+    {
+        "index": "10031",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_10031.json",
+        "negative_strings": [
+            "eer",
+            " gentlemen",
+            " gentleman",
+            "raman",
+            " gratuite",
+            "340",
+            "greso",
+            "raphics",
+            "ality",
+            "lid"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "friends",
+            "friend",
+            " scout",
+            " Scout",
+            "boss",
+            "/man",
+            "-next",
+            " Scouts"
+        ],
+        "description": "references to girls or female identities"
+    },
+    {
+        "index": "27374",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/female/data_for_feature_27374.json",
+        "negative_strings": [
+            " Os",
+            " flank",
+            "EdgeInsets",
+            " Cooke",
+            " El",
+            " Frank",
+            " Fresh",
+            " clearfix",
+            "arshal",
+            " Confeder"
+        ],
+        "positive_strings": [
+            "abler",
+            "aldi",
+            "edb",
+            "eyJ",
+            "ledo",
+            " ((((",
+            " showc",
+            "kB",
+            "\u00d0\u00be\u00d0",
+            "ascade"
+        ],
+        "description": " mentions of female political candidates and related actions or discussions"
+    }
+]

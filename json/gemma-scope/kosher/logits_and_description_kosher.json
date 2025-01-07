@@ -1,0 +1,184 @@
+[
+    {
+        "index": "15693",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_15693.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to Jewish or Hebrew culture, identity, or religion, often explicitly mentioning \"Jewish\", \"Judaic\", \"Jew\", \"Hebrew\", \"Torah\", or \"Kosher\"."
+    },
+    {
+        "index": "108805",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_108805.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Texts often referencing Jewish people, their culture, and traditions, and occasionally referencing the Hebrew language, antisemitism, Zionism, and kosher practices."
+    },
+    {
+        "index": "67466",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_67466.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Adjectives describing diet, lifestyle, or ideology, such as vegan, vegetarian, kosher, gluten-free, and paleo."
+    },
+    {
+        "index": "5830",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_5830.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various linguistic features often associated with Jewish culture, texts, and traditions, including mentions of holidays (e.g. Passover), religious texts (e.g. Torah, Exodus), and Jewish customs (e.g. Shabbat, kosher), as well as specific words and phrases (e.g. \"Seder\", \"Hagadah\") that are characteristic of Jewish liturgy and tradition."
+    },
+    {
+        "index": "51482",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_51482.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "High-end or specialized food and culinary products and concepts, including gourmet, kosher, gastronomic, and fine food, often described in upscale or luxurious contexts."
+    },
+    {
+        "index": "91047",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_91047.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words related to appearance, including 'cosmetic', 'costume', 'cosmos', 'cosine', and 'kosher', representing concepts of beauty, disguise, space, and dietary restrictions."
+    },
+    {
+        "index": "70176",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/kosher/data_for_feature_70176.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581TextAlign",
+            "\u2581ligiloj",
+            "UpInside",
+            "\u2581\u0438\u0437\u0432\u0438",
+            "\u2581onts",
+            "VERTICAL",
+            "ptor",
+            "\u2581Wikimedijinoj"
+        ],
+        "positive_strings": [
+            "\u2581Kash",
+            "\u2581ritu",
+            "\u2581milk",
+            "\u2581kosher",
+            "\u2581meat",
+            "\u2581dairy",
+            "\u2581ko\u0161",
+            "\u2581forbidden",
+            "\u2581prohibition",
+            "Kash"
+        ],
+        "description": "references to dietary laws and kosher food practices"
+    },
+    {
+        "index": "96323",
+        "layer": "32-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_96323.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Adjectives indicating absence, prevention, or protection of something (e.g., waterproof, proof, airtight, rugged, counterfeit, impervious, hydrophobic, kosher, resistant, etc.) as well as a few adjectives indicating a state of being (undefeated, strapless, etc.)."
+    },
+    {
+        "index": "21506",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_21506.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words or phrases often associated with accommodations, amenities, or rooms, including nouns like \"room\", \"suite\", \"bedroom\", \"bathroom\", \"kitchen\", and descriptive phrases for amenities, such as \"full breakfast\", \"serviced\", \"kosher\", and \"en-suite\"."
+    },
+    {
+        "index": "34599",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_34599.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terminology of resistance to external effects, such as water, fire, or vision, often denoted by suffixes -proof or -resistant, as well as terms related to authenticity or suitability, including kosher and counterfeit."
+    },
+    {
+        "index": "88839",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_88839.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Tokens denoting a Jewish or kosher context, including words and phrases related to Jewish customs, traditions, and kosher certification."
+    },
+    {
+        "index": "72583",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_72583.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words ending in suffixes indicating a material property or quality such as \"proof\", \"resistant\", \"retardant\", \"impermeable\", \"invulnerable\", \"reflective\", \"breathable\", \"opaque\", \"stainless\", \"kosher\", \"impenetrable\", \"thermostable\", \"rugged\", \"airtight\", \"watertight\", \"flammable\", \"homophobic\", \"NSFW\", indicating that a material object or substance has a specific characteristic or ability."
+    },
+    {
+        "index": "78164",
+        "layer": "12-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_78164.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words related to Jewish customs, traditions, and holidays, often including Sabbath observance, kosher dietary laws, and festivities such as Passover and Purim."
+    },
+    {
+        "index": "30885",
+        "layer": "17-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_30885.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words or phrases related to Jewish or kosher culture, Islamic or Muslim culture, and other cultural or religious terms."
+    },
+    {
+        "index": "102946",
+        "layer": "30-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_102946.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token patterns often involve Jewish-related words, phrases, and concepts such as kosher, Shabbat, Passover, and Torah."
+    },
+    {
+        "index": "36554",
+        "layer": "28-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_36554.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words related to cleanliness, health, purity, and order, with a variety of prefixes and suffixes (\"hygiene\", \"sanitary\", \"sterile\", \"kosher\", \"disinfection\", \"sterilization\", \"germ\", \"plumbing\", etc.), often in formal or technical contexts."
+    },
+    {
+        "index": "127253",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_127253.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Expressions of acceptance, agreement or indifference, often in response to a situation or condition, with words such as \"ok\", \"fine\", \"alright\", \"acceptable\", and \"kosher\" being used to convey a sense of acceptance or normalcy."
+    },
+    {
+        "index": "124087",
+        "layer": "13-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_124087.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms related to dietary restrictions and religious practices, specifically those of Islam, Judaism, and Hinduism, including halal, kosher, permissible, and gluten-free."
+    },
+    {
+        "index": "34149",
+        "layer": "12-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_34149.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns or adjectives indicating diet, lifestyle, or philosophical/religious beliefs, including vegetarian, vegan, kosher, pagan, and others."
+    },
+    {
+        "index": "118264",
+        "layer": "20-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/kosher/data_for_feature_118264.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms and concepts that are significant in specific cultural and dietary contexts, such as kosher, halal, gluten-free, and modest, as well as words related to Jewish and Islamic practices and traditions."
+    }
+]

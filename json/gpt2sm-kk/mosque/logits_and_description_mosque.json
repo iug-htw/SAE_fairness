@@ -1,0 +1,182 @@
+[
+    {
+        "index": "19496",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_19496.json",
+        "negative_strings": [
+            " Lys",
+            " Bots",
+            " droid",
+            " WD",
+            " Clone",
+            " Viet",
+            " Wilde",
+            " Conan",
+            "Hug",
+            " Droid"
+        ],
+        "positive_strings": [
+            " mosque",
+            " Mosque",
+            " mosques",
+            " Imam",
+            " prayer",
+            " prayers",
+            " worsh",
+            " Quran",
+            " holiest",
+            "Muslims"
+        ],
+        "description": " references to mosques and their role in the community amidst controversy"
+    },
+    {
+        "index": "20824",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_20824.json",
+        "negative_strings": [
+            "UTERS",
+            "acea",
+            "kefeller",
+            "soDeliveryDate",
+            "cffff",
+            " brackets",
+            "steen",
+            "selves",
+            "\ufffd\ufffd",
+            "views"
+        ],
+        "positive_strings": [
+            "utsche",
+            "hu",
+            "hus",
+            "egu",
+            "wa",
+            "rete",
+            "eele",
+            "auga",
+            "atra",
+            "iso"
+        ],
+        "description": "terms related to urban environments and landmarks, particularly sidewalks and specific locations like \"Sidewalk\" and \"Yahia mosque\""
+    },
+    {
+        "index": "21069",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_21069.json",
+        "negative_strings": [
+            " Lys",
+            "Consumer",
+            " Nicaragua",
+            " Swarm",
+            " Starship",
+            " Species",
+            " Tackle",
+            " Adventures",
+            " Dice",
+            " Soy"
+        ],
+        "positive_strings": [
+            " mosque",
+            " Mosque",
+            " mosques",
+            " Imam",
+            " prayer",
+            " worsh",
+            " prayers",
+            " synagogue",
+            "Muslims",
+            " pray"
+        ],
+        "description": "references to places of worship, specifically mosques"
+    },
+    {
+        "index": "14808",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_14808.json",
+        "negative_strings": [
+            "neau",
+            "eties",
+            "staking",
+            "ocre",
+            " cannon",
+            "abase",
+            "cape",
+            "odic",
+            "eco",
+            "uffy"
+        ],
+        "positive_strings": [
+            "SPONSORED",
+            " Haram",
+            " shrine",
+            " Supporters",
+            " Sheikh",
+            "tyard",
+            " Gardens",
+            " Quran",
+            " Imam",
+            " prayer"
+        ],
+        "description": "terms related to religious sites and buildings"
+    },
+    {
+        "index": "345",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_345.json",
+        "negative_strings": [
+            "bern",
+            " Rockefeller",
+            "Discussion",
+            "20439",
+            "\"]=>",
+            "Southern",
+            " WARN",
+            "ACTED",
+            "sol",
+            "AW"
+        ],
+        "positive_strings": [
+            " tradem",
+            "senal",
+            " citiz",
+            "igon",
+            "isoft",
+            " satell",
+            "avorite",
+            "edIn",
+            " lapt",
+            " destro"
+        ],
+        "description": "mentions of places of worship, particularly mosques, in a community context"
+    },
+    {
+        "index": "10289",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/mosque/data_for_feature_10289.json",
+        "negative_strings": [
+            "neau",
+            " Nerd",
+            "ulative",
+            "zzy",
+            "ronic",
+            "maxwell",
+            "SON",
+            "veland",
+            " Ack",
+            " onset"
+        ],
+        "positive_strings": [
+            " neighbourhoods",
+            " Hours",
+            " horrors",
+            "Registered",
+            "ropolitan",
+            " frequ",
+            "tyard",
+            " Organisation",
+            "urches",
+            " entrances"
+        ],
+        "description": " references to mosques, estimates, and specific locations"
+    }
+]

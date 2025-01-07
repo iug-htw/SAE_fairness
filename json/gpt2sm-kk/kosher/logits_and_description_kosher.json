@@ -1,0 +1,122 @@
+[
+    {
+        "index": "14699",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/kosher/data_for_feature_14699.json",
+        "negative_strings": [
+            " Villa",
+            " Mongo",
+            " Tuc",
+            " Tinder",
+            " Wander",
+            " XCOM",
+            " Couch",
+            " Bomber",
+            " Bom",
+            " Gators"
+        ],
+        "positive_strings": [
+            " kosher",
+            "osher",
+            " hal",
+            " Torah",
+            " rabb",
+            " rabbi",
+            " Rabb",
+            " Orthodox",
+            " Kos",
+            " slaughter"
+        ],
+        "description": " phrases related to kosher food and community support efforts"
+    },
+    {
+        "index": "9025",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/kosher/data_for_feature_9025.json",
+        "negative_strings": [
+            "ascript",
+            "kefeller",
+            "itely",
+            " Adelaide",
+            "ouston",
+            " nostalg",
+            "agically",
+            " Canberra",
+            "PsyNetMessage",
+            "gotten"
+        ],
+        "positive_strings": [
+            "onen",
+            "gaard",
+            " Intermediate",
+            "inski",
+            "Uk",
+            "artisan",
+            " Maker",
+            "utra",
+            "uchi",
+            "adesh"
+        ],
+        "description": "phrases related to kosher food"
+    },
+    {
+        "index": "3020",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/kosher/data_for_feature_3020.json",
+        "negative_strings": [
+            "VERTISEMENT",
+            "ascript",
+            " portraits",
+            " pecul",
+            "tesy",
+            " recollection",
+            " Optimus",
+            "VID",
+            "SourceFile",
+            " salute"
+        ],
+        "positive_strings": [
+            "inki",
+            "atsu",
+            "gaard",
+            "ubi",
+            "enz",
+            "isky",
+            "inis",
+            "akov",
+            "odo",
+            "inski"
+        ],
+        "description": "foods or products related to kosher dietary restrictions"
+    },
+    {
+        "index": "2694",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/kosher/data_for_feature_2694.json",
+        "negative_strings": [
+            " Keane",
+            "agall",
+            " BLM",
+            "orically",
+            "ificantly",
+            " Equality",
+            "atican",
+            " Eag",
+            " Gaga",
+            " Soros"
+        ],
+        "positive_strings": [
+            "taboola",
+            "SpaceEngineers",
+            "Reviewer",
+            " deliveries",
+            "entry",
+            "kid",
+            "Article",
+            " intake",
+            "Regular",
+            "Requ"
+        ],
+        "description": "terms related to food choices and regulations, such as different menu options, dietary restrictions like kosher and heart-healthy, and food service practices"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "index": "56984",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_56984.json",
+        "negative_strings": [
+            "ued",
+            "EDI",
+            "ulet",
+            "idy",
+            "tran",
+            " Stub",
+            "osu",
+            "\u00e5\u013d\u00a3",
+            "odi",
+            "462"
+        ],
+        "positive_strings": [
+            " church",
+            " Church",
+            "church",
+            " Powers",
+            " powers",
+            "Church",
+            "powers",
+            " Mosque",
+            " doma",
+            " compartments"
+        ],
+        "description": " references to the separation of church and state"
+    },
+    {
+        "index": "11127",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_11127.json",
+        "negative_strings": [
+            "asse",
+            " first",
+            "atore",
+            "930",
+            "ase",
+            " firstly",
+            "chio",
+            "ay\u00c4\u00b1",
+            " Gan",
+            "th"
+        ],
+        "positive_strings": [
+            "enberg",
+            "-ever",
+            " ti\u00c3\u00aan",
+            "sst",
+            "enburg",
+            "nis",
+            "born",
+            " Amendment",
+            "folio",
+            "hand"
+        ],
+        "description": "mentions of the \"First Baptist Church\" and \"First Amendment.\""
+    },
+    {
+        "index": "1097",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_1097.json",
+        "negative_strings": [
+            "edReader",
+            "awi",
+            " Libre",
+            "errer",
+            "ryptography",
+            "ISTIC",
+            "ubar",
+            "akl\u00c4\u00b1",
+            "ahu",
+            "chk"
+        ],
+        "positive_strings": [
+            "osate",
+            " Worker",
+            " hierarchy",
+            "hiba",
+            "orget",
+            "ustos",
+            " Faul",
+            " Relief",
+            "_hierarchy",
+            "Hierarchy"
+        ],
+        "description": " references to the Catholic Church and related religious topics"
+    },
+    {
+        "index": "8957",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_8957.json",
+        "negative_strings": [
+            "onga",
+            " Tune",
+            " Tong",
+            "\u00d1\u012a\u00d0\u00b5\u00d0\u00b2",
+            "TXT",
+            "txt",
+            "Typed",
+            "din",
+            " Titan",
+            "TTY"
+        ],
+        "positive_strings": [
+            " teaching",
+            " teach",
+            " taught",
+            " teaches",
+            " Teach",
+            " Teaching",
+            " teachings",
+            "\u00e6\u0137\u013b",
+            " ense",
+            "-te"
+        ],
+        "description": " references to the Catholic Church and teaching responsibilities"
+    },
+    {
+        "index": "51021",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_51021.json",
+        "negative_strings": [
+            "uti",
+            "adin",
+            " grade",
+            " \u00e8\u00b5\u0126",
+            " Gala",
+            "ads",
+            "m\u00c3\u0143",
+            "etics",
+            "queryString",
+            "ToObject"
+        ],
+        "positive_strings": [
+            " services",
+            " Services",
+            "services",
+            "Services",
+            " SERVICES",
+            " service",
+            "-services",
+            "_services",
+            "ervices",
+            " servi\u00c3\u00a7os"
+        ],
+        "description": " activities related to church services and gatherings"
+    },
+    {
+        "index": "38252",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_38252.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00a1\u00e0\u00b8\u013b\u00e0\u00b8\u0137\u00e0\u00b8\u00a3",
+            "akhir",
+            ".Atomic",
+            "lian",
+            "\u00e9\u0143",
+            "\u00e3\u0125\u00a3",
+            "yna",
+            "abyrinth",
+            "ruptions",
+            "::::::::::"
+        ],
+        "positive_strings": [
+            " Virgin",
+            " Our",
+            "Virgin",
+            " Saint",
+            " Mary",
+            " St",
+            " Presentation",
+            " patron",
+            " Ass",
+            " Saints"
+        ],
+        "description": " references to churches and religious institutions"
+    },
+    {
+        "index": "25009",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_25009.json",
+        "negative_strings": [
+            " scripture",
+            " bible",
+            "duction",
+            "adoo",
+            " Bible",
+            " secular",
+            " Blank",
+            "ree",
+            "\u00d1\u0124\u00d0\u00b0\u00d0\u00bb",
+            "rape"
+        ],
+        "positive_strings": [
+            " Church",
+            "Church",
+            " Bride",
+            " Tradition",
+            " Body",
+            " worldwide",
+            "ekk",
+            " Deposit",
+            " church",
+            "visible"
+        ],
+        "description": " references to the Catholic Church and discussions of membership and inclusion"
+    },
+    {
+        "index": "57857",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_57857.json",
+        "negative_strings": [
+            "occo",
+            "arte",
+            "chner",
+            " estad",
+            "\u00d9\u0123\u00d8\u00aa\u00d9\u0129",
+            "ialect",
+            "artz",
+            " \u00c3\u013el",
+            "ugin",
+            "oader"
+        ],
+        "positive_strings": [
+            " Fathers",
+            " anc",
+            "olon",
+            " early",
+            " passage",
+            " Early",
+            " Samar",
+            " account",
+            "APA",
+            " fathers"
+        ],
+        "description": " references to the Church and its teachings in relation to translations and doctrines"
+    },
+    {
+        "index": "11727",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/church/data_for_feature_11727.json",
+        "negative_strings": [
+            "strt",
+            "transparent",
+            " Transparent",
+            "agne",
+            " amendments",
+            " Constitutional",
+            " guaranteed",
+            "URES",
+            "olist",
+            "reon"
+        ],
+        "positive_strings": [
+            " canonical",
+            "ttp",
+            " canon",
+            " Canonical",
+            " Suspension",
+            " Bulls",
+            "-UA",
+            " Canon",
+            "gressor",
+            "Canonical"
+        ],
+        "description": "terms related to church and marriage doctrine, particularly regarding annulment processes"
+    }
+]

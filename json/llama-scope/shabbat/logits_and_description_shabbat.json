@@ -1,0 +1,602 @@
+[
+    {
+        "index": "43",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_43.json",
+        "negative_strings": [
+            "zin",
+            "zes",
+            " c\u00c3\u00a9lib",
+            " AST",
+            "\u00e7\u0143\u0134",
+            "ropolis",
+            "IDES",
+            "yp",
+            "haus",
+            "rex"
+        ],
+        "positive_strings": [
+            "abb",
+            "lish",
+            "lich",
+            "mary",
+            "alach",
+            "ABB",
+            "mini",
+            "vat",
+            "olem",
+            "omer"
+        ],
+        "description": " references to Shabbat and related rituals"
+    },
+    {
+        "index": "4871",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_4871.json",
+        "negative_strings": [
+            "oca",
+            "zin",
+            "ropolis",
+            "anova",
+            "zsche",
+            "HLT",
+            "yp",
+            "\u00e7\u0143\u0134",
+            "oure",
+            " lanc"
+        ],
+        "positive_strings": [
+            "abb",
+            "lish",
+            "\u00d0\u00b0\u00d0\u00bb\u00d0\u00be\u00d0\u00bc",
+            "mini",
+            "mary",
+            "ABB",
+            "lich",
+            "aul",
+            "\u00c3\u00b1ana",
+            "vat"
+        ],
+        "description": " references to the Shabbat or related Jewish rituals and symbols"
+    },
+    {
+        "index": "30007",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_30007.json",
+        "negative_strings": [
+            "oca",
+            "HLT",
+            "yp",
+            "ropolis",
+            "rol",
+            "oure",
+            "ense",
+            " noct",
+            "zes",
+            "adge"
+        ],
+        "positive_strings": [
+            "lish",
+            "abb",
+            "mary",
+            "ABB",
+            "lesia",
+            "vu",
+            "abbo",
+            "olem",
+            "oft",
+            "\u00d0\u00b0\u00d0\u00bb\u00d0\u00be\u00d0\u00bc"
+        ],
+        "description": " references to Jewish religious practices, particularly related to Shabbat"
+    },
+    {
+        "index": "14069",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_14069.json",
+        "negative_strings": [
+            "aille",
+            "adge",
+            "sc",
+            "ropolis",
+            "isman",
+            "collapse",
+            "\u00e8\u013b\u0137",
+            "orsk",
+            "\u00ea\u00b0\u013e\u00eb\u00a5\u00bc",
+            " compens"
+        ],
+        "positive_strings": [
+            "mary",
+            "rag",
+            "ABB",
+            "\u00c3\u00b1ana",
+            "abb",
+            "igion",
+            " Hole",
+            " Affero",
+            "EMON",
+            "lish"
+        ],
+        "description": " phrases related to Jewish religious practices, specifically observing Shabbat"
+    },
+    {
+        "index": "8026",
+        "layer": "23-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_8026.json",
+        "negative_strings": [
+            "zdy",
+            "_simps",
+            "_evt",
+            "pest",
+            "ispers",
+            "\u00cf\u012f\u00ce\u00bd",
+            "Disposition",
+            "714",
+            "\u00e3\u0124\u0129",
+            "cling"
+        ],
+        "positive_strings": [
+            "oucher",
+            " candles",
+            "keit",
+            "ubbo",
+            "bat",
+            " Floral",
+            "ente",
+            "yster",
+            "\u00e7",
+            "ork"
+        ],
+        "description": " references to Shabbat and related rituals"
+    },
+    {
+        "index": "26543",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_26543.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "\u00d1\u0138\u00d0\u00b4\u00d0\u00bd\u00d0\u00be",
+            "\u00d1\u012a\u00d0\u00b8\u00d0\u00bc\u00d0\u00b8",
+            "holm",
+            " fitte",
+            "\u00e3\u0123\u00a3\u00e3\u0123\u00a6\u00e3\u0123\u012f\u00e3\u0123\u0141",
+            "PLICATE",
+            " seiz",
+            "\u00d0\u00ba\u00d1\u0125\u00d1\u0123",
+            "erval"
+        ],
+        "positive_strings": [
+            "lix",
+            "yon",
+            "at",
+            "atology",
+            "VA",
+            "ython",
+            "endon",
+            "aton",
+            "OS",
+            "ndo"
+        ],
+        "description": " occurrences of the term \"Shabbat\" and related ritualistic concepts"
+    },
+    {
+        "index": "11945",
+        "layer": "29-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_11945.json",
+        "negative_strings": [
+            "837",
+            " Torrent",
+            "_marshall",
+            "ota",
+            "ODB",
+            "\u00c3\u00bct\u00c3\u00bcn",
+            " Haram",
+            "unc",
+            " queryInterface",
+            "artz"
+        ],
+        "positive_strings": [
+            " nat",
+            "nat",
+            "ANA",
+            "\u00e7\u00a9\u012f",
+            "cxx",
+            "imon",
+            "Nat",
+            "\u00e5\u00b9\u00b2",
+            "EMA",
+            " shame"
+        ],
+        "description": " occurrences of the term \"Shabbat\" and related expressions"
+    },
+    {
+        "index": "18387",
+        "layer": "28-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_18387.json",
+        "negative_strings": [
+            "icious",
+            "HECK",
+            "bz",
+            " cz",
+            "\u00e7\u00b2\u00be",
+            "_suspend",
+            " Til",
+            "emaker",
+            " Helm",
+            " maker"
+        ],
+        "positive_strings": [
+            "piel",
+            "antro",
+            "\u00c3\u00a1b",
+            "reta",
+            "allet",
+            "ulk",
+            "allon",
+            "vore",
+            "\u0139i",
+            "ero"
+        ],
+        "description": "references to Jewish holidays, specifically Rosh Hashanah and Shabbat"
+    },
+    {
+        "index": "122192",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/shabbat/data_for_feature_122192.json",
+        "negative_strings": [
+            "resse",
+            "\u00e3\u0123\u0131\u00e3\u0124\u012e",
+            "otti",
+            "aset",
+            "aille",
+            "inger",
+            "\u00d9\u012c\u00d8\u00af\u00d8\u00a9",
+            "WithEmail",
+            "\u00e1\u00bb\u00b9",
+            "isman"
+        ],
+        "positive_strings": [
+            "rag",
+            "arness",
+            "alom",
+            "lish",
+            "\u00c3\u00b1ana",
+            "anske",
+            "mini",
+            "oko",
+            "\u00d0\u00bc\u00d1\u0131",
+            "mary"
+        ],
+        "description": " content or references related to Shabbat"
+    },
+    {
+        "index": "3263",
+        "layer": "27-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_3263.json",
+        "negative_strings": [
+            "ITO",
+            "ilit",
+            "amy",
+            "ilst",
+            " moh",
+            "bitmap",
+            " \u00ed\u0136",
+            "anio",
+            "\u00c3\u00bcst",
+            "amo"
+        ],
+        "positive_strings": [
+            "azor",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00ba\u00d0\u00b8",
+            ".gnu",
+            "\u00e5\u00ba\u0143",
+            " Texans",
+            "athi",
+            " STATS",
+            "oling",
+            " \u00c4\u0133\u00e1\u00bb\u012dnh",
+            " Collider"
+        ],
+        "description": " references to the Jewish Sabbath (Shabbat) and associated rituals"
+    },
+    {
+        "index": "22550",
+        "layer": "28-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_22550.json",
+        "negative_strings": [
+            "gor",
+            " cycles",
+            ".ma",
+            "ma",
+            " Cycle",
+            " cycle",
+            " Acts",
+            "\u00e7\u00aa",
+            "Ma",
+            "leck"
+        ],
+        "positive_strings": [
+            "licht",
+            "ont",
+            "ombok",
+            "lixir",
+            "ahn",
+            "anton",
+            "Ymd",
+            "lian",
+            "Ont",
+            "tember"
+        ],
+        "description": " keywords associated with Jewish religious practices, specifically related to Shabbat"
+    },
+    {
+        "index": "2432",
+        "layer": "27-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_2432.json",
+        "negative_strings": [
+            "overy",
+            "pire",
+            "asco",
+            "umont",
+            "kov",
+            "yas",
+            "ihn",
+            ":UITableView",
+            "otas",
+            "ultz"
+        ],
+        "positive_strings": [
+            "@brief",
+            "tir",
+            "mouseleave",
+            "avis",
+            "bare",
+            " \u00d0\u00b4\u00d0\u00be\u00d0\u00bf",
+            "\u00e1\u00bb\u012fng",
+            "reno",
+            "avi",
+            "endl"
+        ],
+        "description": " references to Sabbath (Shabbat) rituals and related practices"
+    },
+    {
+        "index": "22287",
+        "layer": "30-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_22287.json",
+        "negative_strings": [
+            "sburgh",
+            "igt",
+            "etheless",
+            "cher",
+            "495",
+            "589",
+            "773",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u0122\u00d0\u00be\u00d0\u00b9",
+            "769",
+            " porr"
+        ],
+        "positive_strings": [
+            "iles",
+            "uh",
+            "ines",
+            "ul",
+            "ilit",
+            " Jamal",
+            "lava",
+            "angen",
+            "asa",
+            " Scarlett"
+        ],
+        "description": "references to a specific cultural or religious practice related to Shabbat"
+    },
+    {
+        "index": "286",
+        "layer": "26-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_286.json",
+        "negative_strings": [
+            "acon",
+            "eras",
+            "_ctl",
+            "ijd",
+            " Highway",
+            "ep",
+            "mic",
+            "\u00cf\u012a\u00ce\u00b7",
+            "ephy",
+            "xico"
+        ],
+        "positive_strings": [
+            "riterion",
+            "bos",
+            "ECT",
+            "loon",
+            "abra",
+            " Jewish",
+            " Jews",
+            "\u00c5\u00ab",
+            " \u00d1\u0125\u00d1\u0123",
+            "LOPT"
+        ],
+        "description": " references to the Jewish Sabbath (Shabbat) and related rituals"
+    },
+    {
+        "index": "9463",
+        "layer": "25-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_9463.json",
+        "negative_strings": [
+            "illos",
+            "kdir",
+            "ailles",
+            "ecut",
+            " Burr",
+            "illo",
+            "\u00ed\u013b\u0122",
+            "STALL",
+            "avou",
+            ".GetName"
+        ],
+        "positive_strings": [
+            "gis",
+            "obel",
+            "eron",
+            "ugu",
+            "os",
+            "obra",
+            "ith",
+            "elsen",
+            "arn",
+            " Sab"
+        ],
+        "description": " references to Jewish religious practices, particularly related to Shabbat"
+    },
+    {
+        "index": "28147",
+        "layer": "25-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_28147.json",
+        "negative_strings": [
+            "AMPL",
+            "nger",
+            " tog",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7",
+            " paren",
+            " Zar",
+            " \u00e5\u00a4",
+            " Z",
+            "ni\u00c4\u012f",
+            " V"
+        ],
+        "positive_strings": [
+            "bak",
+            "\u00d0\u00bc\u00d0\u00b8\u00d0\u00bd\u00d0\u00b8",
+            "jaw",
+            " FAG",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "isen",
+            "bane",
+            " jaw",
+            " mus",
+            "iginal"
+        ],
+        "description": " references to the Jewish Sabbath (Shabbat)"
+    },
+    {
+        "index": "22499",
+        "layer": "23-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_22499.json",
+        "negative_strings": [
+            "\u00ba",
+            " Bite",
+            " Jak",
+            "\u00e0\u00b8\u0138\u00e0\u00b8\u00a1",
+            "igers",
+            " \u00c4\u0132\u00c3\u0142i",
+            "ereg",
+            "\u0141\u00b3",
+            "oria",
+            "PY"
+        ],
+        "positive_strings": [
+            "ugin",
+            "ubbo",
+            "urable",
+            "riba",
+            "zilla",
+            "phinx",
+            "illos",
+            " vrou",
+            " Ging",
+            "\u00d8\u00ae\u00d9\u012a"
+        ],
+        "description": " references to Jewish rituals, particularly the Sabbath (Shabbat)"
+    },
+    {
+        "index": "26453",
+        "layer": "24-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_26453.json",
+        "negative_strings": [
+            "addon",
+            "usher",
+            "anova",
+            "\u00e7\u00b0",
+            " crossword",
+            "otti",
+            "illis",
+            "\u00e2\u0122\u00aa",
+            " Harper",
+            "pread"
+        ],
+        "positive_strings": [
+            "mmo",
+            "fst",
+            " \u00d0\u00b1\u00d0\u00b0\u00d1\u0122",
+            " equival",
+            "pcf",
+            "itag",
+            "Inner",
+            "oled",
+            "ypsy",
+            "igi"
+        ],
+        "description": " references to Shabbat and related Jewish rituals"
+    },
+    {
+        "index": "13511",
+        "layer": "21-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_13511.json",
+        "negative_strings": [
+            "kl\u00c3\u00a4",
+            "zf",
+            "243",
+            "oes",
+            "ida",
+            "\u00ce\u00be\u00ce\u00b7",
+            "hist",
+            "uter",
+            " Humph",
+            "ILog"
+        ],
+        "positive_strings": [
+            "azar",
+            "aniel",
+            "gewater",
+            "ibrary",
+            "enson",
+            "\u00e4\u00b8\u012f\u00e4\u00ba\u0128",
+            "\u00e7\u00bf\u00bc",
+            "uggy",
+            "ault",
+            "alem"
+        ],
+        "description": " references to Shabbat and related Jewish practices or terminology"
+    },
+    {
+        "index": "28479",
+        "layer": "5-llamascope-mlp-32k",
+        "url": "json/llama-scope/shabbat/data_for_feature_28479.json",
+        "negative_strings": [
+            " Tage",
+            "itta",
+            "\u00e4\u00ba\u0134",
+            ".writ",
+            "oya",
+            " Citation",
+            "startup",
+            "isma",
+            "ERSION",
+            " overall"
+        ],
+        "positive_strings": [
+            "ltra",
+            "amba",
+            " Dimit",
+            " Aid",
+            "allery",
+            "ione",
+            "riel",
+            "agal",
+            " SALE",
+            "ragment"
+        ],
+        "description": " mentions of religious practices, specifically related to Shabbat"
+    }
+]

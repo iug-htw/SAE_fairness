@@ -1,0 +1,62 @@
+[
+    {
+        "index": "16995",
+        "layer": "0-llamascope-mlp-131k",
+        "url": "json/llama-scope/grandpa/data_for_feature_16995.json",
+        "negative_strings": [
+            "\u00e3\u0124\u012c\u00e3\u0123\u00ab",
+            ".criteria",
+            "uar",
+            "ookie",
+            "rezent",
+            "izar",
+            "zman",
+            "igua",
+            "vig",
+            "esh"
+        ],
+        "positive_strings": [
+            "amik",
+            "nite",
+            "hei",
+            " satellite",
+            "\u00d9\u012a\u00d9\u0127\u00d8\u00a7\u00d8\u00aa",
+            " kanal",
+            " dem",
+            " disagree",
+            "raquo",
+            " Elev"
+        ],
+        "description": "references to family relationships, specifically focusing on \"grandpa\" or similar terms"
+    },
+    {
+        "index": "78913",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/grandpa/data_for_feature_78913.json",
+        "negative_strings": [
+            "benh",
+            "ients",
+            "\u00d8\u00b5\u00d8\u00a7\u00d9\u0126",
+            "haul",
+            "imest",
+            "kom",
+            "cin",
+            "ove",
+            "statuses",
+            "idad"
+        ],
+        "positive_strings": [
+            "ieber",
+            "178",
+            "stub",
+            "svc",
+            "iris",
+            " Lever",
+            "ile",
+            "xor",
+            "-Bold",
+            "idis"
+        ],
+        "description": " occurrences of the word \"grandpa.\""
+    }
+]

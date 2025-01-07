@@ -1,0 +1,602 @@
+[
+    {
+        "index": "48261",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_48261.json",
+        "negative_strings": [
+            "udo",
+            "gh",
+            "lej",
+            " ",
+            "/oauth",
+            "idores",
+            " Dum",
+            "\u00e9\u00b3\u00b4",
+            "azer",
+            "goo"
+        ],
+        "positive_strings": [
+            " show",
+            "-show",
+            "show",
+            "SHOW",
+            ".show",
+            " SHOW",
+            "Show",
+            " Show",
+            "shows",
+            " operation"
+        ],
+        "description": " references to gendered terms related to individuals, particularly focusing on \"man\" and \"woman\""
+    },
+    {
+        "index": "115256",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_115256.json",
+        "negative_strings": [
+            "adies",
+            "\u00e7\u0130\u0129",
+            "urr",
+            "orrh",
+            "ideographic",
+            "uns",
+            "elial",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0132",
+            "isy",
+            "innen"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "ly",
+            "ifest",
+            "seau",
+            "ufact",
+            "ILA",
+            "agua",
+            "handled",
+            "ry"
+        ],
+        "description": "references to the term \"woman\" and its derivatives in a variety of contexts"
+    },
+    {
+        "index": "104833",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_104833.json",
+        "negative_strings": [
+            "\u00c3\u00abn",
+            "gaard",
+            "genic",
+            "leanor",
+            "ALLY",
+            "rganization",
+            "zeit",
+            "erties",
+            "maal",
+            "ted"
+        ],
+        "positive_strings": [
+            "iac",
+            "hattan",
+            "agment",
+            "ufac",
+            "hunt",
+            "agements",
+            "-child",
+            "made",
+            "tras",
+            "/w"
+        ],
+        "description": "mentions of \"man\" and \"woman,\" particularly in contexts that convey characteristics or actions"
+    },
+    {
+        "index": "52580",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_52580.json",
+        "negative_strings": [
+            "ncy",
+            "shoot",
+            "igid",
+            "idget",
+            "ials",
+            " cez",
+            ".plugin",
+            "\u00d0\u00b0\u00d0\u00bb\u00d1\u0130",
+            ".Elements",
+            " \u00c4\u0133\u00c6\u00b0\u00c6\u00a1ng"
+        ],
+        "positive_strings": [
+            " Studies",
+            " rights",
+            " studies",
+            " serial",
+            " suff",
+            " Suff",
+            " issues",
+            "/G",
+            " Rights",
+            " Issues"
+        ],
+        "description": "references to women's rights or the term \"woman\" in relation to accomplishments or movements"
+    },
+    {
+        "index": "7071",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_7071.json",
+        "negative_strings": [
+            "adies",
+            "adden",
+            "urr",
+            "ideographic",
+            "\\<^",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0132",
+            "\u00d0\u00bd\u00d1\u0138\u00d0\u00b2",
+            "noc",
+            "immers",
+            "rops"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "ufact",
+            "ifest",
+            "ly",
+            "agua",
+            "handled",
+            "fred",
+            "power",
+            "seau"
+        ],
+        "description": "instances of the word \"Woman\" and its variations, indicating a focus on gender-related themes"
+    },
+    {
+        "index": "4013",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_4013.json",
+        "negative_strings": [
+            "s",
+            " themselves",
+            "adies",
+            "kl",
+            " girls",
+            "tsy",
+            "\u00cf\u0124",
+            "\u00e0\u00a4\u0137",
+            "hir",
+            "sar"
+        ],
+        "positive_strings": [
+            "hood",
+            "ly",
+            " herself",
+            "/man",
+            "liness",
+            "ifest",
+            "-child",
+            "izer",
+            "izing",
+            "liest"
+        ],
+        "description": " occurrences of the word \"woman\" and variations related to female identity"
+    },
+    {
+        "index": "66552",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_66552.json",
+        "negative_strings": [
+            "#ad",
+            " jadx",
+            "elles",
+            "kaar",
+            "*=*=",
+            "\u00e3\u0124\u0135\u00e3\u0123\u00a9",
+            " sch\u00c3\u00b6",
+            " TEMPLATE",
+            "KIT",
+            "\u00c4\u00b1m\u00c4\u00b1n"
+        ],
+        "positive_strings": [
+            " ready",
+            " glad",
+            " cogn",
+            " aware",
+            " happy",
+            " proud",
+            " slightly",
+            " inclined",
+            " comfortable",
+            " content"
+        ],
+        "description": " mentions of gender or aspects related to being a woman in various contexts"
+    },
+    {
+        "index": "54502",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_54502.json",
+        "negative_strings": [
+            "uder",
+            ".weixin",
+            "\u00d0\u00bd\u00d1\u0138\u00d0\u00b2",
+            "urr",
+            "sie",
+            "s",
+            "adies",
+            "s\u00c4\u00b1nda",
+            "ilio",
+            "genic"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "ifest",
+            "handled",
+            "fred",
+            "hattan",
+            "ette",
+            "oir",
+            "agements",
+            "etics"
+        ],
+        "description": "references to \"woman\" and related terms or themes"
+    },
+    {
+        "index": "13823",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_13823.json",
+        "negative_strings": [
+            "bie",
+            "hani",
+            "nten",
+            "pNet",
+            "activex",
+            "\u00e5\u0132\u00a7",
+            "vie",
+            " readline",
+            "tables",
+            "opi"
+        ],
+        "positive_strings": [
+            " woman",
+            " Woman",
+            "Woman",
+            "woman",
+            " vrouw",
+            "\u00e5\u00a5\u00b3\u00e4\u00ba\u00ba",
+            " WOM",
+            " mujer",
+            " man",
+            " mulher"
+        ],
+        "description": "references to gender, particularly relating to \"man\" and \"woman.\""
+    },
+    {
+        "index": "50998",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_50998.json",
+        "negative_strings": [
+            "/meta",
+            "eway",
+            "spi",
+            "lient",
+            " quis",
+            "illance",
+            "\u00e1\u00ba\u00a1n",
+            " kari",
+            "_intf",
+            "\u00e4\u00be"
+        ],
+        "positive_strings": [
+            " Man",
+            " charged",
+            "Man",
+            " recre",
+            "aged",
+            "scheduled",
+            "identification",
+            "enek",
+            "rouw",
+            "lys"
+        ],
+        "description": "references to \"man\" and \"woman\" in various contexts"
+    },
+    {
+        "index": "22846",
+        "layer": "29-llamascope-mlp-32k",
+        "url": "json/llama-scope/woman/data_for_feature_22846.json",
+        "negative_strings": [
+            "anked",
+            "arseille",
+            "ernaut",
+            " hypoth",
+            "elop",
+            "abant",
+            " Maher",
+            "plete",
+            "elves",
+            " Paid"
+        ],
+        "positive_strings": [
+            " BIT",
+            "513",
+            "BIT",
+            "inish",
+            " Burl",
+            "\u00d0\u00bc\u00d0\u00b8\u00d1\u0124",
+            "omi",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00bb\u00d0\u00b8",
+            "ziel",
+            "\u00d1\u0122\u00d0\u00b5\u00d1\u0127"
+        ],
+        "description": "mentions of people involved in various incidents or situations, particularly focusing on those labeled as \"man\" or \"woman.\""
+    },
+    {
+        "index": "49255",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/woman/data_for_feature_49255.json",
+        "negative_strings": [
+            "\u00c3\u00a4tt",
+            " Infer",
+            "andon",
+            "oucher",
+            "issional",
+            "infer",
+            "acin",
+            "urv",
+            " Bernstein",
+            "izi"
+        ],
+        "positive_strings": [
+            "omi",
+            "ombre",
+            "omen",
+            "oni",
+            "ilden",
+            "rw",
+            "\u00e3\u0124\u00a6\u00e3\u0125\u00b3",
+            "\u00d0\u00be\u00d0\u00bc\u00d1\u0138",
+            "umm",
+            "om"
+        ],
+        "description": " occurrences of the word \"woman\" and its variants or affixes"
+    },
+    {
+        "index": "15045",
+        "layer": "18-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_15045.json",
+        "negative_strings": [
+            "rellas",
+            "\\<^",
+            "adies",
+            "s\u00c4\u00b1nda",
+            "ilio",
+            "s",
+            "kt",
+            "olet",
+            "erras",
+            "sie"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "ifest",
+            "handled",
+            "tras",
+            "hattan",
+            "fred",
+            "fault",
+            "IFEST",
+            "power"
+        ],
+        "description": "mentions of the term \"woman\" and its variations"
+    },
+    {
+        "index": "7",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_7.json",
+        "negative_strings": [
+            "em",
+            "y",
+            "genesis",
+            "\u00e6\u013e\u012d",
+            "licity",
+            "agy",
+            "hi",
+            "sed",
+            "pery",
+            "ano"
+        ],
+        "positive_strings": [
+            "oland",
+            "hattan",
+            "escape",
+            "ufacturer",
+            "acent",
+            "atee",
+            "ukes",
+            "\u00c5\u013dnie",
+            "errat",
+            "611"
+        ],
+        "description": "references to \"man\" and \"woman\" in various contexts"
+    },
+    {
+        "index": "40592",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_40592.json",
+        "negative_strings": [
+            "gid",
+            "\u00e1\u00bb\u0135m",
+            "isay",
+            " Yours",
+            "asd",
+            " bekl",
+            " upto",
+            "inea",
+            " christmas",
+            "dit"
+        ],
+        "positive_strings": [
+            " strong",
+            " super",
+            " physic",
+            "urers",
+            " strongest",
+            "etz",
+            " connexion",
+            "\u0124\u00b9",
+            " ener",
+            "OfWork"
+        ],
+        "description": " expressions of personal identity and the experience of being a woman"
+    },
+    {
+        "index": "34371",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_34371.json",
+        "negative_strings": [
+            "inen",
+            " Genome",
+            "APA",
+            "\u00d0\u00be\u00d0\u00be\u00d0\u00b1\u00d1\u0122\u00d0\u00b0\u00d0\u00b7",
+            "genome",
+            "artner",
+            " \u00e7\u00af",
+            "uforia",
+            "adro",
+            "\u00d1\u0130\u00d0\u00ba"
+        ],
+        "positive_strings": [
+            " Und",
+            " Sham",
+            "sett",
+            " und",
+            " yet",
+            "ette",
+            " Wouldn",
+            "\u00c3\u00a1v",
+            "Und",
+            " Worker"
+        ],
+        "description": "references to woman-centric themes or topics"
+    },
+    {
+        "index": "45636",
+        "layer": "12-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_45636.json",
+        "negative_strings": [
+            "er\u00c3\u00a7",
+            "ebin",
+            "VENT",
+            "et",
+            "yps",
+            "itr",
+            "crast",
+            "emale",
+            " opat",
+            "Matchers"
+        ],
+        "positive_strings": [
+            "\u00c4\u012f\u00c3\u0143",
+            " jenter",
+            "Lexer",
+            "\u00c3\u00a4s",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "esium",
+            " -----------------------------------------------------------------------------\n",
+            "ASF",
+            ".lex",
+            " Strength"
+        ],
+        "description": "references to female superhero characters, particularly Wonder Woman and related figures"
+    },
+    {
+        "index": "98658",
+        "layer": "11-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_98658.json",
+        "negative_strings": [
+            "er\u00c3\u00a7",
+            "eing",
+            "usi",
+            "\u00e5\u00bf\u0142",
+            "ebin",
+            "en",
+            "ima",
+            "ece",
+            "imony",
+            "enor"
+        ],
+        "positive_strings": [
+            "\u00c4\u012f\u00c3\u0143",
+            "ostel",
+            "annes",
+            "ulings",
+            "\u00c3\u00a4s",
+            "Led",
+            "ABCDEFGHIJKLMNOP",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "BTTag",
+            "\u00d0\u00bd\u00d0\u00b8\u00d1\u0128\u00d1\u012e"
+        ],
+        "description": " references to the character Wonder Woman and related variations"
+    },
+    {
+        "index": "64689",
+        "layer": "9-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_64689.json",
+        "negative_strings": [
+            "enor",
+            "ebin",
+            "usi",
+            "er\u00c3\u00a7",
+            "en",
+            "enko",
+            "Thr",
+            "avis",
+            "amax",
+            "\u00c3\u00abl"
+        ],
+        "positive_strings": [
+            "384",
+            " t\u00c3\u0142i",
+            "annes",
+            "ulings",
+            "385",
+            "achuset",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "olina",
+            " Stake",
+            "nid"
+        ],
+        "description": "references to the characters Wonder Woman and Diana"
+    },
+    {
+        "index": "121691",
+        "layer": "8-llamascope-res-131k",
+        "url": "json/llama-scope/woman/data_for_feature_121691.json",
+        "negative_strings": [
+            "ebin",
+            "ieve",
+            "ece",
+            "ynet",
+            "ease",
+            "rement",
+            "amax",
+            "enor",
+            "onia",
+            "ANCELED"
+        ],
+        "positive_strings": [
+            "izontally",
+            "384",
+            "bole",
+            " Stake",
+            "383",
+            "ostel",
+            "erk",
+            " paz",
+            "ialis",
+            "lop"
+        ],
+        "description": "references to the character Wonder Woman"
+    }
+]

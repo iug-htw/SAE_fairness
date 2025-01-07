@@ -1,0 +1,452 @@
+[
+    {
+        "index": "19160",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_19160.json",
+        "negative_strings": [
+            " Bom",
+            "Thor",
+            " Dek",
+            " Cron",
+            " Kok",
+            " Pryor",
+            "xon",
+            " Sok",
+            " Mississ",
+            " Razer"
+        ],
+        "positive_strings": [
+            " pope",
+            " Pope",
+            "Pope",
+            " Francis",
+            "Franc",
+            " pont",
+            " Vatican",
+            " pap",
+            "atican",
+            " bishops"
+        ],
+        "description": "references to the Catholic Church and its leadership, particularly related to recent popes and their actions"
+    },
+    {
+        "index": "7476",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_7476.json",
+        "negative_strings": [
+            " Esk",
+            " Bowman",
+            " Nash",
+            "Bow",
+            " Aboriginal",
+            " axe",
+            " Elliot",
+            " Bulldogs",
+            " NBN",
+            "monton"
+        ],
+        "positive_strings": [
+            " Vatican",
+            " pope",
+            "Pope",
+            " Pope",
+            "atican",
+            " pont",
+            " pap",
+            " Jesuit",
+            " Catholicism",
+            " Rome"
+        ],
+        "description": "references to the Catholic Church and its leadership, particularly Pope Francis and issues related to Catholic doctrine or controversies"
+    },
+    {
+        "index": "10283",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_10283.json",
+        "negative_strings": [
+            "Georgia",
+            "Alabama",
+            " Kirby",
+            "Atlanta",
+            " Bom",
+            " Bulldogs",
+            "Gaming",
+            "SEA",
+            "gamer",
+            "SourceFile"
+        ],
+        "positive_strings": [
+            " pope",
+            " Vatican",
+            " Pope",
+            "Pope",
+            " pont",
+            " pap",
+            " Francis",
+            "Franc",
+            " Benedict",
+            " Rome"
+        ],
+        "description": "references to the Pope and the context of his actions and statements regarding sexual abuse and child protection within the Catholic Church"
+    },
+    {
+        "index": "40929",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_40929.json",
+        "negative_strings": [
+            "bedroom",
+            "space",
+            "strip",
+            "tools",
+            "cellaneous",
+            "mobile",
+            "container",
+            " niche",
+            "ravel",
+            " Stuff"
+        ],
+        "positive_strings": [
+            " emperor",
+            " Emperor",
+            " pope",
+            " Augustus",
+            " princ",
+            " inaug",
+            " infall",
+            "\ufffd",
+            " Faust",
+            " announces"
+        ],
+        "description": "references to various Popes and their historical impact"
+    },
+    {
+        "index": "21804",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_21804.json",
+        "negative_strings": [
+            "abase",
+            "staking",
+            "ividual",
+            " subcontract",
+            " maze",
+            " conduit",
+            " runway",
+            " scaven",
+            " tenancy",
+            "ysis"
+        ],
+        "positive_strings": [
+            "iola",
+            "llor",
+            "aug",
+            " Pis",
+            "Grand",
+            " Romans",
+            "\ufffd",
+            " Honor",
+            " Honour",
+            "ius"
+        ],
+        "description": "references to various Popes"
+    },
+    {
+        "index": "8585",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_8585.json",
+        "negative_strings": [
+            " ponds",
+            "rawdownloadcloneembedreportprint",
+            " breeze",
+            "Narr",
+            " picnic",
+            "MpServer",
+            " capture",
+            "EStreamFrame",
+            "plin",
+            "erial"
+        ],
+        "positive_strings": [
+            " XVI",
+            "\ufffd\u58eb",
+            " Adolf",
+            " XIV",
+            " millenn",
+            "olic",
+            " Jinping",
+            " Ferdinand",
+            " Augustus",
+            "asus"
+        ],
+        "description": "names of religious figures, specifically Popes and Cardinals"
+    },
+    {
+        "index": "33389",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_33389.json",
+        "negative_strings": [
+            "Tes",
+            "azard",
+            " glim",
+            "SourceFile",
+            "POR",
+            " Osc",
+            "pload",
+            "ajor",
+            "unk",
+            " Atari"
+        ],
+        "positive_strings": [
+            " inaug",
+            " Jinping",
+            " interpreting",
+            " conferred",
+            " Dalai",
+            " ambassadors",
+            " confirming",
+            " Vladimir",
+            " interpre",
+            " exh"
+        ],
+        "description": "mentions of Pope Francis and discussions related to his public engagements and statements"
+    },
+    {
+        "index": "6217",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_6217.json",
+        "negative_strings": [
+            " pedestrian",
+            " twitch",
+            " Clicker",
+            " Pok\u00e9",
+            " Brook",
+            " Roz",
+            "Nick",
+            " NR",
+            "MIT",
+            " blink"
+        ],
+        "positive_strings": [
+            "raq",
+            "lished",
+            " predecessors",
+            "odon",
+            "books",
+            "llor",
+            " XVI",
+            "azines",
+            "ivia",
+            "uble"
+        ],
+        "description": " mentions of Pope Francis and his activities"
+    },
+    {
+        "index": "28162",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_28162.json",
+        "negative_strings": [
+            " hindsight",
+            "Tes",
+            " Rent",
+            "XP",
+            "Charges",
+            "igslist",
+            " \u88cf\ufffd",
+            " Craigslist",
+            " profitability",
+            "Crash"
+        ],
+        "positive_strings": [
+            " ceremonial",
+            " usher",
+            " presiding",
+            "plom",
+            "urated",
+            " inaug",
+            " pope",
+            " ceremon",
+            " appointing",
+            "minist"
+        ],
+        "description": "mentions of Pope Francis and his actions or statements related to victims or blessings"
+    },
+    {
+        "index": "24371",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_24371.json",
+        "negative_strings": [
+            "ranean",
+            "ranch",
+            "ttle",
+            "luent",
+            " specialization",
+            " ENG",
+            "physical",
+            "ormal",
+            "bler",
+            "rawler"
+        ],
+        "positive_strings": [
+            " Sonia",
+            " Adolf",
+            " infall",
+            " Melania",
+            " Devi",
+            " Merkel",
+            " Schwarzenegger",
+            " presiding",
+            " criticised",
+            " Jinping"
+        ],
+        "description": " references to the Pope and related events"
+    },
+    {
+        "index": "1451",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_1451.json",
+        "negative_strings": [
+            "ammy",
+            "Priv",
+            "\u899a\u9192",
+            " CLSID",
+            "-----------",
+            "EStreamFrame",
+            "------------------------",
+            "ept",
+            " clipboard",
+            "Else"
+        ],
+        "positive_strings": [
+            "utics",
+            "icer",
+            "utical",
+            "ervative",
+            "renheit",
+            "utic",
+            "nsic",
+            "ucci",
+            "ugal",
+            "ilon"
+        ],
+        "description": "references to Pope Francis"
+    },
+    {
+        "index": "3947",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_3947.json",
+        "negative_strings": [
+            "laus",
+            "Interstitial",
+            "________________________________",
+            " Democr",
+            "yrinth",
+            "bleacher",
+            " Rockefeller",
+            "76561",
+            "ITNESS",
+            "tumblr"
+        ],
+        "positive_strings": [
+            "essed",
+            "ervative",
+            "angel",
+            "zilla",
+            "unia",
+            "otle",
+            "acket",
+            " wat",
+            "andise",
+            "icer"
+        ],
+        "description": "the word \"Pope\" or related terms"
+    },
+    {
+        "index": "20119",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_20119.json",
+        "negative_strings": [
+            "\ufffd\ufffd\ufffd",
+            "undai",
+            "ansson",
+            "aeper",
+            "arij",
+            "bered",
+            "rams",
+            "skill",
+            " trucks",
+            "should"
+        ],
+        "positive_strings": [
+            "TextColor",
+            "iously",
+            "SPONSORED",
+            "vier",
+            "arial",
+            "naire",
+            "ively",
+            "igible",
+            "ifier",
+            "abilia"
+        ],
+        "description": "words related to the process of selecting a pope within the context of a conclave"
+    },
+    {
+        "index": "1528",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_1528.json",
+        "negative_strings": [
+            "gradient",
+            "-|",
+            " flow",
+            "WARE",
+            "Ware",
+            " gradient",
+            " overload",
+            " differential",
+            "Ont",
+            " Alloy"
+        ],
+        "positive_strings": [
+            " himself",
+            " Himself",
+            " XVI",
+            " bapt",
+            "uminati",
+            " vener",
+            " persecut",
+            " profess",
+            " persecuted",
+            " assassinated"
+        ],
+        "description": "mentions of religious figures or institutions, particularly related to the Vatican and the Pope"
+    },
+    {
+        "index": "8547",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/pope/data_for_feature_8547.json",
+        "negative_strings": [
+            " certs",
+            " stealth",
+            "Rail",
+            " ammo",
+            " Sniper",
+            " Shooter",
+            "kill",
+            "AAA",
+            " Butcher",
+            " concussion"
+        ],
+        "positive_strings": [
+            " nomine",
+            "ulpt",
+            " Parables",
+            " inaug",
+            " celebrate",
+            " horizont",
+            " ceremony",
+            " celebrating",
+            " tranqu",
+            " celebration"
+        ],
+        "description": "references to Pope Francis and his interactions or statements regarding significant events or issues"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "index": "14738",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/hijab/data_for_feature_14738.json",
+        "negative_strings": [
+            "pson",
+            "ovie",
+            "emort",
+            " nomine",
+            "hesive",
+            "itialized",
+            " Cosponsors",
+            "alg",
+            "olesc",
+            "*/("
+        ],
+        "positive_strings": [
+            " veil",
+            " Veil",
+            "\u00e3\u0124\u00a3",
+            " veiled",
+            " curtain",
+            "cloth",
+            " shroud",
+            "glers",
+            "\u00c3\u00a3o",
+            " curtains"
+        ],
+        "description": "clothing-related terms, especially related to head coverings like veils and hijabs"
+    },
+    {
+        "index": "38156",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/hijab/data_for_feature_38156.json",
+        "negative_strings": [
+            "channelAvailability",
+            " Winc",
+            "kus",
+            "ondon",
+            "SAY",
+            " Crom",
+            "mort",
+            "ependence",
+            " Winchester",
+            " UNIVERS"
+        ],
+        "positive_strings": [
+            " hijab",
+            " versa",
+            " veil",
+            "aii",
+            "azi",
+            "istani",
+            " Shutterstock",
+            "entry",
+            "\u00cd",
+            " Frie"
+        ],
+        "description": "mentions of Islamic religious attire, particularly the hijab, and discussions surrounding its wearers and societal implications"
+    },
+    {
+        "index": "31804",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/hijab/data_for_feature_31804.json",
+        "negative_strings": [
+            "ials",
+            "izoph",
+            "estone",
+            "estones",
+            "otive",
+            "iewicz",
+            "itialized",
+            "itaire",
+            " Winc",
+            "ogy"
+        ],
+        "positive_strings": [
+            " hijab",
+            " veil",
+            " veiled",
+            "abis",
+            " modesty",
+            " blasphemy",
+            " compliant",
+            " concealed",
+            " versa",
+            " carry"
+        ],
+        "description": "mentions of religious clothing items, particularly the hijab, and discussions on concealed weapons and permits"
+    },
+    {
+        "index": "24436",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/hijab/data_for_feature_24436.json",
+        "negative_strings": [
+            "ngth",
+            " Pru",
+            " toget",
+            "Pok\u00c3\u00a9mon",
+            " Breed",
+            "\u00a9\u00b6\u00e6",
+            " Sorceress",
+            "Sensor",
+            "Rare",
+            "utics"
+        ],
+        "positive_strings": [
+            "eer",
+            "ueless",
+            "eless",
+            "hof",
+            "TAG",
+            "neys",
+            "uly",
+            "azeera",
+            "atti",
+            "ature"
+        ],
+        "description": " occurrences of the term \"hijab.\""
+    }
+]

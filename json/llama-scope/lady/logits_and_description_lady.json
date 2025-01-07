@@ -1,0 +1,602 @@
+[
+    {
+        "index": "18788",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_18788.json",
+        "negative_strings": [
+            " females",
+            " female",
+            "azy",
+            "emales",
+            " women",
+            "eries",
+            "urrent",
+            "azes",
+            "sert",
+            "_DECLARE"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bird",
+            "bugs",
+            "finger",
+            "birds",
+            "like",
+            "killer",
+            "tron",
+            "BUG"
+        ],
+        "description": " the term \"Lady\" in various contexts"
+    },
+    {
+        "index": "84027",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_84027.json",
+        "negative_strings": [
+            "eyer",
+            "ANNEL",
+            ".='",
+            "\u00cf\u0122\u00ce\u00bf\u00cf\u0126\u00ce\u00b5",
+            "\u00eb\u00aa\u0127",
+            ".EventType",
+            "\u00d0\u00be\u00d0\u00b3\u00d0\u00b0",
+            ".Dictionary",
+            "\u00eb\u012d\u00b9",
+            "osas"
+        ],
+        "positive_strings": [
+            " Lady",
+            " lady",
+            "Lady",
+            "lady",
+            " Lord",
+            " Lad",
+            " Blessed",
+            " Mother",
+            " Ladies",
+            " Dear"
+        ],
+        "description": "references to \"Our Lady\" and religious terms related to the Catholic faith"
+    },
+    {
+        "index": "47996",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_47996.json",
+        "negative_strings": [
+            "LOAT",
+            "ecies",
+            "ollapsed",
+            "krom",
+            "IBUT",
+            "olan",
+            "IELD",
+            "nesc",
+            "ennes",
+            "argent"
+        ],
+        "positive_strings": [
+            " Gaga",
+            " Ga",
+            "Ga",
+            "tron",
+            " Ant",
+            "aga",
+            " g",
+            "ga",
+            " Sovere",
+            " Bunny"
+        ],
+        "description": "references to the name \"Lady\" and its variants"
+    },
+    {
+        "index": "32415",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_32415.json",
+        "negative_strings": [
+            "nbsp",
+            "ners",
+            "icher",
+            "azes",
+            "ned",
+            "adies",
+            "cie",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u00b8\u00e0\u00a4\u00b0",
+            " females",
+            " nek"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bugs",
+            "bird",
+            "bower",
+            "finger",
+            "like",
+            "BUG",
+            "ship",
+            "/man"
+        ],
+        "description": "mentions of the word \"Lady.\""
+    },
+    {
+        "index": "74037",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_74037.json",
+        "negative_strings": [
+            "azes",
+            "emales",
+            "azy",
+            " females",
+            "attles",
+            "ieber",
+            " female",
+            "ayas",
+            "urrent",
+            "atable"
+        ],
+        "positive_strings": [
+            "bug",
+            "bird",
+            "bugs",
+            "birds",
+            "killer",
+            "finger",
+            "like",
+            " Gaga",
+            "bower",
+            "ship"
+        ],
+        "description": "references to \"lady\" or variations of the word \"lady\" within different contexts"
+    },
+    {
+        "index": "15962",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_15962.json",
+        "negative_strings": [
+            "cie",
+            "adies",
+            " females",
+            "cio",
+            "chs",
+            "ander",
+            "ists",
+            "azes",
+            "eries",
+            " meisje"
+        ],
+        "positive_strings": [
+            "bug",
+            "bird",
+            " Gaga",
+            "bugs",
+            "bower",
+            "/man",
+            "finger",
+            "like",
+            " Liberty",
+            " Luck"
+        ],
+        "description": "mentions of \"Lady\" in various contexts"
+    },
+    {
+        "index": "58548",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_58548.json",
+        "negative_strings": [
+            " Perkins",
+            "HIR",
+            "ourg",
+            "pering",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u0129",
+            "\u00d9\u0129\u00d9\u0128",
+            "ipline",
+            "pon",
+            "aring",
+            "\u00e5\u012c\u013d\u00e9\u0129\u0131"
+        ],
+        "positive_strings": [
+            " lady",
+            " Gentle",
+            " Lady",
+            " lad",
+            "lady",
+            " gentle",
+            "gent",
+            " gentleman",
+            "Lady",
+            " Lad"
+        ],
+        "description": "references to individuals associated with significant titles or roles, particularly focusing on 'First Lady' and 'first' as indicators of prominence"
+    },
+    {
+        "index": "12503",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_12503.json",
+        "negative_strings": [
+            "elsey",
+            "ander",
+            "heits",
+            "cie",
+            "cio",
+            " meisje",
+            " females",
+            "ned",
+            "ists",
+            "\u00eb\u00b9\u0126\u00ec\u012c\u00a4"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bugs",
+            "bird",
+            "bower",
+            "/man",
+            " Luck",
+            "like",
+            "finger",
+            " Liberty"
+        ],
+        "description": "references to the name \"Lady\" and its variations in the text"
+    },
+    {
+        "index": "23876",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_23876.json",
+        "negative_strings": [
+            "ander",
+            "elsey",
+            "ters",
+            "ists",
+            "cie",
+            " meisje",
+            "cio",
+            "itore",
+            "erras",
+            " \u00d0\u00b4\u00d1\u0138\u00d0\u00b2"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bugs",
+            "bird",
+            "/man",
+            "finger",
+            " Liberty",
+            " liberty",
+            "like",
+            " Ga"
+        ],
+        "description": "mentions of the word \"Lady\" and its variations in context"
+    },
+    {
+        "index": "85294",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_85294.json",
+        "negative_strings": [
+            "adies",
+            "cio",
+            "\u00e3\u0123\u0131\u00e3\u0124\u012e\u00e3\u0123\u0141",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u00ae\u00e0\u00a4\u0137",
+            "krom",
+            "\u00c3\u00b9",
+            ".script",
+            "urrent",
+            "\u00d0\u00b0\u00d1\u0124\u00d0\u00be\u00d0\u00b2",
+            "cie"
+        ],
+        "positive_strings": [
+            " Gaga",
+            " Ga",
+            "bug",
+            " Sovere",
+            "aga",
+            "Ga",
+            "tron",
+            " ga",
+            " Justice",
+            " Liberty"
+        ],
+        "description": "mentions of the word \"Lady\" in various contexts"
+    },
+    {
+        "index": "5771",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_5771.json",
+        "negative_strings": [
+            "ander",
+            "ters",
+            "ists",
+            " maxx",
+            "elsey",
+            "\u00c3\u00b9",
+            " meisje",
+            "ISTS",
+            "krom",
+            "lers"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bugs",
+            "finger",
+            "bird",
+            "/man",
+            " Liberty",
+            "like",
+            " Luck",
+            "aga"
+        ],
+        "description": "references to the title or name \"Lady\" and variations of it"
+    },
+    {
+        "index": "75578",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_75578.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u0129",
+            "ourg",
+            " Perkins",
+            " Nass",
+            "ic",
+            "pering",
+            "\u00e5\u012c\u013d\u00e9\u0129\u0131",
+            " Morton",
+            "acios",
+            "_internal"
+        ],
+        "positive_strings": [
+            " lady",
+            "lady",
+            " Lady",
+            "Lady",
+            " Gentle",
+            " lad",
+            "\u00e5\u00a4\u00ab",
+            " Couple",
+            "-l",
+            " First"
+        ],
+        "description": "references to \"First Ladies\" or positions of prominence held by women"
+    },
+    {
+        "index": "96950",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_96950.json",
+        "negative_strings": [
+            "gado",
+            "adies",
+            "cie",
+            "azes",
+            "chs",
+            "{:",
+            "abin",
+            "essen",
+            "\u00e3\u0123\u0131\u00e3\u0124\u012e\u00e3\u0123\u0141",
+            "atable"
+        ],
+        "positive_strings": [
+            "bird",
+            "bug",
+            "bower",
+            " Bird",
+            "bugs",
+            "birds",
+            " Gaga",
+            "Bird",
+            " bird",
+            "like"
+        ],
+        "description": "mentions of \"Lady\" followed by numerical references or associated terms"
+    },
+    {
+        "index": "74826",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_74826.json",
+        "negative_strings": [
+            "igm",
+            "\u00d1\u0122\u00d0\u00b4",
+            "ilha",
+            "anggan",
+            "uada",
+            "\u00cf\u0126\u00cf\u012f",
+            " Summers",
+            "ihan",
+            "isset",
+            "\u00e6\u0130\u0134"
+        ],
+        "positive_strings": [
+            " Fat",
+            " Gu",
+            " Grace",
+            " Sor",
+            "fat",
+            " fat",
+            " sor",
+            " FAT",
+            " Lore",
+            "Fat"
+        ],
+        "description": "phrases related to the concept of \"Our Lady\" in various contexts"
+    },
+    {
+        "index": "116440",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_116440.json",
+        "negative_strings": [
+            "nbsp",
+            "gado",
+            "adies",
+            "azes",
+            "abin",
+            "m\u00c3\u00bcr",
+            "_EVT",
+            "odus",
+            "cpf",
+            "abler"
+        ],
+        "positive_strings": [
+            "bird",
+            "bug",
+            "bugs",
+            " Gaga",
+            " Bird",
+            "birds",
+            "bower",
+            " Liberty",
+            "like",
+            "BUG"
+        ],
+        "description": "references to a specific figure or concept associated with \"Lady.\""
+    },
+    {
+        "index": "16389",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_16389.json",
+        "negative_strings": [
+            "ecies",
+            "ollapsed",
+            ".script",
+            " eas",
+            "\u00ec\u012c\u00a4\u00ed\u0123\u00ac",
+            "\u00e3\u0125\u0129\u00e3\u0124\u00a3\u00e3\u0124\u00a2",
+            ".gs",
+            "\u00c3\u0142ng",
+            " tob",
+            "ubat"
+        ],
+        "positive_strings": [
+            " Ga",
+            "Ga",
+            " Gaga",
+            "GA",
+            "ga",
+            " g",
+            " ga",
+            " GA",
+            " Sovere",
+            ".ga"
+        ],
+        "description": "references to the term \"Lady\" and its related variants in various contexts"
+    },
+    {
+        "index": "15718",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/lady/data_for_feature_15718.json",
+        "negative_strings": [
+            "ander",
+            "ists",
+            "ters",
+            "ISTA",
+            " maxx",
+            " meisje",
+            "ISTS",
+            "ista",
+            "elsey",
+            "CEF"
+        ],
+        "positive_strings": [
+            "bug",
+            " Gaga",
+            "bugs",
+            "finger",
+            "bird",
+            "/man",
+            " Liberty",
+            "killer",
+            "ships",
+            "like"
+        ],
+        "description": "mentions of the word \"Lady\" and variations of it"
+    },
+    {
+        "index": "74364",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_74364.json",
+        "negative_strings": [
+            "ecies",
+            "enburg",
+            ".script",
+            "\u00e9\u00b3\u00b4",
+            "cour",
+            "iffs",
+            "ported",
+            "\u00e0\u00b8\u0143\u00e0\u00b8\u00a3",
+            "IGGER",
+            "ubat"
+        ],
+        "positive_strings": [
+            " Ga",
+            " Gaga",
+            "Ga",
+            " g",
+            " Miss",
+            " ga",
+            "ga",
+            "aga",
+            "GA",
+            " Hague"
+        ],
+        "description": "mentions of the term \"Lady\" in various contexts, particularly relating to celebrity and societal discussions"
+    },
+    {
+        "index": "35588",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_35588.json",
+        "negative_strings": [
+            "ISTA",
+            "\u00d0\u0134\u00d1\u0124",
+            "ander",
+            "azes",
+            "lint",
+            ".script",
+            "ists",
+            "VAS",
+            "inee",
+            " maxx"
+        ],
+        "positive_strings": [
+            " Gaga",
+            "bug",
+            " Ga",
+            "bugs",
+            "finger",
+            "bird",
+            " Liberty",
+            "aga",
+            " Justice",
+            "/man"
+        ],
+        "description": " mentions or references to the name \"Lady\" in various contexts"
+    },
+    {
+        "index": "85912",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/lady/data_for_feature_85912.json",
+        "negative_strings": [
+            "cio",
+            " maxx",
+            "elsey",
+            "ander",
+            "jom",
+            "\u00d0\u0134\u00d1\u0124",
+            "ISTA",
+            "uentes",
+            "tti",
+            "ists"
+        ],
+        "positive_strings": [
+            "bug",
+            "bird",
+            " Gaga",
+            "finger",
+            "bugs",
+            "bower",
+            " Liberty",
+            "justice",
+            " Luck",
+            "like"
+        ],
+        "description": " mentions of the word \"Lady\" in various contexts"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "18523",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_18523.json",
+        "negative_strings": [
+            "vyk",
+            "cido",
+            "ray",
+            "TestCategory",
+            " sm",
+            "oct",
+            "504",
+            "Metro",
+            "crest",
+            "vents"
+        ],
+        "positive_strings": [
+            "ster",
+            "inner",
+            "wor",
+            "stm",
+            "inn",
+            "\u00c3\u00b6ff",
+            "kan",
+            "he",
+            "hi",
+            "mut"
+        ],
+        "description": " pronouns and their various forms, particularly in the context of male subjects"
+    },
+    {
+        "index": "27399",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_27399.json",
+        "negative_strings": [
+            "ted",
+            "gfx",
+            "geme",
+            " FactoryBot",
+            "erif",
+            "gart",
+            "r\u00c3\u00a1t",
+            "tica",
+            "erse",
+            "rames"
+        ],
+        "positive_strings": [
+            "opause",
+            "endez",
+            "orca",
+            "ninger",
+            "acing",
+            "cken",
+            "ager",
+            "udo",
+            "elik",
+            "orrh"
+        ],
+        "description": " terms related to male reproductive health and associated disorders"
+    },
+    {
+        "index": "9599",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_9599.json",
+        "negative_strings": [
+            " guys",
+            " Guys",
+            " boys",
+            " men",
+            "ners",
+            " Boys",
+            "edly",
+            "rei",
+            " guy",
+            " hombres"
+        ],
+        "positive_strings": [
+            "volent",
+            "-dominated",
+            "fic",
+            "/f",
+            "factor",
+            "-bodied",
+            "-only",
+            "-centric",
+            "-led",
+            "vol"
+        ],
+        "description": " references to gender, particularly focusing on male identities and issues related to masculinity"
+    },
+    {
+        "index": "40497",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_40497.json",
+        "negative_strings": [
+            "ted",
+            "taire",
+            "ski",
+            "ts",
+            "dings",
+            "dum",
+            "dde",
+            "tx",
+            "tin",
+            "tie"
+        ],
+        "positive_strings": [
+            "agers",
+            "eu",
+            "ifold",
+            "ually",
+            "agment",
+            "aging",
+            "agements",
+            "ip",
+            "ages",
+            "hattan"
+        ],
+        "description": " words related to \"man\" or \"male.\""
+    },
+    {
+        "index": "15268",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_15268.json",
+        "negative_strings": [
+            " herself",
+            "nof",
+            "'ve",
+            "ners",
+            "'m",
+            "MouseListener",
+            "'\u00c3\u00a9t",
+            "'d",
+            "ounced",
+            "'aff"
+        ],
+        "positive_strings": [
+            "arts",
+            "e",
+            "aven",
+            "aling",
+            "ard",
+            " who",
+            "brew",
+            "ee",
+            "ads",
+            "ading"
+        ],
+        "description": " references to a specific male character or subject, focusing on the frequency of mentions"
+    },
+    {
+        "index": "16324",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_16324.json",
+        "negative_strings": [
+            "gart",
+            "Sad",
+            "ighton",
+            "foy",
+            " FactoryBot",
+            "piring",
+            "gaard",
+            "erc",
+            "oslav",
+            "iaz"
+        ],
+        "positive_strings": [
+            "opause",
+            "cken",
+            "endez",
+            "iscal",
+            "elik",
+            "ubar",
+            "ager",
+            "acing",
+            "\u00d0\u00b5\u00d0\u00b4\u00d0\u00b6",
+            "orrh"
+        ],
+        "description": "references to male identifiers and related terms"
+    },
+    {
+        "index": "98306",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_98306.json",
+        "negative_strings": [
+            "imbus",
+            "imers",
+            "idan",
+            "ransition",
+            "UMP",
+            "\u00d8\u00a7\u00d8\u00b6\u00d9\u012c",
+            "rellas",
+            "\u00d1\u0123\u00d0\u00be\u00d1\u0124",
+            "erdem",
+            "atters"
+        ],
+        "positive_strings": [
+            "ly",
+            " cave",
+            "iac",
+            " Cave",
+            "cession",
+            " caves",
+            "child",
+            "ifest",
+            "imal",
+            " crush"
+        ],
+        "description": "references to masculinity or male identity"
+    },
+    {
+        "index": "17761",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_17761.json",
+        "negative_strings": [
+            "erc",
+            " FactoryBot",
+            "gart",
+            "\u012a",
+            " (::",
+            "ighton",
+            "er",
+            "oslav",
+            "(es",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0128"
+        ],
+        "positive_strings": [
+            "opause",
+            "cken",
+            "endez",
+            "iscal",
+            "ager",
+            "aced",
+            "acing",
+            "\u00d0\u00b5\u00d0\u00b4\u00d0\u00b6",
+            "aces",
+            "ubar"
+        ],
+        "description": "references to men or male-related terms"
+    },
+    {
+        "index": "41084",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_41084.json",
+        "negative_strings": [
+            "emoc",
+            "_stdio",
+            "atatype",
+            "RetVal",
+            "\u00ec\u00bf",
+            "\u012a\u013a",
+            " helicopt",
+            "IOC",
+            "rink",
+            "ibs"
+        ],
+        "positive_strings": [
+            " broth",
+            " sex",
+            " prostitution",
+            " prost",
+            " prostitutes",
+            " escort",
+            " Escort",
+            " escorts",
+            " hook",
+            " bord"
+        ],
+        "description": " themes related to male sexuality and societal perceptions of sex work"
+    },
+    {
+        "index": "202",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_202.json",
+        "negative_strings": [
+            "edo",
+            "enheim",
+            "lund",
+            "elho",
+            "ekt",
+            "engers",
+            "mr",
+            "etty",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00ba",
+            "ncia"
+        ],
+        "positive_strings": [
+            "rah",
+            " knight",
+            "ikit",
+            "\u00d8\u00a7\u00da\u00a9\u00db\u012e",
+            "iously",
+            "ius",
+            "acha",
+            "\u00c3\u00a8ne",
+            " Knight",
+            "leaf"
+        ],
+        "description": "references to titles or honorifics associated with males, particularly \"Sir.\""
+    },
+    {
+        "index": "38480",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_38480.json",
+        "negative_strings": [
+            "hea",
+            "icher",
+            " sph",
+            "ezi",
+            "sed",
+            "oning",
+            "spar",
+            " Dun",
+            "676",
+            "agens"
+        ],
+        "positive_strings": [
+            " Male",
+            " male",
+            "male",
+            "ales",
+            "Male",
+            "ale",
+            " males",
+            "\u00e7\u0136\u00b7",
+            "ALE",
+            "ALES"
+        ],
+        "description": " masculine or male-associated terms"
+    },
+    {
+        "index": "17696",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/male/data_for_feature_17696.json",
+        "negative_strings": [
+            " guys",
+            " Guys",
+            " boys",
+            " men",
+            " Boys",
+            " Sisters",
+            " guy",
+            "ners",
+            " males",
+            " ladies"
+        ],
+        "positive_strings": [
+            "volent",
+            "-dominated",
+            "factor",
+            "fic",
+            "/f",
+            "-bodied",
+            "uada",
+            "vol",
+            "faction",
+            " bonding"
+        ],
+        "description": "references to gender, particularly focusing on male and female distinctions"
+    },
+    {
+        "index": "123522",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_123522.json",
+        "negative_strings": [
+            "plevel",
+            "inou",
+            " INCIDENT",
+            "lington",
+            ".useState",
+            "rade",
+            "icari",
+            "cope",
+            " Hin",
+            "/Instruction"
+        ],
+        "positive_strings": [
+            "volent",
+            "vol",
+            "/f",
+            "strom",
+            "fic",
+            "-dominated",
+            "stream",
+            " bonding",
+            " dominated",
+            " gaze"
+        ],
+        "description": "references to gender, particularly relating to male dominance and representation in various contexts"
+    },
+    {
+        "index": "81061",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_81061.json",
+        "negative_strings": [
+            ".removeListener",
+            "\u00e6\u00b4\u00b2",
+            "\u00d9\u0127\u00d8\u00b4",
+            "izard",
+            "ocation",
+            "vod",
+            "ects",
+            " pl",
+            "icense",
+            "488"
+        ],
+        "positive_strings": [
+            "yer",
+            "ye",
+            "arget",
+            "yal",
+            "ying",
+            "emp",
+            "ump",
+            "yes",
+            "yi",
+            "EMU"
+        ],
+        "description": " references to male individuals or the term \"men\""
+    },
+    {
+        "index": "93725",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_93725.json",
+        "negative_strings": [
+            " Including",
+            "including",
+            "Including",
+            "a\u00c5\u00be",
+            "ohl",
+            "CLUDING",
+            "gether",
+            " including",
+            " INCLUDING",
+            "ivec"
+        ],
+        "positive_strings": [
+            " who",
+            " responsible",
+            " whose",
+            " behind",
+            " whom",
+            " they",
+            "who",
+            " closest",
+            " that",
+            " credited"
+        ],
+        "description": "references to individuals or roles, particularly males"
+    },
+    {
+        "index": "51805",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_51805.json",
+        "negative_strings": [
+            "rahim",
+            "uhan",
+            "calculator",
+            "ermann",
+            "ermen",
+            "dzi",
+            "lauf",
+            "\u00e0\u00b8\u00a5\u00e0\u00b8\u00b3",
+            "\u00da\u00a9\u00d9\u0128",
+            " propri"
+        ],
+        "positive_strings": [
+            "ager",
+            "ial",
+            "ingo",
+            "inges",
+            "inge",
+            "hir",
+            "ubar",
+            "isc",
+            "isci",
+            "ifest"
+        ],
+        "description": " references to male characters or themes related to men"
+    },
+    {
+        "index": "123971",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_123971.json",
+        "negative_strings": [
+            "\u00e9\u0122\u0128",
+            "ModelProperty",
+            " Lazy",
+            "omu",
+            "vertiser",
+            "esz",
+            "ongan",
+            "sen",
+            "\u00c5\u013ben\u00c3\u0143",
+            "\u00e1\u00ba\u00a5n"
+        ],
+        "positive_strings": [
+            "ia",
+            "IA",
+            " IA",
+            " ia",
+            "\u00c3\u0143a",
+            "ias",
+            "iae",
+            "iah",
+            "\u00d0\u00b8\u00d1\u0131",
+            "_IA"
+        ],
+        "description": " names and terms associated with masculinity and male-related concepts"
+    },
+    {
+        "index": "124655",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_124655.json",
+        "negative_strings": [
+            "\u00d1\u0127\u00d0\u00b0",
+            "gressor",
+            "leted",
+            "istrovstv\u00c3\u0143",
+            "etable",
+            "\u00ce\u00b3\u00cf\u0123\u00ce\u00ac",
+            "ibel",
+            "\u00d0\u00bb\u00d0\u00be\u00d0\u00bf",
+            "ceptive",
+            "icker"
+        ],
+        "positive_strings": [
+            "chin",
+            " charged",
+            " City",
+            " Charg",
+            " wanted",
+            " shot",
+            " nab",
+            " who",
+            " st",
+            " dead"
+        ],
+        "description": " references to males and female figures in various contexts"
+    },
+    {
+        "index": "122071",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_122071.json",
+        "negative_strings": [
+            "\u00d1\u0122\u00d0\u00b8\u00d1\u0129",
+            "ErrorException",
+            "_stdio",
+            "atatype",
+            "elden",
+            "tember",
+            "\u00ec\u00bf",
+            " helicopt",
+            "rink",
+            "\u00d0\u00b0\u00d0\u00bd\u00d0\u00be\u00d0\u00b2"
+        ],
+        "positive_strings": [
+            " prostitution",
+            " broth",
+            " prostitutes",
+            " prost",
+            " sex",
+            " prostitute",
+            " Prostit",
+            " bord",
+            " hook",
+            "hook"
+        ],
+        "description": " themes related to male sexuality and the portrayal of male sex workers"
+    },
+    {
+        "index": "124791",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/male/data_for_feature_124791.json",
+        "negative_strings": [
+            "atatype",
+            "_stdio",
+            "elden",
+            "affen",
+            "emoc",
+            "weis",
+            "ErrorException",
+            "earable",
+            " DISCLAIM",
+            ".palette"
+        ],
+        "positive_strings": [
+            " broth",
+            " prostitution",
+            " prost",
+            " escort",
+            " prostitutes",
+            " sex",
+            " escorts",
+            " hook",
+            " pimp",
+            "hook"
+        ],
+        "description": " themes related to male sexuality and social issues like prostitution"
+    }
+]

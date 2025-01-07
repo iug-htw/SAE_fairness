@@ -1,0 +1,602 @@
+[
+    {
+        "index": "39467",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_39467.json",
+        "negative_strings": [
+            "drops",
+            "\u00e9\u0139\u013a",
+            "bley",
+            "erick",
+            "butt",
+            "adobe",
+            "\u00e6\u00a9",
+            "GES",
+            "xual",
+            "milo"
+        ],
+        "positive_strings": [
+            " extremist",
+            " extremists",
+            " extremism",
+            " supremacists",
+            " Jihad",
+            " Brotherhood",
+            " supremacist",
+            " militant",
+            " fundamentalist",
+            " militants"
+        ],
+        "description": "references to the Islamic State and related terminology"
+    },
+    {
+        "index": "9381",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_9381.json",
+        "negative_strings": [
+            "drops",
+            "\u00e9\u0139\u013a",
+            "bley",
+            "erick",
+            "butt",
+            "ym",
+            "buck",
+            "nces",
+            "vable",
+            "GES"
+        ],
+        "positive_strings": [
+            " extremism",
+            " extremist",
+            " supremacists",
+            " supremacist",
+            " extremists",
+            " Jihad",
+            " Brotherhood",
+            " fundamentalist",
+            " Sharia",
+            "ophobic"
+        ],
+        "description": "phrases related to the Islamic State (ISIS)"
+    },
+    {
+        "index": "2138",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_2138.json",
+        "negative_strings": [
+            "drops",
+            "bley",
+            "\u00e9\u0139\u013a",
+            "butt",
+            "buck",
+            "bles",
+            "erick",
+            "ym",
+            "vable",
+            "table"
+        ],
+        "positive_strings": [
+            " extremism",
+            " extremist",
+            " extremists",
+            " supremacist",
+            " supremacists",
+            " Jihad",
+            "ophobic",
+            " fundamentalist",
+            " Sharia",
+            " Brotherhood"
+        ],
+        "description": "references to the Islamic State terrorist group"
+    },
+    {
+        "index": "12214",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_12214.json",
+        "negative_strings": [
+            "drops",
+            "\u00e9\u0139\u013a",
+            "bley",
+            "butt",
+            "ym",
+            "buck",
+            "erick",
+            "bles",
+            "nces",
+            "vable"
+        ],
+        "positive_strings": [
+            " extremism",
+            " extremist",
+            " supremacists",
+            " supremacist",
+            " extremists",
+            "ophobic",
+            " Jihad",
+            " Sharia",
+            " fundamentalist",
+            "abad"
+        ],
+        "description": "references to the Islamic State group"
+    },
+    {
+        "index": "28349",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_28349.json",
+        "negative_strings": [
+            "sth",
+            " err",
+            "avorite",
+            "Publisher",
+            "ommel",
+            "tone",
+            " scrim",
+            "Laughs",
+            " redund",
+            "ograp"
+        ],
+        "positive_strings": [
+            " Caucasus",
+            " Levant",
+            " Peoples",
+            "EStream",
+            "alus",
+            "romeda",
+            "ghazi",
+            " Afghanistan",
+            " Northern",
+            "iru"
+        ],
+        "description": " mentions of the Islamic State and associated locations"
+    },
+    {
+        "index": "2095",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_2095.json",
+        "negative_strings": [
+            "oard",
+            "othy",
+            "iture",
+            "erick",
+            " Hearth",
+            "Reviewer",
+            "iences",
+            "payer",
+            "wyn",
+            "Consumer"
+        ],
+        "positive_strings": [
+            " militants",
+            " insurgents",
+            " jihadists",
+            " militant",
+            " terrorists",
+            " insurgency",
+            " fighters",
+            " caliphate",
+            " jihadist",
+            " Boko"
+        ],
+        "description": "references to conflicts involving Islamic State militants"
+    },
+    {
+        "index": "17569",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_17569.json",
+        "negative_strings": [
+            "oard",
+            "othy",
+            "uckland",
+            "iture",
+            "itures",
+            "Reviewer",
+            "\u0138\u013c",
+            "Consumer",
+            "erick",
+            "uries"
+        ],
+        "positive_strings": [
+            " militants",
+            " insurgents",
+            " militant",
+            " insurgency",
+            " terrorists",
+            " jihadists",
+            " fighters",
+            " Fighters",
+            " jihadist",
+            " Jihad"
+        ],
+        "description": "mentions of the Islamic State group"
+    },
+    {
+        "index": "41781",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_41781.json",
+        "negative_strings": [
+            "osal",
+            "inventoryQuantity",
+            "\u0138\u013c",
+            " Myster",
+            "ATURE",
+            "ertodd",
+            "uracy",
+            "ucha",
+            " Cosponsors",
+            "Lex"
+        ],
+        "positive_strings": [
+            " extremists",
+            " supremacist",
+            " Arabs",
+            " militant",
+            " Islamist",
+            " Muslim",
+            " Arab",
+            " militants",
+            " Muslims",
+            " nationalist"
+        ],
+        "description": " references to different sects of Islam, particularly Sunni and Shia"
+    },
+    {
+        "index": "37377",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_37377.json",
+        "negative_strings": [
+            "insula",
+            "ername",
+            "milo",
+            "asus",
+            "anwhile",
+            "REDACTED",
+            "\u00e9\u0139\u013a",
+            "hiro",
+            " Upton",
+            "xual"
+        ],
+        "positive_strings": [
+            "pton",
+            "ples",
+            "pling",
+            "\u00e3\u0125\u00a3",
+            "pless",
+            "jah",
+            "ning",
+            "riors",
+            "pler",
+            "nton"
+        ],
+        "description": " references to Shariah law"
+    },
+    {
+        "index": "13955",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_13955.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "cold",
+            " WD",
+            " Vaugh",
+            "anke",
+            "ATA",
+            "angled",
+            "ainer",
+            " Rockefeller"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "abad",
+            "istani",
+            "ophobic",
+            "majority",
+            " supremacist",
+            "ophobia",
+            " cleric",
+            " supremacists",
+            " fundamentalist"
+        ],
+        "description": " words related to the Muslim population or Islam"
+    },
+    {
+        "index": "20321",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_20321.json",
+        "negative_strings": [
+            "uckland",
+            "oard",
+            "othy",
+            "zl",
+            "iture",
+            "\u0138\u013c",
+            "itures",
+            "elong",
+            "lasses",
+            "eatures"
+        ],
+        "positive_strings": [
+            " militants",
+            " insurgents",
+            " terrorists",
+            " jihadists",
+            " militant",
+            " fighters",
+            " insurgency",
+            " Jihad",
+            " Fighters",
+            " jihadist"
+        ],
+        "description": "mentions of the Islamic State group"
+    },
+    {
+        "index": "33706",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_33706.json",
+        "negative_strings": [
+            " Notting",
+            " crust",
+            " benchmarks",
+            " nod",
+            " Handling",
+            " Correction",
+            " latch",
+            "\u00e2\u0136\u0123",
+            " Payton",
+            " BMI"
+        ],
+        "positive_strings": [
+            "asca",
+            "ahu",
+            "atl",
+            "isance",
+            "ulhu",
+            "aii",
+            "aja",
+            "qua",
+            "actus",
+            "hammad"
+        ],
+        "description": "words and phrases associated with Islamic expressions or terms"
+    },
+    {
+        "index": "7230",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_7230.json",
+        "negative_strings": [
+            " Rober",
+            " WD",
+            "cold",
+            " Panasonic",
+            " Seah",
+            " heights",
+            "berries",
+            " EAR",
+            " Ong",
+            " Acer"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "oph",
+            "iyah",
+            "ization",
+            "aph",
+            "icals",
+            "ocide"
+        ],
+        "description": "mentions related to Islam and Muslims in a contentious context"
+    },
+    {
+        "index": "14241",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_14241.json",
+        "negative_strings": [
+            "bley",
+            "drops",
+            "\u00e9\u0139\u013a",
+            "butt",
+            "vable",
+            "buck",
+            "bles",
+            "ym",
+            "ials",
+            "nces"
+        ],
+        "positive_strings": [
+            " extremism",
+            " supremacists",
+            " supremacist",
+            " extremist",
+            " cleric",
+            " Jihad",
+            " Sharia",
+            " fundamentalist",
+            " Brotherhood",
+            " extremists"
+        ],
+        "description": "references to Islamic law and its applications"
+    },
+    {
+        "index": "14241",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_14241.json",
+        "negative_strings": [
+            "bley",
+            "drops",
+            "\u00e9\u0139\u013a",
+            "butt",
+            "vable",
+            "buck",
+            "bles",
+            "ym",
+            "ials",
+            "nces"
+        ],
+        "positive_strings": [
+            " extremism",
+            " supremacists",
+            " supremacist",
+            " extremist",
+            " cleric",
+            " Jihad",
+            " Sharia",
+            " fundamentalist",
+            " Brotherhood",
+            " extremists"
+        ],
+        "description": "references to Islamic law and its applications"
+    },
+    {
+        "index": "5707",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_5707.json",
+        "negative_strings": [
+            " WD",
+            "cold",
+            "\u00e6\u00a9",
+            " Vaugh",
+            " Rockefeller",
+            "amina",
+            "anke",
+            "ATA",
+            "leneck",
+            "angled"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            "istani",
+            " Brotherhood",
+            "ophobia",
+            " cleric",
+            "majority",
+            " supremacist",
+            " fundamentalist",
+            " supremacists"
+        ],
+        "description": "references to Muslims, Islamic practices, and related incidents in news articles"
+    },
+    {
+        "index": "3526",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_3526.json",
+        "negative_strings": [
+            " Rober",
+            " WD",
+            "cold",
+            " Panasonic",
+            " heights",
+            "slice",
+            " Seah",
+            "berries",
+            "asper",
+            " Vaugh"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "iyah",
+            "oph",
+            "ization",
+            "icals",
+            "ophile",
+            "aph"
+        ],
+        "description": "references to Islam and its implications in various contexts"
+    },
+    {
+        "index": "90708",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_90708.json",
+        "negative_strings": [
+            "enegger",
+            " Bernstein",
+            " Edinburgh",
+            "ologne",
+            " Canaver",
+            " Vaugh",
+            " Constantin",
+            "LU",
+            "Catal",
+            " BART"
+        ],
+        "positive_strings": [
+            "abad",
+            " Almighty",
+            "selves",
+            "istically",
+            "\u012a\u0134",
+            " Allah",
+            " ibn",
+            "Allah",
+            "iva",
+            "frey"
+        ],
+        "description": "references to the concept of God in Islam, specifically the word \"Allah.\""
+    },
+    {
+        "index": "14034",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_14034.json",
+        "negative_strings": [
+            " Rober",
+            " WD",
+            "berries",
+            "slice",
+            " Seah",
+            "cold",
+            " ballpark",
+            " Panasonic",
+            " heights",
+            " Chiefs"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "iyah",
+            "ization",
+            "oph",
+            "icals",
+            "ophile",
+            "ification"
+        ],
+        "description": "mentions of Islam and related themes"
+    },
+    {
+        "index": "31561",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/islam/data_for_feature_31561.json",
+        "negative_strings": [
+            "perature",
+            "*/(",
+            "\u0138\u013c",
+            "olitics",
+            "ographical",
+            "ograph",
+            "ocard",
+            "ography",
+            "ulhu",
+            "ographic"
+        ],
+        "positive_strings": [
+            "pour",
+            "le",
+            " Garc",
+            "mas",
+            " Byrne",
+            "ual",
+            "sson",
+            "les",
+            "ler",
+            " Gomez"
+        ],
+        "description": "references to specific individuals named Gabriel in the context of discussions related to Islam and politics"
+    }
+]

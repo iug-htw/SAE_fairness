@@ -1,0 +1,212 @@
+[
+    {
+        "index": "29270",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_29270.json",
+        "negative_strings": [
+            "kefeller",
+            " Tribunal",
+            " constitu",
+            "PDATE",
+            " sidx",
+            "jriwal",
+            "\u00e3\u0125\u00a2",
+            "querque",
+            "vernment",
+            "pmwiki"
+        ],
+        "positive_strings": [
+            " Ivanka",
+            " Louise",
+            " daughters",
+            " Sophia",
+            " Isabel",
+            " Hannah",
+            " daughter",
+            "girl",
+            "Anne",
+            "hood"
+        ],
+        "description": "references to daughters or female family members"
+    },
+    {
+        "index": "5493",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_5493.json",
+        "negative_strings": [
+            "kefeller",
+            " constitu",
+            " Tribunal",
+            "jriwal",
+            " sidx",
+            " dstg",
+            "vernment",
+            "psey",
+            "\u00e3\u0125\u00a2",
+            "raltar"
+        ],
+        "positive_strings": [
+            " Ivanka",
+            " daughters",
+            " Louise",
+            " Hannah",
+            " daughter",
+            " Sophia",
+            " Isabel",
+            "Anne",
+            " Sophie",
+            " Katie"
+        ],
+        "description": "mentions of a specific person's daughter"
+    },
+    {
+        "index": "88188",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_88188.json",
+        "negative_strings": [
+            "kefeller",
+            " sidx",
+            " Tribunal",
+            " constitu",
+            "PDATE",
+            "querque",
+            "\u00e3\u0125\u00a2",
+            "jriwal",
+            "vernment",
+            " freight"
+        ],
+        "positive_strings": [
+            " Ivanka",
+            " Louise",
+            " Hannah",
+            "girl",
+            " Isabel",
+            " Sophia",
+            "Anne",
+            " daughters",
+            " Katie",
+            " daughter"
+        ],
+        "description": "references to family relationships, specifically daughters"
+    },
+    {
+        "index": "88188",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_88188.json",
+        "negative_strings": [
+            "kefeller",
+            " sidx",
+            " Tribunal",
+            " constitu",
+            "PDATE",
+            "querque",
+            "\u00e3\u0125\u00a2",
+            "jriwal",
+            "vernment",
+            " freight"
+        ],
+        "positive_strings": [
+            " Ivanka",
+            " Louise",
+            " Hannah",
+            "girl",
+            " Isabel",
+            " Sophia",
+            "Anne",
+            " daughters",
+            " Katie",
+            " daughter"
+        ],
+        "description": "references to family relationships, specifically daughters"
+    },
+    {
+        "index": "1064",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_1064.json",
+        "negative_strings": [
+            "veyard",
+            "pmwiki",
+            " prevailing",
+            " Tribunal",
+            "iculty",
+            "tten",
+            " freight",
+            "Gov",
+            "DATA",
+            " brass"
+        ],
+        "positive_strings": [
+            " Barron",
+            " grandchildren",
+            "daughter",
+            " Ivanka",
+            "ogram",
+            "hood",
+            "children",
+            " daughters",
+            "pins",
+            " daughter"
+        ],
+        "description": "mention of family members, particularly daughters"
+    },
+    {
+        "index": "30899",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_30899.json",
+        "negative_strings": [
+            " incumb",
+            " increment",
+            "espie",
+            " implementations",
+            " allocate",
+            "\u00e2\u0137\u0132",
+            "\u0123\u00ab",
+            " destro",
+            " aggregate",
+            " automate"
+        ],
+        "positive_strings": [
+            " boyfriend",
+            " husband",
+            "daughter",
+            " herself",
+            " nurse",
+            " daughter",
+            " raped",
+            " breastfeeding",
+            " pregnant",
+            " maid"
+        ],
+        "description": "references to family relationships, particularly involving daughters and spouses"
+    },
+    {
+        "index": "30899",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/daughter/data_for_feature_30899.json",
+        "negative_strings": [
+            " incumb",
+            " increment",
+            "espie",
+            " implementations",
+            " allocate",
+            "\u00e2\u0137\u0132",
+            "\u0123\u00ab",
+            " destro",
+            " aggregate",
+            " automate"
+        ],
+        "positive_strings": [
+            " boyfriend",
+            " husband",
+            "daughter",
+            " herself",
+            " nurse",
+            " daughter",
+            " raped",
+            " breastfeeding",
+            " pregnant",
+            " maid"
+        ],
+        "description": "references to family relationships, particularly involving daughters and spouses"
+    }
+]

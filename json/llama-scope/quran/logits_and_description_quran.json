@@ -1,0 +1,602 @@
+[
+    {
+        "index": "52596",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_52596.json",
+        "negative_strings": [
+            "bstract",
+            "dio",
+            " Julius",
+            "\u00c3\u00a7a",
+            "esar",
+            " Alberto",
+            "DebugEnabled",
+            "/workspace",
+            "kim",
+            " Allison"
+        ],
+        "positive_strings": [
+            " had",
+            " Messenger",
+            " Noble",
+            " hade",
+            " Seal",
+            " Had",
+            " Book",
+            " blessed",
+            " Message",
+            " Gl"
+        ],
+        "description": " concepts related to Islamic teachings and the significance of the Quran and Hadith"
+    },
+    {
+        "index": "123084",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_123084.json",
+        "negative_strings": [
+            " Cunningham",
+            "ButtonType",
+            "auer",
+            "inel",
+            "edges",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0129",
+            "\u00d9\u0126\u00d8\u00a7\u00d8\u00aa",
+            "ozo",
+            "aux",
+            "\u00ec\u0136\u00a8"
+        ],
+        "positive_strings": [
+            "anic",
+            "\u2019an",
+            "'an",
+            "rchive",
+            "<Props",
+            "ay",
+            "meric",
+            "imiter",
+            "licht",
+            "d\u00c4\u013dl"
+        ],
+        "description": " references to the Quran and its sections or verses"
+    },
+    {
+        "index": "27395",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/quran/data_for_feature_27395.json",
+        "negative_strings": [
+            "\u00e2\u0137\u0139",
+            "bard",
+            "ammers",
+            "apl",
+            "845",
+            " Conf",
+            "otic",
+            "\u00ce\u00bc\u00cf\u012e",
+            " \u00d0\u00b1\u00d1\u0125",
+            "ailer"
+        ],
+        "positive_strings": [
+            " sur",
+            " Sur",
+            "-sur",
+            "Sur",
+            "sur",
+            "SUR",
+            "_sur",
+            " \u00d8\u00b3\u00d9\u012a\u00d8\u00b1",
+            " SUR",
+            " Vers"
+        ],
+        "description": " references to the Quran and Islamic teachings"
+    },
+    {
+        "index": "111658",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_111658.json",
+        "negative_strings": [
+            "\u00ec\u013f\u00b4\u00eb\u0135\u013e",
+            "i\u00c3\u00a8me",
+            "owell",
+            "ilers",
+            "n\u00c3\u00a1m",
+            "834",
+            "ichert",
+            "illet",
+            "ceph",
+            "spath"
+        ],
+        "positive_strings": [
+            "loff",
+            "porate",
+            "l\u00c3\u00a1",
+            " Sink",
+            "anic",
+            "osen",
+            "\u00e5\u00bf\u013e",
+            "\u00c3\u00a1bb",
+            "think",
+            "pal"
+        ],
+        "description": " references to the Quran or variations of the word \"Koran.\""
+    },
+    {
+        "index": "56638",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_56638.json",
+        "negative_strings": [
+            "etwork",
+            " Mahmoud",
+            "ck",
+            " tup",
+            "\u00d9\u0126\u00d8\u00a7\u00d8\u00aa",
+            "emez",
+            "ifu",
+            " brush",
+            "idge",
+            "agon"
+        ],
+        "positive_strings": [
+            "ricular",
+            "anic",
+            "\u2019an",
+            "'an",
+            "IED",
+            "ral",
+            "wa",
+            "riculum",
+            "wat",
+            "gamber"
+        ],
+        "description": "references to the Quran"
+    },
+    {
+        "index": "115759",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_115759.json",
+        "negative_strings": [
+            "i",
+            "ez",
+            "oun",
+            "ifa",
+            "chai",
+            "round",
+            "idge",
+            "ifu",
+            "ed",
+            "etwork"
+        ],
+        "positive_strings": [
+            "anic",
+            "ricular",
+            "daq",
+            "\u2019an",
+            "addir",
+            "\u00d8\u00a2\u00d9\u0128",
+            "scp",
+            "'an",
+            " perish",
+            " Overs"
+        ],
+        "description": "references to the Quran and its related texts"
+    },
+    {
+        "index": "24436",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_24436.json",
+        "negative_strings": [
+            "ilty",
+            "ties",
+            "\u00d1\u0125\u00d0\u00ba\u00d0\u00b8",
+            "utow",
+            "ighbour",
+            "i\u00c3\u00a8me",
+            "\\brief",
+            "swick",
+            "962",
+            "iera"
+        ],
+        "positive_strings": [
+            "\u00e5\u00bf\u013e",
+            "porate",
+            " Sink",
+            "l\u00c3\u00a1",
+            "anic",
+            "\u00d0\u00a8\u00d0\u0132",
+            "loff",
+            "latin",
+            " absolute",
+            " Chase"
+        ],
+        "description": " references to the Quran"
+    },
+    {
+        "index": "6258",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_6258.json",
+        "negative_strings": [
+            " \u00d8\u00b4\u00d9\u0129\u00db\u012e\u00d8\u00af",
+            " canh",
+            " Ty",
+            " church",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u00ae",
+            "\u00d9\u012a\u00d9\u0127\u00d8\u00aa\u00d8\u00b1",
+            "_construct",
+            " Ran",
+            "\u00e9\u0124",
+            " Cah"
+        ],
+        "positive_strings": [
+            " Vers",
+            " verses",
+            " vers",
+            "-vers",
+            " ruku",
+            "Vers",
+            " Verse",
+            " rec",
+            "/ay",
+            " chapters"
+        ],
+        "description": " elements related to the Arabic text of the Quran"
+    },
+    {
+        "index": "1261",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_1261.json",
+        "negative_strings": [
+            "ting",
+            "ertools",
+            "APA",
+            "TING",
+            "uster",
+            "ted",
+            "ignKey",
+            "ing",
+            "ifik",
+            "fait"
+        ],
+        "positive_strings": [
+            "ic",
+            "/Q",
+            " Kare",
+            "(ic",
+            "/MPL",
+            "amaz",
+            "iac",
+            "\u00c7\u0132",
+            " itself",
+            "ically"
+        ],
+        "description": "references to the Quran and Islamic teachings"
+    },
+    {
+        "index": "65982",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_65982.json",
+        "negative_strings": [
+            "eec",
+            "aqu",
+            "sdale",
+            "iron",
+            "ties",
+            "acock",
+            "hower",
+            "a",
+            "esco",
+            "tone"
+        ],
+        "positive_strings": [
+            "\u00d0\u00b1\u00d0\u00b0\u00d1\u0129",
+            ".Accessible",
+            "uba",
+            "\u00c4\u00b1\u00c5\u0141\u00c4\u00b1k",
+            "\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8",
+            "itos",
+            "ourke",
+            " Finch",
+            "porate",
+            "anic"
+        ],
+        "description": "references to the Quran or variations of the term \"Kor\" related to it"
+    },
+    {
+        "index": "39208",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_39208.json",
+        "negative_strings": [
+            "pector",
+            "ailer",
+            "rex",
+            " scr",
+            " mand",
+            "metrics",
+            "\u00c3\u00a1m",
+            "eyer",
+            " mouth",
+            "rias"
+        ],
+        "positive_strings": [
+            " Gardens",
+            "acket",
+            "\u00d0\u00ba\u00d0\u00b0\u00d0\u00b2",
+            " \u00d0\u013e\u00d1\u012d",
+            "OrUpdate",
+            "antes",
+            "izard",
+            "\u00cf\u0126\u00ce\u00b5\u00cf\u0127",
+            " suce",
+            " Allan"
+        ],
+        "description": " Quranic verses and references related to knowledge and education"
+    },
+    {
+        "index": "1604",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_1604.json",
+        "negative_strings": [
+            " secular",
+            "449",
+            "\u00d9\u0124\u00d8\u00a7\u00d8\u00aa",
+            "anse",
+            "\u013d\u0126",
+            " excess",
+            "afen",
+            " \u00cf\u0122\u00ce\u00b5",
+            "962",
+            "947"
+        ],
+        "positive_strings": [
+            " Fir",
+            " Mus",
+            " Signs",
+            "(\u00d8\u00b9",
+            " Mess",
+            " Noah",
+            "mus",
+            "\u00e7\u0124\u0130",
+            " mess",
+            " \u00d9\u0127\u00d9\u012a\u00d8\u00b3"
+        ],
+        "description": " elements related to Islamic teachings and concepts from the Quran"
+    },
+    {
+        "index": "47923",
+        "layer": "31-llamascope-mlp-131k",
+        "url": "json/llama-scope/quran/data_for_feature_47923.json",
+        "negative_strings": [
+            "\u00c2\u013f",
+            " \u00cf\u0127\u00cf\u0122\u00ce\u00ac\u00cf\u0123\u00cf\u0129\u00ce\u00bf\u00cf\u0127\u00ce\u00bd",
+            "erland",
+            " [...]\n\n",
+            "\u00c2\u00ac",
+            "[]\u010d\n",
+            " \u010d",
+            "\u00c2\u0143",
+            "l\u00c4\u00b1\u00c4\u0141\u00c4\u00b1na",
+            " sibling"
+        ],
+        "positive_strings": [
+            " \u00d7\u0132",
+            " \u00d7\u0140",
+            " evidently",
+            " \u00d7",
+            " \u00ce\u00b5\u00e1\u00bc",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab",
+            "-scalable",
+            "\u00c3\u00b6st",
+            " \u00d7\u013e",
+            "Responder"
+        ],
+        "description": "references to religious texts and concepts associated with Islam and the Quran"
+    },
+    {
+        "index": "88074",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_88074.json",
+        "negative_strings": [
+            "ting",
+            "APA",
+            "ignKey",
+            "tin",
+            "ertools",
+            "ifik",
+            "ing",
+            " Abbas",
+            "kus",
+            "reet"
+        ],
+        "positive_strings": [
+            "ic",
+            " itself",
+            "/Q",
+            "ieten",
+            "/text",
+            " Alone",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            "fragistics",
+            "/MPL",
+            "/XML"
+        ],
+        "description": " references to the Quran and its teachings"
+    },
+    {
+        "index": "117801",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_117801.json",
+        "negative_strings": [
+            "ire",
+            " upstream",
+            "_TRA",
+            "855",
+            "sters",
+            "go",
+            "vy",
+            " broad",
+            " am",
+            " rep"
+        ],
+        "positive_strings": [
+            "\u00c4\u012fel",
+            " nuru",
+            "iaux",
+            "/Q",
+            " Carpenter",
+            " aliqua",
+            "ostel",
+            "\u00ec\u00b1\u0126",
+            "timeofday",
+            "addock"
+        ],
+        "description": " references to the Quran and its divine attributes"
+    },
+    {
+        "index": "93533",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_93533.json",
+        "negative_strings": [
+            "ting",
+            "APA",
+            "TING",
+            "kus",
+            "ing",
+            "ertools",
+            "tin",
+            "ted",
+            "ga",
+            "ging"
+        ],
+        "positive_strings": [
+            "ic",
+            "/Q",
+            " Kare",
+            "omics",
+            " itself",
+            "ieten",
+            "wers",
+            "amaz",
+            "fragistics",
+            "ically"
+        ],
+        "description": "references to the Quran and its significance in various contexts"
+    },
+    {
+        "index": "80574",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_80574.json",
+        "negative_strings": [
+            "iren",
+            " pol",
+            " stock",
+            "STS",
+            " t",
+            "CN",
+            "agr",
+            " Sik",
+            "ips",
+            "317"
+        ],
+        "positive_strings": [
+            "abei",
+            "shaw",
+            "chnitt",
+            "\u00c5\u013beb",
+            "li\u00c5\u00be",
+            "zman",
+            "\u00e0\u00b8\u00b1\u00e0\u00b8\u00a7\u00e0\u00b8\u00ab\u00e0\u00b8\u013b",
+            "theid",
+            "bero",
+            "oya"
+        ],
+        "description": " references to the Quran and Islamic concepts"
+    },
+    {
+        "index": "11206",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/quran/data_for_feature_11206.json",
+        "negative_strings": [
+            "ting",
+            "TING",
+            "ted",
+            "APA",
+            "\u00e5\u013b\u00a8",
+            "ster",
+            "ti",
+            "sters",
+            "ging",
+            "yd"
+        ],
+        "positive_strings": [
+            "/Q",
+            "/XML",
+            "omics",
+            "iteDatabase",
+            "ically",
+            "alysis",
+            "alytics",
+            "idla",
+            "alyze",
+            "ophobic"
+        ],
+        "description": "references to the Quran and related Islamic texts"
+    },
+    {
+        "index": "16125",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/quran/data_for_feature_16125.json",
+        "negative_strings": [
+            "uli",
+            "ional",
+            "ame",
+            " cred",
+            "ilet",
+            "\u00e6\u0132",
+            "pt",
+            "irs",
+            "SP",
+            "thalm"
+        ],
+        "positive_strings": [
+            "\u0126\u0138",
+            " \u00d9\u0127\u00d8\u00a8\u00d8\u00a7\u00d8\u00b4",
+            "ABCDE",
+            " EntityState",
+            "noinspection",
+            "buster",
+            "uga",
+            "hone",
+            "aan",
+            " semiclass"
+        ],
+        "description": " phrases and references related to the Quran and religious texts"
+    },
+    {
+        "index": "57393",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/quran/data_for_feature_57393.json",
+        "negative_strings": [
+            "antas",
+            " edil",
+            "utsch",
+            "_GF",
+            "ritional",
+            " \u00e9\u00a9",
+            "utr",
+            "_lazy",
+            " Dream",
+            "(always"
+        ],
+        "positive_strings": [
+            "lasting",
+            "heart",
+            "RICT",
+            "hei",
+            "orage",
+            "ignal",
+            "ku",
+            " alg",
+            "ador",
+            "800"
+        ],
+        "description": "references to the Quran and related texts"
+    }
+]

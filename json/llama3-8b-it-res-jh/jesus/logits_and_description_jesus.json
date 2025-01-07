@@ -1,0 +1,62 @@
+[
+    {
+        "index": "22067",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/jesus/data_for_feature_22067.json",
+        "negative_strings": [
+            " \u00c4\u012ees",
+            "otel",
+            "uger",
+            "asio",
+            "arella",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u0140\u00e0\u00b8\u00a5",
+            "angel",
+            "CHandle",
+            " destiny",
+            " Yen"
+        ],
+        "positive_strings": [
+            " Latter",
+            "azar",
+            "utron",
+            "cient",
+            " spaghetti",
+            ".Transactional",
+            ".Navigator",
+            " ;\u010d\n",
+            "Flexible",
+            "endl"
+        ],
+        "description": " references to the Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "index": "14762",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/jesus/data_for_feature_14762.json",
+        "negative_strings": [
+            "erals",
+            "_workspace",
+            "\tTokenName",
+            "ioxide",
+            " ApiController",
+            " Spiritual",
+            "uled",
+            "eyle",
+            " Scripture",
+            "\u00e0\u00a5\u00b0"
+        ],
+        "positive_strings": [
+            " Jesus",
+            " Christ",
+            "Jesus",
+            "Christ",
+            " CHRIST",
+            " Cruc",
+            " cruc",
+            "jes",
+            " christ",
+            " SQL"
+        ],
+        "description": " references to Jesus Christ and his teachings"
+    }
+]

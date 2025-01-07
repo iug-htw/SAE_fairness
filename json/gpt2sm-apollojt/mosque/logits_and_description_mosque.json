@@ -1,0 +1,572 @@
+[
+    {
+        "index": "34136",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_34136.json",
+        "negative_strings": [
+            " rink",
+            "ucha",
+            "ensing",
+            "ateral",
+            "egal",
+            "elsius",
+            "tten",
+            "YC",
+            "monton",
+            "rown"
+        ],
+        "positive_strings": [
+            " Muhammad",
+            " Mohammed",
+            " Elijah",
+            " Jeremiah",
+            " Mohammad",
+            " Amos",
+            " Isaiah",
+            "esses",
+            " Prophet",
+            " Ezra"
+        ],
+        "description": "references to religious figures, especially the Prophet Muhammad, and locations such as mosques"
+    },
+    {
+        "index": "41601",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_41601.json",
+        "negative_strings": [
+            "dit",
+            "lasses",
+            "lass",
+            " Appalachian",
+            "OX",
+            " Rockefeller",
+            "cold",
+            "AW",
+            "\u00d1\u012d",
+            "short"
+        ],
+        "positive_strings": [
+            " mosque",
+            "abad",
+            " mosques",
+            " loudspe",
+            "hammad",
+            " Mosque",
+            " cleric",
+            " mosqu",
+            "istani",
+            " Sabha"
+        ],
+        "description": " references to mosques and related religious practices"
+    },
+    {
+        "index": "28300",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_28300.json",
+        "negative_strings": [
+            "HF",
+            "lasses",
+            "dit",
+            "ESA",
+            " Vaugh",
+            " Appalachian",
+            "amina",
+            " Ballard",
+            "gob",
+            " WD"
+        ],
+        "positive_strings": [
+            "abad",
+            "hammad",
+            " loudspe",
+            "istani",
+            " cleric",
+            "dar",
+            "adesh",
+            "zai",
+            "ophobic",
+            " mosque"
+        ],
+        "description": " references to mosques and related religious contexts"
+    },
+    {
+        "index": "9443",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_9443.json",
+        "negative_strings": [
+            "DonaldTrump",
+            " Haf",
+            " neurot",
+            "ROR",
+            " Yak",
+            " Bagg",
+            "\u00e3\u0123\u0141",
+            "LER",
+            "Bey",
+            " irrit"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "esan",
+            "yards",
+            " bells",
+            "boys",
+            "fires",
+            "helps",
+            "loads",
+            " choir"
+        ],
+        "description": "references to religious institutions, such as churches and mosques"
+    },
+    {
+        "index": "23897",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_23897.json",
+        "negative_strings": [
+            "lasses",
+            "dit",
+            "HF",
+            "ESA",
+            " WD",
+            " Ballard",
+            "mx",
+            " Lois",
+            " Titans",
+            "lass"
+        ],
+        "positive_strings": [
+            "abad",
+            "hammad",
+            " loudspe",
+            "ophobic",
+            "adesh",
+            "dar",
+            "akening",
+            "istani",
+            " mosque",
+            " Mosque"
+        ],
+        "description": "references to mosques and Islam-related terms"
+    },
+    {
+        "index": "20499",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_20499.json",
+        "negative_strings": [
+            "dit",
+            "lasses",
+            "cro",
+            "trap",
+            "moon",
+            "short",
+            "lass",
+            " Appalachian",
+            "\u00e5\u00a6",
+            "bart"
+        ],
+        "positive_strings": [
+            " mosque",
+            " mosques",
+            " synagogue",
+            " mosqu",
+            " loudspe",
+            " Mosque",
+            "ibur",
+            " congregation",
+            " bund",
+            " Beir"
+        ],
+        "description": "references to mosques"
+    },
+    {
+        "index": "20499",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_20499.json",
+        "negative_strings": [
+            "dit",
+            "lasses",
+            "cro",
+            "trap",
+            "moon",
+            "short",
+            "lass",
+            " Appalachian",
+            "\u00e5\u00a6",
+            "bart"
+        ],
+        "positive_strings": [
+            " mosque",
+            " mosques",
+            " synagogue",
+            " mosqu",
+            " loudspe",
+            " Mosque",
+            "ibur",
+            " congregation",
+            " bund",
+            " Beir"
+        ],
+        "description": "references to mosques"
+    },
+    {
+        "index": "10087",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_10087.json",
+        "negative_strings": [
+            "insula",
+            "sburg",
+            "htaking",
+            "orsche",
+            " Winchester",
+            " Tradable",
+            "ridor",
+            "sylvania",
+            " Merrill",
+            "getic"
+        ],
+        "positive_strings": [
+            "orne",
+            "was",
+            "balls",
+            "atri",
+            " militias",
+            "lin",
+            "ball",
+            "stand",
+            " bour",
+            "lam"
+        ],
+        "description": "references to Shia and Sunni religious groups and related terms such as mosques, clerics, and shrines, potentially in the context of conflicts and political dynamics"
+    },
+    {
+        "index": "317",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_317.json",
+        "negative_strings": [
+            "hedral",
+            "mit",
+            "jer",
+            "IT",
+            "MER",
+            "ECD",
+            "DEBUG",
+            "wig",
+            "IGN",
+            "icone"
+        ],
+        "positive_strings": [
+            " selection",
+            "selection",
+            "eering",
+            " Clicker",
+            " selections",
+            " choice",
+            " criteria",
+            " choices",
+            "DragonMagazine",
+            "ortment"
+        ],
+        "description": "information related to the selection and surveillance activities of institutions like mosques, intelligence agencies, and police, as well as mentions of selection in sports contexts"
+    },
+    {
+        "index": "8340",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_8340.json",
+        "negative_strings": [
+            "pring",
+            " Helpful",
+            "yon",
+            "andum",
+            "xit",
+            "20439",
+            "hner",
+            " Marketable",
+            " Latest",
+            "hots"
+        ],
+        "positive_strings": [
+            " precinct",
+            "goers",
+            " owner",
+            " entrances",
+            " operator",
+            " builder",
+            " entrance",
+            " district",
+            " administrator",
+            " halls"
+        ],
+        "description": "phrases related to places of worship, particularly mosques"
+    },
+    {
+        "index": "7755",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_7755.json",
+        "negative_strings": [
+            "izabeth",
+            " Thumbnails",
+            "iaries",
+            "ancial",
+            "assium",
+            " Improvements",
+            " Versus",
+            "iencies",
+            "ITH",
+            "IENCE"
+        ],
+        "positive_strings": [
+            "quit",
+            "que",
+            "cow",
+            "ul",
+            "quel",
+            "adiq",
+            "fit",
+            "ques",
+            "quet",
+            "undo"
+        ],
+        "description": "references to mosques or similar religious structures"
+    },
+    {
+        "index": "36397",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_36397.json",
+        "negative_strings": [
+            " Lauder",
+            " prolific",
+            " Contra",
+            " Galactic",
+            "EStream",
+            " tremend",
+            " narciss",
+            " Grateful",
+            " Nebula",
+            " Siberian"
+        ],
+        "positive_strings": [
+            "ournals",
+            "itsu",
+            "unction",
+            "acket",
+            "oking",
+            "ordan",
+            "ij",
+            "utsu",
+            "unky",
+            "iji"
+        ],
+        "description": "mentions of religious symbols or historical events related to mosques and religious figures"
+    },
+    {
+        "index": "20343",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_20343.json",
+        "negative_strings": [
+            " Kop",
+            " Corinthians",
+            " Coffin",
+            "OWN",
+            "BOOK",
+            "block",
+            " Bottle",
+            " Colossus",
+            " Skype",
+            "handedly"
+        ],
+        "positive_strings": [
+            "querade",
+            "dar",
+            " veter",
+            "quer",
+            "ount",
+            " srfAttach",
+            "ques",
+            "achu",
+            "ruct",
+            "eties"
+        ],
+        "description": "references to places of worship, particularly mosques"
+    },
+    {
+        "index": "21672",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_21672.json",
+        "negative_strings": [
+            " Archdemon",
+            " Tanz",
+            "hran",
+            " Mikhail",
+            "enstein",
+            "\u00e6\u0138\u00b9",
+            " Geneva",
+            " Bolshe",
+            " Nanto",
+            "\u00e9\u0139\u013a"
+        ],
+        "positive_strings": [
+            " [|",
+            "umar",
+            " mosqu",
+            "estones",
+            " reson",
+            "ixture",
+            "avascript",
+            "versive",
+            "idad",
+            "anni"
+        ],
+        "description": "references to \"masjid\" or mosques"
+    },
+    {
+        "index": "33290",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_33290.json",
+        "negative_strings": [
+            "staking",
+            " volunt",
+            " plur",
+            "istical",
+            "krit",
+            " transact",
+            " Brach",
+            " rhet",
+            "ipal",
+            "EStreamFrame"
+        ],
+        "positive_strings": [
+            "ility",
+            "x",
+            "uries",
+            "ocalypse",
+            "eor",
+            "xes",
+            "ilities",
+            "gon",
+            "ll",
+            "etry"
+        ],
+        "description": "references to mosques or related terms"
+    },
+    {
+        "index": "34853",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_34853.json",
+        "negative_strings": [
+            " ASA",
+            " durability",
+            " Morph",
+            "Rare",
+            " Psychological",
+            "Cap",
+            " Quality",
+            ">>>>",
+            " TP",
+            "Ax"
+        ],
+        "positive_strings": [
+            "ivari",
+            "itory",
+            "andise",
+            "owship",
+            "phabet",
+            "tyard",
+            "achers",
+            "rees",
+            "ornings",
+            "furt"
+        ],
+        "description": "mentions of religious institutions like churches, synagogues, and mosques and their related events or activities"
+    },
+    {
+        "index": "27758",
+        "layer": "2-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_27758.json",
+        "negative_strings": [
+            "\u00c2\u00af\u00c2\u00af",
+            "\u00e7\u0130\u012d",
+            "ITED",
+            " POW",
+            " rendition",
+            "Virgin",
+            " Native",
+            "UX",
+            " Virgin",
+            "\u00e5\u00a5\u00b3"
+        ],
+        "positive_strings": [
+            "obe",
+            "umn",
+            "rent",
+            "undai",
+            "hire",
+            "fram",
+            "ogl",
+            "oton",
+            "allas",
+            "ortun"
+        ],
+        "description": " mentions of specific entities, particularly related to mosques and persons significant in various contexts"
+    },
+    {
+        "index": "21736",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_21736.json",
+        "negative_strings": [
+            "Balt",
+            "\u00e3\u0123\u0126",
+            "DIT",
+            "lass",
+            "\u00d1\u012e",
+            "\u00e3\u0123\u012f",
+            "nia",
+            " Lives",
+            "irection",
+            "ordan"
+        ],
+        "positive_strings": [
+            " annex",
+            " Plaza",
+            "itory",
+            "pole",
+            "gur",
+            " precinct",
+            "keeper",
+            " plaza",
+            " courtyard",
+            "stones"
+        ],
+        "description": "terms related to locations and buildings, such as train stations, refineries, apartments, and mosques"
+    },
+    {
+        "index": "21728",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/mosque/data_for_feature_21728.json",
+        "negative_strings": [
+            "istically",
+            "stall",
+            "istic",
+            "lass",
+            "ysis",
+            "sis",
+            "sea",
+            "icious",
+            "ificial",
+            "nia"
+        ],
+        "positive_strings": [
+            "imore",
+            "ModLoader",
+            "miah",
+            "veland",
+            "arettes",
+            "EStream",
+            " telescopes",
+            "paio",
+            "creen",
+            "ilts"
+        ],
+        "description": "mentions of specific locations, religious buildings, and activities related to religious ideologies"
+    }
+]

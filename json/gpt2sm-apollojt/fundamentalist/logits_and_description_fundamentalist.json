@@ -1,0 +1,62 @@
+[
+    {
+        "index": "9200",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/fundamentalist/data_for_feature_9200.json",
+        "negative_strings": [
+            "\u00e5\u00a3\u00ab",
+            "Crash",
+            " Capture",
+            " Luffy",
+            " Featured",
+            " Obj",
+            "thy",
+            " Caption",
+            " Noir",
+            " Proud"
+        ],
+        "positive_strings": [
+            " evangelical",
+            " Protestant",
+            " Protestants",
+            " charism",
+            " Christian",
+            " missionary",
+            " Christians",
+            " semin",
+            " pastors",
+            " missionaries"
+        ],
+        "description": "words related to evangelical Christianity, specifically focusing on evangelical leaders, their beliefs, political affiliations, and public figures connected to evangelicalism"
+    },
+    {
+        "index": "17209",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/fundamentalist/data_for_feature_17209.json",
+        "negative_strings": [
+            "\u00e5\u00a3\u00ab",
+            "osuke",
+            "\u00e7\u00a5\u0140",
+            "TOP",
+            "opp",
+            "illes",
+            "iller",
+            "ILA",
+            "Reporting",
+            "Lie"
+        ],
+        "positive_strings": [
+            "xual",
+            "inational",
+            "etheless",
+            "orically",
+            "hetical",
+            "hetically",
+            "alogue",
+            "hesis",
+            "heses",
+            " Optimus"
+        ],
+        "description": "terms related to ideological beliefs or movements"
+    }
+]

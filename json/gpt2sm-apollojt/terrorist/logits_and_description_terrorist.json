@@ -1,0 +1,602 @@
+[
+    {
+        "index": "27715",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_27715.json",
+        "negative_strings": [
+            "EEE",
+            " sterling",
+            "LLOW",
+            " FANT",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            " Recover",
+            " scraping",
+            " enchanted",
+            " Welsh",
+            " Rolls"
+        ],
+        "positive_strings": [
+            " Qaeda",
+            "Qaeda",
+            "ibaba",
+            "Qaida",
+            "chemy",
+            "ighting",
+            " Jazeera",
+            "ibi",
+            "umn",
+            "addin"
+        ],
+        "description": " references to terrorist organizations and their activities"
+    },
+    {
+        "index": "33338",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33338.json",
+        "negative_strings": [
+            "wcs",
+            "OPLE",
+            "avorite",
+            " Dickinson",
+            "nesday",
+            "umbnails",
+            " Cosponsors",
+            "rers",
+            "retty",
+            "mble"
+        ],
+        "positive_strings": [
+            "Qaeda",
+            "Qaida",
+            "bay",
+            "Bay",
+            "tra",
+            "way",
+            "su",
+            "armed",
+            "cont",
+            "Lat"
+        ],
+        "description": "mentions of specific terrorist groups like al-Qaeda or specific militant activities like bombings and attacks"
+    },
+    {
+        "index": "33218",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33218.json",
+        "negative_strings": [
+            "galitarian",
+            "shire",
+            "laus",
+            ")=(",
+            "BuyableInstoreAndOnline",
+            "dit",
+            "rose",
+            "\u00f0\u013f",
+            "aver",
+            "iband"
+        ],
+        "positive_strings": [
+            "abad",
+            " mastermind",
+            " bombings",
+            " bombing",
+            " terrorist",
+            " spree",
+            " attacks",
+            " terrorists",
+            " bombers",
+            " terrorism"
+        ],
+        "description": "mentions of or related to terrorist activities"
+    },
+    {
+        "index": "29122",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_29122.json",
+        "negative_strings": [
+            "esian",
+            "wine",
+            " Vaugh",
+            " MLA",
+            " Razer",
+            "vice",
+            "vine",
+            "Bott",
+            " Kelvin",
+            "SHIP"
+        ],
+        "positive_strings": [
+            " hij",
+            " terror",
+            " hijacked",
+            " attacks",
+            " terrorist",
+            " Attacks",
+            " terrorists",
+            " atroc",
+            " terrorism",
+            " Terror"
+        ],
+        "description": " references to terrorist attacks and related events"
+    },
+    {
+        "index": "32936",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_32936.json",
+        "negative_strings": [
+            "oard",
+            "glomer",
+            "iture",
+            "Wheel",
+            "ezvous",
+            "othy",
+            "Reviewer",
+            "Consumer",
+            "Seattle",
+            "park"
+        ],
+        "positive_strings": [
+            " militants",
+            " fighters",
+            " insurgents",
+            " terrorists",
+            " militant",
+            " jihadists",
+            " extremists",
+            " insurgency",
+            " terror",
+            " caliphate"
+        ],
+        "description": "mentions of the Islamic State and related terrorist activities"
+    },
+    {
+        "index": "7092",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_7092.json",
+        "negative_strings": [
+            " Gron",
+            " Seah",
+            " Wald",
+            "\u00f0\u013f",
+            " WD",
+            " Hubble",
+            " Constantin",
+            " Vaugh",
+            " Gawker",
+            " Brun"
+        ],
+        "positive_strings": [
+            "aeda",
+            " affiliates",
+            "istani",
+            " terrorists",
+            " affiliated",
+            " affiliate",
+            " operatives",
+            " insurgents",
+            "eers",
+            " cleric"
+        ],
+        "description": " mentions of terrorist organizations, particularly Al-Qaeda"
+    },
+    {
+        "index": "20878",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_20878.json",
+        "negative_strings": [
+            " sterling",
+            " Twain",
+            "mble",
+            "ALLY",
+            "icz",
+            " homework",
+            "EEE",
+            "ograp",
+            "ELL",
+            " Pione"
+        ],
+        "positive_strings": [
+            " Qaeda",
+            "Qaeda",
+            "Qaida",
+            " Jazeera",
+            " Houth",
+            "Nusra",
+            " Baghd",
+            " Sharia",
+            " Jihad",
+            "Assad"
+        ],
+        "description": "references to al-Qaeda and related terrorist organizations"
+    },
+    {
+        "index": "23295",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_23295.json",
+        "negative_strings": [
+            "hips",
+            "xual",
+            "NetMessage",
+            "eries",
+            "\u00d6\u00bc",
+            " Titanic",
+            "obyl",
+            " Dorothy",
+            "intendent",
+            "\u00e9\u0139\u013a"
+        ],
+        "positive_strings": [
+            " Dhabi",
+            " Bakr",
+            "hammad",
+            "dullah",
+            "querque",
+            "rahim",
+            "ji",
+            " Ali",
+            "aida",
+            "ghan"
+        ],
+        "description": "references to individuals, particularly those associated with militant or terrorist organizations"
+    },
+    {
+        "index": "6929",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_6929.json",
+        "negative_strings": [
+            " Pompe",
+            "\u00e7\u00a5\u0140",
+            "rose",
+            " Patton",
+            " Rite",
+            " Vlad",
+            " CPS",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122",
+            " Angels",
+            " Solitaire"
+        ],
+        "positive_strings": [
+            "ackers",
+            "acker",
+            "acking",
+            "inx",
+            "acked",
+            "acks",
+            " hij",
+            "inks",
+            "ack",
+            "adish"
+        ],
+        "description": " terms and references related to hijacking and terrorist activities"
+    },
+    {
+        "index": "21336",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_21336.json",
+        "negative_strings": [
+            " Gron",
+            " Seah",
+            " Wald",
+            "\u00f0\u013f",
+            " Hubble",
+            " WD",
+            " Vaugh",
+            " Boll",
+            "kj",
+            " Gawker"
+        ],
+        "positive_strings": [
+            "aeda",
+            " affiliates",
+            "istani",
+            " affiliated",
+            " terrorists",
+            " affiliate",
+            " operatives",
+            "eers",
+            " insurgents",
+            " cleric"
+        ],
+        "description": "phrases related to terrorist groups and activities, particularly focusing on Al Qaeda"
+    },
+    {
+        "index": "33338",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33338.json",
+        "negative_strings": [
+            "wcs",
+            "OPLE",
+            "avorite",
+            " Dickinson",
+            "nesday",
+            "umbnails",
+            " Cosponsors",
+            "rers",
+            "retty",
+            "mble"
+        ],
+        "positive_strings": [
+            "Qaeda",
+            "Qaida",
+            "bay",
+            "Bay",
+            "tra",
+            "way",
+            "su",
+            "armed",
+            "cont",
+            "Lat"
+        ],
+        "description": "mentions of specific terrorist groups like al-Qaeda or specific militant activities like bombings and attacks"
+    },
+    {
+        "index": "33218",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33218.json",
+        "negative_strings": [
+            "galitarian",
+            "shire",
+            "laus",
+            ")=(",
+            "BuyableInstoreAndOnline",
+            "dit",
+            "rose",
+            "\u00f0\u013f",
+            "aver",
+            "iband"
+        ],
+        "positive_strings": [
+            "abad",
+            " mastermind",
+            " bombings",
+            " bombing",
+            " terrorist",
+            " spree",
+            " attacks",
+            " terrorists",
+            " bombers",
+            " terrorism"
+        ],
+        "description": "mentions of or related to terrorist activities"
+    },
+    {
+        "index": "37332",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_37332.json",
+        "negative_strings": [
+            " Chaser",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            " Jobs",
+            "\u0133\u00e5\u00a3\u00ab",
+            " Solitaire",
+            " Completed",
+            "\u00e2\u0138\u0133",
+            "SHIP",
+            "\u00e9\u0139\u013a",
+            "EEE"
+        ],
+        "positive_strings": [
+            "chemy",
+            "manac",
+            "ibaba",
+            "ibi",
+            " Qaeda",
+            "umn",
+            "abama",
+            "chemical",
+            "chemist",
+            "uded"
+        ],
+        "description": "phrases related to terrorist organizations and violence"
+    },
+    {
+        "index": "4066",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_4066.json",
+        "negative_strings": [
+            " Constantin",
+            " Gawker",
+            " Hubble",
+            " VW",
+            "Beer",
+            "HUD",
+            " Vog",
+            " Dion",
+            " Gron",
+            " Panasonic"
+        ],
+        "positive_strings": [
+            " affiliates",
+            " affiliate",
+            "aeda",
+            " affiliated",
+            "uddin",
+            "iyah",
+            "istani",
+            "Qaeda",
+            " sleeper",
+            " Osama"
+        ],
+        "description": "references to al-Qaeda and related terrorist activities"
+    },
+    {
+        "index": "33218",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33218.json",
+        "negative_strings": [
+            "galitarian",
+            "shire",
+            "laus",
+            ")=(",
+            "BuyableInstoreAndOnline",
+            "dit",
+            "rose",
+            "\u00f0\u013f",
+            "aver",
+            "iband"
+        ],
+        "positive_strings": [
+            "abad",
+            " mastermind",
+            " bombings",
+            " bombing",
+            " terrorist",
+            " spree",
+            " attacks",
+            " terrorists",
+            " bombers",
+            " terrorism"
+        ],
+        "description": "mentions of or related to terrorist activities"
+    },
+    {
+        "index": "40373",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_40373.json",
+        "negative_strings": [
+            " Gron",
+            " MAT",
+            " Constantin",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122",
+            " Olivier",
+            " Vita",
+            " WM",
+            " Scher",
+            "xt",
+            "\u00e9\u00be\u012f\u00e5"
+        ],
+        "positive_strings": [
+            "Qaeda",
+            "Qaida",
+            "istani",
+            " bombings",
+            " insurgents",
+            " hijacked",
+            " terrorists",
+            "querque",
+            " mosqu",
+            "iyah"
+        ],
+        "description": " mentions of terrorist organizations, particularly al-Qaeda and its affiliates"
+    },
+    {
+        "index": "36491",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_36491.json",
+        "negative_strings": [
+            " Syl",
+            " Opportun",
+            " Vish",
+            " Dragonbound",
+            " Ridley",
+            " Bulg",
+            " Aph",
+            " Dirk",
+            "abeth",
+            " Fletcher"
+        ],
+        "positive_strings": [
+            "11",
+            "911",
+            "code",
+            "oct",
+            "opers",
+            "13",
+            "monary",
+            "10",
+            "test",
+            "2012"
+        ],
+        "description": "information related to counterterrorism strategies and investigations, particularly focusing on events surrounding the terrorist attacks on 9/11"
+    },
+    {
+        "index": "22413",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_22413.json",
+        "negative_strings": [
+            " Bett",
+            " Mermaid",
+            "ulhu",
+            " snipp",
+            " Feather",
+            " Starr",
+            " McGr",
+            " TAMADRA",
+            " Pengu",
+            " Madden"
+        ],
+        "positive_strings": [
+            "based",
+            "imposed",
+            "dep",
+            "induced",
+            "themed",
+            "backed",
+            "interstitial",
+            "centric",
+            "produced",
+            "administ"
+        ],
+        "description": "references to political conflicts and military operations, particularly involving terrorist groups"
+    },
+    {
+        "index": "33838",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_33838.json",
+        "negative_strings": [
+            "theless",
+            "othy",
+            "bred",
+            " zinc",
+            "backs",
+            "ships",
+            "\u00e9\u00be\u012f\u00e5",
+            "ths",
+            "\u00f0\u013f",
+            ")=("
+        ],
+        "positive_strings": [
+            "ISIS",
+            " Haram",
+            " caliphate",
+            " terrorists",
+            " jihadists",
+            " ISIS",
+            " jihad",
+            "abad",
+            " militants",
+            " Baghd"
+        ],
+        "description": "references to terrorist organizations, specifically ISIS and related terms"
+    },
+    {
+        "index": "15610",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/terrorist/data_for_feature_15610.json",
+        "negative_strings": [
+            "dit",
+            "utical",
+            "\u00e5\u0127\u012b",
+            " Genie",
+            " mineral",
+            "theless",
+            "galitarian",
+            " Canal",
+            "ETA",
+            " violet"
+        ],
+        "positive_strings": [
+            " perpetrated",
+            " spree",
+            " attacks",
+            " bombings",
+            " against",
+            " attack",
+            " inflicted",
+            " targeting",
+            " rampage",
+            " inflicting"
+        ],
+        "description": " mentions of terrorist-related events and violence"
+    }
+]

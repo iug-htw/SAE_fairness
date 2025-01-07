@@ -1,0 +1,122 @@
+[
+    {
+        "index": "19109",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/Jude/data_for_feature_19109.json",
+        "negative_strings": [
+            "CRE",
+            "cffffcc",
+            "theless",
+            "aired",
+            "Minnesota",
+            "toggle",
+            "lighting",
+            "KEY",
+            "CDC",
+            "rouse"
+        ],
+        "positive_strings": [
+            "gement",
+            " Jud",
+            "gments",
+            " Distribut",
+            "onite",
+            "geist",
+            "onis",
+            " satell",
+            " Crus",
+            "isphere"
+        ],
+        "description": "mentions of specific names, particularly \"Jud\" and variations of it, such as \"Jude.\""
+    },
+    {
+        "index": "7968",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/Jude/data_for_feature_7968.json",
+        "negative_strings": [
+            "Interstitial",
+            "hett",
+            "cffffcc",
+            "Ont",
+            "\u0143\u00b7",
+            " stagnant",
+            " advoc",
+            " Qu\u00c3\u00a9",
+            "AppData",
+            "Story"
+        ],
+        "positive_strings": [
+            "uve",
+            "zer",
+            "geist",
+            "itarian",
+            "ude",
+            " Caesar",
+            "ler",
+            "uce",
+            " Gemini",
+            "jad"
+        ],
+        "description": "words related to titles or names, specifically ending in 'ude' or 'Jude'"
+    },
+    {
+        "index": "36928",
+        "layer": "2-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/Jude/data_for_feature_36928.json",
+        "negative_strings": [
+            "orp",
+            "ree",
+            "Hyd",
+            "los",
+            "ault",
+            "Desc",
+            "ord",
+            "imer",
+            "Adjust",
+            "Neg"
+        ],
+        "positive_strings": [
+            "alties",
+            "senal",
+            " voic",
+            "\u0130\u012d",
+            " Foley",
+            "\u0126\u00a2",
+            "estern",
+            "ople",
+            "atro",
+            " scholarship"
+        ],
+        "description": "references to the name \"Jude\" and related discussions"
+    },
+    {
+        "index": "37285",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/Jude/data_for_feature_37285.json",
+        "negative_strings": [
+            "ilogy",
+            "efully",
+            "otonin",
+            "uates",
+            "escal",
+            "uated",
+            "uating",
+            "azer",
+            "redit",
+            "ilot"
+        ],
+        "positive_strings": [
+            " compat",
+            " Agric",
+            "tics",
+            " Soda",
+            "heid",
+            " Samson",
+            " compe",
+            " Jude",
+            " Abram",
+            " Maid"
+        ],
+        "description": " references to specific names or titles, particularly those related to Jude"
+    }
+]

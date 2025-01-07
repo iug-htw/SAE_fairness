@@ -1,0 +1,426 @@
+[
+    {
+        "index": "3527",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_3527.json",
+        "negative_strings": [
+            "ign",
+            "\u2581jedin",
+            "\u2581regular",
+            "\u2581kr\u00e1t",
+            "\u2581pravidel",
+            "\u2581short",
+            "\u2581Constitucional",
+            "Regular",
+            "\u2581f\u00e9l",
+            "!*\\"
+        ],
+        "positive_strings": [
+            "\u2581Gaga",
+            "bird",
+            "Bird",
+            "+#+",
+            "birds",
+            "\u2581Bird",
+            "windowFixed",
+            "fingers",
+            "Personendaten",
+            "aarrggbb"
+        ],
+        "description": " mentions of the term \"Lady\" in various contexts"
+    },
+    {
+        "index": "107892",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_107892.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A title of respect or honor, often used to address someone, typically of high social status, nobility, or in formal situations, such as \"Lady\", \"Lord\", \"Dame\", or \"Sir\"."
+    },
+    {
+        "index": "11527",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_11527.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581cucchiai",
+            "FunctionFlags",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "TAWA",
+            "\u2581jScrollPane",
+            "Palmar\u00e8s",
+            "ional",
+            "\u2581it\u017felf",
+            "\u2581pungkasnya"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "friends",
+            "FRIEND",
+            "hood",
+            "scout",
+            "friend",
+            "couts"
+        ],
+        "description": "Words expressing human identity, particularly gender or age, such as \"boy\", \"girl\", \"man\", \"lady\", \"guy\", and \"maid\"."
+    },
+    {
+        "index": "479",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_479.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581EconPapers",
+            "\u2581linkovi",
+            "\u00f3ticas",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "BeginInit",
+            "Personensuche",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "</thead>",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "FRIEND",
+            "scout",
+            "friend",
+            "friends",
+            "hood",
+            "couts"
+        ],
+        "description": "Informal terms for people, such as \"girl\", \"boy\", \"guy\", \"kid\", \"man\", \"lady\", often used colloquially or in casual conversation."
+    },
+    {
+        "index": "5935",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_5935.json",
+        "negative_strings": [
+            "\u2581kaarangay",
+            "Diweddarwch",
+            "\u2581skj\u00f8",
+            "getWriter",
+            "uxxxx",
+            "\u2581f\u00f6rr",
+            "Pvt",
+            "addGap",
+            "ariConfig",
+            "Limited"
+        ],
+        "positive_strings": [
+            "osis",
+            "\u2581Jesus",
+            "\u2581Voldemort",
+            "\u2581Mayor",
+            "\u2581Buddha",
+            "\u2581Byron",
+            "\u2581IndexError",
+            "\u2581paramount",
+            "\u2581Shiva",
+            "\u2581Chancellor"
+        ],
+        "description": "Titles of honor, nobility, and prestige such as \"Lord\", \"Earl\", \"Sir\", \"Knight\", \"Ladies\", \"King\", and others, typically preceding a name or noun."
+    },
+    {
+        "index": "130588",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_130588.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorary titles of respect, such as \"Lady\", \"Lord\", \"Gentleman\", \"Baron\", and \"Baroness\", often used to address or refer to individuals, particularly those of high social standing or nobility."
+    },
+    {
+        "index": "68204",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_68204.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Inconsistent acronym marking or unusual word fragment highlighting, with a focus on words containing \"lad\", \"ladder\", or \"ladies\"."
+    },
+    {
+        "index": "95018",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_95018.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles and formal designations of authority, often preceding a person's name, such as Lord, Lady, Baroness, Senator, Commissioner, and Reverend."
+    },
+    {
+        "index": "120301",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_120301.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles and prefixes used as part of formal names or addresses, such as \"Lord\", \"Lady\", \"Sir\", and \"Mr.\", as well as names of individuals, often appearing at the beginning of a sentence or in a formal context."
+    },
+    {
+        "index": "82137",
+        "layer": "33-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_82137.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Honorific titles, such as \"Lady\", \"Dame\", \"Lord\", \"Gentleman\", and \"Madam\", used to address or refer to individuals, often with a formal or respectful tone."
+    },
+    {
+        "index": "97603",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_97603.json",
+        "negative_strings": [
+            "\u2581onOptions",
+            "dorfer",
+            "fjspx",
+            "\u2581Excerpt",
+            "\u2581Regular",
+            "Regular",
+            "untamiento",
+            "\u2581Ignoring",
+            "\u2581GenerationType",
+            "\u0219it"
+        ],
+        "positive_strings": [
+            "bird",
+            "haw",
+            "\u2581Gaga",
+            "fingers",
+            "birds",
+            "brille",
+            "bug",
+            "Bird",
+            "finger",
+            "bugs"
+        ],
+        "description": "references to the term \"Lady\" and its variations"
+    },
+    {
+        "index": "117251",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_117251.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of people or places, frequently with English or Irish origin or a word that is a suffix or prefix in a word, especially words ending with 'lad', 'lady', or 'laid'."
+    },
+    {
+        "index": "6145",
+        "layer": "34-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_6145.json",
+        "negative_strings": [
+            "\u2581kr\u00e1t",
+            "\u2581early",
+            "\u2581account",
+            "0",
+            "\u2581$\\",
+            "n",
+            "\u2581Palis",
+            "\u043d",
+            "for",
+            "Account"
+        ],
+        "positive_strings": [
+            "Lady",
+            "\u2581LADY",
+            "\u2581Lady",
+            "\u2581lady",
+            "lady",
+            "\u2581Gaga",
+            "LADY",
+            "\u2581gaga",
+            "msgTypes",
+            "ladies"
+        ],
+        "description": "Formal titles or honorifics such as \"Mr\", \"Mrs\", \"Miss\", \"Lady\", \"Lord\", \"Dame\", \"Queen\", \"Princess\", \"Guy\", and \"Madame\" are given importance and are often used to address or refer to individuals with respect or in formal contexts."
+    },
+    {
+        "index": "12296",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_12296.json",
+        "negative_strings": [
+            "URLException",
+            "\u2581CreateTagHelper",
+            "\u2581menino",
+            "\u2581damski",
+            "\u2581cewek",
+            "\u2581p\u00e1ns",
+            "\u2581menina",
+            "\u2581boy",
+            "\u2581d\u00e1msk\u00e9",
+            "\u2581Girlfriend"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "\u2581golfers",
+            "\u2581suffrage",
+            "\u2581voters",
+            "\u2581entrepreneurs",
+            "\u2581Empowerment",
+            "\u2581warriors",
+            "\u2581folk",
+            "\u2581prisoners"
+        ],
+        "description": "Words referring to people, specifically their gender, with \"women\", \"men\", \"ladies\", \"girls\", and \"feminist\" being most prominent, often used in general or formal contexts."
+    },
+    {
+        "index": "7237",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_7237.json",
+        "negative_strings": [
+            "dorfer",
+            "\u2581Regular",
+            "Regular",
+            "\u2581Ignoring",
+            "\u2581Excerpt",
+            "fjspx",
+            "\u2581CONCLUSIONS",
+            "\u2581regular",
+            "Gr\u00fcsse",
+            "\u0219it"
+        ],
+        "positive_strings": [
+            "\u2581Gaga",
+            "fingers",
+            "haw",
+            "bird",
+            "brille",
+            "bugs",
+            "birds",
+            "bug",
+            "+#+",
+            "\u2581Macbeth"
+        ],
+        "description": "references to individuals with the title \"Lady.\""
+    },
+    {
+        "index": "3527",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_3527.json",
+        "negative_strings": [
+            "ign",
+            "\u2581jedin",
+            "\u2581regular",
+            "\u2581kr\u00e1t",
+            "\u2581pravidel",
+            "\u2581short",
+            "\u2581Constitucional",
+            "Regular",
+            "\u2581f\u00e9l",
+            "!*\\"
+        ],
+        "positive_strings": [
+            "\u2581Gaga",
+            "bird",
+            "Bird",
+            "+#+",
+            "birds",
+            "\u2581Bird",
+            "windowFixed",
+            "fingers",
+            "Personendaten",
+            "aarrggbb"
+        ],
+        "description": " mentions of the term \"Lady\" in various contexts"
+    },
+    {
+        "index": "9903",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_9903.json",
+        "negative_strings": [
+            "\u2581Administrativna",
+            "+#+#",
+            "delwed",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\u24e7",
+            "mobileqq",
+            "Vidite",
+            "enumii",
+            "\u2581ModelExpression",
+            "\u2581MainAxisSize"
+        ],
+        "positive_strings": [
+            "balancer",
+            "\u2581balancing",
+            "\u2581balancer",
+            "unload",
+            "balancing",
+            "\u2581shedding",
+            "Balancer",
+            "\u2581onto",
+            "Unload",
+            "bearing"
+        ],
+        "description": "Verbs or nouns associated with loading, carrying, or transferring data, objects, or people, and honorific titles such as \"Lord\" or \"Lady\"."
+    },
+    {
+        "index": "49631",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_49631.json",
+        "negative_strings": [
+            "ign",
+            "\u2581regular",
+            "\u2581short",
+            "\u2581forbindelse",
+            "Regular",
+            "\u2581Ignoring",
+            "\u2581pravidel",
+            "\u2581jedin",
+            "\u2581kr\u00e1t",
+            "\u2581Regular"
+        ],
+        "positive_strings": [
+            "+#+",
+            "\u2581Gaga",
+            "bird",
+            "fingers",
+            "Bird",
+            "birds",
+            "brille",
+            "bugs",
+            "aarrggbb",
+            "principalTable"
+        ],
+        "description": "mentions of the word \"Lady\" in various contexts"
+    },
+    {
+        "index": "127443",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/lady/data_for_feature_127443.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to traditional female figures of reverence, typically in a Catholic context, often denoted by the names \"Mary\", \"Lady\", and \"Mother\"."
+    },
+    {
+        "index": "73500",
+        "layer": "35-gemmascope-res-131k",
+        "url": "json/gemma-scope/lady/data_for_feature_73500.json",
+        "negative_strings": [
+            "\u2581kr\u00e1t",
+            "\u2581subject",
+            "\u2581account",
+            "\u2581pravidel",
+            "\u2581short",
+            "\u2581futuros",
+            "\u2581early",
+            "ign",
+            "gathered",
+            "\u2581future"
+        ],
+        "positive_strings": [
+            "Lady",
+            "\u2581Gaga",
+            "\u2581Lady",
+            "\u2581LADY",
+            "LADY",
+            "\u2581gaga",
+            "bird",
+            "fingers",
+            "birds",
+            "bugs"
+        ],
+        "description": "references to titles or forms of address associated with women, particularly \"Lady.\""
+    }
+]

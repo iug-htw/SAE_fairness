@@ -1,0 +1,92 @@
+[
+    {
+        "index": "19208",
+        "layer": "26-llamascope-mlp-32k",
+        "url": "json/llama-scope/fundamentalist/data_for_feature_19208.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d1\u0129",
+            "inant",
+            "icum",
+            ".CreateCommand",
+            "mn",
+            "_iff",
+            "_equals",
+            "-scrollbar",
+            "\u00e6\u00b4\u00a5",
+            " snap"
+        ],
+        "positive_strings": [
+            " fundamental",
+            "fund",
+            " Fundamental",
+            "Fund",
+            " fund",
+            " Fund",
+            " fundamentals",
+            " fundament",
+            " \u00d1\u0126\u00d1\u0125\u00d0\u00bd",
+            " fundamentally"
+        ],
+        "description": " phrases related to fundamentalist Christian ideologies and movements"
+    },
+    {
+        "index": "341",
+        "layer": "9-llamascope-res-32k",
+        "url": "json/llama-scope/fundamentalist/data_for_feature_341.json",
+        "negative_strings": [
+            "\u00e8\u00b1\u00a1",
+            "ish",
+            "os",
+            "oyer",
+            "cri",
+            " avis",
+            "Signal",
+            " \u00f0",
+            "keh",
+            "inspace"
+        ],
+        "positive_strings": [
+            ".GetResponse",
+            "otas",
+            "\u0124\u00e6\u0137\u00b0",
+            "\u00ea\u00b2\u00b0",
+            " Folding",
+            "bate",
+            "Convertible",
+            "znam",
+            "Codec",
+            "ALK"
+        ],
+        "description": " terms related to fundamentalist groups and their activities"
+    },
+    {
+        "index": "66832",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/fundamentalist/data_for_feature_66832.json",
+        "negative_strings": [
+            "334",
+            "ocol",
+            "jur",
+            "ieber",
+            "335",
+            "BILE",
+            " helf",
+            "\u012d",
+            "orget",
+            "uest"
+        ],
+        "positive_strings": [
+            "_COMPLEX",
+            " OTA",
+            "atos",
+            "rud",
+            "linger",
+            " Hodg",
+            "rose",
+            " TRACE",
+            "\u00d0\u00bf\u00d0\u00b0",
+            "ergarten"
+        ],
+        "description": "words associated with fundamentalist ideologies and their implications"
+    }
+]

@@ -1,8 +1,14 @@
 import json
 import os
 
-modelReleases = ["gemma-scope","gpt2sm-kk","llama3-8b-it-res-jh"]
-
+modelReleases = ["gemma-scope",
+                "gpt2sm-apollojt",
+                "gpt2sm-kk",
+                "gpt2sm-rfs-jb",
+                "llama-scope", 
+                "llama3-8b-it-res-jh",
+                "llama3.1-8b-eleuther_gp",
+]
 def load_queries(filename):
     if os.path.exists(filename):
         with open(filename, 'r') as file:
