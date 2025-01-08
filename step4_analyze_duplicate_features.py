@@ -22,13 +22,14 @@ def analyze_duplicates(file_path):
     terms = list(term_features.keys())
     for i in range(len(terms)):
         for j in range(i + 1, len(terms)):
-            common_count = len(term_features[terms[i]].intersection(term_features[terms[j]]))
-            if common_count > 0:
-                common_features[(terms[i], terms[j])] = common_count
             for k in range(j + 1, len(terms)):
                 common_count_three = len(term_features[terms[i]].intersection(term_features[terms[j]], term_features[terms[k]]))
                 if common_count_three > 0:
                     common_features_three_terms[(terms[i], terms[j], terms[k])] = common_count_three
+                    continue
+            common_count = len(term_features[terms[i]].intersection(term_features[terms[j]]))
+            if common_count > 0:
+                common_features[(terms[i], terms[j])] = common_count
     
     return common_features, common_features_three_terms
 
