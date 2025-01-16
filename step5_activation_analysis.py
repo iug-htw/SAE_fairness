@@ -2,6 +2,12 @@ import json
 import csv
 import os
 
+# Step 5: Activation Analysis
+# This script iterates through all subfolders in the "json" folder, where each subfolder represents a model.
+# For each model, it creates a CSV file named "activation_analysis.csv" in the respective model's folder.
+# The script processes all JSON files in the subfolders of each model, extracting activation tokens and
+# writing them to the CSV file along with the folder name, query term, and latent feature number.
+
 # Define the base folder containing the model subfolders
 base_folder = 'json/'
 
