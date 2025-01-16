@@ -27,8 +27,13 @@ for model_folder in os.listdir(base_folder):
     if os.path.isdir(model_folder_path):
         csv_file_path = os.path.join(model_folder_path, 'activation_analysis_judaism.csv')
         # Load the file while accounting for potential issues in the format
+        print(csv_file_path)
         try:
             islam_activations_data = pd.read_csv(csv_file_path, engine='python', encoding='utf-8', quotechar='"', sep=',')
+            # Check if the CSV file is empty
+            if islam_activations_data.empty:
+                print(f"{csv_file_path} is empty. Skipping to the next folder.")
+                continue
             # Display the first few rows to confirm successful loading
             #print(islam_activations_data.head())
         except Exception as e:
