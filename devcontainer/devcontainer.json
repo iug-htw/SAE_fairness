@@ -1,9 +1,12 @@
 {
     "name": "Python",
-    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
     "features": {
       "github.com/devcontainers/features/python:1": {}
     },
+    "secrets": {
+    "OPENAI_API_KEY": "${{ secrets.OPENAI_API_KEY }}"
+    }
     "customizations": {
       "vscode": {
         "extensions": [
