@@ -6,15 +6,16 @@ import json
 #dort gibt es weitere Hierarchieebene für "neurons"
 
 
-releaseNames = ["gemma-scope",
-                "gpt2sm-apollojt",
-                "gpt2sm-kk",
-                "gpt2sm-rfs-jb",
-                "llama-scope", 
-                "llama3-8b-it-res-jh",
-                "llama3.1-8b-eleuther_gp",
+releaseNames = [#"gemma-scope",
+                #"gpt2sm-apollojt",
+                #"gpt2sm-kk",
+                #"gpt2sm-rfs-jb",
+                #"llama-scope", 
+                #"llama3-8b-it-res-jh",
+                #"llama3.1-8b-eleuther_gp",
 ]
 api_key = os.getenv("NEURONPEDIA_KEY")
+
 
 #prior queries not included anymore: see queries.json
 queries = [
