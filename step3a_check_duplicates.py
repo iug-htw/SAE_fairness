@@ -3,7 +3,13 @@ import re
 import json
 from collections import defaultdict
 
-modelReleases = ["llama3.1-8b-eleuther_gp", "llama-scope","gemma-scope","gpt2sm-apollojt","gpt2sm-rfs-jb", "gpt2sm-kk", "llama3-8b-it-res-jh" ]
+modelReleases = ["llama3.1-8b-eleuther_gp",
+                 "llama-scope",
+                 "gemma-scope",
+                 "gpt2sm-apollojt",
+                 "gpt2sm-rfs-jb", 
+                 "gpt2sm-kk", 
+                 "llama3-8b-it-res-jh" ]
 
 # this checks for duplicates in the feature numbers
 
@@ -26,7 +32,7 @@ def check_for_duplicates(feature_files):
 
 def main():
     for modelRelease in modelReleases:
-        directory = 'json/' + modelRelease
+        directory = 'json3/' + modelRelease
         feature_files = find_feature_numbers(directory)
         duplicates = check_for_duplicates(feature_files)
         output = {} # Output dictionary to write to JSON file
@@ -43,7 +49,7 @@ def main():
             print("No duplicate feature numbers found.")
         
         # Write output to a JSON file
-        with open(directory+'/duplicates_output.json', 'w') as json_file:
+        with open(directory+'/duplicates_output3.json', 'w') as json_file:
             json.dump(output, json_file, indent=4)
 
 if __name__ == "__main__":

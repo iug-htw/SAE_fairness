@@ -5,7 +5,7 @@ def combine_csv_files(model_releases, output_path):
     combined_data = {}
     
     for model_release in model_releases:
-        input_path = f'/workspaces/SAE_fairness/json/{model_release}/common_features.csv'
+        input_path = f'/workspaces/SAE_fairness/json3/{model_release}/common_features.csv'
         if os.path.exists(input_path):
             with open(input_path, 'r') as csvfile:
                 reader = csv.DictReader(csvfile)
@@ -30,6 +30,6 @@ def combine_csv_files(model_releases, output_path):
 
 if __name__ == "__main__":
     model_releases = ["llama3.1-8b-eleuther_gp", "llama-scope", "gemma-scope", "gpt2sm-apollojt", "gpt2sm-rfs-jb", "gpt2sm-kk", "llama3-8b-it-res-jh"]
-    output_path = '/workspaces/SAE_fairness/json/combined_common_features.csv'
+    output_path = '/workspaces/SAE_fairness/json3/combined_common_features.csv'
     combine_csv_files(model_releases, output_path)
     print(f"Combined CSV saved to {output_path}")

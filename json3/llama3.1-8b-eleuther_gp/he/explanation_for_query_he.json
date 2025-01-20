@@ -1,7 +1,3 @@
 {
-    "endpoint": "/api/explanation/search",
-    "limitPerWindow": 200,
-    "requestWindow": "60 m",
-    "remainingRequests": 0,
-    "error": "Rate limit exceeded for this endpoint. The limit for this endpoint (/api/explanation/search) is 200 requests per 60 m. Contact support@neuronpedia.org to increase your rate limit."
+    "message": "query must be at least 3 characters"
 }

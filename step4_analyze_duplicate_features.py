@@ -45,8 +45,8 @@ def save_to_csv(common_features, common_features_three_terms, output_path):
             writer.writerow({'Term1': terms[0], 'Term2': terms[1], 'Term3': terms[2], 'CommonFeatures': count})
 
 def process_model_release(model_release):
-    input_path = f'/workspaces/SAE_fairness/json/{model_release}/duplicates_output.json'
-    output_path = f'/workspaces/SAE_fairness/json/{model_release}/common_features.csv'
+    input_path = f'/workspaces/SAE_fairness/json3/{model_release}/duplicates_output.json'
+    output_path = f'/workspaces/SAE_fairness/json3/{model_release}/common_features.csv'
     if os.path.exists(input_path):
         common_features, common_features_three_terms = analyze_duplicates(input_path)
         save_to_csv(common_features, common_features_three_terms, output_path)
@@ -55,6 +55,13 @@ def process_model_release(model_release):
         print(f"File {input_path} does not exist.")
 
 if __name__ == "__main__":
-    model_releases = ["llama3.1-8b-eleuther_gp", "llama-scope", "gemma-scope", "gpt2sm-apollojt", "gpt2sm-rfs-jb", "gpt2sm-kk", "llama3-8b-it-res-jh"]
+    model_releases = [
+                    "llama3.1-8b-eleuther_gp",
+                    "llama-scope",
+                    "gemma-scope", 
+                    "gpt2sm-apollojt", 
+                    "gpt2sm-rfs-jb", 
+                    "gpt2sm-kk", 
+                    "llama3-8b-it-res-jh"]
     for model_release in model_releases:
         process_model_release(model_release)
