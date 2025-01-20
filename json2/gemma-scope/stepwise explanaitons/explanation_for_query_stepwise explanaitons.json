@@ -11,7 +11,7 @@
             "description": "stepwise instructions with associated actions",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.7067310214042664,
+            "cosine_similarity": 0.7067396219527959,
             "neuron": {
                 "modelId": "gemma-2-2b",
                 "layer": "23-gemmascope-mlp-16k",
@@ -1244,7 +1244,7 @@
             "description": " stepwise instructions or procedures",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.7021029204756895,
+            "cosine_similarity": 0.7020631819348607,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "34-gemmascope-mlp-131k",
@@ -2425,7 +2425,7 @@
             "description": "stepwise instructions or procedures",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6990322082946365,
+            "cosine_similarity": 0.6990107089575942,
             "neuron": {
                 "modelId": "gemma-2-2b",
                 "layer": "3-gemmascope-res-65k",
@@ -3658,7 +3658,7 @@
             "description": "stepwise instructions or procedures",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6990076899528503,
+            "cosine_similarity": 0.698986488641115,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "3-gemmascope-res-131k",
@@ -4844,7 +4844,7 @@
             "description": "stepwise instructions or sequences",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6973873972892761,
+            "cosine_similarity": 0.69737460032853,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "38-gemmascope-mlp-16k",
@@ -6025,7 +6025,7 @@
             "description": "step-wise instructions or guidelines",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.666674792766571,
+            "cosine_similarity": 0.6666676004727137,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "39-gemmascope-mlp-131k",
@@ -7206,7 +7206,7 @@
             "description": "step-wise instructions or procedural elements",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6647958159446716,
+            "cosine_similarity": 0.6647593578839697,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "27-gemmascope-res-131k",
@@ -8387,7 +8387,7 @@
             "description": " sequential and step-by-step processes",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6537659764289856,
+            "cosine_similarity": 0.6537820903192716,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "10-gemmascope-mlp-131k",
@@ -9568,7 +9568,7 @@
             "description": " structured explanations and sequences",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6500202417373657,
+            "cosine_similarity": 0.650057515498549,
             "neuron": {
                 "modelId": "gemma-2-2b",
                 "layer": "6-gemmascope-mlp-65k",
@@ -10801,7 +10801,7 @@
             "description": " instances of stepwise instructions or sequential processes",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6452558040618896,
+            "cosine_similarity": 0.645220420049405,
             "neuron": {
                 "modelId": "gemma-2-2b",
                 "layer": "3-gemmascope-res-65k",
@@ -12034,7 +12034,7 @@
             "description": " structured steps or sequential reasoning",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6376615382634688,
+            "cosine_similarity": 0.6377364828900716,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "12-gemmascope-mlp-16k",
@@ -13215,7 +13215,7 @@
             "description": " indicators of explanations or processes outlined in a step-by-step manner",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6366980075836182,
+            "cosine_similarity": 0.6368510343521229,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "0-gemmascope-res-131k",
@@ -14396,7 +14396,7 @@
             "description": "step-by-step processes or sequences",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6340005586743525,
+            "cosine_similarity": 0.6340747882701545,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "27-gemmascope-mlp-131k",
@@ -15577,7 +15577,7 @@
             "description": "instances of sequential or structured explanations",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6303927898406982,
+            "cosine_similarity": 0.6304494958848073,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "10-gemmascope-res-131k",
@@ -16758,7 +16758,7 @@
             "description": "stepwise instructions or procedural steps in a text",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.625778771983313,
+            "cosine_similarity": 0.6257264614105269,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "38-gemmascope-mlp-131k",
@@ -17939,7 +17939,7 @@
             "description": " structured formats and procedural steps in explanations",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.624703049659729,
+            "cosine_similarity": 0.6247781142724695,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "18-gemmascope-mlp-131k",
@@ -19120,7 +19120,7 @@
             "description": " instances of structured explanations or steps in a process",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6191515184460304,
+            "cosine_similarity": 0.619242795841195,
             "neuron": {
                 "modelId": "gemma-2-2b",
                 "layer": "24-gemmascope-res-65k",
@@ -20353,7 +20353,7 @@
             "description": " sequential processes and steps in a procedure or explanation",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6186527013778687,
+            "cosine_similarity": 0.6186700094538933,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "20-gemmascope-res-131k",
@@ -21534,7 +21534,7 @@
             "description": " attends to the third step of a process from preceding steps or explanations",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_attention-head",
-            "cosine_similarity": 0.6165036330523284,
+            "cosine_similarity": 0.6165354251861616,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "40-gemmascope-att-16k",
@@ -23116,7 +23116,7 @@
             "description": " structured stepwise instructions or lessons",
             "explanationModelName": "gpt-4o-mini",
             "typeName": "oai_token-act-pair",
-            "cosine_similarity": 0.6143253445625305,
+            "cosine_similarity": 0.6142689815599344,
             "neuron": {
                 "modelId": "gemma-2-9b",
                 "layer": "7-gemmascope-res-131k",

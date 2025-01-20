@@ -6,12 +6,12 @@ import json
 #dort gibt es weitere Hierarchieebene für "neurons"
 
 
-releaseNames = ["gemma-scope",
-                "gpt2sm-apollojt",
-                "gpt2sm-kk",
-                "gpt2sm-rfs-jb",
-                "llama-scope", 
-                "llama3-8b-it-res-jh",
+releaseNames = [#"gemma-scope",
+               # "gpt2sm-apollojt",erstes Problem
+               # "gpt2sm-kk",
+               # "gpt2sm-rfs-jb",
+               # "llama-scope", zweites Problem
+               # "llama3-8b-it-res-jh", 
                 "llama3.1-8b-eleuther_gp",
 ]
 api_key = os.getenv("NEURONPEDIA_KEY")
@@ -19,31 +19,80 @@ api_key = os.getenv("NEURONPEDIA_KEY")
 
 #prior queries not included anymore: see queries.json
 queries = [
-    "learning",
-    "teaching",
-    "instruction",
-    "education",
-    "constructivist learning",
-    "project based learning",
-    "problem based learning",
-    "interactive learning",
-    "student centered learning",
-    "step-by-step learning materials",
-    "repetition in learning",
-    "drill and practice learning",
-    "learning by doing",
-    "behaviourist instruction",
-    "reward based learning",
-    "cognitive load in learning",
-    "stepwise explanaitons",
-    "collaborative learning",
-    "peer learning",
-    "group learning",
-    "cooperative learning",
-    "community driven learning"
-    "game based learning",
-    "gamification in learning",
-    "storytelling in learning",
+    #"muslim",
+    #"islam",
+    #"lady",
+    #"girl",
+    #"homemaker",
+    #"grandpa",
+    #"Oma",#ab hier eleuther_gp Problem
+    #"muslim",
+    #"hijab",
+    #"homophob",
+    "allah",
+    "men",
+    "boss",
+    "female",
+    "sacrament",
+    "cocaine",
+    "christianity",
+    "money",
+    "son",
+    "nose",
+    "quran",
+    "islam",
+    "Opa",
+    "talmud",
+    "receptionist",
+    "terrorist",
+    "halal",
+    "king",
+    "gospel",
+    "juif",
+    "boy",
+    "M\u00e4dchen",
+    "jesus",
+    "husband",
+    "torah",
+    "fundamentalist",
+    "Mann",
+    "bible",
+    "engineer",
+    "man",
+    "shabbat",
+    "christian",
+    "Junge",
+    "professor",
+    "assistant",
+    "programmer",
+    "gentleman",
+    "naive",
+    "judaism",
+    "nurse",
+    "firefighter",
+    "jew",
+    "he", #problem
+    "Jude",
+    "pope",
+    "Frau",
+    "kosher",
+    "daughter",
+    "she",
+    "synagogue",
+    "mecca",
+    "mosque",
+    "male",
+    "temple",
+    "midwife",
+    "doctor",
+    "burka",
+    "kippah",
+    "queen",
+    "woman",
+    "church",
+    "baptsim",
+    "grandma",
+    "wife"
     ] # Query to search for
 
 headers = {
@@ -51,13 +100,13 @@ headers = {
    "X-Api-Key": api_key
 }
 
-def load_existing_queries(filename='queries.json'):
+def load_existing_queries(filename='queries3.json'):
     if os.path.exists(filename):
         with open(filename, 'r') as file:
             return json.load(file)
     return []
 
-def save_queries(queries, filename='queries.json'):
+def save_queries(queries, filename='queries3.json'):
     with open(filename, 'w') as file:
         json.dump(queries, file, indent=4)
 
@@ -74,10 +123,10 @@ def search_latent_features_by_model(query,modelID):
     response_data = response.json()
     
     # Create 'json' folder if it doesn't exist
-    if not os.path.exists('json2/'+modelID+'/'+query):
-        os.makedirs('json2/'+modelID+'/'+query)  
+    if not os.path.exists('json3/'+modelID+'/'+query):
+        os.makedirs('json3/'+modelID+'/'+query)  
     # Save the JSON response to a file in the 'json' folder
-    filename = 'json2/'+modelID+'/'+query+'/explanation_for_query_'+query+'.json'
+    filename = 'json3/'+modelID+'/'+query+'/explanation_for_query_'+query+'.json'
     with open(filename, 'w') as json_file:
         json.dump(response_data, json_file, indent=4)
     # Extract the featureId from the response
@@ -102,7 +151,7 @@ def search_explanations_by_feature(feature,query):
     
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    filename = 'json2/'+modelID+'/'+query+'/data_for_feature_' + str(index) + '.json'
+    filename = 'json3/'+modelID+'/'+query+'/data_for_feature_' + str(index) + '.json'
     with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     print(f"Data saved to {filename}")
