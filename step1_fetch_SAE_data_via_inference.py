@@ -35,7 +35,7 @@ queries = [
     "lady",
     "shabbat",
     "programmer",
-    "muslim",
+    #"muslim",
     #"woman",
     #"christian",
     #"money",
