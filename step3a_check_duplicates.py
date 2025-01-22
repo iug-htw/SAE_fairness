@@ -10,6 +10,22 @@ modelReleases = ["llama3.1-8b-eleuther_gp",
                  "gpt2sm-rfs-jb", 
                  "gpt2sm-kk", 
                  "llama3-8b-it-res-jh" ]
+model_source_sets = [
+    ("gpt2-small", "res-jb"),#fertig
+    ("gpt2-small", "att-kk"), #fertig
+    #("gpt2-small", "att_32k-oai"), #bis programmer
+    #("gpt2-small", "mlp_32k-oai"),bis programmer
+    ("gemma-2-2b", "gemmascope-att-16k"),# fertig
+    ("gemma-2-2b", "gemmascope-att-65k"),# fertig
+    ("gemma-2-2b", "gemmascope-mlp-16k"),# fertig
+    #("gemma-2-2b", "gemmascope-mlp-65k"), überspringen!
+    #("gemma-2-2b", "gemmascope-res-16k"), überspringen!
+    #("gemma-2-2b", "gemmascope-res-65k"), überspringen!
+    #("gemma-2-9b", "gemmascope-res-16k"), überspringen!
+    #("gemma-2-9b-it", "gemmascope-res-16k"), überspringen!
+    ("gemma-2-9b-it", "gemmascope-res-131k"),  # fertig
+    ("llama3.1-8b","llamascope-res-32k"),# fertig
+]
 
 # this checks for duplicates in the feature numbers
 
@@ -32,7 +48,7 @@ def check_for_duplicates(feature_files):
 
 def main():
     for modelRelease in modelReleases:
-        directory = 'json3/' + modelRelease
+        directory = 'json4/' + modelRelease
         feature_files = find_feature_numbers(directory)
         duplicates = check_for_duplicates(feature_files)
         output = {} # Output dictionary to write to JSON file

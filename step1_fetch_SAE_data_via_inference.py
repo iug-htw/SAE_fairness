@@ -9,8 +9,8 @@ import json
 model_source_sets = [
     #("gpt2-small", "res-jb"),fertig
     #("gpt2-small", "att-kk"), fertig
-    #("gpt2-small", "att_32k-oai"), bis programmer
-    ("gpt2-small", "mlp_32k-oai"),
+    ("gpt2-small", "att_32k-oai"), #bis programmer
+    #("gpt2-small", "mlp_32k-oai"),bis programmer
     #("gemma-2-2b", "gemmascope-att-16k"),# fertig
     #("gemma-2-2b", "gemmascope-att-65k"),# fertig
     #("gemma-2-2b", "gemmascope-mlp-16k"),# fertig
