@@ -11,8 +11,8 @@ model_source_sets = [
     #("gpt2-small", "att-kk"), fertig
     #weiter!("gpt2-small", "att_32k-oai"),
     #weiter!("gpt2-small", "mlp_32k-oai"),
-    ("gemma-2-2b", "gemmascope-att-16k"),
-    #("gemma-2-2b", "gemmascope-att-65k"),
+    #("gemma-2-2b", "gemmascope-att-16k"),
+    ("gemma-2-2b", "gemmascope-att-65k"),
     #("gemma-2-2b", "gemmascope-mlp-16k"),
     #("gemma-2-2b", "gemmascope-mlp-65k"), 
     #("gemma-2-2b", "gemmascope-res-16k"),
