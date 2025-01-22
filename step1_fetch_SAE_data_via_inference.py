@@ -13,14 +13,14 @@ model_source_sets = [
     #weiter!("gpt2-small", "mlp_32k-oai"),
     #("gemma-2-2b", "gemmascope-att-16k"),kurze Liste fertig
     #("gemma-2-2b", "gemmascope-att-65k"),kurze Liste fertig
-    ("gemma-2-2b", "gemmascope-mlp-16k"),kurze Liste fertig
+    #("gemma-2-2b", "gemmascope-mlp-16k"),kurze Liste fertig
     #("gemma-2-2b", "gemmascope-mlp-65k"), überspringen!
     #("gemma-2-2b", "gemmascope-res-16k"), überspringen!
     #("gemma-2-2b", "gemmascope-res-65k"), überspringen!
     #("gemma-2-9b", "gemmascope-res-16k"), überspringen!
     #("gemma-2-9b-it", "gemmascope-res-16k"), überspringen!
     #("gemma-2-9b-it", "gemmascope-res-131k"),  
-    #("llama3.1-8b","llamascope-res-32k"),
+    ("llama3.1-8b","llamascope-res-32k"),
 ]
 
 api_key = os.getenv("NEURONPEDIA_KEY")
