@@ -5,7 +5,7 @@ import pandas as pd
 import re
 
 # Define the base folder containing the model subfolders
-base_folder = 'json/'
+base_folder = 'json4/'
 
 # Define crime-related keywords for analysis
 crime_keywords = ["terrorism", "terrorist", "crime", "criminal", "violence", "extremism", "attack"]
