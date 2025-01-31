@@ -7,98 +7,98 @@ import json
 
 # Define model and sourceSet tuples
 model_source_sets = [
-    #("gpt2-small", "res-jb"),fertig
-    #("gpt2-small", "att-kk"), fertig
-    ("gpt2-small", "att_32k-oai"), #bis programmer
-    #("gpt2-small", "mlp_32k-oai"),bis programmer
-    #("gemma-2-2b", "gemmascope-att-16k"),# fertig
-    #("gemma-2-2b", "gemmascope-att-65k"),# fertig
-    #("gemma-2-2b", "gemmascope-mlp-16k"),# fertig
-    #("gemma-2-2b", "gemmascope-mlp-65k"), überspringen!
-    #("gemma-2-2b", "gemmascope-res-16k"), überspringen!
-    #("gemma-2-2b", "gemmascope-res-65k"), überspringen!
-    #("gemma-2-9b", "gemmascope-res-16k"), überspringen!
-    #("gemma-2-9b-it", "gemmascope-res-16k"), überspringen!
-    #("gemma-2-9b-it", "gemmascope-res-131k"),  # fertig
-    #("llama3.1-8b","llamascope-res-32k"),# fertig
+    ("gpt2-small", "res-jb"),
+    ("gpt2-small", "att-kk"), 
+    ("gpt2-small", "att_32k-oai"), 
+    ("gpt2-small", "mlp_32k-oai"),
+    ("gemma-2-2b", "gemmascope-att-16k"),
+    ("gemma-2-2b", "gemmascope-att-65k"),
+    ("gemma-2-2b", "gemmascope-mlp-16k"),
+    ("gemma-2-2b", "gemmascope-mlp-65k"), 
+    #("gemma-2-2b", "gemmascope-res-16k"), # 4 Wörter  fertig
+    ("gemma-2-2b", "gemmascope-res-65k"), 
+    ("gemma-2-9b", "gemmascope-res-16k"), 
+    ("gemma-2-9b-it", "gemmascope-res-16k"), 
+    ("gemma-2-9b-it", "gemmascope-res-131k"),  
+    ("llama3.1-8b","llamascope-res-32k"),
 ]
 
 api_key = os.getenv("NEURONPEDIA_KEY")
 
 #prior queries not included anymore: see queries.json
 queries = [
-    #"muslim",
+    "This is a muslim",
+    "This is a burka",
+    "This is a lady",
+    "This is a programmer",
+    "This is a woman",
+    "This is a christian",
+    "This is a boy",
+    "This is a nurse",
+    "This is a man",
+    "This is a baptsim",
+    "This is a bible",
+    "This is a fundamentalist",
+    "This is a gospel",
+    "This is a male",
+    "This is a temple",
+    "This is a professor",
+    "This is a receptionist",
+    "This is a jew",
+    "This is a sacrament",
+    "This is a son",
+    "This is a midwife",
+    "This is a church",
+    "This is a kippah",
+    "This is a grandma",
+    "This is a grandpa",
+    "This is a daughter",
+    "This is a homophob",
+    "This is a girl",
+    "This is a talmud",
+    "This is an engineer",
+    "This is a terrorist",
+    "Das ist ein Jude",
+    "Das ist eine Frau",
+    "This is a mosque",
+    "Das ist ein Opa",
+    "This is a boss",
+    "This is a firefighter",
+    "This is a doctor",
+    "This is a hijab",
+    "This is a torah",
+    "Das ists ein Junge",
+    "This is a wife",
+    "This is a quran",
+    "This is a synagogue",
+    "This is an assistant",
+    "This is a queen",
+    "This is a gentleman",
+    "This is a pope",
+    "This is a homemaker",
+    "Das ist ein M\u00e4dchen",
+    "This is a husband",
+    "This is a king",
+    "Das ist ein Mann",
+    "Das ist eine Oma",
     #"islam",
-    #"burka",
+    #"he",
+    #"christianity",
+    #"jesus",
+    #"she",
+    #"judaism",
+    #"cocaine",
+    #"mecca",
+    #"nose",
+    #"female",
+    #"naive"
+    #"money",
+    #"shabbat",
     #"juif",
     #"kosher",
-    #"lady",
-    #"shabbat",
-    #"programmer",
-    "woman",
-    "christian",
-    "money",
-    "boy",
-    "christianity",
-    "Oma",
-    "allah",
-    "nurse",
-    "Mann",
-    "man",
-    "baptsim",
-    "bible",
-    "islam",
-    "halal",
-    "fundamentalist",
-    "jesus",
-    "gospel",
-    "male",
-    "temple",
-    "professor",
-    "receptionist",
-    "Jude",
-    "jew",
-    "she",
-    "Frau",
-    "sacrament",
-    "son",
-    "judaism",
-    "midwife",
-    "he",
-    "church",
-    "kippah",
-    "grandma",
-    "grandpa",
-    "daughter",
-    "homophob",
-    "girl",
-    "talmud",
-    "engineer",
-    "terrorist",
-    "cocaine",
-    "mosque",
-    "mecca",
-    "nose",
-    "Opa",
-    "boss",
-    "firefighter",
-    "doctor",
-    "hijab",
-    "torah",
-    "Junge",
-    "wife",
-    "quran",
-    "synagogue",
-    "assistant",
-    "queen",
-    "gentleman",
-    "pope",
-    "homemaker",
-    "M\u00e4dchen",
-    "husband",
-    "female",
-    "king",
-    "naive"
+    #"allah",
+    #"islam",
+    #"halal",
     ] # Query to search for
 
 headers = {
@@ -106,13 +106,13 @@ headers = {
    "X-Api-Key": "YOUR_SECRET_TOKEN"#api_key
 }
 
-def load_existing_queries(filename='queries3.json'):
+def load_existing_queries(filename='queries5.json'):
     if os.path.exists(filename):
         with open(filename, 'r') as file:
             return json.load(file)
     return []
 
-def save_queries(queries, filename='queries3.json'):
+def save_queries(queries, filename='queries5.json'):
     with open(filename, 'w') as file:
         json.dump(queries, file, indent=4)
 
@@ -125,9 +125,9 @@ def search_latent_features_by_model(query, model, source_set):
         "sourceSet": source_set,     # Required SAE set
         "text": query,     # Replace with your input text
         "selectedLayers": [],  # Specify selected layers
-        "sortIndexes": [1],        # Sorting tokens
-        "ignoreBos": False,        # Whether to ignore BOS token
-        "densityThreshold": -1,    # Density threshold
+        "sortIndexes": [4],        # Sorting tokens
+        "ignoreBos": True,        # Whether to ignore BOS token
+        "densityThreshold": 0.01,    # Density threshold as on website
         "numResults": 20           # Maximum number of results
     }   
     response = requests.post(url, headers=headers, json=data)
@@ -137,11 +137,11 @@ def search_latent_features_by_model(query, model, source_set):
     #print("Response Data:", response_data)
     
     # Create 'json' folder if it doesn't exist
-    if not os.path.exists('json4/' + model + '/' + source_set + '/'+ query):
-        os.makedirs('json4/' + model + '/'+ source_set + '/' + query)  
+    if not os.path.exists('json5/' + model + '/' + source_set + '/'+ query):
+        os.makedirs('json5/' + model + '/'+ source_set + '/' + query)  
     
     # Save the JSON response to a file in the 'json' folder
-    filename = 'json4/' + model + '/'+ source_set + '/' + query + '/explanation_for_query_' + query + '.json'
+    filename = 'json5/' + model + '/'+ source_set + '/' + query + '/explanation_for_query_' + query + '.json'
     with open(filename, 'w') as json_file:
         json.dump(response_data, json_file, indent=4)
     
@@ -167,7 +167,7 @@ def search_explanations_by_feature(feature,query):
     
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    filename = 'json4/'+model+'/'+ source_set + '/'+query+'/data_for_feature_' + str(index) + '.json'
+    filename = 'json5/'+model+'/'+ source_set + '/'+query+'/data_for_feature_' + str(index) + '.json'
     with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     print(f"Data saved to {filename}")
