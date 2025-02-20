@@ -2,13 +2,13 @@ import os
 import csv
 
 # Define the base folder containing the model subfolders
-base_folder = 'json4/'
+base_folder = 'json6/'
 
 # Define the CSV file columns
 csv_columns = ['model', 'SAE', 'query', 'featurenumber']
 
 # Define the output CSV file path
-output_csv_path = 'json4/feature_summary.csv'
+output_csv_path = 'json6/feature_summary.csv'
 
 # Initialize a list to store the summary data
 summary_data = []

@@ -9,7 +9,7 @@ import os
 # writing them to the CSV file along with the folder name, query term, and latent feature number.
 
 # Define the base folder containing the model subfolders
-base_folder = 'json4/'
+base_folder = 'json5/'
 
 # Define the CSV file columns
 csv_columns = ['query_term', 'latent_feature_number', 'activation_tokens']
