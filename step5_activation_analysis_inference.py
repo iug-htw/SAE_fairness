@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import json
 import csv
 import os
@@ -25,52 +27,61 @@ query_terms_sets = {
     'male_profession': ['professor', 'doctor', 'boss', 'engineer', 'firefighter', 'programmer']
 }
 
-# Iterate through all model subfolders in the base folder
-for model_folder in os.listdir(base_folder):
-    model_folder_path = os.path.join(base_folder, model_folder)
-    if os.path.isdir(model_folder_path):
-        # Iterate through all subfolders in the model folder
-        for source_folder in os.listdir(model_folder_path):
-            source_folder_path = os.path.join(model_folder_path, source_folder)
-            if os.path.isdir(source_folder_path):
-                # Iterate through all sets of query terms
-                for query_set_name, query_terms in query_terms_sets.items():
-                    # Define the CSV file path for the current model, source, and query set
-                    csv_file_path = os.path.join(source_folder_path, f'activation_analysis_{query_set_name}.csv')
-                    
-                    # Write the data to the CSV file
-                    with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-                        writer = csv.writer(csv_file)
-                        writer.writerow(csv_columns)
+
+def activation_analysis_inference(base_folder):
+    # Iterate through all model subfolders in the base folder
+    for model_folder in os.listdir(base_folder):
+        model_folder_path = os.path.join(base_folder, model_folder)
+        if os.path.isdir(model_folder_path):
+            # Iterate through all subfolders in the model folder
+            for source_folder in os.listdir(model_folder_path):
+                source_folder_path = os.path.join(model_folder_path, source_folder)
+                if os.path.isdir(source_folder_path):
+                    # Iterate through all sets of query terms
+                    for query_set_name, query_terms in query_terms_sets.items():
+                        # Define the CSV file path for the current model, source, and query set
+                        csv_file_path = os.path.join(source_folder_path, f'activation_analysis_{query_set_name}.csv')
                         
-                        # Iterate through all subfolders in the source folder
-                        for subfolder in os.listdir(source_folder_path):
-                            if subfolder in query_terms:
-                                subfolder_path = os.path.join(source_folder_path, subfolder)
-                                if os.path.isdir(subfolder_path):
-                                    # Iterate through all JSON files in the subfolder
-                                    for json_filename in os.listdir(subfolder_path):
-                                        if json_filename.endswith('.json'):
-                                            json_filepath = os.path.join(subfolder_path, json_filename)
-                                            
-                                            # Extract the latent feature number from the file name
-                                            latent_feature_number = json_filename.split('_')[-1].split('.')[0]
-                                            
-                                            # Load the JSON data
-                                            with open(json_filepath, 'r', encoding='utf-8') as json_file:
-                                                data = json.load(json_file)
-                                            
-                                            # Check if data is a list and iterate through it
-                                            if isinstance(data, list):
-                                                for item in data:
-                                                    activations = item.get('activations', [])
-                                                    for activation in activations:
-                                                        tokens = activation.get('tokens', [])
-                                                        writer.writerow([subfolder, latent_feature_number, ' '.join(tokens)])
-                                            else:
-                                                # Extract the relevant information
-                                                activations = data.get('activations', [])
-                                                # Write the data to the CSV file
-                                                for activation in activations:
-                                                    tokens = activation.get('tokens', [])
-                                                    writer.writerow([subfolder, latent_feature_number, ' '.join(tokens)])
+                        # Write the data to the CSV file
+                        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+                            writer = csv.writer(csv_file)
+                            writer.writerow(csv_columns)
+                            
+                            # Iterate through all subfolders in the source folder
+                            for query_name in os.listdir(source_folder_path):
+                                current_query_terms = query_name.split(' ')
+
+                                for current_query_term in current_query_terms:
+                                    if current_query_term in query_terms:
+                                        subfolder_path = os.path.join(source_folder_path, query_name)
+                                        
+                                        if os.path.isdir(subfolder_path):
+                                            # Iterate through all JSON files in the subfolder
+                                            for json_filename in os.listdir(subfolder_path):
+                                                if json_filename.endswith('.json'):
+                                                    json_filepath = os.path.join(subfolder_path, json_filename)
+                                                    
+                                                    # Extract the latent feature number from the file name
+                                                    latent_feature_number = json_filename.split('_')[-1].split('.')[0]
+                                                    
+                                                    # Load the JSON data
+                                                    with open(json_filepath, 'r', encoding='utf-8') as json_file:
+                                                        data = json.load(json_file)
+                                                    
+                                                    # Check if data is a list and iterate through it
+                                                    if isinstance(data, list):
+                                                        for item in data:
+                                                            activations = item.get('activations', [])
+                                                            for activation in activations:
+                                                                tokens = activation.get('tokens', [])
+                                                                writer.writerow([current_query_term, latent_feature_number, ' '.join(tokens)])
+                                                    else:
+                                                        # Extract the relevant information
+                                                        activations = data.get('activations', [])
+                                                        # Write the data to the CSV file
+                                                        for activation in activations:
+                                                            tokens = activation.get('tokens', [])
+                                                            writer.writerow([current_query_term, latent_feature_number, ' '.join(tokens)])
+
+if __name__ == "__main__":
+    activation_analysis_inference(base_folder)
