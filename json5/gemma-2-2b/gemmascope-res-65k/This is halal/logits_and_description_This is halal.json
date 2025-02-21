@@ -1,0 +1,152 @@
+[
+    {
+        "index": "45776",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_45776.json",
+        "negative_strings": [
+            "\u2581habet",
+            "Jegyzetek",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "()]);",
+            "\u2581\u062a\u0627\u0646\u064a\u0647",
+            "\u00edncia",
+            "\u2581qu\u00e6",
+            "\u0447\u0430\u044e\u0442",
+            "jerg",
+            "Brainz"
+        ],
+        "positive_strings": [
+            "\u2581alternatives",
+            "\u2581options",
+            "\u2581option",
+            "friendly",
+            "\u2581friendly",
+            "MigrationBuilder",
+            "\u2581certified",
+            "\u2581Option",
+            "\u2581OPTION",
+            "uary"
+        ],
+        "description": " terminology associated with organic, vegetarian, and vegan food options and ingredients"
+    },
+    {
+        "index": "56387",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_56387.json",
+        "negative_strings": [
+            "\u2581vastaan",
+            "SequentialGroup",
+            "\u2581yrity",
+            "\u2581n\u00e4ky",
+            "\u2581kiin",
+            "preuve",
+            "\u2581k\u0131l\u0131f",
+            "\u2581suor",
+            "\u2581pysty",
+            "\u2581cord\u00f3n"
+        ],
+        "positive_strings": [
+            "\u2581chicken",
+            "\u2581cheese",
+            "\u2581bread",
+            "\u2581bacon",
+            "\u2581fried",
+            "\u2581pasta",
+            "\u2581pork",
+            "\u2581grilled",
+            "\u2581chocolate",
+            "\u2581rice"
+        ],
+        "description": "food-related terms and healthy cooking practices"
+    },
+    {
+        "index": "18344",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_18344.json",
+        "negative_strings": [
+            "\u2581vastaan",
+            "SequentialGroup",
+            "\u2581yrity",
+            "\u2581cord\u00f3n",
+            "zeptember",
+            "\u2581kiin",
+            "\u2581kuulu",
+            "ama\u00f1o",
+            "\u2581k\u0131l\u0131f",
+            "\u2581dentes"
+        ],
+        "positive_strings": [
+            "\u2581chicken",
+            "\u2581cheese",
+            "\u2581salads",
+            "\u2581pork",
+            "\u2581bacon",
+            "\u2581eggs",
+            "\u2581fried",
+            "\u2581shrimp",
+            "\u2581salad",
+            "\u2581chocolate"
+        ],
+        "description": " mentions of food and related preparation processes"
+    },
+    {
+        "index": "24323",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_24323.json",
+        "negative_strings": [
+            "SequentialGroup",
+            "\u2581vastaan",
+            "\u2581qu\u00e6",
+            "\u2581rayures",
+            "\u2581yrity",
+            "felves",
+            "\u2581\u017ftand",
+            "rd\u0131",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581n\u00e4ky"
+        ],
+        "positive_strings": [
+            "\u2581chicken",
+            "\u2581cheese",
+            "\u2581bread",
+            "\u2581bacon",
+            "\u2581pork",
+            "\u2581roasted",
+            "\u2581fried",
+            "\u2581eggs",
+            "\u2581yogurt",
+            "\u2581potato"
+        ],
+        "description": "mentions of various dishes and food items"
+    },
+    {
+        "index": "52206",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_52206.json",
+        "negative_strings": [
+            "\u2581vastaan",
+            "\u2581cord\u00f3n",
+            "\u2581l\u00e4\u00e4",
+            "SequentialGroup",
+            "ama\u00f1o",
+            "\u2581kiin",
+            "\u2581vidro",
+            "\u2581enfans",
+            "\u2581alimentaires",
+            "\u2581pauv"
+        ],
+        "positive_strings": [
+            "\u2581chicken",
+            "\u2581shrimp",
+            "\u2581salmon",
+            "\u2581cheesecake",
+            "\u2581spaghetti",
+            "\u2581salami",
+            "\u2581lasagna",
+            "\u2581bacon",
+            "\u2581pasta",
+            "\u2581scrambled"
+        ],
+        "description": "dishes and food-related experiences"
+    }
+]

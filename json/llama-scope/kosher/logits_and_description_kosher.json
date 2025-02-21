@@ -1,0 +1,602 @@
+[
+    {
+        "index": "19792",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_19792.json",
+        "negative_strings": [
+            "_RT",
+            "/ion",
+            "rotch",
+            "\u00e5\u00a4\u00aa\u00e9\u0125\u0130",
+            "cy",
+            "adele",
+            "plat",
+            "_EP",
+            " MetroFramework",
+            "opal"
+        ],
+        "positive_strings": [
+            " forbidden",
+            " prohibition",
+            " prohibited",
+            " prohib",
+            " Pig",
+            " Forbidden",
+            " Hal",
+            " permitted",
+            " permissible",
+            " forbid"
+        ],
+        "description": " references to dietary rules and classifications of animals, specifically regarding kosher laws"
+    },
+    {
+        "index": "30562",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_30562.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d8\u00a8\u00d8\u00a7\u00d8\u00aa",
+            " t\u00e1\u00bb\u0135n",
+            "atori",
+            "module",
+            " gezocht",
+            " Stan",
+            " Dynamo",
+            "ocab",
+            "886",
+            "uum"
+        ],
+        "positive_strings": [
+            " Koh",
+            " disqualified",
+            "Chat",
+            "pig",
+            " naz",
+            " aray",
+            "\u00e1\u00ba\u00a1p",
+            " zav",
+            " offerings",
+            " forbidden"
+        ],
+        "description": " references to dietary laws and kosher animal classifications"
+    },
+    {
+        "index": "2481",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_2481.json",
+        "negative_strings": [
+            " MetroFramework",
+            ".signature",
+            " signature",
+            "gon",
+            "882",
+            "886",
+            "/module",
+            "/DD",
+            " SMART",
+            "anggan"
+        ],
+        "positive_strings": [
+            " Gent",
+            " disqualified",
+            " forbidden",
+            " prohibition",
+            " zav",
+            " Hal",
+            "pig",
+            " aray",
+            " Koh",
+            " prohib"
+        ],
+        "description": "terms related to dietary regulations, specifically focusing on kosher laws"
+    },
+    {
+        "index": "21858",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_21858.json",
+        "negative_strings": [
+            "anager",
+            "/problems",
+            "\u00ec\u0137\u00bd",
+            " Hive",
+            "gon",
+            "anggan",
+            "\u00d8\u00a7\u00d8\u00a8\u00d8\u00a7\u00d8\u00aa",
+            "atas",
+            " MetroFramework",
+            "_EP"
+        ],
+        "positive_strings": [
+            " forbidden",
+            " Hal",
+            " tame",
+            " disqualified",
+            " prohibition",
+            "\u00cc\u00a3",
+            " Forbidden",
+            " Gent",
+            "aN",
+            " hal"
+        ],
+        "description": " references to dietary laws and kosher classifications"
+    },
+    {
+        "index": "60118",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_60118.json",
+        "negative_strings": [
+            " Hort",
+            "stad",
+            " Humanities",
+            "ovn\u00c4\u013d",
+            "eln",
+            " humanities",
+            "zin",
+            " Grat",
+            "odore",
+            "velope"
+        ],
+        "positive_strings": [
+            " Superv",
+            " supervision",
+            "-cert",
+            " mev",
+            " certification",
+            "keit",
+            " Certification",
+            " superv",
+            " pare",
+            " Pare"
+        ],
+        "description": " references to Jewish dietary laws and kosher practices"
+    },
+    {
+        "index": "33973",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_33973.json",
+        "negative_strings": [
+            ".sax",
+            " Faul",
+            " Gast",
+            "CppClass",
+            "\u00d9\u012a\u00d9\u0128\u00d8\u00af",
+            ".CreateIndex",
+            "-rad",
+            "anax",
+            "emma",
+            "PickerController"
+        ],
+        "positive_strings": [
+            " Kos",
+            "kos",
+            " kosher",
+            " OU",
+            " Kash",
+            " certification",
+            " pare",
+            " supervision",
+            " kos",
+            " Superv"
+        ],
+        "description": " references to kosher dietary laws and their implications"
+    },
+    {
+        "index": "20817",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_20817.json",
+        "negative_strings": [
+            "appen",
+            "anager",
+            "ocy",
+            "\u00d8\u00a7\u00d8\u00a8\u00d8\u00a7\u00d8\u00aa",
+            "zap",
+            "\u00c9\u00b5",
+            "anggan",
+            "gon",
+            "indi",
+            "RunWith"
+        ],
+        "positive_strings": [
+            " Hal",
+            " len",
+            "MMC",
+            " prohibition",
+            " hal",
+            "578",
+            "Hal",
+            " zav",
+            " Roller",
+            " forbidden"
+        ],
+        "description": " references to dietary laws and regulations, particularly those related to kosher practices"
+    },
+    {
+        "index": "90538",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_90538.json",
+        "negative_strings": [
+            "je",
+            " t\u00e1\u00bb\u0143",
+            "\u00cf\u0125\u00cf\u0126\u00ce\u00bf",
+            "stad",
+            "IDI",
+            " Dodd",
+            " Farr",
+            "irus",
+            " Hannah",
+            " sober"
+        ],
+        "positive_strings": [
+            "-cert",
+            ".cert",
+            " certification",
+            " cert",
+            " Certification",
+            " Cert",
+            "_cert",
+            " certificate",
+            " certifications",
+            "keit"
+        ],
+        "description": " references to Jewish dietary laws, particularly relating to kosher practices"
+    },
+    {
+        "index": "283",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_283.json",
+        "negative_strings": [
+            " Crafts",
+            "\u00d8\u00b4\u00d9\u0128",
+            "\u00e6\u012b",
+            " Krish",
+            "Gran",
+            " Faul",
+            "ling",
+            "unfinished",
+            "866",
+            " serious"
+        ],
+        "positive_strings": [
+            " certification",
+            " Certification",
+            "-cert",
+            " cert",
+            " Hal",
+            "Anim",
+            ".cert",
+            " meat",
+            "anim",
+            " slaughter"
+        ],
+        "description": " references to kosher dietary laws and Jewish cultural practices"
+    },
+    {
+        "index": "80896",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_80896.json",
+        "negative_strings": [
+            " Faul",
+            "\u00e7\u00ba\u00aa",
+            " GRAT",
+            ".sax",
+            " Kund",
+            "948",
+            " Seeds",
+            "OrFail",
+            " OD",
+            "emma"
+        ],
+        "positive_strings": [
+            " Hal",
+            " hal",
+            "Hal",
+            "hal",
+            "_hal",
+            " HAL",
+            " certification",
+            " hala",
+            " Certification",
+            "HAL"
+        ],
+        "description": "references to kosher dietary laws and Jewish culinary practices"
+    },
+    {
+        "index": "31858",
+        "layer": "23-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_31858.json",
+        "negative_strings": [
+            "882",
+            "-append",
+            "/problems",
+            "erde",
+            "edl",
+            "Cx",
+            "onda",
+            "anggan",
+            "ippo",
+            " MetroFramework"
+        ],
+        "positive_strings": [
+            "sei",
+            " Nisan",
+            " Bilg",
+            " TZ",
+            "Rua",
+            "gem",
+            " Conservative",
+            "578",
+            "472",
+            " heter"
+        ],
+        "description": "references to dietary laws and kosher regulations"
+    },
+    {
+        "index": "11985",
+        "layer": "20-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_11985.json",
+        "negative_strings": [
+            "\u00e3\u0123\u0139\u00e3\u0124\u0129\u00e3\u0123\u0128",
+            "appen",
+            "nik",
+            "odyn",
+            " Luke",
+            "\u00d9\u012a\u00d8\u00b1\u00d8\u00af",
+            "ningen",
+            "CString",
+            "mons",
+            "hek"
+        ],
+        "positive_strings": [
+            "kins",
+            " Whites",
+            "_LL",
+            " Lev",
+            "/command",
+            "\u00d1\u013e",
+            " ona",
+            " refr",
+            "e\u00c5\u0141it",
+            "\u00c4\u00be"
+        ],
+        "description": " references to dietary laws and regulations, particularly those related to kosher food"
+    },
+    {
+        "index": "7443",
+        "layer": "18-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_7443.json",
+        "negative_strings": [
+            "ichel",
+            ".HorizontalAlignment",
+            "Isl",
+            " plots",
+            " Boo",
+            " Quar",
+            "orsch",
+            "hdr",
+            "ores",
+            "usz"
+        ],
+        "positive_strings": [
+            "ALT",
+            " vay",
+            "kest",
+            "beth",
+            " Pri",
+            " Unt",
+            "vore",
+            "iative",
+            "lld",
+            " Neville"
+        ],
+        "description": "specific dietary laws and regulations regarding kosher animals"
+    },
+    {
+        "index": "4524",
+        "layer": "18-llamascope-mlp-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_4524.json",
+        "negative_strings": [
+            " car",
+            "rait",
+            ".BLL",
+            " Bucc",
+            " Eb",
+            "xcb",
+            "SHOP",
+            " BIT",
+            " inc",
+            "Inc"
+        ],
+        "positive_strings": [
+            " Clean",
+            "Dirty",
+            " CLEAN",
+            " dirty",
+            "dirty",
+            " Dirty",
+            " clean",
+            " Ritual",
+            "\u00d1\u0129\u00d0\u00b8\u00d1\u0123\u00d1\u0124",
+            "-clean"
+        ],
+        "description": " information related to dietary laws, specifically kosher regulations"
+    },
+    {
+        "index": "32439",
+        "layer": "16-llamascope-res-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_32439.json",
+        "negative_strings": [
+            "ilo",
+            "ansen",
+            "AZY",
+            "\u010c\n",
+            " tan",
+            ".serialization",
+            "atitude",
+            "plotlib",
+            "UILT",
+            "\u00c3\u00a9n\u00c3\u00a9"
+        ],
+        "positive_strings": [
+            "\u00e1\u00bb\u00a9a",
+            " nod",
+            "emailer",
+            "\u00e6\u0140\u013f",
+            " Hazard",
+            " Waters",
+            "icine",
+            "AIL",
+            "ATALOG",
+            " crossing"
+        ],
+        "description": " references to dietary laws and classifications of kosher animals"
+    },
+    {
+        "index": "24863",
+        "layer": "16-llamascope-mlp-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_24863.json",
+        "negative_strings": [
+            "rish",
+            "\u00e9\u00bc",
+            "308",
+            "\u00c3\u00bc",
+            "\u010c\n",
+            " <|",
+            "tan",
+            "ushima",
+            "307",
+            "ifle"
+        ],
+        "positive_strings": [
+            "iei",
+            "iveness",
+            "\u00d8\u00a7\u00d8\u00ae\u00d8\u00aa\u00db\u012e",
+            " \u00d8\u00a8\u00d8\u00ac",
+            " migrationBuilder",
+            "ACL",
+            " \u00e7\u012b",
+            " Bever",
+            "xbf",
+            "\u00e6\u0140\u013f"
+        ],
+        "description": "details regarding dietary laws, specifically those related to kosher animals"
+    },
+    {
+        "index": "24962",
+        "layer": "24-llamascope-mlp-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_24962.json",
+        "negative_strings": [
+            "aty",
+            "\u00bf",
+            "otte",
+            "oxy",
+            "abyrinth",
+            "ific",
+            "isle",
+            "pez",
+            "halt",
+            "/bower"
+        ],
+        "positive_strings": [
+            "SWG",
+            " recess",
+            "ior",
+            "owied",
+            "\u00c3\u00bczel",
+            "Spoiler",
+            " Sag",
+            "lean",
+            "/master",
+            "\u00d1\u0129\u00d0\u00b8\u00d0\u00b5"
+        ],
+        "description": " references to Kosher concepts or terminology"
+    },
+    {
+        "index": "5310",
+        "layer": "23-llamascope-mlp-32k",
+        "url": "json/llama-scope/kosher/data_for_feature_5310.json",
+        "negative_strings": [
+            "uent",
+            "IRONMENT",
+            " Dien",
+            "ORMAT",
+            "weathermap",
+            "ument",
+            "assi",
+            "\u00e6\u012c\u013a",
+            " B\u00c3\u00acnh",
+            "abis"
+        ],
+        "positive_strings": [
+            "gid",
+            "oyo",
+            "tek",
+            "\u00c6\u00b0\u00c6\u00a1ng",
+            "ouz",
+            "eno",
+            "ouser",
+            "aktu",
+            "etine",
+            "ondo"
+        ],
+        "description": " references to the term \"Kos\" or similar variations, likely relating to kosher certification"
+    },
+    {
+        "index": "75127",
+        "layer": "7-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_75127.json",
+        "negative_strings": [
+            "alse",
+            "lage",
+            "lying",
+            " \u00d0\u00be\u00d0\u00b6",
+            " Mercy",
+            "883",
+            "lining",
+            "hu",
+            " GRAT",
+            "odore"
+        ],
+        "positive_strings": [
+            "segue",
+            "breadcrumbs",
+            "olah",
+            "ulings",
+            "icho",
+            " Wax",
+            "emark",
+            " \u00e6\u0125\u0127",
+            "ichert",
+            "keit"
+        ],
+        "description": " references to kosher dietary laws and Jewish cultural elements"
+    },
+    {
+        "index": "75131",
+        "layer": "9-llamascope-res-131k",
+        "url": "json/llama-scope/kosher/data_for_feature_75131.json",
+        "negative_strings": [
+            "609",
+            " Mercy",
+            "alse",
+            "orious",
+            "607",
+            "sat",
+            " \u00d0\u013e\u00d1\u0125",
+            "send",
+            "temps",
+            "608"
+        ],
+        "positive_strings": [
+            "keit",
+            "ulings",
+            "icho",
+            "enco",
+            "ouns",
+            "breadcrumbs",
+            ".writ",
+            "ichert",
+            "olah",
+            "andom"
+        ],
+        "description": "references to Jewish dietary laws and practices, particularly those related to kosher food"
+    }
+]

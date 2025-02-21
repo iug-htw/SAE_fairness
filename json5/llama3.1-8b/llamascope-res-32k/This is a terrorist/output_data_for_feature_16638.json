@@ -1,0 +1,30 @@
+{
+    "index": "16638",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_16638.json",
+    "negative_strings": [
+        "ethyst",
+        "allas",
+        " Sass",
+        "rzy",
+        "inventory",
+        " sass",
+        ":block",
+        ".heroku",
+        "\u00c4\u013dr",
+        "urum"
+    ],
+    "positive_strings": [
+        " terrorism",
+        " terrorist",
+        " terrorists",
+        " Terrorism",
+        " radical",
+        " terror",
+        " jihadist",
+        " extremism",
+        " Radical",
+        " Terror"
+    ],
+    "description": " references to terrorism and the associated funding mechanisms"
+}

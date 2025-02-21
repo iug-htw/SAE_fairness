@@ -1,0 +1,30 @@
+{
+    "index": "2857",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is naiveThis is money/data_for_feature_2857.json",
+    "negative_strings": [
+        "evil",
+        "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+        "interrupted",
+        "oleon",
+        "ccoli",
+        "BSD",
+        "00200000",
+        "borough",
+        "Evil",
+        "BUR"
+    ],
+    "positive_strings": [
+        " perceptions",
+        " terminology",
+        " representations",
+        " translations",
+        " depictions",
+        " portrayal",
+        " interpretations",
+        " impression",
+        " guiIcon",
+        " spelling"
+    ],
+    "description": "inaccurate or incorrect information in documents"
+}

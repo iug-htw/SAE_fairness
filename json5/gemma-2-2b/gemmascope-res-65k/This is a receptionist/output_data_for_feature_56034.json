@@ -1,0 +1,30 @@
+{
+    "index": "56034",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a receptionist/data_for_feature_56034.json",
+    "negative_strings": [
+        "\u2581'\\\\;'",
+        "loroethane",
+        "GIVEREF",
+        "MethodManager",
+        "err\u00e1neo",
+        "TagHelper",
+        "\u0012",
+        "MessageDigest",
+        "NgModule",
+        "prz"
+    ],
+    "positive_strings": [
+        "\u2581position",
+        "\u2581role",
+        "position",
+        "\u2581Position",
+        "\u2581job",
+        "\u2581POSITION",
+        "Position",
+        "\u2581positions",
+        "role",
+        "\u2581posi\u00e7\u00e3o"
+    ],
+    "description": " roles and responsibilities related to job positions and their descriptions"
+}

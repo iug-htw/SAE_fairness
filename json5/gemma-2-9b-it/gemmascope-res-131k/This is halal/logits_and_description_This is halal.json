@@ -1,0 +1,452 @@
+[
+    {
+        "index": "4867",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_4867.json",
+        "negative_strings": [
+            "KommentareTeilen",
+            "others",
+            "afficheront",
+            "runApp",
+            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
+            "BeforeMethod",
+            "Others",
+            "\u2581Others",
+            "\u00fckemmel",
+            "\u2581others"
+        ],
+        "positive_strings": [
+            "Halo",
+            "\u2581Halo",
+            "\u2581Hal",
+            "Hal",
+            "\u2581HAL",
+            "\u2581hal",
+            "rungsseite",
+            "\u2581argint",
+            "\u2581halo",
+            "Hall"
+        ],
+        "description": "references to specific terms associated with halogen and related compounds"
+    },
+    {
+        "index": "70871",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_70871.json",
+        "negative_strings": [
+            "\u2581my\u017felf",
+            "\u2581Gegenteil",
+            ")++;",
+            "\u2581Ver\u00e4nder",
+            "\u2581Kommunikations",
+            "\u2581communiquer",
+            "tisp",
+            "\u2581zucca",
+            "\u2581odbior",
+            "\u2581pedest"
+        ],
+        "positive_strings": [
+            "\u2581Halal",
+            "\u2581halal",
+            "\u2581autorytatywna",
+            "\u2581Islamic",
+            "SharedCtor",
+            "Autoritn\u00ed",
+            "Islamic",
+            "\u2581EconPapers",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581Taktlose"
+        ],
+        "description": " terms related to Halal and Haram concepts in food"
+    },
+    {
+        "index": "2436",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_2436.json",
+        "negative_strings": [
+            "Rohy",
+            "tanleria",
+            "PERTIES",
+            "weist",
+            "\u2581F\u00f6",
+            "\u2581visi",
+            "\t\t\t\t\t\t\t\t\t",
+            "\u2581disease",
+            "\u306f\u3058\u3081\u306b",
+            "\t\t\t\t\t"
+        ],
+        "positive_strings": [
+            "\u2581Kosher",
+            "\u2581kosher",
+            "\u2581halal",
+            "\u2581Halal",
+            "IsMutable",
+            "\u2581Haram",
+            "\u2581haram",
+            "ContentAsync",
+            "lamic",
+            "Vegan"
+        ],
+        "description": "terms related to dietary laws and traditional food practices"
+    },
+    {
+        "index": "13413",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_13413.json",
+        "negative_strings": [
+            "\u2581Wikimedijinoj",
+            "verifyException",
+            "posedge",
+            "\u2581pouvoit",
+            "Revenir",
+            "parsedMessage",
+            "AutoScaleMode",
+            "appartamento",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "eqn"
+        ],
+        "positive_strings": [
+            "\u2581options",
+            "\u2581option",
+            "\u2581choices",
+            "\u2581alternatives",
+            "\u2581friendly",
+            "\u2581substitutions",
+            "\u2581Options",
+            "\u2581OPTION",
+            "\u2581substitutes",
+            "\u2581OPTIONS"
+        ],
+        "description": "terms related to gluten-free, vegetarian, and vegan diets"
+    },
+    {
+        "index": "71549",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_71549.json",
+        "negative_strings": [
+            "\u2581Sorensen",
+            "\u2581most",
+            "\u2581framf\u00f6r",
+            "\u2581Bischof",
+            "section",
+            "\u2581Onder",
+            "\u2581points",
+            "\u2581Mutter",
+            "\u2581sobres",
+            "\u2581respon"
+        ],
+        "positive_strings": [
+            "lawful",
+            "SBATCH",
+            "\u2581legalized",
+            "\u5408\u6cd5",
+            "\u2581legalization",
+            "\u2581\u0648\u064a\u0643\u064a\u067e\u064a\u062f\u064a\u0627",
+            "\u2581lawful",
+            "AndEndTag",
+            "\u27ec",
+            "\u2581nahilalakip"
+        ],
+        "description": "terms and phrases related to the legality of marijuana"
+    },
+    {
+        "index": "105306",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_105306.json",
+        "negative_strings": [
+            "\u2581tangga",
+            "colazione",
+            "\u2581kopling",
+            "\u2581occhiali",
+            "\u2581gempa",
+            "\u2581v\u0153",
+            "\u2581sabun",
+            "gpl",
+            "onom\u00eda",
+            "\u2581fauteuil"
+        ],
+        "positive_strings": [
+            "\u2581meat",
+            "\u2581Meat",
+            "Meat",
+            "\u2581beef",
+            "meat",
+            "\u2581MEAT",
+            "\u2581meats",
+            "\u2581Beef",
+            "\u2581viande",
+            "\u8089"
+        ],
+        "description": "references to different types of meat and their consumption data"
+    },
+    {
+        "index": "18358",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_18358.json",
+        "negative_strings": [
+            "\u2581innamor",
+            "\u2581c\u01b0",
+            ".*\")]",
+            "\u2581aigu",
+            "\u2581depre",
+            "Discriminator",
+            "lichung",
+            "UpInside",
+            "pfe",
+            "\u2581bedankt"
+        ],
+        "positive_strings": [
+            "\u2581organic",
+            "\u2581Organic",
+            "Organic",
+            "organic",
+            "\u2581ORGANIC",
+            "\u2581kosher",
+            "\u2581organik",
+            "\u2581Kosher",
+            "\u2581certified",
+            "\u2581halal"
+        ],
+        "description": "terms related to food regulations and organic farming practices"
+    },
+    {
+        "index": "121125",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_121125.json",
+        "negative_strings": [
+            "extAlignment",
+            "phosa",
+            "\u2581GenerationType",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581Repar",
+            "\u0012",
+            "protoimpl",
+            "::$_",
+            "InputBorder",
+            "Pastor"
+        ],
+        "positive_strings": [
+            "\u2581foods",
+            "\u2581ivelany",
+            "JvmStatic",
+            "hynch",
+            "\u2581Independencia",
+            "\u2581agencies",
+            "toContain",
+            "\u2581repas",
+            "\u2581dietary",
+            "\u2581compliance"
+        ],
+        "description": "references to cultural or family traditions during holiday celebrations"
+    },
+    {
+        "index": "128970",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_128970.json",
+        "negative_strings": [
+            "\u2581mauva",
+            "\u2581enfans",
+            "\u2581plufieurs",
+            "LookAnd",
+            "\u2581Beweis",
+            "\u2581vecka",
+            "\u2581nothwendig",
+            "\u2581ModelExpression",
+            "udadera",
+            "\u2581stanga"
+        ],
+        "positive_strings": [
+            "\u2581principles",
+            "\u2581practice",
+            "\u2581practitioners",
+            "\u2581practiced",
+            "\u2581philosophy",
+            "\u2581practices",
+            "practi",
+            "\u2581style",
+            "\u2581practitioner",
+            "\u2581masters"
+        ],
+        "description": "spiritual practices and cultural references related to wellness"
+    },
+    {
+        "index": "21589",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_21589.json",
+        "negative_strings": [
+            "\u2581resourceCulture",
+            "Datuak",
+            "\u0930\u0940\u0926",
+            "\u2581wypo",
+            "\u2581arka",
+            "\u2581selfish",
+            "webElementXpaths",
+            "ContentLoaded",
+            "\u306e\u767a",
+            "\u2581hinein"
+        ],
+        "positive_strings": [
+            "\u2581certification",
+            "\u2581certifications",
+            "certification",
+            "\u2581Certification",
+            "\u2581accreditation",
+            "Certification",
+            "\u2581certified",
+            "\u2581certific",
+            "\u2581certificaci\u00f3n",
+            "\u2581certify"
+        ],
+        "description": " references to certifications and accreditations within professional or organizational contexts"
+    },
+    {
+        "index": "107616",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_107616.json",
+        "negative_strings": [
+            "\u2581'\\\\;'",
+            "StoryboardSegue",
+            "monials",
+            "delwed",
+            "aarrggbb",
+            "awaiter",
+            "V\u00e4lislingid",
+            "<_>",
+            "oquia",
+            "\u2581esternos"
+        ],
+        "positive_strings": [
+            "\u2581ruling",
+            "\u2581rulings",
+            "\u2581ruled",
+            "\u2581Ruling",
+            "\u2581rule",
+            "ruling",
+            "\u2581rules",
+            "\u2581Rul",
+            "\u2581Rule",
+            "rule"
+        ],
+        "description": " references to ethical guidelines and advisory structures for candidates"
+    },
+    {
+        "index": "7870",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_7870.json",
+        "negative_strings": [
+            "OGND",
+            "mybatisplus",
+            "setBlock",
+            "atguigu",
+            "\u5e73\u548c",
+            "kaw",
+            "ViewImports",
+            "\u2581StyleSheet",
+            "\u2581ANGELES",
+            "\u2581digital"
+        ],
+        "positive_strings": [
+            "\u2581meat",
+            "\u2581animal",
+            "\u2581vlees",
+            "\u2581viande",
+            "\u2581daging",
+            "animal",
+            "WriteTagHelper",
+            "Animal",
+            "\u2581producten",
+            "\u8477"
+        ],
+        "description": "references to vegetarianism and animal products"
+    },
+    {
+        "index": "86292",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_86292.json",
+        "negative_strings": [
+            "mybatisplus",
+            "\u2581kasarigan",
+            "cstdio",
+            "\u2581picasso",
+            "\u2581EconPapers",
+            "\u2581snippetHide",
+            "\u2581\u0648\u062a\u0633\u062c\u064a\u0644\u0627\u062a",
+            "AndroidJUnit",
+            "\u2581keyPressed",
+            "\u2581Vc"
+        ],
+        "positive_strings": [
+            "Hal",
+            "\u2581Hal",
+            "hal",
+            "\u2581Halo",
+            "Halo",
+            "HAL",
+            "\u2581HAL",
+            "\u2581hal",
+            "\u2581Hale",
+            "\u2581Hales"
+        ],
+        "description": "references to the term \"HAL\" and its variations, particularly in the context of technology or computing"
+    },
+    {
+        "index": "66335",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_66335.json",
+        "negative_strings": [
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "\u2581ComVisible",
+            "strophic",
+            "\u279f",
+            "\u2581po\u010det",
+            "\u2581consigo",
+            "Conte\u00fado",
+            "\u2581pieni",
+            "eroy",
+            "\u8e87"
+        ],
+        "positive_strings": [
+            "Islam",
+            "ization",
+            "\u2581Islam",
+            "TagMode",
+            "ophobia",
+            "\u2581Isla",
+            "\u2581ISLAM",
+            "\u2581islam",
+            "\u2581Utf",
+            "matchCondition"
+        ],
+        "description": " references and discussions surrounding Islam and its interpretations"
+    },
+    {
+        "index": "105469",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is halal/data_for_feature_105469.json",
+        "negative_strings": [
+            "kapnya",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u2581contextLoads",
+            "\u2581afbeelding",
+            "\u2581Esposito",
+            "\u2581afspraak",
+            "\u2581Ablauf",
+            "\u2581menye",
+            "setViewportView",
+            "DockStyle"
+        ],
+        "positive_strings": [
+            "\u2581dilemma",
+            "\u2581dilemmas",
+            "\u2581considerations",
+            "\u2581Handel",
+            "\u2581ponder",
+            "\u2581consid\u00e9r",
+            "\u2581sourcing",
+            "\u2581quand",
+            "iddhar",
+            "\u2581concerns"
+        ],
+        "description": "references to ethical considerations and discussions"
+    }
+]

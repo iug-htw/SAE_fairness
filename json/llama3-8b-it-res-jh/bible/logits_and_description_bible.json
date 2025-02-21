@@ -1,0 +1,62 @@
+[
+    {
+        "index": "53566",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/bible/data_for_feature_53566.json",
+        "negative_strings": [
+            "artz",
+            "IDL",
+            " b\u00c3\u00a1o",
+            "_userdata",
+            "\u00d1\u0122\u00d1\u0125\u00d0\u00bd",
+            "\u00e9\u013d\u0128\u00e5\u0132\u012a",
+            " Katz",
+            "ylum",
+            "uteur",
+            " pylab"
+        ],
+        "positive_strings": [
+            " NAS",
+            " King",
+            " Ampl",
+            "NAS",
+            " Strong",
+            "King",
+            " Authorized",
+            " Dou",
+            " kj",
+            " Greek"
+        ],
+        "description": " references to specific editions of the Bible and their unique aspects"
+    },
+    {
+        "index": "21321",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/bible/data_for_feature_21321.json",
+        "negative_strings": [
+            "quete",
+            "erialize",
+            "eated",
+            "braco",
+            "odox",
+            ".fm",
+            "aub",
+            " horizon",
+            "uit",
+            "wire"
+        ],
+        "positive_strings": [
+            " Inspiration",
+            " inspiration",
+            " inspired",
+            " Inspired",
+            " inf",
+            " inspir",
+            "Insp",
+            "reve",
+            " inspire",
+            "-inspired"
+        ],
+        "description": " discussions about the Bible's literal truth and its status as literature versus historical document"
+    }
+]

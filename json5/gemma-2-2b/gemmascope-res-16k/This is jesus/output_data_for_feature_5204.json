@@ -1,0 +1,30 @@
+{
+    "index": "5204",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is jesus/data_for_feature_5204.json",
+    "negative_strings": [
+        "########.",
+        "engi",
+        "PCell",
+        "Fortune",
+        "\u2581Fortune",
+        "enumi",
+        "\u2581maquin",
+        "kloped",
+        "\u2581Guggenheim",
+        "Auszeichnungen"
+    ],
+    "positive_strings": [
+        "\u2581Christ",
+        "Christ",
+        "\u2581Jesus",
+        "\u2581crucified",
+        "Jesus",
+        "\u2581CHRIST",
+        "\u2581J\u00e9sus",
+        "\u2581Cristo",
+        "christ",
+        "\u2581christ"
+    ],
+    "description": "references to the Christian faith and theological concepts"
+}

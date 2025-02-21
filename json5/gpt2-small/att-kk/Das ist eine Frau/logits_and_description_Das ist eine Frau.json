@@ -1,0 +1,572 @@
+[
+    {
+        "index": "35355",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_35355.json",
+        "negative_strings": [
+            " Polo",
+            "bery",
+            " Guinness",
+            " appra",
+            " Scare",
+            " BM",
+            " Pers",
+            "berus",
+            " Civic",
+            "Newsletter"
+        ],
+        "positive_strings": [
+            "\u30c7\u30a3",
+            "usterity",
+            "ql",
+            "\"]=>",
+            "rete",
+            "eteenth",
+            "aden",
+            "\u30f4\u30a1",
+            "estate",
+            "uble"
+        ],
+        "description": "phrases indicating qualifications or essential roles"
+    },
+    {
+        "index": "9918",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_9918.json",
+        "negative_strings": [
+            " Rice",
+            " coral",
+            " turtles",
+            "Snake",
+            " CBD",
+            " Ghosts",
+            " Cotton",
+            " Jade",
+            " snakes",
+            " Feather"
+        ],
+        "positive_strings": [
+            " von",
+            "\u00df",
+            " mit",
+            "beit",
+            "\u00e4",
+            "\u00f6n",
+            "aten",
+            "\u00fcr",
+            "ellen",
+            " Bundes"
+        ],
+        "description": "phrases related to specific events in people\u2019s lives"
+    },
+    {
+        "index": "686",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_686.json",
+        "negative_strings": [
+            " \ufffd",
+            " Miami",
+            "SPONSORED",
+            " Lamar",
+            " Ricky",
+            " Vill",
+            " Venezuelan",
+            " apiece",
+            " Cao",
+            " $"
+        ],
+        "positive_strings": [
+            "\u00df",
+            "icht",
+            "itsch",
+            "sten",
+            "ffen",
+            "lich",
+            "\u00e4",
+            "\ufffd\ufffd",
+            "ische",
+            "lein"
+        ],
+        "description": " patterns and connections present in statistical or analytical data"
+    },
+    {
+        "index": "14013",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_14013.json",
+        "negative_strings": [
+            " coral",
+            " Baton",
+            " Louisiana",
+            " Cherokee",
+            " Mississ",
+            " coconut",
+            " Clippers",
+            " Korra",
+            " Mayweather",
+            " reefs"
+        ],
+        "positive_strings": [
+            " German",
+            " Bundes",
+            "Germany",
+            " Germany",
+            " Munich",
+            "German",
+            " Bundesliga",
+            " Bav",
+            " Germans",
+            " Cologne"
+        ],
+        "description": " instances of significant historical events or notable figures"
+    },
+    {
+        "index": "4237",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_4237.json",
+        "negative_strings": [
+            "ococ",
+            "683",
+            "webkit",
+            " Poker",
+            " QC",
+            "roup",
+            " Osaka",
+            "kB",
+            "690",
+            " Manz"
+        ],
+        "positive_strings": [
+            " DD",
+            "DD",
+            "DL",
+            "dor",
+            "DR",
+            "DM",
+            "DN",
+            "DS",
+            "DF",
+            "D"
+        ],
+        "description": "terms and phrases related to academic institutions and personnel"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "1232",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_1232.json",
+        "negative_strings": [
+            "wagen",
+            "omorphic",
+            " tremend",
+            " metic",
+            " mosqu",
+            " gobl",
+            " satell",
+            " exting",
+            " proport",
+            " cryst"
+        ],
+        "positive_strings": [
+            "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+            "\u2014\u2014\u2014\u2014",
+            "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+            "\u2022\u2022",
+            "\u2014\u2014",
+            " Ibid",
+            "Marginal",
+            "}\"",
+            "\u24d8",
+            " Continued"
+        ],
+        "description": "temperature and weather information, possibly related to different months or locations"
+    },
+    {
+        "index": "1496",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_1496.json",
+        "negative_strings": [
+            "EStream",
+            "FML",
+            "awaru",
+            "\u314b",
+            "\ufffd\ufffd",
+            " prof",
+            " Pastebin",
+            " DRAG",
+            " SERV",
+            " penetrating"
+        ],
+        "positive_strings": [
+            "atten",
+            "oma",
+            "ica",
+            "iking",
+            "ationally",
+            "umeric",
+            "early",
+            "ichi",
+            "oha",
+            "acht"
+        ],
+        "description": "names of people"
+    },
+    {
+        "index": "43846",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_43846.json",
+        "negative_strings": [
+            " Surveillance",
+            " Rider",
+            "crime",
+            "licensed",
+            " steroids",
+            " sweats",
+            " taxis",
+            " ordinances",
+            " surveillance",
+            " killer"
+        ],
+        "positive_strings": [
+            "rief",
+            "tions",
+            "hesis",
+            "etus",
+            "enario",
+            "enture",
+            "llo",
+            " objection",
+            " congress",
+            " podium"
+        ],
+        "description": "colons followed by statements or quotes"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "8520",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_8520.json",
+        "negative_strings": [
+            " Nord",
+            "isSpecialOrderable",
+            " Schne",
+            "FN",
+            " oath",
+            " boasts",
+            "Choice",
+            " broch",
+            "ENG",
+            " advis"
+        ],
+        "positive_strings": [
+            " complications",
+            " ):",
+            "\ufffd\ufffd\ufffd",
+            " isEnabled",
+            "arry",
+            " reuse",
+            "xxxxxxxx",
+            "intage",
+            " ware",
+            "\u30b4\u30f3"
+        ],
+        "description": " phrases related to political commentary and communications"
+    },
+    {
+        "index": "12262",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_12262.json",
+        "negative_strings": [
+            " ----------------------------------------------------------------",
+            "gery",
+            " Figure",
+            "--------------------------------",
+            "////////////////////////////////",
+            " Pyr",
+            "============",
+            " Appendix",
+            " http",
+            "ework"
+        ],
+        "positive_strings": [
+            "BuyableInstoreAndOnline",
+            "interstitial",
+            "\u30bc",
+            " tiss",
+            "phrine",
+            "itars",
+            "culosis",
+            "stocks",
+            "achev",
+            "osterone"
+        ],
+        "description": "elements related to advertisements and provides contextual information about them"
+    },
+    {
+        "index": "33828",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_33828.json",
+        "negative_strings": [
+            " Flavoring",
+            "Buzz",
+            "rity",
+            "Publisher",
+            " cheered",
+            " Rounds",
+            "Stars",
+            " lasted",
+            " ranks",
+            "Jake"
+        ],
+        "positive_strings": [
+            " wra",
+            "uci",
+            "ivable",
+            " Hamm",
+            "uni",
+            "pelling",
+            " Nun",
+            " Sorceress",
+            "ealing",
+            "ropri"
+        ],
+        "description": " sentences that include punctuation marks, particularly commas"
+    },
+    {
+        "index": "30662",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_30662.json",
+        "negative_strings": [
+            "CTV",
+            "wav",
+            "vity",
+            "icago",
+            "ewitness",
+            "anon",
+            "ths",
+            "riter",
+            "ochond",
+            "\u00af\u00af"
+        ],
+        "positive_strings": [
+            " lucrative",
+            " upside",
+            " portfolios",
+            " reins",
+            " strategic",
+            " potential",
+            " investments",
+            " juicy",
+            " approving",
+            " possibilities"
+        ],
+        "description": "instances of planning or consideration regarding future actions or decisions"
+    },
+    {
+        "index": "20826",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_20826.json",
+        "negative_strings": [
+            "Reviewed",
+            "repeat",
+            "masters",
+            "Repeat",
+            "opausal",
+            "eering",
+            "ulator",
+            "eters",
+            "roll",
+            "queue"
+        ],
+        "positive_strings": [
+            " pedestrian",
+            " deserts",
+            " Bil",
+            " abandoned",
+            " charred",
+            " landsl",
+            " debts",
+            " Seas",
+            " suicides",
+            "eatures"
+        ],
+        "description": "the word 'just' with a focus on variations and instances of the term"
+    },
+    {
+        "index": "6093",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_6093.json",
+        "negative_strings": [
+            " plank",
+            "estern",
+            " precept",
+            " Shank",
+            " confidently",
+            " gentleman",
+            "ensibly",
+            " lumin",
+            " Yen",
+            " srfAttach"
+        ],
+        "positive_strings": [
+            "mone",
+            "hack",
+            "\u30b4\u30f3",
+            "\ufffd\ufffd\u6975",
+            "inventoryQuantity",
+            "Politics",
+            "agy",
+            "angered",
+            "iqueness",
+            "indu"
+        ],
+        "description": "references to specific transportation projects"
+    },
+    {
+        "index": "19659",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_19659.json",
+        "negative_strings": [
+            " Peru",
+            " Lima",
+            " Manila",
+            " Indigenous",
+            " Trudeau",
+            " Venezuelan",
+            " Mao",
+            " Venezuela",
+            " Ecuador",
+            "Brazil"
+        ],
+        "positive_strings": [
+            "icht",
+            "lich",
+            " Bundes",
+            "beit",
+            "isch",
+            "gew",
+            "ische",
+            " Zur",
+            " von",
+            "ohl"
+        ],
+        "description": " expressions related to significant societal events or actions"
+    },
+    {
+        "index": "5681",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_5681.json",
+        "negative_strings": [
+            "foundland",
+            "EStream",
+            "\ufffd\ufffd",
+            " carbohyd",
+            " transitions",
+            " faculties",
+            " pockets",
+            " susp",
+            "achev",
+            "allery"
+        ],
+        "positive_strings": [
+            "othe",
+            "ot",
+            "aken",
+            "ach",
+            "ractor",
+            "hes",
+            "olkien",
+            "ruck",
+            "aker",
+            "oxin"
+        ],
+        "description": "links to Twitter posts"
+    },
+    {
+        "index": "6312",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ist eine Frau/data_for_feature_6312.json",
+        "negative_strings": [
+            "\u30fc\u30f3",
+            "\ufffd\u58eb",
+            "pheus",
+            "\u30fc\u30c6",
+            "\u30c7\u30a3",
+            " levers",
+            "\ufffd",
+            "\ufffd",
+            "arsity",
+            " 2030"
+        ],
+        "positive_strings": [
+            "etheless",
+            "terness",
+            "theless",
+            "ccording",
+            "enhagen",
+            "nce",
+            "NetMessage",
+            "ctive",
+            "cipled",
+            "lihood"
+        ],
+        "description": "phrases related to various subjects like environmental projections, e-commerce, slang terminology, and legal case details"
+    }
+]

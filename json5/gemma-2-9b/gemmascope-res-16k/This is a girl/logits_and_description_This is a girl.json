@@ -1,0 +1,422 @@
+[
+    {
+        "index": "5803",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_5803.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u2581Thane",
+            "fjspx",
+            "\u2581vela",
+            "}{*}{}",
+            "\u2581LIABLE",
+            "\u2581menn",
+            "Bris",
+            "st\u00e5ende",
+            "\u2581Anson"
+        ],
+        "positive_strings": [
+            "girls",
+            "\u2581girls",
+            "\u2581Girls",
+            "\u2581scout",
+            "\u2581Girl",
+            "\u2581meisjes",
+            "Girl",
+            "girl",
+            "\u2581GIRLS",
+            "\ud83d\udc67"
+        ],
+        "description": "references to characters, specifically girls and boys in various contexts"
+    },
+    {
+        "index": "4626",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_4626.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "\u2581mergeFrom",
+            "msgSender",
+            "Personensuche",
+            "\u2581linkovi",
+            "Autowired",
+            "BeginInit",
+            "UnknownFields",
+            "</thead>",
+            "isContained"
+        ],
+        "positive_strings": [
+            "Boy",
+            "\u2581Girl",
+            "Girl",
+            "boy",
+            "girl",
+            "\u2581scout",
+            "\u2581Girls",
+            "Girls",
+            "boys",
+            "\u2581scouts"
+        ],
+        "description": "references to boys and girls, particularly in contexts relating to gender dynamics"
+    },
+    {
+        "index": "7228",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_7228.json",
+        "negative_strings": [
+            "\u2581mergeFrom",
+            "\u2581EconPapers",
+            "\u2581linkovi",
+            "Personensuche",
+            "Autowired",
+            "</thead>",
+            "n\u00e4r",
+            "UnknownFields",
+            "BeginInit",
+            "\u2581unknownFields"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Girl",
+            "Girl",
+            "Boy",
+            "boy",
+            "girl",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "\u2581Boy"
+        ],
+        "description": "mentions of gendered terms, specifically related to boys and girls"
+    },
+    {
+        "index": "3470",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_3470.json",
+        "negative_strings": [
+            "Autowired",
+            "\u2581Italijanski",
+            "Personensuche",
+            "msgSender",
+            "\u2581EconPapers",
+            "</thead>",
+            "\u2581linkovi",
+            "\u2581mergeFrom",
+            "n\u00e4r",
+            "\u2581damska"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "scout",
+            "Boy",
+            "friend",
+            "FRIEND",
+            "Scout",
+            "\u2581Girl"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "2207",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_2207.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "Personensuche",
+            "\u2581linkovi",
+            "\u2581Inf\u00f3rmanos",
+            "\\{\\\\",
+            "\u2581mergeFrom",
+            "featureID",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "FunctionFlags",
+            "\u2581unknownFields"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "FRIEND",
+            "\u2581Scout",
+            "boss",
+            "scout",
+            "hood",
+            "friend",
+            "friends"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "81",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_81.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "</thead>",
+            "Tembelea",
+            "FunctionFlags",
+            "\u2581cucchiai",
+            "\u2581Bi\u00f4grafia",
+            "\u2581BoxFit",
+            "AutoScaleMode",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "xus"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "scout",
+            "FRIEND",
+            "Scout",
+            "couts",
+            "hood",
+            "band"
+        ],
+        "description": "references to boys and girls in various contexts"
+    },
+    {
+        "index": "11613",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_11613.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "\u2581mergeFrom",
+            "\u2581linkovi",
+            "AutoScaleMode",
+            "tagHelperRunner",
+            "Autowired",
+            "msgSender",
+            "n\u00e4r",
+            "unknownFields",
+            "\u2581unknownFields"
+        ],
+        "positive_strings": [
+            "Boy",
+            "\u2581Boy",
+            "boy",
+            "\u2581BOY",
+            "\u2581boy",
+            "\u2581Girl",
+            "\u2581scout",
+            "Girl",
+            "\u2581scouts",
+            "boys"
+        ],
+        "description": "references to the term \"boy\" in various contexts"
+    },
+    {
+        "index": "2902",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_2902.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "AutoScaleMode",
+            "Personensuche",
+            "Tembelea",
+            "\\{\\\\",
+            "\u2581linkovi",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "inSlope",
+            "protoimpl"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "FRIEND",
+            "scout",
+            "cout",
+            "hood",
+            "Scout",
+            "friend"
+        ],
+        "description": "references to boys and gender in various contexts"
+    },
+    {
+        "index": "821",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_821.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581EconPapers",
+            "Personensuche",
+            "\u2581linkovi",
+            "\u2581mergeFrom",
+            "AutoScaleMode",
+            "\\{\\\\",
+            "\u2581Italijanski",
+            "Autowired",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438"
+        ],
+        "positive_strings": [
+            "\u2581scouts",
+            "\u2581scout",
+            "\u2581Scouts",
+            "\u2581Scout",
+            "FRIEND",
+            "scout",
+            "Boy",
+            "girl",
+            "\u2581Girl",
+            "Girl"
+        ],
+        "description": "references to \"boy\" and gender distinction concepts"
+    },
+    {
+        "index": "11790",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_11790.json",
+        "negative_strings": [
+            "annica",
+            "})();\r",
+            "\u2581AspNetCore",
+            "Forge",
+            ".*\")]",
+            "\u2581anh\u00e4nger",
+            "\\{\\\\",
+            "yntaxException",
+            "\u2581linkovi",
+            "\u2581EconPapers"
+        ],
+        "positive_strings": [
+            "Boy",
+            "boy",
+            "\u2581Boy",
+            "boys",
+            "\u2581BOY",
+            "\u2581boy",
+            "\u2581boys",
+            "Boys",
+            "BOY",
+            "\u2581scout"
+        ],
+        "description": " references to males and boys in various contexts"
+    },
+    {
+        "index": "6588",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_6588.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581male",
+            "\u2581males",
+            "URLException",
+            "\u2581damski",
+            "\u2581p\u00e1ns",
+            "\u2581d\u00e1msk\u00e9",
+            "\u2581men",
+            "\u2581m\u00e2le",
+            "\u2581cowok"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "volent",
+            "\u2581Empowerment",
+            "hood",
+            "\u2581suffrage",
+            "\u2581entrepreneurs",
+            "\u2581entrepreneur",
+            "\u2581fatale",
+            "\u2581mittleren"
+        ],
+        "description": "references to women's involvement and representation in various contexts"
+    },
+    {
+        "index": "11790",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_11790.json",
+        "negative_strings": [
+            "annica",
+            "})();\r",
+            "\u2581AspNetCore",
+            "Forge",
+            ".*\")]",
+            "\u2581anh\u00e4nger",
+            "\\{\\\\",
+            "yntaxException",
+            "\u2581linkovi",
+            "\u2581EconPapers"
+        ],
+        "positive_strings": [
+            "Boy",
+            "boy",
+            "\u2581Boy",
+            "boys",
+            "\u2581BOY",
+            "\u2581boy",
+            "\u2581boys",
+            "Boys",
+            "BOY",
+            "\u2581scout"
+        ],
+        "description": " references to males and boys in various contexts"
+    },
+    {
+        "index": "9813",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_9813.json",
+        "negative_strings": [
+            "\u2581Berne",
+            "()]\r",
+            "UnknownFields",
+            "});\r\r",
+            "\u2581Diane",
+            "cerely",
+            "insegna",
+            "\u2581n\u00e4m",
+            "Diane",
+            "\u2581Cane"
+        ],
+        "positive_strings": [
+            "\u2581girls",
+            "Girls",
+            "\u2581Girls",
+            "Girl",
+            "boys",
+            "Boy",
+            "girls",
+            "\u2581Girl",
+            "girl",
+            "\u2581girl"
+        ],
+        "description": "references to gender-specific terms related to boys and girls"
+    },
+    {
+        "index": "14886",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a girl/data_for_feature_14886.json",
+        "negative_strings": [
+            "\u2581Berne",
+            "});\r\r",
+            "omethane",
+            "\u2581EconPapers",
+            "()]\r",
+            "memoized",
+            "anyahu",
+            "\u2581Cane",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "UALA"
+        ],
+        "positive_strings": [
+            "\u2581girls",
+            "\u2581Girls",
+            "Girls",
+            "\u2581meisjes",
+            "girls",
+            "Girl",
+            "\u2581GIRLS",
+            "girl",
+            "\u2581girl",
+            "\u2581Girl"
+        ],
+        "description": "references to female characters and themes related to girls"
+    }
+]

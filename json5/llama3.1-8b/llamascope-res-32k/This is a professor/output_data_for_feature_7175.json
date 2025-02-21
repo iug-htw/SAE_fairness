@@ -1,0 +1,30 @@
+{
+    "index": "7175",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_7175.json",
+    "negative_strings": [
+        "ough",
+        "iscard",
+        "\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
+        "orph",
+        "edin",
+        "lish",
+        "edes",
+        "edd",
+        "ensed",
+        "\u00c3\u00b3t"
+    ],
+    "positive_strings": [
+        "ial",
+        "ship",
+        "ships",
+        " Emer",
+        "iate",
+        " em",
+        "Emer",
+        "SHIP",
+        "IAL",
+        "hip"
+    ],
+    "description": " mentions of academic titles and associated fields of study"
+}

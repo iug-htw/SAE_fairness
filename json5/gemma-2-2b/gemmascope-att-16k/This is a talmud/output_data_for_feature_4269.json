@@ -1,0 +1,30 @@
+{
+    "index": "4269",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a talmud/data_for_feature_4269.json",
+    "negative_strings": [
+        "ViewFeatures",
+        "WriteTagHelper",
+        "']=$",
+        "igert",
+        "\u2581CreateTagHelper",
+        "\u2581Seuss",
+        "Leftrightarrow",
+        "quake",
+        "\u0119kuj\u0119",
+        "\u2581Widodo"
+    ],
+    "positive_strings": [
+        "\u2581tartalomaj\u00e1nl\u00f3",
+        "\u2581Tame",
+        "^(@)",
+        "\u2581Kr\u00f3",
+        "pendientes",
+        "\u2581Enid",
+        "\u2581Efq",
+        "\u2581\u00e9tui",
+        "\u2581regno",
+        "\u00fcrze"
+    ],
+    "description": " attends to tokens that signify actions or states from tokens that represent objects or subjects"
+}

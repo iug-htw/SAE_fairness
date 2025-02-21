@@ -1,0 +1,30 @@
+{
+    "index": "24789",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_24789.json",
+    "negative_strings": [
+        "Licensed",
+        " ConfigureServices",
+        " ngh\u00e1\u00bb\u0123",
+        "-pencil",
+        "abilidad",
+        "po\u00c4\u012fet",
+        "histoire",
+        "eeper",
+        "orio",
+        "tridge"
+    ],
+    "positive_strings": [
+        " forces",
+        "-controlled",
+        "-aligned",
+        "-backed",
+        "-led",
+        "-aff",
+        "-held",
+        "-sponsored",
+        "-linked",
+        " Forces"
+    ],
+    "description": "references to terrorist groups and related conflicts"
+}

@@ -1,0 +1,404 @@
+[
+    {
+        "index": "57582",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_57582.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to explosive devices, including bombs, grenades, and explosives, often in the context of violent acts, military actions, or terrorist attacks."
+    },
+    {
+        "index": "26477",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_26477.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "News articles including crime reports, accident reports, sports, politics, and terrorist attacks."
+    },
+    {
+        "index": "29028",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_29028.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"beng\" or \"bung\" often referring to Benghazi, a city in Libya, associated with a terrorist attack and subsequent controversy."
+    },
+    {
+        "index": "11304",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_11304.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "tagHelperRunner",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581autorytatywna",
+            "NameInMap",
+            "ResumeLayout",
+            "AppMethodBeat",
+            "queryInterface",
+            "\u2581rheumatism",
+            "\u2581difp"
+        ],
+        "positive_strings": [
+            "\u2581attack",
+            "\u2581attacks",
+            "\u2581terrorist",
+            "\u2581attackers",
+            "\u2581terror",
+            "\u2581Attacks",
+            "\u2581terrorists",
+            "\u2581ATTACK",
+            "\u2581terrorism",
+            "\u2581Attack"
+        ],
+        "description": "references to terrorism and terrorist-related activities"
+    },
+    {
+        "index": "3903",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_3903.json",
+        "negative_strings": [
+            "WithIOException",
+            "\u2581getchar",
+            "mybatisplus",
+            "\u2581beroep",
+            "\u2581Signalez",
+            "\u2581$_[",
+            "\u2581zetten",
+            "\u2581otomatig",
+            "RenderAtEndOf",
+            "knex"
+        ],
+        "positive_strings": [
+            "\u2581terrorist",
+            "\u2581terrorists",
+            "\u2581terror",
+            "terror",
+            "\u2581terrorism",
+            "\u2581extremist",
+            "\u2581militants",
+            "\u2581militant",
+            "\u2581radical",
+            "\u2581ji"
+        ],
+        "description": "Prevalent usage of words related to violence, terrorism, and war, especially those referring to terrorist organizations, conflicts, and ideologies."
+    },
+    {
+        "index": "116268",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_116268.json",
+        "negative_strings": [
+            "RTSN",
+            "tagHelperRunner",
+            "InjectAttribute",
+            "TES",
+            "hesda",
+            "\u2581TES",
+            "\u2581terap",
+            "\u2581\u00e9lectroniques",
+            "\u2581temperance",
+            "\u2581bitter"
+        ],
+        "positive_strings": [
+            "\u2581attacks",
+            "izing",
+            "\u2581financing",
+            "\u2581organizations",
+            "\u2581attack",
+            "istic",
+            "\u2581acts",
+            "\u2581Organisationen",
+            "\u2581groups",
+            "\u2581organisations"
+        ],
+        "description": "terms related to terrorism and terrorist activities"
+    },
+    {
+        "index": "89191",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_89191.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of extremist groups, terrorist organizations, and Islamic concepts."
+    },
+    {
+        "index": "57590",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_57590.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Dates, names of notable figures involved in terrorist activities, and locations related to significant events, including terrorist attacks."
+    },
+    {
+        "index": "58735",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_58735.json",
+        "negative_strings": [
+            "adpleegd",
+            "\u2581okol",
+            "\u2581&___",
+            "\u2581laborales",
+            "\u2581t\u00f6\u00f6",
+            "getvalue",
+            "\u2581padat",
+            "\u2581pieles",
+            "principalColumn",
+            "\u00e1ndola"
+        ],
+        "positive_strings": [
+            "\u2581Haram",
+            "\u2581haram",
+            "\u2581sect",
+            "\u2581Sect",
+            "\u2581Boko",
+            "Sect",
+            "AndEndTag",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "+#+",
+            "Har"
+        ],
+        "description": " references to the terrorist group Boko Haram and related violence"
+    },
+    {
+        "index": "16161",
+        "layer": "37-gemmascope-res-131k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_16161.json",
+        "negative_strings": [
+            "adpleegd",
+            "principalColumn",
+            "\u2581nakalista",
+            "\u2581laborales",
+            "\u2581Chwiliwch",
+            "\u2581Wikimedijinoj",
+            "\u2581propOrder",
+            "\u2581Roskov",
+            "\u2581padat",
+            "duto"
+        ],
+        "positive_strings": [
+            "\u2581Haram",
+            "\u2581sect",
+            "\u2581Sect",
+            "\u2581haram",
+            "Sect",
+            "AndEndTag",
+            "\u2581sects",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Boys",
+            "nikon"
+        ],
+        "description": " mentions of terrorist groups and their actions"
+    },
+    {
+        "index": "104269",
+        "layer": "31-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_104269.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variations of the \"Ka\" or \"Qa\" token in different contexts, often within proper nouns or names, and sometimes in relation to terrorist organizations or geographical locations."
+    },
+    {
+        "index": "21625",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_21625.json",
+        "negative_strings": [
+            "adpleegd",
+            "GEBURTSDATUM",
+            "tifier",
+            ".*\")]",
+            "\u2581onPostExecute",
+            "\u2581otomatig",
+            "posedge",
+            "createClass",
+            "\u2581getchar",
+            "ButtonModule"
+        ],
+        "positive_strings": [
+            "\u2581Haram",
+            "\u2581insurgents",
+            "\u2581terrorists",
+            "\u2581insurgency",
+            "\u2581haram",
+            "\u2581extremists",
+            "\u2581Terror",
+            "\u2581terrorist",
+            "\u2581extremist",
+            "\u2581Sect"
+        ],
+        "description": "references to terrorist organizations and related violent activities"
+    },
+    {
+        "index": "53652",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_53652.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "tagHelperRunner",
+            "nestjs",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u0622\u0645\u0628\u0627\u0631\u062f\u0627",
+            "SequentialGroup",
+            "djangoproject",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581surplus",
+            "Glow",
+            "\u2581Glow"
+        ],
+        "positive_strings": [
+            "\u2581suicide",
+            "\u2581attack",
+            "\u2581attackers",
+            "\u2581blasts",
+            "\u2581Attack",
+            "Attack",
+            "\u2581attacker",
+            "\u2581blast",
+            "\u2581bombings",
+            "\u2581attacks"
+        ],
+        "description": "references to terrorist attacks and related incidents"
+    },
+    {
+        "index": "2911",
+        "layer": "24-gemmascope-res-16k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_2911.json",
+        "negative_strings": [
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "HasBeenSet",
+            "\u2581Autorisations",
+            "gnen",
+            "\u2581Skip",
+            "\u2581surplus",
+            "PROS",
+            "\u0646\u0632",
+            "\u2581priv\u00e9es",
+            "Skip"
+        ],
+        "positive_strings": [
+            "\u2581attack",
+            "\u2581attacks",
+            "attack",
+            "\u2581Attack",
+            "\u2581Attacks",
+            "\u2581attackers",
+            "\u2581attacker",
+            "\u2581ATTACK",
+            "Attack",
+            "attacks"
+        ],
+        "description": "references to terrorist activities and attacks"
+    },
+    {
+        "index": "102600",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_102600.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token is associated with the concept of terrorism, including words such as \"terror\", \"terrorism\", and \"terrorist\", often appearing in contexts related to war, violence, and fear, but also occasionally used in non-terrorism related contexts."
+    },
+    {
+        "index": "9453",
+        "layer": "24-gemmascope-res-16k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_9453.json",
+        "negative_strings": [
+            "\u2581newOwner",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581FBref",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "GeoNames",
+            "\u2581propOrder",
+            "\u2581\u00e2mes",
+            "findpost",
+            "\u2581Autorisations",
+            "\u2581'\\\\;'"
+        ],
+        "positive_strings": [
+            "\u2581fighters",
+            "\u2581terrorist",
+            "\u2581recruits",
+            "\u2581militant",
+            "\u2581sleeper",
+            "\u2581recruitment",
+            "\u2581terror",
+            "\u2581radical",
+            "\u2581recruiting",
+            "\u2581militants"
+        ],
+        "description": "references to terrorist organizations and activities related to violence and extremism"
+    },
+    {
+        "index": "7233",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_7233.json",
+        "negative_strings": [
+            "\u2581correctes",
+            "Allocator",
+            "Manbalar",
+            "\u2581Province",
+            "\u0626\u06cc\u0646",
+            "isContained",
+            "vably",
+            "\u2581partition",
+            "\u2581RoutedEventArgs",
+            "\u2581province"
+        ],
+        "positive_strings": [
+            "\u2581Qaeda",
+            "Qaeda",
+            "KommentareTeilen",
+            "HasAnnotation",
+            "\u2581varandra",
+            "ituary",
+            "\u2581trygg",
+            "\u2581queda",
+            "queda",
+            "\u2581Audiodateien"
+        ],
+        "description": " references to terrorist organizations or groups"
+    },
+    {
+        "index": "1791",
+        "layer": "39-gemmascope-res-16k",
+        "url": "json/gemma-scope/terrorist/data_for_feature_1791.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581cuenca",
+            "\u2581zetten",
+            "queryInterface",
+            "knex",
+            "\u2581trekken",
+            "\u2581sagesse",
+            "\u00e4nien",
+            "AppMethodBeat"
+        ],
+        "positive_strings": [
+            "\u2581terrorist",
+            "\u2581terrorism",
+            "\u2581terrorists",
+            "\u2581terror",
+            "\u2581Terror",
+            "terror",
+            "Terror",
+            "\u2581Terrorism",
+            "terrorism",
+            "\u2581\u0442\u0435\u0440\u0440\u043e"
+        ],
+        "description": "references to terrorist activities and security measures related to them"
+    },
+    {
+        "index": "124894",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_124894.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of terrorist groups, organizations, and people associated with extremist activities, as well as words and phrases related to violence, war, and conflict."
+    },
+    {
+        "index": "116437",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/terrorist/data_for_feature_116437.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Patterns of language surrounding explosives, terrorism, and related violent activities, such as bombings, possession of firearms, and destructive devices, as well as mentions of terrorists, suspects, and threats to national security."
+    }
+]

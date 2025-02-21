@@ -1,0 +1,602 @@
+[
+    {
+        "index": "122032",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_122032.json",
+        "negative_strings": [
+            "uitka",
+            "tti",
+            "ystone",
+            "IVES",
+            "akest",
+            "ponder",
+            "kening",
+            "mse",
+            "\u00c3\u0143cia",
+            "\u00eb\u00b0\u012f"
+        ],
+        "positive_strings": [
+            "ral",
+            "char",
+            "red",
+            "rist",
+            "ros",
+            "RED",
+            "ram",
+            "raf",
+            "ramento",
+            "rement"
+        ],
+        "description": "references to the concept of \"sacred\" or \"sacramental.\""
+    },
+    {
+        "index": "90155",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_90155.json",
+        "negative_strings": [
+            "\u012c",
+            " Telegraph",
+            "890",
+            "oca",
+            "Structured",
+            "appen",
+            "ngle",
+            " Pillow",
+            "zure",
+            "\u00e5\u00ba\u00a6"
+        ],
+        "positive_strings": [
+            "ental",
+            "ents",
+            "ent",
+            "entine",
+            "enta",
+            "enter",
+            "\u00d0\u00b5\u00d0\u00bd\u00d1\u0124",
+            "\u00d0\u00b5\u00d0\u00bd\u00d1\u0124\u00d0\u00b0",
+            "ers",
+            "ENTS"
+        ],
+        "description": "themes related to religious ceremonies and sacraments"
+    },
+    {
+        "index": "36167",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_36167.json",
+        "negative_strings": [
+            "tti",
+            "IMATION",
+            "ystone",
+            "\u00c3\u00a6kke",
+            "kening",
+            " endforeach",
+            "ponder",
+            "uitka",
+            "ustin",
+            "ho"
+        ],
+        "positive_strings": [
+            "ral",
+            "red",
+            "ros",
+            "char",
+            "ram",
+            "rum",
+            "raf",
+            "rif",
+            "ramento",
+            "RED"
+        ],
+        "description": " references to the concept of \"sacred\" or \"sacraments.\""
+    },
+    {
+        "index": "84970",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_84970.json",
+        "negative_strings": [
+            "es",
+            " Rivera",
+            "okrat",
+            "esco",
+            "\u00e9\u0133",
+            "\u00e9\u012e",
+            "rikes",
+            " scales",
+            "argon",
+            "nings"
+        ],
+        "positive_strings": [
+            "ental",
+            "ents",
+            "ram",
+            "ent",
+            "rat",
+            "rats",
+            "raud",
+            "esson",
+            "entine",
+            ":\"-\"`\n"
+        ],
+        "description": "terms related to religious themes, sacramental concepts, and the idea of sacredness"
+    },
+    {
+        "index": "1070",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_1070.json",
+        "negative_strings": [
+            " continent",
+            "continent",
+            " mitochond",
+            "amera",
+            " Nation",
+            " digit",
+            ".mybatis",
+            " \u00e0\u00a4\u0137\u00e0\u00a4\u00ac",
+            "abwe",
+            "bolt"
+        ],
+        "positive_strings": [
+            "inal",
+            "onal",
+            "ural",
+            "ional",
+            "ational",
+            "unal",
+            "oral",
+            "iral",
+            "ental",
+            "ential"
+        ],
+        "description": " terms related to sacramental concepts and relationships"
+    },
+    {
+        "index": "16898",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_16898.json",
+        "negative_strings": [
+            "279",
+            "akah",
+            "ActivityResult",
+            "Monad",
+            " \u00d0\u00b7\u00d0\u00b0\u00d1\u0123\u00d1\u0124",
+            "\u00ce\u00ac\u00ce\u00bd\u00cf\u0126\u00ce\u00b1",
+            " \u00e5\u00a6",
+            "argon",
+            "onna",
+            "incess"
+        ],
+        "positive_strings": [
+            " Bapt",
+            " baptism",
+            " bat",
+            " Bat",
+            " bapt",
+            "\u00e6\u012a\u0132\u00e4\u00ba\u00ba",
+            " sponsors",
+            " chr",
+            "bat",
+            " font"
+        ],
+        "description": " references to religious rituals and traditions, particularly baptism and sacraments"
+    },
+    {
+        "index": "75912",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_75912.json",
+        "negative_strings": [
+            "\u00e1\u00bb\u0133n",
+            "s\u00c3\u0143",
+            "RuleContext",
+            "cosity",
+            " Nicholson",
+            "oba",
+            " \u00ce\u013c\u00ce\u00ac",
+            "eva",
+            " Bieber",
+            "ioned"
+        ],
+        "positive_strings": [
+            " Comm",
+            " Conf",
+            " confession",
+            " pen",
+            " abs",
+            " Extreme",
+            " Holy",
+            " Confirmation",
+            " Sac",
+            "Comm"
+        ],
+        "description": " contexts related to religious ceremonies and sacraments"
+    },
+    {
+        "index": "77793",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_77793.json",
+        "negative_strings": [
+            "a\u00c4\u0141",
+            "InSection",
+            "AGIC",
+            "tone",
+            "AGMA",
+            "\u00d0\u00b5\u00d0\u00ba\u00d1\u0123\u00d0\u00b8",
+            "tit",
+            "o\u00c5\u013b",
+            "LBL",
+            "onom"
+        ],
+        "positive_strings": [
+            "ram",
+            "Ram",
+            "RAM",
+            " ram",
+            " Ram",
+            "rams",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00bc",
+            " RAM",
+            "raman",
+            "aments"
+        ],
+        "description": " references to religious or spiritual themes, particularly those involving sacraments"
+    },
+    {
+        "index": "28023",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_28023.json",
+        "negative_strings": [
+            "iors",
+            "ings",
+            " constitu",
+            "pri",
+            " Rivera",
+            "iverse",
+            "combe",
+            "pute",
+            "837",
+            "\u00e9\u0133"
+        ],
+        "positive_strings": [
+            "ental",
+            "ent",
+            "ents",
+            "entine",
+            "ardy",
+            "rats",
+            " ent",
+            "ENT",
+            "ented",
+            "\u00d0\u00b5\u00d0\u00bd\u00d1\u0124\u00d0\u00be\u00d0\u00bc"
+        ],
+        "description": " references to religious rituals or sacraments"
+    },
+    {
+        "index": "18743",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_18743.json",
+        "negative_strings": [
+            " Ventures",
+            "argon",
+            "illisecond",
+            "vd",
+            "/Foundation",
+            "\u00c3\u00a9fono",
+            "moil",
+            "ospel",
+            "Tween",
+            ".Foundation"
+        ],
+        "positive_strings": [
+            " Comm",
+            " bread",
+            " Bread",
+            " Sac",
+            " communion",
+            " communic",
+            "Comm",
+            " E",
+            " Communication",
+            " Body"
+        ],
+        "description": " concepts related to sacraments and their significance, particularly in the context of Christian marriage"
+    },
+    {
+        "index": "96732",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_96732.json",
+        "negative_strings": [
+            "\u00c4\u00b1rak",
+            "agar",
+            " Rivera",
+            "iverse",
+            " Rosenstein",
+            "iors",
+            "combe",
+            "uy\u00e1\u00ba\u00bfn",
+            "zung",
+            "es"
+        ],
+        "positive_strings": [
+            "ental",
+            "ram",
+            "entarios",
+            "ardy",
+            "otal",
+            "ent",
+            "rat",
+            "\u00e3\u0123\u012d\u00e3\u0124\u012d",
+            "ismatic",
+            "ritical"
+        ],
+        "description": " terms related to religious or spiritual concepts, particularly those referencing sacraments"
+    },
+    {
+        "index": "31769",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_31769.json",
+        "negative_strings": [
+            " sil",
+            "uD",
+            "\u00e0\u00b8\u00b1\u00e0\u00b8\u013b\u00e0\u00b8\u013a",
+            "loff",
+            "angel",
+            " rau",
+            " ApplicationController",
+            "\u00d0\u00b2\u00d0\u00be\u00d1\u0130",
+            "imli",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00bc"
+        ],
+        "positive_strings": [
+            " confession",
+            " Conf",
+            " Confirmation",
+            " cate",
+            " conf",
+            " Bapt",
+            " RC",
+            "cate",
+            "Confirmation",
+            "-conf"
+        ],
+        "description": " references to religious sacramental rites and related concepts"
+    },
+    {
+        "index": "49271",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_49271.json",
+        "negative_strings": [
+            "aled",
+            "\u00d1\u0125\u00d0\u00b2",
+            " Suche",
+            "\u00d1\u0124\u00d1\u0131",
+            "orman",
+            "cam",
+            "uality",
+            "ska",
+            "ennes",
+            "ping"
+        ],
+        "positive_strings": [
+            "union",
+            " union",
+            " UNION",
+            " Union",
+            "Union",
+            "uble",
+            "\u00d0\u00b5\u00d1\u0128",
+            "inion",
+            "i\u00c3\u00b3n",
+            " unions"
+        ],
+        "description": " references to religious ceremonies and sacraments"
+    },
+    {
+        "index": "3579",
+        "layer": "19-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_3579.json",
+        "negative_strings": [
+            "ifecycle",
+            "cott",
+            "ister",
+            "\u00eb\u00a7\u0123",
+            "\u00e7\u00b0",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u0129",
+            "ouro",
+            "ahoo",
+            "935",
+            "ture"
+        ],
+        "positive_strings": [
+            "atchewan",
+            "apult",
+            "ramento",
+            "ilege",
+            "ittal",
+            "ificial",
+            " Gors",
+            "oplan",
+            "amoto",
+            "ifice"
+        ],
+        "description": "references to \"sacred\" or \"sacramental\" concepts"
+    },
+    {
+        "index": "85414",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_85414.json",
+        "negative_strings": [
+            "agar",
+            "cu",
+            "iverse",
+            "ixon",
+            "imore",
+            "\u00c4\u00b1rak",
+            "unde",
+            "IVATE",
+            "structor",
+            " Rivera"
+        ],
+        "positive_strings": [
+            "ental",
+            "rement",
+            "aldi",
+            "NAL",
+            "ady",
+            "ally",
+            " Colonial",
+            "ojis",
+            "ptive",
+            "\u00bf"
+        ],
+        "description": " religious references and terminology related to rituals or sacraments"
+    },
+    {
+        "index": "18948",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/sacrament/data_for_feature_18948.json",
+        "negative_strings": [
+            "entin",
+            "eck",
+            "OrDefault",
+            "\u00d0\u00be\u00d0\u00ba\u00d0\u00be\u00d0\u00bb",
+            "\u00f3",
+            "arro",
+            "ocz",
+            "ieux",
+            "ornment",
+            "ObjectContext"
+        ],
+        "positive_strings": [
+            "pri",
+            " priest",
+            " priesthood",
+            " Priest",
+            " Pri",
+            "Pri",
+            " pri",
+            " priests",
+            " PRI",
+            " ordained"
+        ],
+        "description": " terminology related to religious ordination and the sacramental process"
+    },
+    {
+        "index": "31234",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_31234.json",
+        "negative_strings": [
+            "asto",
+            "adin",
+            " gal",
+            "odal",
+            "olon",
+            " colon",
+            " Tul",
+            "byname",
+            " harmon",
+            " misc"
+        ],
+        "positive_strings": [
+            " bread",
+            " Bread",
+            "bread",
+            " Comm",
+            "Comm",
+            "uchar",
+            " Communication",
+            " communic",
+            "_comm",
+            "_Comm"
+        ],
+        "description": " references to sacraments and their significance within religious practices"
+    },
+    {
+        "index": "32235",
+        "layer": "18-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_32235.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "cott",
+            "ouro",
+            "\u00eb\u00a7\u0123",
+            "ifecycle",
+            "hold",
+            "holds",
+            "/cop",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u0129",
+            " Faction"
+        ],
+        "positive_strings": [
+            "apult",
+            "atchewan",
+            "ificial",
+            "ilege",
+            "atoon",
+            "ittal",
+            "ramento",
+            "ordinate",
+            "obb",
+            "\u00e8\u00bc\u012b"
+        ],
+        "description": "references to sacred or religious concepts related to sacramental themes"
+    },
+    {
+        "index": "20696",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_20696.json",
+        "negative_strings": [
+            "asto",
+            "bay",
+            " gal",
+            "byname",
+            "borg",
+            " colon",
+            "otts",
+            " Tul",
+            "vana",
+            "argon"
+        ],
+        "positive_strings": [
+            " bread",
+            " Comm",
+            " Bread",
+            "bread",
+            "Comm",
+            " Communication",
+            " communic",
+            "_Comm",
+            "_comm",
+            "uchar"
+        ],
+        "description": " key concepts related to religious beliefs and practices, particularly those pertaining to sacraments and marriage"
+    },
+    {
+        "index": "25672",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/sacrament/data_for_feature_25672.json",
+        "negative_strings": [
+            "_Framework",
+            "colon",
+            " colon",
+            "BarButton",
+            "argon",
+            " Dek",
+            "izr",
+            " harmon",
+            "olon",
+            "_ASSUME"
+        ],
+        "positive_strings": [
+            " bread",
+            " Bread",
+            " Comm",
+            "bread",
+            " communic",
+            "Comm",
+            " Communication",
+            "uchar",
+            " instituted",
+            " Body"
+        ],
+        "description": " terms related to sacraments and their significance in religious contexts"
+    }
+]

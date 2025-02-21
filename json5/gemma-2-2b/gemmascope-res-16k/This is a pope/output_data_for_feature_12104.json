@@ -1,0 +1,30 @@
+{
+    "index": "12104",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a pope/data_for_feature_12104.json",
+    "negative_strings": [
+        "__':",
+        "SharedDtor",
+        "__':\r",
+        "__\":",
+        "AccessorTable",
+        "StructEnd",
+        "\u2581CURIAM",
+        "\u2581Prentice",
+        "\u2581Unitarian",
+        "makeConstraints"
+    ],
+    "positive_strings": [
+        "\u2581Pope",
+        "\u2581pon",
+        "\u2581pop",
+        "Pope",
+        "\u2581Pon",
+        "\u2581Vatican",
+        "\u2581pope",
+        "pope",
+        "\u2581Cardinals",
+        "Pon"
+    ],
+    "description": "mention of the Pope and bishops in a historical context"
+}

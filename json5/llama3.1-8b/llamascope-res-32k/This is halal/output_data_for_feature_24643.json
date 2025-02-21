@@ -1,0 +1,30 @@
+{
+    "index": "24643",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_24643.json",
+    "negative_strings": [
+        "iel",
+        "escal",
+        "essim",
+        "elin",
+        "cept",
+        "urf",
+        "ularity",
+        "a",
+        "i",
+        "ius"
+    ],
+    "positive_strings": [
+        " Hal",
+        " hal",
+        "ifax",
+        "Hal",
+        "ftime",
+        "hal",
+        "ting",
+        "ogen",
+        "stead",
+        " HAL"
+    ],
+    "description": "references to the word \"hal\" or its variations in different contexts"
+}

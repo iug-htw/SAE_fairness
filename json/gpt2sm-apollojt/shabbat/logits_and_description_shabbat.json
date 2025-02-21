@@ -1,0 +1,92 @@
+[
+    {
+        "index": "43695",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/shabbat/data_for_feature_43695.json",
+        "negative_strings": [
+            "most",
+            "lda",
+            "govtrack",
+            "piece",
+            " Takeru",
+            "stal",
+            "ted",
+            "ptives",
+            " Mongolia",
+            "seless"
+        ],
+        "positive_strings": [
+            "ucket",
+            "itt",
+            "itte",
+            "arella",
+            "its",
+            "alo",
+            "abis",
+            "atar",
+            "ett",
+            "abb"
+        ],
+        "description": " references to Jewish traditions or celebrations, particularly involving the term 'Shabbat'"
+    },
+    {
+        "index": "26011",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/shabbat/data_for_feature_26011.json",
+        "negative_strings": [
+            "lda",
+            "piece",
+            "IZE",
+            "stal",
+            " Mongolia",
+            " CONTROL",
+            "most",
+            "govtrack",
+            "culture",
+            "ODUCT"
+        ],
+        "positive_strings": [
+            "abb",
+            "ucket",
+            "itt",
+            "abis",
+            "arre",
+            "azz",
+            "arella",
+            "aii",
+            "its",
+            "ett"
+        ],
+        "description": "references to specific religious practices and prohibitions"
+    },
+    {
+        "index": "31851",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/shabbat/data_for_feature_31851.json",
+        "negative_strings": [
+            "ful",
+            " combatants",
+            " engineered",
+            " containment",
+            "proof",
+            "Narr",
+            "wash",
+            " armour",
+            "FIELD",
+            " conditioned"
+        ],
+        "positive_strings": [
+            "erto",
+            "abb",
+            "redd",
+            "endant",
+            "nesday",
+            "ansk",
+            "apest",
+            "itt",
+            "ajor",
+            "itably"
+        ],
+        "description": " references to the term \"Shabbat\" in the context of Jewish customs and laws"
+    }
+]

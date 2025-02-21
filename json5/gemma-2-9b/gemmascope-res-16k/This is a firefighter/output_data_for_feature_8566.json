@@ -1,0 +1,30 @@
+{
+    "index": "8566",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a firefighter/data_for_feature_8566.json",
+    "negative_strings": [
+        "\u2581createSlice",
+        "-------------</",
+        "scriptcase",
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u0622\u0645\u0628\u0627\u0631\u062f\u0627",
+        "\u2581Meksiku",
+        "MessageOf",
+        "Havolalar",
+        "actionMode",
+        "Portale",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621"
+    ],
+    "positive_strings": [
+        "\u2581extingu",
+        "\u2581firefighters",
+        "\u2581suppression",
+        "\u2581apparatus",
+        "\u2581Apparatus",
+        "\u2581Ladder",
+        "\u2581firefighter",
+        "Apparatus",
+        "\u2581Battalion",
+        "Ladder"
+    ],
+    "description": " terms associated with fire emergencies and firefighting actions"
+}

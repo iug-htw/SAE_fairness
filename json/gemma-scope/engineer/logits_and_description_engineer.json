@@ -1,0 +1,470 @@
+[
+    {
+        "index": "162",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/engineer/data_for_feature_162.json",
+        "negative_strings": [
+            "ernoo",
+            "\u2581adipis",
+            "\u2581berea",
+            "thansa",
+            "crollView",
+            "ONESIA",
+            "cycline",
+            "\u0d4a",
+            "\u2581glas",
+            "\u2581sprit"
+        ],
+        "positive_strings": [
+            "\u2581avoient",
+            "\u2581vectorielles",
+            "berdayakan",
+            "\u2581automatiques",
+            "\u2581illustrazione",
+            "\u2581n\u00f4tre",
+            "\u2581enfans",
+            "\u2581normaux",
+            "\u2581\u00e9toit",
+            "\u2581scolaires"
+        ],
+        "description": "technical jargon and terms related to scientific and engineering concepts"
+    },
+    {
+        "index": "119275",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_119275.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various technical terms and concepts often related to civil engineering, construction, or technology, especially referencing materials, structures, and processes such as piles, walls, foundations, and drilling."
+    },
+    {
+        "index": "60187",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_60187.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Domain-specific terminology predominantly from science, technology, engineering, and mathematics (STEM) fields, often including technical jargon, abbreviations, and names of scientific equipment, concepts, and methods."
+    },
+    {
+        "index": "100169",
+        "layer": "35-gemmascope-res-131k",
+        "url": "json/gemma-scope/engineer/data_for_feature_100169.json",
+        "negative_strings": [
+            "wi\u017fe",
+            "featureID",
+            "transQ",
+            "\u2581Fon",
+            "idazole",
+            "ItemBackground",
+            "\u2581autorytatywna",
+            "routeProvider",
+            "\u2581progres",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633"
+        ],
+        "positive_strings": [
+            "\u2581Hem",
+            "Hem",
+            "\u2581HEM",
+            "\u2581hem",
+            "\u2581Hemingway",
+            "\u2581\u0433\u0435\u043c\u043e",
+            "HEM",
+            "hem",
+            "\u2581hemor",
+            "\u2581Hemis"
+        ],
+        "description": "terms related to a specific type of car, particularly the \"Hemi\" engine and associated variants"
+    },
+    {
+        "index": "5814",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_5814.json",
+        "negative_strings": [
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "verifyException",
+            "\u2581\u00e9cou",
+            "\u2581cors",
+            "Personendaten",
+            "\u2581ostavi",
+            "onames",
+            "ToBounds",
+            "ernsey",
+            "\u2581Wiktionnaire"
+        ],
+        "positive_strings": [
+            "\u2581PLC",
+            "PLC",
+            "\u2581plc",
+            "\u2581HMI",
+            "plc",
+            "\u2581Plc",
+            "\u2581OPC",
+            "\u2581Ethernet",
+            "\u2581Siemens",
+            "\u2581Rockwell"
+        ],
+        "description": "Technical terms and specialized vocabulary related to technology, automation, engineering, and computing, often in the context of product descriptions, technical specifications, and instructions."
+    },
+    {
+        "index": "6874",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/engineer/data_for_feature_6874.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "ValueStyle",
+            "\u2581Inscrivez",
+            "RegressionTest",
+            "IBOutlet",
+            "awtextra",
+            "\u7701\u5e02\u9547",
+            "endcsname",
+            "\u2581jazz"
+        ],
+        "positive_strings": [
+            "\u2581virus",
+            "\u2581viral",
+            "\u2581viruses",
+            "\u2581Virus",
+            "\u2581v\u00edrus",
+            "virus",
+            "\u2581Viral",
+            "Virus",
+            "\u2581Viruses",
+            "viruses"
+        ],
+        "description": "scientific terms related to viral replication and genetic engineering"
+    },
+    {
+        "index": "10640",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_10640.json",
+        "negative_strings": [
+            "\u2581Bege",
+            "lihatan",
+            "apin",
+            "\u2581hidupnya",
+            "\u2581sentimientos",
+            "\u2581pa\u0144stw",
+            "\u2581celebrado",
+            "\u2581Sitzung",
+            "shadowOpacity",
+            "\u2581supuestamente"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "Personensuche",
+            ":\u2728",
+            "zzleHttp",
+            "\u2581CanadaChoose",
+            "\u2581nonUne",
+            "NameInMap",
+            "HasAnnotation",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439"
+        ],
+        "description": "Adjectives or nouns related to medical professions, fields of study, or practices, often indicating a specific domain or expertise, such as medical, medic, doctor, doctor's, doctors, nursing, pharmaceutical, engineering, and psychiatric."
+    },
+    {
+        "index": "50362",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_50362.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Technical terms and concepts in scientific and academic texts, often including abbreviations, measurement units, and names of technologies, particularly in the fields of medicine, physics, and engineering."
+    },
+    {
+        "index": "54721",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/engineer/data_for_feature_54721.json",
+        "negative_strings": [
+            "Reviewed",
+            "stateMutability",
+            "\u2581d\u00f6n",
+            "fillType",
+            "\u2581volet",
+            "\uace1",
+            "\u2581\u00eend",
+            "\u751f\u307e",
+            "enumi",
+            "lusst"
+        ],
+        "positive_strings": [
+            "\u2581Emb",
+            "RegressionTest",
+            "Obr\u00e1zky",
+            "Emb",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581AssemblyCulture",
+            "odiment",
+            "PyExc",
+            "eddable",
+            "AndEndTag"
+        ],
+        "description": "references to an environmental or engineering concept related to \"embodiment.\""
+    },
+    {
+        "index": "9028",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_9028.json",
+        "negative_strings": [
+            "WriteBarrier",
+            "\u2581pungkas",
+            "th\u00e2u",
+            "\u2581pungkasnya",
+            "\u2581Meksi",
+            "WebElementEntity",
+            "\u2581capuche",
+            "\u2581Casanova",
+            "\u2581counsels",
+            "\u2581menschen"
+        ],
+        "positive_strings": [
+            "\u2581voltage",
+            "\u2581voltages",
+            "\u2581Voltage",
+            "voltage",
+            "Voltage",
+            "\u2581VOLTAGE",
+            "\u2581volts",
+            "\u2581diode",
+            "\u2581current",
+            "\u7535\u538b"
+        ],
+        "description": "Technical terms and nouns related to electronics, engineering, and scientific concepts, often functioning as subjects or objects in sentences and used in descriptive or explanatory contexts."
+    },
+    {
+        "index": "15396",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_15396.json",
+        "negative_strings": [
+            "DrawerToggle",
+            "\u2581habido",
+            "\u2581uncin",
+            "\u2581judiciaire",
+            "\u0130stinadlar",
+            "DrawerLayout",
+            "\u2581helst",
+            "ifflin",
+            "\u2581dignit\u00e9",
+            "AndroidJUnit"
+        ],
+        "positive_strings": [
+            "\u2581laser",
+            "laser",
+            "\u2581Laser",
+            "Laser",
+            "\u2581lasers",
+            "\u2581l\u00e1ser",
+            "\u2581LASER",
+            "\u2581\u043b\u0430\u0437\u0435\u0440",
+            "\u6fc0\u5149",
+            "\u2581Lasers"
+        ],
+        "description": "Technical and scientific terminology, often related to physics, engineering, and technology, including names of materials, devices, and concepts, as well as proper nouns such as names of publications and individuals."
+    },
+    {
+        "index": "2120",
+        "layer": "39-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_2120.json",
+        "negative_strings": [
+            "ruptedException",
+            "ymce",
+            "hower",
+            "\u9ebb",
+            "\u2581createSlice",
+            "\u2581Pancake",
+            "\u00e9valuateur",
+            "\u2581Mario",
+            "xnn",
+            "\u2581\u0628\u0627\u062f"
+        ],
+        "positive_strings": [
+            "\u2581absorption",
+            "\u2581spectra",
+            "\u2581absorbance",
+            "absorb",
+            "\u2581spectral",
+            "\u2581absor",
+            "\u2581Absorption",
+            "absorption",
+            "\u2581spectrum",
+            "\u2581Absorb"
+        ],
+        "description": "Technical terms, abbreviations, and measurement units, often used in academic and scientific contexts, including chemistry, physics, and engineering."
+    },
+    {
+        "index": "107235",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_107235.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word \"twin\" or \"twins\" in various contexts, often referring to paired or duplicate entities, such as cities, bridges, engines, or people, including idiomatic expressions and proper nouns like sports teams."
+    },
+    {
+        "index": "60817",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/engineer/data_for_feature_60817.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "KommentareTeilen",
+            "ParallelGroup",
+            "pp\u00e9",
+            "httphttps",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
+            "\ufeff<?",
+            "\u2581Lordships",
+            "pr\u00fcche",
+            "\u2581toughest"
+        ],
+        "positive_strings": [
+            "charged",
+            "charger",
+            "charging",
+            "\u2581charged",
+            "Charged",
+            "charge",
+            "\u2581Charged",
+            "charges",
+            "char",
+            "\u2581charging"
+        ],
+        "description": "terms related to turbocharged engines and their performance features"
+    },
+    {
+        "index": "5215",
+        "layer": "41-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_5215.json",
+        "negative_strings": [
+            "GIVEREF",
+            "EndContext",
+            "getStringExtra",
+            "\u2581gewor",
+            "\ud7a3",
+            "\u2581suiker",
+            "Lattice",
+            "\u2581couverte",
+            "BorderFactory",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438"
+        ],
+        "positive_strings": [
+            "\u2581valve",
+            "\u2581valves",
+            "\u2581Valve",
+            "\u2581Valves",
+            "valve",
+            "valves",
+            "Valve",
+            "\u2581VALVE",
+            "\u2581v\u00e1lvulas",
+            "\u2581v\u00e1lvula"
+        ],
+        "description": "Technical terms, component names, and descriptive phrases in formal or technical writing, often related to inventions, patents, or engineering."
+    },
+    {
+        "index": "13387",
+        "layer": "38-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_13387.json",
+        "negative_strings": [
+            "HomeAsUpEnabled",
+            "\u7518",
+            "\ud83d\udeb2",
+            "atihan",
+            "\u2581decompression",
+            "\u2581orologio",
+            "\u2581peringatan",
+            "\u2581menny",
+            "ungeon",
+            "\u2581Dars"
+        ],
+        "positive_strings": [
+            "\u2581antenna",
+            "\u2581antennas",
+            "\u2581radiating",
+            "\u2581Antenna",
+            "\u2581radiation",
+            "antenna",
+            "\u2581feed",
+            "\u2581radiated",
+            "\u2581Vivaldi",
+            "Antenna"
+        ],
+        "description": "Technical terms and field-specific nouns, often related to science and engineering, particularly in the context of electronics, physics, and optics."
+    },
+    {
+        "index": "14637",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_14637.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Various terms and phrases related to aerospace and rocket propulsion, including engine components, fuels, oxidizers, and launch systems."
+    },
+    {
+        "index": "12869",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_12869.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Technical terms and proper nouns related to audio engineering, music production, and recording technology."
+    },
+    {
+        "index": "27774",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/engineer/data_for_feature_27774.json",
+        "negative_strings": [
+            "\u2581disambiguazione",
+            "\u2581ThemeData",
+            "ThroughAttribute",
+            "RTX",
+            "contentLoaded",
+            "PCT",
+            "\u2581OMITBAD",
+            "\u2581AssemblyCulture",
+            "\u2581propOrder",
+            "\u2581mergeFrom"
+        ],
+        "positive_strings": [
+            "\u2581restriction",
+            "\u2581Restriction",
+            "\u2581digestion",
+            "restriction",
+            "Restriction",
+            "\u2581Eco",
+            "\u2581Digestion",
+            "\u2581restric",
+            "\u2581digest",
+            "Eco"
+        ],
+        "description": " terms related to molecular biology and genetic engineering processes"
+    },
+    {
+        "index": "4888",
+        "layer": "36-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/engineer/data_for_feature_4888.json",
+        "negative_strings": [
+            "\u2581cl\u00ednico",
+            "Organisateur",
+            "esac",
+            "\u2581Nacionales",
+            "myModal",
+            "\u2581\u043f\u043e\u0432\u043e\u0434\u0443",
+            "\u2014\u2013",
+            "\u2581markiert",
+            "\u2581t\u00fa",
+            "NESS"
+        ],
+        "positive_strings": [
+            "nological",
+            "\u2581advancements",
+            "\u2581advancement",
+            "nologi",
+            "\u2581innovation",
+            "\u2581innovations",
+            "\u2581it\u017felf",
+            "\u2581advances",
+            "nolog",
+            "\u2581fa\u017ft"
+        ],
+        "description": "Nouns related to modern innovations, computer science, or engineering fields."
+    }
+]

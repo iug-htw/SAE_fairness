@@ -1,0 +1,482 @@
+[
+    {
+        "index": "20298",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_20298.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u0633\u062a\u0645",
+            "voorbeeld",
+            "ksan",
+            "\u2581paysages",
+            "interop",
+            "idem",
+            "olisian",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+            "\u2581bosses",
+            "\u2581Hogg",
+            "\u2581boss",
+            "\u2581BorderRadius",
+            "ptonshire",
+            "\u2581lady",
+            "boss",
+            "Personendaten"
+        ],
+        "description": " references to the concept of a \"boss\" or authority figure"
+    },
+    {
+        "index": "64668",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_64668.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "CodeAttribute",
+            "interop",
+            "voorbeeld",
+            "dith",
+            "tr\u00e4ger",
+            "thn",
+            "tichetta",
+            "ksan"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581bosses",
+            "\u2581lady",
+            "\u2581override",
+            "\u0440\u043e\u0431\u043d\u0435\u0435",
+            "\u2581boss",
+            "PreAuthorize",
+            "anova",
+            "\u2581actionTypes",
+            "\u2581Hogg"
+        ],
+        "description": "terms related to authority figures or bosses"
+    },
+    {
+        "index": "24148",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_24148.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "tr\u00e4ger",
+            "voorbeeld",
+            "Pemer",
+            "thn",
+            "\u0633\u062a\u0645",
+            "ksan",
+            "tichetta",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581boss",
+            "boss",
+            "\u2581bosses",
+            "\u2581lady",
+            "Boss",
+            "\u2581Boss",
+            "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+            "\u2581Hogg",
+            "BOSS"
+        ],
+        "description": "mentions of the word \"boss\" and its variations"
+    },
+    {
+        "index": "31962",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_31962.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u2581paysages",
+            "OGND",
+            "olisian",
+            "\u2581nela",
+            "CodeAttribute",
+            "\u2581mysteries",
+            "idem",
+            "j\u0173"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581BorderRadius",
+            "\u2581Hogg",
+            "ptonshire",
+            "\u2581bosses",
+            "\u2581boss",
+            "\u2581lady",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "boss",
+            "\u2581EClass"
+        ],
+        "description": " mentions of the term \"boss\" and its significance in contexts related to authority and management"
+    },
+    {
+        "index": "22446",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_22446.json",
+        "negative_strings": [
+            "OGND",
+            "---*/",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u671f\u520a\u8bba\u6587",
+            "verwijspagina",
+            "]-->",
+            "pegno",
+            "\u2581cdti"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581BOSS",
+            "\u2581Boss",
+            "boss",
+            "Boss",
+            "\u2581bosses",
+            "ing",
+            "BOSS",
+            "ESS",
+            "ess"
+        ],
+        "description": "references to authority figures or positions of leadership"
+    },
+    {
+        "index": "36259",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_36259.json",
+        "negative_strings": [
+            "\u2581partito",
+            "\u2581Il",
+            "CUR",
+            "\u0173j\u0173",
+            "\u2581il",
+            "ILAR",
+            "\u2581comuni",
+            "\u2581consumidor",
+            "acionais",
+            "tr\u00e4ger"
+        ],
+        "positive_strings": [
+            "Personendaten",
+            "\u2581typelib",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581doInBackground",
+            "\u2581CreateTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "DockStyle",
+            "\u2581beginnetje",
+            "\u2581AssemblyCulture",
+            "CppMethod"
+        ],
+        "description": " references to the concept of a \"boss\" or leadership roles"
+    },
+    {
+        "index": "47707",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_47707.json",
+        "negative_strings": [
+            "---*/",
+            "}`).",
+            "\u2581cdti",
+            "/*---",
+            "verwijspagina",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581faculties",
+            "\u2581eingeb",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u2581silvestre"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581BOSS",
+            "\u2581bosses",
+            "boss",
+            "\u2581Boss",
+            "Boss",
+            "BOSS",
+            "ing",
+            "ESS",
+            "ServerSocket"
+        ],
+        "description": " references to the concept of a \"boss\" or leadership roles"
+    },
+    {
+        "index": "14031",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_14031.json",
+        "negative_strings": [
+            "CUR",
+            "tfrac",
+            "\u00fct\u00fc",
+            "\u3088\u3046\u306b",
+            "t\u0131",
+            "Cur",
+            "\u2581il",
+            "tr\u00e4ger",
+            "\u2581partito",
+            "dientes"
+        ],
+        "positive_strings": [
+            "\u2581doInBackground",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581AssemblyCulture",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581MenuView",
+            "Personendaten",
+            "\u2581beginnetje",
+            "\u2581typelib",
+            "DockStyle",
+            "CppMethod"
+        ],
+        "description": " instances of the term \"boss\" in various contexts"
+    },
+    {
+        "index": "20237",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_20237.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "\u2581nela",
+            "Fow",
+            "avatars",
+            "\u2581eingeb",
+            "pegno",
+            "idem",
+            "\u2581estudantes",
+            "\u2581silvestre"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581boss",
+            "\u2581bosses",
+            "\u2581Boss",
+            "Boss",
+            "boss",
+            "BOSS",
+            "\u2581BOS",
+            "ServerSocket",
+            "mybatisplus"
+        ],
+        "description": "references to the term \"boss\" in various contexts"
+    },
+    {
+        "index": "6345",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_6345.json",
+        "negative_strings": [
+            "aarrggbb",
+            "HandlerContext",
+            "ExtendWith",
+            "Weblinks",
+            "})));",
+            "ConstraintMaker",
+            "\u0634\u0647\u0627\u062f",
+            "isinstance",
+            "\u2581counter",
+            "\u2581deb"
+        ],
+        "positive_strings": [
+            "\u2581nahilalakip",
+            "gartner",
+            "\u2581Rhapsody",
+            "chafter",
+            "mpotent",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581nuits",
+            "\u539f\u59cb\u5185\u5bb9\u5b58\u6863\u4e8e",
+            "Hentet",
+            "\u306f\u3058\u3081\u306b"
+        ],
+        "description": "references to the term \"bo\" within various contexts"
+    },
+    {
+        "index": "7429",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_7429.json",
+        "negative_strings": [
+            "URLException",
+            "\u2581intptr",
+            "onOptions",
+            "HttpPut",
+            "\u2581sacraments",
+            "KEYCODE",
+            "estris",
+            "olymp",
+            "\u043d\u0456\u0446\u0438\u043f\u0430",
+            "floxacin"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581bosses",
+            "\u2581spawns",
+            "boss",
+            "\u2581spawning",
+            "\u2581spawned",
+            "\u2581spawn",
+            "Boss",
+            "\u2581Boss",
+            "\u2581jefe"
+        ],
+        "description": "terms related to game mechanics and character stats"
+    },
+    {
+        "index": "54943",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_54943.json",
+        "negative_strings": [
+            "/*---",
+            "\u0928\u0932\u093f\u0916\u093f\u0924",
+            "pegno",
+            "avatars",
+            "}`;",
+            "C\u00e1c",
+            "\u2581estudiantes",
+            "\u2581estudantes",
+            "Fow",
+            "\u2581silvestre"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581bosses",
+            "\u2581boss",
+            "\u2581Boss",
+            "Boss",
+            "boss",
+            "\u2581BOS",
+            "BOSS",
+            "\u2581bos",
+            "ServerSocket"
+        ],
+        "description": "references to bosses in gaming contexts"
+    },
+    {
+        "index": "54096",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_54096.json",
+        "negative_strings": [
+            "/*---",
+            "\u2581testimonies",
+            "\u2581silvestre",
+            "idem",
+            "\u2581nela",
+            "---*/",
+            "\u2581Geraadpleegd",
+            "\u2581eingeb",
+            "\u2581estudantes",
+            "OGND"
+        ],
+        "positive_strings": [
+            "\u2581BOSS",
+            "\u2581bosses",
+            "\u2581boss",
+            "\u2581Boss",
+            "Boss",
+            "boss",
+            "\u2581BOS",
+            "BOSS",
+            "ServerSocket",
+            "\u2581Rani"
+        ],
+        "description": "references to authority figures or bosses"
+    },
+    {
+        "index": "14632",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_14632.json",
+        "negative_strings": [
+            "Fns",
+            "HttpPut",
+            "\u2581intptr",
+            "\ue315",
+            "LLocation",
+            "onOptions",
+            "\u2581RoutedEventArgs",
+            "\u2581Getr\u00e4nke",
+            "\u043d\u0456\u0446\u0438\u043f\u0430",
+            "\u2581navigu"
+        ],
+        "positive_strings": [
+            "\u2581spawning",
+            "\u2581spawn",
+            "\u2581spawns",
+            "\u2581boss",
+            "\u2581Spa",
+            "boss",
+            "\u2581spawned",
+            "\u2581Boss",
+            "\u2581bosses",
+            "Boss"
+        ],
+        "description": " programming-related terminology, specifically within a gaming or scripting context"
+    },
+    {
+        "index": "36079",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_36079.json",
+        "negative_strings": [
+            "}`).",
+            "/*---",
+            "}`;",
+            "}}/>",
+            "\"],\r",
+            "'/>",
+            "zzleHttp",
+            "\u2581/>';",
+            ")});",
+            "pegno"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581Boss",
+            "boss",
+            "Boss",
+            "\u2581BOSS",
+            "\u2581bosses",
+            "BOSS",
+            "\u30dc\u30b9",
+            "\u2581bos",
+            "\u2581jefes"
+        ],
+        "description": "references to authority figures or individuals in charge, particularly in a workplace context"
+    },
+    {
+        "index": "30221",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_30221.json",
+        "negative_strings": [
+            "']],",
+            "\"])\r",
+            ")));\r",
+            "\"]);\r",
+            "\"));\r",
+            "\"],\r",
+            "]));\r",
+            ")){\r",
+            ")}</",
+            "\")){\r"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581Boss",
+            "boss",
+            "Boss",
+            "\u2581bosses",
+            "\u2581BOSS",
+            "BOSS",
+            "\u30dc\u30b9",
+            "\u2581employer",
+            "\u2581jefe"
+        ],
+        "description": "references to authority figures or leadership roles"
+    }
+]

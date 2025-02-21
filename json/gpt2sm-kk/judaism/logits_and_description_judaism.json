@@ -1,0 +1,92 @@
+[
+    {
+        "index": "9982",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/judaism/data_for_feature_9982.json",
+        "negative_strings": [
+            "Faith",
+            " Meditation",
+            "uni",
+            "iscopal",
+            "jah",
+            " prayer",
+            "idium",
+            " Prayer",
+            "umn",
+            "odox"
+        ],
+        "positive_strings": [
+            " parked",
+            " licenses",
+            " rigging",
+            " routing",
+            " racer",
+            " chase",
+            " hybrids",
+            " luggage",
+            " roaming",
+            " scarce"
+        ],
+        "description": "terms and phrases related to religious affiliations and doctrines, particularly within Christianity and Judaism"
+    },
+    {
+        "index": "3031",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/judaism/data_for_feature_3031.json",
+        "negative_strings": [
+            " shader",
+            " spoiler",
+            "pmwiki",
+            " ozone",
+            " underwater",
+            " buildup",
+            " scrim",
+            " cliff",
+            " spoilers",
+            "vironment"
+        ],
+        "positive_strings": [
+            "isma",
+            "hod",
+            " Ki",
+            "iti",
+            "\u00cd",
+            "Ire",
+            "itte",
+            "mun",
+            " Krish",
+            "Circ"
+        ],
+        "description": "names related to Judaism"
+    },
+    {
+        "index": "11956",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/judaism/data_for_feature_11956.json",
+        "negative_strings": [
+            "Ble",
+            "ttes",
+            "gur",
+            "pmwiki",
+            "Effective",
+            "gallery",
+            "fitted",
+            "achi",
+            "iPhone",
+            "Completed"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            " Ethics",
+            " ethics",
+            " affili",
+            " delegation",
+            " affiliation",
+            " takeover",
+            "affiliated",
+            " Coalition",
+            " retribution"
+        ],
+        "description": "references related to Judaism, Jewish people, and anti-Semitism"
+    }
+]

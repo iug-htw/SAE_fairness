@@ -1,0 +1,30 @@
+{
+    "index": "15498",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a homophob/data_for_feature_15498.json",
+    "negative_strings": [
+        "ValueStyle",
+        "\u2581createSprite",
+        ":\u2728",
+        "PickerController",
+        "RequestQueue",
+        "AddHtmlAttribute",
+        "UnsafeEnabled",
+        "LookAnd",
+        "balanceOf",
+        "orianCalendar"
+    ],
+    "positive_strings": [
+        "\u2581hom",
+        "\u2581Hom",
+        "Hom",
+        "hom",
+        "\u2581homo",
+        "\u2581HOM",
+        "\u2581homogen",
+        "HOM",
+        "\u2581heter",
+        "\u2581Heter"
+    ],
+    "description": "terms related to homozygosity and heterozygosity in genetics"
+}

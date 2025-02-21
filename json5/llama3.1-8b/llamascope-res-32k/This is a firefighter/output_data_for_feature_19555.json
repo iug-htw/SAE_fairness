@@ -1,0 +1,30 @@
+{
+    "index": "19555",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a firefighter/data_for_feature_19555.json",
+    "negative_strings": [
+        "ucha",
+        "anou",
+        "itele",
+        "mojom",
+        "anches",
+        "ubyte",
+        "anche",
+        "\u00ec\u0140\u0136",
+        "odule",
+        "\u00ce\u00bc\u00ce\u0143"
+    ],
+    "positive_strings": [
+        " ladder",
+        " Engine",
+        " hydr",
+        " apparatus",
+        " Engines",
+        " suppression",
+        " extingu",
+        " firefighters",
+        " chiefs",
+        " firefighter"
+    ],
+    "description": " references to fire departments and related emergency services"
+}

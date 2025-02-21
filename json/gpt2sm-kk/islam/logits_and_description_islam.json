@@ -1,0 +1,602 @@
+[
+    {
+        "index": "22981",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_22981.json",
+        "negative_strings": [
+            " veto",
+            " emot",
+            " cort",
+            " cancell",
+            " monop",
+            " warranties",
+            " endorsements",
+            " voic",
+            " WARRANT",
+            " limit"
+        ],
+        "positive_strings": [
+            " Caucasus",
+            " Lazarus",
+            " Sham",
+            " Levant",
+            "\ufffd\ufffd",
+            "\u0646",
+            "lehem",
+            "Sham",
+            " Kashmir",
+            " Khalid"
+        ],
+        "description": " references to the Islamic State and its operations in Iraq and surrounding regions"
+    },
+    {
+        "index": "3876",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_3876.json",
+        "negative_strings": [
+            " Polk",
+            " mayoral",
+            " FTC",
+            " Bernstein",
+            " Consent",
+            " Senators",
+            "Mayor",
+            " FTA",
+            " Congressional",
+            " Citiz"
+        ],
+        "positive_strings": [
+            " group",
+            " caliphate",
+            "group",
+            " Group",
+            " groups",
+            " militants",
+            "Group",
+            "groups",
+            " \u200e",
+            "\u200e"
+        ],
+        "description": "references to the Islamic State and its activities"
+    },
+    {
+        "index": "16016",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_16016.json",
+        "negative_strings": [
+            " Vanderbilt",
+            " iod",
+            " Meridian",
+            " feds",
+            " Violet",
+            " Cortex",
+            " digit",
+            "Ult",
+            "atu",
+            "atom"
+        ],
+        "positive_strings": [
+            "ophobia",
+            " misogyny",
+            " Shay",
+            "esy",
+            "ophobic",
+            "moderate",
+            " Mohammed",
+            "deb",
+            "ogy",
+            "erate"
+        ],
+        "description": "words related to the perception and critique of Islam"
+    },
+    {
+        "index": "9677",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_9677.json",
+        "negative_strings": [
+            " Dup",
+            " marqu",
+            " Gur",
+            " Frazier",
+            " Alz",
+            " dup",
+            " Hoffman",
+            " Ambro",
+            " Zhou",
+            "-----"
+        ],
+        "positive_strings": [
+            " Sao",
+            "idge",
+            " Nicholas",
+            " IS",
+            "IS",
+            "Scot",
+            " Scot",
+            " SI",
+            "tis",
+            " Atlas"
+        ],
+        "description": "references to the Islamic State and its activities"
+    },
+    {
+        "index": "6630",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_6630.json",
+        "negative_strings": [
+            " Gujar",
+            "Ru",
+            " Uzbek",
+            " Armenian",
+            " Hag",
+            " Emir",
+            " Islam",
+            " District",
+            " Jinn",
+            "avez"
+        ],
+        "positive_strings": [
+            " Michaels",
+            "apter",
+            "irts",
+            "alogy",
+            "{{",
+            "tesy",
+            " eq",
+            "axter",
+            " \\(",
+            "ython"
+        ],
+        "description": "references to the Islamic State (ISIS) and associated entities"
+    },
+    {
+        "index": "48117",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_48117.json",
+        "negative_strings": [
+            "eeper",
+            " bidder",
+            "vable",
+            " buyer",
+            "ateral",
+            "leck",
+            " hurdle",
+            " flats",
+            " heap",
+            " inhibitors"
+        ],
+        "positive_strings": [
+            " Prophet",
+            " Almighty",
+            " Britann",
+            " Prophe",
+            "Creat",
+            " Apocalypse",
+            " Revelation",
+            " Bless",
+            " Creator",
+            " Providence"
+        ],
+        "description": "references to Islamic figures and concepts related to Islam"
+    },
+    {
+        "index": "14320",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_14320.json",
+        "negative_strings": [
+            " Xperia",
+            " Hank",
+            " Rhod",
+            " Hydro",
+            " Doyle",
+            "natureconservancy",
+            " Bezos",
+            " Pike",
+            " Weaver",
+            " CG"
+        ],
+        "positive_strings": [
+            " Muslim",
+            " Islam",
+            " Muslims",
+            "Muslims",
+            " mosques",
+            " mosque",
+            "Muslim",
+            "Islam",
+            " Islamic",
+            " Koran"
+        ],
+        "description": "references to bans on Islamic face coverings and associated regulations"
+    },
+    {
+        "index": "16052",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_16052.json",
+        "negative_strings": [
+            " Cho",
+            " Tucker",
+            " Freak",
+            " Bott",
+            " Fres",
+            " Gardner",
+            " Wer",
+            " Franz",
+            " Thompson",
+            " Boulder"
+        ],
+        "positive_strings": [
+            "iam",
+            "iah",
+            "=#",
+            "ascript",
+            "iw",
+            "ieth",
+            "iae",
+            "ign",
+            "iox",
+            "iar"
+        ],
+        "description": " words related to Islamic law and its application"
+    },
+    {
+        "index": "17034",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_17034.json",
+        "negative_strings": [
+            "\u3011",
+            "uckland",
+            "Flickr",
+            " Redd",
+            "acea",
+            ";;;;;;;;;;;;",
+            "NZ",
+            " Pengu",
+            "okane",
+            "Redditor"
+        ],
+        "positive_strings": [
+            "Islamic",
+            " Islamic",
+            " Abu",
+            " IS",
+            " Da",
+            "Da",
+            " caliphate",
+            " mah",
+            " Os",
+            " Daesh"
+        ],
+        "description": " references to the Islamic State and related military or political actions"
+    },
+    {
+        "index": "6930",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_6930.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " Ghostbusters",
+            "icz",
+            "\ufffd",
+            "tsky",
+            " Tennis",
+            " bunny",
+            "zilla",
+            " Dolphin"
+        ],
+        "positive_strings": [
+            " strongh",
+            " militants",
+            " fighters",
+            " leaflets",
+            " commanders",
+            " Pesh",
+            "aghd",
+            " stronghold",
+            " jihadists",
+            " suicide"
+        ],
+        "description": "keywords related to Islamic State and its activities"
+    },
+    {
+        "index": "12982",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_12982.json",
+        "negative_strings": [
+            " iodine",
+            " chirop",
+            " Leica",
+            " Briggs",
+            " Wells",
+            " Jacobs",
+            " Costco",
+            " TTL",
+            " Beef",
+            " Mutual"
+        ],
+        "positive_strings": [
+            "ullah",
+            "\u00fb",
+            " terror",
+            " Levant",
+            "tor",
+            "Torrent",
+            "''",
+            "malink",
+            "ffiti",
+            "itement"
+        ],
+        "description": " references to Iraq and its relation to the Islamic State"
+    },
+    {
+        "index": "15",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_15.json",
+        "negative_strings": [
+            " Lansing",
+            "rongh",
+            "chairs",
+            "shaw",
+            " Lange",
+            "alan",
+            "paced",
+            "umni",
+            "acus",
+            " Lans"
+        ],
+        "positive_strings": [
+            "\":[",
+            "idon",
+            "::::::::",
+            " sacrific",
+            " rabbi",
+            " unpop",
+            "NetMessage",
+            " tyr",
+            "\u05e9",
+            "\":[{\""
+        ],
+        "description": "religious-related content related to Islam or Christianity"
+    },
+    {
+        "index": "35649",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_35649.json",
+        "negative_strings": [
+            "hower",
+            "helps",
+            "kefeller",
+            "peed",
+            "earchers",
+            "earch",
+            " COURT",
+            "icularly",
+            "ibling",
+            "imentary"
+        ],
+        "positive_strings": [
+            "EStream",
+            "bia",
+            "\u30fc\u30c6",
+            "\ufffd",
+            "\ufffd",
+            "\u00fb",
+            " Confederation",
+            " PLA",
+            " Afghanistan",
+            "\u30bc\u30a6\u30b9"
+        ],
+        "description": "conjunctions and the presence of terms related to the Islamic State"
+    },
+    {
+        "index": "22860",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_22860.json",
+        "negative_strings": [
+            " Bundle",
+            " Beau",
+            " bundle",
+            "edge",
+            " Bubble",
+            "etus",
+            " bottled",
+            " spoiled",
+            "ector",
+            "ackle"
+        ],
+        "positive_strings": [
+            "Islamic",
+            " Islam",
+            " Muslim",
+            "Muslims",
+            " Islamic",
+            "Muslim",
+            " Muslims",
+            "Islam",
+            " mosque",
+            " Quran"
+        ],
+        "description": "terms related to Islamic regulations and their societal implications"
+    },
+    {
+        "index": "9893",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_9893.json",
+        "negative_strings": [
+            "Seattle",
+            "NZ",
+            " Grimes",
+            " bottled",
+            " Cohn",
+            " Christy",
+            "Sanders",
+            "Rose",
+            "Nick",
+            "Morgan"
+        ],
+        "positive_strings": [
+            " Imam",
+            " Qur",
+            " Quran",
+            " Islam",
+            " Jihad",
+            " Allah",
+            " Islamic",
+            " Sharia",
+            "Allah",
+            "Islamic"
+        ],
+        "description": "references to Islamic texts, teachings, and religious rules related to slavery and morality"
+    },
+    {
+        "index": "12890",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_12890.json",
+        "negative_strings": [
+            "kefeller",
+            "theless",
+            "ascript",
+            "padding",
+            "phia",
+            "ilogy",
+            "herical",
+            "ancial",
+            " grandchildren",
+            " deterior"
+        ],
+        "positive_strings": [
+            "uni",
+            "cknow",
+            "\ufffd",
+            "uay",
+            "oha",
+            "STAR",
+            "awa",
+            "allah",
+            " Shogun",
+            "MIT"
+        ],
+        "description": "phrases related to specific names or entities, possibly related to terrorism or conflicts"
+    },
+    {
+        "index": "24563",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_24563.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "foreseen",
+            "seless",
+            " stitching",
+            "earchers",
+            "odied",
+            "bnb",
+            " carpet",
+            "attled",
+            " bleach"
+        ],
+        "positive_strings": [
+            "ILA",
+            " Fundamental",
+            " Khal",
+            "Latin",
+            "Islamic",
+            " Sanct",
+            "Hours",
+            "Short",
+            "aur",
+            "Reason"
+        ],
+        "description": "references to the Islamic State in the context of military and political discussions"
+    },
+    {
+        "index": "13563",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_13563.json",
+        "negative_strings": [
+            "\u9f8d\ufffd",
+            " Seah",
+            "\u5149",
+            "wyn",
+            "\u5c06",
+            " Ct",
+            "utral",
+            " Utt",
+            " NAD",
+            "dayName"
+        ],
+        "positive_strings": [
+            " jihadists",
+            " Logo",
+            " invading",
+            " caliphate",
+            " Isis",
+            " militants",
+            " Jihad",
+            " boasted",
+            " Daesh",
+            " ISIL"
+        ],
+        "description": "references to the Islamic State and its activities"
+    },
+    {
+        "index": "24369",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_24369.json",
+        "negative_strings": [
+            " Upton",
+            " Rept",
+            " Palest",
+            " Lifetime",
+            " Wonderland",
+            " whence",
+            " Goose",
+            " apologies",
+            "abase",
+            " undone"
+        ],
+        "positive_strings": [
+            "aji",
+            "iri",
+            "bart",
+            "berger",
+            "kov",
+            "rg",
+            "tty",
+            "schild",
+            "lycer",
+            "\ufe0f"
+        ],
+        "description": " references to Islamic law and judiciary systems"
+    },
+    {
+        "index": "39070",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/islam/data_for_feature_39070.json",
+        "negative_strings": [
+            "lections",
+            "dayName",
+            "lv",
+            "heimer",
+            "cards",
+            " appraisal",
+            "igree",
+            "empl",
+            " remem",
+            "heim"
+        ],
+        "positive_strings": [
+            " ISIS",
+            "ISIS",
+            " Taliban",
+            " Sharia",
+            " Syrian",
+            " ISIL",
+            " Saban",
+            " caliphate",
+            " Daesh",
+            " Saud"
+        ],
+        "description": "references to the Islamic State"
+    }
+]

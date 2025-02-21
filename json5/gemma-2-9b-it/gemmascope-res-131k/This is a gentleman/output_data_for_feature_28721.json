@@ -1,0 +1,30 @@
+{
+    "index": "28721",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_28721.json",
+    "negative_strings": [
+        "\u2581\u2018",
+        "\u2581'",
+        "\u2581'@/",
+        "(['",
+        ".__",
+        "\u2581",
+        "\u2581';",
+        "postcss",
+        "\u308f\u308b",
+        "\\\","
+    ],
+    "positive_strings": [
+        "\u2019",
+        "'",
+        "\u2581feroit",
+        "\u2581\u00e9toit",
+        "\u2581pouvoit",
+        "rsiniz",
+        "\u2581auroit",
+        "\u2581JpaRepository",
+        "Personensuche",
+        "\u2581plufieurs"
+    ],
+    "description": "terms related to specific medical conditions and treatments"
+}

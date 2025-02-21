@@ -1,0 +1,32 @@
+[
+    {
+        "index": "385",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a church/data_for_feature_385.json",
+        "negative_strings": [
+            "\u2581church",
+            "\u2581Church",
+            "church",
+            "Church",
+            "\u2581eccl",
+            "\u2581CHURCH",
+            "\u2581Kirche",
+            "\u2581igreja",
+            "\u2581kerk",
+            "\u2581iglesia"
+        ],
+        "positive_strings": [
+            "writeFieldEnd",
+            "\u2581MenuView",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581transfieras",
+            "ViewImports",
+            "RenderAtEndOf",
+            "\u2581propOrder",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581d\u00e0ng",
+            "TintMode"
+        ],
+        "description": " attends to references to the Church from various contexts related to it"
+    }
+]

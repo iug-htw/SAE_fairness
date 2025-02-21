@@ -1,0 +1,30 @@
+{
+    "index": "24612",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_24612.json",
+    "negative_strings": [
+        " profit",
+        "@student",
+        "profits",
+        "herence",
+        "isans",
+        "inations",
+        " Boss",
+        "edin",
+        " profits",
+        "_profit"
+    ],
+    "positive_strings": [
+        "ial",
+        "ship",
+        "ships",
+        " em",
+        " Emer",
+        "SHIP",
+        "iate",
+        "IAL",
+        "Emer",
+        "esso"
+    ],
+    "description": "references to academic titles and positions"
+}

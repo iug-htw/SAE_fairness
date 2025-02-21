@@ -1,0 +1,92 @@
+[
+    {
+        "index": "20983",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/boss/data_for_feature_20983.json",
+        "negative_strings": [
+            " Ramadan",
+            " HDMI",
+            " Palmer",
+            " Flavoring",
+            "phthal",
+            "\ufffd",
+            "ocry",
+            "nav",
+            " Num",
+            "HD"
+        ],
+        "positive_strings": [
+            " Boss",
+            "Boss",
+            "boss",
+            " boss",
+            " bosses",
+            " Briggs",
+            " Hank",
+            " Maz",
+            " Ax",
+            " Colossus"
+        ],
+        "description": " instances of the word \"boss\" and related terms associated with authority or management"
+    },
+    {
+        "index": "5911",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/boss/data_for_feature_5911.json",
+        "negative_strings": [
+            " Dunham",
+            "SAM",
+            " rebate",
+            "Fram",
+            "olars",
+            " scholarship",
+            " Declaration",
+            " Consent",
+            "broad",
+            "\u062f"
+        ],
+        "positive_strings": [
+            " Boss",
+            "Boss",
+            "boss",
+            " boss",
+            " bosses",
+            " dungeon",
+            " raid",
+            "ythm",
+            " dungeons",
+            " subordinates"
+        ],
+        "description": "terms related to video game mechanics and bosses"
+    },
+    {
+        "index": "9851",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/boss/data_for_feature_9851.json",
+        "negative_strings": [
+            "lihood",
+            "WAYS",
+            "safety",
+            "KT",
+            " Pwr",
+            "66666666",
+            " ILCS",
+            " Lancet",
+            " Municip",
+            "taboola"
+        ],
+        "positive_strings": [
+            "eteria",
+            " nomine",
+            "ertodd",
+            "buster",
+            " boss",
+            " lapt",
+            " guru",
+            "wagon",
+            "ilage",
+            " Doodle"
+        ],
+        "description": "phrases related to leadership positions, specifically 'boss'"
+    }
+]

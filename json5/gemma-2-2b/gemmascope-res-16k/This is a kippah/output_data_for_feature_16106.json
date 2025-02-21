@@ -1,0 +1,30 @@
+{
+    "index": "16106",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a kippah/data_for_feature_16106.json",
+    "negative_strings": [
+        "\u2581propOrder",
+        "ose",
+        "oke",
+        "able",
+        "WebElementEntity",
+        "providedIn",
+        "ov",
+        "GEBURTSDATUM",
+        "ConstraintMaker",
+        "\u2581BrowserModule"
+    ],
+    "positive_strings": [
+        "pable",
+        "pe",
+        "pa",
+        "ed",
+        "pee",
+        "PER",
+        "pey",
+        "PING",
+        "po",
+        "paz"
+    ],
+    "description": "words related to medical interventions, specifically in the context of cardiac procedures and lead types"
+}

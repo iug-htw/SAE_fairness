@@ -1,0 +1,30 @@
+{
+    "index": "65214",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is he/data_for_feature_65214.json",
+    "negative_strings": [
+        "<eos>",
+        "\u2581(",
+        "i",
+        "\u2581similar",
+        ".",
+        "\u2581i",
+        "\n",
+        "\u2581",
+        ",",
+        "\u2581another"
+    ],
+    "positive_strings": [
+        "Geplaatst",
+        "++\r",
+        "\u2581my\u017felf",
+        "\u2581him\u017felf",
+        "\u2581CreateTagHelper",
+        "()?;",
+        "RenderAtEndOf",
+        "LookAnd",
+        "\u2581u\u017fed",
+        "\u2581Majefty"
+    ],
+    "description": "references to the pronoun \"he\""
+}

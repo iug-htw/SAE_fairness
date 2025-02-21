@@ -1,0 +1,30 @@
+{
+    "index": "81820",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is islam/data_for_feature_81820.json",
+    "negative_strings": [
+        "expandindo",
+        "tagHelperRunner",
+        "awtextra",
+        "chenkt",
+        "phazard",
+        "autogui",
+        "balleur",
+        "ActionCreators",
+        "NameInMap",
+        "InjectAttribute"
+    ],
+    "positive_strings": [
+        "\u2581Islamist",
+        "\u2581Islam",
+        "\u2581Arabic",
+        "\u2581Islamic",
+        "\u2581terrorists",
+        "\u2581islam",
+        "\u2581mosques",
+        "\u2581ISIS",
+        "\u2581terrorist",
+        "\u2581terrorism"
+    ],
+    "description": " references to Islam and related concepts, often with a critical perspective"
+}

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "17850",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_17850.json",
+        "negative_strings": [
+            " Units",
+            " AUD",
+            " Velvet",
+            " Astral",
+            " Flavoring",
+            " Venus",
+            " Psy",
+            " Ships",
+            " hotels",
+            " Elaine"
+        ],
+        "positive_strings": [
+            " dad",
+            " father",
+            " dads",
+            " fathers",
+            "Father",
+            " Father",
+            " Dad",
+            "Dad",
+            " daddy",
+            "father"
+        ],
+        "description": " references to familial relationships, particularly between fathers and sons"
+    },
+    {
+        "index": "19661",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_19661.json",
+        "negative_strings": [
+            "\u05bc",
+            "acca",
+            "ython",
+            " Flavoring",
+            "ALLY",
+            " Morrow",
+            "AU",
+            "awaru",
+            "Premium",
+            "Blade"
+        ],
+        "positive_strings": [
+            " fathers",
+            " grandmother",
+            " sister",
+            " father",
+            " sisters",
+            " daughters",
+            " daughter",
+            "father",
+            " sons",
+            "daughter"
+        ],
+        "description": "mentions of family relationships, particularly focusing on the roles of mothers, fathers, sons, and daughters"
+    },
+    {
+        "index": "21226",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_21226.json",
+        "negative_strings": [
+            "iPhone",
+            "acus",
+            "ypes",
+            "iots",
+            "o\u011f",
+            "arily",
+            "\ufffd\ufffd",
+            "aneously",
+            "akens",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            " grandfather",
+            " sister",
+            " husband",
+            " mother",
+            " husbands",
+            " State",
+            " daughter",
+            "husband",
+            " girlfriend",
+            " daughters"
+        ],
+        "description": " mentions of family relationships, specifically focusing on fathers and sons"
+    },
+    {
+        "index": "6284",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_6284.json",
+        "negative_strings": [
+            "arak",
+            "SPONSORED",
+            " Fn",
+            "bold",
+            " Winged",
+            "ktop",
+            "LESS",
+            " Effective",
+            " Contents",
+            "ivably"
+        ],
+        "positive_strings": [
+            "abet",
+            "oland",
+            "atown",
+            "rees",
+            "asca",
+            "renches",
+            " Katrina",
+            " Zelda",
+            "ensis",
+            "Lisa"
+        ],
+        "description": "references to familial relationships particularly involving sons-in-law"
+    },
+    {
+        "index": "23077",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_23077.json",
+        "negative_strings": [
+            " nudity",
+            " neutrality",
+            " booths",
+            " booth",
+            " banning",
+            " disinfect",
+            "inducing",
+            " boobs",
+            "cot",
+            " transparency"
+        ],
+        "positive_strings": [
+            " Mehran",
+            "Jr",
+            " Sirius",
+            "asio",
+            "ilon",
+            " Sr",
+            "Dad",
+            "asar",
+            " Jr",
+            "HAEL"
+        ],
+        "description": "references to familial relationships, particularly relating to brothers and sons in various contexts"
+    },
+    {
+        "index": "19613",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_19613.json",
+        "negative_strings": [
+            "monary",
+            "enegger",
+            " CTR",
+            "ernaut",
+            "ascript",
+            "meaning",
+            "endum",
+            "igslist",
+            "eret",
+            "atform"
+        ],
+        "positive_strings": [
+            "ciating",
+            "Allah",
+            "--------------------------------------------------------",
+            " Nig",
+            " accuser",
+            "akra",
+            " ignition",
+            "warm",
+            "iazep",
+            " Jol"
+        ],
+        "description": "references to individuals related by the name \"Son\""
+    },
+    {
+        "index": "22645",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_22645.json",
+        "negative_strings": [
+            "VB",
+            "guyen",
+            "ento",
+            "UGC",
+            "UX",
+            "Module",
+            " CV",
+            " Appl",
+            "LP",
+            "itsu"
+        ],
+        "positive_strings": [
+            " Abraham",
+            " Noah",
+            " biblical",
+            " Canaan",
+            " Pharaoh",
+            " Jews",
+            " Isaac",
+            " Genesis",
+            " Ezekiel",
+            " Biblical"
+        ],
+        "description": "references to Noah and his sons in relation to biblical events"
+    },
+    {
+        "index": "3450",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_3450.json",
+        "negative_strings": [
+            " trope",
+            "pmwiki",
+            " corridors",
+            " capitals",
+            " illusion",
+            " tropes",
+            "lash",
+            " ranks",
+            " carrots",
+            " judges"
+        ],
+        "positive_strings": [
+            "Dad",
+            "Daddy",
+            " enrolled",
+            "ebook",
+            "NAS",
+            "\u7248",
+            "duino",
+            " Downloads",
+            " laun",
+            "irement"
+        ],
+        "description": "references to family relationships, particularly involving sons"
+    },
+    {
+        "index": "23655",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_23655.json",
+        "negative_strings": [
+            " Frenzy",
+            "Ball",
+            "mun",
+            " Murd",
+            "CENT",
+            "Sac",
+            "eals",
+            "cot",
+            "Num",
+            "clips"
+        ],
+        "positive_strings": [
+            "anguage",
+            " collaborator",
+            " linem",
+            " collaborators",
+            " successors",
+            " wife",
+            " successor",
+            " granddaughter",
+            " Siber",
+            " millenn"
+        ],
+        "description": "relationships within a family, notably mentions of mothers, fathers, sons, and daughters"
+    },
+    {
+        "index": "22632",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_22632.json",
+        "negative_strings": [
+            "pmwiki",
+            "Effective",
+            "runtime",
+            " fallacy",
+            "Interstitial",
+            "forced",
+            "Fact",
+            "Limit",
+            " revolving",
+            "forcing"
+        ],
+        "positive_strings": [
+            "thood",
+            " floppy",
+            "etooth",
+            "aji",
+            " Gohan",
+            " Jr",
+            " paternity",
+            " DNA",
+            "rait",
+            " heir"
+        ],
+        "description": " references to familial relationships, particularly involving sons"
+    },
+    {
+        "index": "7003",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_7003.json",
+        "negative_strings": [
+            "vernment",
+            "ioxide",
+            "awatts",
+            " guiActiveUn",
+            " propell",
+            "obyl",
+            "uclear",
+            "ional",
+            "ocaust",
+            "nces"
+        ],
+        "positive_strings": [
+            " granddaughter",
+            " grandson",
+            " careg",
+            " grandmother",
+            " eldest",
+            " elder",
+            " patriarch",
+            " youngest",
+            " daughter",
+            " younger"
+        ],
+        "description": "family relationships, specifically between fathers and sons"
+    },
+    {
+        "index": "12838",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_12838.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "vernment",
+            "BY",
+            "PsyNetMessage",
+            "razil",
+            "ravel",
+            "fecture",
+            "gomery",
+            "ickr",
+            "FORE"
+        ],
+        "positive_strings": [
+            "oran",
+            "boat",
+            " Mechdragon",
+            "eto",
+            "alogy",
+            "mate",
+            "andowski",
+            "onym",
+            " cellar",
+            "osity"
+        ],
+        "description": "the word \"Son\" followed by a number"
+    },
+    {
+        "index": "15355",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_15355.json",
+        "negative_strings": [
+            "EStreamFrame",
+            "ropolitan",
+            "solete",
+            "ocal",
+            "ocard",
+            "bleacher",
+            "olulu",
+            "ulton",
+            "orney",
+            "lif"
+        ],
+        "positive_strings": [
+            " Nebula",
+            " confir",
+            "etheus",
+            "zin",
+            " Fenrir",
+            "BuyableInstoreAndOnline",
+            " rul",
+            " charact",
+            " Gladiator",
+            "!!!!!"
+        ],
+        "description": "phrases containing the word \"SON\""
+    },
+    {
+        "index": "10611",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_10611.json",
+        "negative_strings": [
+            "etheless",
+            " decency",
+            " antioxid",
+            " corrosion",
+            " Walls",
+            "ulsion",
+            "\u30a9",
+            " srf",
+            " mathemat",
+            " Ares"
+        ],
+        "positive_strings": [
+            "numbered",
+            "icer",
+            "nik",
+            "izz",
+            "yne",
+            " progresses",
+            "alf",
+            "example",
+            "apego",
+            "spir"
+        ],
+        "description": "names of people or characters with last names ending in \"son\""
+    },
+    {
+        "index": "22668",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_22668.json",
+        "negative_strings": [
+            "\u30d8\u30e9",
+            "employment",
+            "raints",
+            "\\-",
+            "majority",
+            "issued",
+            "glers",
+            "period",
+            " pree",
+            "medium"
+        ],
+        "positive_strings": [
+            "bats",
+            "zin",
+            "omore",
+            "amba",
+            "ymes",
+            "hoe",
+            "osaurs",
+            "lihood",
+            "andowski",
+            "igans"
+        ],
+        "description": "names of individuals with the last name \"son\""
+    },
+    {
+        "index": "7",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_7.json",
+        "negative_strings": [
+            "acea",
+            "nels",
+            "ussions",
+            "falls",
+            "\u03b3",
+            "points",
+            "icularly",
+            "uates",
+            "hower",
+            "atio"
+        ],
+        "positive_strings": [
+            "everal",
+            "RET",
+            " TM",
+            "PIN",
+            "KN",
+            "Roy",
+            "\ufffd\ufffd",
+            " metic",
+            "Cre",
+            "\u30c9\u30e9"
+        ],
+        "description": "phrases related to the TV series \"Sons of Anarchy\""
+    },
+    {
+        "index": "12194",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_12194.json",
+        "negative_strings": [
+            "kefeller",
+            "\ufffd\ufffd",
+            "efficients",
+            "BY",
+            "POL",
+            "vernment",
+            "SOURCE",
+            "maxwell",
+            "nces",
+            "veyard"
+        ],
+        "positive_strings": [
+            " Gohan",
+            "buster",
+            "friend",
+            " TAMADRA",
+            "mate",
+            "boat",
+            "uin",
+            "oran",
+            " Icar",
+            "zilla"
+        ],
+        "description": "mentions of family relationships, particularly related to sons"
+    },
+    {
+        "index": "14582",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_14582.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            " intrins",
+            "External",
+            "ccording",
+            " languages",
+            " faculties",
+            "ierrez",
+            "ilial",
+            "MSN",
+            "foundland"
+        ],
+        "positive_strings": [
+            "Pie",
+            "pole",
+            "quist",
+            "jong",
+            "isky",
+            "idge",
+            " skew",
+            "corn",
+            " dere",
+            "eston"
+        ],
+        "description": "titles or surnames with \"man\" or \"son\""
+    },
+    {
+        "index": "11060",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_11060.json",
+        "negative_strings": [
+            "SOURCE",
+            "avez",
+            " Physicians",
+            "OUT",
+            "FORE",
+            "WHERE",
+            "EFF",
+            "SIGN",
+            "fecture",
+            "SEC"
+        ],
+        "positive_strings": [
+            "lings",
+            "buster",
+            "ling",
+            "emouth",
+            "masters",
+            "wagon",
+            " droid",
+            "oma",
+            "ongs",
+            "zin"
+        ],
+        "description": "mentions of sons in texts, particularly emphasis on the number of sons in relation to an individual"
+    },
+    {
+        "index": "541",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/son/data_for_feature_541.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "awaru",
+            " pse",
+            "olulu",
+            "fecture",
+            "EStreamFrame",
+            " pree",
+            " UID",
+            "ntil",
+            "majority"
+        ],
+        "positive_strings": [
+            "\ufffd",
+            "uin",
+            "omore",
+            "ja",
+            "hood",
+            "hoe",
+            "zin",
+            "ette",
+            "ville",
+            "os"
+        ],
+        "description": "mentions of the name \"son\""
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "32329",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a midwife/data_for_feature_32329.json",
+    "negative_strings": [
+        "idge",
+        "ing",
+        "idebar",
+        "inded",
+        "imulator",
+        " Birch",
+        "ered",
+        "er",
+        "apa",
+        "\u00e3\u0125\u00b3\u00e3\u0124\u00b0"
+    ],
+    "positive_strings": [
+        "wives",
+        "wife",
+        "lle",
+        "dle",
+        "range",
+        "emean",
+        "town",
+        "size",
+        "-sized",
+        "summer"
+    ],
+    "description": "references to regions or locations in text, particularly those containing the word \"Mid.\""
+}

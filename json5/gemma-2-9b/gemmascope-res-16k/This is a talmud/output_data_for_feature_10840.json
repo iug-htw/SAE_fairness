@@ -1,0 +1,30 @@
+{
+    "index": "10840",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a talmud/data_for_feature_10840.json",
+    "negative_strings": [
+        "\u2581consultato",
+        "httphttps",
+        "DockStyle",
+        "\u0411\u0430\u0445\u0430\u0440",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+        "\u2581BoxDecoration",
+        "\u2581Hou\u017fe",
+        "Diwedd",
+        "\u2581ferm\u00e9s",
+        "m\u00f6gen"
+    ],
+    "positive_strings": [
+        "\u2581Tal",
+        "\u2581tal",
+        "Tal",
+        "\u2581TAL",
+        "tal",
+        "TAL",
+        "\u2581Tale",
+        "tale",
+        "Tale",
+        "\u2581Tali"
+    ],
+    "description": "names and titles that begin with \"Tal,\" \"Tall,\" or \"Tul.\""
+}

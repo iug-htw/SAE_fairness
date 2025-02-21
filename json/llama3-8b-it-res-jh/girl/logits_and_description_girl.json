@@ -1,0 +1,92 @@
+[
+    {
+        "index": "16375",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/girl/data_for_feature_16375.json",
+        "negative_strings": [
+            "872",
+            "inos",
+            "onium",
+            " slander",
+            "andon",
+            "pressive",
+            " Kurds",
+            "ierz",
+            "\u00e0\u00b8\u0143\u00e0\u00b8\u00ab",
+            "/source"
+        ],
+        "positive_strings": [
+            " Nigeria",
+            "oko",
+            "\u00e0\u00b8\u00a4",
+            "Lake",
+            " Nigerian",
+            "atron",
+            "mall",
+            "uxe",
+            "IED",
+            " kid"
+        ],
+        "description": " references related to the abduction of girls and their plight in captivity"
+    },
+    {
+        "index": "22546",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/girl/data_for_feature_22546.json",
+        "negative_strings": [
+            "\u00ce\u00bc\u00ce\u00b2",
+            "INET",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u00b0\u00e0\u00a4\u00b5",
+            " \u00d0\u00bf\u00d0\u00b5\u00d1\u0122\u00d0\u00b5\u00d0\u00b3",
+            "allis",
+            "CLR",
+            "\u00e8\u00b3\u0122",
+            "\u00e3\u0124\u0135\u00e3\u0123\u00aa",
+            "bin",
+            " Huffman"
+        ],
+        "positive_strings": [
+            " Boy",
+            " Girl",
+            " scouts",
+            " Scouts",
+            " scout",
+            " Scout",
+            "Boy",
+            " scouting",
+            " Cub",
+            "Girl"
+        ],
+        "description": "references to the Girl Scouts and related organizational decisions"
+    },
+    {
+        "index": "56971",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/girl/data_for_feature_56971.json",
+        "negative_strings": [
+            "snake",
+            "ucha",
+            "\u00ef\u00bc\u0123\u00e3\u0122\u012f\n\n",
+            " Y\u00c3\u00b6n",
+            "aliyet",
+            "\u00ed\u0125\u013f",
+            "\u00ef\u00bc\u0141\u00e3\u0122\u012f\n\n",
+            "etooth",
+            "acho",
+            "atomy"
+        ],
+        "positive_strings": [
+            " look",
+            " looks",
+            " gro",
+            " gas",
+            " nod",
+            " looked",
+            " motion",
+            " sigh",
+            " gest",
+            " gl"
+        ],
+        "description": " references to female characters or specific mentions of girls"
+    }
+]

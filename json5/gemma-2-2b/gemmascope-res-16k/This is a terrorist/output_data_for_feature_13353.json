@@ -1,0 +1,30 @@
+{
+    "index": "13353",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a terrorist/data_for_feature_13353.json",
+    "negative_strings": [
+        "\u0445\u044c\u0442\u0430\u043d",
+        "\u2581FBref",
+        "\u2581newOwner",
+        "GeoNames",
+        "\u2581weg",
+        "\u2581acca",
+        "\u2581Baillargeon",
+        "MHC",
+        "\u2581\"%\"",
+        "DataAnnotations"
+    ],
+    "positive_strings": [
+        "\u2581terrorist",
+        "\u2581terrorists",
+        "\u2581terror",
+        "terror",
+        "\u2581militant",
+        "\u2581terrorism",
+        "\u2581Terror",
+        "\u2581extremist",
+        "\u2581ji",
+        "\u2581Qaeda"
+    ],
+    "description": "references to terrorist organizations and their tactics"
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "index": "14804",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a lady/data_for_feature_14804.json",
+        "negative_strings": [
+            "++\r",
+            "\"])){",
+            "\u2581rarely",
+            "\u2581BitmapFactory",
+            ")\");\r",
+            "\u2581Rarely",
+            "\u2581infrequently",
+            "\u2581lady",
+            "\u2581Lady",
+            "\u2581seldom"
+        ],
+        "positive_strings": [
+            "TypedDataSet",
+            "\ucc38\uace0",
+            "\ub01c",
+            "Datuak",
+            "\u2581defStyleAttr",
+            "\u2581NgModule",
+            "\u5668",
+            "\u2581Boko",
+            "\u24e7",
+            "writeFieldEnd"
+        ],
+        "description": " attends to the token \"lady\" from associated references to the feminine role or title throughout various contexts"
+    },
+    {
+        "index": "343",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a lady/data_for_feature_343.json",
+        "negative_strings": [
+            "WebElementEntity",
+            "\u2581ModelExpression",
+            "\u2581QName",
+            "\u2581nakalista",
+            "nodoc",
+            "Aktualisiert",
+            "divia",
+            "\u2581Rel",
+            "\u2581campan",
+            "\u2581cons"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "saraba",
+            "DataSetChanged",
+            "SPJ",
+            "EndContext",
+            "\u2581\u0391\u03c5",
+            "\u2581C\u00e6sar",
+            "\u2581comportement",
+            "\u2581(;;)",
+            "\u2581replying"
+        ],
+        "description": " attends to the token \"is\" from various tokens including punctuation or articles that serve as a connector within the context"
+    }
+]

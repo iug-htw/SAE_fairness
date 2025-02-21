@@ -1,0 +1,30 @@
+{
+    "index": "22585",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a receptionist/data_for_feature_22585.json",
+    "negative_strings": [
+        " Restaurants",
+        " Resorts",
+        " neighborhoods",
+        " Hospitals",
+        " Hotels",
+        " supermarkets",
+        " subur",
+        " homeowners",
+        " residential",
+        " \u00e8\u0122"
+    ],
+    "positive_strings": [
+        " area",
+        " booth",
+        " station",
+        " room",
+        " shed",
+        " shack",
+        " hut",
+        " tent",
+        " stand",
+        " pit"
+    ],
+    "description": "activities and events related to community engagement and leisure"
+}

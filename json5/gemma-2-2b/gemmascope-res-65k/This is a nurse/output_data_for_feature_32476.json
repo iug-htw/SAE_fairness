@@ -1,0 +1,30 @@
+{
+    "index": "32476",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_32476.json",
+    "negative_strings": [
+        "Diwedd",
+        "Obr\u00e1zky",
+        "\u2581plea\u017fure",
+        "\u2581Majefty",
+        "Geplaatst",
+        "\u2581Monfieur",
+        "\u2581u\u017f",
+        "\u2581purpo\u017fe",
+        "\u2581Per\u017f",
+        "\u2581\u017fmall"
+    ],
+    "positive_strings": [
+        "maid",
+        "maids",
+        "\u2581practitioner",
+        "\u00e9moc",
+        "\u2581Practitioner",
+        "\u2581care",
+        "featureID",
+        "NOTES",
+        "\u2581Clio",
+        "\u2581inoxydable"
+    ],
+    "description": "references to nurses and nursing"
+}

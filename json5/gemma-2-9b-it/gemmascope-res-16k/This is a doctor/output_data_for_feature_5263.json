@@ -1,0 +1,30 @@
+{
+    "index": "5263",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a doctor/data_for_feature_5263.json",
+    "negative_strings": [
+        "ProgressHUD",
+        "\u2581Krie",
+        "IsMutable",
+        "elemField",
+        "Externe",
+        "picasso",
+        "\u2581Sorte",
+        "bereit",
+        "\u2581Justiz",
+        "igar"
+    ],
+    "positive_strings": [
+        "\u2581clinic",
+        "\u2581doctors",
+        "\u2581prescribe",
+        "\u2581checkup",
+        "\u2581physician",
+        "\u2581doctor",
+        "\u8a3a",
+        "\u2581physicians",
+        "\u2581m\u00e9dicaux",
+        "\u2581medical"
+    ],
+    "description": "terms related to patient communication and healthcare interactions"
+}

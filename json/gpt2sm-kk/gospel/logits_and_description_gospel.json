@@ -1,0 +1,62 @@
+[
+    {
+        "index": "2775",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/gospel/data_for_feature_2775.json",
+        "negative_strings": [
+            "otte",
+            "liga",
+            "ventus",
+            "ibaba",
+            "emouth",
+            "zanne",
+            "ucket",
+            "ividual",
+            "untled",
+            "rez"
+        ],
+        "positive_strings": [
+            " Mormonism",
+            " Generations",
+            " Revival",
+            " Christianity",
+            " Metatron",
+            " theology",
+            " Gleaming",
+            "\ufffd",
+            " Judaism",
+            "inspired"
+        ],
+        "description": "the phrase \"Gospel of Thomas.\""
+    },
+    {
+        "index": "7349",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/gospel/data_for_feature_7349.json",
+        "negative_strings": [
+            "thens",
+            "arcity",
+            "aundering",
+            "thening",
+            "olulu",
+            "everal",
+            "gotten",
+            "pmwiki",
+            "*/(",
+            "bidden"
+        ],
+        "positive_strings": [
+            "\ufffd",
+            " attRot",
+            " Crusade",
+            "weed",
+            "\u30fc\u30c6",
+            "stones",
+            "fruit",
+            "TextColor",
+            "bugs",
+            "\u30a6\u30b9"
+        ],
+        "description": "references to religious concepts or texts, specifically focusing on the concept of \"gospel.\""
+    }
+]

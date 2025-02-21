@@ -1,0 +1,152 @@
+[
+    {
+        "index": "9935",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a baptsim/data_for_feature_9935.json",
+        "negative_strings": [
+            "ting",
+            "able",
+            "he",
+            "tt",
+            "sis",
+            "ern",
+            "queryInterface",
+            "ering",
+            "h\u00e9",
+            "sor"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "\u2581autorytatywna",
+            "DOCTYPE",
+            "GraphicsUnit",
+            "onAttach",
+            "StructEnd",
+            "as",
+            "pushFollow",
+            "Refrain",
+            "Reds"
+        ],
+        "description": " references to medical terms and classifications"
+    },
+    {
+        "index": "10755",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a baptsim/data_for_feature_10755.json",
+        "negative_strings": [
+            "sis",
+            "sor",
+            "queryInterface",
+            "able",
+            "sof",
+            "\u0647\u200c\u0627\u0646\u062f",
+            "sch",
+            "eral",
+            "ting",
+            "ype"
+        ],
+        "positive_strings": [
+            "Refrain",
+            "onAttach",
+            "as",
+            "arp",
+            "\u2581StatelessWidget",
+            "an",
+            "\u2581tahu",
+            "capsule",
+            "\u2581recevez",
+            "\u2581autorytatywna"
+        ],
+        "description": "repeated patterns or similar sequences in text"
+    },
+    {
+        "index": "7871",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a baptsim/data_for_feature_7871.json",
+        "negative_strings": [
+            "\u0647\u200c\u0627\u0646\u062f",
+            "ered",
+            "queryInterface",
+            "er",
+            "titleMargin",
+            "sor",
+            "KommentareTeilen",
+            "ering",
+            "ised",
+            "ContentAsync"
+        ],
+        "positive_strings": [
+            "as",
+            "an",
+            "\u05dc",
+            "in",
+            "l",
+            "esseract",
+            "us",
+            "ft",
+            "at",
+            "ch"
+        ],
+        "description": "repeated patterns or sequences of similar characters"
+    },
+    {
+        "index": "6575",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a baptsim/data_for_feature_6575.json",
+        "negative_strings": [
+            "ities",
+            "holders",
+            "ization",
+            "HOLDER",
+            "holder",
+            "ized",
+            "izable",
+            "ists",
+            "hander",
+            "h"
+        ],
+        "positive_strings": [
+            "est",
+            "tttt",
+            "ttt",
+            "\u2581ipt",
+            "ort",
+            "ests",
+            "escrit",
+            "t",
+            "\u2581Gaut",
+            "ET"
+        ],
+        "description": "terms related to biomedicine and drug approval processes"
+    },
+    {
+        "index": "3069",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a baptsim/data_for_feature_3069.json",
+        "negative_strings": [
+            "\u0627\u064b",
+            "ening",
+            "\u3066\u3082",
+            "yx",
+            "ension",
+            "ened",
+            "tlement",
+            "ene",
+            "enable",
+            "ename"
+        ],
+        "positive_strings": [
+            "er",
+            "erii",
+            "erar",
+            "erent",
+            "n",
+            "h",
+            "erate",
+            "erun",
+            "\u3044",
+            "ish"
+        ],
+        "description": "mentions of a specific individual involved in a legal context"
+    }
+]

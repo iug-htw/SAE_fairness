@@ -1,0 +1,362 @@
+[
+    {
+        "index": "13579",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_13579.json",
+        "negative_strings": [
+            "eer",
+            "eload",
+            "ecial",
+            "eti",
+            "nable",
+            "othy",
+            "eut",
+            "ebb",
+            "raman",
+            "etr"
+        ],
+        "positive_strings": [
+            "friends",
+            "ie",
+            "friend",
+            " scout",
+            "-next",
+            "hood",
+            " Scout",
+            " Scouts",
+            "boss",
+            " scouts"
+        ],
+        "description": " references to \"girl\" in various contexts"
+    },
+    {
+        "index": "20327",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_20327.json",
+        "negative_strings": [
+            "eer",
+            "raman",
+            "male",
+            "eti",
+            "ally",
+            " gentlemen",
+            "ality",
+            "osu",
+            "flix",
+            " males"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "/man",
+            " scout",
+            "friends",
+            "/w",
+            " Scout",
+            "ies",
+            " Scouts",
+            "friend"
+        ],
+        "description": " references to females or female-related terms"
+    },
+    {
+        "index": "20382",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_20382.json",
+        "negative_strings": [
+            "eer",
+            " females",
+            "male",
+            "ally",
+            "ality",
+            "osu",
+            " males",
+            "ned",
+            " male",
+            " female"
+        ],
+        "positive_strings": [
+            "hood",
+            "friends",
+            "ie",
+            "friend",
+            " Scout",
+            "/man",
+            " scout",
+            "boss",
+            " Scouts",
+            "-next"
+        ],
+        "description": " references to female characters and their relationships"
+    },
+    {
+        "index": "22716",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_22716.json",
+        "negative_strings": [
+            "eer",
+            "raman",
+            "male",
+            "lid",
+            " male",
+            "ality",
+            " female",
+            " males",
+            " females",
+            " Male"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "friends",
+            "friend",
+            "/man",
+            "/w",
+            "ies",
+            " scout",
+            " Scout",
+            " Scouts"
+        ],
+        "description": "references to female characters and their roles"
+    },
+    {
+        "index": "979",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_979.json",
+        "negative_strings": [
+            "eer",
+            "male",
+            " females",
+            "ality",
+            " males",
+            "ally",
+            " male",
+            "halt",
+            " \u00ec\u00a1",
+            "ALLY"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "friends",
+            "friend",
+            "/man",
+            "boss",
+            "/w",
+            "ies",
+            " Scout",
+            " Scouts"
+        ],
+        "description": "references to female characters or individuals, particularly in a familial or personal context"
+    },
+    {
+        "index": "21523",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_21523.json",
+        "negative_strings": [
+            "eer",
+            "ally",
+            "osu",
+            "raman",
+            " male",
+            "male",
+            " female",
+            "ality",
+            "ALLY",
+            " males"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "friends",
+            "friend",
+            "/man",
+            "ies",
+            "/w",
+            " Scouts",
+            " Scout",
+            " scout"
+        ],
+        "description": "references to female identities and their relationships"
+    },
+    {
+        "index": "26360",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_26360.json",
+        "negative_strings": [
+            "eer",
+            "ally",
+            " male",
+            "male",
+            "raman",
+            " males",
+            "lid",
+            " mu\u00c5\u00be",
+            " gentlemen",
+            "\u00d0\u00bd\u00d0\u00b3"
+        ],
+        "positive_strings": [
+            "hood",
+            "friend",
+            "friends",
+            "/w",
+            "/man",
+            "ie",
+            "riend",
+            "ies",
+            "enger",
+            " scout"
+        ],
+        "description": "references to girls and women"
+    },
+    {
+        "index": "16015",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_16015.json",
+        "negative_strings": [
+            "eer",
+            " male",
+            "ally",
+            "male",
+            " males",
+            " gentlemen",
+            "raman",
+            " Male",
+            "ality",
+            "lid"
+        ],
+        "positive_strings": [
+            "hood",
+            "friend",
+            "friends",
+            "/man",
+            "/w",
+            "riend",
+            "ies",
+            "ie",
+            "enger",
+            "teenth"
+        ],
+        "description": " references to female characters or groups in various contexts"
+    },
+    {
+        "index": "4042",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_4042.json",
+        "negative_strings": [
+            "eer",
+            " grand",
+            "ally",
+            "gradable",
+            "ality",
+            "raman",
+            "onica",
+            " gentlemen",
+            "ixel",
+            "gregar"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "/w",
+            "boss",
+            "ie",
+            "-boy",
+            "teenth",
+            "-next",
+            "ies",
+            "ified"
+        ],
+        "description": "references to \"girl\" or \"girls\" in various contexts"
+    },
+    {
+        "index": "30581",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_30581.json",
+        "negative_strings": [
+            "eer",
+            "ality",
+            "bsolute",
+            "raman",
+            "onica",
+            ")((((",
+            "\u00e0\u00b8\u0123\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3\u00e0\u00b8\u0135",
+            " grand",
+            "gradable",
+            " gentlemen"
+        ],
+        "positive_strings": [
+            "hood",
+            "/man",
+            "ified",
+            "friend",
+            "ies",
+            "/w",
+            "riend",
+            "ie",
+            "boss",
+            "riends"
+        ],
+        "description": "references to girls or female-centric terms"
+    },
+    {
+        "index": "26868",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_26868.json",
+        "negative_strings": [
+            "eer",
+            "ally",
+            "TeV",
+            " Brandon",
+            "raman",
+            "lid",
+            " himself",
+            "ral",
+            "\u00c5\u0124aw",
+            "gradable"
+        ],
+        "positive_strings": [
+            "hood",
+            "boss",
+            "ie",
+            "enger",
+            "prene",
+            "bower",
+            " empowerment",
+            "maids",
+            "preneur",
+            "arella"
+        ],
+        "description": "references to young females, particularly in social or educational contexts"
+    },
+    {
+        "index": "15125",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_15125.json",
+        "negative_strings": [
+            "aker",
+            "wich",
+            "emen",
+            "ITTER",
+            "ermen",
+            "estre",
+            "erman",
+            "itter",
+            ".psi",
+            " Niet"
+        ],
+        "positive_strings": [
+            "friend",
+            " Scout",
+            " Scouts",
+            " scout",
+            "hood",
+            "Friend",
+            "cott",
+            "friends",
+            " scouts",
+            " freund"
+        ],
+        "description": "mentions of genders and relationships between boys and girls"
+    }
+]

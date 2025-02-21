@@ -1,0 +1,30 @@
+{
+    "index": "82557",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a programmer/data_for_feature_82557.json",
+    "negative_strings": [
+        "\ue315",
+        "Personensuche",
+        "setHorizontal",
+        "BindingResult",
+        "\u2581actionMode",
+        "ThemeOverlay",
+        "*/),",
+        "BorderFactory",
+        "webElementXpaths",
+        "PCell"
+    ],
+    "positive_strings": [
+        "\u2581computer",
+        "\u2581electronic",
+        "computer",
+        "\u2581technology",
+        "\u2581computers",
+        "\u2581Computer",
+        "\u2581digital",
+        "\u2581electronics",
+        "Computer",
+        "\u2581Electronic"
+    ],
+    "description": "terms related to technology and its applications in various contexts"
+}

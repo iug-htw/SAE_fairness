@@ -1,0 +1,30 @@
+{
+    "index": "119213",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a professor/data_for_feature_119213.json",
+    "negative_strings": [
+        "sizeCache",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+        "\u2581MotionEvent",
+        "\u2581sureties",
+        "warted",
+        "UnsafeEnabled",
+        "\u2581NSCoder",
+        "stylers",
+        "\u5e16\u6700\u540e\u7531",
+        "\u2581striking"
+    ],
+    "positive_strings": [
+        "\u2581doctor",
+        "\u2581scientist",
+        "\u2581plea\u017fure",
+        "\u2581\u017ftate",
+        "\u2581\u017fch",
+        "\u2581\u017fta",
+        "\u2581Re\u017f",
+        "doctor",
+        "\u2581hou\u017fe",
+        "\u2581purpo\u017fe"
+    ],
+    "description": "titles and names associated with professional degrees or medical practitioners"
+}

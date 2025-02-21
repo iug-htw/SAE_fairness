@@ -1,0 +1,30 @@
+{
+    "index": "7060",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a man/data_for_feature_7060.json",
+    "negative_strings": [
+        "expandindo",
+        "\u2581EconPapers",
+        "\u2581skolan",
+        "\u2581saites",
+        "\u2581snippetHide",
+        "']\")",
+        "\u2581Photocase",
+        "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+        "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+        "\u2581autorytatywna"
+    ],
+    "positive_strings": [
+        "\u2581men",
+        "\u2581Men",
+        "\u2581who",
+        "\u2581MEN",
+        "hunt",
+        "\u2581Man",
+        "Men",
+        "\u2581man",
+        "\u2581woman",
+        "men"
+    ],
+    "description": "references to \"man\" or male characters in various contexts"
+}

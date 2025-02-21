@@ -1,0 +1,602 @@
+[
+    {
+        "index": "10573",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_10573.json",
+        "negative_strings": [
+            " reper",
+            "pour",
+            " arter",
+            "Nit",
+            " membranes",
+            "osph",
+            " oxidative",
+            " compr",
+            " congest",
+            " congestion"
+        ],
+        "positive_strings": [
+            " Scout",
+            " Scouts",
+            " Scouting",
+            " scout",
+            " troop",
+            " Girl",
+            " scouts",
+            " scouting",
+            " Boy",
+            " Girls"
+        ],
+        "description": "references to the Girl Scouts organization and its programs"
+    },
+    {
+        "index": "9358",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_9358.json",
+        "negative_strings": [
+            " Berman",
+            "veland",
+            " Watergate",
+            " Ferguson",
+            " Manit",
+            " Berm",
+            "orne",
+            " Carpenter",
+            " Rutherford",
+            "erguson"
+        ],
+        "positive_strings": [
+            " Girls",
+            "Girls",
+            " girls",
+            "girls",
+            " Girl",
+            " girl",
+            "Girl",
+            "girl",
+            " Boys",
+            " boys"
+        ],
+        "description": "references to societal issues impacting boys and girls, particularly in education and representation"
+    },
+    {
+        "index": "1164",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_1164.json",
+        "negative_strings": [
+            "Pand",
+            "Di",
+            " Eag",
+            " Rend",
+            " Jar",
+            "di",
+            " Pillar",
+            " Kling",
+            " rog",
+            "SpaceEngineers"
+        ],
+        "positive_strings": [
+            "USA",
+            " USA",
+            "usa",
+            "amer",
+            "usat",
+            " AMERICA",
+            " Sue",
+            " Serbia",
+            " 1899",
+            "SA"
+        ],
+        "description": "references to organizations and their interactions, particularly focusing on the Girl Scouts USA and its partnerships"
+    },
+    {
+        "index": "3786",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_3786.json",
+        "negative_strings": [
+            " Emergency",
+            " Budget",
+            "Offline",
+            "Rest",
+            " Synd",
+            " Controlled",
+            " crem",
+            " Tax",
+            "\u30bb",
+            " refuel"
+        ],
+        "positive_strings": [
+            " boys",
+            " girls",
+            " females",
+            "Girls",
+            " Girls",
+            "girls",
+            " males",
+            "boys",
+            " Females",
+            " Boys"
+        ],
+        "description": " references to gender and the portrayal of boys and girls in literature"
+    },
+    {
+        "index": "20761",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_20761.json",
+        "negative_strings": [
+            " reper",
+            "\ufffd\ufffd",
+            "paio",
+            " Antar",
+            "chwitz",
+            " indemn",
+            " cyan",
+            "ifix",
+            " grazing",
+            "urion"
+        ],
+        "positive_strings": [
+            " girls",
+            " Girls",
+            "Girls",
+            "girls",
+            " boys",
+            " girl",
+            " Girl",
+            " females",
+            "Girl",
+            "girl"
+        ],
+        "description": "discussions about educational challenges and differences affecting boys and girls"
+    },
+    {
+        "index": "11735",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_11735.json",
+        "negative_strings": [
+            " Torrent",
+            "Bitcoin",
+            "quickShipAvailable",
+            "TeX",
+            " Zerg",
+            "Torrent",
+            "isSpecialOrderable",
+            "inventoryQuantity",
+            " Bitcoin",
+            " Ethereum"
+        ],
+        "positive_strings": [
+            "eers",
+            "\u00ae,",
+            "uci",
+            "ablishment",
+            "orers",
+            "ocrats",
+            "istration",
+            " Partnership",
+            "Registered",
+            " obligated"
+        ],
+        "description": "references to the Girl Scouts and their associated programs and materials"
+    },
+    {
+        "index": "12375",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_12375.json",
+        "negative_strings": [
+            " Edison",
+            " Xiaomi",
+            "jriwal",
+            " Qualcomm",
+            "Afee",
+            " Rao",
+            " Renault",
+            "ilib",
+            "Mp",
+            " Municip"
+        ],
+        "positive_strings": [
+            " Scouting",
+            " Scouts",
+            " Scout",
+            " chicks",
+            " bullying",
+            "Kids",
+            " Kids",
+            " girls",
+            " boys",
+            " Chick"
+        ],
+        "description": "references to organizations related to girls' scouting and their affiliations or influences"
+    },
+    {
+        "index": "18794",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_18794.json",
+        "negative_strings": [
+            "hor",
+            "hern",
+            "\ufffd",
+            "\u00e9r",
+            "htar",
+            "iago",
+            "eur",
+            "liam",
+            " reversible",
+            "orth"
+        ],
+        "positive_strings": [
+            " Scouts",
+            " Scout",
+            " Scouting",
+            " scout",
+            " scouts",
+            " Crusade",
+            " Boone",
+            "istical",
+            " ninja",
+            " Ranger"
+        ],
+        "description": " references to Girl Scouts and related organizations"
+    },
+    {
+        "index": "6593",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_6593.json",
+        "negative_strings": [
+            "oof",
+            "\"},",
+            "ope",
+            "\"}",
+            "larg",
+            "ude",
+            "lead",
+            "aque",
+            "gre",
+            "usher"
+        ],
+        "positive_strings": [
+            "DragonMagazine",
+            "utenberg",
+            " varies",
+            " remains",
+            "adesh",
+            "advertisement",
+            " depends",
+            "wiki",
+            " parentheses",
+            "TeX"
+        ],
+        "description": "references to social interactions or events, particularly involving girls and parties"
+    },
+    {
+        "index": "26893",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_26893.json",
+        "negative_strings": [
+            "ether",
+            "renheit",
+            " Mell",
+            "hend",
+            "li",
+            "hyde",
+            "hen",
+            "llular",
+            " Ether",
+            "\u00eb"
+        ],
+        "positive_strings": [
+            " Scouts",
+            " Scout",
+            " Scouting",
+            " scout",
+            " scouts",
+            " scouting",
+            "obbies",
+            " Academy",
+            "agle",
+            " academy"
+        ],
+        "description": "references to scouting organizations, particularly those related to girls"
+    },
+    {
+        "index": "16356",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_16356.json",
+        "negative_strings": [
+            "\"]=>",
+            "Jump",
+            "raq",
+            "Tes",
+            "Tor",
+            " Yards",
+            "Ranked",
+            "Companies",
+            "Translation",
+            "Nin"
+        ],
+        "positive_strings": [
+            " aven",
+            "emate",
+            "etheless",
+            "cknow",
+            " booked",
+            "afort",
+            "utherford",
+            "avin",
+            "isma",
+            " preservation"
+        ],
+        "description": "references to minors, specifically young girls"
+    },
+    {
+        "index": "989",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_989.json",
+        "negative_strings": [
+            "76561",
+            " Lange",
+            "\ufffd\ufffd",
+            "NetMessage",
+            "assis",
+            " refuel",
+            " Tracker",
+            " Luxem",
+            " Wast",
+            " DPR"
+        ],
+        "positive_strings": [
+            " preschool",
+            " puberty",
+            " kindergarten",
+            "Parents",
+            " adolescence",
+            " kids",
+            " school",
+            " adulthood",
+            " teenagers",
+            " toddlers"
+        ],
+        "description": "references to gender roles and stereotypes, particularly concerning boys and girls in educational contexts"
+    },
+    {
+        "index": "10462",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_10462.json",
+        "negative_strings": [
+            "ertodd",
+            "\u30b4\u30f3",
+            " Collider",
+            "sov",
+            "ikawa",
+            " convol",
+            " Daniels",
+            " captcha",
+            " interval",
+            "rox"
+        ],
+        "positive_strings": [
+            " Fitness",
+            " certific",
+            " Liberty",
+            "Judge",
+            " Guides",
+            " Doctrine",
+            "serial",
+            "actionDate",
+            " Clubs",
+            "Cert"
+        ],
+        "description": " references to the Girl Scouts and their relationship with various organizations and issues"
+    },
+    {
+        "index": "17939",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_17939.json",
+        "negative_strings": [
+            "lihood",
+            " indirect",
+            " issu",
+            "ramid",
+            " mechanisms",
+            " banners",
+            " ACTIONS",
+            "yss",
+            " stations",
+            " sqor"
+        ],
+        "positive_strings": [
+            "ija",
+            " Corvette",
+            "jack",
+            " Alter",
+            " Amelia",
+            "Jr",
+            "ogie",
+            " Wolver",
+            " Alma",
+            " Orleans"
+        ],
+        "description": "references to minors, specifically boys and girls"
+    },
+    {
+        "index": "35164",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_35164.json",
+        "negative_strings": [
+            " antioxid",
+            " unfocusedRange",
+            " externalToEVAOnly",
+            "berus",
+            " Wast",
+            "\ufffd\ufffd",
+            "ETF",
+            " MPG",
+            " pestic",
+            "BRE"
+        ],
+        "positive_strings": [
+            "udi",
+            "jong",
+            "amate",
+            "nikov",
+            "otted",
+            "bang",
+            "anova",
+            "boarding",
+            "chin",
+            "young"
+        ],
+        "description": " mentions of \"and\" along with references to girls and female representation"
+    },
+    {
+        "index": "5153",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_5153.json",
+        "negative_strings": [
+            "\ufffd",
+            "Browser",
+            "cffffcc",
+            "LESS",
+            "ctions",
+            "CLASSIFIED",
+            " looph",
+            "\u30a6\u30b9",
+            "\u6a5f",
+            "aer"
+        ],
+        "positive_strings": [
+            " herself",
+            " lesbians",
+            " Simone",
+            " lesbian",
+            "izabeth",
+            " Marie",
+            " Addiction",
+            " Anne",
+            " Lesbian",
+            " Olivia"
+        ],
+        "description": " negative perceptions and competition among girls and women"
+    },
+    {
+        "index": "8600",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_8600.json",
+        "negative_strings": [
+            " Wast",
+            "ETF",
+            "\u30c3\u30c8",
+            " Supply",
+            " ACTIONS",
+            "\u58eb",
+            " Supporters",
+            "-+-+",
+            " Ports",
+            " issuance"
+        ],
+        "positive_strings": [
+            "icter",
+            "ozyg",
+            " kittens",
+            " whom",
+            "urat",
+            "inki",
+            " Emma",
+            "ivan",
+            "Jane",
+            "young"
+        ],
+        "description": "references to girls and women's experiences, particularly in relation to societal pressures and competition"
+    },
+    {
+        "index": "9645",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_9645.json",
+        "negative_strings": [
+            "BILITY",
+            "\u6a5f",
+            "quickShipAvailable",
+            "ETF",
+            "\u9f8d\u5951\u58eb",
+            "irmation",
+            "Companies",
+            "Quantity",
+            " antitrust",
+            " CTR"
+        ],
+        "positive_strings": [
+            "nai",
+            " captivity",
+            " Sue",
+            " Nicole",
+            " nurse",
+            " Ara",
+            "girl",
+            "abies",
+            " raped",
+            " epile"
+        ],
+        "description": "references to harmful or inappropriate behavior towards girls or women"
+    },
+    {
+        "index": "23818",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_23818.json",
+        "negative_strings": [
+            "erenn",
+            "ournal",
+            "OLOGY",
+            "OPLE",
+            "rontal",
+            "insula",
+            "neum",
+            "rehend",
+            "LEASE",
+            "ilities"
+        ],
+        "positive_strings": [
+            "cakes",
+            "lings",
+            " adolesc",
+            " diapers",
+            "wagen",
+            "girls",
+            "bags",
+            "ager",
+            "omething",
+            "riages"
+        ],
+        "description": "mentions of girls in social and educational contexts"
+    },
+    {
+        "index": "17682",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/girl/data_for_feature_17682.json",
+        "negative_strings": [
+            "psey",
+            "raltar",
+            "undai",
+            "insula",
+            "aeda",
+            "erenn",
+            "raints",
+            "umbn",
+            "\ufffd\ufffd",
+            "ournal"
+        ],
+        "positive_strings": [
+            "ishly",
+            "lings",
+            "naire",
+            "pool",
+            "cakes",
+            "bags",
+            "bag",
+            " Soup",
+            "wagen",
+            "boss"
+        ],
+        "description": "words related to children, girls, and family circumstances"
+    }
+]

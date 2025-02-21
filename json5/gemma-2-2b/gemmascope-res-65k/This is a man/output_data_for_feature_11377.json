@@ -1,0 +1,30 @@
+{
+    "index": "11377",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a man/data_for_feature_11377.json",
+    "negative_strings": [
+        "\u2581'\\\\;'",
+        "titleMargin",
+        "CloseOperation",
+        "\u2581snippetHide",
+        "\u2581autorytatywna",
+        "^(@)",
+        "OGND",
+        "\u2581onCreateView",
+        "expandindo",
+        "retweeted"
+    ],
+    "positive_strings": [
+        "\u2581who",
+        "\u2581men",
+        "\u2581Men",
+        "\u2581Man",
+        "\u2581man",
+        "\u2581MEN",
+        "hunt",
+        "Man",
+        "Men",
+        "\u2581MAN"
+    ],
+    "description": "instances of the word \"man\""
+}

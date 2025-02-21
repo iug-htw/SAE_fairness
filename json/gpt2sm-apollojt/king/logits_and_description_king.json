@@ -1,0 +1,602 @@
+[
+    {
+        "index": "19186",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_19186.json",
+        "negative_strings": [
+            "TING",
+            "ename",
+            "ATIONS",
+            "ted",
+            "oresc",
+            "utic",
+            "ters",
+            "orers",
+            "uated",
+            "ATIONAL"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "uin",
+            "doms",
+            "dom",
+            " Kong",
+            "STON",
+            "ston",
+            "DOM",
+            "killer"
+        ],
+        "description": " mentions of the word \"King,\" likely in various contexts"
+    },
+    {
+        "index": "28018",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_28018.json",
+        "negative_strings": [
+            "ename",
+            "TING",
+            "oresc",
+            "ATIONS",
+            "orers",
+            "utic",
+            "ters",
+            "ted",
+            "uated",
+            "ATIONAL"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "uin",
+            "doms",
+            "dom",
+            " Kong",
+            "DOM",
+            "STON",
+            "ston",
+            "fish"
+        ],
+        "description": "references to the character \"King\" or titles associated with it"
+    },
+    {
+        "index": "16608",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_16608.json",
+        "negative_strings": [
+            "assetsadobe",
+            "pherd",
+            "rouse",
+            "letcher",
+            "gency",
+            "mble",
+            "igmat",
+            "geist",
+            "espie",
+            "rower"
+        ],
+        "positive_strings": [
+            " Hearts",
+            " Persia",
+            " Fighters",
+            " Queens",
+            " Clubs",
+            " Pigs",
+            " Atlantis",
+            " England",
+            " Heaven",
+            " Beasts"
+        ],
+        "description": "references to kings and royalty"
+    },
+    {
+        "index": "5540",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_5540.json",
+        "negative_strings": [
+            "awaru",
+            "eredith",
+            "ullah",
+            "zzle",
+            "astical",
+            "arial",
+            "zzi",
+            "asio",
+            "llah",
+            "GoldMagikarp"
+        ],
+        "positive_strings": [
+            "guard",
+            "hip",
+            "ley",
+            "bury",
+            "way",
+            "Kings",
+            "north",
+            "leys",
+            "wick",
+            "pan"
+        ],
+        "description": " references to the term \"Kings\" and related geographical or contextual elements"
+    },
+    {
+        "index": "26088",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_26088.json",
+        "negative_strings": [
+            "TING",
+            "ters",
+            "ATIONAL",
+            "eria",
+            "uated",
+            "ciplinary",
+            "chell",
+            "ename",
+            "\u00d6\u00bc",
+            "Availability"
+        ],
+        "positive_strings": [
+            "pin",
+            "doms",
+            "uin",
+            "pins",
+            "dom",
+            "fish",
+            "DOM",
+            "stown",
+            "STON",
+            " Kong"
+        ],
+        "description": "mentions of the name \"King\" in various contexts"
+    },
+    {
+        "index": "10161",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_10161.json",
+        "negative_strings": [
+            "ngth",
+            "ramid",
+            "grades",
+            "sie",
+            "GoldMagikarp",
+            "\u0124\u00aa",
+            "graded",
+            "jriwal",
+            "riter",
+            "\u0133\u00e5\u00a3\u00ab"
+        ],
+        "positive_strings": [
+            " Luther",
+            "ique",
+            " Martin",
+            " Sheen",
+            "endez",
+            "ucci",
+            "etti",
+            "ias",
+            " Hein",
+            "otti"
+        ],
+        "description": "mentions of the civil rights leader Martin Luther King Jr"
+    },
+    {
+        "index": "4252",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_4252.json",
+        "negative_strings": [
+            "xus",
+            "ternal",
+            "ILA",
+            "yx",
+            "Premium",
+            "ramid",
+            "GAME",
+            " Ukrain",
+            "netflix",
+            "-----------"
+        ],
+        "positive_strings": [
+            "inders",
+            " Luther",
+            "ayne",
+            " Vand",
+            "ijn",
+            " King",
+            " pastor",
+            "oving",
+            " Crus",
+            " Gibbs"
+        ],
+        "description": "phrases related to civil rights leaders and specific individuals like Martin Luther King Jr"
+    },
+    {
+        "index": "7067",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_7067.json",
+        "negative_strings": [
+            "ename",
+            "oresc",
+            "TING",
+            "ATIONS",
+            "ATIONAL",
+            "orescence",
+            "aneers",
+            "opian",
+            "orer",
+            "ters"
+        ],
+        "positive_strings": [
+            "pin",
+            "pins",
+            "dom",
+            " Kong",
+            "uin",
+            "DOM",
+            "ston",
+            "doms",
+            "fish",
+            "STON"
+        ],
+        "description": " mentions of the term \"King.\""
+    },
+    {
+        "index": "13359",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_13359.json",
+        "negative_strings": [
+            "ramid",
+            "Premium",
+            "fet",
+            "ibal",
+            "company",
+            " Immunity",
+            " Proced",
+            "yx",
+            "joining",
+            " Piercing"
+        ],
+        "positive_strings": [
+            " Luther",
+            "ijn",
+            "inders",
+            "andise",
+            "itsch",
+            " Chavez",
+            "aughed",
+            " Gree",
+            "oving",
+            "ville"
+        ],
+        "description": " mentions of Martin Luther King Jr. and related figures or terms"
+    },
+    {
+        "index": "32834",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_32834.json",
+        "negative_strings": [
+            "Reviewer",
+            "addons",
+            "ugi",
+            "ionic",
+            "rar",
+            " Jagu",
+            "atively",
+            "ULE",
+            "idious",
+            "DCS"
+        ],
+        "positive_strings": [
+            " Jr",
+            " Luther",
+            " III",
+            "\u0143\u00b7",
+            " Sr",
+            " assassinated",
+            "cknow",
+            " Hood",
+            " Lives",
+            " preach"
+        ],
+        "description": "names of historical and influential figures, specifically Martin Luther King Jr"
+    },
+    {
+        "index": "10323",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_10323.json",
+        "negative_strings": [
+            "ullah",
+            "awaru",
+            "astically",
+            "astical",
+            "zzi",
+            "zzle",
+            "eredith",
+            "aci",
+            "lli",
+            "uku"
+        ],
+        "positive_strings": [
+            "Kings",
+            "guard",
+            "hip",
+            "icter",
+            "north",
+            " Kings",
+            "ley",
+            "guards",
+            "oran",
+            "register"
+        ],
+        "description": " mentions of the term \"Kings\" and related entities in various contexts"
+    },
+    {
+        "index": "26603",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_26603.json",
+        "negative_strings": [
+            "awaru",
+            "eredith",
+            "llah",
+            "ierrez",
+            "zzle",
+            "GoldMagikarp",
+            " dissemination",
+            "atively",
+            "schild",
+            "llor"
+        ],
+        "positive_strings": [
+            "Kings",
+            "guard",
+            " Kings",
+            "hip",
+            "oran",
+            "north",
+            "knife",
+            "bury",
+            "lad",
+            "wick"
+        ],
+        "description": " mentions of the \"Kings\" in various contexts, indicating a focus on a specific sports team or similar entities"
+    },
+    {
+        "index": "32834",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_32834.json",
+        "negative_strings": [
+            "Reviewer",
+            "addons",
+            "ugi",
+            "ionic",
+            "rar",
+            " Jagu",
+            "atively",
+            "ULE",
+            "idious",
+            "DCS"
+        ],
+        "positive_strings": [
+            " Jr",
+            " Luther",
+            " III",
+            "\u0143\u00b7",
+            " Sr",
+            " assassinated",
+            "cknow",
+            " Hood",
+            " Lives",
+            " preach"
+        ],
+        "description": "names of historical and influential figures, specifically Martin Luther King Jr"
+    },
+    {
+        "index": "9089",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_9089.json",
+        "negative_strings": [
+            "mble",
+            "eon",
+            " PROT",
+            " TYPE",
+            " Jenner",
+            " Matter",
+            " Myster",
+            "enegger",
+            "growth",
+            "\u00e3\u0123\u00a3"
+        ],
+        "positive_strings": [
+            " Arabia",
+            " Arabian",
+            " Aram",
+            "istani",
+            "doms",
+            "DOM",
+            "ishi",
+            "uana",
+            " princes",
+            "ugal"
+        ],
+        "description": "references to the country Saudi Arabia and related entities such as King Salman, the Saudi government, and specific officials"
+    },
+    {
+        "index": "3419",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_3419.json",
+        "negative_strings": [
+            "ramid",
+            "grades",
+            "ngth",
+            "\u0133\u00e5\u00a3\u00ab",
+            "grading",
+            "sie",
+            "reen",
+            "graded",
+            "ebus",
+            "GoldMagikarp"
+        ],
+        "positive_strings": [
+            " Luther",
+            " Martin",
+            "Martin",
+            " Sheen",
+            " Hein",
+            "ias",
+            "ique",
+            " Zimmerman",
+            " Nelson",
+            " Hod"
+        ],
+        "description": "references to Martin Luther King Jr. and related discussions"
+    },
+    {
+        "index": "14271",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_14271.json",
+        "negative_strings": [
+            "ramid",
+            "fet",
+            "Premium",
+            " Immunity",
+            "ilk",
+            " Decay",
+            " scant",
+            " cozy",
+            " Proced",
+            "Continue"
+        ],
+        "positive_strings": [
+            " Luther",
+            "inders",
+            "ijn",
+            "itsch",
+            "enburg",
+            "nuts",
+            "aughed",
+            " Chavez",
+            "oving",
+            "son"
+        ],
+        "description": "references to Martin Luther King Jr"
+    },
+    {
+        "index": "14271",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_14271.json",
+        "negative_strings": [
+            "ramid",
+            "fet",
+            "Premium",
+            " Immunity",
+            "ilk",
+            " Decay",
+            " scant",
+            " cozy",
+            " Proced",
+            "Continue"
+        ],
+        "positive_strings": [
+            " Luther",
+            "inders",
+            "ijn",
+            "itsch",
+            "enburg",
+            "nuts",
+            "aughed",
+            " Chavez",
+            "oving",
+            "son"
+        ],
+        "description": "references to Martin Luther King Jr"
+    },
+    {
+        "index": "6177",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_6177.json",
+        "negative_strings": [
+            "awaru",
+            "eredith",
+            "ierrez",
+            " dissemination",
+            "ller",
+            "ATIONAL",
+            "ogene",
+            "asio",
+            "asca",
+            " malf"
+        ],
+        "positive_strings": [
+            "Kings",
+            " Kings",
+            "guard",
+            "apeake",
+            "guards",
+            "leys",
+            "hip",
+            "DOM",
+            "lad",
+            "layer"
+        ],
+        "description": " mentions of the \"Kings,\" particularly in sports contexts"
+    },
+    {
+        "index": "11342",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_11342.json",
+        "negative_strings": [
+            "ters",
+            "eria",
+            "umbai",
+            "ename",
+            "chell",
+            "uated",
+            "ciplinary",
+            "arial",
+            "ATIONAL",
+            "TING"
+        ],
+        "positive_strings": [
+            "uin",
+            "doms",
+            "pin",
+            "dom",
+            "pins",
+            " King",
+            "lord",
+            "holder",
+            "DOM",
+            " Kong"
+        ],
+        "description": " references to the term \"King\" in various contexts"
+    },
+    {
+        "index": "26074",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/king/data_for_feature_26074.json",
+        "negative_strings": [
+            "xus",
+            " opacity",
+            "ternal",
+            " Mehran",
+            "yx",
+            "hang",
+            "cised",
+            "fixed",
+            " Ukrain",
+            "escap"
+        ],
+        "positive_strings": [
+            " Luther",
+            "rient",
+            "ices",
+            " Vand",
+            "agne",
+            " King",
+            " Borg",
+            " Bach",
+            " Jr",
+            "wood"
+        ],
+        "description": "titles or references related to civil rights leaders, specifically Martin Luther King Jr"
+    }
+]

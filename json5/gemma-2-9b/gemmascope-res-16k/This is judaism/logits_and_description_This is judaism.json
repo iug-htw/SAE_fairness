@@ -1,0 +1,92 @@
+[
+    {
+        "index": "9894",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is judaism/data_for_feature_9894.json",
+        "negative_strings": [
+            "\u306a\u3044",
+            "\u3042\u308a\u307e\u305b\u3093",
+            "\u064b",
+            "j\u0105",
+            "j\u0105c",
+            "\u306a\u3044\u3051\u3069",
+            "yd\u0131",
+            "hs",
+            "zole",
+            "\u043b\u0438"
+        ],
+        "positive_strings": [
+            "sensi",
+            "scribers",
+            "sleeve",
+            "sender",
+            "ver",
+            "tener",
+            "principalColumn",
+            "been",
+            "being",
+            "oldest"
+        ],
+        "description": "proper nouns, particularly names and keywords related to people and places"
+    },
+    {
+        "index": "11090",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is judaism/data_for_feature_11090.json",
+        "negative_strings": [
+            "da",
+            "ca",
+            "te",
+            "de",
+            "na",
+            "\u2581CascadeType",
+            "ma",
+            "me",
+            "is",
+            "re"
+        ],
+        "positive_strings": [
+            "\u2581surla",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "formik",
+            "Nuorodos",
+            "\u2581aVar",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "Referensi",
+            "en",
+            "fraid",
+            "+#+#"
+        ],
+        "description": "the letter \"a\" in various contexts"
+    },
+    {
+        "index": "9437",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is judaism/data_for_feature_9437.json",
+        "negative_strings": [
+            "\u064b",
+            "\u306a\u3044",
+            "migrationBuilder",
+            "j\u0105c",
+            "ceae",
+            "iy",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\u092a\u092f\u093e",
+            "TagMode",
+            "j\u0105"
+        ],
+        "positive_strings": [
+            "fic",
+            "sensi",
+            "ze",
+            "ar",
+            "zee",
+            "Rujuakan",
+            "ful",
+            "maz",
+            "ffe",
+            "tener"
+        ],
+        "description": "names or references related to people"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "index": "20585",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_20585.json",
+        "negative_strings": [
+            "kee",
+            "\u00cc\u0122",
+            "hed",
+            "\u00cc\u0123",
+            "tem",
+            "adh",
+            "cale",
+            "\u00e3\u0124\u00a4\u00e3\u0124\u00af",
+            ".enterprise",
+            "\u00c3\u00a9ru"
+        ],
+        "positive_strings": [
+            "anova",
+            "(es",
+            "ial",
+            "boss",
+            " lady",
+            "eldorf",
+            "y",
+            "iest",
+            "ing",
+            "istrovstv\u00c3\u0143"
+        ],
+        "description": " references to authority figures, particularly in a workplace context"
+    },
+    {
+        "index": "3979",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_3979.json",
+        "negative_strings": [
+            "hed",
+            "\u00c3\u00a9ru",
+            "adh",
+            "\u00e0\u00b8\u00a3",
+            "\u00d8\u0143\u00d8\u00aa",
+            "andum",
+            "795",
+            " vast",
+            "adf",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0129\u00e3\u0124\u00a3"
+        ],
+        "positive_strings": [
+            "anova",
+            "(es",
+            "ial",
+            "-worker",
+            "/exec",
+            "\u00e5\u00a8\u013a",
+            "eldorf",
+            "iale",
+            "dom",
+            "iali"
+        ],
+        "description": "references to authority figures or leadership roles"
+    },
+    {
+        "index": "18201",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_18201.json",
+        "negative_strings": [
+            "hed",
+            "\u00c3\u00a9ru",
+            "804",
+            "oder",
+            "illy",
+            "tes",
+            "nde",
+            "\u00d8\u0143\u00d8\u00aa",
+            "ALLY",
+            "ize"
+        ],
+        "positive_strings": [
+            "anova",
+            "(es",
+            "eldorf",
+            "-worker",
+            "ypi",
+            "elman",
+            "/exec",
+            "ships",
+            "istrovstv\u00c3\u0143",
+            "ess"
+        ],
+        "description": " references to authority figures or leadership roles, particularly \"boss\" and related terms"
+    },
+    {
+        "index": "961",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_961.json",
+        "negative_strings": [
+            "oso",
+            "\u00e6\u013c\u00ae",
+            "341",
+            "659",
+            "adf",
+            "621",
+            "\u00c4\u012fas",
+            "/javascript",
+            "taj",
+            "\u00c3\u00a5n"
+        ],
+        "positive_strings": [
+            "ial",
+            "ially",
+            "/exec",
+            "\u00e5\u00a8\u013a",
+            "ships",
+            "iali",
+            "/Admin",
+            "/head",
+            "/front",
+            "less"
+        ],
+        "description": " references to authority figures in a workplace context"
+    },
+    {
+        "index": "23642",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_23642.json",
+        "negative_strings": [
+            "eus",
+            "jit",
+            "istributed",
+            "tod",
+            "hone",
+            "847",
+            "/stdc",
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            "eu",
+            " centralized"
+        ],
+        "positive_strings": [
+            "well",
+            "hevik",
+            "worth",
+            "oms",
+            "por",
+            " Aires",
+            "colo",
+            "co",
+            "que",
+            "\u00d0\u00b8\u00d0\u00ba\u00d0\u00be\u00d0\u00bc"
+        ],
+        "description": "references to the name \"Bosley\" or variants of it"
+    },
+    {
+        "index": "9115",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_9115.json",
+        "negative_strings": [
+            "antar",
+            "odom",
+            " gaming",
+            "games",
+            "Games",
+            " Games",
+            "\u00e6\u00b8\u00b8\u00e6\u012a\u0131",
+            "_closure",
+            "rek",
+            " fingertips"
+        ],
+        "positive_strings": [
+            " granting",
+            " grant",
+            " buff",
+            " grants",
+            "grant",
+            " bonuses",
+            " bonus",
+            " buffs",
+            " Grants",
+            " award"
+        ],
+        "description": " references to mechanics and conditions in a gaming context"
+    },
+    {
+        "index": "3449",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_3449.json",
+        "negative_strings": [
+            "hone",
+            "ottage",
+            "estroy",
+            "storybook",
+            "tmpl",
+            "gee",
+            "847",
+            "a\u00c4\u012fn\u00c3\u0143",
+            "tty",
+            "ipients"
+        ],
+        "positive_strings": [
+            "worth",
+            "hevik",
+            "well",
+            "nia",
+            "combe",
+            "que",
+            "quet",
+            "ni",
+            "oms",
+            "ques"
+        ],
+        "description": "mentions of the name \"Bosley\" or variations of it in textual contexts"
+    },
+    {
+        "index": "19105",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_19105.json",
+        "negative_strings": [
+            "eus",
+            "eva",
+            "eu",
+            " centralized",
+            "xce",
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            " vit",
+            " xu",
+            " cottage",
+            "estroy"
+        ],
+        "positive_strings": [
+            "hevik",
+            "well",
+            "worth",
+            "\u00d0\u00b8\u00d0\u00ba\u00d0\u00be\u00d0\u00bc",
+            "por",
+            "nia",
+            "oms",
+            "\u013c",
+            "avern",
+            "colo"
+        ],
+        "description": "the name \"Bos\" in various contexts"
+    },
+    {
+        "index": "32705",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boss/data_for_feature_32705.json",
+        "negative_strings": [
+            ".overflow",
+            "\u00d8\u00a8\u00d8\u00a7\u00d8\u00b2",
+            "\u00d8\u00a7\u00d9\u0126\u00d8\u00a5\u00d9\u0128\u00d8\u00ac\u00d9\u0126\u00d9\u012c\u00d8\u00b2\u00d9\u012c\u00d8\u00a9",
+            "\u00d0\u00bb\u00d1\u0130\u00d1\u0129\u00d0\u00b0",
+            "stants",
+            " entreprene",
+            " culp",
+            "\u00ed\u0126\u00b0",
+            " disag",
+            " borderSide"
+        ],
+        "positive_strings": [
+            " sterling",
+            "fiction",
+            " womens",
+            " serif",
+            " pendant",
+            " GeForce",
+            " mens",
+            " perg",
+            " uphol",
+            " Pendant"
+        ],
+        "description": "descriptive phrases associated with product quality and variety"
+    }
+]

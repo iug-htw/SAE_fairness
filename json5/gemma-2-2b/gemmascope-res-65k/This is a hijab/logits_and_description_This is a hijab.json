@@ -1,0 +1,182 @@
+[
+    {
+        "index": "7484",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_7484.json",
+        "negative_strings": [
+            "\u2581Seeder",
+            "\u2581\u043c\u0463",
+            "r\u00edtica",
+            "tanleria",
+            "\u2581Roskov",
+            "\u2581biscuits",
+            "Tracce",
+            "iredo",
+            "\u2581joaat",
+            "loaf"
+        ],
+        "positive_strings": [
+            "\u2581shawl",
+            "\u2581scarf",
+            "\u2581Scarf",
+            "\u2581scarves",
+            "\u2581shaw",
+            "\u2581wrap",
+            "\u2581drape",
+            "\u2581poncho",
+            "\u2581wraps",
+            "\u2581cloak"
+        ],
+        "description": " references to clothing and textiles"
+    },
+    {
+        "index": "6582",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_6582.json",
+        "negative_strings": [
+            "\u2581burgers",
+            "gl\u0119d",
+            "\u2581Roskov",
+            "\u2581\u043c\u0463",
+            "\u2581tyres",
+            "iconos",
+            "\u2581fresas",
+            "\u2581suela",
+            "\u2581sausages",
+            "\u2581Burgers"
+        ],
+        "positive_strings": [
+            "\u2581scarf",
+            "\u2581shawl",
+            "\u2581Scarf",
+            "\u2581scarves",
+            "\u2581draped",
+            "\u2581drape",
+            "\u2581wrap",
+            "\u2581stole",
+            "\u2581wraps",
+            "\u2581shaw"
+        ],
+        "description": " terms related to clothing or fashion design"
+    },
+    {
+        "index": "41493",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_41493.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581propOrder",
+            "\u2581handleMessage",
+            "\u2581\ub9c1\ud06c",
+            "setVerticalGroup",
+            "----</",
+            "Axel",
+            "eloma",
+            "PrototypeOf",
+            "makeText"
+        ],
+        "positive_strings": [
+            "\u2581veil",
+            "\u2581tesett\u00fcr",
+            "\u2581modesty",
+            "\u2581bur",
+            "\u2581hijab",
+            "\u2581ve",
+            "\u2581covering",
+            "\u2581Kopf",
+            "\u2581Veil",
+            "\u2581Hij"
+        ],
+        "description": " references to social or cultural issues and their implications"
+    },
+    {
+        "index": "32796",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_32796.json",
+        "negative_strings": [
+            "\u2581Lietuvos",
+            "Slovakia",
+            "\u2581Czech",
+            "\u2581FormGroup",
+            "\u2581Kla",
+            "\u2581Manit",
+            "\u2581Lithuanian",
+            "\u2581pb",
+            "Kansas",
+            "gink"
+        ],
+        "positive_strings": [
+            "\u2581Islamic",
+            "\u2581Muslim",
+            "\u2581Arabic",
+            "\u2581Muslims",
+            "\u2581Islam",
+            "Islamic",
+            "\u2581mosque",
+            "Muslim",
+            "\u2581mosques",
+            "\u2581Moslem"
+        ],
+        "description": "references to historical figures and events, particularly related to military leadership"
+    },
+    {
+        "index": "23641",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_23641.json",
+        "negative_strings": [
+            "\u2581Lietuvos",
+            "\u2581Latvi",
+            "\u2581Czech",
+            "gern",
+            "\u2581Kla",
+            "Slovakia",
+            "\u2581Lithuanian",
+            "Lietu",
+            "\u2581Ukraine",
+            "\u2581Estonian"
+        ],
+        "positive_strings": [
+            "\u2581Islamic",
+            "\u2581Muslim",
+            "\u2581Islam",
+            "Islamic",
+            "\u2581Arabic",
+            "\u2581Muslims",
+            "\u2581islamic",
+            "\u2581mosque",
+            "\u2581mosques",
+            "\u2581Mohammed"
+        ],
+        "description": "references to historical figures in political contexts"
+    },
+    {
+        "index": "19665",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a hijab/data_for_feature_19665.json",
+        "negative_strings": [
+            "PreExecute",
+            "ChildScrollView",
+            "ciptakan",
+            "openzeppelin",
+            "\u2581solche",
+            "\u2581rivista",
+            "NgModule",
+            "czych",
+            "\u2581l\u01b0\u01a1ng",
+            "\u2581jSON"
+        ],
+        "positive_strings": [
+            "\u2581holder",
+            "\u2581holders",
+            "\u2581maker",
+            "\u2581Holder",
+            "\u2581wielding",
+            "\u2581manufacturer",
+            "\u2581giveaway",
+            "\u2581bearers",
+            "\u2581wearer",
+            "\u2581manufacturers"
+        ],
+        "description": "various types of clothing and personal accessories"
+    }
+]

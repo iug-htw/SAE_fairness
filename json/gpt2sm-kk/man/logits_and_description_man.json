@@ -1,0 +1,602 @@
+[
+    {
+        "index": "2916",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_2916.json",
+        "negative_strings": [
+            " Hyundai",
+            "inyl",
+            "undai",
+            " shif",
+            "nih",
+            " NEC",
+            "sequence",
+            "ince",
+            "chwitz",
+            "lig"
+        ],
+        "positive_strings": [
+            " Barton",
+            "arton",
+            " Bridges",
+            " Boulder",
+            " Barr",
+            " Sutherland",
+            " Beacon",
+            " Cannon",
+            " Bard",
+            " Aero"
+        ],
+        "description": " occurrences of the word \"man\" and references to Congressman Barton"
+    },
+    {
+        "index": "14097",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_14097.json",
+        "negative_strings": [
+            "ond",
+            "antage",
+            "VERTISEMENT",
+            "izen",
+            "ysc",
+            "Compl",
+            "Educ",
+            "ths",
+            "LAN",
+            " Wond"
+        ],
+        "positive_strings": [
+            " man",
+            " men",
+            " woman",
+            " Man",
+            " women",
+            " masculine",
+            " masculinity",
+            " mach",
+            "nir",
+            "dl"
+        ],
+        "description": "phrases that emphasize the traditional definition of marriage as a union between a man and a woman"
+    },
+    {
+        "index": "45154",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_45154.json",
+        "negative_strings": [
+            "externalActionCode",
+            " enrichment",
+            "lement",
+            "ateg",
+            "\ufffd\ufffd",
+            "rolet",
+            " disag",
+            "competitive",
+            "enn",
+            "ille"
+        ],
+        "positive_strings": [
+            "Man",
+            " Man",
+            " Mania",
+            " Freak",
+            " Maver",
+            " Shogun",
+            " Mane",
+            "cos",
+            " Freeman",
+            " Mercury"
+        ],
+        "description": " references to various Spider-Man comic book titles and their issues"
+    },
+    {
+        "index": "47867",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_47867.json",
+        "negative_strings": [
+            "OVER",
+            "BIP",
+            "onen",
+            "andre",
+            " Hague",
+            "warn",
+            "aston",
+            "hack",
+            "shows",
+            "gets"
+        ],
+        "positive_strings": [
+            " woman",
+            "wife",
+            " women",
+            "roleum",
+            " maid",
+            "ocol",
+            " spouse",
+            " wife",
+            "Woman",
+            " girl"
+        ],
+        "description": "instances of the phrase \"a man and a woman\" or similar variations indicating opposition to same-sex marriage"
+    },
+    {
+        "index": "20907",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_20907.json",
+        "negative_strings": [
+            "ORTS",
+            "emen",
+            "Unity",
+            "\ufffd",
+            "estine",
+            "paren",
+            ".\u2013",
+            "eport",
+            " ath",
+            "$$$$"
+        ],
+        "positive_strings": [
+            "orld",
+            "\ufffd\ufffd",
+            "gow",
+            " prose",
+            " Malfoy",
+            "opter",
+            "hound",
+            " Brom",
+            " Bulldogs",
+            "\u30bf"
+        ],
+        "description": "references to \"man\" and its variations, indicating a focus on masculine themes or characters"
+    },
+    {
+        "index": "18339",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_18339.json",
+        "negative_strings": [
+            " LH",
+            " almonds",
+            " mills",
+            " Lal",
+            "nell",
+            " almond",
+            "Balt",
+            " Balt",
+            "ellen",
+            "ald"
+        ],
+        "positive_strings": [
+            " Spider",
+            "Spider",
+            " spider",
+            " spiders",
+            " Venom",
+            " Lizard",
+            " lizard",
+            " Sorcerer",
+            " Scorpion",
+            " superheroes"
+        ],
+        "description": " references to Spider-Man, particularly in terms of his character's development and storylines"
+    },
+    {
+        "index": "13705",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_13705.json",
+        "negative_strings": [
+            "phasis",
+            "mberg",
+            "ndra",
+            "seless",
+            " embargo",
+            " student",
+            "owship",
+            "ributes",
+            "stadt",
+            " Kund"
+        ],
+        "positive_strings": [
+            " Hera",
+            "\u2122:",
+            "Latin",
+            "\u03c0",
+            " Telescope",
+            "Austral",
+            "buster",
+            "\ufffd\ufffd",
+            " Puzzles",
+            "Shell"
+        ],
+        "description": "phrases related to a specific superhero and his various adaptations"
+    },
+    {
+        "index": "24874",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_24874.json",
+        "negative_strings": [
+            " Provided",
+            "unts",
+            " Universities",
+            "Urban",
+            "owment",
+            "erential",
+            " supplemented",
+            " respected",
+            " Reserved",
+            " livest"
+        ],
+        "positive_strings": [
+            " accusations",
+            " setbacks",
+            " grievances",
+            " allegations",
+            " accusation",
+            " puzz",
+            " cynical",
+            " rupture",
+            " pitfalls",
+            " disappointment"
+        ],
+        "description": "references to \"straw man\" arguments or concepts indicative of weak reasoning"
+    },
+    {
+        "index": "1024",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_1024.json",
+        "negative_strings": [
+            " 1895",
+            " Fors",
+            " Friedrich",
+            " \u25ba",
+            " 1861",
+            " 1860",
+            " 129",
+            "Austral",
+            "\ufffd\ufffd\ufffd\ufffd",
+            " Devin"
+        ],
+        "positive_strings": [
+            "zb",
+            "amber",
+            " Roses",
+            "\ufffd",
+            " Cher",
+            " Password",
+            " OU",
+            " Bag",
+            " Kathy",
+            "apist"
+        ],
+        "description": "patterns of repetition in names, specifically the word \"man\" and its variations in different contexts"
+    },
+    {
+        "index": "38832",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_38832.json",
+        "negative_strings": [
+            " banners",
+            " warnings",
+            " Toro",
+            " criticisms",
+            " layoffs",
+            " announcements",
+            " complaints",
+            " ire",
+            " haw",
+            " Inspector"
+        ],
+        "positive_strings": [
+            "emate",
+            " equals",
+            " expires",
+            " eternity",
+            ".\u2013",
+            "anse",
+            " peacefully",
+            "izable",
+            "ipple",
+            "ominium"
+        ],
+        "description": "references to the concept of marriage as defined between a man and a woman"
+    },
+    {
+        "index": "10736",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_10736.json",
+        "negative_strings": [
+            " Puzzles",
+            " pitfalls",
+            " headlines",
+            " puzzles",
+            "Write",
+            " PowerPoint",
+            " Manga",
+            "stories",
+            "sbm",
+            " Trials"
+        ],
+        "positive_strings": [
+            " sexes",
+            " unmarried",
+            "atern",
+            " ordained",
+            " genders",
+            " mutual",
+            " woman",
+            "joined",
+            "aternity",
+            " separated"
+        ],
+        "description": "definitions and legal descriptions of marriage specifically between a man and a woman"
+    },
+    {
+        "index": "21567",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_21567.json",
+        "negative_strings": [
+            " omission",
+            " malice",
+            " principled",
+            " maternity",
+            " reconc",
+            "displayText",
+            " inspection",
+            " appointed",
+            " wounded",
+            "pret"
+        ],
+        "positive_strings": [
+            "apon",
+            "ombat",
+            "Torrent",
+            "Pixel",
+            "Pokemon",
+            "rencies",
+            "atinum",
+            "Magikarp",
+            "Double",
+            "Extreme"
+        ],
+        "description": "references to the character Mega Man and related elements from the franchise"
+    },
+    {
+        "index": "22384",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_22384.json",
+        "negative_strings": [
+            "phasis",
+            " affirmative",
+            " processing",
+            " polls",
+            " volunt",
+            " qualitative",
+            "pmwiki",
+            " nit",
+            "FUL",
+            " Nile"
+        ],
+        "positive_strings": [
+            "merce",
+            "enei",
+            "\ufffd\ufffd",
+            " Metallic",
+            "\u58eb",
+            "ombat",
+            "arel",
+            " Ages",
+            " Adventures",
+            " thous"
+        ],
+        "description": "references to the Spider-Man franchise and its various iterations"
+    },
+    {
+        "index": "3588",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_3588.json",
+        "negative_strings": [
+            "vid",
+            "trop",
+            " advertisements",
+            " ads",
+            "NK",
+            "mud",
+            " Ads",
+            "Ur",
+            "]-",
+            "CONCLUS"
+        ],
+        "positive_strings": [
+            " Serving",
+            "rolet",
+            " Guests",
+            "................",
+            "dinand",
+            "..........",
+            " SERVICE",
+            "\ufffd\ufffd",
+            "asio",
+            " careg"
+        ],
+        "description": "references to the concept of marriage being defined as a union between one man and one woman"
+    },
+    {
+        "index": "12778",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_12778.json",
+        "negative_strings": [
+            "\ufffd",
+            "\u011f",
+            "uay",
+            " Mahmoud",
+            " Rouhani",
+            " sshd",
+            "\ufffd",
+            " bye",
+            " absentee",
+            "signed"
+        ],
+        "positive_strings": [
+            " Arms",
+            "-\"",
+            " Cortex",
+            "bians",
+            " Machina",
+            "emies",
+            " Avengers",
+            " suscept",
+            " Mages",
+            " Investigator"
+        ],
+        "description": "references to comic book characters and series, particularly those related to Spider-Man and the X-Men"
+    },
+    {
+        "index": "2914",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_2914.json",
+        "negative_strings": [
+            " externalToEVAOnly",
+            " Gleaming",
+            " condolences",
+            " foster",
+            " stagn",
+            "\u9f8d\u559a\u58eb",
+            " bruises",
+            " mer",
+            " reimburse",
+            "romy"
+        ],
+        "positive_strings": [
+            "isphere",
+            "iHUD",
+            "oeuv",
+            "ouver",
+            "chuk",
+            "chairs",
+            "\ufffd\u58eb",
+            "etter",
+            "zzi",
+            "cking"
+        ],
+        "description": " references to \"man-in-the-middle\" attacks and their implications in security contexts"
+    },
+    {
+        "index": "9025",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_9025.json",
+        "negative_strings": [
+            " externalToEVAOnly",
+            "DragonMagazine",
+            "Birth",
+            "RP",
+            "oslav",
+            " unfocusedRange",
+            "Safe",
+            " Swim",
+            "WT",
+            " COURT"
+        ],
+        "positive_strings": [
+            "ufact",
+            "anchester",
+            " Aberdeen",
+            "icans",
+            " elector",
+            " Australians",
+            "atown",
+            " refriger",
+            " apes",
+            " exha"
+        ],
+        "description": " words associated with famine and man-made disasters"
+    },
+    {
+        "index": "13473",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_13473.json",
+        "negative_strings": [
+            "ulia",
+            "raped",
+            "urat",
+            "iphate",
+            "ussions",
+            "ibling",
+            "detail",
+            "lections",
+            "apor",
+            "\u03b3"
+        ],
+        "positive_strings": [
+            " Reef",
+            "velt",
+            " Pun",
+            " feat",
+            "\ufffd\ufffd",
+            " Immortal",
+            " \u00ae",
+            "DEBUG",
+            " Admir",
+            " Charg"
+        ],
+        "description": "references to superhero characters, particularly related to the Marvel Cinematic Universe"
+    },
+    {
+        "index": "2351",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_2351.json",
+        "negative_strings": [
+            " secretaries",
+            " meteor",
+            " Meteor",
+            "eli",
+            " Lowell",
+            " irony",
+            "catentry",
+            "isans",
+            "sand",
+            "Bir"
+        ],
+        "positive_strings": [
+            "owship",
+            "packing",
+            "igate",
+            "lishes",
+            "eco",
+            "ochet",
+            "lease",
+            "cycles",
+            "\ufffd\ufffd",
+            "nance"
+        ],
+        "description": "names of specific establishments like \"Restaurant Man\" and \"La Fonda Del Sol\" or related terms like \"expenditures on marriages\" and \"Ford Broncos restorations.\""
+    },
+    {
+        "index": "1030",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/man/data_for_feature_1030.json",
+        "negative_strings": [
+            " alerts",
+            "ibaba",
+            " sqor",
+            " testers",
+            " Alchemist",
+            " looting",
+            " logging",
+            " enthusi",
+            " Panzer",
+            " Outbreak"
+        ],
+        "positive_strings": [
+            "marriage",
+            " lawful",
+            " justices",
+            " wed",
+            " recess",
+            " divorce",
+            " marrying",
+            " Marriage",
+            " unborn",
+            " marriage"
+        ],
+        "description": "definitions and conditions related to marriage, particularly the traditional definition between a man and a woman"
+    }
+]

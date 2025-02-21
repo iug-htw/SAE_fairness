@@ -1,0 +1,30 @@
+{
+    "index": "8859",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_8859.json",
+    "negative_strings": [
+        "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+        "\uf0f1",
+        "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+        "InitVars",
+        "printStackTrace",
+        "featureID",
+        "\u2581\u00e9las",
+        "\u2581democr\u00e1tica",
+        "JsonPropertyName",
+        "orianCalendar"
+    ],
+    "positive_strings": [
+        "\u2581complex",
+        "complex",
+        "\u2581Complex",
+        "Complex",
+        "\u2581facility",
+        "\u2581COMPLEX",
+        "\u2581project",
+        "\u2581building",
+        "\u2581site",
+        "\u2581kompleks"
+    ],
+    "description": "elements related to historical buildings and infrastructure"
+}

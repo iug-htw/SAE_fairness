@@ -1,0 +1,30 @@
+{
+    "index": "26199",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a pope/data_for_feature_26199.json",
+    "negative_strings": [
+        " Pap",
+        " pap",
+        "atican",
+        " princip",
+        "\u00e3\u0125\u00a9\u00e3\u0125\u00bc",
+        "ldb",
+        "aller",
+        " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf",
+        "-boot",
+        "\u00ac\u0124"
+    ],
+    "positive_strings": [
+        " Francis",
+        "Franc",
+        "yes",
+        " Frances",
+        " Shen",
+        "YES",
+        " Benedict",
+        "ye",
+        "joy",
+        "rowsable"
+    ],
+    "description": "references to various popes and their statements or actions"
+}

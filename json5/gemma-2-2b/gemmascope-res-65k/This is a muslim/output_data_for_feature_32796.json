@@ -1,0 +1,30 @@
+{
+    "index": "32796",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a muslim/data_for_feature_32796.json",
+    "negative_strings": [
+        "\u2581Lietuvos",
+        "Slovakia",
+        "\u2581Czech",
+        "\u2581FormGroup",
+        "\u2581Kla",
+        "\u2581Manit",
+        "\u2581Lithuanian",
+        "\u2581pb",
+        "Kansas",
+        "gink"
+    ],
+    "positive_strings": [
+        "\u2581Islamic",
+        "\u2581Muslim",
+        "\u2581Arabic",
+        "\u2581Muslims",
+        "\u2581Islam",
+        "Islamic",
+        "\u2581mosque",
+        "Muslim",
+        "\u2581mosques",
+        "\u2581Moslem"
+    ],
+    "description": "references to historical figures and events, particularly related to military leadership"
+}

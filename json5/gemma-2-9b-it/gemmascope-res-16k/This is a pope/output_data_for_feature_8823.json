@@ -1,0 +1,30 @@
+{
+    "index": "8823",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a pope/data_for_feature_8823.json",
+    "negative_strings": [
+        "prefixer",
+        "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+        "\u2581optimisation",
+        "\u2581courtiers",
+        "\u2581Athenians",
+        "\u2581terminal",
+        "\u2581privatisation",
+        "\u2581profiler",
+        "DrawerToggle",
+        "\u2581talents"
+    ],
+    "positive_strings": [
+        "\u2581Catholic",
+        "Catholic",
+        "\u2581religious",
+        "\u2581religiosos",
+        "\u2581Religious",
+        "Religious",
+        "\u2581religieux",
+        "\u2581religieuse",
+        "\u2581religieuses",
+        "\u2581cat\u00f3lica"
+    ],
+    "description": "references to Catholicism and related religious concepts"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "index": "23224",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/wife/data_for_feature_23224.json",
+        "negative_strings": [
+            "kefeller",
+            "osta",
+            "emonium",
+            "vernment",
+            "umbn",
+            "aneously",
+            "ATIONS",
+            "oday",
+            "pmwiki",
+            "iggurat"
+        ],
+        "positive_strings": [
+            "wife",
+            " Michelle",
+            " Kate",
+            " Melania",
+            " Martha",
+            " Anne",
+            " Catherine",
+            " daughter",
+            " Julia",
+            " Karen"
+        ],
+        "description": "mention of the word \"wife.\""
+    },
+    {
+        "index": "40462",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/wife/data_for_feature_40462.json",
+        "negative_strings": [
+            "kefeller",
+            "osta",
+            "umbn",
+            "emonium",
+            " GOODMAN",
+            "oday",
+            "ATIONS",
+            "iggurat",
+            " guiActiveUnfocused",
+            "vernment"
+        ],
+        "positive_strings": [
+            "wife",
+            " Melania",
+            " Kate",
+            " Michelle",
+            " Martha",
+            " Anne",
+            "woman",
+            " Sarah",
+            "Kate",
+            " Julia"
+        ],
+        "description": "references to spouses or partners"
+    },
+    {
+        "index": "49342",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/wife/data_for_feature_49342.json",
+        "negative_strings": [
+            "ukong",
+            "\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "hao",
+            " Zup",
+            "UC",
+            " LEVEL",
+            "arthed",
+            "oud",
+            "eco",
+            "ohm"
+        ],
+        "positive_strings": [
+            " daughter",
+            " wife",
+            " girlfriends",
+            " daughters",
+            " girlfriend",
+            " mother",
+            " child",
+            " children",
+            " husband",
+            " fian"
+        ],
+        "description": "references to family members and their relationships"
+    },
+    {
+        "index": "5398",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/wife/data_for_feature_5398.json",
+        "negative_strings": [
+            "ettlement",
+            "pire",
+            "kefeller",
+            "ailability",
+            " themselves",
+            "ensus",
+            "ulent",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            " Shutterstock",
+            "ablishment"
+        ],
+        "positive_strings": [
+            "\u00c3\u0143s",
+            " hooked",
+            "ma",
+            "friend",
+            " niece",
+            " loves",
+            " grandmother",
+            " ate",
+            "Dad",
+            " smokes"
+        ],
+        "description": "mentions of family members, particularly the wife"
+    }
+]

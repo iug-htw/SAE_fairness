@@ -1,0 +1,30 @@
+{
+    "index": "14222",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a boy/data_for_feature_14222.json",
+    "negative_strings": [
+        "\u2581\u2018",
+        "\u2581'",
+        ".__",
+        "\u2581'@/",
+        "foss",
+        "(::",
+        "__;",
+        "postcss",
+        "istoitu",
+        "\u2581';"
+    ],
+    "positive_strings": [
+        "\u2019",
+        "'",
+        "\u00b4",
+        "\u016fv",
+        "ningens",
+        "\u2581pr\u00e9sidenti",
+        "\u2581mijne",
+        "IContainer",
+        "\u2581feroit",
+        "\u2581enfans"
+    ],
+    "description": "mentions of neurological diseases, particularly Alzheimer's and Parkinson's"
+}

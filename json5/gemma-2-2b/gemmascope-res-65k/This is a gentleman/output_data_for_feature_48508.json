@@ -1,0 +1,30 @@
+{
+    "index": "48508",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a gentleman/data_for_feature_48508.json",
+    "negative_strings": [
+        "transQ",
+        "themselves",
+        "\ue315",
+        "\u2581themselves",
+        "\u2581sj\u00e4lva",
+        "\u2581Administrativna",
+        "itself",
+        "ThroughAttribute",
+        "tsk\u00e1",
+        "saraba"
+    ],
+    "positive_strings": [
+        "\u2581named",
+        "named",
+        "\u2581Named",
+        "\u2581namens",
+        "Named",
+        "\u2581nomm\u00e9",
+        "\u2581nomm\u00e9e",
+        "\u2581bernama",
+        "\u2581name",
+        "\u2581t\u00ean"
+    ],
+    "description": "mentions of individuals and their roles or identities"
+}

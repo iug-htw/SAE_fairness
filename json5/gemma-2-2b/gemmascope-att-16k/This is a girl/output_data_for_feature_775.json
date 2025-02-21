@@ -1,0 +1,30 @@
+{
+    "index": "775",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a girl/data_for_feature_775.json",
+    "negative_strings": [
+        "\u2581boy",
+        "boy",
+        "\u2581boys",
+        "boys",
+        "Boy",
+        "\u2581Boy",
+        "\u2581girl",
+        "\u2581BOY",
+        "BOY",
+        "\u2581girls"
+    ],
+    "positive_strings": [
+        "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+        "\u2581Wikispecies",
+        "^(@)",
+        "\u2581becau\u017fe",
+        "]\";",
+        "\u2581it\u017felf",
+        "\u2581fallu",
+        ".\",\r",
+        ".\";\r",
+        "\u2581The\u017fe"
+    ],
+    "description": " attends to female-related tokens from male-related tokens"
+}

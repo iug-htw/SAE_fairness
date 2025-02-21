@@ -1,0 +1,30 @@
+{
+    "index": "30123",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a queen/data_for_feature_30123.json",
+    "negative_strings": [
+        "nul",
+        "immel",
+        "nett",
+        "rema",
+        "\u00ce\u00bf\u00cf\u0124",
+        "/questions",
+        "iglia",
+        "acement",
+        "istro",
+        "orida"
+    ],
+    "positive_strings": [
+        "stown",
+        " Elizabeth",
+        "ie",
+        " consort",
+        " Victoria",
+        " Consort",
+        "borough",
+        "ston",
+        " Mother",
+        "Elizabeth"
+    ],
+    "description": "references to royalty, particularly involving the Queen"
+}

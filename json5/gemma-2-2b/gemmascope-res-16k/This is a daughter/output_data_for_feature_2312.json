@@ -1,0 +1,30 @@
+{
+    "index": "2312",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a daughter/data_for_feature_2312.json",
+    "negative_strings": [
+        "omla",
+        "ReusableCell",
+        "__\":\r",
+        "MIDDLEWARE",
+        "\u200d\u2640\ufe0f",
+        "\u2581linkovi",
+        "yanka",
+        "\u043f\u0435\u0440\u0432\u044b\u0445",
+        "Carreira",
+        "\u2581***!"
+    ],
+    "positive_strings": [
+        "\u2581figure",
+        "\u2581FATHER",
+        "Father",
+        "\u2581Father",
+        "\u2581father",
+        "\u2581fathers",
+        "figure",
+        "father",
+        "\u2581Mother",
+        "\u2581mother"
+    ],
+    "description": "references to parental figures, specifically mothers and fathers"
+}

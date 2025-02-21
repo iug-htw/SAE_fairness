@@ -1,0 +1,30 @@
+{
+    "index": "12639",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a woman/data_for_feature_12639.json",
+    "negative_strings": [
+        "allowNull",
+        "Totale",
+        "\u00e1si",
+        "../",
+        "donut",
+        "yung",
+        "\u24d2",
+        "\u2581\u0107",
+        "razine",
+        "ERTS"
+    ],
+    "positive_strings": [
+        "folk",
+        "\u2581Men",
+        "\u2581MEN",
+        "\u062a\u0642\u0627\u0648\u0649",
+        "Men",
+        "WOMEN",
+        "Women",
+        "ConstraintMaker",
+        "\u2581men",
+        "ReusableCell"
+    ],
+    "description": "references to gender-specific terms, particularly relating to men and women"
+}

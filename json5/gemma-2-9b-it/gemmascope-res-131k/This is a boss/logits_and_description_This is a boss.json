@@ -1,0 +1,452 @@
+[
+    {
+        "index": "21001",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_21001.json",
+        "negative_strings": [
+            "eara",
+            "epar",
+            "\u2040",
+            "\u2581Newbury",
+            "\u2581'\\\\;'",
+            "gemini",
+            "autoreleasepool",
+            "\u2581Cheltenham",
+            "\u2581NEA",
+            "\u2581aquarela"
+        ],
+        "positive_strings": [
+            "Boss",
+            "boss",
+            "\u2581Boss",
+            "\u2581AssemblyCompany",
+            "\u2581boss",
+            "\u2581BOSS",
+            "BOSS",
+            "\u2581bosses",
+            "\u2581estekak",
+            "\u2581propOrder"
+        ],
+        "description": "references to bosses"
+    },
+    {
+        "index": "107152",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_107152.json",
+        "negative_strings": [
+            "\u2581admission",
+            "admission",
+            "encodeWith",
+            "\u2581Admission",
+            "Admission",
+            "\u2581dis",
+            "kh\u00e1u",
+            "\u2581terkena",
+            "\u2581\u00fccret",
+            "\u2581geholfen"
+        ],
+        "positive_strings": [
+            "WebMethod",
+            "exitRule",
+            "BOSS",
+            "\u2581BOSS",
+            "\u2581resourceCulture",
+            "\u2581defaultstate",
+            "Boss",
+            "Autoritn\u00ed",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581Boss"
+        ],
+        "description": "references to the term \"boss\""
+    },
+    {
+        "index": "59917",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_59917.json",
+        "negative_strings": [
+            "\u2581aquarela",
+            "\u2581Littleton",
+            "gem\u00e4\u00df",
+            "roc\u0142aw",
+            "\u2581Carleton",
+            "\u2581muestras",
+            "\u2581Gilman",
+            "tidaknya",
+            "\u2581quaisquer",
+            "\u2581replete"
+        ],
+        "positive_strings": [
+            "boss",
+            "Boss",
+            "\u2581boss",
+            "\u2581Boss",
+            "\u2581BOSS",
+            "BOSS",
+            "\u2581bosses",
+            "\u2581que\u017fta",
+            "\u2581employer",
+            "\u2581bos"
+        ],
+        "description": " references to the concept of \"boss\" or authority figures"
+    },
+    {
+        "index": "128452",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_128452.json",
+        "negative_strings": [
+            "intios",
+            "nationality",
+            "cesis",
+            "\u2581PeEnEo",
+            "\u2581AttributeSet",
+            "nbc",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "\u2581Lordships",
+            "\u2581Klass",
+            "ranet"
+        ],
+        "positive_strings": [
+            "\u2581Bo",
+            "Bo",
+            "ThroughAttribute",
+            "VersionUID",
+            "\ue315",
+            "\u2581bo",
+            "oredCriteria",
+            "\u2581Boone",
+            "reactstrap",
+            "\u2581<<<<<<<<<<<<<<"
+        ],
+        "description": "proper nouns and names, particularly those beginning with \"Bo.\""
+    },
+    {
+        "index": "63401",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_63401.json",
+        "negative_strings": [
+            "\u2581resourceCulture",
+            "\u2581ExecuteAsync",
+            "\u2581kasarigan",
+            "\u00e9valuateur",
+            "\u017byciorys",
+            "enumii",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "\u2581cherch\u00e9s",
+            "styleType"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581bosses",
+            "boss",
+            "Boss",
+            "\u2581Boss",
+            "BOSS",
+            "\u2581encounter",
+            "\u2581fight",
+            "\u2581fights",
+            "\u2581BOSS"
+        ],
+        "description": " elements related to game mechanics and battles"
+    },
+    {
+        "index": "39717",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_39717.json",
+        "negative_strings": [
+            "########.",
+            "\u2581yyr",
+            "\u2581dAtA",
+            "\u2581k\u00fcpe",
+            "\u2581useAppContext",
+            "\u2581Inf\u00f3rmanos",
+            "thalt",
+            "\u2581Paglinawan",
+            "\u2581Advantage",
+            "UITableViewCell"
+        ],
+        "positive_strings": [
+            "parsedMessage",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "addLast",
+            "\u2581ioe",
+            "SharedDtor",
+            "MoveNext",
+            "TintMode",
+            "StoryboardSegue",
+            "\u2581endforeach"
+        ],
+        "description": " keywords related to gaming and boss character mechanics"
+    },
+    {
+        "index": "23515",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_23515.json",
+        "negative_strings": [
+            "\u2581CAI",
+            "__\":\r",
+            "\u2581PTC",
+            "\u2581Gilman",
+            "\u2581Chicano",
+            "\u2581PyLong",
+            "\u2581PRC",
+            "\u2581Carleton",
+            "\u2581Geneva",
+            "\u2581Littleton"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "Boss",
+            "boss",
+            "\u2581Boss",
+            "\u2581BOSS",
+            "BOSS",
+            "\u2581bosses",
+            "\u30dc\u30b9",
+            "\u2581jefe",
+            "\u2581bos"
+        ],
+        "description": "references to \"boss\" or authority figures"
+    },
+    {
+        "index": "22579",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_22579.json",
+        "negative_strings": [
+            "IBOutlet",
+            "\u2581IBOutlet",
+            "\u2581beginnetje",
+            "\ue315",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Inf\u00f3rmanos",
+            "\u2581Chwiliwch",
+            "\u2581ujednoznacz",
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
+            "\u2581onCreateView"
+        ],
+        "positive_strings": [
+            "\u2581monsters",
+            "\u2581mobs",
+            "\u2581monster",
+            "\u2581enemies",
+            "\u2581enemy",
+            "\u2581creatures",
+            "\u2581NPCs",
+            "\u2581Monsters",
+            "\u2581mob",
+            "\u2581NPC"
+        ],
+        "description": " references to game mechanics related to character abilities and interactions"
+    },
+    {
+        "index": "57291",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_57291.json",
+        "negative_strings": [
+            "WithIdentifier",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\u2581craindre",
+            "parsedMessage",
+            "phosa",
+            "\u2581IBOutlet",
+            "iastical",
+            "\u2581sereia",
+            "\u24e7",
+            "\u2581\u043f\u0440\u0435\u043f\u0440\u0430\u0442\u043a\u0438"
+        ],
+        "positive_strings": [
+            "iss",
+            "ess",
+            "Ess",
+            "ESS",
+            "ISS",
+            "\u2581Ass",
+            "ass",
+            "\u2581Ess",
+            "esse",
+            "SSS"
+        ],
+        "description": "words or phrases related to individuals and their associative context"
+    },
+    {
+        "index": "36768",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_36768.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "\u2581cereales",
+            "\u2581k\u0131l\u0131f",
+            "\u2581inal\u00e1mbrica",
+            "\u2581\u00e9toit",
+            "grains",
+            "\u2581VizieR",
+            "leyeb",
+            "f\u00f8lgelig",
+            "\u2581religi\u00f3n"
+        ],
+        "positive_strings": [
+            "sizeCache",
+            "\u2581encounter",
+            "encounter",
+            "\u2581fight",
+            "\u2581boss",
+            "\u2581encountering",
+            "\u2581iLocal",
+            "\u2581encounters",
+            "didSet",
+            "fight"
+        ],
+        "description": "elements related to gaming mechanics, particularly those involving bosses and combat interactions"
+    },
+    {
+        "index": "96390",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_96390.json",
+        "negative_strings": [
+            "sidemargin",
+            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
+            "\u2581\u0935\u093f\u0936\u094d\u0935\u0938\u0928\u0940\u092f\u0924\u093e",
+            "oredCriteria",
+            "ficulties",
+            "\u2581Italijanski",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "\u2581propOrder",
+            "reciated",
+            "varargin"
+        ],
+        "positive_strings": [
+            "\u2581referrerpolicy",
+            "\u2581joaat",
+            "FunctionFlags",
+            "pexpr",
+            "\u2581MonoBehaviour",
+            "\u2581createState",
+            "kmale",
+            "\u2581CreateTagHelper",
+            "OptionsMenu",
+            "Literatuur"
+        ],
+        "description": "terms related to gameplay mechanics in video games"
+    },
+    {
+        "index": "54143",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_54143.json",
+        "negative_strings": [
+            "OGND",
+            "unhofer",
+            "\u2581raffredd",
+            "\u2581imbalances",
+            "\u2581z\u00e1m",
+            "\u043a\u043b\u043e\u043f\u0435",
+            "\u2581da\u00f1o",
+            "wikkeld",
+            "\u2581katk\u0131",
+            "\u2581participantes"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581jefe",
+            "boss",
+            "Boss",
+            "\u2581Boss",
+            "\u2581BOSS",
+            "\u2581bosses",
+            "BOSS",
+            "\u2581Jefe",
+            "\u2581jefes"
+        ],
+        "description": " references to authority figures or leadership roles"
+    },
+    {
+        "index": "83300",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_83300.json",
+        "negative_strings": [
+            "\u2581\u0e17\u0e23\u0e07",
+            "\u6715",
+            "\u2581",
+            "\u2581el",
+            "\u2581\u2581",
+            "destroyAll",
+            "\u0e17\u0e23\u0e07",
+            "\u2581ut\u00e1n",
+            "\u5973\u5152",
+            "\u2581grains"
+        ],
+        "positive_strings": [
+            "\u2581boss",
+            "\u2581bosses",
+            "boss",
+            "\u2581superiors",
+            "Boss",
+            "\u2581Boss",
+            "\u2581supervisor",
+            "\u2581BOSS",
+            "\u2581supervisors",
+            "BOSS"
+        ],
+        "description": " references to hierarchy and authority in workplace dynamics"
+    },
+    {
+        "index": "93419",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_93419.json",
+        "negative_strings": [
+            "Jeografia",
+            "\u2581defaultstate",
+            ":\u2728",
+            "TypedDataSet",
+            "ftagPool",
+            "XmlAccessorType",
+            "########.",
+            "OGND",
+            "\u2581aapt",
+            "getreten"
+        ],
+        "positive_strings": [
+            "\u2581bosses",
+            "\u2581boss",
+            "boss",
+            "Boss",
+            "\u2581Boss",
+            "BOSS",
+            "\u2581BOSS",
+            "\u30dc\u30b9",
+            "principalTable",
+            "\u2581villain"
+        ],
+        "description": "references to game mechanics, specifically boss characters and their attributes"
+    },
+    {
+        "index": "30901",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boss/data_for_feature_30901.json",
+        "negative_strings": [
+            "DoubleQuotes",
+            "\u2581Creating",
+            "authorized",
+            "\u2581Acci\u00f3n",
+            "digital",
+            "credential",
+            "\u2581(;;",
+            "Believe",
+            "\u2581Great",
+            "\u2581Abstract"
+        ],
+        "positive_strings": [
+            "mybatisplus",
+            "\u2581modding",
+            "FunctionFlags",
+            "\u2581dlc",
+            "bukkit",
+            "\u2581unlocks",
+            "OGND",
+            "\u2581DLC",
+            "oneofs",
+            "\u2581modded"
+        ],
+        "description": " terms related to character abilities and their mechanics in a gaming context"
+    }
+]

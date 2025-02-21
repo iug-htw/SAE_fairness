@@ -1,0 +1,242 @@
+[
+    {
+        "index": "27526",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_27526.json",
+        "negative_strings": [
+            "ediator",
+            "uw",
+            " Beaver",
+            "ystems",
+            "ifetime",
+            " kayn",
+            "ysi",
+            "aturated",
+            "le\u00c5\u0141ik",
+            " Helm"
+        ],
+        "positive_strings": [
+            "bone",
+            "bones",
+            " joint",
+            " bone",
+            " bones",
+            " muscles",
+            " region",
+            " area",
+            "joint",
+            "/arm"
+        ],
+        "description": " anatomical references related to body parts and injuries"
+    },
+    {
+        "index": "9466",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_9466.json",
+        "negative_strings": [
+            " notably",
+            "ext",
+            " nervous",
+            " necessary",
+            " nerve",
+            "_nested",
+            "necessary",
+            " notable",
+            " noble",
+            " narrow"
+        ],
+        "positive_strings": [
+            "theless",
+            " t\u00e1\u00ba\u00a3ng",
+            "withstanding",
+            "olson",
+            "=N",
+            "icks",
+            "veau",
+            "lify",
+            "atives",
+            "flix"
+        ],
+        "description": " words related to narratives and storytelling"
+    },
+    {
+        "index": "19945",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_19945.json",
+        "negative_strings": [
+            "ArrayOf",
+            "overrides",
+            "aso",
+            "rif",
+            "\u00d1\u0131\u00d0\u00b7",
+            "vin",
+            "presence",
+            "mour",
+            "\u00e0\u00a7\u012f\u00e0\u00a6",
+            "efe"
+        ],
+        "positive_strings": [
+            "xious",
+            "veau",
+            "thern",
+            "ises",
+            "AlgorithmException",
+            "urnal",
+            "elia",
+            "things",
+            "otros",
+            "worthy"
+        ],
+        "description": " references to types of algorithms or technologies related to data processing"
+    },
+    {
+        "index": "24019",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_24019.json",
+        "negative_strings": [
+            "ediator",
+            "sched",
+            "emand",
+            "/Error",
+            "le\u00c5\u0141ik",
+            "matcher",
+            "\u00e8\u00b7\u0133",
+            "mnop",
+            "776",
+            " h\u00c3\u00b3a"
+        ],
+        "positive_strings": [
+            "/back",
+            "/head",
+            "/el",
+            "bone",
+            "/arm",
+            "\u00e9\u0125\u00a8",
+            "band",
+            "-length",
+            "bands",
+            " region"
+        ],
+        "description": " words related to various body parts and injuries"
+    },
+    {
+        "index": "3758",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_3758.json",
+        "negative_strings": [
+            "loud",
+            "presence",
+            "rego",
+            "rech",
+            "overrides",
+            "LOUD",
+            "rowable",
+            "viewer",
+            " Toe",
+            "ikan"
+        ],
+        "positive_strings": [
+            "xious",
+            "things",
+            "veau",
+            "urnal",
+            "ises",
+            "thern",
+            "AlgorithmException",
+            "theast",
+            "elia",
+            "ce"
+        ],
+        "description": " occurrences of specific names or identifiers"
+    },
+    {
+        "index": "12658",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_12658.json",
+        "negative_strings": [
+            "rif",
+            "vin",
+            "loud",
+            "mour",
+            "heit",
+            "aney",
+            "rego",
+            "entric",
+            "overrides",
+            "ikan"
+        ],
+        "positive_strings": [
+            "xious",
+            "veau",
+            "ises",
+            "thern",
+            "urnal",
+            "AlgorithmException",
+            "elle",
+            "things",
+            "kowski",
+            "ATUS"
+        ],
+        "description": " references to titles or names, especially those that could relate to literature, media, or specific identifiers"
+    },
+    {
+        "index": "18305",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_18305.json",
+        "negative_strings": [
+            "\u00e8\u0127\u00b0",
+            "alfa",
+            "vet",
+            "loating",
+            " muscular",
+            " omas",
+            " renal",
+            "\u00e7\u00ba",
+            "/modules",
+            "ALES"
+        ],
+        "positive_strings": [
+            " nose",
+            " noses",
+            " nasal",
+            " Nose",
+            " Nas",
+            "\u00e9\u00bc\u00bb",
+            " nostr",
+            " m\u00c5\u00a9i",
+            " sniff",
+            " sinus"
+        ],
+        "description": "medical terms related to nasal anatomy and conditions"
+    },
+    {
+        "index": "9762",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/this is nose/data_for_feature_9762.json",
+        "negative_strings": [
+            "efe",
+            "upa",
+            "\u00d0\u00b5\u00d0\u00bd\u00d0\u00b7",
+            "rego",
+            "/arch",
+            "ArrayOf",
+            "aney",
+            "ikan",
+            "aso",
+            "LOUD"
+        ],
+        "positive_strings": [
+            "veau",
+            "xious",
+            "ises",
+            "things",
+            "urnal",
+            "elle",
+            "thern",
+            "\u00c3\u00abl",
+            "embre",
+            "theast"
+        ],
+        "description": " proper nouns related to people and places"
+    }
+]

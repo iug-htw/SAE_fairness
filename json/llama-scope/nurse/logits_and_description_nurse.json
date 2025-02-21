@@ -1,0 +1,602 @@
+[
+    {
+        "index": "29378",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_29378.json",
+        "negative_strings": [
+            " Hub",
+            "ngle",
+            "hiba",
+            " follando",
+            " \u00d0\u00bf\u00d1\u0122\u00d0\u00be\u00d0\u00b2\u00d0\u00b5\u00d0\u00b4",
+            "Hub",
+            "Kit",
+            "Elim",
+            " \u00e7\u00ac",
+            "\u00e5\u012c"
+        ],
+        "positive_strings": [
+            " ser",
+            " dar",
+            " tener",
+            " hacer",
+            " meter",
+            " poder",
+            "_ser",
+            " d\u00c3\u00a1",
+            " darn",
+            " ver"
+        ],
+        "description": " phrases related to healthcare and nursing contributions to society"
+    },
+    {
+        "index": "129586",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_129586.json",
+        "negative_strings": [
+            "eyer",
+            "omon",
+            "andle",
+            "iba",
+            "ALLY",
+            "oulos",
+            "ulas",
+            "\u00eb\u0123",
+            "ombo",
+            "ollen"
+        ],
+        "positive_strings": [
+            "itioner",
+            "ition",
+            "iction",
+            "icion",
+            "tion",
+            "ITION",
+            "itional",
+            "itions",
+            "ersion",
+            "iti"
+        ],
+        "description": "terms related to healthcare professions, specifically nursing and practice designations"
+    },
+    {
+        "index": "54246",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_54246.json",
+        "negative_strings": [
+            "he",
+            "re",
+            "r",
+            "ta",
+            "tes",
+            "ty",
+            "te",
+            "ten",
+            "to",
+            "ti"
+        ],
+        "positive_strings": [
+            "edor",
+            "arness",
+            "pNet",
+            "ADIO",
+            "ady",
+            "_dispatcher",
+            "erte",
+            "erde",
+            "checker",
+            "mae"
+        ],
+        "description": " terms related to healthcare, nursing, and medical issues"
+    },
+    {
+        "index": "87159",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_87159.json",
+        "negative_strings": [
+            "chner",
+            "DM",
+            " Mour",
+            "orrent",
+            "igator",
+            "\u00a9",
+            "ovich",
+            "lz",
+            "ritch",
+            "orro"
+        ],
+        "positive_strings": [
+            "mer",
+            "arie",
+            "ner",
+            "emer",
+            " mer",
+            "arme",
+            "ar\u00c3\u0143a",
+            "MER",
+            "ener",
+            "amer"
+        ],
+        "description": "medical terminology and references related to healthcare and nursing"
+    },
+    {
+        "index": "97682",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_97682.json",
+        "negative_strings": [
+            "\u00d0\u0134\u00d0\u0140",
+            "etta",
+            "\u00d8\u00ba\u00d8\u00a7\u00d8\u00b2",
+            " expend",
+            "lez",
+            "trand",
+            "jak",
+            "\u00e3\u0122",
+            "/tos",
+            "\u00d8\u00a7\u00d9\u0123\u00d8\u00b1"
+        ],
+        "positive_strings": [
+            "wives",
+            "wife",
+            "-wife",
+            " wives",
+            " wife",
+            "birth",
+            "w",
+            " Wife",
+            " birth",
+            " births"
+        ],
+        "description": " terminologies related to nursing and healthcare professions"
+    },
+    {
+        "index": "67927",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_67927.json",
+        "negative_strings": [
+            " Gand",
+            "jon",
+            "ighbor",
+            " \u00d1\u0123\u00d0\u00b8\u00d0\u00bb\u00d0\u00b8",
+            " \u00d0\u00ba\u00d0\u00be\u00d0\u00b2",
+            "sey",
+            "\u00e3\u0125\u00a5\u00e3\u0125\u00bc",
+            "GV",
+            "adu",
+            "ARY"
+        ],
+        "positive_strings": [
+            " NB",
+            " Step",
+            "NB",
+            " STEP",
+            "Step",
+            " step",
+            " Shelf",
+            " Boards",
+            " Steps",
+            " US"
+        ],
+        "description": " terms related to medical education and nursing"
+    },
+    {
+        "index": "127897",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_127897.json",
+        "negative_strings": [
+            " Klopp",
+            " Trident",
+            "akov",
+            "\u00cf\u0123\u00ce\u00b8",
+            "linger",
+            " Hunts",
+            "zsche",
+            "BigInteger",
+            "ervo",
+            "ovice"
+        ],
+        "positive_strings": [
+            " Lemma",
+            " Geb",
+            " Ethiopia",
+            " Wol",
+            " Mek",
+            " Dire",
+            " Add",
+            " Dess",
+            " Bale",
+            " Bere"
+        ],
+        "description": "references to awards and recognition in the nursing field"
+    },
+    {
+        "index": "67210",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_67210.json",
+        "negative_strings": [
+            "ness",
+            "n\u00c3\u00a9",
+            "\u00d1\u0127\u00d0\u00be\u00d0\u00b2",
+            "noun",
+            "ality",
+            "nge",
+            "hoot",
+            "nel",
+            "_nested",
+            " ni\u00c3\u00aan"
+        ],
+        "positive_strings": [
+            " practitioner",
+            "maid",
+            " Pract",
+            " practitioners",
+            " practition",
+            "maids",
+            " mid",
+            " pract",
+            "pr",
+            " pratic"
+        ],
+        "description": "references to various types of nursing professionals and their roles"
+    },
+    {
+        "index": "72786",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_72786.json",
+        "negative_strings": [
+            "leine",
+            " Karlov",
+            "\u00c3\u0142ng",
+            "ilda",
+            "anych",
+            "vfs",
+            "stown",
+            "\u00e6\u0137\u00a2",
+            "\u00e0\u00a5\u012d\u00e0\u00a4\u012a",
+            "soever"
+        ],
+        "positive_strings": [
+            "nal",
+            "ior",
+            "no",
+            "iors",
+            "ential",
+            "rible",
+            "iores",
+            "iore",
+            "IOR",
+            "num"
+        ],
+        "description": "terms related to inferencing and medical professions, especially nursing"
+    },
+    {
+        "index": "27590",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/nurse/data_for_feature_27590.json",
+        "negative_strings": [
+            "ignum",
+            "aster",
+            "-Cs",
+            "\u00c3\u00a4\u00c3\u00a4n",
+            "illez",
+            "ullet",
+            "uckles",
+            "overy",
+            "gw",
+            "imat"
+        ],
+        "positive_strings": [
+            " paintings",
+            " felony",
+            " destiny",
+            " kingdom",
+            " intestine",
+            " jap",
+            " booklet",
+            "PLICIT",
+            " lifestyles",
+            "ccount"
+        ],
+        "description": " terms related to forensic nursing and medical legal aspects"
+    },
+    {
+        "index": "36433",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_36433.json",
+        "negative_strings": [
+            "ographical",
+            "anine",
+            "_Native",
+            " atIndex",
+            "pir",
+            "okrat",
+            "\u00e1\u00ba\u00a3n",
+            "udu",
+            "pirit",
+            "perse"
+        ],
+        "positive_strings": [
+            " facility",
+            " home",
+            " homes",
+            " facilities",
+            "fac",
+            "home",
+            "facility",
+            " fac",
+            "-home",
+            " Facility"
+        ],
+        "description": " terms related to nursing homes and elder care"
+    },
+    {
+        "index": "15546",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_15546.json",
+        "negative_strings": [
+            "\u00c3\u00a4l",
+            "BOSE",
+            "ompiler",
+            " doktor",
+            "omb",
+            "atta",
+            " Scientists",
+            "ystick",
+            "wers",
+            " defaultMessage"
+        ],
+        "positive_strings": [
+            " Float",
+            " Charge",
+            " float",
+            " telemetry",
+            " charge",
+            "Float",
+            " floated",
+            " floating",
+            "Charge",
+            " floats"
+        ],
+        "description": " terms related to nursing and healthcare roles"
+    },
+    {
+        "index": "4588",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_4588.json",
+        "negative_strings": [
+            "ibern",
+            "eyer",
+            "sville",
+            " orient",
+            "ted",
+            "ection",
+            "ej",
+            "\u00e7\u00bb\u0131",
+            "IZE",
+            "own"
+        ],
+        "positive_strings": [
+            "ery",
+            "ultan",
+            "ERY",
+            "ury",
+            "pectives",
+            "ersed",
+            "uries",
+            "urs",
+            "aries",
+            "eson"
+        ],
+        "description": " terms related to nursing"
+    },
+    {
+        "index": "22735",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/nurse/data_for_feature_22735.json",
+        "negative_strings": [
+            "cak",
+            "ehr",
+            "_invoke",
+            "_goto",
+            "elah",
+            "a\u00c5\u013b",
+            "_MR",
+            "\u00e3\u0123\u012c",
+            "alling",
+            "\u00d9\u0126\u00d8\u00a7"
+        ],
+        "positive_strings": [
+            " ways",
+            " latest",
+            " los",
+            " Latest",
+            " unmarried",
+            "\u00e6\u013e\u0122\u00e6\u0138\u00b0",
+            "latest",
+            " suite",
+            "IOS",
+            "imer"
+        ],
+        "description": " terms related to forensic nursing and medico-legal issues"
+    },
+    {
+        "index": "82074",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_82074.json",
+        "negative_strings": [
+            " addCriterion",
+            "ness",
+            "\u00e5\u012a\u00bb",
+            "loys",
+            "thon",
+            "rama",
+            "\u00c3\u00abn",
+            "333",
+            "n\u00c3\u00a9",
+            "ITIES"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            "maids",
+            " Pract",
+            " practitioners",
+            " mid",
+            " practition",
+            " pract",
+            "pr",
+            " Mid"
+        ],
+        "description": "references to nursing professionals and their roles"
+    },
+    {
+        "index": "25859",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_25859.json",
+        "negative_strings": [
+            "asts",
+            ".nz",
+            "andy",
+            "et\u00c3\u0142",
+            " Clyde",
+            "ulas",
+            "ulus",
+            "oulos",
+            "asal",
+            "apper"
+        ],
+        "positive_strings": [
+            "itioner",
+            "ition",
+            "iction",
+            "icion",
+            "ITION",
+            "iti",
+            "itional",
+            "itions",
+            "tion",
+            "iton"
+        ],
+        "description": "terms related to healthcare practitioners, particularly nurses and physician assistants"
+    },
+    {
+        "index": "56593",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_56593.json",
+        "negative_strings": [
+            "arence",
+            " Dul",
+            " Rent",
+            "loud",
+            "ILED",
+            "owed",
+            "itized",
+            "oa",
+            " Bert",
+            "OULD"
+        ],
+        "positive_strings": [
+            "urs",
+            "UR",
+            "urse",
+            "uring",
+            "urses",
+            "ures",
+            "URING",
+            "ur",
+            " ur",
+            "arsing"
+        ],
+        "description": " variations of the letter \"N,\" typically indicating references to nursing or nurse-related terms"
+    },
+    {
+        "index": "13407",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_13407.json",
+        "negative_strings": [
+            " elucid",
+            "TRY",
+            ".openg",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8",
+            "orial",
+            "ardu",
+            "try",
+            "\u00b7\u00bb",
+            "\u00ef\u00bb\u00bf#",
+            "\u00ea\u00b3\u00b5"
+        ],
+        "positive_strings": [
+            " describe",
+            " understand",
+            " Recogn",
+            "recogn",
+            " understands",
+            " Understand",
+            "crit",
+            " Sum",
+            " recognize",
+            " apply"
+        ],
+        "description": " terms related to medical procedures and nursing practices"
+    },
+    {
+        "index": "92562",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_92562.json",
+        "negative_strings": [
+            "itzer",
+            "orget",
+            "agher",
+            "Veter",
+            "etak",
+            "apore",
+            "\u00e0\u00a4\u00a8\u00e0\u00a4\u00b2",
+            "icontrol",
+            " Pediatrics",
+            "\u00c3\u00b1ana"
+        ],
+        "positive_strings": [
+            "ians",
+            "ian",
+            "ric",
+            "IAN",
+            "rics",
+            "ile",
+            "rian",
+            "/ad",
+            "ally",
+            "/ne"
+        ],
+        "description": "terms and phrases related to pediatric medicine and nursing"
+    },
+    {
+        "index": "121313",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/nurse/data_for_feature_121313.json",
+        "negative_strings": [
+            "adin",
+            "etto",
+            "allest",
+            "allis",
+            "jde",
+            "agina",
+            "wdx",
+            "iglia",
+            " \u00ce\u00bb\u00ce\u00b9",
+            "IBE"
+        ],
+        "positive_strings": [
+            " skilled",
+            " assisted",
+            " nursing",
+            " conv",
+            " elder",
+            " Ass",
+            " long",
+            " ger",
+            " SN",
+            " senior"
+        ],
+        "description": " references to nursing home care and related services"
+    }
+]

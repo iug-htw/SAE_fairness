@@ -1,0 +1,30 @@
+{
+    "index": "2881",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_2881.json",
+    "negative_strings": [
+        "\u2581CreateTagHelper",
+        "quelize",
+        "hoeddwyd",
+        "BufferException",
+        "\u2581DirectX",
+        "djangoproject",
+        "ariste",
+        "\u2581Akismet",
+        "rigger",
+        "CDATA"
+    ],
+    "positive_strings": [
+        "\u2581home",
+        "Home",
+        "home",
+        "\u2581Home",
+        "\u2581HOME",
+        "HOME",
+        "\u2581homes",
+        "homes",
+        "\u2581Homes",
+        "\u2581hjem"
+    ],
+    "description": "references to home-related topics and activities"
+}

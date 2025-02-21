@@ -1,0 +1,212 @@
+[
+    {
+        "index": "20139",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_20139.json",
+        "negative_strings": [
+            " Emir",
+            " Absent",
+            "PsyNetMessage",
+            "actly",
+            ">>>>>>>>",
+            "ournal",
+            "GGGGGGGG",
+            " scant",
+            " vic",
+            " FISA"
+        ],
+        "positive_strings": [
+            "ucci",
+            "heim",
+            "fred",
+            "enberg",
+            "olini",
+            "ifest",
+            "heimer",
+            "strom",
+            "arian",
+            "ageddon"
+        ],
+        "description": "mentions of the name \"Mann\""
+    },
+    {
+        "index": "20139",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_20139.json",
+        "negative_strings": [
+            " Emir",
+            " Absent",
+            "PsyNetMessage",
+            "actly",
+            ">>>>>>>>",
+            "ournal",
+            "GGGGGGGG",
+            " scant",
+            " vic",
+            " FISA"
+        ],
+        "positive_strings": [
+            "ucci",
+            "heim",
+            "fred",
+            "enberg",
+            "olini",
+            "ifest",
+            "heimer",
+            "strom",
+            "arian",
+            "ageddon"
+        ],
+        "description": "mentions of the name \"Mann\""
+    },
+    {
+        "index": "31655",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_31655.json",
+        "negative_strings": [
+            " Emir",
+            " Absent",
+            "PsyNetMessage",
+            " FIGHT",
+            " Islanders",
+            " Spanish",
+            " FISA",
+            "actly",
+            " vic",
+            "ournal"
+        ],
+        "positive_strings": [
+            "ucci",
+            "heim",
+            "fred",
+            "ifest",
+            "enberg",
+            "olini",
+            "stein",
+            "heimer",
+            "elly",
+            "ella"
+        ],
+        "description": "references to the name \"Mann\""
+    },
+    {
+        "index": "10444",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_10444.json",
+        "negative_strings": [
+            " Emir",
+            " Absent",
+            ">>>>>>>>",
+            " AQ",
+            " GEAR",
+            " Argon",
+            "PsyNetMessage",
+            "URN",
+            "=-=-=-=-",
+            " FISA"
+        ],
+        "positive_strings": [
+            "heim",
+            "ucci",
+            "olini",
+            "ifest",
+            "fred",
+            "heimer",
+            "enberg",
+            "hattan",
+            "iversary",
+            "ageddon"
+        ],
+        "description": "the surname \"Mann\" or variations of it"
+    },
+    {
+        "index": "5901",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_5901.json",
+        "negative_strings": [
+            "nces",
+            "meal",
+            "ngth",
+            " welf",
+            "colour",
+            "WHERE",
+            "bound",
+            "devices",
+            " millenn",
+            "cess"
+        ],
+        "positive_strings": [
+            "strom",
+            "lich",
+            "ophon",
+            "stein",
+            "elson",
+            "iere",
+            "lein",
+            "mann",
+            "enegger",
+            "gart"
+        ],
+        "description": "the word \"mann\" in various contexts throughout the document"
+    },
+    {
+        "index": "89817",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_89817.json",
+        "negative_strings": [
+            "ngth",
+            "colour",
+            "WHERE",
+            "meal",
+            " welf",
+            "angular",
+            "nces",
+            "bound",
+            "between",
+            " conductor"
+        ],
+        "positive_strings": [
+            "elson",
+            "strom",
+            "lich",
+            "lein",
+            "stadt",
+            "ophon",
+            "gart",
+            "udge",
+            "iere",
+            "ufact"
+        ],
+        "description": "the presence of the name \"Mann\" in various contexts"
+    },
+    {
+        "index": "89817",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/Mann/data_for_feature_89817.json",
+        "negative_strings": [
+            "ngth",
+            "colour",
+            "WHERE",
+            "meal",
+            " welf",
+            "angular",
+            "nces",
+            "bound",
+            "between",
+            " conductor"
+        ],
+        "positive_strings": [
+            "elson",
+            "strom",
+            "lich",
+            "lein",
+            "stadt",
+            "ophon",
+            "gart",
+            "udge",
+            "iere",
+            "ufact"
+        ],
+        "description": "the presence of the name \"Mann\" in various contexts"
+    }
+]

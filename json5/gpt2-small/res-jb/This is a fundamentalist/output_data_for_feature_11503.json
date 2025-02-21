@@ -1,0 +1,30 @@
+{
+    "index": "11503",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a fundamentalist/data_for_feature_11503.json",
+    "negative_strings": [
+        "assetsadobe",
+        " Yards",
+        "\u0138\u013c",
+        "\u00e9\u0139\u013a",
+        "ridor",
+        " Corridor",
+        " corridor",
+        " Sack",
+        "Layer",
+        " deadlines"
+    ],
+    "positive_strings": [
+        " religions",
+        " religion",
+        " Christianity",
+        " atheism",
+        " Catholicism",
+        " faiths",
+        " religious",
+        " Judaism",
+        " relig",
+        " Religion"
+    ],
+    "description": "mentions of religious beliefs and practices"
+}

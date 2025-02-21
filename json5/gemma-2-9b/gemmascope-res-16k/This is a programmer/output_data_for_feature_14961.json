@@ -1,0 +1,30 @@
+{
+    "index": "14961",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a programmer/data_for_feature_14961.json",
+    "negative_strings": [
+        "program",
+        "programme",
+        "Programm",
+        "\u2581programmable",
+        "yntaxException",
+        "\u2581PROGRAMME",
+        "programma",
+        "\u2581propOrder",
+        "programmed",
+        "\u2581PROGRAM"
+    ],
+    "positive_strings": [
+        "matically",
+        "matic",
+        "mme",
+        "mability",
+        "mable",
+        "\u2581\u0631\u06cc\u0632\u06cc",
+        "matical",
+        "mers",
+        "ing",
+        "mes"
+    ],
+    "description": " phrases and terms related to programming and software development"
+}

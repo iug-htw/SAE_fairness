@@ -1,0 +1,482 @@
+[
+    {
+        "index": "13421",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_13421.json",
+        "negative_strings": [
+            "edor",
+            "ToDevice",
+            "ence",
+            "iston",
+            "SSION",
+            "atik",
+            "edores",
+            "buie",
+            "PIO",
+            " Fet"
+        ],
+        "positive_strings": [
+            "lemen",
+            "leness",
+            " gent",
+            "ility",
+            "amic",
+            "elman",
+            "lest",
+            "lem",
+            "ile",
+            "iles"
+        ],
+        "description": "terms relating to gentility and gentlemanly qualities"
+    },
+    {
+        "index": "28237",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_28237.json",
+        "negative_strings": [
+            "ToDevice",
+            "ence",
+            "boards",
+            "edores",
+            "edor",
+            " judicial",
+            " Nie",
+            "ctor",
+            "buie",
+            "parator"
+        ],
+        "positive_strings": [
+            "lemen",
+            "leness",
+            "amic",
+            "ility",
+            "lest",
+            "ile",
+            "lem",
+            " gent",
+            "LEM",
+            "elman"
+        ],
+        "description": " terms related to gentry or gentlemanly characteristics"
+    },
+    {
+        "index": "17214",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_17214.json",
+        "negative_strings": [
+            "yers",
+            "ITY",
+            "eries",
+            "CTION",
+            "/runtime",
+            "velle",
+            "rying",
+            "arding",
+            "edor",
+            "anza"
+        ],
+        "positive_strings": [
+            "lemen",
+            " gent",
+            "gent",
+            " Gent",
+            "lem",
+            "ile",
+            "amic",
+            "leness",
+            "LEM",
+            "ner"
+        ],
+        "description": " variations of the word \"gentleman\" and related terms"
+    },
+    {
+        "index": "30035",
+        "layer": "21-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_30035.json",
+        "negative_strings": [
+            "yers",
+            "trak",
+            "edor",
+            "rying",
+            "anza",
+            "/runtime",
+            "ITY",
+            "essian",
+            "eries",
+            "CTION"
+        ],
+        "positive_strings": [
+            "lemen",
+            " Gent",
+            " gent",
+            "lem",
+            "leness",
+            "gent",
+            "ner",
+            "LEM",
+            "ile",
+            "\u00cc\u00a3"
+        ],
+        "description": " variations of the word \"gentleman.\""
+    },
+    {
+        "index": "51224",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_51224.json",
+        "negative_strings": [
+            "\u00e5\u00ae\u0139",
+            "SSION",
+            "izers",
+            "\u00d1\u0122\u00d1\u0125\u00d0\u00bd",
+            " kostenlose",
+            "annels",
+            "izer",
+            "INED",
+            " actionTypes",
+            "\u00ec\u00bf"
+        ],
+        "positive_strings": [
+            " gent",
+            "lem",
+            "r",
+            "lemen",
+            "gent",
+            "rif",
+            "\u00e6\u012d",
+            "lsen",
+            "aur",
+            "ler"
+        ],
+        "description": " variations of the word \"gentleman.\""
+    },
+    {
+        "index": "8363",
+        "layer": "26-llamascope-mlp-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_8363.json",
+        "negative_strings": [
+            "asso",
+            "-fe",
+            " Feinstein",
+            "\u00e6\u00be",
+            "tparam",
+            "\u00d0\u00b5\u00d0\u00b2\u00d0\u00be",
+            "980",
+            "tps",
+            "aster",
+            "996"
+        ],
+        "positive_strings": [
+            "ille",
+            " Pall",
+            "rupa",
+            "ripp",
+            "alm",
+            "FM",
+            "asca",
+            "oload",
+            "hoff",
+            "ul"
+        ],
+        "description": " the term \"gent\" along with related word forms, indicating a focus on discussions surrounding gentility or gentlemanly behavior"
+    },
+    {
+        "index": "75139",
+        "layer": "21-llamascope-mlp-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_75139.json",
+        "negative_strings": [
+            "\u00e3\u0124\u012b\u00e3\u0123\u0126",
+            "icamente",
+            "\u00e3\u0123\u00b0\u00e3\u0123\u012d\u00e3\u0124\u012c",
+            "\u00e6\u00a9",
+            "\u00e9\u013b\u00b5",
+            "Writable",
+            "omor",
+            "alg",
+            "\u00c5\u00been",
+            "evil"
+        ],
+        "positive_strings": [
+            "abee",
+            "103",
+            " sir",
+            "sons",
+            "letters",
+            " views",
+            " Kore",
+            "uta",
+            "uke",
+            "uts"
+        ],
+        "description": " variations of the word \"gentleman.\""
+    },
+    {
+        "index": "3040",
+        "layer": "24-llamascope-mlp-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_3040.json",
+        "negative_strings": [
+            "wik",
+            " \u00d1\u0141",
+            "_codegen",
+            "\u00d0\u00bb\u00d0\u00be\u00d1\u0122",
+            " Fuse",
+            " Barr",
+            "mentions",
+            "\u00e5\u00b2\u00b8",
+            "585",
+            " asia"
+        ],
+        "positive_strings": [
+            "iers",
+            "\u00e3\u0124\u00b7\u00e3\u0125\u00bc",
+            "\u00ed\u012e\u0127",
+            "ekli",
+            "_buckets",
+            "efs",
+            " dia",
+            "toy",
+            "ADI",
+            "est"
+        ],
+        "description": "terms related to gentility and gentlemanly behavior"
+    },
+    {
+        "index": "25072",
+        "layer": "4-llamascope-res-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_25072.json",
+        "negative_strings": [
+            "olog",
+            "andin",
+            "arkin",
+            "s",
+            "anda",
+            " Interface",
+            "ulo",
+            "bon",
+            "agg",
+            " interface"
+        ],
+        "positive_strings": [
+            "zelf",
+            "edl",
+            "ERVED",
+            "strup",
+            "\u00c4\u012fel",
+            "_LAYER",
+            "este",
+            "adero",
+            "ancode",
+            " ch\u00c3\u00bat"
+        ],
+        "description": " references to \"gentleman\" and related terms"
+    },
+    {
+        "index": "101710",
+        "layer": "1-llamascope-res-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_101710.json",
+        "negative_strings": [
+            "att",
+            "space",
+            "ient",
+            "ouch",
+            "atty",
+            "mins",
+            "\u00e9\u00a3\u013d",
+            "sj",
+            " kem",
+            "ille"
+        ],
+        "positive_strings": [
+            "zelf",
+            " B\u00c3\u00b6l\u00c3\u00bcm",
+            "\u00d1\u0122\u00d0\u00b4",
+            "\u00e7\u00a5\u00a5",
+            "edl",
+            "rud",
+            "\u00e5\u00a5\u0133",
+            "\u00d9\u0124\u00d8\u00a8",
+            "urat",
+            "caff"
+        ],
+        "description": " references to \"gentleman\" and \"gentlemen.\""
+    },
+    {
+        "index": "15660",
+        "layer": "4-llamascope-res-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_15660.json",
+        "negative_strings": [
+            "AMI",
+            "kla",
+            "'icon",
+            "hardt",
+            "ikon",
+            "\u00d9\u012a\u00d9\u0126\u00d8\u00a7",
+            "ables",
+            "avigate",
+            "\u00ec\u00b4\u012e",
+            "\u00d0\u00bb\u00d0\u00be\u00d1\u0129"
+        ],
+        "positive_strings": [
+            "iffer",
+            "oste",
+            "ardi",
+            "hil",
+            "auf",
+            "-tabs",
+            " \\@",
+            "illing",
+            "elt",
+            "idd"
+        ],
+        "description": "references to nobility and gender-specific titles, specifically related to \"lady\" and \"gentleman.\""
+    },
+    {
+        "index": "5441",
+        "layer": "2-llamascope-mlp-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_5441.json",
+        "negative_strings": [
+            "/INFO",
+            "relude",
+            "\u00d0\u00b5\u00d0\u00ba\u00d1\u0124\u00d0\u00be\u00d1\u0122",
+            "IQ",
+            " \u00c4\u012eer",
+            " PyErr",
+            "tor",
+            "inue",
+            "osten",
+            "lena"
+        ],
+        "positive_strings": [
+            "shal",
+            " Ladies",
+            " Tie",
+            " \u00d8\u00aa\u00d8\u00b9\u00d8\u00af",
+            "inent",
+            "\u00ec\u013d\u0136\u00eb\u00b6\u0122\u00ed\u0126\u00b0",
+            "ogo",
+            "086",
+            "_Page",
+            " Gilbert"
+        ],
+        "description": " references to \"gentleman\" or \"gentlemen\""
+    },
+    {
+        "index": "115474",
+        "layer": "0-llamascope-res-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_115474.json",
+        "negative_strings": [
+            "odb",
+            "   ",
+            "abi",
+            "ibble",
+            "ogle",
+            "swire",
+            " Gordon",
+            "anime",
+            "\u00c3\u00a4nn",
+            " alike"
+        ],
+        "positive_strings": [
+            "jah",
+            "UnderTest",
+            "asters",
+            "Fonts",
+            " B\u00c3\u00b6l\u00c3\u00bcm",
+            "isen",
+            "_closure",
+            "ioc",
+            "ews",
+            "_absolute"
+        ],
+        "description": " references to the term \"gentleman\" and its variations"
+    },
+    {
+        "index": "32053",
+        "layer": "1-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_32053.json",
+        "negative_strings": [
+            "hide",
+            "rof",
+            "gen",
+            "ibs",
+            "odb",
+            "att",
+            "ause",
+            "gang",
+            "den",
+            "gid"
+        ],
+        "positive_strings": [
+            "EMPLARY",
+            "zelf",
+            "semb",
+            " Drain",
+            "rosso",
+            "zell",
+            "bedo",
+            "\u00ba\u00ab",
+            "isible",
+            "urovision"
+        ],
+        "description": " references to \"gentlemen\" or \"gentleman\" in various contexts"
+    },
+    {
+        "index": "16193",
+        "layer": "0-llamascope-res-32k",
+        "url": "json/llama-scope/gentleman/data_for_feature_16193.json",
+        "negative_strings": [
+            "ople",
+            "ansi",
+            "heads",
+            "chart",
+            " medic",
+            " cil",
+            "assi",
+            "adolu",
+            "yles",
+            "\u00c3\u00a9m"
+        ],
+        "positive_strings": [
+            "orama",
+            "IOC",
+            " Ages",
+            "subnet",
+            "unicipio",
+            "-addons",
+            "\u00e3\u0123\u012d\u00e3\u0123\u00ae",
+            "foy",
+            "quier",
+            "Normalization"
+        ],
+        "description": "references to \"gentlemen\" and \"gentleman.\""
+    },
+    {
+        "index": "13841",
+        "layer": "1-llamascope-mlp-131k",
+        "url": "json/llama-scope/gentleman/data_for_feature_13841.json",
+        "negative_strings": [
+            " ",
+            "agen",
+            "gen",
+            " Hoffman",
+            "gov",
+            "gre",
+            "Ap",
+            "\u00eb\u012d\u012a\u00ec\u0137\u0126",
+            " Bor",
+            "oden"
+        ],
+        "positive_strings": [
+            "ongan",
+            "erdem",
+            "werp",
+            "edii",
+            "uala",
+            "ucz",
+            "ICODE",
+            "openh",
+            "iky",
+            "conciliation"
+        ],
+        "description": "mentions of \"gentleman\" or \"gentlemen.\""
+    }
+]

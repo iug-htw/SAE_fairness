@@ -1,0 +1,30 @@
+{
+    "index": "21576",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a nurse/data_for_feature_21576.json",
+    "negative_strings": [
+        "\u00e7\u012b\u012a",
+        "RFC",
+        "\u00d9\u0127",
+        "\u00d8\u00a7\u00d9\u0126",
+        "arta",
+        "AIN",
+        "inations",
+        "urat",
+        "\u00e0",
+        "adr"
+    ],
+    "positive_strings": [
+        " practitioner",
+        "maid",
+        " nurse",
+        " examiner",
+        " nurs",
+        " nurses",
+        " Nurs",
+        " nursing",
+        " Nurse",
+        " practitioners"
+    ],
+    "description": "references to nurses with varying contexts including their actions, backgrounds, and relationships"
+}

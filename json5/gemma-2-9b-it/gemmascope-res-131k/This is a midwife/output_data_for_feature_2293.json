@@ -1,0 +1,30 @@
+{
+    "index": "2293",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_2293.json",
+    "negative_strings": [
+        "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+        "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+        "\u2581metav",
+        "\u2581contextLoads",
+        "\u2581nonUne",
+        "MigrationBuilder",
+        "\u2581poveznice",
+        "del\u00e0",
+        "\u2581kayna\u011f\u0131ndan",
+        "\u03c0\u03c9\u03c2"
+    ],
+    "positive_strings": [
+        "\u2581duties",
+        "\u3092\u52d9",
+        "\u2581services",
+        "\u2581training",
+        "\u2581assistants",
+        "\u2581Salary",
+        "\u2581Training",
+        "\u2581profession",
+        "\u2581job",
+        "\u2581TRAINING"
+    ],
+    "description": "specific job roles and titles within various contexts"
+}

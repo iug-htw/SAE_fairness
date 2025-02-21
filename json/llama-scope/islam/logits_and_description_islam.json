@@ -1,0 +1,602 @@
+[
+    {
+        "index": "28037",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/islam/data_for_feature_28037.json",
+        "negative_strings": [
+            "atedRoute",
+            "racat",
+            "agic",
+            "cidade",
+            "\u00e8\u00be\u0133",
+            "\u00e1\u00ba\u00a1c",
+            "acios",
+            "iglia",
+            "isky",
+            "icos"
+        ],
+        "positive_strings": [
+            "nin",
+            "nn",
+            "nen",
+            "inn",
+            "nnen",
+            "enn",
+            "inen",
+            "ann",
+            "n",
+            "en"
+        ],
+        "description": "references to influential leaders in Islamic context"
+    },
+    {
+        "index": "48663",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_48663.json",
+        "negative_strings": [
+            "\u00d9\u0133\u00d8\u00af",
+            "icas",
+            "_CB",
+            "istrovstv\u00c3\u0143",
+            ";br",
+            " \u00ce\u0136\u00ce\u00b5",
+            "\u00d0\u00b3\u00d0\u00be\u00d0\u00b4",
+            "gos",
+            "gili",
+            "ampie"
+        ],
+        "positive_strings": [
+            " Batt",
+            " Rush",
+            "ul",
+            " al",
+            " Kath",
+            " batt",
+            " abi",
+            " Ezra",
+            "-i",
+            " \u00d8\u00b1\u00d8\u00b4\u00d8\u00af"
+        ],
+        "description": "references to historical Islamic scholars and their contributions"
+    },
+    {
+        "index": "21304",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_21304.json",
+        "negative_strings": [
+            "lemn",
+            "\u00d8\u00b4\u00d9\u012a",
+            "BCM",
+            " \u00d0\u00bf\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b0",
+            "\u00c3\u0143\u00c5\u00be",
+            "utar",
+            "\u00d9\u0123\u00d9\u0129\u00d9\u012a\u00d9\u0127",
+            "idar",
+            "ixe",
+            "deprecated"
+        ],
+        "positive_strings": [
+            " September",
+            "911",
+            "9",
+            " ",
+            " Sept",
+            "September",
+            "Sept",
+            " Twin",
+            " planes",
+            " september"
+        ],
+        "description": " references to fabricated or false concepts related to Islam"
+    },
+    {
+        "index": "42010",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_42010.json",
+        "negative_strings": [
+            "irit",
+            "CDATA",
+            "\u00ed\u012d\u0122",
+            "reten",
+            " Leban",
+            "atisch",
+            " \u00e3\u0124\u00b8\u00e3\u0125\u00a3",
+            "unist",
+            " Lebanese",
+            "\u012f"
+        ],
+        "positive_strings": [
+            "(pb",
+            " pb",
+            " \u00d8\u00b5\u00d9\u0126\u00d9\u012b",
+            " peace",
+            " Peace",
+            "pb",
+            " PB",
+            " \u00ef",
+            " Muhammad",
+            "Peace"
+        ],
+        "description": "references to Islamic teachings and historical figures"
+    },
+    {
+        "index": "46537",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_46537.json",
+        "negative_strings": [
+            "TestFixture",
+            "ationToken",
+            " cab",
+            " hill",
+            "\u00d9\u0126\u00d8\u00a7\u00d9\u0126",
+            "\u00d1\u012a\u00d0\u00b8\u00d0\u00bd",
+            " heter",
+            " non",
+            " sharply",
+            " capacity"
+        ],
+        "positive_strings": [
+            "peace",
+            "may",
+            "pb",
+            "Peace",
+            " peace",
+            "May",
+            " may",
+            "upon",
+            " Peace",
+            "\u00d8\u00b1\u00d8\u00b6"
+        ],
+        "description": "references to Islamic figures and teachings"
+    },
+    {
+        "index": "4193",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/islam/data_for_feature_4193.json",
+        "negative_strings": [
+            "eut",
+            "egers",
+            "ection",
+            "tin",
+            "eo",
+            "idge",
+            "wares",
+            ".liferay",
+            "tem",
+            "ables"
+        ],
+        "positive_strings": [
+            "quito",
+            "cow",
+            "lems",
+            "lem",
+            "kov",
+            "ambique",
+            "queda",
+            "inee",
+            "quit",
+            "kova"
+        ],
+        "description": "references to mosques or Islamic places of worship"
+    },
+    {
+        "index": "100288",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_100288.json",
+        "negative_strings": [
+            "reff",
+            "\u00d8\u00a7\u00d8\u00b3\u00d9\u0129",
+            "edly",
+            "IAL",
+            "edl",
+            "gresql",
+            "lie\u00c3\u0141",
+            "esub",
+            "ATTLE",
+            "iale"
+        ],
+        "positive_strings": [
+            "ophobia",
+            "ophobic",
+            "ists",
+            "ization",
+            "ically",
+            "abad",
+            "aph",
+            "ics",
+            "isation",
+            "ism"
+        ],
+        "description": " terms related to Islam and its variations, often in a critical context"
+    },
+    {
+        "index": "78640",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_78640.json",
+        "negative_strings": [
+            "pon",
+            "\u00d0\u00b4\u00d0\u00b0\u00d0\u00bf",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " Bron",
+            "icode",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            " pon",
+            "ingly",
+            " Cream",
+            "gon"
+        ],
+        "positive_strings": [
+            " Batt",
+            " Rush",
+            " \u00d8\u00aa\u00db\u012e\u00d9\u0127",
+            " Haz",
+            " Tay",
+            " \u00d8\u00b1\u00d8\u00b4\u00d8\u00af",
+            " \u00d8\u00a8\u00d8\u00b7",
+            "nut",
+            " Kath",
+            " Verg"
+        ],
+        "description": "references to historical Islamic figures"
+    },
+    {
+        "index": "39649",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_39649.json",
+        "negative_strings": [
+            " Prem",
+            " hence",
+            " ere",
+            " prem",
+            " Ar",
+            "uzzi",
+            "aston",
+            " Rage",
+            "601",
+            "\u00d0\u00b5\u00d0\u00b3\u00d0\u00be\u00d1\u0122"
+        ],
+        "positive_strings": [
+            "inks",
+            "ackers",
+            "inx",
+            "rah",
+            "acking",
+            "acked",
+            "acker",
+            "iri",
+            "azi",
+            "ras"
+        ],
+        "description": " references to the term \"hij\" or related concepts of Islamic migration or cultural identity"
+    },
+    {
+        "index": "18903",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_18903.json",
+        "negative_strings": [
+            ".uf",
+            "erece",
+            "\u00d8\u00b4\u00d9\u012a",
+            "\u00c3\u00abl",
+            "habi",
+            "utar",
+            "\u00e9\u012e",
+            "yntax",
+            "hower",
+            "\u00c3\u0142m"
+        ],
+        "positive_strings": [
+            " September",
+            "9",
+            " Sept",
+            "Sept",
+            "September",
+            " Sep",
+            "911",
+            " sept",
+            " september",
+            " "
+        ],
+        "description": " references to fabricated or misleading terms related to Islam"
+    },
+    {
+        "index": "5534",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/islam/data_for_feature_5534.json",
+        "negative_strings": [
+            "swick",
+            "istrovstv\u00c3\u0143",
+            "eus",
+            "\u00c3\u00aan",
+            "eous",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "c\u00c3\u0143m",
+            "ITOR",
+            "ties",
+            "ecided"
+        ],
+        "positive_strings": [
+            "quer",
+            "jid",
+            "sey",
+            "cul",
+            "achusetts",
+            "acre",
+            "chio",
+            "och",
+            "ala",
+            "chine"
+        ],
+        "description": "references to a religious or community center related to Islam"
+    },
+    {
+        "index": "84467",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_84467.json",
+        "negative_strings": [
+            "\u00e8\u00a3\u0127",
+            "auer",
+            "\u00e9\u013f\u00a9",
+            "alace",
+            "msp",
+            "ozo",
+            "\u00e0\u00b8\u00b5\u00e0\u00b8\u00a7",
+            "\u00d1\u0125\u00d0\u00b2\u00d0\u00b0",
+            "agar",
+            " Aggregate"
+        ],
+        "positive_strings": [
+            "'an",
+            "ay",
+            "\u2019an",
+            "anic",
+            "AY",
+            "dish",
+            "west",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "d\u00c4\u013dl",
+            "riculum"
+        ],
+        "description": " references to the Qur'an and its significance in Islamic teachings"
+    },
+    {
+        "index": "128035",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_128035.json",
+        "negative_strings": [
+            "kker",
+            "liner",
+            "lein",
+            "htdocs",
+            ".scalablytyped",
+            " Sunder",
+            "suspend",
+            "iting",
+            "\u00c5\u00a1ti",
+            "LANG"
+        ],
+        "positive_strings": [
+            "iph",
+            "IPH",
+            "ip",
+            "ipa",
+            "akh",
+            "if",
+            "ibrate",
+            "ifs",
+            "ipse",
+            "amate"
+        ],
+        "description": " references to Islamic leadership or governance structures"
+    },
+    {
+        "index": "62300",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_62300.json",
+        "negative_strings": [
+            "\u00e5\u012e",
+            "urette",
+            "\u00d9\u0126\u00d8\u00a7\u00d9\u0126",
+            "datable",
+            "Structured",
+            " Rouge",
+            "WEEN",
+            "HEMA",
+            " \u00e5\u012e",
+            "memberOf"
+        ],
+        "positive_strings": [
+            " peace",
+            "peace",
+            " Peace",
+            "Peace",
+            " may",
+            " pb",
+            "may",
+            " \u00d8\u00b9\u00d9\u0126\u00d9\u012c\u00d9\u0129",
+            "May",
+            " May"
+        ],
+        "description": "references to religious figures and texts, particularly related to Islam"
+    },
+    {
+        "index": "116620",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_116620.json",
+        "negative_strings": [
+            " Islam",
+            "/*\u010d\n",
+            "Iso",
+            "USIC",
+            "ISO",
+            "IsActive",
+            "Islamic",
+            "Islam",
+            "Disappear",
+            " Iso"
+        ],
+        "positive_strings": [
+            "ate",
+            " finance",
+            " Finance",
+            "ity",
+            " Banking",
+            " Studies",
+            "-Christian",
+            " banking",
+            " Republic",
+            "ized"
+        ],
+        "description": "references to Islamic concepts, education, and political systems"
+    },
+    {
+        "index": "89594",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_89594.json",
+        "negative_strings": [
+            "ancement",
+            "top",
+            "\u00e3\u0123\u012d\u00e3\u0123\u0133",
+            "ehler",
+            "time",
+            "alsa",
+            "\u00d9\u012a\u00d8\u00a8\u00db\u012e",
+            "rowth",
+            "ength",
+            "\u00d1\u012e\u00d0\u00be\u00d0\u00b3\u00d0\u00be\u00d0\u00b4"
+        ],
+        "positive_strings": [
+            "belie",
+            "-bel",
+            "-Muslim",
+            "Bel",
+            " believer",
+            "agen",
+            " Bel",
+            ".bel",
+            "resident",
+            " believers"
+        ],
+        "description": "references to non-Muslim individuals or groups in relation to Islamic contexts"
+    },
+    {
+        "index": "16609",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_16609.json",
+        "negative_strings": [
+            "ezi",
+            "reff",
+            "JOB",
+            "ACHI",
+            "grese",
+            " Yen",
+            "\u00ce\u00b3\u00ce\u00ac",
+            "\u00c4\u0141\u00c4\u00b1",
+            "IGIN",
+            "\u00d0\u00b0\u00d1\u0124\u00d0\u00be"
+        ],
+        "positive_strings": [
+            "amic",
+            "amics",
+            "ophobia",
+            "lam",
+            "rael",
+            "ophobic",
+            "ami",
+            "mic",
+            "\u00c4\u0123",
+            "\u00c3\u00a2m"
+        ],
+        "description": " instances of the word \"Islam\" and its variations"
+    },
+    {
+        "index": "37482",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_37482.json",
+        "negative_strings": [
+            "iculos",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00b8",
+            "k\u00c3\u00bc",
+            "bable",
+            "atform",
+            "repos",
+            "nore",
+            "imbus",
+            " Isis",
+            "romo"
+        ],
+        "positive_strings": [
+            "ubar",
+            "uh",
+            "untas",
+            "usa",
+            "akt",
+            "oh",
+            "ub",
+            "urt",
+            "ulla",
+            "awl"
+        ],
+        "description": "terms related to Islamic scholarship or authority figures"
+    },
+    {
+        "index": "2964",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_2964.json",
+        "negative_strings": [
+            "orst",
+            "ezi",
+            "xffff",
+            "xfff",
+            "sian",
+            " Hancock",
+            "\u00c5\u00a5",
+            "eza",
+            "imit\u00c3\u00a9",
+            " withString"
+        ],
+        "positive_strings": [
+            " al",
+            " ul",
+            "-ul",
+            "-al",
+            " el",
+            "ul",
+            " ash",
+            "-el",
+            " Al",
+            "-il"
+        ],
+        "description": "terms and concepts related to Islamic theology and religious practices"
+    },
+    {
+        "index": "30918",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/islam/data_for_feature_30918.json",
+        "negative_strings": [
+            "pon",
+            "IDL",
+            "icode",
+            "\u00e0\u00b8\u00b5\u00e0\u00b8\u00a2\u00e0\u00b8\u00a3",
+            "ause",
+            "okud",
+            "iac",
+            "ding",
+            "/inet",
+            "obox"
+        ],
+        "positive_strings": [
+            " Batt",
+            " batt",
+            " Rush",
+            " Tay",
+            " Haz",
+            " Kath",
+            " \u00d8\u00b1\u00d8\u00b4\u00d8\u00af",
+            " \u00d8\u00aa\u00db\u012e\u00d9\u0127",
+            "Haz",
+            " \u00d8\u00a8\u00d8\u00b7"
+        ],
+        "description": "names of historical Islamic scholars and figures"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "53943",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a programmer/data_for_feature_53943.json",
+    "negative_strings": [
+        "io",
+        "JsonInclude",
+        "ea",
+        "\u2581\u0436\u0434\u0443\u0442",
+        "is",
+        "\n\n\n",
+        "chein",
+        "2",
+        "</i>",
+        "\u2581require"
+    ],
+    "positive_strings": [
+        "\u2581programmer",
+        "\u2581Programmer",
+        "Programmer",
+        "programmer",
+        "\u2581programmers",
+        "matician",
+        "\u2581mathematician",
+        "\u2581experimenter",
+        "Photographer",
+        "Researcher"
+    ],
+    "description": "references to programmers and programming-related terms"
+}

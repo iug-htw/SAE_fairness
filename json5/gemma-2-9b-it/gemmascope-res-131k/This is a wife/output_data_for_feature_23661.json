@@ -1,0 +1,30 @@
+{
+    "index": "23661",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a wife/data_for_feature_23661.json",
+    "negative_strings": [
+        "stop",
+        "hoeddwyd",
+        "seamn\u0103",
+        "Nast",
+        "Rhestr",
+        "olol",
+        "mean",
+        "indicators",
+        "STOP",
+        "tamol"
+    ],
+    "positive_strings": [
+        "\u2581spouse",
+        "\u2581husband",
+        "\u2581spouses",
+        "\u2581wife",
+        "\u2581married",
+        "\u2581Spouse",
+        "\u2581wives",
+        "\u2581husbands",
+        "spouse",
+        "\u2581Wife"
+    ],
+    "description": "references to spouses and marital relationships"
+}

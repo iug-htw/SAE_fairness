@@ -1,0 +1,602 @@
+[
+    {
+        "index": "40015",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_40015.json",
+        "negative_strings": [
+            "assetsadobe",
+            "stals",
+            "Downloadha",
+            "Accessory",
+            "handed",
+            "ysis",
+            "methyl",
+            "ounge",
+            "agy",
+            "insert"
+        ],
+        "positive_strings": [
+            " Bale",
+            " missionaries",
+            " denominations",
+            " fundamentalist",
+            " missionary",
+            " faith",
+            "isation",
+            " persecution",
+            " Scriptures",
+            " theolog"
+        ],
+        "description": " terms and references associated with Christianity and Christian beliefs"
+    },
+    {
+        "index": "29617",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_29617.json",
+        "negative_strings": [
+            "TY",
+            "phrine",
+            " inhibitors",
+            "ickr",
+            " peanuts",
+            "GMT",
+            "ctive",
+            " acid",
+            "KS",
+            " thin"
+        ],
+        "positive_strings": [
+            "ophe",
+            "church",
+            "mast",
+            "ophers",
+            "oph",
+            "offer",
+            "MAS",
+            "ophon",
+            "ological",
+            "obal"
+        ],
+        "description": "references to Christianity and associated terms"
+    },
+    {
+        "index": "44169",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_44169.json",
+        "negative_strings": [
+            "pmwiki",
+            "isite",
+            "\u00e3\u0124\u00b6",
+            "\u00e3\u0124\u00aa",
+            "\u00e3\u0125\u0135",
+            "rw",
+            "lain",
+            "rador",
+            "stable",
+            "ugal"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            " Himself",
+            "Christ",
+            " Savior",
+            " Messiah",
+            " CHRIST",
+            " Lizard",
+            " Skywalker",
+            " apostles"
+        ],
+        "description": " references to Jesus and Christianity"
+    },
+    {
+        "index": "20861",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_20861.json",
+        "negative_strings": [
+            "nir",
+            "DonaldTrump",
+            "../",
+            "xes",
+            "/**",
+            " Cheong",
+            " Paste",
+            "acet",
+            " Yak",
+            "amaz"
+        ],
+        "positive_strings": [
+            "yard",
+            "goers",
+            "yards",
+            " bells",
+            "going",
+            " choir",
+            "esan",
+            " Fathers",
+            " hierarchy",
+            " Patriarch"
+        ],
+        "description": "terms related to Christian institutions and their activities"
+    },
+    {
+        "index": "33378",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_33378.json",
+        "negative_strings": [
+            "Downloadha",
+            "ariat",
+            "\u00f0\u013f",
+            "\u00e6\u00a9",
+            "frames",
+            "ounge",
+            "obbies",
+            "assetsadobe",
+            "handed",
+            "govtrack"
+        ],
+        "positive_strings": [
+            " Bale",
+            " missionaries",
+            " theolog",
+            " denominations",
+            "ophe",
+            " fundamentalist",
+            "ization",
+            " missionary",
+            " faiths",
+            " Parad"
+        ],
+        "description": " references to Christianity and related themes"
+    },
+    {
+        "index": "9302",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_9302.json",
+        "negative_strings": [
+            "DragonMagazine",
+            "hots",
+            "awaru",
+            "Reviewer",
+            "fortune",
+            "isite",
+            "ODUCT",
+            "geries",
+            "obbies",
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134"
+        ],
+        "positive_strings": [
+            "ophe",
+            " Petersen",
+            " Vand",
+            " Schneider",
+            "opher",
+            " Slater",
+            " Bale",
+            " Parad",
+            " Hendricks",
+            " Hoff"
+        ],
+        "description": " names associated with individuals, particularly focusing on the first name \"Christian\" and other related names"
+    },
+    {
+        "index": "41601",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_41601.json",
+        "negative_strings": [
+            "nesota",
+            "ority",
+            "llular",
+            "olulu",
+            "rha",
+            "ntil",
+            " Flavoring",
+            "ickr",
+            "ptive",
+            "govtrack"
+        ],
+        "positive_strings": [
+            " scriptures",
+            " verse",
+            " verses",
+            " prophecy",
+            " texts",
+            " Scriptures",
+            " scripture",
+            " translator",
+            " literal",
+            " patriarch"
+        ],
+        "description": "references to the Bible and related Christian terminology"
+    },
+    {
+        "index": "5926",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_5926.json",
+        "negative_strings": [
+            "hov",
+            "eters",
+            "\u00e0\u00b8",
+            "ript",
+            "gered",
+            "rg",
+            " Cheong",
+            "ohm",
+            "eting",
+            "aunder"
+        ],
+        "positive_strings": [
+            " nuns",
+            " bishops",
+            "osate",
+            " nun",
+            " Church",
+            " priests",
+            " priest",
+            " cardinal",
+            " saints",
+            "esan"
+        ],
+        "description": "references to religious denominations, particularly Christian denominations, within a political or social context"
+    },
+    {
+        "index": "27425",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_27425.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b8",
+            "TRY",
+            "phrine",
+            "\u00e9\u00be",
+            "WI",
+            "IFE",
+            " narcotics",
+            " peanuts",
+            "UGE",
+            " Flavoring"
+        ],
+        "positive_strings": [
+            "church",
+            "mast",
+            "ophe",
+            "lia",
+            " Jesus",
+            " Christ",
+            "isphere",
+            "iscopal",
+            " cruc",
+            "inez"
+        ],
+        "description": "references to Christian figures and concepts, particularly related to Christ and theological terms"
+    },
+    {
+        "index": "41280",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_41280.json",
+        "negative_strings": [
+            "hots",
+            "DragonMagazine",
+            "fortune",
+            "idences",
+            "paces",
+            "ODUCT",
+            "ramid",
+            "hib",
+            "alted",
+            "iPhone"
+        ],
+        "positive_strings": [
+            " Slater",
+            " Petersen",
+            " Vand",
+            " Schneider",
+            "ophe",
+            " Bale",
+            " Adams",
+            " Gonzalez",
+            " Jarrett",
+            " Gutierrez"
+        ],
+        "description": " the name \"Christian\" along with various other names or identifiers in the context of narratives and events"
+    },
+    {
+        "index": "9443",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_9443.json",
+        "negative_strings": [
+            "DonaldTrump",
+            " neurot",
+            " irrit",
+            "/**",
+            " Yak",
+            "LER",
+            " easing",
+            "nir",
+            " sidx",
+            " \"$:/"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "esan",
+            "yards",
+            " bells",
+            " Patriarch",
+            "boys",
+            " Fathers",
+            "going",
+            " hierarchy"
+        ],
+        "description": "specific mentions of different Christian denominations, religious organizations, and church-related activities and discussions"
+    },
+    {
+        "index": "21544",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_21544.json",
+        "negative_strings": [
+            "Downloadha",
+            " Cul",
+            "terms",
+            "staking",
+            " tract",
+            " flu",
+            " Decker",
+            " commute",
+            " edit",
+            " differently"
+        ],
+        "positive_strings": [
+            "ogl",
+            "ost",
+            "anyon",
+            "oin",
+            "oration",
+            "imo",
+            "otent",
+            "utor",
+            "ople",
+            "onian"
+        ],
+        "description": " references to Pentecostal Christianity"
+    },
+    {
+        "index": "28056",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_28056.json",
+        "negative_strings": [
+            "daq",
+            "\u00e9\u00be\u012f\u00e5\u0138\u013c\u00e5\u00a3\u00ab",
+            "tags",
+            " Sorceress",
+            "azaki",
+            "hest",
+            "entin",
+            "atana",
+            "berman",
+            " Anthem"
+        ],
+        "positive_strings": [
+            "izations",
+            "ization",
+            "izer",
+            "ists",
+            "izers",
+            "izing",
+            "ist",
+            "isation",
+            "ising",
+            "icals"
+        ],
+        "description": "references to evangelical Christianity and its associated terms"
+    },
+    {
+        "index": "29955",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_29955.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "orph",
+            "ANY",
+            "ateur",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "pmwiki",
+            "urst",
+            "ariat",
+            "ULL"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "inez",
+            " Ramirez",
+            " Savior",
+            " Carlos",
+            " Himself",
+            "Jesus",
+            " Skywalker",
+            "sein"
+        ],
+        "description": "references to Jesus Christ and Christianity"
+    },
+    {
+        "index": "29955",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_29955.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "\u00e5\u00a7",
+            "orph",
+            "ANY",
+            "ateur",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "pmwiki",
+            "urst",
+            "ariat",
+            "ULL"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "inez",
+            " Ramirez",
+            " Savior",
+            " Carlos",
+            " Himself",
+            "Jesus",
+            " Skywalker",
+            "sein"
+        ],
+        "description": "references to Jesus Christ and Christianity"
+    },
+    {
+        "index": "33913",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_33913.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "\u00f0\u013f",
+            "ariat",
+            "obbies",
+            "ickr",
+            "tub",
+            "ounge",
+            "Rate",
+            "sharing",
+            "\u00e5\u00a7"
+        ],
+        "positive_strings": [
+            " missionaries",
+            " Bale",
+            " theolog",
+            " faiths",
+            " evangel",
+            " Evangel",
+            " Christian",
+            " faith",
+            "ophe",
+            " pilgrims"
+        ],
+        "description": "references to Christianity and Christian beliefs"
+    },
+    {
+        "index": "5820",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_5820.json",
+        "negative_strings": [
+            "#$",
+            "lessly",
+            "ACTED",
+            "\u00f0\u013f",
+            "\u00e3\u0124\u0124",
+            "IVES",
+            " Cascade",
+            "ENGTH",
+            "ESSION",
+            " boiling"
+        ],
+        "positive_strings": [
+            "areth",
+            "Naz",
+            "ollah",
+            "ril",
+            "imet",
+            "aji",
+            "oche",
+            "oid",
+            "itri",
+            "uala"
+        ],
+        "description": "references to religious figures or ideologies, specifically related to Christianity and Nazism"
+    },
+    {
+        "index": "3775",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_3775.json",
+        "negative_strings": [
+            "SPONSORED",
+            "ariat",
+            "\u00f0\u013f",
+            " Yak",
+            "Nap",
+            "shown",
+            "obbies",
+            "\u00e5\u00a7",
+            " Runner",
+            "\u00e6\u00a9"
+        ],
+        "positive_strings": [
+            " Christians",
+            " Bale",
+            " missionaries",
+            " theolog",
+            "ievers",
+            " denominations",
+            " theology",
+            " evangel",
+            " pilgrims",
+            "nesday"
+        ],
+        "description": " references to Christianity and its followers, particularly in contexts of persecution"
+    },
+    {
+        "index": "33281",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_33281.json",
+        "negative_strings": [
+            "Els",
+            " conflic",
+            "pmwiki",
+            "\u00e3\u0125\u0135",
+            "\u00e3\u0124\u00a9",
+            " pubs",
+            "OPA",
+            "illegal",
+            "Grab",
+            " hobbies"
+        ],
+        "positive_strings": [
+            " Himself",
+            " Almighty",
+            " Jesus",
+            " Incarn",
+            " GOD",
+            " Christ",
+            " Messiah",
+            " Metatron",
+            " God",
+            "hovah"
+        ],
+        "description": "references to religious figures and teachings"
+    },
+    {
+        "index": "15772",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/christianity/data_for_feature_15772.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b8",
+            "RAW",
+            "phrine",
+            "\u00e5\u00a7",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "TRY",
+            "Nit",
+            "TY",
+            "Effective",
+            "\u00e5\u00a5\u00b3"
+        ],
+        "positive_strings": [
+            "church",
+            "ophe",
+            "isphere",
+            "esian",
+            "mast",
+            " Christ",
+            "lia",
+            "elin",
+            "angel",
+            "ophers"
+        ],
+        "description": "references to Christ and related Christian concepts"
+    }
+]

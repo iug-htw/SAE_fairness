@@ -1,0 +1,212 @@
+[
+    {
+        "index": "27171",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_27171.json",
+        "negative_strings": [
+            "orescent",
+            "umbn",
+            "obyl",
+            "anyl",
+            " constitu",
+            "GoldMagikarp",
+            " inoc",
+            "aucuses",
+            "omin",
+            "psey"
+        ],
+        "positive_strings": [
+            "wife",
+            "hood",
+            " Wife",
+            " wife",
+            " Maria",
+            "friend",
+            "Maria",
+            "maker",
+            "fol",
+            "cake"
+        ],
+        "description": "references to a spouse or partner, specifically the term 'wife'"
+    },
+    {
+        "index": "42022",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_42022.json",
+        "negative_strings": [
+            "orescent",
+            "anyl",
+            "umbn",
+            "obyl",
+            "GoldMagikarp",
+            " constitu",
+            " inoc",
+            "aucuses",
+            "kefeller",
+            "omin"
+        ],
+        "positive_strings": [
+            "wife",
+            "hood",
+            " Maria",
+            " Wife",
+            "maker",
+            " wife",
+            "Maria",
+            "fol",
+            "friend",
+            "cake"
+        ],
+        "description": "mentions of a significant other or spouse specifically, focusing on instances related to the wife"
+    },
+    {
+        "index": "9893",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_9893.json",
+        "negative_strings": [
+            "orescent",
+            "anyl",
+            "yss",
+            "obyl",
+            "umbn",
+            " GOODMAN",
+            " contagious",
+            " constitu",
+            " contag",
+            "oresc"
+        ],
+        "positive_strings": [
+            "wife",
+            "hood",
+            "gdala",
+            "builder",
+            " Maria",
+            "maker",
+            "pins",
+            " Wife",
+            "shake",
+            "boat"
+        ],
+        "description": "mentions of spouses, specifically wives"
+    },
+    {
+        "index": "35629",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_35629.json",
+        "negative_strings": [
+            "Dex",
+            "Enh",
+            "\u0138\u013c",
+            "utsu",
+            " Enhancement",
+            "imaru",
+            "oxide",
+            " Vaj",
+            " Kinnikuman",
+            "ItemTracker"
+        ],
+        "positive_strings": [
+            " wife",
+            " daughters",
+            " wives",
+            " widow",
+            " sons",
+            " daughter",
+            " divorce",
+            " parenting",
+            " children",
+            " father"
+        ],
+        "description": " words and phrases indicating relationships, particularly those involving \"husband\" and \"wife.\""
+    },
+    {
+        "index": "20128",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_20128.json",
+        "negative_strings": [
+            " GOODMAN",
+            " contag",
+            "nesota",
+            "arius",
+            "orescent",
+            "yss",
+            "ums",
+            "agically",
+            "OVER",
+            "oresc"
+        ],
+        "positive_strings": [
+            "wife",
+            "hood",
+            " Wife",
+            "ILY",
+            "rosis",
+            "pit",
+            "gdala",
+            " droid",
+            "lier",
+            " wife"
+        ],
+        "description": "references to the term 'wife' in various contexts"
+    },
+    {
+        "index": "20128",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_20128.json",
+        "negative_strings": [
+            " GOODMAN",
+            " contag",
+            "nesota",
+            "arius",
+            "orescent",
+            "yss",
+            "ums",
+            "agically",
+            "OVER",
+            "oresc"
+        ],
+        "positive_strings": [
+            "wife",
+            "hood",
+            " Wife",
+            "ILY",
+            "rosis",
+            "pit",
+            "gdala",
+            " droid",
+            "lier",
+            " wife"
+        ],
+        "description": "references to the term 'wife' in various contexts"
+    },
+    {
+        "index": "26473",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/wife/data_for_feature_26473.json",
+        "negative_strings": [
+            " Flavoring",
+            " Voting",
+            "abad",
+            "acus",
+            "yss",
+            "etting",
+            "uate",
+            " infusion",
+            "ometric",
+            " GOODMAN"
+        ],
+        "positive_strings": [
+            "wife",
+            " Sandwich",
+            "killer",
+            "friend",
+            "shake",
+            " Majesty",
+            "parts",
+            " wife",
+            "\u00e0\u00b9",
+            "builders"
+        ],
+        "description": "references to \"wife\" and familial relationships"
+    }
+]

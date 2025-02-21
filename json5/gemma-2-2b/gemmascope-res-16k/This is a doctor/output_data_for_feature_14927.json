@@ -1,0 +1,30 @@
+{
+    "index": "14927",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_14927.json",
+    "negative_strings": [
+        "\u2581current",
+        "current",
+        "\u0344",
+        "JNIEnv",
+        "\u2581VIDEOTAPE",
+        "\u2581fides",
+        "\u2581present",
+        "\u2581onAnimation",
+        "IsContent",
+        "abrigo"
+    ],
+    "positive_strings": [
+        "\u2581Seuss",
+        "ummer",
+        "\u2581Jekyll",
+        "\u2581martens",
+        "MLLoader",
+        "\udb40\udc63",
+        "umm",
+        "pepper",
+        "\u6700\u5feb\u66f4\u65b0",
+        "\u2581Pepper"
+    ],
+    "description": " mentions of doctors or individuals with the title \"Dr.\""
+}

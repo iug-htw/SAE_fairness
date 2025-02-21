@@ -1,0 +1,30 @@
+{
+    "index": "16615",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_16615.json",
+    "negative_strings": [
+        "(food",
+        ".food",
+        " meal",
+        "\u00e9\u00a3\u0141",
+        "Meal",
+        "\u00e9\u00a4\u0132",
+        " Meal",
+        " food",
+        "food",
+        "meal"
+    ],
+    "positive_strings": [
+        " ench",
+        " wings",
+        " kim",
+        " ques",
+        " ribs",
+        " ris",
+        " las",
+        " mac",
+        " scal",
+        " lamb"
+    ],
+    "description": " locations and specific food items or dishes"
+}

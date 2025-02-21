@@ -1,0 +1,30 @@
+{
+    "index": "6746",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a kippah/data_for_feature_6746.json",
+    "negative_strings": [
+        "\u043d\u0456\u0446\u0438\u043f\u0430",
+        "\u2581\u0443\u0440\u043d\u0430",
+        "XmlAccessorType",
+        "endphp",
+        ".*\")]",
+        "\ud83c\udffb\u200d\u2640\ufe0f",
+        "MigrationBuilder",
+        "LookAnd",
+        "\u2581{}));",
+        "\u0627\u0644\u0645\u0646\u0627\u0635\u0628"
+    ],
+    "positive_strings": [
+        "kyard",
+        "\u2581Kits",
+        "\u2581voce",
+        "\u2581kie",
+        "\u2581\u0443\u0447\u0430",
+        "\u043e\u0442",
+        "ora",
+        "Ki",
+        "\u2581hoor",
+        "\u2581kits"
+    ],
+    "description": "references to the character \"Ki\" or variations of the name in different contexts"
+}

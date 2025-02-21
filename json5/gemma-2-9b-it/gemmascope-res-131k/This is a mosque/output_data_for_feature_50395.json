@@ -1,0 +1,30 @@
+{
+    "index": "50395",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_50395.json",
+    "negative_strings": [
+        "\u7701\u5e02\u9547",
+        "::$",
+        "\u017cesz",
+        "\ufb05",
+        "ViewImports",
+        "\u2581\u06a4",
+        "principalColumn",
+        "pius",
+        "SuppressLint",
+        "Ehrungen"
+    ],
+    "positive_strings": [
+        "\u2581located",
+        "\u2581Located",
+        "located",
+        "Located",
+        "\u2581situated",
+        "\u2581ubicado",
+        "\u2581Situated",
+        "\u2581ubicada",
+        "Situated",
+        "\u2581situ\u00e9"
+    ],
+    "description": "locations or places mentioned in the document"
+}

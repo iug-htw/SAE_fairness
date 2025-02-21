@@ -1,0 +1,30 @@
+{
+    "index": "4827",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a pope/data_for_feature_4827.json",
+    "negative_strings": [
+        "\u2581t\u00e6t",
+        "\u2581transmiss\u00e3o",
+        "\u2581masiva",
+        "\u2581sztuki",
+        "\u2581confiable",
+        "\u2581Justi\u00e7a",
+        "\u2581malheureux",
+        "\u2581bestuur",
+        "\u2581\u017eiad",
+        "\u2581colorida"
+    ],
+    "positive_strings": [
+        "\u2581Paper",
+        "Paper",
+        "\u2581PAPER",
+        "Pap",
+        "\u2581Pap",
+        "PAPER",
+        "\u2581PAP",
+        "\u2581pap",
+        "PAP",
+        "\u2581paper"
+    ],
+    "description": "references to \"paper\" or related documents"
+}

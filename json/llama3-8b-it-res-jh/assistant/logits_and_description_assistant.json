@@ -1,0 +1,212 @@
+[
+    {
+        "index": "2936",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_2936.json",
+        "negative_strings": [
+            "strand",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+            "ollen",
+            "\u00d0\u00be\u00d0\u00b1\u00d0\u00b0",
+            "others",
+            "\u00d0\u00be\u00d1\u0124",
+            "auf",
+            ".getElements",
+            "pz",
+            "\u00e0\u00b8\u013d\u00e0\u00b8\u00a3\u00e0\u00b8\u00b0\u00e0\u00b8\u012a\u00e0\u00b8\u00b3"
+        ],
+        "positive_strings": [
+            " likes",
+            " masses",
+            " millions",
+            "ses",
+            " thousands",
+            " ones",
+            " average",
+            " brav",
+            " tens",
+            " most"
+        ],
+        "description": " references to social welfare and government assistance programs"
+    },
+    {
+        "index": "31705",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_31705.json",
+        "negative_strings": [
+            "awan",
+            " \u00d9\u0127\u00d8\u00b4\u00d8\u00a7\u00d8\u00b1",
+            "apis",
+            "InView",
+            " ters",
+            "asures",
+            "aram",
+            "|#",
+            "otor",
+            "uy"
+        ],
+        "positive_strings": [
+            " services",
+            " leadership",
+            " assistance",
+            " cover",
+            " support",
+            "Services",
+            " guidance",
+            "services",
+            " Services",
+            " SERVICES"
+        ],
+        "description": " phrases related to providing assistance or services"
+    },
+    {
+        "index": "37034",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_37034.json",
+        "negative_strings": [
+            " revenues",
+            " revenue",
+            " Revenue",
+            "imeo",
+            " deal",
+            "anta",
+            " fiscal",
+            "/static",
+            " occup",
+            " Fiscal"
+        ],
+        "positive_strings": [
+            " transportation",
+            " food",
+            " housing",
+            " gas",
+            " groceries",
+            " tuition",
+            " essentials",
+            " clothing",
+            " clothes",
+            "housing"
+        ],
+        "description": " references to financial assistance and costs associated with living expenses"
+    },
+    {
+        "index": "49621",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_49621.json",
+        "negative_strings": [
+            ".Endpoint",
+            "*sp",
+            "\u00d0\u00b1\u00d0\u00b0\u00d1\u0129",
+            ".debian",
+            " V\u00c5\u00a1ech",
+            " Spicer",
+            " Sanayi",
+            "enko",
+            " \u00d0\u00b7\u00d0\u00bd\u00d0\u00b0\u00d0\u00ba\u00d0\u00be\u00d0\u00bc",
+            "ierz"
+        ],
+        "positive_strings": [
+            " otherwise",
+            " cannot",
+            " Otherwise",
+            " Cannot",
+            "otherwise",
+            " cant",
+            "cannot",
+            " Cant",
+            "Otherwise",
+            " need"
+        ],
+        "description": "references to vulnerable groups or individuals in need of assistance"
+    },
+    {
+        "index": "7002",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_7002.json",
+        "negative_strings": [
+            "aring",
+            "\u0135\u00e5\u0132\u012f",
+            "gnore",
+            "ropa",
+            "erten",
+            "prech",
+            "@brief",
+            "chet",
+            "reopen",
+            "classnames"
+        ],
+        "positive_strings": [
+            "/from",
+            " be",
+            "gether",
+            "mm",
+            " the",
+            " join",
+            " see",
+            "tes",
+            "ting",
+            "ying"
+        ],
+        "description": "phrases indicating actions or intentions involving assistance and relationships"
+    },
+    {
+        "index": "34480",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_34480.json",
+        "negative_strings": [
+            "\u00e3\u0123\u0141\u00e3\u0123\u00a1\u00e3\u0123\u00af",
+            "\u00e3\u0123\u012e\u00e3\u0123\u012c",
+            "_NOP",
+            "antor",
+            "itemap",
+            "\u00e3\u0123\u00b0\u00e3\u0123\u012d\u00e3\u0124\u012c",
+            "\u00e8\u0132\u00bd\u00e3\u0123\u00a1",
+            "\u00e3\u0123\u00a1\u00e3\u0124\u0129",
+            "abe",
+            "\u00eb\u0135\u00a4\u00eb\u0131\u0126"
+        ],
+        "positive_strings": [
+            "\u00e3\u0124\u0134",
+            "\u00ec\u0139\u0132",
+            "\u00e7\u013c\u0126",
+            "\u00e3\u0123\u012e",
+            "\u00e3\u0123\u00ab",
+            "\u00e3\u0123\u00ae",
+            "\u00ec\u013f\u013a",
+            "\u00e3\u0123\u00a8",
+            "\u00ef\u00bc\u013f",
+            "\u00e3\u0123\u00af"
+        ],
+        "description": " terms related to service and assistance"
+    },
+    {
+        "index": "65214",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/assistant/data_for_feature_65214.json",
+        "negative_strings": [
+            "ucer",
+            "\u00eb\u0140\u0133",
+            "ashire",
+            "\u00d0\u00b5\u00d0\u00bb\u00d0\u00b8\u00d0\u00ba",
+            "\u00e6\u0127\u0130",
+            "ela",
+            " voks",
+            "yclopedia",
+            "PathParam",
+            " isso"
+        ],
+        "positive_strings": [
+            " these",
+            "these",
+            " These",
+            "\u00e8\u00bf\u013b\u00e4\u00ba\u013d",
+            "These",
+            " THESE",
+            " they",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00b8\u00d1\u0127",
+            " them",
+            " t\u00c4\u013dchto"
+        ],
+        "description": " words related to support and assistance in various contexts"
+    }
+]

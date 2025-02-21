@@ -1,0 +1,30 @@
+{
+    "index": "1070",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/this is nose/data_for_feature_1070.json",
+    "negative_strings": [
+        "CppMethod",
+        "StandardCharsets",
+        "\u2581linkovi",
+        "\u2581nahilalakip",
+        "\u2581disambiguazione",
+        "tagHelperRunner",
+        "\u2581\u0569\u057e\u0561\u056f\u0561\u0576",
+        "andExpect",
+        "TestingModule",
+        "\u2581jsPsych"
+    ],
+    "positive_strings": [
+        "bone",
+        "bones",
+        "\u2581bone",
+        "\u2581bones",
+        "piece",
+        "prints",
+        "\u2581region",
+        "\u2581ache",
+        "\u2581muscles",
+        "\u2581injury"
+    ],
+    "description": "words related to human anatomy and body parts"
+}

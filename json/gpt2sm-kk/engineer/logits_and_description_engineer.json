@@ -1,0 +1,242 @@
+[
+    {
+        "index": "9210",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_9210.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            " Elys",
+            " Prot",
+            " Romo",
+            "hran",
+            " Endurance",
+            " Masquerade",
+            " Grip",
+            " Jackie",
+            " Celebration"
+        ],
+        "positive_strings": [
+            " search",
+            " searches",
+            "Search",
+            " Search",
+            " sear",
+            "search",
+            " searched",
+            " Sear",
+            " searching",
+            " keywords"
+        ],
+        "description": " references to search engines and their functionalities"
+    },
+    {
+        "index": "34480",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_34480.json",
+        "negative_strings": [
+            "WAY",
+            "Chan",
+            "Austral",
+            "\u3010",
+            "Shape",
+            "soDeliveryDate",
+            " Okin",
+            " Daly",
+            "\u30ef",
+            "OND"
+        ],
+        "positive_strings": [
+            "aternity",
+            "vity",
+            "phrine",
+            "oria",
+            "emic",
+            "ying",
+            " cous",
+            "nown",
+            "ocus",
+            "livious"
+        ],
+        "description": " specific scientific or technical terminology, particularly in the context of medical or engineering fields"
+    },
+    {
+        "index": "13914",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_13914.json",
+        "negative_strings": [
+            "wal",
+            "vl",
+            "wall",
+            "ksh",
+            "wallet",
+            "folder",
+            "Weiss",
+            "SEE",
+            "eworld",
+            "kefeller"
+        ],
+        "positive_strings": [
+            " Aqu",
+            " Amen",
+            " Alb",
+            " Asc",
+            " Acad",
+            " Ascension",
+            " Alam",
+            " Alc",
+            " Agg",
+            " Ax"
+        ],
+        "description": "specific scientific or technical terms related to engineering and manufacturing processes"
+    },
+    {
+        "index": "4556",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_4556.json",
+        "negative_strings": [
+            " deadlines",
+            " tampering",
+            " ultraviolet",
+            " microphones",
+            " announcements",
+            " curfew",
+            " signage",
+            " Prohibition",
+            " purchasing",
+            " microsc"
+        ],
+        "positive_strings": [
+            "ales",
+            "ravel",
+            "\u00e6",
+            "plet",
+            "essel",
+            "\u00ea",
+            "amn",
+            "oun",
+            "thia",
+            "yth"
+        ],
+        "description": "specific technical terms and names related to scientific or engineering concepts"
+    },
+    {
+        "index": "20124",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_20124.json",
+        "negative_strings": [
+            "ettings",
+            "\u3066",
+            " Blueprint",
+            "WER",
+            "66666666",
+            "xual",
+            " ABE",
+            "\u0650",
+            " Yelp",
+            "76561"
+        ],
+        "positive_strings": [
+            "pole",
+            "itimate",
+            "lore",
+            "estinal",
+            "acies",
+            "raft",
+            "isl",
+            "ikuman",
+            "ibles",
+            "upe"
+        ],
+        "description": "technical terms related to engineering, manufacturing, and science"
+    },
+    {
+        "index": "20840",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_20840.json",
+        "negative_strings": [
+            "\u2033",
+            "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+            "upon",
+            " Retrieved",
+            "Edited",
+            "\"]=>",
+            "\u03ba",
+            "cing",
+            "early",
+            " Blessed"
+        ],
+        "positive_strings": [
+            "ashtra",
+            "rador",
+            "avorite",
+            " jargon",
+            "anooga",
+            "ilitarian",
+            " chops",
+            "gebra",
+            " neighb",
+            "chwitz"
+        ],
+        "description": "terms related to engineering and scientific conferences"
+    },
+    {
+        "index": "18935",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_18935.json",
+        "negative_strings": [
+            " backer",
+            " backers",
+            " Pearce",
+            " Marriott",
+            " tempered",
+            " GCC",
+            " Greenwood",
+            " Holland",
+            " Shap",
+            " landfill"
+        ],
+        "positive_strings": [
+            "itatively",
+            "initions",
+            "axies",
+            "uminum",
+            "uously",
+            "ocally",
+            "izontal",
+            "iform",
+            "iped",
+            "etsk"
+        ],
+        "description": "topics related to technical processes and terms relevant to software development and engineering"
+    },
+    {
+        "index": "26296",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/engineer/data_for_feature_26296.json",
+        "negative_strings": [
+            " hurting",
+            " disproportionately",
+            " uncontroll",
+            " detriment",
+            " breathing",
+            " needy",
+            " depend",
+            " contam",
+            " inappropriately",
+            " prey"
+        ],
+        "positive_strings": [
+            "\u7530",
+            "ipedia",
+            " archives",
+            " Archives",
+            "Blog",
+            " Architects",
+            ".).",
+            "Research",
+            "forum",
+            "\u30fc\u30f3"
+        ],
+        "description": " references to specific media and academic works, particularly in programming and engineering contexts"
+    }
+]

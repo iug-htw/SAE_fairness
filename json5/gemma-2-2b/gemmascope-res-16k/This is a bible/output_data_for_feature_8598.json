@@ -1,0 +1,30 @@
+{
+    "index": "8598",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a bible/data_for_feature_8598.json",
+    "negative_strings": [
+        "PRNewswire",
+        "titleMargin",
+        "SharedDtor",
+        "uxxxx",
+        "TintMode",
+        "ynb",
+        "MessageTagHelper",
+        "oa\u030dt",
+        "\u2581onOptions",
+        "DockStyle"
+    ],
+    "positive_strings": [
+        "\u2581Bible",
+        "\u2581scriptures",
+        "\u2581scripture",
+        "Bible",
+        "\u2581Scriptures",
+        "\u2581bible",
+        "\u2581Scripture",
+        "bible",
+        "\u2581BIBLE",
+        "\u2581biblical"
+    ],
+    "description": "references to biblical principles and teachings"
+}

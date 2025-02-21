@@ -1,0 +1,30 @@
+{
+    "index": "3826",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a terrorist/data_for_feature_3826.json",
+    "negative_strings": [
+        "\u2581Sutter",
+        "|}{$",
+        "}{||",
+        "\u2581Kli",
+        "\u2581protokol",
+        "\u043b\u0443\u0439",
+        "<bos>",
+        "\u2581partage",
+        "\u2581Sailing",
+        "DebuggerNonUser"
+    ],
+    "positive_strings": [
+        "\u2581terrorist",
+        "\u2581bomb",
+        "\u2581terrorism",
+        "bomb",
+        "\u2581terrorists",
+        "\u2581bombing",
+        "\u2581explosives",
+        "\u2581bombings",
+        "\u2581bombs",
+        "Bomb"
+    ],
+    "description": "terms related to terrorism and militant activities"
+}

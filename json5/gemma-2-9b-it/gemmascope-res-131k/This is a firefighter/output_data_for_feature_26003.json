@@ -1,0 +1,30 @@
+{
+    "index": "26003",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a firefighter/data_for_feature_26003.json",
+    "negative_strings": [
+        "principalColumn",
+        "Composable",
+        "ChildScrollView",
+        "getActiveSheet",
+        "\u2581/\\.(",
+        "Bioaccumulative",
+        "withOpacity",
+        "Xna",
+        "LabelTagHelper",
+        "setVerticalGroup"
+    ],
+    "positive_strings": [
+        "\u2581emergency",
+        "Emergency",
+        "\u2581Emergency",
+        "\u2581ambulance",
+        "emergency",
+        "\u2581rescue",
+        "\u2581EMERGENCY",
+        "\u2581ambulances",
+        "\u2581paramedics",
+        "\u2581Rescue"
+    ],
+    "description": " references to emergency medical services and responses"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "28669",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a muslim/data_for_feature_28669.json",
+    "negative_strings": [
+        "rowned",
+        "elon",
+        "acman",
+        " jes",
+        "iale",
+        " Catholic",
+        " Protestant",
+        "\u00e3\u0124\u0127",
+        " Presbyterian",
+        "ONA"
+    ],
+    "positive_strings": [
+        "abad",
+        "-Christian",
+        "\u00e0\u00b8\u00ab",
+        "ized",
+        "\u00e5\u00be\u0134",
+        "ified",
+        "_generic",
+        "/non",
+        "-major",
+        "/M"
+    ],
+    "description": "references to Islamic and Muslim themes or entities"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "12374",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/Das ist ein M\u00e4dchen/data_for_feature_12374.json",
+    "negative_strings": [
+        "NESS",
+        " compromise",
+        "SHIP",
+        " experience",
+        " podium",
+        " mail",
+        "VALUE",
+        " quite",
+        "WARE",
+        " utilize"
+    ],
+    "positive_strings": [
+        " Farage",
+        " Miliband",
+        " Turnbull",
+        " Corbyn",
+        " Abbott",
+        " Cameron",
+        " Hollande",
+        " Osborne",
+        " Carney",
+        " Rudd"
+    ],
+    "description": "names of persons or titles related to positions of authority"
+}

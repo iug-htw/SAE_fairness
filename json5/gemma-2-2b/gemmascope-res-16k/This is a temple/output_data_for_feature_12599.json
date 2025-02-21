@@ -1,0 +1,30 @@
+{
+    "index": "12599",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_12599.json",
+    "negative_strings": [
+        "AccessorTable",
+        "Rhestr",
+        "\u2581FZ",
+        "lamabad",
+        "setInput",
+        "India",
+        "codable",
+        "\u2581DELHI",
+        "\u2581India",
+        "\u2581Islamabad"
+    ],
+    "positive_strings": [
+        "\u2581Lord",
+        "Lord",
+        "\u2581Goddess",
+        "\u2581devotees",
+        "\u2581deity",
+        "\u2581lord",
+        "\u2581idol",
+        "Goddess",
+        "\u2581Deity",
+        "\u2581deities"
+    ],
+    "description": "references to religious worship and practices"
+}

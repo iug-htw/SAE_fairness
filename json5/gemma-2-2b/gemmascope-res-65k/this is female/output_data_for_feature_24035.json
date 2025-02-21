@@ -1,0 +1,30 @@
+{
+    "index": "24035",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_24035.json",
+    "negative_strings": [
+        "\u2581kasarigan",
+        "\u2581Roskov",
+        "\u2581ICF",
+        "YourGuide",
+        "\u2581po\u00e9tica",
+        "\u2581cl\u00ednica",
+        "\u2581it\u017felf",
+        "sibly",
+        "\u0412\u0435\u0434\u044c",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627"
+    ],
+    "positive_strings": [
+        "volent",
+        "\u2581male",
+        "\u2581Male",
+        "\u2581lead",
+        "\u2581students",
+        "\u2581human",
+        "\u2581Rowe",
+        "Coordenadas",
+        "\u2581gender",
+        "phylo"
+    ],
+    "description": "references to gender, specifically terms related to females"
+}

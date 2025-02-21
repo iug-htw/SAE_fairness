@@ -1,0 +1,602 @@
+[
+    {
+        "index": "2138",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_2138.json",
+        "negative_strings": [
+            "drops",
+            "bley",
+            "\u00e9\u0139\u013a",
+            "butt",
+            "buck",
+            "bles",
+            "erick",
+            "ym",
+            "vable",
+            "table"
+        ],
+        "positive_strings": [
+            " extremism",
+            " extremist",
+            " extremists",
+            " supremacist",
+            " supremacists",
+            " Jihad",
+            "ophobic",
+            " fundamentalist",
+            " Sharia",
+            " Brotherhood"
+        ],
+        "description": "references to the Islamic State terrorist group"
+    },
+    {
+        "index": "10407",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_10407.json",
+        "negative_strings": [
+            "\u00e7\u00a5\u0140",
+            " Rite",
+            "20439",
+            " Angels",
+            " Solitaire",
+            " Staples",
+            " Pompe",
+            " Thick",
+            " Balt",
+            " Vlad"
+        ],
+        "positive_strings": [
+            "ackers",
+            "acker",
+            "acking",
+            " hij",
+            "inx",
+            "intosh",
+            "adish",
+            "abis",
+            "agic",
+            "acked"
+        ],
+        "description": "terms related to hostile actions or threats, particularly hijacking or terrorist activities"
+    },
+    {
+        "index": "13364",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_13364.json",
+        "negative_strings": [
+            " Seah",
+            " Vaugh",
+            " Gron",
+            "\u00f0\u013f",
+            " Constantin",
+            " Goodell",
+            " Kear",
+            " Hubble",
+            " Hearth",
+            " Christy"
+        ],
+        "positive_strings": [
+            " terrorists",
+            " affiliates",
+            " insurgents",
+            " operatives",
+            " bombings",
+            " terrorist",
+            " fighters",
+            " militants",
+            " insurgency",
+            " affiliated"
+        ],
+        "description": "references to the terrorist organization al-Qaeda"
+    },
+    {
+        "index": "42314",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_42314.json",
+        "negative_strings": [
+            "EEE",
+            " Completed",
+            " Chaser",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            " Rolls",
+            "ALLY",
+            " Proced",
+            " sterling",
+            " Tycoon",
+            "LLOW"
+        ],
+        "positive_strings": [
+            " Qaeda",
+            "chemy",
+            "ibaba",
+            "ibi",
+            " Jazeera",
+            "manac",
+            "Qaeda",
+            "chemical",
+            "oha",
+            "umn"
+        ],
+        "description": "references to the al-Qaeda terrorist group"
+    },
+    {
+        "index": "700",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_700.json",
+        "negative_strings": [
+            " Seah",
+            " Gron",
+            " Hubble",
+            " Vaugh",
+            " Constantin",
+            " Goodell",
+            "\u00f0\u013f",
+            " Wem",
+            "kj",
+            " Kear"
+        ],
+        "positive_strings": [
+            " affiliates",
+            " terrorists",
+            " insurgents",
+            " fighters",
+            " operatives",
+            " affiliate",
+            " militants",
+            " affiliated",
+            " insurgency",
+            " terrorist"
+        ],
+        "description": "terms related to terrorist organizations, specifically focusing on Al-Qaeda in the Arabian Peninsula"
+    },
+    {
+        "index": "32548",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_32548.json",
+        "negative_strings": [
+            " PAX",
+            " Lovecraft",
+            " Gutenberg",
+            " ster",
+            " Garfield",
+            " Vog",
+            " EB",
+            "balls",
+            " Vita",
+            " Robo"
+        ],
+        "positive_strings": [
+            " Front",
+            "Nusra",
+            "usra",
+            " fighters",
+            "Syrian",
+            " affiliates",
+            "ascus",
+            " factions",
+            "Qaeda",
+            " fronts"
+        ],
+        "description": "references to specific terrorist groups, particularly Nusra Front and Sham"
+    },
+    {
+        "index": "80503",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_80503.json",
+        "negative_strings": [
+            " zinc",
+            "othy",
+            "tainment",
+            "wyn",
+            "boards",
+            "perature",
+            " Leica",
+            " Chao",
+            "\u00f0\u013f",
+            "\u00e3\u0124\u00a9"
+        ],
+        "positive_strings": [
+            " militants",
+            " terrorists",
+            " fighters",
+            " Haram",
+            " insurgents",
+            " jihadists",
+            " militant",
+            " insurgency",
+            " caliphate",
+            " jihad"
+        ],
+        "description": "references to the terrorist group ISIS"
+    },
+    {
+        "index": "8234",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_8234.json",
+        "negative_strings": [
+            " Seah",
+            " Gron",
+            " Hubble",
+            " Hearth",
+            " Goodell",
+            "Beer",
+            "\u00f0\u013f",
+            " Celest",
+            " Kear",
+            "kj"
+        ],
+        "positive_strings": [
+            " terrorists",
+            "aeda",
+            " affiliates",
+            " insurgents",
+            " insurgency",
+            " militants",
+            " fighters",
+            " operatives",
+            " terrorist",
+            " jihad"
+        ],
+        "description": "phrases related to a specific terrorist group"
+    },
+    {
+        "index": "20006",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_20006.json",
+        "negative_strings": [
+            "othy",
+            "tainment",
+            " zinc",
+            "boards",
+            " Chao",
+            "wyn",
+            "theless",
+            " Leica",
+            "osal",
+            "perature"
+        ],
+        "positive_strings": [
+            " militants",
+            " terrorists",
+            " fighters",
+            " jihadists",
+            " insurgents",
+            " Haram",
+            " militant",
+            " caliphate",
+            " insurgency",
+            " jihad"
+        ],
+        "description": "mentions of the terrorist group ISIS"
+    },
+    {
+        "index": "25905",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_25905.json",
+        "negative_strings": [
+            "othy",
+            " zinc",
+            "tainment",
+            " Leica",
+            "perature",
+            "wyn",
+            "boards",
+            "theless",
+            " Seah",
+            " Chao"
+        ],
+        "positive_strings": [
+            " militants",
+            " terrorists",
+            " fighters",
+            " jihadists",
+            " insurgents",
+            " Haram",
+            " caliphate",
+            " jihad",
+            " militant",
+            " insurgency"
+        ],
+        "description": "references to the ISIS and Daesh terrorist groups"
+    },
+    {
+        "index": "10624",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_10624.json",
+        "negative_strings": [
+            "uyomi",
+            "uden",
+            "umper",
+            "*/(",
+            "UMP",
+            "SOURCE",
+            "DragonMagazine",
+            "ombs",
+            "veyard",
+            " GOODMAN"
+        ],
+        "positive_strings": [
+            " violence",
+            " affairs",
+            " Violence",
+            " tranqu",
+            " appliances",
+            "estic",
+            "violence",
+            " spying",
+            " terrorism",
+            " combustion"
+        ],
+        "description": "mentions of domestic-related activities, such as domestic violence or domestic terrorist organizations"
+    },
+    {
+        "index": "24551",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_24551.json",
+        "negative_strings": [
+            "atur",
+            "hyde",
+            "bell",
+            "oard",
+            "pool",
+            "umption",
+            "perature",
+            "eanor",
+            "icka",
+            "cham"
+        ],
+        "positive_strings": [
+            " militants",
+            " fighters",
+            " terrorists",
+            " Tactics",
+            " ISIL",
+            "MAP",
+            " extremists",
+            " extremism",
+            "ISIS",
+            "YA"
+        ],
+        "description": "references to terrorist organizations, specifically focusing on ISIS and its various names and acronyms"
+    },
+    {
+        "index": "34230",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_34230.json",
+        "negative_strings": [
+            "galitarian",
+            "dit",
+            "earchers",
+            "\u00f0\u013f",
+            "rose",
+            "shire",
+            "laus",
+            "iband",
+            "pring",
+            "etch"
+        ],
+        "positive_strings": [
+            " bombings",
+            " mastermind",
+            "abad",
+            " bombing",
+            " attacks",
+            " terrorist",
+            " attack",
+            " terrorists",
+            " bombers",
+            " threats"
+        ],
+        "description": "references to terrorist activities or groups"
+    },
+    {
+        "index": "34230",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_34230.json",
+        "negative_strings": [
+            "galitarian",
+            "dit",
+            "earchers",
+            "\u00f0\u013f",
+            "rose",
+            "shire",
+            "laus",
+            "iband",
+            "pring",
+            "etch"
+        ],
+        "positive_strings": [
+            " bombings",
+            " mastermind",
+            "abad",
+            " bombing",
+            " attacks",
+            " terrorist",
+            " attack",
+            " terrorists",
+            " bombers",
+            " threats"
+        ],
+        "description": "references to terrorist activities or groups"
+    },
+    {
+        "index": "67153",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_67153.json",
+        "negative_strings": [
+            " Gron",
+            " Seah",
+            "\u00f0\u013f",
+            " Vaugh",
+            " Constantin",
+            "kj",
+            " Wem",
+            "Beer",
+            " Hubble",
+            " Panasonic"
+        ],
+        "positive_strings": [
+            " terrorists",
+            " affiliates",
+            " bombings",
+            " operatives",
+            " insurgents",
+            " terrorist",
+            " affiliate",
+            " fighters",
+            " affiliated",
+            " insurgency"
+        ],
+        "description": "references to the terrorist organization al-Qaeda"
+    },
+    {
+        "index": "67153",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_67153.json",
+        "negative_strings": [
+            " Gron",
+            " Seah",
+            "\u00f0\u013f",
+            " Vaugh",
+            " Constantin",
+            "kj",
+            " Wem",
+            "Beer",
+            " Hubble",
+            " Panasonic"
+        ],
+        "positive_strings": [
+            " terrorists",
+            " affiliates",
+            " bombings",
+            " operatives",
+            " insurgents",
+            " terrorist",
+            " affiliate",
+            " fighters",
+            " affiliated",
+            " insurgency"
+        ],
+        "description": "references to the terrorist organization al-Qaeda"
+    },
+    {
+        "index": "36413",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_36413.json",
+        "negative_strings": [
+            " PAX",
+            "writers",
+            " ster",
+            "credit",
+            " RIP",
+            " Lovecraft",
+            "uckland",
+            " Gutenberg",
+            "phies",
+            "ridges"
+        ],
+        "positive_strings": [
+            " Front",
+            " fighters",
+            "usra",
+            "Nusra",
+            " rebels",
+            "istani",
+            " militia",
+            " affiliates",
+            " insurgents",
+            " guerrilla"
+        ],
+        "description": "mentions of the group \"Nusra\" or related terrorist organizations"
+    },
+    {
+        "index": "6923",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_6923.json",
+        "negative_strings": [
+            " zinc",
+            "othy",
+            "tainment",
+            "perature",
+            "boards",
+            "wyn",
+            " Leica",
+            " Chao",
+            " Yosemite",
+            "osal"
+        ],
+        "positive_strings": [
+            " militants",
+            " terrorists",
+            " fighters",
+            " insurgents",
+            " jihadists",
+            " Haram",
+            " insurgency",
+            " militant",
+            "ISIS",
+            " infiltr"
+        ],
+        "description": "mentions of the terrorist group ISIS in news articles"
+    },
+    {
+        "index": "3741",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_3741.json",
+        "negative_strings": [
+            " WRITE",
+            " DRAG",
+            " \u00e0\u00a4",
+            "\u0128\u0134",
+            " Poc",
+            "fulness",
+            " Gothic",
+            "\u00e3\u0125\u00b4",
+            " hearts",
+            "rawdownloadcloneembedreportprint"
+        ],
+        "positive_strings": [
+            "awi",
+            "anski",
+            "ileaks",
+            "ani",
+            "yz",
+            "esi",
+            "istani",
+            "linger",
+            "ack",
+            "ouk"
+        ],
+        "description": " mentions of specific terrorist groups or networks"
+    },
+    {
+        "index": "24555",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/terrorist/data_for_feature_24555.json",
+        "negative_strings": [
+            "ographers",
+            "culosis",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " gestation",
+            "sighted",
+            "\u00e3\u0123\u00a6",
+            "ographed",
+            " bree",
+            "ographer",
+            "smanship"
+        ],
+        "positive_strings": [
+            "inkle",
+            "inger",
+            "igg",
+            "addle",
+            "ings",
+            "atche",
+            "atoon",
+            "aying",
+            "endon",
+            "iggs"
+        ],
+        "description": "references to potential terrorist activities"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "index": "16615",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_16615.json",
+        "negative_strings": [
+            "(food",
+            ".food",
+            " meal",
+            "\u00e9\u00a3\u0141",
+            "Meal",
+            "\u00e9\u00a4\u0132",
+            " Meal",
+            " food",
+            "food",
+            "meal"
+        ],
+        "positive_strings": [
+            " ench",
+            " wings",
+            " kim",
+            " ques",
+            " ribs",
+            " ris",
+            " las",
+            " mac",
+            " scal",
+            " lamb"
+        ],
+        "description": " locations and specific food items or dishes"
+    },
+    {
+        "index": "6045",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_6045.json",
+        "negative_strings": [
+            "achen",
+            " munch",
+            " tasty",
+            "caffe",
+            "_recipe",
+            " Beverage",
+            " puss",
+            " caf",
+            "\u00e8\u012e\u00b6",
+            "\u00e9\u00a4\u0132"
+        ],
+        "positive_strings": [
+            " ques",
+            " las",
+            " flank",
+            " mac",
+            " ribs",
+            " gyro",
+            " wings",
+            " brisk",
+            " Nach",
+            " Gy"
+        ],
+        "description": " mentions of specific foods and dining experiences"
+    },
+    {
+        "index": "18234",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_18234.json",
+        "negative_strings": [
+            " tasty",
+            "_recipe",
+            " munch",
+            " puss",
+            "achen",
+            "Recipe",
+            " Grocery",
+            "ezi",
+            " Recipes",
+            "ovy"
+        ],
+        "positive_strings": [
+            " ques",
+            " brisk",
+            " mac",
+            " PB",
+            " gyro",
+            " las",
+            " flank",
+            " scrambled",
+            " Nach",
+            " scramble"
+        ],
+        "description": "mentions of food and dining establishments"
+    },
+    {
+        "index": "1589",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_1589.json",
+        "negative_strings": [
+            " munch",
+            "ezi",
+            " tasty",
+            "_recipe",
+            " Grocery",
+            " chefs",
+            "Recipe",
+            " Recipes",
+            " kitchen",
+            "achen"
+        ],
+        "positive_strings": [
+            " ques",
+            " flank",
+            " brisk",
+            " mac",
+            " scrambled",
+            " las",
+            " ribs",
+            " ice",
+            " gyro",
+            " Bloody"
+        ],
+        "description": "references to food and dining experiences"
+    },
+    {
+        "index": "29676",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_29676.json",
+        "negative_strings": [
+            " Gospel",
+            " Luther",
+            " Bapt",
+            " pastor",
+            " Pastor",
+            " Baptist",
+            "church",
+            " gospel",
+            " christ",
+            "aced"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " Jews",
+            " synagogue",
+            " jewish",
+            " Rabbi",
+            " Judaism",
+            " \u00d7",
+            "ewish",
+            " Jew",
+            " \u00d0\u00b5\u00d0\u00b2"
+        ],
+        "description": "themes related to Jewish identity and tradition"
+    },
+    {
+        "index": "31533",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_31533.json",
+        "negative_strings": [
+            " Gospel",
+            " Luther",
+            " Bapt",
+            " Baptist",
+            " gospel",
+            " christ",
+            " pastor",
+            " Pastor",
+            " nackte",
+            " Christ"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " Jews",
+            " synagogue",
+            " jewish",
+            " Rabbi",
+            " Judaism",
+            " \u00d7",
+            "ewish",
+            " Jew",
+            " Israeli"
+        ],
+        "description": " references to Jewish identity and cultural practices"
+    }
+]

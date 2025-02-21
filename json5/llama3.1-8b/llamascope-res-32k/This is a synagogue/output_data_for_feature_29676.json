@@ -1,0 +1,30 @@
+{
+    "index": "29676",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_29676.json",
+    "negative_strings": [
+        " Gospel",
+        " Luther",
+        " Bapt",
+        " pastor",
+        " Pastor",
+        " Baptist",
+        "church",
+        " gospel",
+        " christ",
+        "aced"
+    ],
+    "positive_strings": [
+        " Jewish",
+        " Jews",
+        " synagogue",
+        " jewish",
+        " Rabbi",
+        " Judaism",
+        " \u00d7",
+        "ewish",
+        " Jew",
+        " \u00d0\u00b5\u00d0\u00b2"
+    ],
+    "description": "themes related to Jewish identity and tradition"
+}

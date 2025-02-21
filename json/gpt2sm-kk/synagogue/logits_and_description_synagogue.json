@@ -1,0 +1,92 @@
+[
+    {
+        "index": "23590",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/synagogue/data_for_feature_23590.json",
+        "negative_strings": [
+            " concess",
+            " leash",
+            " territ",
+            "verages",
+            " bilateral",
+            " unpaid",
+            "orem",
+            " terrestrial",
+            " unsustainable",
+            " deforestation"
+        ],
+        "positive_strings": [
+            "folk",
+            " alike",
+            "acists",
+            " Calling",
+            "acist",
+            "ocations",
+            "gress",
+            "mong",
+            " falsely",
+            "busters"
+        ],
+        "description": "mentions of synagogues in different contexts"
+    },
+    {
+        "index": "2530",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/synagogue/data_for_feature_2530.json",
+        "negative_strings": [
+            "Reviewer",
+            "anamo",
+            "doms",
+            "ItemTracker",
+            "\ufffd\u58eb",
+            "\ufffd\ufffd",
+            "Notable",
+            "\u00a0\u00a0",
+            "INA",
+            "auri"
+        ],
+        "positive_strings": [
+            " mosqu",
+            "agog",
+            " charact",
+            " nodd",
+            " contrace",
+            "agogue",
+            " arrang",
+            " lapt",
+            "cipled",
+            " challeng"
+        ],
+        "description": "words related to synagogues and synapses"
+    },
+    {
+        "index": "15098",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/synagogue/data_for_feature_15098.json",
+        "negative_strings": [
+            "cca",
+            "CHO",
+            " McMahon",
+            " Roh",
+            "``",
+            " Mi",
+            " skate",
+            " Gunn",
+            "+++",
+            "VP"
+        ],
+        "positive_strings": [
+            "ertodd",
+            "iliar",
+            "elist",
+            "opsis",
+            "ishop",
+            " lapt",
+            " capacitor",
+            "aptic",
+            " arrang",
+            "tones"
+        ],
+        "description": "words related to synagogues and synonyms"
+    }
+]

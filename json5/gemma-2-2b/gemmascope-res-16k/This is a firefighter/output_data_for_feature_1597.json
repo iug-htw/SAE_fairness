@@ -1,0 +1,30 @@
+{
+    "index": "1597",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a firefighter/data_for_feature_1597.json",
+    "negative_strings": [
+        "numerusform",
+        "\u2581BoxDecoration",
+        "RectangleBorder",
+        "InSection",
+        "setVerticalGroup",
+        "\u00e9sultat",
+        "invokeLater",
+        "SafeMath",
+        "feinander",
+        "\u2581lawyers"
+    ],
+    "positive_strings": [
+        "\u2581fire",
+        "\u2581firefighting",
+        "\u2581Fire",
+        "\u2581firefighters",
+        "\u2581firefighter",
+        "fire",
+        "Fire",
+        "\u2581flames",
+        "\u2581smoke",
+        "\u2581FIRE"
+    ],
+    "description": "terms related to fire emergencies and incidents"
+}

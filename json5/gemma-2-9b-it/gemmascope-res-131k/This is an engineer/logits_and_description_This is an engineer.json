@@ -1,0 +1,422 @@
+[
+    {
+        "index": "15694",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_15694.json",
+        "negative_strings": [
+            "makeText",
+            "*******",
+            "himovic",
+            "\u2581s\u00e0ng",
+            "putin",
+            "\u2581Buxton",
+            "tiness",
+            "\u2581nahilalakip",
+            "\u2581\u0441\u043b\u043e\u0432\u0430\u0440\u044c",
+            "aln\u0131z"
+        ],
+        "positive_strings": [
+            "\u2581engineers",
+            "\u2581engineer",
+            "\u2581engineering",
+            "\u2581Engineers",
+            "engineer",
+            "\u2581Engineer",
+            "Engineer",
+            "Engineers",
+            "IntoConstraints",
+            "engineering"
+        ],
+        "description": " mentions of engineers and engineering-related terms"
+    },
+    {
+        "index": "96952",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_96952.json",
+        "negative_strings": [
+            "parsedMessage",
+            "CppMethod",
+            "bitField",
+            "msgTypes",
+            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
+            "IsMutable",
+            "\u0411\u0430\u0445\u0430\u0440",
+            "featureID",
+            "UnknownFieldSet",
+            "\u2581nahilalakip"
+        ],
+        "positive_strings": [
+            "\u2581NG",
+            "\u2581ANG",
+            "\u2581Ang",
+            "\u2581Engle",
+            "\u2581Eng",
+            "ered",
+            "\u2581Ing",
+            "\u2581li",
+            "\u2581sof",
+            "\u2581Med"
+        ],
+        "description": "terms related to engineering and notable figures in the field"
+    },
+    {
+        "index": "57863",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_57863.json",
+        "negative_strings": [
+            "thenReturn",
+            "Diario",
+            "\u2581passend",
+            "\u2581Baran",
+            "rrggbb",
+            "\u2581happiest",
+            "\u2581appunto",
+            "makeText",
+            "masin",
+            "Captor"
+        ],
+        "positive_strings": [
+            "\u2581engineering",
+            "engineering",
+            "\u2581Engineering",
+            "Engineering",
+            "\u2581ENGINEERING",
+            "\u2581engineer",
+            "\u2581engineers",
+            "engineer",
+            "\u2581Engineer",
+            "\u2581Engineers"
+        ],
+        "description": "references to engineering and engineers"
+    },
+    {
+        "index": "63393",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_63393.json",
+        "negative_strings": [
+            "WebVitals",
+            "IsMutable",
+            "XmlAccessType",
+            "\u2581gram",
+            "prepareStatement",
+            "StoryboardSegue",
+            "$_['",
+            "Bibliograf",
+            "OGND",
+            "\u2581\u064a\u062a\u064a\u0645\u0647"
+        ],
+        "positive_strings": [
+            "\u2581engineering",
+            "\u2581engineers",
+            "\u2581Engineering",
+            "\u2581engineer",
+            "\u2581Engineers",
+            "engineering",
+            "Engineering",
+            "\u2581Engineer",
+            "\u2581ENGINEERING",
+            "Engineers"
+        ],
+        "description": "terms related to engineering education and disciplines"
+    },
+    {
+        "index": "5120",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_5120.json",
+        "negative_strings": [
+            "\u2581a\u00e9reo",
+            "\u2581Sacred",
+            "Tembelea",
+            "\u2581Cor",
+            "setcounter",
+            "lai",
+            "\u2581broken",
+            "\u0c2e\u0c40",
+            "\u2581Pan",
+            "\u2581Fol"
+        ],
+        "positive_strings": [
+            "VersionUID",
+            "\u2581kasarigan",
+            "\u2581JpaRepository",
+            "bootstrapcdn",
+            "\u2581Numerade",
+            "\u2581noDo",
+            "jsxFileName",
+            "\u00e9valuateur",
+            "complexContent",
+            "\u2581ujednoznacz"
+        ],
+        "description": "references to various professions, particularly those related to writing and creativity"
+    },
+    {
+        "index": "25766",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_25766.json",
+        "negative_strings": [
+            "\ue315",
+            "AndEndTag",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "phosa",
+            "Cyfeiriadau",
+            "WriteTagHelper",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "astify",
+            "adaptiveStyles",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627"
+        ],
+        "positive_strings": [
+            "\u2581engineering",
+            "\u2581engineers",
+            "\u2581Engineering",
+            "Engineering",
+            "\u2581Engineers",
+            "engineering",
+            "\u2581engineer",
+            "Engineers",
+            "\u2581ENGINEERING",
+            "\u2581Engineer"
+        ],
+        "description": " terms related to engineering education and professional experience"
+    },
+    {
+        "index": "60076",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_60076.json",
+        "negative_strings": [
+            "\u0441\u043a\u0430\u0442\u044c",
+            "etera",
+            "TokenNameLPAREN",
+            "\u2581Baran",
+            "\u2581publication",
+            "\u2581Sonn",
+            "\u2581Mullen",
+            "\u2581Ferrer",
+            "Date",
+            "Publication"
+        ],
+        "positive_strings": [
+            "\u2581engineering",
+            "engineering",
+            "\u2581Engineering",
+            "Engineering",
+            "\u2581engineer",
+            "\u2581engineers",
+            "\u2581Engineers",
+            "engineer",
+            "\u2581ENGINEERING",
+            "\u2581Engineer"
+        ],
+        "description": "words and phrases related to engineering tasks and concepts"
+    },
+    {
+        "index": "35396",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_35396.json",
+        "negative_strings": [
+            "modities",
+            "PyExc",
+            "arnia",
+            "ambilan",
+            "vism",
+            "\u2581kasarigan",
+            "\u51fa\u7248\u5e74",
+            "zelfde",
+            "\u2581Bubba",
+            "clusal"
+        ],
+        "positive_strings": [
+            "\u2581Engineer",
+            "Engineer",
+            "\u2581engineer",
+            "engineer",
+            "\u2581ENGINEER",
+            "\u2581Engineers",
+            "\u2581engineers",
+            "Engineers",
+            "\u2581ENGINEERS",
+            "\u2581ingeniero"
+        ],
+        "description": " mentions and references to engineers"
+    },
+    {
+        "index": "127321",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_127321.json",
+        "negative_strings": [
+            "+#+#",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581resourceCulture",
+            "\u2581AssemblyCulture",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581pinulongan",
+            "\u2581otomatig",
+            "Personendaten"
+        ],
+        "positive_strings": [
+            "ing",
+            "\u093f\u0902\u0917",
+            "ings",
+            "ING",
+            "ingt",
+            "inge",
+            "ingin",
+            "ability",
+            "ters",
+            "ers"
+        ],
+        "description": " terms related to activities and actions, especially in economic, technical, and recreational contexts"
+    },
+    {
+        "index": "52384",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_52384.json",
+        "negative_strings": [
+            "itself",
+            "\u2581itself",
+            "\u2581Itself",
+            "MigrationBuilder",
+            "\u2581nahilalakip",
+            "\u2581\u043a\u043e\u0442\u043e\u0440\u043e\u0435",
+            "\u2581its",
+            "\u2581\u044f\u043a\u0435",
+            "\u5b83\u7684",
+            "\u5b83"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "\u2581whose",
+            "\u2581whom",
+            "who",
+            "\u2581quien",
+            "whose",
+            "\u2581who\u017fe",
+            "\u2581whofe",
+            "whom",
+            "tanleria"
+        ],
+        "description": "specific professions or roles related to military, law enforcement, and other formal positions"
+    },
+    {
+        "index": "93596",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_93596.json",
+        "negative_strings": [
+            "\u2581nakalista",
+            "\u2581hinzu",
+            "gelopen",
+            "PyExc",
+            "\u2581passend",
+            "thenReturn",
+            "\u2581DbSet",
+            "===============",
+            "\u2581wikipagina",
+            "\u2581Wikiseite"
+        ],
+        "positive_strings": [
+            "\u2581engineering",
+            "engineering",
+            "\u2581Engineering",
+            "Engineering",
+            "\u2581ENGINEERING",
+            "ENGINEERING",
+            "\u2581engineer",
+            "\u2581engineers",
+            "engineer",
+            "\u2581ingenier\u00eda"
+        ],
+        "description": "references to engineering and related terms"
+    },
+    {
+        "index": "89028",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_89028.json",
+        "negative_strings": [
+            "\u2581betweenstory",
+            "\u2581Winaray",
+            "complexContent",
+            "SequentialGroup",
+            "\u2581contextLoads",
+            "reportWebVitals",
+            "LinkId",
+            "ormais",
+            "\u2581AssemblyVersion",
+            "Tikang"
+        ],
+        "positive_strings": [
+            "\u2581manager",
+            "administrator",
+            "\u2581administrator",
+            "\u2581worker",
+            "\u2581officer",
+            "\u2581marketer",
+            "\u2581MANAGER",
+            "Administrator",
+            "\u2581clerk",
+            "\u2581physician"
+        ],
+        "description": "words that relate to various job titles and professional roles"
+    },
+    {
+        "index": "106767",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_106767.json",
+        "negative_strings": [
+            "gs\u00e5",
+            "\u2581imprim\u00e9e",
+            "\u2581abound",
+            "\u2581refleja",
+            "thest",
+            "\u2581remains",
+            "\u2581reminiscent",
+            "\u2581daardoor",
+            "\u2581\u00edntima",
+            "\u2581nejen"
+        ],
+        "positive_strings": [
+            "\u2581decides",
+            "\u2581asked",
+            "\u2581wanted",
+            "\u2581wants",
+            "\u2581decide",
+            "tanleria",
+            "\u2581asks",
+            "\u2581decided",
+            "\u2581complained",
+            "\u2581requested"
+        ],
+        "description": "titles and roles related to professions and occupations"
+    },
+    {
+        "index": "6440",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an engineer/data_for_feature_6440.json",
+        "negative_strings": [
+            "calientes",
+            "\u27ec",
+            "\u2581hyal",
+            "\u5211",
+            "Categor\u00eda",
+            "shadowOpacity",
+            "copyOf",
+            "tieth",
+            "\u2581VIOL",
+            "zyg"
+        ],
+        "positive_strings": [
+            "\u671f\u520a\u8bba\u6587",
+            "\u2581CAD",
+            "\u2581CAM",
+            "webElementGuid",
+            "\u2581MainAxisSize",
+            "\u2581feats",
+            "\u2581AssemblyTitle",
+            "\u2581endeavors",
+            "NameInMap",
+            "ngdoc"
+        ],
+        "description": "terms related to engineering and its various contexts"
+    }
+]

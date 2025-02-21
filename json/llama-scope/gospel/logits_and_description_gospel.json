@@ -1,0 +1,602 @@
+[
+    {
+        "index": "22308",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/gospel/data_for_feature_22308.json",
+        "negative_strings": [
+            "church",
+            "Church",
+            " relig",
+            "olon",
+            "Muslim",
+            " bishop",
+            " Religious",
+            " Mosque",
+            "-Muslim",
+            " theolog"
+        ],
+        "positive_strings": [
+            " Him",
+            " Christ",
+            " His",
+            " Jesus",
+            " Our",
+            " HIM",
+            " Himself",
+            " Someone",
+            " Your",
+            " Chr"
+        ],
+        "description": " phrases related to the concepts of faith and the Christian Gospel"
+    },
+    {
+        "index": "25664",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_25664.json",
+        "negative_strings": [
+            "ilitary",
+            "seealso",
+            "indsight",
+            " Prayer",
+            "oogle",
+            "orda",
+            "usement",
+            "_MUTEX",
+            "\u00e6\u0127\u0130",
+            "LANG"
+        ],
+        "positive_strings": [
+            " message",
+            " saving",
+            " truth",
+            " Truth",
+            " Message",
+            " truths",
+            " Saving",
+            " hope",
+            " news",
+            " Good"
+        ],
+        "description": "terms related to preaching and sharing the Gospel"
+    },
+    {
+        "index": "5151",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_5151.json",
+        "negative_strings": [
+            "adil",
+            "olson",
+            "/upload",
+            "ditor",
+            "sar",
+            "alice",
+            "sse",
+            "oglobin",
+            "YL",
+            "yd"
+        ],
+        "positive_strings": [
+            " message",
+            " According",
+            " Message",
+            " accounts",
+            " story",
+            " writers",
+            " according",
+            "message",
+            " account",
+            " narrative"
+        ],
+        "description": " references to the Gospel and related religious concepts"
+    },
+    {
+        "index": "74835",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_74835.json",
+        "negative_strings": [
+            "oogle",
+            "deniz",
+            "\u00cc\u00a3",
+            "471",
+            "LANG",
+            "574",
+            "ForResult",
+            "uild",
+            "zan",
+            "636"
+        ],
+        "positive_strings": [
+            " message",
+            "message",
+            " saving",
+            " Message",
+            " truth",
+            " gospel",
+            " truths",
+            "-message",
+            "Message",
+            "(message"
+        ],
+        "description": "terms and phrases related to the preaching and sharing of the Gospel"
+    },
+    {
+        "index": "12235",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/gospel/data_for_feature_12235.json",
+        "negative_strings": [
+            " Gods",
+            "\u00e3\u0124\u00b9\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "infeld",
+            "usu",
+            "ansk",
+            "postgresql",
+            "genesis",
+            "JECT",
+            "abant",
+            "ATUS"
+        ],
+        "positive_strings": [
+            " Lord",
+            " LORD",
+            "Lord",
+            " Word",
+            " risen",
+            " cross",
+            " lord",
+            " Son",
+            " Cross",
+            " Book"
+        ],
+        "description": " references to the Gospel and its teachings"
+    },
+    {
+        "index": "117041",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_117041.json",
+        "negative_strings": [
+            "\u00cc\u00a3",
+            "ellar",
+            "deniz",
+            "zan",
+            "uild",
+            "_MUTEX",
+            "ForResult",
+            "oogle",
+            "dorf",
+            "\u00e8\u013b\u0133"
+        ],
+        "positive_strings": [
+            " message",
+            "message",
+            " gospel",
+            " saving",
+            " Gospel",
+            " truth",
+            " Good",
+            " truths",
+            " hope",
+            " Message"
+        ],
+        "description": " references to the gospel and its communication within religious contexts"
+    },
+    {
+        "index": "116129",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_116129.json",
+        "negative_strings": [
+            "yd",
+            "adil",
+            "alice",
+            "assen",
+            "erif",
+            "anja",
+            "emma",
+            ".MixedReality",
+            "iola",
+            "l\u00c3\u00a1"
+        ],
+        "positive_strings": [
+            " message",
+            " According",
+            " according",
+            " tract",
+            "According",
+            "truth",
+            " truth",
+            "message",
+            " accounts",
+            "according"
+        ],
+        "description": " mentions of the gospel and related religious themes"
+    },
+    {
+        "index": "8176",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/gospel/data_for_feature_8176.json",
+        "negative_strings": [
+            " Gods",
+            "abant",
+            "rien",
+            "egot",
+            "ister",
+            "unker",
+            " suite",
+            "mary",
+            "&);\n\n",
+            "rimon"
+        ],
+        "positive_strings": [
+            " Lord",
+            " LORD",
+            "Lord",
+            " Lamb",
+            " Word",
+            " risen",
+            " Body",
+            " Son",
+            " Philipp",
+            " Person"
+        ],
+        "description": " themes related to salvation and the Gospel message"
+    },
+    {
+        "index": "27760",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_27760.json",
+        "negative_strings": [
+            "alice",
+            "anja",
+            "emma",
+            "assen",
+            "abouts",
+            "adil",
+            "esis",
+            "\u00e3\u0125\u00a3",
+            "zelf",
+            "zza"
+        ],
+        "positive_strings": [
+            " message",
+            " According",
+            " tract",
+            "truth",
+            " according",
+            "message",
+            " truth",
+            " Oak",
+            "According",
+            " Message"
+        ],
+        "description": " references to the concept of the gospel in various contexts"
+    },
+    {
+        "index": "6347",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_6347.json",
+        "negative_strings": [
+            "alice",
+            "abouts",
+            "esis",
+            "anja",
+            "ecz",
+            "assen",
+            "zelf",
+            "rors",
+            "ylie",
+            "\u00d8\u00b1\u00d9\u012c\u00d9\u0123"
+        ],
+        "positive_strings": [
+            " message",
+            " tract",
+            " According",
+            " according",
+            "truth",
+            " truth",
+            "iasi",
+            "According",
+            "message",
+            " truths"
+        ],
+        "description": "references to the concept of the Gospel and its associated messages"
+    },
+    {
+        "index": "22559",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_22559.json",
+        "negative_strings": [
+            "\u00cc\u00a3",
+            "oogle",
+            "ogn",
+            "okt",
+            "uja",
+            "\u00e6\u013f\u012b",
+            "uild",
+            "lected",
+            "peria",
+            "\u00e1\u00ba\u00b1ng"
+        ],
+        "positive_strings": [
+            " gospel",
+            " Gospel",
+            " good",
+            " Good",
+            " message",
+            " news",
+            "Good",
+            "message",
+            " saving",
+            " truth"
+        ],
+        "description": "references to the act of sharing or preaching the Gospel and related religious themes"
+    },
+    {
+        "index": "54944",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_54944.json",
+        "negative_strings": [
+            "alice",
+            "anja",
+            "ecz",
+            "zelf",
+            "abouts",
+            "esis",
+            "OSC",
+            "assen",
+            "rors",
+            "\u00d8\u00b1\u00d9\u012c\u00d9\u0123"
+        ],
+        "positive_strings": [
+            " According",
+            " according",
+            " tract",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            " truth",
+            " message",
+            "According",
+            "truth",
+            " Oak",
+            "according"
+        ],
+        "description": " references to the gospel message and its significance"
+    },
+    {
+        "index": "127789",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_127789.json",
+        "negative_strings": [
+            "abouts",
+            "alice",
+            "endl",
+            "emma",
+            "zelf",
+            "umbles",
+            "esis",
+            "ecz",
+            "educ",
+            "assen"
+        ],
+        "positive_strings": [
+            " tract",
+            " truth",
+            "aminer",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            "truth",
+            " message",
+            " truths",
+            "licant",
+            " Truth",
+            " According"
+        ],
+        "description": " references to the Gospel message and its teachings"
+    },
+    {
+        "index": "841",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_841.json",
+        "negative_strings": [
+            "\u00e8\u00b3\u00a2",
+            "ichten",
+            "i\u00d0\u00b2",
+            "i\u00c3\u00a9n",
+            "onaut",
+            ".Xaml",
+            "ograd",
+            " Bret",
+            "Porno",
+            " muschi"
+        ],
+        "positive_strings": [
+            " negro",
+            " Negro",
+            " g\u00c3\u00b3",
+            " quart",
+            " Quart",
+            " African",
+            " jub",
+            " black",
+            " cho",
+            " Sanct"
+        ],
+        "description": " themes related to gospel music and its cultural impact"
+    },
+    {
+        "index": "117585",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_117585.json",
+        "negative_strings": [
+            "abouts",
+            "zelf",
+            "alice",
+            "umbles",
+            "anja",
+            "\u00d8\u00b1\u00d9\u012c\u00d9\u0123",
+            "ecz",
+            "rors",
+            "emma",
+            "uations"
+        ],
+        "positive_strings": [
+            " tract",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            " according",
+            " According",
+            " truth",
+            "truth",
+            "aminer",
+            " message",
+            "undy",
+            "iasi"
+        ],
+        "description": "references to the concept of the Gospel and its teachings"
+    },
+    {
+        "index": "22107",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/gospel/data_for_feature_22107.json",
+        "negative_strings": [
+            " Gods",
+            "egot",
+            "isis",
+            "ECTOR",
+            "edException",
+            "\u00e6\u013e",
+            " /*#__",
+            "elves",
+            " dataIndex",
+            "QUI"
+        ],
+        "positive_strings": [
+            " Lord",
+            " LORD",
+            "Lord",
+            " Person",
+            " Lamb",
+            " Son",
+            " cross",
+            " Father",
+            " Word",
+            " risen"
+        ],
+        "description": " references to the Gospel and concepts of salvation"
+    },
+    {
+        "index": "89162",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_89162.json",
+        "negative_strings": [
+            "ecz",
+            "emma",
+            "533",
+            "esis",
+            "abouts",
+            "\u00d8\u00b1\u00d9\u012c\u00d9\u0123",
+            "rors",
+            "umbles",
+            "l\u00c3\u00a1",
+            "\u00e8\u00b5\u00b7\u00e6\u013f\u00a5"
+        ],
+        "positive_strings": [
+            " tract",
+            " d\u00c4\u00b1\u00c5\u0141\u00c4\u00b1",
+            " according",
+            " According",
+            "aminer",
+            "truth",
+            " truth",
+            "licant",
+            " truths",
+            "According"
+        ],
+        "description": "references to the Gospel and its teachings"
+    },
+    {
+        "index": "119702",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_119702.json",
+        "negative_strings": [
+            "umper",
+            "OTO",
+            "ARAM",
+            " \u00d0\u00bf\u00d0\u00be\u00d0\u00b1\u00d0\u00b0",
+            "urette",
+            " glide",
+            " \u00e5\u00b9",
+            "\u00ec\u00b0\u00ac",
+            "ra\u00c3\u00a7",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b7"
+        ],
+        "positive_strings": [
+            " substitution",
+            " Substitute",
+            " vic",
+            " shed",
+            " substitute",
+            "vic",
+            " substituted",
+            " payment",
+            " shedding",
+            " substitutes"
+        ],
+        "description": " concepts related to the Christian gospel and themes of redemption"
+    },
+    {
+        "index": "11041",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/gospel/data_for_feature_11041.json",
+        "negative_strings": [
+            " Gods",
+            "edException",
+            "egot",
+            ".ptr",
+            " /*#__",
+            "elves",
+            "erve",
+            "exo",
+            " queryInterface",
+            "\u00e5\u00bb"
+        ],
+        "positive_strings": [
+            " Lord",
+            " LORD",
+            "Lord",
+            " Word",
+            " Son",
+            " Lamb",
+            " risen",
+            " Person",
+            " Father",
+            " Cross"
+        ],
+        "description": "themes related to the Gospel and Christian doctrine"
+    },
+    {
+        "index": "78892",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/gospel/data_for_feature_78892.json",
+        "negative_strings": [
+            "957",
+            ".FindAsync",
+            " muschi",
+            "/runtime",
+            "i\u00d0\u00b2",
+            "olkien",
+            "\u00e8\u00b3\u00a2",
+            "nesty",
+            "ibri",
+            " smr"
+        ],
+        "positive_strings": [
+            " Pent",
+            " gospel",
+            " g\u00c3\u00b3",
+            " church",
+            " Negro",
+            " negro",
+            " Mah",
+            " Baptist",
+            " Sanct",
+            " pent"
+        ],
+        "description": " elements related to gospel music and its cultural significance"
+    }
+]

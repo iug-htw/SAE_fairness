@@ -1,0 +1,765 @@
+{
+    "message": "Duplicate feature numbers found:",
+    "duplicates": {
+        "158567": [
+            "json3/llama3.1-8b-eleuther_gp/son/data_for_feature_158567.json",
+            "json3/llama3.1-8b-eleuther_gp/daughter/data_for_feature_158567.json"
+        ],
+        "177130": [
+            "json3/llama3.1-8b-eleuther_gp/son/data_for_feature_177130.json",
+            "json3/llama3.1-8b-eleuther_gp/daughter/data_for_feature_177130.json"
+        ],
+        "193111": [
+            "json3/llama3.1-8b-eleuther_gp/gospel/data_for_feature_193111.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_193111.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_193111.json"
+        ],
+        "214929": [
+            "json3/llama3.1-8b-eleuther_gp/gospel/data_for_feature_214929.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_214929.json"
+        ],
+        "94615": [
+            "json3/llama3.1-8b-eleuther_gp/gospel/data_for_feature_94615.json",
+            "json3/llama3.1-8b-eleuther_gp/baptsim/data_for_feature_94615.json"
+        ],
+        "96321": [
+            "json3/llama3.1-8b-eleuther_gp/gospel/data_for_feature_96321.json",
+            "json3/llama3.1-8b-eleuther_gp/baptsim/data_for_feature_96321.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_96321.json"
+        ],
+        "232277": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_232277.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_232277.json"
+        ],
+        "234930": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_234930.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_234930.json"
+        ],
+        "28409": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_28409.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_28409.json"
+        ],
+        "84884": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_84884.json",
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_84884.json",
+            "json3/llama3.1-8b-eleuther_gp/woman/data_for_feature_84884.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_84884.json"
+        ],
+        "14625": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_14625.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_14625.json"
+        ],
+        "228607": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_228607.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_228607.json"
+        ],
+        "46160": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_46160.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_46160.json"
+        ],
+        "37875": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_37875.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_37875.json"
+        ],
+        "60759": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_60759.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_60759.json"
+        ],
+        "12936": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_12936.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_12936.json"
+        ],
+        "25173": [
+            "json3/llama3.1-8b-eleuther_gp/girl/data_for_feature_25173.json",
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_25173.json"
+        ],
+        "28670": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_28670.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_28670.json",
+            "json3/llama3.1-8b-eleuther_gp/mecca/data_for_feature_28670.json"
+        ],
+        "98117": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_98117.json",
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_98117.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_98117.json"
+        ],
+        "257972": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_257972.json",
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_257972.json"
+        ],
+        "49144": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_49144.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_49144.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_49144.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_49144.json"
+        ],
+        "128298": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_128298.json",
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_128298.json",
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_128298.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_128298.json"
+        ],
+        "214342": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_214342.json",
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_214342.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_214342.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_214342.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_214342.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_214342.json"
+        ],
+        "182977": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_182977.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_182977.json"
+        ],
+        "112739": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_112739.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_112739.json"
+        ],
+        "157548": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_157548.json",
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_157548.json"
+        ],
+        "53139": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_53139.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_53139.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_53139.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_53139.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_53139.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_53139.json"
+        ],
+        "96107": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_96107.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_96107.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_96107.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_96107.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_96107.json"
+        ],
+        "171811": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_171811.json",
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_171811.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_171811.json"
+        ],
+        "183399": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_183399.json",
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_183399.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_183399.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_183399.json"
+        ],
+        "170272": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_170272.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_170272.json"
+        ],
+        "148541": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_148541.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_148541.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_148541.json"
+        ],
+        "193823": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_193823.json",
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_193823.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_193823.json",
+            "json3/llama3.1-8b-eleuther_gp/mecca/data_for_feature_193823.json"
+        ],
+        "118490": [
+            "json3/llama3.1-8b-eleuther_gp/synagogue/data_for_feature_118490.json",
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_118490.json"
+        ],
+        "247466": [
+            "json3/llama3.1-8b-eleuther_gp/firefighter/data_for_feature_247466.json",
+            "json3/llama3.1-8b-eleuther_gp/professor/data_for_feature_247466.json"
+        ],
+        "168294": [
+            "json3/llama3.1-8b-eleuther_gp/men/data_for_feature_168294.json",
+            "json3/llama3.1-8b-eleuther_gp/male/data_for_feature_168294.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_168294.json"
+        ],
+        "69928": [
+            "json3/llama3.1-8b-eleuther_gp/men/data_for_feature_69928.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_69928.json"
+        ],
+        "148354": [
+            "json3/llama3.1-8b-eleuther_gp/men/data_for_feature_148354.json",
+            "json3/llama3.1-8b-eleuther_gp/male/data_for_feature_148354.json"
+        ],
+        "96674": [
+            "json3/llama3.1-8b-eleuther_gp/men/data_for_feature_96674.json",
+            "json3/llama3.1-8b-eleuther_gp/male/data_for_feature_96674.json"
+        ],
+        "144332": [
+            "json3/llama3.1-8b-eleuther_gp/men/data_for_feature_144332.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_144332.json"
+        ],
+        "27448": [
+            "json3/llama3.1-8b-eleuther_gp/gentleman/data_for_feature_27448.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_27448.json"
+        ],
+        "104686": [
+            "json3/llama3.1-8b-eleuther_gp/gentleman/data_for_feature_104686.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_104686.json"
+        ],
+        "238730": [
+            "json3/llama3.1-8b-eleuther_gp/homemaker/data_for_feature_238730.json",
+            "json3/llama3.1-8b-eleuther_gp/Oma/data_for_feature_238730.json"
+        ],
+        "146761": [
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_146761.json",
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_146761.json"
+        ],
+        "32956": [
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_32956.json",
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_32956.json"
+        ],
+        "85335": [
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_85335.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_85335.json"
+        ],
+        "85930": [
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_85930.json",
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_85930.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_85930.json",
+            "json3/llama3.1-8b-eleuther_gp/she/data_for_feature_85930.json"
+        ],
+        "194810": [
+            "json3/llama3.1-8b-eleuther_gp/M\u00e4dchen/data_for_feature_194810.json",
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_194810.json"
+        ],
+        "215813": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_215813.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_215813.json"
+        ],
+        "79876": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_79876.json",
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_79876.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_79876.json"
+        ],
+        "254887": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_254887.json",
+            "json3/llama3.1-8b-eleuther_gp/allah/data_for_feature_254887.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_254887.json"
+        ],
+        "138816": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_138816.json",
+            "json3/llama3.1-8b-eleuther_gp/muslim/data_for_feature_138816.json"
+        ],
+        "15344": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_15344.json",
+            "json3/llama3.1-8b-eleuther_gp/allah/data_for_feature_15344.json"
+        ],
+        "214896": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_214896.json",
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_214896.json"
+        ],
+        "69523": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_69523.json",
+            "json3/llama3.1-8b-eleuther_gp/muslim/data_for_feature_69523.json"
+        ],
+        "152494": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_152494.json",
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_152494.json"
+        ],
+        "74073": [
+            "json3/llama3.1-8b-eleuther_gp/islam/data_for_feature_74073.json",
+            "json3/llama3.1-8b-eleuther_gp/allah/data_for_feature_74073.json"
+        ],
+        "150648": [
+            "json3/llama3.1-8b-eleuther_gp/fundamentalist/data_for_feature_150648.json",
+            "json3/llama3.1-8b-eleuther_gp/muslim/data_for_feature_150648.json"
+        ],
+        "168743": [
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_168743.json",
+            "json3/llama3.1-8b-eleuther_gp/mecca/data_for_feature_168743.json"
+        ],
+        "20027": [
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_20027.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_20027.json"
+        ],
+        "26387": [
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_26387.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_26387.json"
+        ],
+        "40523": [
+            "json3/llama3.1-8b-eleuther_gp/temple/data_for_feature_40523.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_40523.json"
+        ],
+        "36711": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_36711.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_36711.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_36711.json"
+        ],
+        "176276": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_176276.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_176276.json"
+        ],
+        "128075": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_128075.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_128075.json"
+        ],
+        "182229": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_182229.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_182229.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_182229.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_182229.json"
+        ],
+        "56099": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_56099.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_56099.json"
+        ],
+        "239415": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_239415.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_239415.json"
+        ],
+        "27649": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_27649.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_27649.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_27649.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_27649.json"
+        ],
+        "77525": [
+            "json3/llama3.1-8b-eleuther_gp/talmud/data_for_feature_77525.json",
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_77525.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_77525.json"
+        ],
+        "2573": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_2573.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_2573.json"
+        ],
+        "67589": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_67589.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_67589.json",
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_67589.json"
+        ],
+        "191832": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_191832.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_191832.json"
+        ],
+        "44257": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_44257.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_44257.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_44257.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_44257.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_44257.json"
+        ],
+        "129387": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_129387.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_129387.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_129387.json"
+        ],
+        "134105": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_134105.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_134105.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_134105.json"
+        ],
+        "88471": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_88471.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_88471.json"
+        ],
+        "128262": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_128262.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_128262.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_128262.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_128262.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_128262.json"
+        ],
+        "60177": [
+            "json3/llama3.1-8b-eleuther_gp/kosher/data_for_feature_60177.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_60177.json",
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_60177.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_60177.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_60177.json"
+        ],
+        "79065": [
+            "json3/llama3.1-8b-eleuther_gp/male/data_for_feature_79065.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_79065.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_79065.json"
+        ],
+        "34697": [
+            "json3/llama3.1-8b-eleuther_gp/male/data_for_feature_34697.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_34697.json"
+        ],
+        "56069": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_56069.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_56069.json"
+        ],
+        "179998": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_179998.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_179998.json"
+        ],
+        "222074": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_222074.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_222074.json"
+        ],
+        "190474": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_190474.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_190474.json"
+        ],
+        "186146": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_186146.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_186146.json"
+        ],
+        "178894": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_178894.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_178894.json"
+        ],
+        "240635": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_240635.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_240635.json"
+        ],
+        "40640": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_40640.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_40640.json"
+        ],
+        "257755": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_257755.json",
+            "json3/llama3.1-8b-eleuther_gp/boss/data_for_feature_257755.json"
+        ],
+        "777": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_777.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_777.json"
+        ],
+        "46984": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_46984.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_46984.json"
+        ],
+        "214403": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_214403.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_214403.json"
+        ],
+        "109384": [
+            "json3/llama3.1-8b-eleuther_gp/grandpa/data_for_feature_109384.json",
+            "json3/llama3.1-8b-eleuther_gp/grandma/data_for_feature_109384.json"
+        ],
+        "24156": [
+            "json3/llama3.1-8b-eleuther_gp/burka/data_for_feature_24156.json",
+            "json3/llama3.1-8b-eleuther_gp/hijab/data_for_feature_24156.json"
+        ],
+        "177408": [
+            "json3/llama3.1-8b-eleuther_gp/burka/data_for_feature_177408.json",
+            "json3/llama3.1-8b-eleuther_gp/hijab/data_for_feature_177408.json"
+        ],
+        "134145": [
+            "json3/llama3.1-8b-eleuther_gp/burka/data_for_feature_134145.json",
+            "json3/llama3.1-8b-eleuther_gp/hijab/data_for_feature_134145.json",
+            "json3/llama3.1-8b-eleuther_gp/muslim/data_for_feature_134145.json"
+        ],
+        "195204": [
+            "json3/llama3.1-8b-eleuther_gp/burka/data_for_feature_195204.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_195204.json"
+        ],
+        "166312": [
+            "json3/llama3.1-8b-eleuther_gp/burka/data_for_feature_166312.json",
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_166312.json",
+            "json3/llama3.1-8b-eleuther_gp/hijab/data_for_feature_166312.json"
+        ],
+        "19948": [
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_19948.json",
+            "json3/llama3.1-8b-eleuther_gp/hijab/data_for_feature_19948.json"
+        ],
+        "54615": [
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_54615.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_54615.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_54615.json"
+        ],
+        "110150": [
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_110150.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_110150.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_110150.json"
+        ],
+        "258026": [
+            "json3/llama3.1-8b-eleuther_gp/kippah/data_for_feature_258026.json",
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_258026.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_258026.json"
+        ],
+        "203124": [
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_203124.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_203124.json"
+        ],
+        "68585": [
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_68585.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_68585.json"
+        ],
+        "35461": [
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_35461.json",
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_35461.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_35461.json"
+        ],
+        "203898": [
+            "json3/llama3.1-8b-eleuther_gp/church/data_for_feature_203898.json",
+            "json3/llama3.1-8b-eleuther_gp/mosque/data_for_feature_203898.json"
+        ],
+        "230119": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_230119.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_230119.json"
+        ],
+        "207296": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_207296.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_207296.json"
+        ],
+        "127760": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_127760.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_127760.json"
+        ],
+        "193193": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_193193.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_193193.json"
+        ],
+        "252717": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_252717.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_252717.json"
+        ],
+        "63249": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_63249.json",
+            "json3/llama3.1-8b-eleuther_gp/baptsim/data_for_feature_63249.json"
+        ],
+        "42571": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_42571.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_42571.json"
+        ],
+        "17317": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_17317.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_17317.json"
+        ],
+        "17834": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_17834.json",
+            "json3/llama3.1-8b-eleuther_gp/baptsim/data_for_feature_17834.json"
+        ],
+        "128104": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_128104.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_128104.json"
+        ],
+        "217941": [
+            "json3/llama3.1-8b-eleuther_gp/christian/data_for_feature_217941.json",
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_217941.json"
+        ],
+        "108269": [
+            "json3/llama3.1-8b-eleuther_gp/queen/data_for_feature_108269.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_108269.json"
+        ],
+        "44957": [
+            "json3/llama3.1-8b-eleuther_gp/queen/data_for_feature_44957.json",
+            "json3/llama3.1-8b-eleuther_gp/king/data_for_feature_44957.json"
+        ],
+        "27791": [
+            "json3/llama3.1-8b-eleuther_gp/queen/data_for_feature_27791.json",
+            "json3/llama3.1-8b-eleuther_gp/king/data_for_feature_27791.json"
+        ],
+        "5239": [
+            "json3/llama3.1-8b-eleuther_gp/queen/data_for_feature_5239.json",
+            "json3/llama3.1-8b-eleuther_gp/king/data_for_feature_5239.json"
+        ],
+        "73260": [
+            "json3/llama3.1-8b-eleuther_gp/queen/data_for_feature_73260.json",
+            "json3/llama3.1-8b-eleuther_gp/king/data_for_feature_73260.json"
+        ],
+        "115042": [
+            "json3/llama3.1-8b-eleuther_gp/nurse/data_for_feature_115042.json",
+            "json3/llama3.1-8b-eleuther_gp/doctor/data_for_feature_115042.json"
+        ],
+        "120448": [
+            "json3/llama3.1-8b-eleuther_gp/nurse/data_for_feature_120448.json",
+            "json3/llama3.1-8b-eleuther_gp/doctor/data_for_feature_120448.json"
+        ],
+        "85452": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_85452.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_85452.json"
+        ],
+        "182085": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_182085.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_182085.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_182085.json"
+        ],
+        "182839": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_182839.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_182839.json"
+        ],
+        "30869": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_30869.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_30869.json"
+        ],
+        "128296": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_128296.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_128296.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_128296.json"
+        ],
+        "183609": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_183609.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_183609.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_183609.json"
+        ],
+        "126780": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_126780.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_126780.json"
+        ],
+        "85526": [
+            "json3/llama3.1-8b-eleuther_gp/Mann/data_for_feature_85526.json",
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_85526.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_85526.json"
+        ],
+        "190761": [
+            "json3/llama3.1-8b-eleuther_gp/halal/data_for_feature_190761.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_190761.json"
+        ],
+        "170072": [
+            "json3/llama3.1-8b-eleuther_gp/sacrament/data_for_feature_170072.json",
+            "json3/llama3.1-8b-eleuther_gp/baptsim/data_for_feature_170072.json"
+        ],
+        "202136": [
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_202136.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_202136.json"
+        ],
+        "97056": [
+            "json3/llama3.1-8b-eleuther_gp/christianity/data_for_feature_97056.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_97056.json"
+        ],
+        "246911": [
+            "json3/llama3.1-8b-eleuther_gp/mecca/data_for_feature_246911.json",
+            "json3/llama3.1-8b-eleuther_gp/muslim/data_for_feature_246911.json"
+        ],
+        "69699": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_69699.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_69699.json"
+        ],
+        "251468": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_251468.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_251468.json"
+        ],
+        "112405": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_112405.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_112405.json"
+        ],
+        "115717": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_115717.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_115717.json"
+        ],
+        "14999": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_14999.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_14999.json"
+        ],
+        "180786": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_180786.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_180786.json"
+        ],
+        "253027": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_253027.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_253027.json"
+        ],
+        "73534": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_73534.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_73534.json"
+        ],
+        "77899": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_77899.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_77899.json"
+        ],
+        "59039": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_59039.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_59039.json"
+        ],
+        "226399": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_226399.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_226399.json"
+        ],
+        "236664": [
+            "json3/llama3.1-8b-eleuther_gp/husband/data_for_feature_236664.json",
+            "json3/llama3.1-8b-eleuther_gp/wife/data_for_feature_236664.json"
+        ],
+        "34659": [
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_34659.json",
+            "json3/llama3.1-8b-eleuther_gp/daughter/data_for_feature_34659.json"
+        ],
+        "148101": [
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_148101.json",
+            "json3/llama3.1-8b-eleuther_gp/woman/data_for_feature_148101.json",
+            "json3/llama3.1-8b-eleuther_gp/lady/data_for_feature_148101.json"
+        ],
+        "219994": [
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_219994.json",
+            "json3/llama3.1-8b-eleuther_gp/she/data_for_feature_219994.json"
+        ],
+        "130750": [
+            "json3/llama3.1-8b-eleuther_gp/female/data_for_feature_130750.json",
+            "json3/llama3.1-8b-eleuther_gp/woman/data_for_feature_130750.json"
+        ],
+        "219448": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_219448.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_219448.json"
+        ],
+        "244092": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_244092.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_244092.json"
+        ],
+        "159224": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_159224.json",
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_159224.json"
+        ],
+        "85037": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_85037.json",
+            "json3/llama3.1-8b-eleuther_gp/Jude/data_for_feature_85037.json"
+        ],
+        "185637": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_185637.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_185637.json"
+        ],
+        "166212": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_166212.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_166212.json"
+        ],
+        "69657": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_69657.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_69657.json"
+        ],
+        "219856": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_219856.json",
+            "json3/llama3.1-8b-eleuther_gp/Jude/data_for_feature_219856.json"
+        ],
+        "243692": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_243692.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_243692.json"
+        ],
+        "178875": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_178875.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_178875.json"
+        ],
+        "140516": [
+            "json3/llama3.1-8b-eleuther_gp/juif/data_for_feature_140516.json",
+            "json3/llama3.1-8b-eleuther_gp/jew/data_for_feature_140516.json"
+        ],
+        "76801": [
+            "json3/llama3.1-8b-eleuther_gp/bible/data_for_feature_76801.json",
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_76801.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_76801.json"
+        ],
+        "241728": [
+            "json3/llama3.1-8b-eleuther_gp/bible/data_for_feature_241728.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_241728.json"
+        ],
+        "220517": [
+            "json3/llama3.1-8b-eleuther_gp/bible/data_for_feature_220517.json",
+            "json3/llama3.1-8b-eleuther_gp/jesus/data_for_feature_220517.json"
+        ],
+        "103122": [
+            "json3/llama3.1-8b-eleuther_gp/boss/data_for_feature_103122.json",
+            "json3/llama3.1-8b-eleuther_gp/man/data_for_feature_103122.json",
+            "json3/llama3.1-8b-eleuther_gp/boy/data_for_feature_103122.json"
+        ],
+        "22171": [
+            "json3/llama3.1-8b-eleuther_gp/torah/data_for_feature_22171.json",
+            "json3/llama3.1-8b-eleuther_gp/quran/data_for_feature_22171.json"
+        ],
+        "205089": [
+            "json3/llama3.1-8b-eleuther_gp/shabbat/data_for_feature_205089.json",
+            "json3/llama3.1-8b-eleuther_gp/judaism/data_for_feature_205089.json"
+        ],
+        "164764": [
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_164764.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_164764.json"
+        ],
+        "4023": [
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_4023.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_4023.json"
+        ],
+        "98195": [
+            "json3/llama3.1-8b-eleuther_gp/Frau/data_for_feature_98195.json",
+            "json3/llama3.1-8b-eleuther_gp/Junge/data_for_feature_98195.json"
+        ]
+    }
+}

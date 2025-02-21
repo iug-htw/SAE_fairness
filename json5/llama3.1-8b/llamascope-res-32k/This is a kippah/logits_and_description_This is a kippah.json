@@ -1,0 +1,452 @@
+[
+    {
+        "index": "28989",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_28989.json",
+        "negative_strings": [
+            "u",
+            "i",
+            "l",
+            "al",
+            "b",
+            "an",
+            "ar",
+            "e",
+            "n",
+            "h"
+        ],
+        "positive_strings": [
+            "iosk",
+            "rypton",
+            "etchup",
+            "ansas",
+            "udos",
+            "orean",
+            "aiser",
+            "irk",
+            "inesis",
+            "raft"
+        ],
+        "description": "references to the letter 'k'"
+    },
+    {
+        "index": "9025",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_9025.json",
+        "negative_strings": [
+            "\u00d0\u00be\u00d1\u0123\u00d1\u0124",
+            " Wein",
+            "outines",
+            "\u00c3\u00baa",
+            "IED",
+            "arrant",
+            "udev",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            "ustin",
+            "ea"
+        ],
+        "positive_strings": [
+            "etchup",
+            "isser",
+            "ibble",
+            "iosk",
+            "ett",
+            "empt",
+            "hol",
+            "rypton",
+            "eros",
+            "ooky"
+        ],
+        "description": " references to kitchen-related items or concepts"
+    },
+    {
+        "index": "13815",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_13815.json",
+        "negative_strings": [
+            "ann",
+            "\u00d8\u00a7\u00d9\u0128",
+            " paste",
+            "\u00d0\u00be\u00d1\u0122",
+            "yle",
+            "\u00d1\u0125\u00d1\u0122",
+            "egr",
+            "outines",
+            "k\u00c3\u00bc",
+            "\u00d9\u0126"
+        ],
+        "positive_strings": [
+            "appa",
+            "vant",
+            "INET",
+            "iosk",
+            "inesis",
+            "wik",
+            "ilo",
+            "udos",
+            "razy",
+            "elt"
+        ],
+        "description": " words related to sustainable practices and environmental initiatives"
+    },
+    {
+        "index": "11696",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_11696.json",
+        "negative_strings": [
+            "ndon",
+            "ething",
+            "ease",
+            "ece",
+            "cki",
+            "tura",
+            "\u00d0\u00b5\u00d0\u00bb\u00d0\u00b5",
+            "-gnu",
+            "TRGL",
+            "PointerException"
+        ],
+        "positive_strings": [
+            "aspers",
+            "inesis",
+            "-pop",
+            "acific",
+            "ubernetes",
+            "UAL",
+            "pop",
+            "engo",
+            "lik",
+            "oyo"
+        ],
+        "description": "the letter 'K' and related elements in the text"
+    },
+    {
+        "index": "20854",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_20854.json",
+        "negative_strings": [
+            "opus",
+            "achuset",
+            "udev",
+            "itag",
+            "_UNUSED",
+            "IED",
+            "odafone",
+            "sie",
+            "ician",
+            " spins"
+        ],
+        "positive_strings": [
+            " k",
+            "itted",
+            "iosk",
+            "iddy",
+            "etchup",
+            "*k",
+            " \u00d0\u00ba",
+            "ibble",
+            "=k",
+            "(k"
+        ],
+        "description": " occurrences of the letter 'k' in various contexts"
+    },
+    {
+        "index": "27227",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_27227.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            " paste",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            "egr",
+            "k\u00c3\u00bc",
+            "ann",
+            "\u00d8\u00a7\u00d8\u00b1",
+            "yle",
+            "igm"
+        ],
+        "positive_strings": [
+            "ernels",
+            "ILLED",
+            "rypton",
+            "appa",
+            "ev",
+            "vant",
+            "eb",
+            "iem",
+            "empt",
+            "ow"
+        ],
+        "description": " the letter 'k' in various contexts"
+    },
+    {
+        "index": "7230",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_7230.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "k\u00c3\u00bc",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            "egr",
+            "eya",
+            "agma",
+            "igm",
+            " minim",
+            "ulsion",
+            "\u00e0\u00b8\u00a3"
+        ],
+        "positive_strings": [
+            "empt",
+            "ernels",
+            "vant",
+            "ILLED",
+            "rypton",
+            "ilo",
+            "ull",
+            "udos",
+            "nap",
+            "ISS"
+        ],
+        "description": " instances of the letter 'K' in various forms"
+    },
+    {
+        "index": "907",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_907.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            "k\u00c3\u00bc",
+            "agma",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            "\u00d8\u00a7\u00d8\u00b1",
+            "egr",
+            " paste",
+            "\u00e0\u00a4\u012a",
+            "eya"
+        ],
+        "positive_strings": [
+            "ILLED",
+            "ernels",
+            "rypton",
+            "vant",
+            "udos",
+            "lap",
+            "appa",
+            "ev",
+            "ilo",
+            "ac"
+        ],
+        "description": "variations of the letter 'K' in different contexts"
+    },
+    {
+        "index": "11193",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_11193.json",
+        "negative_strings": [
+            "udev",
+            "asal",
+            "sie",
+            "exter",
+            " spins",
+            "opus",
+            "onte",
+            "IED",
+            "achuset",
+            "sse"
+        ],
+        "positive_strings": [
+            " k",
+            "=k",
+            " \u00d0\u00ba",
+            ":k",
+            "iosk",
+            "*k",
+            "etchup",
+            "itted",
+            "iddy",
+            "{k"
+        ],
+        "description": "terms related to food, specifically different types of cuisines or food items"
+    },
+    {
+        "index": "16769",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_16769.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            "ulsion",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            "eya",
+            "ablish",
+            "k\u00c3\u00bc",
+            " paste",
+            "agma",
+            "\u00d8\u00a7\u00d8\u00b1"
+        ],
+        "positive_strings": [
+            "rypton",
+            "ev",
+            "lap",
+            "ean",
+            "eb",
+            "vant",
+            "ip",
+            "ISS",
+            "ac",
+            "ow"
+        ],
+        "description": " the letter 'K' in various contexts"
+    },
+    {
+        "index": "8231",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_8231.json",
+        "negative_strings": [
+            "orget",
+            "ustin",
+            "ocoder",
+            " depreci",
+            "pone",
+            "ehir",
+            "stad",
+            "aliyet",
+            "\u00e3\u0124\u00b9\u00e3\u0124\u00bf\u00e3\u0125\u00bc",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u00b3\u00e3\u0125\u012b"
+        ],
+        "positive_strings": [
+            "issing",
+            "nees",
+            "nee",
+            "need",
+            "ne",
+            "isses",
+            "ettle",
+            "nick",
+            "ooky",
+            "itchen"
+        ],
+        "description": " variations of the letter 'k'"
+    },
+    {
+        "index": "8915",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_8915.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            "egr",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            " paste",
+            "\u00d0\u00be\u00d0\u00bd\u00d0\u00b4",
+            "UCKET",
+            "encer",
+            "agma",
+            "ablish"
+        ],
+        "positive_strings": [
+            "lap",
+            "vant",
+            "empt",
+            "ernels",
+            "eb",
+            "ev",
+            "ip",
+            "ean",
+            "ras",
+            "icking"
+        ],
+        "description": " instances of the letter 'K' in various contexts"
+    },
+    {
+        "index": "6525",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_6525.json",
+        "negative_strings": [
+            "sse",
+            "asal",
+            " Vinci",
+            "\u00ec\u00bd",
+            "exter",
+            "ibern",
+            "lle",
+            "ibus",
+            "CAST",
+            "ilan"
+        ],
+        "positive_strings": [
+            " k",
+            "iddy",
+            "etchup",
+            "i\u00c4\u012fka",
+            "iosk",
+            "nection",
+            "isma",
+            "-addons",
+            "empo",
+            "eros"
+        ],
+        "description": " instances of the letter 'k' and its variations within words"
+    },
+    {
+        "index": "25433",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_25433.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "ann",
+            "\u00d9\u0126",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            "eyer",
+            "\u00d0\u00be\u00d1\u0122",
+            " paste",
+            "OrCreate",
+            "egr",
+            "k\u00c3\u00bc"
+        ],
+        "positive_strings": [
+            "vant",
+            "wik",
+            "iem",
+            "ac",
+            "ev",
+            "lim",
+            "lap",
+            "lee",
+            "udos",
+            "ras"
+        ],
+        "description": " references to specific numerical or identification codes related to a system or organization"
+    },
+    {
+        "index": "31856",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a kippah/data_for_feature_31856.json",
+        "negative_strings": [
+            "\u00d8\u00a7\u00d9\u0128",
+            "ann",
+            "om",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00bc",
+            "\u00d8\u00a7\u00d8\u00b1",
+            " paste",
+            "\u00d0\u00be\u00d1\u0122",
+            "\u00e0\u00a4\u012a",
+            "\u00d1\u0125\u00d1\u0122",
+            "yle"
+        ],
+        "positive_strings": [
+            "vant",
+            "lap",
+            "ernels",
+            "iem",
+            "wik",
+            "eb",
+            "ev",
+            "ras",
+            "ean",
+            "ac"
+        ],
+        "description": " references to specific ratings or rankings"
+    }
+]

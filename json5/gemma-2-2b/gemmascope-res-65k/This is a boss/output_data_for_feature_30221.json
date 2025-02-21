@@ -1,0 +1,30 @@
+{
+    "index": "30221",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_30221.json",
+    "negative_strings": [
+        "']],",
+        "\"])\r",
+        ")));\r",
+        "\"]);\r",
+        "\"));\r",
+        "\"],\r",
+        "]));\r",
+        ")){\r",
+        ")}</",
+        "\")){\r"
+    ],
+    "positive_strings": [
+        "\u2581boss",
+        "\u2581Boss",
+        "boss",
+        "Boss",
+        "\u2581bosses",
+        "\u2581BOSS",
+        "BOSS",
+        "\u30dc\u30b9",
+        "\u2581employer",
+        "\u2581jefe"
+    ],
+    "description": "references to authority figures or leadership roles"
+}

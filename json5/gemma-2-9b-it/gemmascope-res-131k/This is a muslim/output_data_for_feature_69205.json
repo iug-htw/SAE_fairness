@@ -1,0 +1,30 @@
+{
+    "index": "69205",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_69205.json",
+    "negative_strings": [
+        "PYX",
+        "SequentialGroup",
+        "MemoryWarning",
+        "displayquote",
+        "\u2581gereja",
+        "typeorm",
+        "makeConstraints",
+        "Personendaten",
+        "\u2581numberOfRows",
+        "AutoField"
+    ],
+    "positive_strings": [
+        "\u2581Muslim",
+        "\u2581Islamic",
+        "\u2581Muslims",
+        "Islamic",
+        "Muslim",
+        "\u2581Islam",
+        "\u2581muslim",
+        "\u2581mosque",
+        "\u2581musul",
+        "\u2581islamic"
+    ],
+    "description": "references to Islamic concepts and terminology"
+}

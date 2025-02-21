@@ -1,0 +1,30 @@
+{
+    "index": "83101",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a firefighter/data_for_feature_83101.json",
+    "negative_strings": [
+        "IntoConstraints",
+        "\u2581Gossip",
+        "ValueStyle",
+        "\u2581sutil",
+        "\u2581inquiet",
+        "\u2581org\u00e1nico",
+        "protoimpl",
+        "\u0421\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
+        "Gossip",
+        "IContainer"
+    ],
+    "positive_strings": [
+        "\u2581hero",
+        "\u2581heroic",
+        "\u2581heroism",
+        "\u2581heroes",
+        "hero",
+        "Hero",
+        "\u2581HERO",
+        "\u2581Hero",
+        "\u2581Heroes",
+        "HERO"
+    ],
+    "description": "references to educators and their contributions as heroes"
+}

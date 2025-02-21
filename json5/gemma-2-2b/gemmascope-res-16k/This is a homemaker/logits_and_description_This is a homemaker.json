@@ -1,0 +1,302 @@
+[
+    {
+        "index": "10810",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_10810.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581AssemblyCompany",
+            "\u2581CreateTagHelper",
+            "\u2581<=\",",
+            "XmlAccessorType",
+            "DispatchToProps",
+            "matchCondition",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "ConstraintMaker",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "grown",
+            "owners",
+            "opathic",
+            "brew",
+            "towns",
+            "ownership",
+            "owner",
+            "\u2581sweet",
+            "pun",
+            "\u2581turf"
+        ],
+        "description": "references to \"home\" and related concepts"
+    },
+    {
+        "index": "5819",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_5819.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "XmlAccessorType",
+            "\u2581CreateTagHelper",
+            "errHandler",
+            "h\u00e4ngt",
+            "CodeAttribute",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "matchCondition",
+            "l\u00fc\u011f",
+            "UVWXYZ"
+        ],
+        "positive_strings": [
+            "grown",
+            "owners",
+            "brew",
+            "towns",
+            "ownership",
+            "opathic",
+            "\u2581appliances",
+            "buyers",
+            "\u2581depot",
+            "owner"
+        ],
+        "description": "references to \"home\" and related terms in various contexts"
+    },
+    {
+        "index": "10810",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_10810.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581AssemblyCompany",
+            "\u2581CreateTagHelper",
+            "\u2581<=\",",
+            "XmlAccessorType",
+            "DispatchToProps",
+            "matchCondition",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "ConstraintMaker",
+            "CodeAttribute"
+        ],
+        "positive_strings": [
+            "grown",
+            "owners",
+            "opathic",
+            "brew",
+            "towns",
+            "ownership",
+            "owner",
+            "\u2581sweet",
+            "pun",
+            "\u2581turf"
+        ],
+        "description": "references to \"home\" and related concepts"
+    },
+    {
+        "index": "7207",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_7207.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581CreateTagHelper",
+            "errHandler",
+            "XmlAccessorType",
+            "tvguidetime",
+            "\u2581autorytatywna",
+            "\u2581<=\",",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581AssemblyProduct"
+        ],
+        "positive_strings": [
+            "grown",
+            "owners",
+            "brew",
+            "opathic",
+            "ownership",
+            "towns",
+            "\u2581HOME",
+            "buyers",
+            "\u2581appliances",
+            "\u2581grown"
+        ],
+        "description": "references to the word \"home\" and related concepts"
+    },
+    {
+        "index": "13833",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_13833.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "DispatchToProps",
+            "\u2581CreateTagHelper",
+            "errHandler",
+            "CodeAttribute",
+            "XmlAccessorType",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "nables",
+            "UVWXYZ"
+        ],
+        "positive_strings": [
+            "grown",
+            "\u2581HOME",
+            "\u2581Home",
+            "HOME",
+            "owners",
+            "Home",
+            "\u2581home",
+            "\u2581HomeController",
+            "HOM",
+            "\u2581HOM"
+        ],
+        "description": "words and concepts related to \"home.\""
+    },
+    {
+        "index": "2108",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_2108.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "tvguidetime",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581CreateTagHelper",
+            "errHandler",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "nables",
+            "\u2581Allocin\u00e9",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u0631\u0634\u0641"
+        ],
+        "positive_strings": [
+            "\u2581HOME",
+            "\u2581Home",
+            "Home",
+            "HOME",
+            "grown",
+            "\u2581HOM",
+            "\u2581home",
+            "HOM",
+            "Homes",
+            "home"
+        ],
+        "description": "instances of the word \"home\" in various contexts"
+    },
+    {
+        "index": "13794",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_13794.json",
+        "negative_strings": [
+            "ContentAsync",
+            "__(/*!",
+            "parsedMessage",
+            "Personendaten",
+            "\u0e47\u0e08",
+            "enumi",
+            "horesis",
+            "l\u0259\u015f",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "rawDesc"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "who",
+            "SHIP",
+            "hip",
+            "hood",
+            "\u2581Who",
+            "ship",
+            "\u2581wanna",
+            "\u2581ship",
+            "ComponentScan"
+        ],
+        "description": "terms related to education and teaching roles"
+    },
+    {
+        "index": "15211",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_15211.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "ContentAsync",
+            "parsedMessage",
+            "\u2581SafeMath",
+            "StoreMessageInfo",
+            "Diwedd",
+            "\u2581ostavi",
+            "\u2581&___",
+            "__(/*!",
+            "\u064a\u0645\u064a\u062f\u064a\u0627"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "SHIP",
+            "hips",
+            "\u4eec",
+            "hip",
+            "innen",
+            "\u2581kt\u00f3rzy",
+            "\u5011",
+            "\u2581extraordinaire",
+            "\u4eec\u7684"
+        ],
+        "description": "roles related to education and professional titles"
+    },
+    {
+        "index": "1610",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_1610.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581AssemblyCompany",
+            "XmlAccessorType",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "DispatchToProps",
+            "matchCondition",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "tvguidetime",
+            "\u2581CreateTagHelper",
+            "\u2581Inf\u00f3rmanos"
+        ],
+        "positive_strings": [
+            "grown",
+            "opathic",
+            "brew",
+            "opathy",
+            "towns",
+            "\u2581grown",
+            "ownership",
+            "\u2581sweet",
+            "\u2581Grown",
+            "\u2581Sweet"
+        ],
+        "description": "references to home-related concepts and settings"
+    },
+    {
+        "index": "7591",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homemaker/data_for_feature_7591.json",
+        "negative_strings": [
+            "DispatchToProps",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "\u2581onData",
+            "XmlAccessorType",
+            "\u2581cellpadding",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "expandindo",
+            "########.",
+            "\u2581AssemblyCompany"
+        ],
+        "positive_strings": [
+            "grown",
+            "opathic",
+            "opathy",
+            "\u2581sweet",
+            "brew",
+            "towns",
+            "ownership",
+            "opath",
+            "\u2581sapiens",
+            "\u2581Sweet"
+        ],
+        "description": " references to home or domesticity"
+    }
+]

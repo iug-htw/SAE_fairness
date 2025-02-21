@@ -1,0 +1,30 @@
+{
+    "index": "10323",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a jew/data_for_feature_10323.json",
+    "negative_strings": [
+        "verity",
+        "ozem",
+        "ustil",
+        "znam",
+        " Lal",
+        " valign",
+        "\u00d9\u0127\u00d9\u012a\u00d9\u0126",
+        "\\xaa",
+        ".epam",
+        "UseProgram"
+    ],
+    "positive_strings": [
+        "el",
+        "els",
+        "EL",
+        "ell",
+        "elt",
+        "elle",
+        "eli",
+        "elf",
+        "elp",
+        "eln"
+    ],
+    "description": " words and phrases related to marine activities and snorkelling experiences"
+}

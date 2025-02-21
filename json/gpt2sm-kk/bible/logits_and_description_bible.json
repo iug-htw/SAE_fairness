@@ -1,0 +1,332 @@
+[
+    {
+        "index": "7980",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_7980.json",
+        "negative_strings": [
+            " Vietnamese",
+            "Tai",
+            " Taiwan",
+            "Ton",
+            " Burma",
+            " Taiwanese",
+            " Nguyen",
+            " Cheng",
+            " Laos",
+            " #####"
+        ],
+        "positive_strings": [
+            " Genesis",
+            " Rabb",
+            " Cain",
+            " hatch",
+            " Exodus",
+            " Flood",
+            " Lilith",
+            " Noah",
+            " Canaan",
+            "rodu"
+        ],
+        "description": "references to the Bible and its interpretations, especially regarding Genesis"
+    },
+    {
+        "index": "40310",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_40310.json",
+        "negative_strings": [
+            " proportional",
+            " Pwr",
+            "pless",
+            "zilla",
+            "gain",
+            "oner",
+            "igue",
+            "holm",
+            " racer",
+            "ptoms"
+        ],
+        "positive_strings": [
+            " rewritten",
+            " scriptures",
+            " scripture",
+            " teachings",
+            " texts",
+            " writings",
+            " encoded",
+            " written",
+            " orally",
+            " verse"
+        ],
+        "description": "references to the Bible and its perceived authority in a religious context"
+    },
+    {
+        "index": "7338",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_7338.json",
+        "negative_strings": [
+            "AMI",
+            "netflix",
+            "pid",
+            "76561",
+            "ierrez",
+            " runway",
+            "earable",
+            "LAN",
+            "ickr",
+            "naire"
+        ],
+        "positive_strings": [
+            " Bible",
+            " Biblical",
+            " Hebrew",
+            " scripture",
+            " Scripture",
+            " biblical",
+            " verse",
+            " verses",
+            " Scriptures",
+            " Verse"
+        ],
+        "description": "references to the Bible and discussions about its authority"
+    },
+    {
+        "index": "14497",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_14497.json",
+        "negative_strings": [
+            " STA",
+            "acebook",
+            "netflix",
+            "ervation",
+            " defect",
+            " Lenovo",
+            " Nguyen",
+            "apesh",
+            " trough",
+            "ifice"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            "Writer",
+            "Quotes",
+            "venth",
+            "infeld",
+            " Crusade",
+            " introduces",
+            "RIPT",
+            "Recipe",
+            "Preview"
+        ],
+        "description": "references and citations from religious texts, particularly the Bible"
+    },
+    {
+        "index": "18585",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_18585.json",
+        "negative_strings": [
+            "poke",
+            "govtrack",
+            "ulia",
+            "ateral",
+            "racuse",
+            " Customers",
+            "bryce",
+            "emouth",
+            " Cherry",
+            "ragon"
+        ],
+        "positive_strings": [
+            " canon",
+            " patriarch",
+            " Abraham",
+            " laureate",
+            " Declaration",
+            " 1973",
+            " divorce",
+            " Lutheran",
+            " 1933",
+            " prophet"
+        ],
+        "description": " references to the Bible and its teachings"
+    },
+    {
+        "index": "8091",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_8091.json",
+        "negative_strings": [
+            "orbit",
+            "jri",
+            "pees",
+            "pocket",
+            "ctic",
+            "route",
+            "cil",
+            "paid",
+            "oresc",
+            "aido"
+        ],
+        "positive_strings": [
+            " Psal",
+            " Sanct",
+            " Biblical",
+            " Latter",
+            " prophets",
+            " Quran",
+            " Doctrine",
+            " Bible",
+            " Apocalypse",
+            " Savior"
+        ],
+        "description": "phrases related to Bible study, preaching, belief, and conservative Christian values"
+    },
+    {
+        "index": "13997",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_13997.json",
+        "negative_strings": [
+            "olulu",
+            "arnaev",
+            "nesota",
+            "*/(",
+            "ramid",
+            "\"]=>",
+            "aunder",
+            "ALTH",
+            "pmwiki",
+            "ulton"
+        ],
+        "positive_strings": [
+            " patriarch",
+            " tracts",
+            " pars",
+            " emoji",
+            "ModLoader",
+            " tract",
+            "hovah",
+            " evangel",
+            " eleph",
+            " Chaser"
+        ],
+        "description": "references to and discussions about religious texts and interpretations, particularly focused on the Bible"
+    },
+    {
+        "index": "6915",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_6915.json",
+        "negative_strings": [
+            "udeau",
+            "idency",
+            "ccording",
+            " unnecess",
+            "olulu",
+            "thens",
+            "enei",
+            "uters",
+            "unal",
+            "Interstitial"
+        ],
+        "positive_strings": [
+            "geist",
+            " Chaser",
+            "buster",
+            "keeper",
+            "lords",
+            "fuck",
+            "sworth",
+            "enstein",
+            "lings",
+            "stone"
+        ],
+        "description": "phrases related to religious teachings, specifically regarding the Bible and divine messages"
+    },
+    {
+        "index": "19059",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_19059.json",
+        "negative_strings": [
+            "ntil",
+            "eport",
+            "olls",
+            "olulu",
+            "berman",
+            "emetery",
+            "ramid",
+            "rals",
+            "guyen",
+            "igree"
+        ],
+        "positive_strings": [
+            "forth",
+            "\u30ac",
+            "TextColor",
+            "\u30de",
+            " attRot",
+            "\u30e2",
+            "poke",
+            "worms",
+            "\u30d8",
+            " Mania"
+        ],
+        "description": "Bible verses references"
+    },
+    {
+        "index": "11930",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_11930.json",
+        "negative_strings": [
+            " Tracker",
+            " sensors",
+            " hangar",
+            "rawler",
+            " spikes",
+            " crunch",
+            " lined",
+            " snag",
+            " slick",
+            " bounce"
+        ],
+        "positive_strings": [
+            " Bah\u00e1",
+            " Hebrew",
+            " Psal",
+            " Scripture",
+            " theolog",
+            "20439",
+            " teachings",
+            " scholars",
+            "inus",
+            "hovah"
+        ],
+        "description": "words related to Christian faith and the Bible"
+    },
+    {
+        "index": "5117",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/bible/data_for_feature_5117.json",
+        "negative_strings": [
+            "illions",
+            "xit",
+            "livion",
+            " ga",
+            " delegates",
+            "ront",
+            " poisoned",
+            "odan",
+            "rontal",
+            "pload"
+        ],
+        "positive_strings": [
+            "taboola",
+            "\u25ac\u25ac",
+            "PLA",
+            "\u00af\u00af\u00af\u00af\u00af\u00af\u00af\u00af",
+            " DOE",
+            "Manufact",
+            " guiName",
+            " Retail",
+            " Outs",
+            " Tinker"
+        ],
+        "description": "words related to overcoming mental illnesses with Bible study and prayer"
+    }
+]

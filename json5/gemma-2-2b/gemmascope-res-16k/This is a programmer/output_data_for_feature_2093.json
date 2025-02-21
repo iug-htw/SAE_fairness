@@ -1,0 +1,30 @@
+{
+    "index": "2093",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a programmer/data_for_feature_2093.json",
+    "negative_strings": [
+        "astify",
+        "EDEFAULT",
+        "DeleteBehavior",
+        "shadowRadius",
+        "\u2581BorderRadius",
+        "MockBean",
+        "cete",
+        "WriteBarrier",
+        "},[])",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627"
+    ],
+    "positive_strings": [
+        "matically",
+        "mability",
+        "mable",
+        "matic",
+        "matical",
+        "mme",
+        "\u2581immobilier",
+        "mazione",
+        "med",
+        "mers"
+    ],
+    "description": "references to programs or programming concepts"
+}

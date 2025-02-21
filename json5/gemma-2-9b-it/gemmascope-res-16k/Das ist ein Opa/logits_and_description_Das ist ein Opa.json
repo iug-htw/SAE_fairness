@@ -1,0 +1,422 @@
+[
+    {
+        "index": "8179",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_8179.json",
+        "negative_strings": [
+            "\ue8b5",
+            "RUnlock",
+            "erol",
+            "tabular",
+            "setCellValue",
+            "(\"}\\",
+            "\u2581\u0646\u0641\u0633",
+            "/***/",
+            "skechers",
+            "er"
+        ],
+        "positive_strings": [
+            "\u2581Op",
+            "\u2581op",
+            "Op",
+            "\u2581Oppen",
+            "\u2581OP",
+            "httphttps",
+            "\u2581Winfrey",
+            "op",
+            "\u2581fieldNum",
+            "\u2581setOpen"
+        ],
+        "description": "references to optical technologies"
+    },
+    {
+        "index": "3165",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_3165.json",
+        "negative_strings": [
+            "bootstrapcdn",
+            "\">//",
+            ":],",
+            "HtmlAttribute",
+            "tagHelperRunner",
+            "\u2581CreateTagHelper",
+            "\u015fim",
+            "chtest",
+            "mtrl",
+            "EDEFAULT"
+        ],
+        "positive_strings": [
+            "\u2581grandmother",
+            "\u2581grandfather",
+            "\u2581Grandmother",
+            "grandmother",
+            "\u2581grandparents",
+            "\u2581grandma",
+            "\u2581grandpa",
+            "Grandpa",
+            "grandfather",
+            "Grandma"
+        ],
+        "description": "terms related to grandparenthood and familial relationships"
+    },
+    {
+        "index": "1770",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_1770.json",
+        "negative_strings": [
+            "hasMoreElements",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "AnchorTagHelper",
+            "\u2581Dur\u00e9e",
+            "\u2581Jur\u00ed",
+            "\u2581asti",
+            "\u2581ujednoznacz",
+            "ItemClick",
+            "fstream",
+            "\u2581\u044d\u0442\u0430\u0436"
+        ],
+        "positive_strings": [
+            ":\u2728",
+            "\u2581Pa",
+            "Pa",
+            "\u2581PA",
+            "\u2581Pab",
+            "Pab",
+            "PA",
+            "Pav",
+            "Paw",
+            "\u2581Pav"
+        ],
+        "description": "references to \"PA\" or \"parental involvement\" in various contexts"
+    },
+    {
+        "index": "953",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_953.json",
+        "negative_strings": [
+            "\u2581agar",
+            "cesis",
+            "\u2581prov",
+            "Agar",
+            "IntoConstraints",
+            "bufio",
+            "\u2581XB",
+            "\u2581Agar",
+            "iod\u00eda",
+            "XB"
+        ],
+        "positive_strings": [
+            "\u2581grandmother",
+            "\u2581grandparents",
+            "\u2581grandfather",
+            "\u2581grandma",
+            "\u2581grandpa",
+            "\u2581Grandmother",
+            "\u2581Grandma",
+            "\u2581Grandfather",
+            "\u2581Grandpa",
+            "grandmother"
+        ],
+        "description": "references to family relations and lineage"
+    },
+    {
+        "index": "6607",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_6607.json",
+        "negative_strings": [
+            "\u306a\u3044",
+            "nya",
+            "\u2581s\u0103u",
+            "li\u015bmy",
+            "les",
+            "link",
+            "long",
+            "l",
+            "ng",
+            "less"
+        ],
+        "positive_strings": [
+            "\u0627",
+            "a",
+            "aaaa",
+            "\u0627\u0627",
+            "aaa",
+            "\u0627\u0627\u0627\u0627",
+            "e",
+            "\u3041",
+            "aaaaaaaa",
+            "aaaaaa"
+        ],
+        "description": "specific scientific terms and proper nouns related to research and data"
+    },
+    {
+        "index": "12048",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_12048.json",
+        "negative_strings": [
+            "Revenir",
+            "\u2581betrekking",
+            "SequentialGroup",
+            "\u2581a\u00e9ri",
+            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+            "findpost",
+            "\">//",
+            "\u2581gehouden",
+            "\u2581erzeugt",
+            "\u2581dipende"
+        ],
+        "positive_strings": [
+            "\u2581grandfather",
+            "\u2581grandparents",
+            "\u2581grandmother",
+            "\u2581grandpa",
+            "\u2581Grandpa",
+            "grandfather",
+            "\u2581uncle",
+            "Grandpa",
+            "\u2581Grandmother",
+            "grandmother"
+        ],
+        "description": "mentions and relationships pertaining to grandmothers and grandfathers"
+    },
+    {
+        "index": "6468",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_6468.json",
+        "negative_strings": [
+            "\u2581ExecuteAsync",
+            "\u2581MenuView",
+            "Diweddarwch",
+            "nungs",
+            "\u2581transfieras",
+            "\u2581nhung",
+            "\u2581Taktlose",
+            "rxjs",
+            "Translatef",
+            "leville"
+        ],
+        "positive_strings": [
+            "\u2581Father",
+            "Father",
+            "\u2581father",
+            "\u2581fathers",
+            "\u2581FATHER",
+            "\u2581figure",
+            "father",
+            "\u2581Fathers",
+            "\u2581p\u00e8res",
+            "Dad"
+        ],
+        "description": "references to father and familial relationships"
+    },
+    {
+        "index": "12925",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_12925.json",
+        "negative_strings": [
+            "\u0135",
+            "Leg\u0103turi",
+            "Seznam",
+            "\u2581\u0414\u0438\u0430",
+            "mybatisplus",
+            "\u2581Clue",
+            "qtd",
+            "\u03d6",
+            "\u2581Smy",
+            "igurumi"
+        ],
+        "positive_strings": [
+            "\u2581father",
+            "\u2581FATHER",
+            "\u2581mother",
+            "Father",
+            "\u2581Father",
+            "\u2581fathers",
+            "father",
+            "Mother",
+            "\u2581Mother",
+            "mother"
+        ],
+        "description": "references to parents and family relationships"
+    },
+    {
+        "index": "5324",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_5324.json",
+        "negative_strings": [
+            "\u540c\u5b66",
+            "\u2581otomatig",
+            "\u2581leid",
+            "experimental",
+            "\u2581angst",
+            "\u751f",
+            "\u2581ardour",
+            "\u540c\u5b78",
+            "\u2581Administrativna",
+            "gmx"
+        ],
+        "positive_strings": [
+            "\ud83d\udc75",
+            "\u2581Elderly",
+            "\u2581elderly",
+            "\ud83d\udc74",
+            "\u2581retired",
+            "\u2581ancianos",
+            "\u2581grandfather",
+            "\u2581grandmother",
+            "\u2581Grandmother",
+            "\u2581Grandfather"
+        ],
+        "description": " names of characters and their relationships, particularly focusing on family members"
+    },
+    {
+        "index": "14080",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_14080.json",
+        "negative_strings": [
+            "\u2581ivelany",
+            "\u2581AssemblyTitle",
+            "\u2581Administrativna",
+            "\u2581linkovi",
+            "\u2581snippetHide",
+            "\ub054",
+            "\u2581NgModule",
+            "\u2581einzu",
+            "CodeAnalysis",
+            "\u2581propOrder"
+        ],
+        "positive_strings": [
+            "\u2581fashioned",
+            "fashioned",
+            "Old",
+            "\u2581OLD",
+            "school",
+            "\u2581Old",
+            "\u2581old",
+            "\u65e7",
+            "\u2581skool",
+            "\u2581vieille"
+        ],
+        "description": " references to the word \"old\" and its variations in different contexts"
+    },
+    {
+        "index": "8406",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_8406.json",
+        "negative_strings": [
+            "OGND",
+            "\u2581MainAxisSize",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "\u2581propOrder",
+            "rungsseite",
+            "DockStyle",
+            "\u2581ujednoznacz",
+            "i\u017fchen",
+            "\u2581Administrativna",
+            "\u062a\u0642\u0627\u0648\u0649"
+        ],
+        "positive_strings": [
+            "\u2581in",
+            "\u2581des",
+            ",",
+            "\u2581a",
+            "\u2581(",
+            "\u2581",
+            "\u2581an",
+            "re",
+            "um",
+            "\u2581of"
+        ],
+        "description": "technical terms and operational details related to web functionality and programming"
+    },
+    {
+        "index": "622",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_622.json",
+        "negative_strings": [
+            "\u27af",
+            "ScopeManager",
+            "verwijspagina",
+            "racin",
+            "\u2581finition",
+            "\udb40\udc62",
+            "\u2581Audiodateien",
+            "\u0938\u0928\u0940\u092f",
+            "insley",
+            "\udb40\udc6e"
+        ],
+        "positive_strings": [
+            "tanleria",
+            "\u2581Apes",
+            "esModule",
+            "\u0012",
+            "Rhestr",
+            "ritsar",
+            "\u2581BaseActivity",
+            "esity",
+            "eridge",
+            "Ape"
+        ],
+        "description": "prominent names or identifiers, likely related to individuals or entities mentioned in the text"
+    },
+    {
+        "index": "12094",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_12094.json",
+        "negative_strings": [
+            "\u2581\u017fur",
+            "\u2581par\u00eds",
+            "\u2581u\u017f",
+            "\u2581u\u017fe",
+            "\u2581el\u00e9ct",
+            "\u2581CURLOPT",
+            "\u2581annen",
+            "\u2581per\u00fa",
+            "\u2581asisten",
+            "\u2581f\u00eds"
+        ],
+        "positive_strings": [
+            "\u2581madness",
+            "\u2581mania",
+            "\u2581shenanigans",
+            "geddon",
+            "\u2581vibes",
+            "\u2581frenzy",
+            "\u2581paranoia",
+            "\u2581daze",
+            "\u2581obsession",
+            "\u2581apocalypse"
+        ],
+        "description": "terms related to creative and cultural activities, particularly in arts and crafts, as well as issues of identity and social commentary"
+    },
+    {
+        "index": "14263",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Opa/data_for_feature_14263.json",
+        "negative_strings": [
+            "msgTypes",
+            "\u2581Administrativna",
+            "\u2581defaultstate",
+            "tagHelperRunner",
+            "\u2581ivelany",
+            "\u2581estekak",
+            "\u2581BoxFit",
+            "\u2581propOrder",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
+            "\u2581createState"
+        ],
+        "positive_strings": [
+            "\u2581elderly",
+            "\u2581aging",
+            "\u2581vieill",
+            "\u2581elder",
+            "\u2581older",
+            "Older",
+            "\u2581Older",
+            "\u2581aged",
+            "\u2581Senioren",
+            "\u2581envejec"
+        ],
+        "description": "references to older populations and their characteristics"
+    }
+]

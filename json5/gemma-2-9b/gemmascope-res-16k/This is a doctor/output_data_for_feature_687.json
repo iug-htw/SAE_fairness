@@ -1,0 +1,30 @@
+{
+    "index": "687",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a doctor/data_for_feature_687.json",
+    "negative_strings": [
+        "rou",
+        "\u2581plain",
+        "\u2581Non",
+        "\u2581non",
+        "ret",
+        "non",
+        "''')",
+        "tund",
+        "Non",
+        "downe"
+    ],
+    "positive_strings": [
+        "\u2581Dr",
+        "Dr",
+        "\u2581Drs",
+        "Doctor",
+        "\u2581DOCTOR",
+        "\u2581docteur",
+        "\u2581Doctor",
+        "\u2581Docteur",
+        "\u2581dr",
+        "\u2581Seuss"
+    ],
+    "description": "references to doctors and their titles"
+}

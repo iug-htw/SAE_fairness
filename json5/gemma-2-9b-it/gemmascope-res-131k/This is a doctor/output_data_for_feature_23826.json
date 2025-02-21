@@ -1,0 +1,30 @@
+{
+    "index": "23826",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a doctor/data_for_feature_23826.json",
+    "negative_strings": [
+        "\u7629",
+        "\u2581ujednoznacz",
+        "atouille",
+        "TagMode",
+        "\u539f\u59cb\u5185\u5bb9\u5b58\u6863\u4e8e",
+        "\u2581wild",
+        "\u2581postIndex",
+        "\u041f\u043e\u0440\u0442\u0430\u043b",
+        "ogia",
+        "\u6e09"
+    ],
+    "positive_strings": [
+        "\u2581prescribe",
+        "\u2581prescribing",
+        "\u2581prescribes",
+        "\u2581offices",
+        "\u2581physician",
+        "\u2581doctor",
+        "\u2581prescri",
+        "\u2581dokter",
+        "\u2581Drs",
+        "\u2581recommended"
+    ],
+    "description": " references to doctors and medical professionals"
+}

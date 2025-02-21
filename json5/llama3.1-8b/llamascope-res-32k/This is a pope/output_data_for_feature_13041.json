@@ -1,0 +1,30 @@
+{
+    "index": "13041",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a pope/data_for_feature_13041.json",
+    "negative_strings": [
+        " Chattanooga",
+        " Guth",
+        " Uint",
+        "\u00e3\u0125\u012d\u00e3\u0125\u0125\u00e3\u0124\u00af",
+        " Northwest",
+        "NW",
+        "OU",
+        " Mineral",
+        "\u00c3\u00a9r\u00c3\u00a9",
+        "ederland"
+    ],
+    "positive_strings": [
+        " pap",
+        " Pope",
+        " pope",
+        " Vatican",
+        " Cardinals",
+        " Cardinal",
+        " Pap",
+        " pont",
+        " Benedict",
+        " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf"
+    ],
+    "description": " references to exorcisms and their historical context"
+}

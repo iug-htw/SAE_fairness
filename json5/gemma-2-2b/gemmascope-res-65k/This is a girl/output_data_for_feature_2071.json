@@ -1,0 +1,30 @@
+{
+    "index": "2071",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a girl/data_for_feature_2071.json",
+    "negative_strings": [
+        "yntaxException",
+        "$\")",
+        "\"=>\"",
+        "\u00b4)",
+        "\"';",
+        "()\")",
+        ")\");\r",
+        "://\"",
+        "\u201d\u060c",
+        "%\""
+    ],
+    "positive_strings": [
+        "\u2581girls",
+        "\u2581Girls",
+        "Girls",
+        "\u2581GIRLS",
+        "\u2581girl",
+        "girls",
+        "\u2581Girl",
+        "girl",
+        "\u2581GIRL",
+        "Girl"
+    ],
+    "description": "references to girls or female characters"
+}

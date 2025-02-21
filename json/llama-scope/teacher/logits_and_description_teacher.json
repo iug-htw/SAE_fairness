@@ -1,0 +1,602 @@
+[
+    {
+        "index": "62347",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_62347.json",
+        "negative_strings": [
+            "neau",
+            "uplic",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0137",
+            "umper",
+            "\u00e6\u0137\u013b\u00e6\u0130\u012a",
+            "rus",
+            "rosso",
+            "annel",
+            "oit",
+            "yna"
+        ],
+        "positive_strings": [
+            " preparation",
+            " Preparation",
+            " quality",
+            " prep",
+            "preneur",
+            "prene",
+            " prepar",
+            " professional",
+            " development",
+            " effectiveness"
+        ],
+        "description": " terms related to teacher training and education"
+    },
+    {
+        "index": "21998",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_21998.json",
+        "negative_strings": [
+            "Students",
+            " students",
+            " Dorm",
+            "students",
+            ".student",
+            " \u00c3\u00b6\u00c4\u0141renc",
+            "amacare",
+            " Students",
+            "\u00e5\u0143\u00a6\u00e7\u0136\u0141",
+            "i\u00c3\u00a8re"
+        ],
+        "positive_strings": [
+            " licens",
+            " PK",
+            " Teacher",
+            " Initial",
+            " endorsement",
+            " teacher",
+            "/lic",
+            " endorsements",
+            " pres",
+            " K"
+        ],
+        "description": " terms related to teacher education programs and their structure"
+    },
+    {
+        "index": "65524",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_65524.json",
+        "negative_strings": [
+            "rve",
+            "nett",
+            " OnTrigger",
+            "enthal",
+            "faculty",
+            "\u00d0\u00b4\u00d1\u0122\u00d0\u00be\u00d0\u00bc",
+            "ToPoint",
+            "_INTERFACE",
+            "NavItem",
+            "\u00c3\u0136NG"
+        ],
+        "positive_strings": [
+            " endorsements",
+            " endorsement",
+            " content",
+            " licens",
+            " Content",
+            " PK",
+            " endors",
+            " license",
+            " Early",
+            " Reading"
+        ],
+        "description": " educational qualifications and roles related to literacy and teacher training"
+    },
+    {
+        "index": "39235",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_39235.json",
+        "negative_strings": [
+            "lint",
+            "esModule",
+            "ea",
+            " Parker",
+            " aktu",
+            "e\u00c3\u00a7",
+            "\u00e3\u0125\u00a3",
+            "l\u00c3\u00a1da",
+            " poh",
+            "ebb"
+        ],
+        "positive_strings": [
+            "udas",
+            "anteed",
+            "antee",
+            "antor",
+            "ush",
+            "udev",
+            "umo",
+            "ung",
+            "v",
+            "ug"
+        ],
+        "description": "terms related to spiritual leaders or teachers, specifically in a South Asian context"
+    },
+    {
+        "index": "56045",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_56045.json",
+        "negative_strings": [
+            "structors",
+            " teachings",
+            " Teach",
+            "\u00e6\u0137\u013b",
+            " teaching",
+            " teach",
+            "neau",
+            "xo",
+            "\u00e6\u0137\u013b\u00e6\u0130\u012a",
+            " ense"
+        ],
+        "positive_strings": [
+            " preparation",
+            " Preparation",
+            " PD",
+            " development",
+            "\u00ed\u013c\u00a8",
+            " Tube",
+            " Cad",
+            " quality",
+            "prene",
+            " pipeline"
+        ],
+        "description": " terms and phrases related to teachers and education"
+    },
+    {
+        "index": "7483",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_7483.json",
+        "negative_strings": [
+            "nett",
+            "ugi",
+            "\u00c4\u0125n",
+            "ochastic",
+            "ToPoint",
+            "iaux",
+            " tut",
+            "uiten",
+            "czy",
+            " stick"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " teacher",
+            " licens",
+            " pres",
+            "teacher",
+            "Teacher",
+            " districts",
+            " preserve",
+            " ped",
+            " PK"
+        ],
+        "description": "key components of teacher education programs and their structure"
+    },
+    {
+        "index": "13724",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_13724.json",
+        "negative_strings": [
+            " Mohamed",
+            "\u00d0\u00b0\u00d1\u0122\u00d1\u0124\u00d0\u00b0\u00d0\u00bc",
+            "bib",
+            "hol",
+            " baptized",
+            "idon",
+            "\u00c3\u00a9ric",
+            "abcdefghijkl",
+            "ellen",
+            " hol"
+        ],
+        "positive_strings": [
+            " Han",
+            "Han",
+            " jur",
+            "Transmission",
+            " fi",
+            " transmitted",
+            "Fi",
+            " transmitting",
+            " Transmission",
+            " transmissions"
+        ],
+        "description": " references to teachers or educational experiences"
+    },
+    {
+        "index": "3038",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_3038.json",
+        "negative_strings": [
+            "sx",
+            "acus",
+            "acket",
+            "zza",
+            "\u00e5\u00bc\u013a",
+            "cimal",
+            "\u00e1\u00bb\u00a9c",
+            "affle",
+            " Bis",
+            "pany"
+        ],
+        "positive_strings": [
+            " teacher",
+            " teaching",
+            " Teacher",
+            " Teaching",
+            " Teach",
+            "teacher",
+            "Teacher",
+            " educator",
+            " licens",
+            " teachers"
+        ],
+        "description": " references to education and teacher qualifications"
+    },
+    {
+        "index": "28489",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_28489.json",
+        "negative_strings": [
+            "IRT",
+            "unicorn",
+            " Barcl",
+            "\u00e7\u00a9\u012f",
+            "trainer",
+            "ouz",
+            "ouro",
+            "\u00e8\u00b3\u00a2",
+            " \u00d1\u0123\u00d0\u00ba\u00d0\u00b0\u00d0\u00b7",
+            " \u00d9\u012a\u00d8\u00a7\u00d9\u0126\u00d8\u00af"
+        ],
+        "positive_strings": [
+            " charges",
+            " charge",
+            " Charges",
+            " prote",
+            " Charge",
+            " prot",
+            "charges",
+            " wards",
+            "charge",
+            "Charge"
+        ],
+        "description": " references to mentorship and teacher-student relationships"
+    },
+    {
+        "index": "1344",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_1344.json",
+        "negative_strings": [
+            "@student",
+            " Universities",
+            "\u00e5\u00a4\u00a7\u00e5\u0143\u00b8",
+            " universities",
+            "\u00e5\u00a4\u00a7\u00e5\u0143\u00a6",
+            " Colleges",
+            "College",
+            " Scholar",
+            " undergrad",
+            " colleges"
+        ],
+        "positive_strings": [
+            " principal",
+            " substitute",
+            " Principal",
+            "principal",
+            " Substitute",
+            " guidance",
+            " principals",
+            " Guidance",
+            " teacher",
+            "Principal"
+        ],
+        "description": " references to teachers and educational contexts"
+    },
+    {
+        "index": "11635",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_11635.json",
+        "negative_strings": [
+            "657",
+            "rve",
+            " \u00ce\u013e\u00ce\u00bf\u00ce\u00bd",
+            "\u00e0\u00b8\u013b\u00e0\u00b8\u00a7",
+            "\u00c3\u00bcs",
+            "itou",
+            "\u00e3\u0124\u00ab\u00e3\u0125\u00bc",
+            " stuck",
+            "\u00c3\u00a1zev",
+            " V\u00c4\u013d"
+        ],
+        "positive_strings": [
+            "arent",
+            "ARENT",
+            "TA",
+            "upil",
+            "ta",
+            "TO",
+            ".E",
+            "aren",
+            "ledge",
+            "SEO"
+        ],
+        "description": "references to parent-teacher associations and other educational organizations"
+    },
+    {
+        "index": "22159",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_22159.json",
+        "negative_strings": [
+            " Dorm",
+            " \u00c3\u013eniversitesi",
+            "\u00e5\u00a4\u00a7\u00e5\u0143\u00b8",
+            " Programm",
+            "cimal",
+            "ammer",
+            ".friends",
+            " Campus",
+            "University",
+            "\u00d8\u00a7\u00d8\u00ae"
+        ],
+        "positive_strings": [
+            " teacher",
+            " teachers",
+            " Teacher",
+            "teacher",
+            " Teachers",
+            " districts",
+            "Teacher",
+            " educator",
+            "teachers",
+            " Teach"
+        ],
+        "description": " references to teacher pay and related educational financial issues"
+    },
+    {
+        "index": "80872",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_80872.json",
+        "negative_strings": [
+            "acher",
+            "sed",
+            "rella",
+            "alar",
+            "ers",
+            "pill",
+            "er",
+            "bjerg",
+            "exterity",
+            "\u00d1\u012d\u00d1\u012a"
+        ],
+        "positive_strings": [
+            " Nan",
+            " NAN",
+            " Gran",
+            " nan",
+            "ji",
+            " Gov",
+            " teg",
+            " Har",
+            " Ang",
+            " Gor"
+        ],
+        "description": "references to the concept of a guru or spiritual teacher"
+    },
+    {
+        "index": "86252",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_86252.json",
+        "negative_strings": [
+            "pac",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0126",
+            "leground",
+            "_PCI",
+            "iaux",
+            "chia",
+            ".kotlin",
+            "598",
+            "hoff",
+            "\u00c3\u00b4m"
+        ],
+        "positive_strings": [
+            " performance",
+            " evaluation",
+            " evaluations",
+            " eval",
+            " Performance",
+            " effectiveness",
+            " Evaluation",
+            " PERFORMANCE",
+            " bonuses",
+            " evaluator"
+        ],
+        "description": " terms related to educational policies and teacher performance evaluation"
+    },
+    {
+        "index": "16873",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_16873.json",
+        "negative_strings": [
+            "ugi",
+            " tuition",
+            "ugin",
+            "oppable",
+            "ogram",
+            " Homework",
+            "\u00e3\u0123\u00a1\u00e3\u0124\u0125\u00e3\u0124\u0135",
+            "obel",
+            " homework",
+            ".Automation"
+        ],
+        "positive_strings": [
+            " Teacher",
+            " teacher",
+            "teacher",
+            "Teacher",
+            " Teachers",
+            " licens",
+            " ped",
+            " Professional",
+            " PD",
+            "PD"
+        ],
+        "description": " terms related to teacher education and training programs"
+    },
+    {
+        "index": "99274",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_99274.json",
+        "negative_strings": [
+            "mega",
+            "tep",
+            "arity",
+            "xt",
+            "kommen",
+            "weg",
+            "-minded",
+            "ingly",
+            "agg",
+            "adir"
+        ],
+        "positive_strings": [
+            "preneur",
+            "/admin",
+            "ial",
+            "hips",
+            " aides",
+            "prene",
+            " unions",
+            "house",
+            " assistants",
+            "/co"
+        ],
+        "description": "references to teachers and their roles in education"
+    },
+    {
+        "index": "48682",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_48682.json",
+        "negative_strings": [
+            "structors",
+            "xo",
+            " teaching",
+            "structor",
+            "\u00e6\u0137\u013b",
+            " Pier",
+            " teachings",
+            " teaches",
+            " instructors",
+            "eller"
+        ],
+        "positive_strings": [
+            " preparation",
+            " Preparation",
+            " development",
+            " Tube",
+            "_PRINTF",
+            " prep",
+            " shortage",
+            " prepar",
+            " PD",
+            " Development"
+        ],
+        "description": " terms related to teachers and teaching roles"
+    },
+    {
+        "index": "25993",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/teacher/data_for_feature_25993.json",
+        "negative_strings": [
+            " Bis",
+            "arna",
+            "\u00e5\u0131",
+            "\u00d0\u00b5\u00d0\u00b3\u00d0\u00be\u00d1\u0122",
+            "cust",
+            "TypeEnum",
+            "\\Eloquent",
+            " Pier",
+            " Amen",
+            "thers"
+        ],
+        "positive_strings": [
+            " preparation",
+            " pres",
+            " Preparation",
+            " candidate",
+            " teacher",
+            " candidates",
+            " preserve",
+            " licens",
+            " Candidates",
+            " Candidate"
+        ],
+        "description": " references to educational roles and professional development for teachers"
+    },
+    {
+        "index": "8998",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_8998.json",
+        "negative_strings": [
+            " Czech",
+            " Yorkshire",
+            " Mongolia",
+            " Prague",
+            " Sask",
+            " Saskatchewan",
+            " Welsh",
+            " \u00c4\u012eech",
+            " Yii",
+            " Lahore"
+        ],
+        "positive_strings": [
+            " Florida",
+            "Florida",
+            " florida",
+            " Tampa",
+            " Flor",
+            " Fla",
+            " Miami",
+            " Saras",
+            " Orlando",
+            " Jacksonville"
+        ],
+        "description": " mentions of funding and educational programs related to teaching and teacher support"
+    },
+    {
+        "index": "29694",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/teacher/data_for_feature_29694.json",
+        "negative_strings": [
+            "/student",
+            " undergraduate",
+            " Graduate",
+            " voks",
+            " undergrad",
+            "illet",
+            " architekt",
+            " Scholar",
+            " scholarly",
+            "\u00d1\u012a\u00d0\u00ba\u00d0\u00b0"
+        ],
+        "positive_strings": [
+            " geography",
+            " History",
+            " history",
+            " biology",
+            " Geography",
+            " civ",
+            " Biology",
+            " science",
+            " physics",
+            "History"
+        ],
+        "description": " references to teachers, education, and teaching subjects"
+    }
+]

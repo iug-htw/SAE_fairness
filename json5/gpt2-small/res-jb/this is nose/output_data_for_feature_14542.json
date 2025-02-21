@@ -1,0 +1,30 @@
+{
+    "index": "14542",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_14542.json",
+    "negative_strings": [
+        "itals",
+        "\u00e3\u0124\u00aa",
+        "leaders",
+        "ucer",
+        "acles",
+        "other",
+        "edes",
+        "ob",
+        "olver",
+        "ational"
+    ],
+    "positive_strings": [
+        " tuning",
+        " tuned",
+        " Gael",
+        " dining",
+        " arts",
+        " print",
+        " tune",
+        "tun",
+        " Print",
+        " distinctions"
+    ],
+    "description": "words related to fine-tuning and precision"
+}

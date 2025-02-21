@@ -1,0 +1,30 @@
+{
+    "index": "47315",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a doctor/data_for_feature_47315.json",
+    "negative_strings": [
+        "IsContent",
+        "\u8e87",
+        "WebVitals",
+        "turnstile",
+        "\u2581Milky",
+        "zb\u0119d",
+        "Izvori",
+        "thenReturn",
+        "paravant",
+        "\u2581Settembre"
+    ],
+    "positive_strings": [
+        "Doctors",
+        "\u2581doc",
+        "\u2581doctors",
+        "\u2581Doctors",
+        "doctors",
+        "\u2581onOptions",
+        "\u2581DOCTOR",
+        "ing",
+        "@\\",
+        "\u2581martens"
+    ],
+    "description": "references to doctors and healthcare professionals"
+}

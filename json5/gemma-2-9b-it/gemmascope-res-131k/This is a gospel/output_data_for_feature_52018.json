@@ -1,0 +1,30 @@
+{
+    "index": "52018",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gospel/data_for_feature_52018.json",
+    "negative_strings": [
+        "parsedMessage",
+        "ast\u00e9ro",
+        "MemoryWarning",
+        "\u2581Hou\u017fe",
+        "\u2581C\u00e6sar",
+        "\u2581poffe",
+        "\u2581Majefty",
+        "\u2581Monfieur",
+        "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+        "\u2581Intere"
+    ],
+    "positive_strings": [
+        "\u2581religious",
+        "\u2581religiosos",
+        "\u2581religieuse",
+        "\u2581religi\u00f3n",
+        "\u2581church",
+        "\u2581religieux",
+        "\u2581churches",
+        "\u2581religion",
+        "religious",
+        "\u2581religione"
+    ],
+    "description": "references to religion and religious institutions"
+}

@@ -1,0 +1,272 @@
+[
+    {
+        "index": "25647",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_25647.json",
+        "negative_strings": [
+            "tures",
+            "een",
+            "eer",
+            "ees",
+            "ted",
+            "ture",
+            "oader",
+            "ean",
+            "e",
+            "tl"
+        ],
+        "positive_strings": [
+            "ny",
+            "ntag",
+            "nets",
+            "nen",
+            "net",
+            "orous",
+            "oma",
+            "der",
+            "ora",
+            "oran"
+        ],
+        "description": "references to the term \"Son.\""
+    },
+    {
+        "index": "24002",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_24002.json",
+        "negative_strings": [
+            "tures",
+            "een",
+            "ees",
+            "eer",
+            "tings",
+            "ture",
+            "resse",
+            "\u00c3\u00a9ment",
+            "lett",
+            "ean"
+        ],
+        "positive_strings": [
+            "ny",
+            "orous",
+            "nets",
+            "nen",
+            "net",
+            "der",
+            "ntag",
+            "ething",
+            "oran",
+            "oma"
+        ],
+        "description": " references to the word \"Son\" along with its variations and contexts"
+    },
+    {
+        "index": "8820",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_8820.json",
+        "negative_strings": [
+            "tures",
+            "eer",
+            "resse",
+            "een",
+            "ees",
+            "tl",
+            "otland",
+            "onium",
+            "tings",
+            "ture"
+        ],
+        "positive_strings": [
+            "ny",
+            "orous",
+            "nen",
+            "ntag",
+            "nets",
+            "der",
+            "ething",
+            "net",
+            " Goku",
+            "oran"
+        ],
+        "description": "references to the word \"Son\" and its variations in context"
+    },
+    {
+        "index": "17848",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_17848.json",
+        "negative_strings": [
+            "tures",
+            "resse",
+            "ees",
+            "tl",
+            "alls",
+            " Noon",
+            "TURE",
+            "coon",
+            " Norm",
+            "uries"
+        ],
+        "positive_strings": [
+            "orous",
+            "ny",
+            "ntag",
+            "ething",
+            "nen",
+            "oma",
+            "nets",
+            "der",
+            "atform",
+            "net"
+        ],
+        "description": " occurrences of the word \"Son\", particularly in various forms and contexts"
+    },
+    {
+        "index": "20235",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_20235.json",
+        "negative_strings": [
+            "tures",
+            "resse",
+            "tl",
+            "imson",
+            "alls",
+            "ees",
+            "uries",
+            " Noon",
+            "ture",
+            "IZER"
+        ],
+        "positive_strings": [
+            "orous",
+            "ny",
+            "ntag",
+            "oma",
+            "ething",
+            "shine",
+            "nen",
+            "ship",
+            "atform",
+            "der"
+        ],
+        "description": "references to \"Son\" in various contexts"
+    },
+    {
+        "index": "24167",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_24167.json",
+        "negative_strings": [
+            "st\u00c5\u013b\u00c3\u0143",
+            "coon",
+            "incinn",
+            ".EventQueue",
+            "tl",
+            "sst",
+            "\u00d0\u00b5\u00d0\u00bc\u00d0\u00be",
+            "UNIX",
+            "\u00e0\u00b8\u0136\u00e0\u00b8\u0129",
+            "_utilities"
+        ],
+        "positive_strings": [
+            "orous",
+            "ntag",
+            "ny",
+            "ething",
+            "oma",
+            "net",
+            "mez",
+            "nets",
+            "ar",
+            "Maker"
+        ],
+        "description": " variations of the word \"son\" in different contexts"
+    },
+    {
+        "index": "25926",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_25926.json",
+        "negative_strings": [
+            "coon",
+            ".EventQueue",
+            "incinn",
+            "OwnProperty",
+            "tl",
+            "UNIX",
+            "quat",
+            "lica",
+            "landers",
+            "ItemCount"
+        ],
+        "positive_strings": [
+            "orous",
+            "ntag",
+            "ething",
+            "ny",
+            "thern",
+            "oma",
+            "mez",
+            "net",
+            "shine",
+            "nets"
+        ],
+        "description": " instances of the word \"Son\" and its various forms in different contexts"
+    },
+    {
+        "index": "13061",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_13061.json",
+        "negative_strings": [
+            " itself",
+            "uisse",
+            " individuals",
+            "ynch",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012a",
+            " yourselves",
+            "plode",
+            "/uploads",
+            "benh",
+            " ourselves"
+        ],
+        "positive_strings": [
+            "-in",
+            "'s",
+            " whom",
+            " who",
+            "\u2019s",
+            "-to",
+            "hood",
+            "/gr",
+            "-da",
+            "-figure"
+        ],
+        "description": " references to familial relationships and dynamics"
+    },
+    {
+        "index": "10304",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a son/data_for_feature_10304.json",
+        "negative_strings": [
+            "rubu",
+            "yalty",
+            "racat",
+            "IENCE",
+            "couz",
+            "tvrt",
+            "ATORY",
+            "HasBeen",
+            "isContained",
+            "OfSize"
+        ],
+        "positive_strings": [
+            "\u00c2\u0143ing",
+            "\u00c2\u0143",
+            "\u2019s",
+            " \u201c",
+            " \u2018",
+            " is",
+            "\u00c2\u0143s",
+            " has",
+            "\u00c2\u0143t",
+            "\u00c2\u0143i"
+        ],
+        "description": " capitalized terms and names"
+    }
+]

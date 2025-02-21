@@ -1,0 +1,30 @@
+{
+    "index": "15963",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a receptionist/data_for_feature_15963.json",
+    "negative_strings": [
+        "MethodManager",
+        "\u2581hydrauli",
+        "BufferException",
+        "wpi",
+        "NgModule",
+        "ymas",
+        "uilla",
+        "MessageDigest",
+        "\u2581CommonModule",
+        "\u2581jaundice"
+    ],
+    "positive_strings": [
+        "\u2581position",
+        "\u2581positions",
+        "\u2581Position",
+        "position",
+        "\u2581Positions",
+        "\u2581POSITION",
+        "Position",
+        "positions",
+        "Positions",
+        "\u2581posisi"
+    ],
+    "description": "references to legal roles, positions, and their associated responsibilities"
+}

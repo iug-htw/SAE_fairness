@@ -1,0 +1,30 @@
+{
+    "index": "11059",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a doctor/data_for_feature_11059.json",
+    "negative_strings": [
+        "ti",
+        "\u00e6\u00a2",
+        "rog",
+        "\u00c3\u00a9ro",
+        "ties",
+        "enser",
+        "tas",
+        "geber",
+        "ichten",
+        "gers"
+    ],
+    "positive_strings": [
+        "/engine",
+        "ial",
+        "ate",
+        "/ph",
+        " prescribing",
+        " treating",
+        "/providers",
+        "\u00e4\u00bf\u012c",
+        "/sc",
+        " assistants"
+    ],
+    "description": "references to positions and roles within the medical field"
+}

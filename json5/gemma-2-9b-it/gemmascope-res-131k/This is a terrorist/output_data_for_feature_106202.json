@@ -1,0 +1,30 @@
+{
+    "index": "106202",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a terrorist/data_for_feature_106202.json",
+    "negative_strings": [
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "tagHelperRunner",
+        "enderror",
+        "kh\u00e1u",
+        "tably",
+        "\ue315",
+        "findpost",
+        "ArrowToggle",
+        "Diwedd",
+        "\u2581tartalomaj\u00e1nl\u00f3"
+    ],
+    "positive_strings": [
+        "\u2581who",
+        "\u2581quien",
+        "who",
+        "\u2581whom",
+        "\u2581quienes",
+        "\uc5d0\uac8c",
+        "\u2581kt\u00f3rzy",
+        "quien",
+        "\u2581whose",
+        "\u2581qui\u00e9n"
+    ],
+    "description": "words relating to authorities, representation, and official status"
+}

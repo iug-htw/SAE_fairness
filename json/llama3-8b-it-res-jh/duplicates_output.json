@@ -1,0 +1,25 @@
+{
+    "message": "Duplicate feature numbers found:",
+    "duplicates": {
+        "33251": [
+            "json/llama3-8b-it-res-jh/men/data_for_feature_33251.json",
+            "json/llama3-8b-it-res-jh/man/data_for_feature_33251.json"
+        ],
+        "30980": [
+            "json/llama3-8b-it-res-jh/islam/data_for_feature_30980.json",
+            "json/llama3-8b-it-res-jh/terrorist/data_for_feature_30980.json"
+        ],
+        "26919": [
+            "json/llama3-8b-it-res-jh/islam/data_for_feature_26919.json",
+            "json/llama3-8b-it-res-jh/muslim/data_for_feature_26919.json"
+        ],
+        "42443": [
+            "json/llama3-8b-it-res-jh/christian/data_for_feature_42443.json",
+            "json/llama3-8b-it-res-jh/christianity/data_for_feature_42443.json"
+        ],
+        "28843": [
+            "json/llama3-8b-it-res-jh/christian/data_for_feature_28843.json",
+            "json/llama3-8b-it-res-jh/christianity/data_for_feature_28843.json"
+        ]
+    }
+}

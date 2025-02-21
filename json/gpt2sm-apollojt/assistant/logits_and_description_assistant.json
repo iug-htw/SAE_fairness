@@ -1,0 +1,602 @@
+[
+    {
+        "index": "36337",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_36337.json",
+        "negative_strings": [
+            "abiding",
+            "ibal",
+            "isky",
+            "stakes",
+            "naires",
+            "agram",
+            "Winged",
+            "amphetamine",
+            "artifacts",
+            "naire"
+        ],
+        "positive_strings": [
+            " professor",
+            " director",
+            " secretary",
+            " principal",
+            " superintendent",
+            " dean",
+            " manager",
+            " editor",
+            " curator",
+            " vice"
+        ],
+        "description": " references to individuals in assistant or supportive roles"
+    },
+    {
+        "index": "30854",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_30854.json",
+        "negative_strings": [
+            "ELD",
+            "aim",
+            "iple",
+            "aku",
+            "ilon",
+            "arten",
+            "alien",
+            "mitter",
+            "file",
+            "ND"
+        ],
+        "positive_strings": [
+            "acular",
+            " anything",
+            " outright",
+            " necessarily",
+            "lihood",
+            " possibly",
+            " Marketable",
+            " remotely",
+            " any",
+            " surpass"
+        ],
+        "description": "the word \"alone\" used in phrases to emphasize a lack of support or assistance"
+    },
+    {
+        "index": "28188",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_28188.json",
+        "negative_strings": [
+            " Leilan",
+            "ysis",
+            " sidelines",
+            " Tet",
+            " unchanged",
+            " inver",
+            "clerosis",
+            " dissenting",
+            " branches",
+            " collisions"
+        ],
+        "positive_strings": [
+            " desired",
+            " crave",
+            " deserved",
+            " deserve",
+            " needed",
+            " sorely",
+            "need",
+            " hoped",
+            " dreamed",
+            " desire"
+        ],
+        "description": " phrases related to support and assistance needed by individuals or groups"
+    },
+    {
+        "index": "21428",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_21428.json",
+        "negative_strings": [
+            " Brun",
+            " Sie",
+            " Ou",
+            " humidity",
+            " Hole",
+            "ergy",
+            "gran",
+            " deaf",
+            " Hundred",
+            " Blanc"
+        ],
+        "positive_strings": [
+            "elfare",
+            " welfare",
+            " entitle",
+            " recipients",
+            "benefit",
+            " Welfare",
+            " reform",
+            "odynam",
+            "odynamics",
+            " programs"
+        ],
+        "description": " terms related to welfare and social assistance systems"
+    },
+    {
+        "index": "41557",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_41557.json",
+        "negative_strings": [
+            "etsk",
+            "ngth",
+            "ellen",
+            "raine",
+            "cair",
+            "\u00a3\u0131",
+            "odon",
+            "nels",
+            "ordan",
+            "enko"
+        ],
+        "positive_strings": [
+            "\u00e3\u0125\u0135",
+            " Haku",
+            "Alice",
+            "\u00e5\u0127",
+            "Arcade",
+            "ikuman",
+            "\u00e3\u0124\u00bb",
+            "\u00e3\u0125\u0129\u00e3\u0124\u00a3",
+            "Collect",
+            "Nature"
+        ],
+        "description": " phrases related to assistance or aid"
+    },
+    {
+        "index": "39310",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_39310.json",
+        "negative_strings": [
+            "ances",
+            "atio",
+            "\u00e3\u0124\u00ae",
+            "\u0125",
+            "tale",
+            "azaki",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
+            " redund",
+            "Crime",
+            "\u0123"
+        ],
+        "positive_strings": [
+            "wcs",
+            " coma",
+            " decomp",
+            "getic",
+            "apist",
+            "heid",
+            "spection",
+            "etry",
+            "esis",
+            " sickness"
+        ],
+        "description": " references to medical conditions or physical disabilities involving a loss of consciousness or mobility assistance"
+    },
+    {
+        "index": "3607",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_3607.json",
+        "negative_strings": [
+            " teasp",
+            "arious",
+            "quished",
+            "famous",
+            "ynes",
+            "liam",
+            "rities",
+            "fif",
+            "enery",
+            "oof"
+        ],
+        "positive_strings": [
+            " securing",
+            " obtaining",
+            " locating",
+            " preparing",
+            " improving",
+            " resolving",
+            " preparations",
+            " rebuilding",
+            " figuring",
+            " developing"
+        ],
+        "description": " phrases related to assistance and collaboration efforts"
+    },
+    {
+        "index": "38671",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_38671.json",
+        "negative_strings": [
+            "borg",
+            "mberg",
+            "mers",
+            "prototype",
+            "gaard",
+            "punk",
+            "bridge",
+            "\u00a9\u00b6\u00e6\u00a5\u00b5",
+            "ridges",
+            "opers"
+        ],
+        "positive_strings": [
+            "itism",
+            "ited",
+            "ably",
+            "IOR",
+            " favors",
+            "itage",
+            "itures",
+            " Fav",
+            " favored",
+            "abilia"
+        ],
+        "description": "references to receiving help or assistance from others"
+    },
+    {
+        "index": "10523",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_10523.json",
+        "negative_strings": [
+            "thur",
+            "jong",
+            "inction",
+            " Bom",
+            "eed",
+            "scar",
+            "buck",
+            "ophon",
+            "pora",
+            " Dare"
+        ],
+        "positive_strings": [
+            " helpful",
+            " guiActiveUn",
+            " aide",
+            " useful",
+            " tips",
+            " introdu",
+            " aids",
+            "glers",
+            " undermin",
+            "tip"
+        ],
+        "description": "helpful content or information"
+    },
+    {
+        "index": "40033",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_40033.json",
+        "negative_strings": [
+            "tein",
+            "quickShipAvailable",
+            "tera",
+            "soType",
+            " virginity",
+            " aloud",
+            "\u00b2\u00be",
+            "\u00b4",
+            "acy",
+            " redist"
+        ],
+        "positive_strings": [
+            "with",
+            " with",
+            "With",
+            " WITH",
+            " With",
+            "WithNo",
+            " withd",
+            "ICS",
+            " wi",
+            "wic"
+        ],
+        "description": " instances of the word \"provide\" and its related contexts, particularly in regard to assistance or support"
+    },
+    {
+        "index": "34193",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_34193.json",
+        "negative_strings": [
+            " Osw",
+            "kinson",
+            " Info",
+            "agnar",
+            "roth",
+            "ongyang",
+            "ritic",
+            "ochond",
+            " Zurich",
+            " Fired"
+        ],
+        "positive_strings": [
+            "FFER",
+            "Vs",
+            "SU",
+            "VERS",
+            "JO",
+            "vier",
+            "FF",
+            "BS",
+            "JECT",
+            "POSE"
+        ],
+        "description": " occurrences of the abbreviation \"SU\" and related terms indicating support or assistance"
+    },
+    {
+        "index": "12931",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_12931.json",
+        "negative_strings": [
+            "eger",
+            " exting",
+            "BALL",
+            " BALL",
+            "\u00aa",
+            "BuyableInstoreAndOnline",
+            " 235",
+            " Balloon",
+            "MIN",
+            "ARB"
+        ],
+        "positive_strings": [
+            "we",
+            "WE",
+            " we",
+            " stru",
+            " Stream",
+            " WE",
+            "Twe",
+            "web",
+            " Twe",
+            " Weld"
+        ],
+        "description": "references to service or assistance requests"
+    },
+    {
+        "index": "16437",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_16437.json",
+        "negative_strings": [
+            " awakening",
+            " footing",
+            " overt",
+            " antit",
+            "\u013b\u00bd",
+            " instinct",
+            " disguise",
+            " revol",
+            " unheard",
+            " involuntary"
+        ],
+        "positive_strings": [
+            " Alternatively",
+            "<|endoftext|>",
+            " Also",
+            " Please",
+            " Additionally",
+            " Thanks",
+            " However",
+            " If",
+            " Each",
+            " Depending"
+        ],
+        "description": "relevant information in texts about events, promotions, or updates, especially about technical assistance, local communities, or medical conditions"
+    },
+    {
+        "index": "17595",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_17595.json",
+        "negative_strings": [
+            "tein",
+            "bent",
+            " Moreno",
+            " coincidence",
+            "Diff",
+            "Toy",
+            " turnovers",
+            "-+-+-+-+",
+            "ossip",
+            "OTOS"
+        ],
+        "positive_strings": [
+            "ragon",
+            " EDITION",
+            "udeb",
+            "\u00a9\u00b6\u00e6",
+            "\u00a9\u00b6\u00e6\u00a5\u00b5",
+            "ouble",
+            "atical",
+            "agically",
+            " Flight",
+            "ona"
+        ],
+        "description": "phrases related to providing support or assistance"
+    },
+    {
+        "index": "2246",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_2246.json",
+        "negative_strings": [
+            "shit",
+            "nir",
+            "bane",
+            "Rated",
+            "ander",
+            "men",
+            "kar",
+            "nant",
+            "bur",
+            "shall"
+        ],
+        "positive_strings": [
+            " facilitating",
+            " facilitate",
+            " facilitated",
+            " facilitates",
+            "ances",
+            "folios",
+            "folio",
+            " facilit",
+            "ibaba",
+            "eller"
+        ],
+        "description": "phrases related to enabling or assisting various processes or activities"
+    },
+    {
+        "index": "32696",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_32696.json",
+        "negative_strings": [
+            "catentry",
+            "iatus",
+            "hesda",
+            " nudity",
+            "Reward",
+            "cius",
+            "ovember",
+            "XXX",
+            "soDeliveryDate",
+            " comprom"
+        ],
+        "positive_strings": [
+            " narrowly",
+            " home",
+            " Soc",
+            " himself",
+            "mouth",
+            " Glasgow",
+            " away",
+            " emph",
+            "awed",
+            "wered"
+        ],
+        "description": " actions related to sports, particularly scoring or assisting in goals"
+    },
+    {
+        "index": "4783",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_4783.json",
+        "negative_strings": [
+            "uyomi",
+            "nown",
+            "asionally",
+            "untu",
+            "perty",
+            "RANT",
+            " errone",
+            "azar",
+            "umbered",
+            " incorrectly"
+        ],
+        "positive_strings": [
+            " urgently",
+            " ASAP",
+            " clarification",
+            " help",
+            " refres",
+            " HELP",
+            " assurance",
+            " assistance",
+            " reinforcement",
+            " reinforcements"
+        ],
+        "description": " themes related to societal challenges and the need for assistance or resources"
+    },
+    {
+        "index": "1553",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_1553.json",
+        "negative_strings": [
+            "rine",
+            "aval",
+            "bish",
+            "tail",
+            "liam",
+            "Benz",
+            "ross",
+            "zi",
+            " Hebdo",
+            "len"
+        ],
+        "positive_strings": [
+            " assistance",
+            " Assistance",
+            "assisted",
+            " aid",
+            " counselor",
+            " recip",
+            "psey",
+            "ateral",
+            " recipients",
+            " counselors"
+        ],
+        "description": "mentions of providing support, financial assistance, or help in various contexts such as financial aid, regulatory approval, and welfare programs"
+    },
+    {
+        "index": "20973",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_20973.json",
+        "negative_strings": [
+            "Course",
+            "netflix",
+            "apeake",
+            "wich",
+            "vern",
+            "uscript",
+            "awk",
+            "hunt",
+            "iker",
+            "oufl"
+        ],
+        "positive_strings": [
+            " support",
+            " Supports",
+            "Support",
+            " Support",
+            " supports",
+            " supporting",
+            " Supporting",
+            " supported",
+            "support",
+            " Supported"
+        ],
+        "description": " terms related to support and assistance"
+    },
+    {
+        "index": "38237",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/assistant/data_for_feature_38237.json",
+        "negative_strings": [
+            " Bellev",
+            "ONSORED",
+            "theless",
+            "chrom",
+            " Olympia",
+            " Coastal",
+            " Regional",
+            " PERSON",
+            " kilomet",
+            "\u00e9\u00be"
+        ],
+        "positive_strings": [
+            "glers",
+            " aid",
+            "maid",
+            "abet",
+            "iaz",
+            " Aid",
+            "gery",
+            "duct",
+            "gers",
+            "selage"
+        ],
+        "description": " references to assistance or charitable contributions"
+    }
+]

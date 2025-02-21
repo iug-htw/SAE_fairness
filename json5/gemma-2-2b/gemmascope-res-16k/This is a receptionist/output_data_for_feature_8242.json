@@ -1,0 +1,30 @@
+{
+    "index": "8242",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a receptionist/data_for_feature_8242.json",
+    "negative_strings": [
+        "MethodManager",
+        "\u2581PyTuple",
+        "BufferException",
+        "Persistence",
+        "GIVEREF",
+        "\u2581isNameExpr",
+        "NgModule",
+        "LayoutConstraint",
+        "\u2581\u017fever",
+        "MessageDigest"
+    ],
+    "positive_strings": [
+        "\u2581position",
+        "\u2581role",
+        "\u2581Position",
+        "role",
+        "position",
+        "\u2581roles",
+        "\u2581positions",
+        "\u2581POSITION",
+        "\u2581Role",
+        "Position"
+    ],
+    "description": "references to job roles and promotions within an organizational context"
+}

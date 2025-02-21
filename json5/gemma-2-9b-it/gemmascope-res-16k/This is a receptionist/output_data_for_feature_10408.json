@@ -1,0 +1,30 @@
+{
+    "index": "10408",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_10408.json",
+    "negative_strings": [
+        "StoryboardSegue",
+        "\u2581propOrder",
+        "tagext",
+        "OGND",
+        "\u2581CreateTagHelper",
+        "adpleegd",
+        "ListItemIcon",
+        "tagHelperRunner",
+        "reportWebVitals",
+        "WEBPACK"
+    ],
+    "positive_strings": [
+        "\u2581clerk",
+        "Clerk",
+        "\u2581clerks",
+        "\u2581Clerk",
+        "\u2581secretary",
+        "\u2581CLERK",
+        "\u2581secretaria",
+        "\u2581Clerks",
+        "\u2581clerical",
+        "\u2581secretariat"
+    ],
+    "description": "terms related to clerical roles and administrative functions in a court context"
+}

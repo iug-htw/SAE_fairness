@@ -1,0 +1,602 @@
+[
+    {
+        "index": "27760",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_27760.json",
+        "negative_strings": [
+            "chnology",
+            " sight",
+            "OPLE",
+            "\u00e7\u0126",
+            " Vaugh",
+            " stalls",
+            "LECT",
+            "conservancy",
+            "\u0124\u0130",
+            "\u00d7\u013b\u00d7"
+        ],
+        "positive_strings": [
+            "agascar",
+            "eline",
+            "rid",
+            "hya",
+            "ras",
+            "oka",
+            "onna",
+            "der",
+            "rig",
+            "cap"
+        ],
+        "description": " references to \"Mad Men\" and related media or characters"
+    },
+    {
+        "index": "7210",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_7210.json",
+        "negative_strings": [
+            " lag",
+            " aback",
+            " digestion",
+            " divest",
+            " diarr",
+            " bere",
+            " unpre",
+            " breakdown",
+            " moder",
+            "\u00c4\u0129"
+        ],
+        "positive_strings": [
+            "Men",
+            "Factor",
+            "Files",
+            "Wing",
+            "Ray",
+            "rays",
+            "Force",
+            "cellent",
+            "factor",
+            "MEN"
+        ],
+        "description": " references to the \"X-Men\" franchise and its related characters"
+    },
+    {
+        "index": "520",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_520.json",
+        "negative_strings": [
+            "kson",
+            "kamp",
+            "Interstitial",
+            " captcha",
+            " TODAY",
+            " \u00e2\u0136\u013e",
+            " Somew",
+            "getic",
+            " introdu",
+            " AVG"
+        ],
+        "positive_strings": [
+            "posed",
+            "yz",
+            "avier",
+            "XXXX",
+            "peria",
+            "anth",
+            "mas",
+            "BOX",
+            "IX",
+            " chromosomes"
+        ],
+        "description": "references to the \"X-Men\" franchise and its characters"
+    },
+    {
+        "index": "26342",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_26342.json",
+        "negative_strings": [
+            "\u0128\u0134",
+            "ciation",
+            "\u0138\u013c",
+            "iterator",
+            ":[",
+            "\u00e9\u00bb\u0134",
+            "imus",
+            "claimer",
+            "mpire",
+            "arth"
+        ],
+        "positive_strings": [
+            " women",
+            " girls",
+            " boys",
+            "women",
+            " lesbians",
+            " actresses",
+            " females",
+            " wives",
+            " Girls",
+            "girls"
+        ],
+        "description": " phrases that emphasize the inclusion of women alongside men"
+    },
+    {
+        "index": "4676",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_4676.json",
+        "negative_strings": [
+            "REDACTED",
+            "\u00e6\u0138\u00b9",
+            "inarily",
+            "mson",
+            "DragonMagazine",
+            "ngth",
+            "perse",
+            "mble",
+            "\u00e5\u0143",
+            "\u00e6\u0122"
+        ],
+        "positive_strings": [
+            "jamin",
+            "oit",
+            "chers",
+            "nington",
+            "cher",
+            "utz",
+            "ches",
+            "ghazi",
+            "ito",
+            "arding"
+        ],
+        "description": "men's names"
+    },
+    {
+        "index": "1485",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_1485.json",
+        "negative_strings": [
+            "kson",
+            " captcha",
+            "sburgh",
+            "kamp",
+            " Lauder",
+            "getic",
+            "assetsadobe",
+            " TODAY",
+            "maid",
+            " Pru"
+        ],
+        "positive_strings": [
+            "posed",
+            "avier",
+            "peria",
+            "XXXX",
+            "yz",
+            "IX",
+            "iao",
+            "SS",
+            "BOX",
+            "ML"
+        ],
+        "description": "proper nouns or specific terms related to a particular franchise or brand called \"X-Men\""
+    },
+    {
+        "index": "40681",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_40681.json",
+        "negative_strings": [
+            "ufact",
+            "ieri",
+            " Cla",
+            " Lauder",
+            " msec",
+            "inois",
+            " TODAY",
+            "ngth",
+            " aback",
+            "hran"
+        ],
+        "positive_strings": [
+            "shaped",
+            "coord",
+            "tra",
+            "rays",
+            "axis",
+            "linked",
+            "series",
+            "level",
+            "meter",
+            "label"
+        ],
+        "description": " references to the X-Men comic series"
+    },
+    {
+        "index": "42786",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_42786.json",
+        "negative_strings": [
+            "DragonMagazine",
+            "\u0133\u00e5\u00a3\u00ab",
+            " Citizen",
+            "gerald",
+            "\u00e6\u0138\u00b9",
+            " Presidential",
+            "\u00e6\u0122",
+            " NETWORK",
+            "shapeshifter",
+            "IFIED"
+        ],
+        "positive_strings": [
+            "atonin",
+            "bourne",
+            "inda",
+            "aser",
+            "anches",
+            "anz",
+            "ohyd",
+            "odic",
+            "onse",
+            "seys"
+        ],
+        "description": "references to individuals named 'Mel' and generally identify mentions of men"
+    },
+    {
+        "index": "7448",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_7448.json",
+        "negative_strings": [
+            "IVERS",
+            "REDACTED",
+            "Accessory",
+            "VICE",
+            "Deal",
+            "Capital",
+            "Berry",
+            "EV",
+            "\u00e2\u013a\u0127\u00e2\u013a\u0127",
+            "Democratic"
+        ],
+        "positive_strings": [
+            "endez",
+            "opausal",
+            "volent",
+            "ager",
+            "aced",
+            "orah",
+            "uscript",
+            "aces",
+            "folk",
+            "agers"
+        ],
+        "description": "references to men"
+    },
+    {
+        "index": "28788",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_28788.json",
+        "negative_strings": [
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            "atform",
+            "ramid",
+            "rooms",
+            "Discussion",
+            "hematic",
+            "rero",
+            "agna",
+            " externalToEVAOnly",
+            "milo"
+        ],
+        "positive_strings": [
+            "vironment",
+            "ews",
+            "cia",
+            "emy",
+            "emies",
+            "culosis",
+            "stadt",
+            "heim",
+            "owski",
+            "venue"
+        ],
+        "description": " variations of the suffix \"ien\" and mentions of \"men.\""
+    },
+    {
+        "index": "44861",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_44861.json",
+        "negative_strings": [
+            "finder",
+            " Ern",
+            " Typhoon",
+            " pse",
+            " myster",
+            "\u00ef\u00b8\u0131",
+            " Verb",
+            "quote",
+            " Bulgaria",
+            " borders"
+        ],
+        "positive_strings": [
+            "urate",
+            "andise",
+            "hemy",
+            "aus",
+            "azeera",
+            "iazep",
+            "aughters",
+            "hire",
+            "ensical",
+            "hem"
+        ],
+        "description": " variations of the word \"men\" and its inflected forms"
+    },
+    {
+        "index": "20720",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_20720.json",
+        "negative_strings": [
+            "OPLE",
+            "chnology",
+            "uberty",
+            "LECT",
+            "oldown",
+            "inventoryQuantity",
+            "\u00d7\u013b\u00d7",
+            "kefeller",
+            "aughs",
+            "SPONSORED"
+        ],
+        "positive_strings": [
+            "agascar",
+            " Mad",
+            "eline",
+            "der",
+            "grave",
+            "hur",
+            "hya",
+            "cap",
+            "croft",
+            "mad"
+        ],
+        "description": "references to a specific term, \"Mad\", possibly referring to various contexts like movies, legal cases, and geographical locations"
+    },
+    {
+        "index": "41946",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_41946.json",
+        "negative_strings": [
+            "ENCY",
+            "enance",
+            "\u00e2\u013a\u0127\u00e2\u013a\u0127",
+            "VICE",
+            "ENC",
+            "RAY",
+            "ENTS",
+            "tainment",
+            "IVERS",
+            "BLIC"
+        ],
+        "positive_strings": [
+            "endez",
+            "iscal",
+            "opausal",
+            "cius",
+            "uscript",
+            "ager",
+            "agogue",
+            "istries",
+            "ghai",
+            "stru"
+        ],
+        "description": "mentions of \"Men\" and related terms"
+    },
+    {
+        "index": "26519",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_26519.json",
+        "negative_strings": [
+            " unfocusedRange",
+            " Anniversary",
+            "bernatorial",
+            "iversary",
+            "irmation",
+            "aine",
+            "abba",
+            "osate",
+            "adel",
+            "imental"
+        ],
+        "positive_strings": [
+            " often",
+            " accustomed",
+            " routinely",
+            " disproportionately",
+            " willing",
+            " reluctant",
+            " happiest",
+            " increasingly",
+            " constantly",
+            " generally"
+        ],
+        "description": " references to gender dynamics and societal expectations concerning men and women's roles"
+    },
+    {
+        "index": "6577",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_6577.json",
+        "negative_strings": [
+            "Berry",
+            "Deal",
+            "EV",
+            "Virginia",
+            "\u00e3\u0124\u00b4",
+            "Front",
+            "Congress",
+            "Assembly",
+            "Fuel",
+            "REC"
+        ],
+        "positive_strings": [
+            "ager",
+            "opausal",
+            "uscript",
+            "endez",
+            "folk",
+            "volent",
+            " oun",
+            "agers",
+            "orah",
+            "iscal"
+        ],
+        "description": "references to gender, particularly focusing on men and women's roles and experiences"
+    },
+    {
+        "index": "45560",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_45560.json",
+        "negative_strings": [
+            "ufact",
+            "esse",
+            " \u00e0\u00a8",
+            "reddits",
+            "\u00c4\u0129",
+            "uggest",
+            " sidx",
+            "agher",
+            " Muss",
+            "verages"
+        ],
+        "positive_strings": [
+            "reme",
+            "Men",
+            "Factor",
+            "Ray",
+            "Files",
+            "cellent",
+            "rays",
+            "Wing",
+            "axis",
+            "Large"
+        ],
+        "description": " references to the \"X-Men\" franchise"
+    },
+    {
+        "index": "1316",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_1316.json",
+        "negative_strings": [
+            " disinfect",
+            "etta",
+            " enticing",
+            " Pell",
+            " starch",
+            "assies",
+            " dism",
+            "SPONSORED",
+            "ading",
+            " Fiesta"
+        ],
+        "positive_strings": [
+            " Mens",
+            "chen",
+            "wear",
+            "glers",
+            "helle",
+            "chel",
+            "lass",
+            "galitarian",
+            "mens",
+            " mathemat"
+        ],
+        "description": " mentions of \"Mens\" and related words in various contexts"
+    },
+    {
+        "index": "7448",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_7448.json",
+        "negative_strings": [
+            "IVERS",
+            "REDACTED",
+            "Accessory",
+            "VICE",
+            "Deal",
+            "Capital",
+            "Berry",
+            "EV",
+            "\u00e2\u013a\u0127\u00e2\u013a\u0127",
+            "Democratic"
+        ],
+        "positive_strings": [
+            "endez",
+            "opausal",
+            "volent",
+            "ager",
+            "aced",
+            "orah",
+            "uscript",
+            "aces",
+            "folk",
+            "agers"
+        ],
+        "description": "references to men"
+    },
+    {
+        "index": "29413",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_29413.json",
+        "negative_strings": [
+            "enance",
+            "ENCY",
+            "\u00e2\u013a\u0127\u00e2\u013a\u0127",
+            "tainment",
+            "ENTS",
+            "RAY",
+            "VICE",
+            "BLIC",
+            "RON",
+            "ENC"
+        ],
+        "positive_strings": [
+            "endez",
+            "iscal",
+            "cius",
+            "opausal",
+            "uscript",
+            "istries",
+            "agogue",
+            "ghai",
+            "ager",
+            "etheus"
+        ],
+        "description": "names of men (or variations thereof) in the text"
+    },
+    {
+        "index": "8671",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/men/data_for_feature_8671.json",
+        "negative_strings": [
+            "kson",
+            "kamp",
+            "getic",
+            " captcha",
+            "\u00da",
+            " Lauder",
+            "inally",
+            "ufact",
+            "Downloadha",
+            "sburgh"
+        ],
+        "positive_strings": [
+            "avier",
+            "posed",
+            "peria",
+            "IX",
+            "XXXX",
+            "iao",
+            "yz",
+            "TERN",
+            " chromosome",
+            "cellence"
+        ],
+        "description": "references to specific characters or movies in the X-Men franchise"
+    }
+]

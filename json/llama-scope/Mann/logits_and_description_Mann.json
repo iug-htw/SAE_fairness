@@ -1,0 +1,602 @@
+[
+    {
+        "index": "64600",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_64600.json",
+        "negative_strings": [
+            "genic",
+            "ylon",
+            "ULER",
+            "ADDE",
+            "\u00ce\u00b8\u00ce\u00b5\u00ce\u00bd",
+            "ibble",
+            "udy",
+            "wing",
+            "CEED",
+            "omic"
+        ],
+        "positive_strings": [
+            "heim",
+            "licher",
+            "heimer",
+            "itol",
+            "fred",
+            "olini",
+            "ering",
+            "inen",
+            "ington",
+            "Kind"
+        ],
+        "description": "the presence of the name \"Mann\" in any form, including variations and inflections"
+    },
+    {
+        "index": "78808",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_78808.json",
+        "negative_strings": [
+            "CEED",
+            "ASN",
+            "\u00c3\u0143da",
+            "\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
+            "astically",
+            "\u00e0\u00a4\u013e\u00e0\u00a4\u00a8",
+            "genic",
+            "tesy",
+            "ategory",
+            "attles"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "lit",
+            "fred",
+            "itol",
+            "hattan",
+            "stag",
+            "boro",
+            "rit",
+            "hai"
+        ],
+        "description": " mentions of the name \"Mann.\""
+    },
+    {
+        "index": "44631",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_44631.json",
+        "negative_strings": [
+            "ylon",
+            "genic",
+            "uler",
+            " Spear",
+            "wing",
+            "\u00ce\u00b8\u00ce\u00b5\u00ce\u00bd",
+            "ULER",
+            "ceil",
+            " Circ",
+            "eller"
+        ],
+        "positive_strings": [
+            "heim",
+            "licher",
+            "heimer",
+            "itol",
+            "ering",
+            "inen",
+            "fred",
+            "lichen",
+            "abase",
+            "liches"
+        ],
+        "description": " references to the name \"Mann.\""
+    },
+    {
+        "index": "128936",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_128936.json",
+        "negative_strings": [
+            "gid",
+            "csi",
+            "topic",
+            "ighted",
+            "txt",
+            "tx",
+            "tem",
+            "\u00cf\u0127\u00ce\u00ba",
+            "ped",
+            "rez"
+        ],
+        "positive_strings": [
+            "heim",
+            "ion",
+            "ering",
+            "ix",
+            "heimer",
+            "ings",
+            "licher",
+            "inen",
+            "ions",
+            "itol"
+        ],
+        "description": "references to the name \"Mann\" and its variations"
+    },
+    {
+        "index": "66333",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_66333.json",
+        "negative_strings": [
+            "genic",
+            "ylon",
+            "er",
+            "uler",
+            "eller",
+            "wing",
+            "oggler",
+            " Spear",
+            "erland",
+            "rez"
+        ],
+        "positive_strings": [
+            "heim",
+            "licher",
+            "heimer",
+            "itol",
+            "ering",
+            "fred",
+            "ion",
+            "enheim",
+            "ucci",
+            "acles"
+        ],
+        "description": " occurrences of the name \"Mann.\""
+    },
+    {
+        "index": "97214",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_97214.json",
+        "negative_strings": [
+            "genic",
+            "er",
+            "erde",
+            "wing",
+            " monarch",
+            "oggler",
+            " pij",
+            "InstanceId",
+            "ylon",
+            " individual"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "licher",
+            "ering",
+            "enheim",
+            "ix",
+            "itol",
+            "Kind",
+            "fred",
+            "oor"
+        ],
+        "description": "the presence of variations of the word \"Mann.\""
+    },
+    {
+        "index": "70087",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_70087.json",
+        "negative_strings": [
+            "er",
+            "illery",
+            "genic",
+            "erde",
+            "SSI",
+            "\u00d0\u00b7\u00d0\u00bd\u00d0\u00b0",
+            "ylon",
+            "\u00d1\u0138\u00d0\u00bd\u00d1\u012e",
+            "oggler",
+            "InstanceId"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "enheim",
+            "licher",
+            "fred",
+            "itol",
+            "ering",
+            "acles",
+            "Kind",
+            "hattan"
+        ],
+        "description": "instances of the word \"Mann\" and its variations"
+    },
+    {
+        "index": "8669",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_8669.json",
+        "negative_strings": [
+            "er",
+            "SSI",
+            "iard",
+            "oggler",
+            "genic",
+            "InstanceId",
+            "\u00c3\u00a5n",
+            " individual",
+            "ADDE",
+            "erland"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "licher",
+            "ering",
+            "itol",
+            "ix",
+            "enheim",
+            "isto",
+            "oog",
+            "abase"
+        ],
+        "description": " references to the name \"Mann.\""
+    },
+    {
+        "index": "5406",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_5406.json",
+        "negative_strings": [
+            "erus",
+            "\u00c5\u00been",
+            "andum",
+            "\u00c3\u00a8re",
+            "genic",
+            "lander",
+            " Shift",
+            "InstanceId",
+            "\u00ce\u00bd\u00cf\u012b",
+            "INY"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "enheim",
+            "fred",
+            "arin",
+            "hei",
+            " tr\u00c3\u00a1i",
+            "boru",
+            "asse",
+            "asses"
+        ],
+        "description": "mentions of a specific person named \"Mann\" or variations of that name"
+    },
+    {
+        "index": "3057",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_3057.json",
+        "negative_strings": [
+            "iard",
+            "atra",
+            "erland",
+            "\u00c6\u00b0\u00e1\u00bb\u013d",
+            "\u00e5\u00ae\u00ab",
+            "ABSPATH",
+            "oggler",
+            "ombat",
+            " \u00e8\u0129\u00aa\u00e5\u012c\u00a8\u00e7\u0136\u0141\u00e6\u012a\u0132",
+            "wing"
+        ],
+        "positive_strings": [
+            "ering",
+            "licher",
+            "itol",
+            "heim",
+            "heimer",
+            "acles",
+            "tle",
+            "fest",
+            "ion",
+            "oor"
+        ],
+        "description": "references to the name \"Mann.\""
+    },
+    {
+        "index": "28649",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_28649.json",
+        "negative_strings": [
+            "ault",
+            "rez",
+            "wing",
+            "atra",
+            "olumn",
+            "/*@",
+            "poons",
+            "erland",
+            " til",
+            "oggler"
+        ],
+        "positive_strings": [
+            "ion",
+            "licher",
+            "ering",
+            "ning",
+            "igin",
+            "heim",
+            "ix",
+            "ions",
+            "ION",
+            "sink"
+        ],
+        "description": "variations of the name \"Mann\" or \"Manny.\""
+    },
+    {
+        "index": "9744",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_9744.json",
+        "negative_strings": [
+            "oggler",
+            "iard",
+            "iskey",
+            "OrNil",
+            "olumn",
+            "\u00c3\u00a5n",
+            "ActionResult",
+            "orners",
+            " prob",
+            "InstanceId"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "ering",
+            "tle",
+            "oor",
+            "licher",
+            "ila",
+            "unya",
+            "ion",
+            "stadt"
+        ],
+        "description": "references to the name \"Mann\" and its variations"
+    },
+    {
+        "index": "112906",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_112906.json",
+        "negative_strings": [
+            "oggler",
+            "iard",
+            "\u00c6\u00b0\u00e1\u00bb\u013d",
+            "\u00c3\u00a5n",
+            "ablish",
+            "erland",
+            "orners",
+            "OrNil",
+            "ADDE",
+            "olumn"
+        ],
+        "positive_strings": [
+            "heim",
+            "oor",
+            "ering",
+            "licher",
+            "s",
+            "itol",
+            "heimer",
+            "ix",
+            "ion",
+            "ying"
+        ],
+        "description": " occurrences of the name \"Mann\" and its variations"
+    },
+    {
+        "index": "127304",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_127304.json",
+        "negative_strings": [
+            "\u00c3\u00a5n",
+            "iskey",
+            "oksen",
+            " freely",
+            "erde",
+            " demean",
+            "inaire",
+            "andelier",
+            "ARRANT",
+            " Zub"
+        ],
+        "positive_strings": [
+            "heim",
+            "heimer",
+            "oor",
+            "ering",
+            "licher",
+            "hattan",
+            "iac",
+            "\u00d1\u0123\u00d0\u00bb\u00d0\u00b8",
+            "stadt",
+            "acles"
+        ],
+        "description": "references to the name \"Mann\" in various contexts"
+    },
+    {
+        "index": "25048",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_25048.json",
+        "negative_strings": [
+            "iard",
+            "er",
+            "erde",
+            "erb",
+            "atra",
+            "landers",
+            "066",
+            "erland",
+            "work",
+            "\u00ed\u012d\u00b1"
+        ],
+        "positive_strings": [
+            "heim",
+            "ering",
+            "sd",
+            "licher",
+            "stadt",
+            "sville",
+            "oor",
+            "\u00d1\u0123\u00d0\u00bb\u00d0\u00b8",
+            "esto",
+            "isto"
+        ],
+        "description": "mentions of the name \"Mann.\""
+    },
+    {
+        "index": "3556",
+        "layer": "18-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_3556.json",
+        "negative_strings": [
+            "SCRIBE",
+            "edian",
+            " freely",
+            "uentes",
+            "erb",
+            "oksen",
+            "deb",
+            "resi",
+            "iard",
+            "erde"
+        ],
+        "positive_strings": [
+            "heim",
+            "isto",
+            "\u00d1\u0123\u00d0\u00bb\u00d0\u00b8",
+            " Hoch",
+            " Theodore",
+            "hattan",
+            " Antony",
+            "ifest",
+            "ering",
+            "oog"
+        ],
+        "description": "references to the name \"Mann\" and its variations"
+    },
+    {
+        "index": "69123",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_69123.json",
+        "negative_strings": [
+            "er",
+            "neau",
+            "jerne",
+            "erus",
+            "\u00e6\u00ae\u00bf",
+            "ux",
+            "idine",
+            "gaard",
+            "ayet",
+            "ulers"
+        ],
+        "positive_strings": [
+            "ipeg",
+            "\u00d1\u0125\u00d0\u00b2\u00d0\u00b0",
+            "heimer",
+            "estro",
+            " Doch",
+            "heim",
+            "estre",
+            "hood",
+            "chaft",
+            "GetMethod"
+        ],
+        "description": " occurrences of the word \"mann\" and its variations"
+    },
+    {
+        "index": "16143",
+        "layer": "17-llamascope-mlp-32k",
+        "url": "json/llama-scope/Mann/data_for_feature_16143.json",
+        "negative_strings": [
+            "er",
+            "ey",
+            "isine",
+            "erah",
+            "\u00d9\u012a\u00d8\u00b7",
+            "ek",
+            "alty",
+            "erap",
+            " Spoon",
+            "erif"
+        ],
+        "positive_strings": [
+            "ibal",
+            "ings",
+            "lesia",
+            "\u00c3\u00a1la",
+            "urat",
+            "sylvania",
+            "\u00d0\u00bb\u00d0\u00be\u00d0\u00bd",
+            "\u00d8\u00b1\u00d8\u00af",
+            "cul",
+            "quin"
+        ],
+        "description": "names associated with the concept of \"mann\""
+    },
+    {
+        "index": "104173",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_104173.json",
+        "negative_strings": [
+            "er",
+            "ardy",
+            "edii",
+            "\u00d1\u0138\u00d0\u00bd\u00d1\u012e",
+            "idi",
+            "jian",
+            "aisy",
+            "dy",
+            "REDENTIAL",
+            "ER"
+        ],
+        "positive_strings": [
+            "uela",
+            "\u00d0\u00b7\u00d0\u00b0\u00d0\u00bd\u00d0\u00be",
+            "zik",
+            "heimer",
+            "hattan",
+            "heim",
+            "kad",
+            "\u00d0\u00bd\u00d0\u00b8\u00d1\u0124",
+            " \u00d0\u00b8\u00d0\u00bc\u00d1\u0125",
+            "fred"
+        ],
+        "description": " occurrences of the name \"Mann\" and its variations"
+    },
+    {
+        "index": "4158",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/Mann/data_for_feature_4158.json",
+        "negative_strings": [
+            "tero",
+            "PerPixel",
+            "Messenger",
+            "ears",
+            " CASE",
+            "chin",
+            "eus",
+            " TD",
+            "isson",
+            " \u00e2\u0122\u012e"
+        ],
+        "positive_strings": [
+            "amil",
+            "apo",
+            "ande",
+            "itter",
+            "ificant",
+            "sen",
+            "folio",
+            "lege",
+            "nvarchar",
+            "ella"
+        ],
+        "description": " variations of the name \"Mann.\""
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "3008",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_3008.json",
+    "negative_strings": [
+        "acht",
+        "y",
+        "elly",
+        "orie",
+        "es",
+        "esthes",
+        "yx",
+        " \u00d0\u00bf\u00d0\u00be\u00d0\u00b2",
+        "elle",
+        "esium"
+    ],
+    "positive_strings": [
+        " bur",
+        " Bur",
+        "undi",
+        "undy",
+        "Bur",
+        "bur",
+        "\u00d0\u00b7\u00d1\u012e",
+        "ritos",
+        "rito",
+        "rough"
+    ],
+    "description": "mentions of burial or related concepts"
+}

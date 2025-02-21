@@ -1,0 +1,30 @@
+{
+    "index": "107968",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a firefighter/data_for_feature_107968.json",
+    "negative_strings": [
+        "principalColumn",
+        "+#+#",
+        "\u2581>=\",",
+        "ANTLR",
+        "Diweddarwch",
+        "twimg",
+        "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+        "withIdentifier",
+        "\u2581spalle",
+        "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448"
+    ],
+    "positive_strings": [
+        "fighters",
+        "\u2581fighters",
+        "fighting",
+        "\u2581department",
+        "\u2581fighting",
+        "Fighting",
+        "\u2581suppression",
+        "\u2581Fighters",
+        "fighter",
+        "\u2581fighter"
+    ],
+    "description": " mentions of firefighting and fire-related terms"
+}

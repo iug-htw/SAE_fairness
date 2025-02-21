@@ -1,0 +1,30 @@
+{
+    "index": "9736",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is an engineer/data_for_feature_9736.json",
+    "negative_strings": [
+        "\u2581engineering",
+        "\u2581engineer",
+        "\u2581Engineering",
+        "\u2581Engineer",
+        "\u2581engineers",
+        "engineering",
+        "\u2581ENGINEERING",
+        "\u2581Engineers",
+        "Engineering",
+        "engineer"
+    ],
+    "positive_strings": [
+        "ItemBackground",
+        "stris",
+        "\u2581Kun",
+        "AsUp",
+        "Tarot",
+        "BeginContext",
+        "IDC",
+        "\u2581HasFactory",
+        "uscany",
+        "riwal"
+    ],
+    "description": " attends to the token \"Engineering\" from tokens related to \"engineering\" in various contexts"
+}

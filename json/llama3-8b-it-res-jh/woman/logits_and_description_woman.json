@@ -1,0 +1,32 @@
+[
+    {
+        "index": "42226",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/woman/data_for_feature_42226.json",
+        "negative_strings": [
+            "iso",
+            "ior",
+            "Tanggal",
+            "\u00c3\u00a9ry",
+            " \u00d0\u00b2\u00d0\u00bd\u00d1\u0125",
+            "\u00ed\u013a\u0126",
+            " ((*",
+            " puppet",
+            "ISO",
+            " holiday"
+        ],
+        "positive_strings": [
+            " lifelong",
+            " union",
+            " unit",
+            " institution",
+            " husband",
+            "riage",
+            " Husband",
+            " unions",
+            "\u00e5\u00a4\u00ab",
+            " sacram"
+        ],
+        "description": "terms related to the definition and context of marriage, particularly in relation to traditional views on marriage between one man and one woman"
+    }
+]

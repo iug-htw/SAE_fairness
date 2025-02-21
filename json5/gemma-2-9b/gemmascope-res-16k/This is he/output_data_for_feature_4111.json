@@ -1,0 +1,30 @@
+{
+    "index": "4111",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is he/data_for_feature_4111.json",
+    "negative_strings": [
+        "\u00f6rgy",
+        "scribers",
+        "\u0411\u0430\u0445\u0430\u0440",
+        "+#+",
+        "Personendaten",
+        "himovic",
+        "RegistryLite",
+        "\u2581dore",
+        "Tembelea",
+        "Composable"
+    ],
+    "positive_strings": [
+        "He",
+        "\u2581He",
+        "\u2581Hel",
+        "\u2581H\u00e9",
+        "Hel",
+        "HE",
+        "he",
+        "H\u00e9",
+        "Hem",
+        "\u2581Hecht"
+    ],
+    "description": "mentions of names and terms associated with scientific and mathematical concepts, particularly those relating to physics and chemistry"
+}

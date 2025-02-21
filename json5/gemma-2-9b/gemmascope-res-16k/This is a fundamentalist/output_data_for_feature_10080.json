@@ -1,0 +1,30 @@
+{
+    "index": "10080",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_10080.json",
+    "negative_strings": [
+        "major",
+        "\u2581major",
+        "\u2581pagrind",
+        "SequentialGroup",
+        "\u2581muligt",
+        "Major",
+        "pecific",
+        "\u2581Possible",
+        "Possible",
+        "\u2581belangrij"
+    ],
+    "positive_strings": [
+        "\u2581driver",
+        "\u2581drivers",
+        "stays",
+        "\u2581players",
+        "\u2581player",
+        "\u2581contributors",
+        "driver",
+        "\u2581contributor",
+        "\u2581concern",
+        "\u2581focus"
+    ],
+    "description": " key terms and concepts related to primary issues or contributions in various contexts"
+}

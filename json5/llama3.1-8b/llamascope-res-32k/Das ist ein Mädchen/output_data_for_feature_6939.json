@@ -1,0 +1,30 @@
+{
+    "index": "6939",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein M\u00e4dchen/data_for_feature_6939.json",
+    "negative_strings": [
+        " Wayback",
+        "\u00d0\u0132\u00d1\u0122\u00d1\u0127\u00d1\u0138\u00d0\u00b2",
+        "\u00e5\u013f\u0129",
+        "rna",
+        "_WRONG",
+        "\u00e6\u0136\u013f",
+        "\u00c2\u013e",
+        "m\u00c3\u0143t",
+        " li\u00e1\u00bb\u0129t",
+        "\u00c2\u013d"
+    ],
+    "positive_strings": [
+        " trailer",
+        " movie",
+        " review",
+        " Trailer",
+        " torrent",
+        " meaning",
+        " novel",
+        " book",
+        " full",
+        " definition"
+    ],
+    "description": "titles of films and shows, focusing on names and unique identifiers"
+}

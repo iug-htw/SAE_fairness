@@ -1,0 +1,602 @@
+[
+    {
+        "index": "69974",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_69974.json",
+        "negative_strings": [
+            " Alam",
+            " ANGEL",
+            " VIDE",
+            "tch",
+            "andals",
+            "erial",
+            " Jol",
+            "hops",
+            "orned",
+            "pheus"
+        ],
+        "positive_strings": [
+            " expenses",
+            " expense",
+            " expenditures",
+            " costs",
+            " expenditure",
+            " calcul",
+            " payment",
+            " reimbursement",
+            " income",
+            " payments"
+        ],
+        "description": "references to financial expenses or the concept of money being available or accessible"
+    },
+    {
+        "index": "23992",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_23992.json",
+        "negative_strings": [
+            "heid",
+            "lihood",
+            "slow",
+            " Osw",
+            "bsite",
+            "icity",
+            " Videos",
+            "jc",
+            "tti",
+            " continuum"
+        ],
+        "positive_strings": [
+            "irts",
+            "Cash",
+            " cash",
+            "ollar",
+            " sums",
+            " bribes",
+            "ulously",
+            " funds",
+            " balances",
+            " debts"
+        ],
+        "description": "words related to financial transactions or money management"
+    },
+    {
+        "index": "6006",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_6006.json",
+        "negative_strings": [
+            "akeru",
+            " Wid",
+            " Cod",
+            " swall",
+            " Bleach",
+            "igators",
+            "onga",
+            "naires",
+            "ormal",
+            "igrants"
+        ],
+        "positive_strings": [
+            "-$",
+            " billion",
+            " Billion",
+            "billion",
+            " million",
+            "million",
+            " trillion",
+            "bn",
+            " Million",
+            "/$"
+        ],
+        "description": "numeric values related to money or financial figures"
+    },
+    {
+        "index": "27122",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_27122.json",
+        "negative_strings": [
+            " agre",
+            " redistributed",
+            "psons",
+            " satell",
+            " mosqu",
+            " describ",
+            " Scope",
+            " suppose",
+            "jad",
+            "istically"
+        ],
+        "positive_strings": [
+            "whe",
+            "led",
+            "ling",
+            "eting",
+            "tails",
+            "master",
+            "les",
+            "ety",
+            "ritten",
+            "lers"
+        ],
+        "description": "financial references and contexts related to money"
+    },
+    {
+        "index": "22380",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_22380.json",
+        "negative_strings": [
+            "ICLE",
+            "Minor",
+            " Sue",
+            " Fuk",
+            "76561",
+            "VD",
+            "SPA",
+            "Introduced",
+            "\u00e9\u0139\u013a",
+            "ettings"
+        ],
+        "positive_strings": [
+            " laundering",
+            "bags",
+            "aundering",
+            "flow",
+            "bag",
+            "frame",
+            "worms",
+            "dollar",
+            " flows",
+            "flows"
+        ],
+        "description": "references to money and financial transactions"
+    },
+    {
+        "index": "1828",
+        "layer": "8-res_fs3072-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_1828.json",
+        "negative_strings": [
+            "ICLE",
+            "spect",
+            "Minor",
+            "Hug",
+            " Hug",
+            " Fuk",
+            " Halls",
+            " Klu",
+            " Frem",
+            " Ku"
+        ],
+        "positive_strings": [
+            " laundering",
+            "bags",
+            "dollar",
+            " ($",
+            " invested",
+            "aundering",
+            " ($)",
+            " spent",
+            "money",
+            "flow"
+        ],
+        "description": "references to money"
+    },
+    {
+        "index": "6329",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_6329.json",
+        "negative_strings": [
+            "psons",
+            " describ",
+            " agre",
+            " Scope",
+            "istically",
+            " Sloan",
+            "effects",
+            " mosqu",
+            " Hiroshima",
+            " Chern"
+        ],
+        "positive_strings": [
+            "whe",
+            "ling",
+            "eting",
+            "led",
+            "tails",
+            "ritten",
+            "ishable",
+            "minster",
+            "ing",
+            "ipolar"
+        ],
+        "description": "references to money or financial transactions"
+    },
+    {
+        "index": "50129",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_50129.json",
+        "negative_strings": [
+            " Remastered",
+            "wcsstore",
+            "Aren",
+            " Ascend",
+            "fw",
+            "Truth",
+            "idia",
+            "Mand",
+            "Reviewed",
+            "STAT"
+        ],
+        "positive_strings": [
+            " lives",
+            " countless",
+            " Lives",
+            " taxpayers",
+            " billions",
+            " untold",
+            " valuable",
+            " precious",
+            " tremend",
+            " us"
+        ],
+        "description": "words related to saving money or resources"
+    },
+    {
+        "index": "19467",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_19467.json",
+        "negative_strings": [
+            " Metatron",
+            "abulary",
+            "iders",
+            "Discuss",
+            "alys",
+            "reason",
+            "stant",
+            "harm",
+            "ween",
+            "nect"
+        ],
+        "positive_strings": [
+            " dollars",
+            " USD",
+            " (\u00c2\u00a3",
+            "-$",
+            " annually",
+            " Dollars",
+            " apiece",
+            " dollar",
+            " euros",
+            "/$"
+        ],
+        "description": "phrases related to large amounts of money"
+    },
+    {
+        "index": "39293",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_39293.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00a4",
+            "mentioned",
+            "stood",
+            "aign",
+            "agate",
+            "Redd",
+            "occupied",
+            "anooga",
+            " shortest",
+            " Com"
+        ],
+        "positive_strings": [
+            " dollars",
+            "dollar",
+            " dollar",
+            "aires",
+            " (\u00c2\u00a3",
+            " USD",
+            "USD",
+            "-$",
+            "aire",
+            " Dollars"
+        ],
+        "description": "mentions of large amounts of money, particularly in the billions and millions range"
+    },
+    {
+        "index": "4271",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_4271.json",
+        "negative_strings": [
+            "actionDate",
+            "hod",
+            "itialized",
+            "pty",
+            "ggles",
+            "achus",
+            "reth",
+            "\u00e6\u0126",
+            "ablished",
+            "acons"
+        ],
+        "positive_strings": [
+            " (\u00c2\u00a3",
+            " thereafter",
+            " (~",
+            " ($",
+            "\u00e2\u012a\u0134",
+            "/$",
+            "ilo",
+            " apiece",
+            "\u00c2\u00b2",
+            " basis"
+        ],
+        "description": "numbers related to time, money, or statistics"
+    },
+    {
+        "index": "48127",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_48127.json",
+        "negative_strings": [
+            "Birth",
+            " Okin",
+            "birth",
+            "\u00e3\u0125\u0126",
+            "Loc",
+            "haw",
+            "cox",
+            "\u00e5\u00a3\u00ab",
+            "\u00e3\u0125\u00b4",
+            "yll"
+        ],
+        "positive_strings": [
+            "aundering",
+            " laundering",
+            " offences",
+            " laund",
+            " trafficking",
+            " cartels",
+            " scams",
+            " fraud",
+            " dealings",
+            " smuggling"
+        ],
+        "description": "terms related to financial crime, specifically money laundering"
+    },
+    {
+        "index": "11494",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_11494.json",
+        "negative_strings": [
+            " Mechdragon",
+            "=(",
+            "Neg",
+            "Wr",
+            "rawdownloadcloneembedreportprint",
+            "restrial",
+            "imil",
+            "REP",
+            " Own",
+            "IRT"
+        ],
+        "positive_strings": [
+            "ilipp",
+            " quarter",
+            "omore",
+            "months",
+            "\u00cc\u00b6",
+            "essee",
+            " epoch",
+            " thirds",
+            "undreds",
+            " chunks"
+        ],
+        "description": "mentions of specific amounts of money or values"
+    },
+    {
+        "index": "21058",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_21058.json",
+        "negative_strings": [
+            " zoning",
+            " scrutiny",
+            "Newsletter",
+            " scheduling",
+            " schedules",
+            " deadlines",
+            " equality",
+            " leveling",
+            "Ball",
+            "olerance"
+        ],
+        "positive_strings": [
+            "),\"",
+            ")]",
+            ").\"",
+            "])",
+            ")=",
+            ")\",",
+            ")",
+            ")\"",
+            "-)",
+            ")--"
+        ],
+        "description": "financial figures such as monetary values and amounts of money"
+    },
+    {
+        "index": "40390",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_40390.json",
+        "negative_strings": [
+            "pton",
+            " Telescope",
+            " Dome",
+            " kidding",
+            "ilings",
+            "ises",
+            " Crus",
+            "iasis",
+            "avez",
+            "ateurs"
+        ],
+        "positive_strings": [
+            "chart",
+            "DragonMagazine",
+            " seamlessly",
+            " into",
+            "through",
+            " through",
+            " flowing",
+            " freely",
+            " smoothly",
+            " downhill"
+        ],
+        "description": "terms related to the movement or transfer of money or resources"
+    },
+    {
+        "index": "1552",
+        "layer": "8-res_fs3072-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_1552.json",
+        "negative_strings": [
+            " Mock",
+            "iliar",
+            "dar",
+            "MAT",
+            "corn",
+            "jong",
+            "arta",
+            "downs",
+            "nu",
+            "down"
+        ],
+        "positive_strings": [
+            " generously",
+            " donation",
+            " donations",
+            " donated",
+            " donors",
+            " donating",
+            " Donation",
+            " donor",
+            " donate",
+            " fundra"
+        ],
+        "description": "phrases related to donating money or other forms of support"
+    },
+    {
+        "index": "78035",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_78035.json",
+        "negative_strings": [
+            "aries",
+            "AIN",
+            "ests",
+            "ariat",
+            "ymes",
+            "izoph",
+            "ested",
+            "ueless",
+            "ators",
+            "ANK"
+        ],
+        "positive_strings": [
+            "lli",
+            "lla",
+            "tto",
+            "tti",
+            "mma",
+            "llan",
+            "byss",
+            "crow",
+            "tta",
+            "tsky"
+        ],
+        "description": "references to specific individuals, primarily names"
+    },
+    {
+        "index": "15437",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_15437.json",
+        "negative_strings": [
+            " Ples",
+            "\u013a\u0127",
+            "\u00a2",
+            "\u00e9\u00be\u012f\u00e5",
+            "\u00e5\u00ae",
+            "ATIONAL",
+            "ItemTracker",
+            " ns",
+            "\u00bf\u00bd",
+            "\u00e3\u0125\u0126"
+        ],
+        "positive_strings": [
+            "mere",
+            "fields",
+            "more",
+            "ulative",
+            "arette",
+            "hers",
+            "eno",
+            "iac",
+            "mers",
+            "iott"
+        ],
+        "description": "mentions of cash and money"
+    },
+    {
+        "index": "15437",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_15437.json",
+        "negative_strings": [
+            " Ples",
+            "\u013a\u0127",
+            "\u00a2",
+            "\u00e9\u00be\u012f\u00e5",
+            "\u00e5\u00ae",
+            "ATIONAL",
+            "ItemTracker",
+            " ns",
+            "\u00bf\u00bd",
+            "\u00e3\u0125\u0126"
+        ],
+        "positive_strings": [
+            "mere",
+            "fields",
+            "more",
+            "ulative",
+            "arette",
+            "hers",
+            "eno",
+            "iac",
+            "mers",
+            "iott"
+        ],
+        "description": "mentions of cash and money"
+    },
+    {
+        "index": "10214",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/money/data_for_feature_10214.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            "yrinth",
+            "aiman",
+            "apons",
+            "Discussion",
+            "\u00e7\u0130\u012d",
+            "fy",
+            "etsk",
+            "eter",
+            "ierre"
+        ],
+        "positive_strings": [
+            " dues",
+            " ransom",
+            " dividends",
+            " royalties",
+            " taxes",
+            " upfront",
+            " debts",
+            " bills",
+            " fees",
+            " penalty"
+        ],
+        "description": "instances where money, payments, or prices are mentioned"
+    }
+]

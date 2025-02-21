@@ -1,0 +1,30 @@
+{
+    "index": "3219",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Mann/data_for_feature_3219.json",
+    "negative_strings": [
+        "\u2581asegurar",
+        "\u2581mat\u00e9ria",
+        "\u2581b\u00fct\u00fcn",
+        "\u2581di\u011fer",
+        "\uc9c0\ub294",
+        "\u2581arrep",
+        "\u2581asegurarse",
+        "\u2581corregir",
+        "\u2581competitors",
+        "\u2581olvidar"
+    ],
+    "positive_strings": [
+        "\u2581persons",
+        "\u2581Persons",
+        "\u2581perfons",
+        "\u2581person",
+        "eseorang",
+        "\u2581people",
+        "\u2581Person",
+        "Persons",
+        "\u2581per\u017fon",
+        "persons"
+    ],
+    "description": "references to people and their roles or actions"
+}

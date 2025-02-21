@@ -1,0 +1,392 @@
+[
+    {
+        "index": "7430",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_7430.json",
+        "negative_strings": [
+            "\ufeff/**",
+            "jsdelivr",
+            "PerformLayout",
+            "\u2581dAtA",
+            "HECK",
+            "tidaknya",
+            "scrapy",
+            "\u2581Lightboxes",
+            "basicConfig",
+            "\u2581jsPsych"
+        ],
+        "positive_strings": [
+            "Son",
+            "\u2581Son",
+            "\u2581Sons",
+            "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+            "\u2581SON",
+            "Sons",
+            "Daughter",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "eson",
+            "\u2581Daughter"
+        ],
+        "description": "references to familial relationships, particularly focusing on the term \"son.\""
+    },
+    {
+        "index": "5446",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_5446.json",
+        "negative_strings": [
+            "\u2581Baus",
+            "koz\u00e1",
+            "vertida",
+            "\u2581sosial",
+            "\u2581McClure",
+            "ARROLL",
+            "<h2>",
+            "\u0144st",
+            "baus",
+            "\u2581wr\u00f3"
+        ],
+        "positive_strings": [
+            "SBATCH",
+            "jsxFileName",
+            "SharedCtor",
+            "\u2581\u017find",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581intptr",
+            "WithMany",
+            "\u30ed\u30a6\u30a3\u30f3",
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "tangentMode"
+        ],
+        "description": "instances of the word \"so\" or its variations, indicating emphasis or continuation in speech"
+    },
+    {
+        "index": "8566",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_8566.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "\udb40\udc6e",
+            "GraphicsUnit",
+            "interpr\u00e9tation",
+            "\u2581Mulberry",
+            "lastung",
+            "\u2581republiky",
+            "\u2581otomatig",
+            "amssymb",
+            "xodo"
+        ],
+        "positive_strings": [
+            "\u2581sn",
+            "\u2581Sn",
+            "Sn",
+            "\u2581SN",
+            "sn",
+            "Snoo",
+            "writeFieldEnd",
+            "SN",
+            "\u2581sne",
+            "\u2581Schn"
+        ],
+        "description": "mentions of single nucleotide polymorphisms (SNPs) and related terms"
+    },
+    {
+        "index": "9990",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_9990.json",
+        "negative_strings": [
+            "getMinutes",
+            "spiller",
+            "\u2581f\u00e9d\u00e9",
+            "########.",
+            "oa\u030dt",
+            "CDCl",
+            "InjectAttribute",
+            "Numerade",
+            "titleMargin",
+            "=*"
+        ],
+        "positive_strings": [
+            "onson",
+            "\u2581Pon",
+            "\u2581Pons",
+            "\u2581Ponce",
+            "Pon",
+            "n",
+            "bardier",
+            "fon",
+            "PON",
+            "on"
+        ],
+        "description": " names or references to the name \"Ron\" and its variations in different contexts"
+    },
+    {
+        "index": "11433",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_11433.json",
+        "negative_strings": [
+            "HtmlAttribute",
+            "ErrUnexpectedEOF",
+            "extAlignment",
+            "DataAnnotations",
+            "\u2581nevoie",
+            "addPreferred",
+            "\u2581\u0627\u0644\u0648\u0637\u0646\u064a\u0647",
+            "\u2581UIAlert",
+            "Autoritn\u00ed",
+            "irvana"
+        ],
+        "positive_strings": [
+            "\u2581son",
+            "\u2581daughter",
+            "\u2581Daughter",
+            "Daughter",
+            "\u2581Son",
+            "\u2581sons",
+            "Son",
+            "\u2581daughters",
+            "daughter",
+            "\u2581Sons"
+        ],
+        "description": "mentions of family relationships, particularly focusing on sons and daughters"
+    },
+    {
+        "index": "8895",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_8895.json",
+        "negative_strings": [
+            "<![",
+            "\u2581v\u00e4h",
+            "\u2581destaque",
+            "\u2581okay",
+            "\u2581ch\u00e3o",
+            "\u9688",
+            "\u2581Beno",
+            "\u2581indoss",
+            "\u2581Mel",
+            "\u2581isolada"
+        ],
+        "positive_strings": [
+            "\u2581Daughter",
+            "Daughter",
+            "\u2581daughter",
+            "\u2581daughters",
+            "daughter",
+            "\u2581son",
+            "UGHTER",
+            "\u2581sons",
+            "\u2581Tochter",
+            "\u2581Daughters"
+        ],
+        "description": " references to daughters or female offspring"
+    },
+    {
+        "index": "11551",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_11551.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581HFILL",
+            "WriteBarrier",
+            "IVEREF",
+            "JAKARTA",
+            "\ue840",
+            "ConstraintMaker",
+            "RenderAtEndOf",
+            "\u2581JADX",
+            "AutoScaleMode"
+        ],
+        "positive_strings": [
+            "\u2581poem",
+            "\u2581poetry",
+            "\u2581poems",
+            "\u2581poet",
+            "\u2581Poetry",
+            "\u2581poets",
+            "\u2581poes\u00eda",
+            "\u2581poetic",
+            "\u2581Poems",
+            "poetry"
+        ],
+        "description": "references to poetry and poetic forms"
+    },
+    {
+        "index": "4134",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_4134.json",
+        "negative_strings": [
+            "odziel",
+            "};*/",
+            "\u05e4\u05d9\u05d4",
+            "\u2581pr\u00e9f\u00e9",
+            "\u2581fallu",
+            "\u2581izquier",
+            "\u2581Pflicht",
+            "Fernseh",
+            "\u2581fija",
+            "__':"
+        ],
+        "positive_strings": [
+            "on",
+            "onson",
+            "lon",
+            "ion",
+            "\u2581Thon",
+            "ilon",
+            "Ton",
+            "Tron",
+            "onin",
+            "Fon"
+        ],
+        "description": "chemical compounds and their classifications"
+    },
+    {
+        "index": "1437",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_1437.json",
+        "negative_strings": [
+            "Autoritn\u00ed",
+            "\u2581CreateTagHelper",
+            "\u2581cantora",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "########.",
+            "\u2581VIAF",
+            "\u2581judiciaire",
+            "Kontrola",
+            "\u58f0\u512a",
+            "\u66f8\u9928"
+        ],
+        "positive_strings": [
+            "\u2581tune",
+            "\u2581song",
+            "\u2581songs",
+            "\u2581tunes",
+            "Tune",
+            "\u2581melody",
+            "song",
+            "\u2581melodies",
+            "tune",
+            "\u2581medley"
+        ],
+        "description": " specific musical terms or references"
+    },
+    {
+        "index": "5043",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_5043.json",
+        "negative_strings": [
+            "voltaic",
+            "----------------",
+            "\u2581SqlParameter",
+            "ostante",
+            "Kit",
+            "GETHER",
+            "zeugen",
+            "\u2581Excellency",
+            "\u00ae",
+            "NH"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "\u2581disponibilit\u00e9s",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "\u2581lizenzfreies",
+            "\u2581\u00e9nerg\u00e9tique",
+            "oa\u030dt",
+            "\u2581resourceCulture",
+            "\u2581financiera",
+            "mybatisplus",
+            "\u2581ind\u00edgen"
+        ],
+        "description": " words related to body modifications or enhancements"
+    },
+    {
+        "index": "8408",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_8408.json",
+        "negative_strings": [
+            "uxxxx",
+            "\u2581\u043a\u04c0\u043e\u0448",
+            "webElementXpaths",
+            "\u043a\u043b\u043e\u043f\u0435",
+            "\u2581ivelany",
+            "ACHUSET",
+            "izr",
+            "isation",
+            "featureID",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621"
+        ],
+        "positive_strings": [
+            "Parcelize",
+            "InstanceState",
+            "spec",
+            "VolleyError",
+            "\u2581\u062a\u0639\u062f\u0649",
+            "\u2581Pat",
+            "Atsauces",
+            "Pat",
+            "\u2581ligiloj",
+            "lat"
+        ],
+        "description": " specific names and technical terms related to Linotype machinery and processes"
+    },
+    {
+        "index": "4074",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_4074.json",
+        "negative_strings": [
+            "KURZBESCHREIBUNG",
+            "\u2581viewDidLoad",
+            "tagHelperRunner",
+            "\u2581AppBar",
+            "principalColumn",
+            "expandindo",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "AndEndTag",
+            "\u824b",
+            "awtextra"
+        ],
+        "positive_strings": [
+            "\u2581Sonic",
+            "Sonic",
+            "\u2581hedgehog",
+            "\u2581Hedgehog",
+            "sonic",
+            "\ud83e\udd94",
+            "\u2581Sega",
+            "\u2581sonic",
+            "\u30bd\u30cb\u30c3\u30af",
+            "Hedge"
+        ],
+        "description": "references to popular video games and characters, particularly those related to the Sonic franchise"
+    },
+    {
+        "index": "10391",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a son/data_for_feature_10391.json",
+        "negative_strings": [
+            "\u2581Paglinawan",
+            "UnusedPrivate",
+            "\u2581CreateTagHelper",
+            "AndEndTag",
+            "!(:",
+            "igurumi",
+            "folios",
+            "\u2581kasarigan",
+            "\u2581transfieras",
+            "\u2581Spice"
+        ],
+        "positive_strings": [
+            "\u2581mother",
+            "\u2581Mother",
+            "Mother",
+            "\u2581MOTHER",
+            "mother",
+            "MOTHER",
+            "\u2581Mothers",
+            "\u2581mothers",
+            "Mothers",
+            "\u2581madre"
+        ],
+        "description": "references to mothers and maternal figures"
+    }
+]

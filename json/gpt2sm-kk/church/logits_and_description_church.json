@@ -1,0 +1,602 @@
+[
+    {
+        "index": "9237",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_9237.json",
+        "negative_strings": [
+            " Hawth",
+            "Agent",
+            " Pryor",
+            "ratom",
+            " Moose",
+            "Mech",
+            " Razer",
+            " Siber",
+            " Kaufman",
+            " Kang"
+        ],
+        "positive_strings": [
+            "Pope",
+            " pope",
+            " Pope",
+            " Vatican",
+            " Catholics",
+            " bishops",
+            " Archbishop",
+            " Catholic",
+            " Jesuit",
+            "Catholic"
+        ],
+        "description": " phrases related to leadership and crisis management within the Catholic Church"
+    },
+    {
+        "index": "8108",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_8108.json",
+        "negative_strings": [
+            " Airbus",
+            "stanbul",
+            " Cyborg",
+            " Stras",
+            " Ankara",
+            " Tunis",
+            " Tayyip",
+            " Tata",
+            " Vega",
+            " Athens"
+        ],
+        "positive_strings": [
+            " LDS",
+            " Mormon",
+            " Mormonism",
+            " Mormons",
+            " Latter",
+            " Brigham",
+            " BYU",
+            "ormon",
+            " priesthood",
+            "ormons"
+        ],
+        "description": " references to the Church of Jesus Christ of Latter-day Saints and its doctrines"
+    },
+    {
+        "index": "1067",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_1067.json",
+        "negative_strings": [
+            "kinson",
+            "DD",
+            "CHO",
+            "ONY",
+            " trick",
+            "LV",
+            "nas",
+            "IENT",
+            " fashioned",
+            " mobil"
+        ],
+        "positive_strings": [
+            " veil",
+            " curtains",
+            " thirds",
+            " gaze",
+            " membranes",
+            " ozone",
+            " Sight",
+            " colonies",
+            "ociate",
+            "utable"
+        ],
+        "description": "phrases and concepts related to the separation of church and state"
+    },
+    {
+        "index": "13452",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_13452.json",
+        "negative_strings": [
+            " SOS",
+            " Osw",
+            " Rasm",
+            " reinforcement",
+            " ESA",
+            " Hitler",
+            " Tsukuyomi",
+            " hors",
+            " Loch",
+            " Tanz"
+        ],
+        "positive_strings": [
+            "interstitial",
+            "\ufe0f",
+            "heed",
+            "ensive",
+            "pires",
+            "orgetown",
+            "adal",
+            "oil",
+            "imester",
+            "idas"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-day Saints (Mormons)"
+    },
+    {
+        "index": "7476",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_7476.json",
+        "negative_strings": [
+            " Esk",
+            " Bowman",
+            " Nash",
+            "Bow",
+            " Aboriginal",
+            " axe",
+            " Elliot",
+            " Bulldogs",
+            " NBN",
+            "monton"
+        ],
+        "positive_strings": [
+            " Vatican",
+            " pope",
+            "Pope",
+            " Pope",
+            "atican",
+            " pont",
+            " pap",
+            " Jesuit",
+            " Catholicism",
+            " Rome"
+        ],
+        "description": "references to the Catholic Church and its leadership, particularly Pope Francis and issues related to Catholic doctrine or controversies"
+    },
+    {
+        "index": "21605",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_21605.json",
+        "negative_strings": [
+            " Quantity",
+            " Commons",
+            "\ufffd\ufffd\u6975",
+            "ITH",
+            " ecology",
+            "anchester",
+            "committee",
+            "hematically",
+            "irds",
+            " [|"
+        ],
+        "positive_strings": [
+            "dating",
+            "agall",
+            " san",
+            "rier",
+            "bu",
+            "ular",
+            "xxx",
+            " pus",
+            "copy",
+            "stall"
+        ],
+        "description": "references to the Catholic Church and its hierarchy"
+    },
+    {
+        "index": "13853",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_13853.json",
+        "negative_strings": [
+            " Chef",
+            " Luffy",
+            " Cricket",
+            " Phillies",
+            "wagen",
+            " Butcher",
+            " Brewer",
+            " Leopard",
+            " Knife",
+            " TSA"
+        ],
+        "positive_strings": [
+            "FORMATION",
+            "unity",
+            " consec",
+            "\u05d0",
+            "eva",
+            "ciples",
+            " immersion",
+            "uum",
+            "\u05d4",
+            "ativity"
+        ],
+        "description": "topics related to church and state separation issues"
+    },
+    {
+        "index": "19035",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_19035.json",
+        "negative_strings": [
+            " clip",
+            "andise",
+            " playbook",
+            " imagery",
+            " simulator",
+            " airspace",
+            " cartoon",
+            " corridor",
+            " notebook",
+            " commercials"
+        ],
+        "positive_strings": [
+            "aneers",
+            "ormons",
+            "ostics",
+            "reys",
+            "thren",
+            "folk",
+            "Scotland",
+            " Sisters",
+            "lishes",
+            "truth"
+        ],
+        "description": " references to the Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "index": "24931",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_24931.json",
+        "negative_strings": [
+            " apes",
+            "\ufffd",
+            "SEE",
+            "phans",
+            "Angelo",
+            "\u30ba",
+            "Whereas",
+            "VALUE",
+            " denial",
+            "selves"
+        ],
+        "positive_strings": [
+            " investigation",
+            "\ufffd\ufffd\ufffd",
+            " beh",
+            " investigates",
+            " widest",
+            "idates",
+            "ieri",
+            "asio",
+            " FSA",
+            "geon"
+        ],
+        "description": "references to the separation of church and state"
+    },
+    {
+        "index": "629",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_629.json",
+        "negative_strings": [
+            "oglu",
+            " Rouhani",
+            " DSM",
+            "oulos",
+            " Fukushima",
+            " XCOM",
+            "\u015f",
+            "assi",
+            " Capcom",
+            " Catalyst"
+        ],
+        "positive_strings": [
+            " Emma",
+            " bapt",
+            " Nau",
+            " 1830",
+            " messenger",
+            " celestial",
+            " Smith",
+            " Lucy",
+            " Alma",
+            " wagon"
+        ],
+        "description": "references to Joseph Smith and foundational aspects of the church"
+    },
+    {
+        "index": "21989",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_21989.json",
+        "negative_strings": [
+            " icing",
+            " treadmill",
+            " synerg",
+            " outright",
+            " booking",
+            "rawdownloadcloneembedreportprint",
+            "agame",
+            "bably",
+            "eport",
+            "onz"
+        ],
+        "positive_strings": [
+            " Evangel",
+            " Deliver",
+            " Purg",
+            " fame",
+            " Forth",
+            " Mormonism",
+            " Presbyter",
+            " Judaism",
+            "sburg",
+            "Muslims"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "index": "30266",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_30266.json",
+        "negative_strings": [
+            "ventus",
+            " Yak",
+            " Aval",
+            "itri",
+            " til",
+            " Lans",
+            "vell",
+            "arag",
+            " prank",
+            "itious"
+        ],
+        "positive_strings": [
+            " Eternity",
+            " Trave",
+            "artist",
+            " afterlife",
+            "\ufffd\ufffd",
+            "Freedom",
+            " realms",
+            "quished",
+            " loose",
+            "uble"
+        ],
+        "description": "references to the separation of church and state"
+    },
+    {
+        "index": "9915",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_9915.json",
+        "negative_strings": [
+            " Ultron",
+            " Bomber",
+            " Bom",
+            "Rocket",
+            "\ufffd",
+            "ratom",
+            " Dek",
+            "Tesla",
+            " Asgard",
+            " Khan"
+        ],
+        "positive_strings": [
+            " Vatican",
+            " pope",
+            " bishops",
+            "Pope",
+            " Catholics",
+            " Pope",
+            " Catholic",
+            " Archbishop",
+            " Cardinal",
+            " Catholicism"
+        ],
+        "description": "terms related to the Catholic Church and its administration"
+    },
+    {
+        "index": "13906",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_13906.json",
+        "negative_strings": [
+            " Polit",
+            " Bust",
+            "phrine",
+            "lehem",
+            " SERV",
+            "*/(",
+            " Unch",
+            "bucks",
+            "DERR",
+            " LIST"
+        ],
+        "positive_strings": [
+            "ioxide",
+            "olation",
+            "otomy",
+            " hiber",
+            "omorph",
+            "verages",
+            "emetery",
+            "ilic",
+            "ega",
+            " Wolverine"
+        ],
+        "description": "words related to political and governmental systems"
+    },
+    {
+        "index": "8174",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_8174.json",
+        "negative_strings": [
+            "Pg",
+            " detectors",
+            " cig",
+            " slopes",
+            "Downloadha",
+            " patio",
+            " cartoons",
+            "\u30bc",
+            "READ",
+            " blaster"
+        ],
+        "positive_strings": [
+            "sky",
+            "hov",
+            "esy",
+            "ary",
+            "illation",
+            "bourg",
+            "\u4e94",
+            "onne",
+            "HUD",
+            "ulhu"
+        ],
+        "description": "church-related terms"
+    },
+    {
+        "index": "10669",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_10669.json",
+        "negative_strings": [
+            " Droid",
+            " GoPro",
+            " Xiaomi",
+            " Gadget",
+            " Cyborg",
+            " UID",
+            " droid",
+            "uez",
+            " Verge",
+            " Garmin"
+        ],
+        "positive_strings": [
+            " congregation",
+            " pastor",
+            " church",
+            " pastors",
+            " congreg",
+            " parish",
+            " churches",
+            " sermon",
+            " Episcopal",
+            "church"
+        ],
+        "description": " references to church or religious institutions and their activities"
+    },
+    {
+        "index": "23075",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_23075.json",
+        "negative_strings": [
+            "Reviewer",
+            " vortex",
+            " airflow",
+            " battle",
+            " Pandora",
+            " heated",
+            " sensation",
+            " controversy",
+            " spat",
+            " FUN"
+        ],
+        "positive_strings": [
+            "leans",
+            "ept",
+            "estamp",
+            "rentices",
+            "heast",
+            "elines",
+            " caveats",
+            "icip",
+            "ppers",
+            "eger"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-day Saints"
+    },
+    {
+        "index": "21709",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_21709.json",
+        "negative_strings": [
+            "hedon",
+            " vit",
+            " quota",
+            " monet",
+            " FTA",
+            "iaz",
+            " leverage",
+            "ELF",
+            " utilization",
+            "lessly"
+        ],
+        "positive_strings": [
+            "boys",
+            "wings",
+            " squares",
+            "ells",
+            " knights",
+            "bey",
+            "byter",
+            " bishops",
+            "aints",
+            " nuns"
+        ],
+        "description": "references to historical figures, particularly saints and their associations with churches"
+    },
+    {
+        "index": "18764",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_18764.json",
+        "negative_strings": [
+            "itone",
+            "uphem",
+            "Lex",
+            "otom",
+            "leneck",
+            "isson",
+            "olog",
+            "ologist",
+            "eport",
+            "alties"
+        ],
+        "positive_strings": [
+            " Aad",
+            " sunshine",
+            " cycling",
+            " DX",
+            "amate",
+            " Competitive",
+            "venants",
+            "league",
+            " enabled",
+            " fps"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-Day Saints and related terms like Mormons, Joseph Smith, and baptism"
+    },
+    {
+        "index": "15188",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/church/data_for_feature_15188.json",
+        "negative_strings": [
+            " overpowered",
+            "ickets",
+            "ebted",
+            " tantal",
+            " vulnerabilities",
+            "vae",
+            " handcuffs",
+            "imilar",
+            "icket",
+            " immobil"
+        ],
+        "positive_strings": [
+            " Judaism",
+            " Methodist",
+            " synagogue",
+            " Presbyter",
+            " Tradition",
+            " fellowship",
+            " Rabb",
+            " Witch",
+            "\ufffd",
+            " Churches"
+        ],
+        "description": "phrases related to the separation of church and state"
+    }
+]

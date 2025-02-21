@@ -1,0 +1,602 @@
+[
+    {
+        "index": "59358",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_59358.json",
+        "negative_strings": [
+            "_WARNINGS",
+            "IFF",
+            "prak",
+            "ted",
+            "dent",
+            " \u00d0\u00b3\u00d1\u0122\u00d0\u00be\u00d0\u00bc",
+            "#Region",
+            " discret",
+            " Mitch",
+            "ynes"
+        ],
+        "positive_strings": [
+            " mad",
+            "mad",
+            " Mad",
+            " MAD",
+            "Mad",
+            " \u00e0\u00a4\u00ae\u00e0\u00a4\u00a6",
+            "pes",
+            "pir",
+            "uet",
+            " pir"
+        ],
+        "description": " references to local Islamic cultural practices and beliefs"
+    },
+    {
+        "index": "44168",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_44168.json",
+        "negative_strings": [
+            ".ManyToMany",
+            "\u00d0\u00b3\u00d0\u00b0\u00d0\u00bb\u00d1\u0138",
+            " McCabe",
+            "\u00d0\u0142\u00d0\u0132",
+            "ORB",
+            "lic",
+            "\u00e3\u0125\u012a\u00e3\u0125\u00ab",
+            "ault",
+            "\u00ec\u013c\u0137",
+            "weg"
+        ],
+        "positive_strings": [
+            " fighters",
+            " Fighters",
+            " fighter",
+            "(IS",
+            "aeda",
+            " militants",
+            " forces",
+            "fighters",
+            "alink",
+            " group"
+        ],
+        "description": " mentions of the Islamic State and related terrorism terminology"
+    },
+    {
+        "index": "42852",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_42852.json",
+        "negative_strings": [
+            "yne",
+            "essler",
+            "ippi",
+            "\u00e6\u00b1\u012b",
+            "fak",
+            "auge",
+            "ombo",
+            "ghi",
+            "435",
+            "\u00ea\u00b2\u00a9"
+        ],
+        "positive_strings": [
+            " strong",
+            " hold",
+            " stronghold",
+            " Strong",
+            "strong",
+            "hold",
+            " held",
+            " base",
+            "Hold",
+            "holds"
+        ],
+        "description": " references to the Islamic State and its activities"
+    },
+    {
+        "index": "11644",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_11644.json",
+        "negative_strings": [
+            "\u00e0\u00b8\u00a7\u00e0\u00b8\u00a5",
+            "chter",
+            "ocha",
+            " \u00d1\u012a\u00d1\u0124\u00d1\u0125",
+            "\u00d8\u00b5\u00d9\u0128",
+            " Baba",
+            "readcr",
+            "ulumi",
+            "CharacterSet",
+            " Wald"
+        ],
+        "positive_strings": [
+            " Kor",
+            " kor",
+            " verses",
+            " Holy",
+            " sur",
+            " \u00d0\u013c\u00d0\u00be\u00d1\u0122",
+            "kor",
+            " Vers",
+            " holy",
+            "Vers"
+        ],
+        "description": " references to Islamic texts or principles"
+    },
+    {
+        "index": "14515",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_14515.json",
+        "negative_strings": [
+            "aman",
+            "itarian",
+            "ault",
+            "nton",
+            "ati",
+            "/AFP",
+            "ctor",
+            "\u00ec\u00a6\u012e",
+            " flood",
+            "awei"
+        ],
+        "positive_strings": [
+            "(IS",
+            "ISIS",
+            " Organisation",
+            "group",
+            " ISIS",
+            "IS",
+            "isis",
+            " organization",
+            " Organization",
+            " organisation"
+        ],
+        "description": "references to the Islamic State and its various names and acronyms"
+    },
+    {
+        "index": "40058",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_40058.json",
+        "negative_strings": [
+            "\u00b5",
+            " Karlov",
+            " Pune",
+            "INDER",
+            "umbs",
+            " Marion",
+            " Maharashtra",
+            ".mx",
+            " pupper",
+            "ROLLER"
+        ],
+        "positive_strings": [
+            " Bang",
+            " Bangladesh",
+            "Bang",
+            " bang",
+            " Beng",
+            "bang",
+            " bd",
+            " \u00e0\u00a6",
+            " Bengal",
+            " Bengals"
+        ],
+        "description": " references to government and Islamic organizations"
+    },
+    {
+        "index": "30980",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_30980.json",
+        "negative_strings": [
+            "efa",
+            "oke",
+            "ena",
+            "idi",
+            "athi",
+            " jihadists",
+            " Jihad",
+            "immer",
+            " insurgents",
+            "iant"
+        ],
+        "positive_strings": [
+            "_FREE",
+            "Ans",
+            " Ja",
+            " Ans",
+            "uth",
+            " Wagner",
+            "ocks",
+            "AllowAnonymous",
+            "\u00d0\u00b8\u00d1\u0122\u00d0\u00be\u00d0\u00b2",
+            " Fors"
+        ],
+        "description": " mentions of Islamic terrorist groups and their activities"
+    },
+    {
+        "index": "24555",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_24555.json",
+        "negative_strings": [
+            "ritch",
+            "pir",
+            "errer",
+            "aldo",
+            "ye",
+            " bon",
+            "arge",
+            " Mahmoud",
+            " arrest",
+            " arrests"
+        ],
+        "positive_strings": [
+            " martyr",
+            " Marty",
+            " marty",
+            " Muj",
+            " muj",
+            " targeting",
+            " purification",
+            "soon",
+            " inf",
+            " Tak"
+        ],
+        "description": " references to Islamic extremism and related commentary"
+    },
+    {
+        "index": "31173",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_31173.json",
+        "negative_strings": [
+            "ssi",
+            ".GetUser",
+            "illi",
+            "unsch",
+            " \u00d1\u0123\u00d0\u00bf\u00d0\u00be\u00d1\u0122\u00d1\u0124\u00d0\u00b8\u00d0\u00b2",
+            "_SECURE",
+            " exe",
+            " immune",
+            " \u00cf\u0129\u00cf\u012b",
+            " \u00d9\u0123\u00d8\u00a7\u00d8\u00b1"
+        ],
+        "positive_strings": [
+            " Christianity",
+            " Buddhism",
+            " Islam",
+            " Judaism",
+            " feminism",
+            " socialism",
+            " communism",
+            " Marxism",
+            "atism",
+            "anism"
+        ],
+        "description": " references to religion, particularly Islam and its portrayal"
+    },
+    {
+        "index": "5692",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_5692.json",
+        "negative_strings": [
+            "inati",
+            " Dev",
+            "SSIP",
+            "esan",
+            " plug",
+            " Anthem",
+            " Stevenson",
+            " Anast",
+            "\u00e6\u00bf",
+            "enko"
+        ],
+        "positive_strings": [
+            " Islam",
+            "mus",
+            "isl",
+            " clit",
+            " assim",
+            " Eur",
+            " Sharia",
+            "Isl",
+            " Muslim",
+            " Muslims"
+        ],
+        "description": " references to Islam and its representation in media"
+    },
+    {
+        "index": "59729",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_59729.json",
+        "negative_strings": [
+            " NPR",
+            " MSNBC",
+            "826",
+            " Fuse",
+            " MS",
+            "773",
+            " Mons",
+            " progressive",
+            ".Nodes",
+            " Lent"
+        ],
+        "positive_strings": [
+            "/Gate",
+            " CAMERA",
+            "gaard",
+            "ze\u00c5\u012a",
+            "\u00d0\u00a1\u00d0\u0140",
+            " freedom",
+            " Euros",
+            " taxpayers",
+            " Sanity",
+            "SION"
+        ],
+        "description": " references to political and anti-Islamic sentiments"
+    },
+    {
+        "index": "2565",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_2565.json",
+        "negative_strings": [
+            "sei",
+            "indi",
+            "\u00e7\u00a3\u00a8",
+            " Armenian",
+            "\u00cc\u0123c",
+            " Krishna",
+            "-Israel",
+            " bapt",
+            " g\u00c3\u00b3",
+            "\u00d0\u00b5\u00d1\u0123\u00d1\u0123"
+        ],
+        "positive_strings": [
+            " fat",
+            " Hud",
+            " Islamic",
+            " Hal",
+            " hal",
+            "_hal",
+            " Fat",
+            " zak",
+            " Kor",
+            " Islam"
+        ],
+        "description": " references to Islamic law and cultural practices"
+    },
+    {
+        "index": "46776",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_46776.json",
+        "negative_strings": [
+            "y",
+            "i",
+            "l",
+            "oir",
+            "\u00d8\u00a7",
+            "o",
+            "d",
+            "ex",
+            "oj",
+            "et"
+        ],
+        "positive_strings": [
+            "abeled",
+            "ly",
+            "ipse",
+            "lexport",
+            "phabet",
+            "endar",
+            "antis",
+            "kah",
+            "inded",
+            "alah"
+        ],
+        "description": " references to the Islamic culture or related terms"
+    },
+    {
+        "index": "32512",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_32512.json",
+        "negative_strings": [
+            "oq",
+            "\u00e5\u012d\u00a4",
+            "ibo",
+            "::<",
+            " dpi",
+            "ITES",
+            "aries",
+            " Nature",
+            "_behavior",
+            "404"
+        ],
+        "positive_strings": [
+            " olsun",
+            " Bless",
+            " blessings",
+            " peace",
+            " bless",
+            " blessing",
+            " \u00d9\u012a\u00d8\u00b3\u00d9\u0126\u00d9\u0127",
+            " seja",
+            " be",
+            "peace"
+        ],
+        "description": "references to Islamic expressions and affirmations of faith"
+    },
+    {
+        "index": "49605",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_49605.json",
+        "negative_strings": [
+            " Jehovah",
+            " Krishna",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            " LL",
+            " Luther",
+            " bapt",
+            "lix",
+            "\u00d9\u012a\u00d9\u0128\u00d8\u00af",
+            "\u00e5\u00b8\u012a",
+            "anse"
+        ],
+        "positive_strings": [
+            " Prophet",
+            " Messenger",
+            " Fat",
+            " prophet",
+            " Verse",
+            " Hij",
+            " verses",
+            "Ka",
+            " Kor",
+            " fat"
+        ],
+        "description": " references to Islamic teachings or law"
+    },
+    {
+        "index": "24970",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_24970.json",
+        "negative_strings": [
+            "lobals",
+            "strcasecmp",
+            ":disable",
+            "_accessible",
+            ".cloudflare",
+            "_OVERFLOW",
+            "akah",
+            "uters",
+            "catid",
+            "_NEED"
+        ],
+        "positive_strings": [
+            " must",
+            "must",
+            " Must",
+            " MUST",
+            "Must",
+            " gotta",
+            " cannot",
+            ".must",
+            "\u00e5\u00bf\u0127\u00e9\u00a1\u00bb",
+            ".Must"
+        ],
+        "description": " statements that assert beliefs or truths about religion, particularly Islam"
+    },
+    {
+        "index": "39004",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_39004.json",
+        "negative_strings": [
+            " ",
+            ",",
+            "\n",
+            "\u00c2\u0143",
+            ":",
+            "-",
+            " Sher",
+            "\u00c2\u0142",
+            " ext",
+            " unlike"
+        ],
+        "positive_strings": [
+            "acades",
+            "ameda",
+            "k\u00c4\u00b1r",
+            "hoa",
+            "\u00e7\u00ab\u013e",
+            "\u00e0\u00b8\u013d\u00e0\u00b8\u00a3\u00e0\u00b8\u00b0\u00e0\u00b8\u00a1",
+            " RoundedRectangle",
+            "\u0139",
+            "ecycle",
+            "ogn"
+        ],
+        "description": " statements expressing beliefs or misconceptions about Islam and its followers"
+    },
+    {
+        "index": "26919",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_26919.json",
+        "negative_strings": [
+            " Biblical",
+            "ecome",
+            "\u00ce\u00b3\u00ce\u00ba\u00ce\u00b1",
+            " kvin",
+            "olon",
+            " biblical",
+            " Celt",
+            "pped",
+            " Tribal",
+            "acher"
+        ],
+        "positive_strings": [
+            " followers",
+            " follower",
+            " Followers",
+            " minority",
+            "followers",
+            " adher",
+            " practicing",
+            " pract",
+            " anim",
+            "minor"
+        ],
+        "description": " references to religious and political issues related to Islam and Muslims"
+    },
+    {
+        "index": "9526",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_9526.json",
+        "negative_strings": [
+            "indi",
+            "yth",
+            "ancer",
+            " equ",
+            "\u00cf\u0123\u00ce\u00ba",
+            "Velocity",
+            "esine",
+            "etail",
+            ".lst",
+            " Intr"
+        ],
+        "positive_strings": [
+            " Muslims",
+            "umm",
+            " Muslim",
+            " um",
+            "Muslim",
+            " Islam",
+            " muslim",
+            " religion",
+            " Religion",
+            "-Isl"
+        ],
+        "description": " references to Islamic concepts and the role of women along with related sociopolitical commentary"
+    },
+    {
+        "index": "60673",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/islam/data_for_feature_60673.json",
+        "negative_strings": [
+            " secular",
+            "947",
+            "agua",
+            "anse",
+            "shal",
+            " \u00e8\u00b6",
+            "\u013d\u0126",
+            "lerdi",
+            "assword",
+            " Hero"
+        ],
+        "positive_strings": [
+            " mono",
+            " Allan",
+            " Warner",
+            " Tau",
+            " disbelief",
+            " Fir",
+            "-kit",
+            " Mus",
+            " Guidance",
+            "\u00eb\u0131\u0127"
+        ],
+        "description": " references to the nature of Islam and its teachings"
+    }
+]

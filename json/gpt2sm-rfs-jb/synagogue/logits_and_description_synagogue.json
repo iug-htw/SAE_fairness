@@ -1,0 +1,62 @@
+[
+    {
+        "index": "4266",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/synagogue/data_for_feature_4266.json",
+        "negative_strings": [
+            "BuyableInstoreAndOnline",
+            "zie",
+            "itives",
+            "hya",
+            " TP",
+            "yon",
+            "reads",
+            "byss",
+            "rum",
+            "negative"
+        ],
+        "positive_strings": [
+            "agogue",
+            "yard",
+            "yards",
+            " synagogue",
+            " rabbi",
+            " rabb",
+            " congregation",
+            " halls",
+            " crawl",
+            "agog"
+        ],
+        "description": "terms related to Jewish religious institutions and leaders, particularly synagogues and rabbis"
+    },
+    {
+        "index": "17113",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/synagogue/data_for_feature_17113.json",
+        "negative_strings": [
+            "amina",
+            "isters",
+            " Ambrose",
+            "ftime",
+            "verbs",
+            "artments",
+            " Bellev",
+            "enthal",
+            "waters",
+            "}}}"
+        ],
+        "positive_strings": [
+            " depending",
+            "depending",
+            " thereof",
+            " versa",
+            " whatsoever",
+            "atever",
+            "SPONSORED",
+            " alike",
+            " whichever",
+            " anywhere"
+        ],
+        "description": "specific terms related to legal and political discussions, such as \"military court\", \"activist\", \"misdemeanor\", \"synagogue\", \"niece\", \"faction\", \"product\", \"place of worship\", \"caste\", \"creed\", and \"sell\""
+    }
+]

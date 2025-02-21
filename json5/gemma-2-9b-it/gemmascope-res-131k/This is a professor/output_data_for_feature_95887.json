@@ -1,0 +1,30 @@
+{
+    "index": "95887",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a professor/data_for_feature_95887.json",
+    "negative_strings": [
+        "\u2581ExecuteAsync",
+        "\u2581skor",
+        "Friends",
+        "\u2581karde\u015f",
+        "EditorBrowsable",
+        "HasForeignKey",
+        "\u2581Friends",
+        "\u2581protoimpl",
+        "amigos",
+        "\u2581spese"
+    ],
+    "positive_strings": [
+        "\u2581teaching",
+        "\u2581teacher",
+        "\u2581teach",
+        "\u2581teachers",
+        "teacher",
+        "\u2581mengajar",
+        "teaching",
+        "\u2581Teacher",
+        "Teacher",
+        "\u2581teaches"
+    ],
+    "description": "references to educators and their roles"
+}

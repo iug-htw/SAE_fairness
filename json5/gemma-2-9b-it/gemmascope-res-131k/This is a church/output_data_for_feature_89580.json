@@ -1,0 +1,30 @@
+{
+    "index": "89580",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a church/data_for_feature_89580.json",
+    "negative_strings": [
+        "\u2581createSlice",
+        "\u2581pilots",
+        "\u2581immortal",
+        "TabIndex",
+        "dafx",
+        "Biografi",
+        "sno",
+        "\u2581marvels",
+        "\u2581Condor",
+        "marginal"
+    ],
+    "positive_strings": [
+        "\u2581church",
+        "\u2581Church",
+        "\u2581CHURCH",
+        "\u2581Churches",
+        "Church",
+        "\u2581iglesia",
+        "\u2581churches",
+        "church",
+        "\u2581Iglesia",
+        "\u2581\u00e9glises"
+    ],
+    "description": "references to churches and their characteristics or attributes"
+}

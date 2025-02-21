@@ -1,0 +1,30 @@
+{
+    "index": "9879",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/this is nose/data_for_feature_9879.json",
+    "negative_strings": [
+        "SharedDtor",
+        "\u2581disambiguazione",
+        "CppMethod",
+        "BufferException",
+        "tagHelperRunner",
+        "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+        "\u2581onPostExecute",
+        "StandardCharsets",
+        "\u2581linkovi",
+        "DispatchToProps"
+    ],
+    "positive_strings": [
+        "bone",
+        "\u2581bone",
+        "Bone",
+        "bones",
+        "\u2581injury",
+        "\u2581Bone",
+        "piece",
+        "BONE",
+        "\u2581bones",
+        "\u2581muscles"
+    ],
+    "description": "body parts and anatomical features"
+}

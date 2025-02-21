@@ -1,0 +1,602 @@
+[
+    {
+        "index": "112113",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_112113.json",
+        "negative_strings": [
+            "ted",
+            "gfx",
+            "tx",
+            "erif",
+            "tant",
+            " FactoryBot",
+            "table",
+            "geme",
+            "tica",
+            "dma"
+        ],
+        "positive_strings": [
+            "endez",
+            "orca",
+            "opause",
+            "ninger",
+            "acing",
+            "cken",
+            "ace",
+            "asha",
+            "elik",
+            "zel"
+        ],
+        "description": "references to \"men\" in various contexts"
+    },
+    {
+        "index": "90864",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_90864.json",
+        "negative_strings": [
+            " females",
+            " male",
+            " males",
+            "Female",
+            " female",
+            " Male",
+            "male",
+            " Female",
+            "Male",
+            "female"
+        ],
+        "positive_strings": [
+            " basketball",
+            " hoops",
+            " lac",
+            " tennis",
+            " soccer",
+            " hoop",
+            " swimming",
+            "-basket",
+            " lax",
+            " golf"
+        ],
+        "description": " references to men's and boys' sports teams and related coaching roles"
+    },
+    {
+        "index": "9922",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_9922.json",
+        "negative_strings": [
+            " inv",
+            " Inv",
+            "inv",
+            "Inv",
+            "_inv",
+            " INV",
+            "-inv",
+            "(inv",
+            ".inv",
+            "INV"
+        ],
+        "positive_strings": [
+            "18",
+            " eighteen",
+            "018",
+            "\u00e5\u012f\u0123\u00e5\u0127\u00ab",
+            "\u00db\u00b1\u00db\u00b8",
+            " XV",
+            " xv",
+            "\u00e0\u00a5\u00a7\u00e0\u00a5",
+            "een",
+            "eenth"
+        ],
+        "description": " numeric and financial data, along with counts of men and women in specified contexts"
+    },
+    {
+        "index": "51689",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_51689.json",
+        "negative_strings": [
+            "ernote",
+            "Sad",
+            " FactoryBot",
+            "erif",
+            "vous",
+            "imler",
+            "atik",
+            "gnore",
+            "gfx",
+            "thal"
+        ],
+        "positive_strings": [
+            "opause",
+            "orca",
+            "endez",
+            "lo",
+            "ace",
+            "cken",
+            "ninger",
+            "elik",
+            "acing",
+            "ager"
+        ],
+        "description": "references to men's health"
+    },
+    {
+        "index": "30437",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_30437.json",
+        "negative_strings": [
+            " female",
+            " male",
+            " Male",
+            " Female",
+            " females",
+            " males",
+            "\u00e5\u00a5\u00b3\u00e6\u0122\u00a7",
+            "male",
+            "\u00e7\u0136\u00b7\u00e6\u0122\u00a7",
+            "Female"
+        ],
+        "positive_strings": [
+            " lac",
+            " basketball",
+            " soccer",
+            " tennis",
+            " golf",
+            " Lac",
+            " cross",
+            "vol",
+            "lac",
+            " hoops"
+        ],
+        "description": " references to men's and boys' sports teams and competitions"
+    },
+    {
+        "index": "11330",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_11330.json",
+        "negative_strings": [
+            " FactoryBot",
+            "Sad",
+            "ernote",
+            "imler",
+            "atik",
+            "piring",
+            "AML",
+            "lassen",
+            " Ley",
+            "r\u00c3\u00a1t"
+        ],
+        "positive_strings": [
+            "opause",
+            "endez",
+            "orca",
+            "ager",
+            "ubar",
+            "cken",
+            "udo",
+            "elik",
+            "ninger",
+            "acing"
+        ],
+        "description": "references to men and male-related terms"
+    },
+    {
+        "index": "10229",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_10229.json",
+        "negative_strings": [
+            " masters",
+            " master",
+            "_palette",
+            "utzer",
+            "uilt",
+            "osi",
+            " MASTER",
+            "(master",
+            "etak",
+            "ACES"
+        ],
+        "positive_strings": [
+            "-Men",
+            " Men",
+            "Men",
+            "men",
+            "-men",
+            " men",
+            " MEN",
+            "mens",
+            "arus",
+            " Mens"
+        ],
+        "description": "references to the X-Men franchise"
+    },
+    {
+        "index": "113964",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_113964.json",
+        "negative_strings": [
+            "\u00d0\u00be\u00d0\u00bb\u00d1\u012e",
+            "lass",
+            "\u00c3\u00abr",
+            "entifier",
+            " Spear",
+            "er",
+            "ablish",
+            "\u00e6\u012b\u00a7",
+            "rollo",
+            "avou"
+        ],
+        "positive_strings": [
+            "opause",
+            "arch",
+            "op",
+            "orrh",
+            "iscal",
+            "str",
+            "iere",
+            "STRU",
+            "isc",
+            " arch"
+        ],
+        "description": "references to \"men\" in the context of age or life stages"
+    },
+    {
+        "index": "6185",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_6185.json",
+        "negative_strings": [
+            "er",
+            "tica",
+            "eriod",
+            "engin",
+            "erif",
+            "erin",
+            "dete",
+            "erde",
+            "ted",
+            "agini"
+        ],
+        "positive_strings": [
+            "folk",
+            "opause",
+            "aces",
+            "ial",
+            "ager",
+            "aced",
+            "ials",
+            "/w",
+            "'s",
+            "fol"
+        ],
+        "description": "references to gender, particularly related to men"
+    },
+    {
+        "index": "16096",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_16096.json",
+        "negative_strings": [
+            "\u00e0\u00b9\u0126\u00e0\u00b8\u0124",
+            "AGR",
+            "inkle",
+            "ulla",
+            "atr",
+            "clid",
+            "RESSED",
+            "/stretch",
+            "(gcf",
+            "pling"
+        ],
+        "positive_strings": [
+            " Days",
+            " Origins",
+            "olver",
+            " Wolver",
+            " mutants",
+            " DAYS",
+            " days",
+            " Gamb",
+            "Days",
+            " Bryan"
+        ],
+        "description": "references to the \"X-Men\" franchise in various contexts"
+    },
+    {
+        "index": "558",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_558.json",
+        "negative_strings": [
+            "iben",
+            "543",
+            "pets",
+            "\u00e6\u00b4\u00bb",
+            "\u00e3\u0125\u00ab\u00e3\u0124\u00af",
+            "elfare",
+            "ingt",
+            ".abstract",
+            ")((((",
+            "\u00ec\u00b0\u00b0"
+        ],
+        "positive_strings": [
+            " gente",
+            " personas",
+            " persone",
+            " individ",
+            " pessoas",
+            " adept",
+            " personnes",
+            " hombres",
+            " fie",
+            " sold"
+        ],
+        "description": " references to men and groups involving men in various contexts"
+    },
+    {
+        "index": "3988",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_3988.json",
+        "negative_strings": [
+            "Sad",
+            " Sad",
+            "ters",
+            "eren",
+            "ahn",
+            "atik",
+            "aters",
+            "ernote",
+            "uil",
+            "tee"
+        ],
+        "positive_strings": [
+            "opause",
+            "cken",
+            "endez",
+            "orca",
+            "ubar",
+            "kes",
+            "iscal",
+            "\u00d0\u00b5\u00d0\u00b4\u00d0\u00b6",
+            "isci",
+            "acing"
+        ],
+        "description": " references to men and male-related topics"
+    },
+    {
+        "index": "92032",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_92032.json",
+        "negative_strings": [
+            "untime",
+            "idine",
+            "esel",
+            "gregar",
+            "ired",
+            "VIC",
+            "lesi",
+            "utan",
+            " Warfare",
+            "\u00d0\u00b4\u00d1\u0122\u00d0\u00be\u00d0\u00bc"
+        ],
+        "positive_strings": [
+            " women",
+            " woman",
+            "women",
+            "\u00e5\u00a5\u00b3\u00e4\u00ba\u00ba",
+            "-w",
+            "woman",
+            " WOM",
+            " wom",
+            " \u00d0\u00b6\u00d0\u00b5\u00d0\u00bd\u00d1\u012b\u00d0\u00b8\u00d0\u00bd",
+            " Women"
+        ],
+        "description": "references to gender, particularly focusing on men and women"
+    },
+    {
+        "index": "91954",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_91954.json",
+        "negative_strings": [
+            "illos",
+            "affle",
+            "eldorf",
+            "\u00e0\u00b9\u0126\u00e0\u00b8\u0124",
+            "aggregate",
+            "ulur",
+            " aggregate",
+            "\u00e5\u00b8\u00af",
+            "Aggregate",
+            "uil"
+        ],
+        "positive_strings": [
+            " Days",
+            " mutants",
+            "olver",
+            " Singer",
+            " DAYS",
+            " Wolver",
+            " Origins",
+            "Days",
+            " Bryan",
+            " Apocalypse"
+        ],
+        "description": " references to the \"X-Men\" franchise and specific related films or characters"
+    },
+    {
+        "index": "38239",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_38239.json",
+        "negative_strings": [
+            " female",
+            " male",
+            " Male",
+            " Female",
+            " females",
+            "male",
+            "\u00e5\u00a5\u00b3\u00e6\u0122\u00a7",
+            "\u00e7\u0136\u00b7\u00e6\u0122\u00a7",
+            "Female",
+            "Male"
+        ],
+        "positive_strings": [
+            " basketball",
+            "basket",
+            " lac",
+            " basket",
+            "-basket",
+            " Lac",
+            "_soc",
+            " Basketball",
+            " soccer",
+            " cross"
+        ],
+        "description": " references to men's sports teams and related events"
+    },
+    {
+        "index": "28777",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/men/data_for_feature_28777.json",
+        "negative_strings": [
+            "Sad",
+            "foy",
+            "gart",
+            "AML",
+            "ighton",
+            "ters",
+            "aters",
+            "piring",
+            " Sad",
+            "\u00d0\u00bb\u00d0\u00b8\u00d1\u0128"
+        ],
+        "positive_strings": [
+            "opause",
+            "endez",
+            "elik",
+            "ager",
+            "cken",
+            "ubar",
+            "acing",
+            "isci",
+            "iscal",
+            "orrh"
+        ],
+        "description": " references to masculine entities or concepts, particularly those related to men"
+    },
+    {
+        "index": "120626",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_120626.json",
+        "negative_strings": [
+            "ighton",
+            "oslav",
+            "gart",
+            "gaard",
+            "piring",
+            "Sad",
+            "ahn",
+            "iaz",
+            "aters",
+            "keit"
+        ],
+        "positive_strings": [
+            "opause",
+            "ager",
+            "ubar",
+            "hir",
+            "udo",
+            "iscal",
+            "ial",
+            "aces",
+            "acing",
+            "\u00d0\u00b5\u00d0\u00b4\u00d0\u00b6"
+        ],
+        "description": "references to men or male-related terms"
+    },
+    {
+        "index": "36851",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_36851.json",
+        "negative_strings": [
+            "\u00c5\u013b\u00c3\u0143t",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0129\u00e3\u0124\u00a3",
+            "ritt",
+            "istine",
+            " kvinn",
+            "ocene",
+            "\u00d8\u00a7\u00d9\u0123\u00d8\u00aa",
+            "itto",
+            " Sisters",
+            "FromClass"
+        ],
+        "positive_strings": [
+            "wear",
+            " wear",
+            " Wear",
+            " grooming",
+            " formal",
+            "'",
+            "-w",
+            " suits",
+            "/w",
+            "ware"
+        ],
+        "description": "references to men's health and related products"
+    },
+    {
+        "index": "49270",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_49270.json",
+        "negative_strings": [
+            "Sad",
+            " Sad",
+            "ahn",
+            "ernote",
+            "gart",
+            "ters",
+            "ighton",
+            "Fat",
+            "eters",
+            "-fat"
+        ],
+        "positive_strings": [
+            "ager",
+            "opause",
+            "elik",
+            "lo",
+            "endez",
+            "cken",
+            "ards",
+            "acing",
+            "ubar",
+            "orca"
+        ],
+        "description": "references to men"
+    },
+    {
+        "index": "34559",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/men/data_for_feature_34559.json",
+        "negative_strings": [
+            "us",
+            "ahl",
+            "lauf",
+            "ermann",
+            "tok",
+            "dog",
+            "uhan",
+            "sville",
+            "dogs",
+            "ModelProperty"
+        ],
+        "positive_strings": [
+            "inges",
+            "ingo",
+            "ager",
+            "a\u00c3\u00a7",
+            "ial",
+            "inge",
+            "ubar",
+            "a",
+            "aad",
+            "ialized"
+        ],
+        "description": "mentions of \"men\" in various contexts"
+    }
+]

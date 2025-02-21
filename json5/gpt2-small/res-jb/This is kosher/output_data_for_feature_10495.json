@@ -1,0 +1,30 @@
+{
+    "index": "10495",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_10495.json",
+    "negative_strings": [
+        "elaide",
+        "\u00c3\u00a3o",
+        "Brazil",
+        "UFC",
+        "wcsstore",
+        "ratom",
+        " Silva",
+        " pineapple",
+        "Corp",
+        "PLA"
+    ],
+    "positive_strings": [
+        " Rabbi",
+        " Judaism",
+        " rabbi",
+        " Jewish",
+        " synagogue",
+        " rabb",
+        " Jews",
+        "Jewish",
+        "Jews",
+        " Torah"
+    ],
+    "description": "mentions of religious conversions"
+}

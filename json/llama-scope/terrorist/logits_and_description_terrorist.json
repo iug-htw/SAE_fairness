@@ -1,0 +1,602 @@
+[
+    {
+        "index": "119974",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_119974.json",
+        "negative_strings": [
+            "lek",
+            "882",
+            "GINE",
+            "hone",
+            "sei",
+            "\u00d9\u012c\u00d9\u0126\u00d8\u00a7\u00d8\u00af",
+            " Cherokee",
+            " dumpster",
+            "ijd",
+            "hack"
+        ],
+        "positive_strings": [
+            " Haram",
+            " sect",
+            " Sect",
+            " Harm",
+            " Faction",
+            " boys",
+            " Isl",
+            " girls",
+            "aram",
+            " Girls"
+        ],
+        "description": "references to terrorist organizations and related themes"
+    },
+    {
+        "index": "5097",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_5097.json",
+        "negative_strings": [
+            ".sponge",
+            "azo",
+            "alborg",
+            "assi",
+            ".sdk",
+            "Href",
+            " Homer",
+            " Knox",
+            "ODY",
+            "ARTH"
+        ],
+        "positive_strings": [
+            " Qaeda",
+            "-Qaeda",
+            " al",
+            "aeda",
+            "queda",
+            " Nurs",
+            " Fate",
+            " \u00d0\u0139\u00d0\u00b0\u00d0\u00b2",
+            "_CI",
+            " Bay"
+        ],
+        "description": "references to specific terrorist organizations, particularly al-Qaeda and its affiliates"
+    },
+    {
+        "index": "9159",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_9159.json",
+        "negative_strings": [
+            "opause",
+            "ickle",
+            "Interstitial",
+            "\u00d0\u00b0\u00d0\u00bb\u00d1\u0125",
+            " LLP",
+            "\u00e3\u0123\u00a3\u00e3\u0123\u00b1",
+            "\u00ec\u00bb\u00a4\u00ec\u012c\u00a4",
+            "inals",
+            "\u00e5\u012e",
+            "ignKey"
+        ],
+        "positive_strings": [
+            " Christ",
+            " mosques",
+            " mosque",
+            "Christ",
+            " Mosque",
+            " NZ",
+            " gunman",
+            " shooter",
+            " Ard",
+            " shootings"
+        ],
+        "description": " references to violent incidents or terrorist attacks"
+    },
+    {
+        "index": "17289",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_17289.json",
+        "negative_strings": [
+            ".sponge",
+            "\u00e7\u00bf",
+            "artz",
+            "HAL",
+            "assi",
+            "ifndef",
+            "ORB",
+            "arts",
+            " autos",
+            " \u00c4\u0133\u00e1\u00bb\u00a9ng"
+        ],
+        "positive_strings": [
+            "-Qaeda",
+            " Qaeda",
+            "aeda",
+            "queda",
+            " Gore",
+            "hur",
+            " leg",
+            "azeera",
+            "-Q",
+            " queda"
+        ],
+        "description": "mentions of terrorist organizations and related names"
+    },
+    {
+        "index": "19364",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_19364.json",
+        "negative_strings": [
+            "alim",
+            "unused",
+            "asz",
+            "ostel",
+            " \u00e6\u0125",
+            " unused",
+            "\u00e6\u00ac\u0142",
+            "sez",
+            "mann",
+            "riad"
+        ],
+        "positive_strings": [
+            " stressed",
+            " stresses",
+            " affirmed",
+            " stressing",
+            " reviewed",
+            " Advisor",
+            " Stress",
+            " Chairman",
+            " Affairs",
+            " renewed"
+        ],
+        "description": " references to political bodies and their positions on conflicts or terrorist activities"
+    },
+    {
+        "index": "23166",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_23166.json",
+        "negative_strings": [
+            "\u00c5\u013beh",
+            "\u00e8\u0138\u0126",
+            "\u00d0\u00b7\u00d1\u012e",
+            "ahoo",
+            "\u00e0\u00b8\u0123\u00e0\u00b8\u0137",
+            "\u00d8\u00b9\u00d8\u00a7\u00d8\u00af",
+            "\u00e0\u00b8\u00a7\u00e0\u00b8\u00a5",
+            "\u00d0\u00b3\u00d0\u00be\u00d1\u0122",
+            "\u00d1\u0131\u00d0\u00b5\u00d0\u00bc",
+            "voke"
+        ],
+        "positive_strings": [
+            " attack",
+            " attacks",
+            " shootings",
+            " killings",
+            " shooting",
+            " murders",
+            " massacre",
+            " bombings",
+            " assaults",
+            "attacks"
+        ],
+        "description": "references to terrorist attacks and related events"
+    },
+    {
+        "index": "1797",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_1797.json",
+        "negative_strings": [
+            "itzer",
+            "torch",
+            " showc",
+            "geh",
+            "WithError",
+            "\u00d1\u0122\u00d1\u0125\u00d1\u012a",
+            "\u00e0\u00b9\u0126\u00e0\u00b8\u00a5",
+            "(torch",
+            "yard",
+            "levation"
+        ],
+        "positive_strings": [
+            " financing",
+            " cells",
+            " Financing",
+            "/ext",
+            " cell",
+            " activity",
+            " attacks",
+            " plot",
+            " plots",
+            " attack"
+        ],
+        "description": " references to terrorist acts and organizations"
+    },
+    {
+        "index": "4109",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_4109.json",
+        "negative_strings": [
+            "culture",
+            " Armenian",
+            "ictor",
+            "NAV",
+            "\u00e3\u0125\u0125\u00e3\u0125\u0139",
+            " \u00d0\u00b1\u00d1\u0125\u00d0\u00b4",
+            "Culture",
+            "ire",
+            " pry",
+            " bottle"
+        ],
+        "positive_strings": [
+            " Baghd",
+            " AQ",
+            " fighters",
+            " leader",
+            " ISI",
+            " affiliates",
+            " operatives",
+            " militants",
+            " Fighters",
+            "-IS"
+        ],
+        "description": " references to terrorist organizations and their activities"
+    },
+    {
+        "index": "18696",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_18696.json",
+        "negative_strings": [
+            "azio",
+            "rap",
+            "fx",
+            "ubar",
+            "roperties",
+            "sy",
+            "364",
+            ".enterprise",
+            "avo",
+            "[...,"
+        ],
+        "positive_strings": [
+            " Hou",
+            " Ans",
+            " Iran",
+            " rebels",
+            " rebel",
+            "Ans",
+            " Iranian",
+            " Shiite",
+            " Shi",
+            "reb"
+        ],
+        "description": " references to militia and terrorist activities in the context of geopolitical conflicts"
+    },
+    {
+        "index": "39100",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_39100.json",
+        "negative_strings": [
+            "itzer",
+            "torch",
+            " Terrorism",
+            " Tensor",
+            " Terror",
+            " terrorism",
+            "terror",
+            "asket",
+            " terrorists",
+            "(torch"
+        ],
+        "positive_strings": [
+            " activity",
+            " organizations",
+            " activities",
+            " organization",
+            " financing",
+            " cells",
+            "/ext",
+            " groups",
+            " act",
+            " acts"
+        ],
+        "description": "references to terrorism and terrorist-related terms"
+    },
+    {
+        "index": "113751",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_113751.json",
+        "negative_strings": [
+            "\u00d0\u00bb\u00d0\u00b0\u00d1\u0124",
+            "pell",
+            "oser",
+            " semiclass",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0143\u00e0\u00b8\u0129\u00e0\u00b8\u0140",
+            "ptions",
+            "ICA",
+            "\u00d1\u0122\u00d0\u00b5\u00d1\u012b",
+            "iao",
+            " bankrupt"
+        ],
+        "positive_strings": [
+            " execution",
+            " be",
+            " executions",
+            " Execution",
+            " capt",
+            " executing",
+            " Foley",
+            " IS",
+            " dec",
+            " Yaz"
+        ],
+        "description": " references to terrorist activities and recruitment efforts"
+    },
+    {
+        "index": "14622",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_14622.json",
+        "negative_strings": [
+            " Tensor",
+            "senal",
+            "ledged",
+            "sheet",
+            "ippi",
+            "uesta",
+            "isters",
+            "erre",
+            "basket",
+            " tensors"
+        ],
+        "positive_strings": [
+            " groups",
+            " organizations",
+            " organization",
+            " activity",
+            " group",
+            " organisations",
+            " organisation",
+            " cells",
+            " activities",
+            " networks"
+        ],
+        "description": "terms related to terrorism and terrorist activities"
+    },
+    {
+        "index": "51335",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_51335.json",
+        "negative_strings": [
+            "iant",
+            "WithOptions",
+            "\u00ec\u0138\u00bc",
+            " ============================================================================\n",
+            "thes",
+            "egin",
+            "\u00e3\u0123\u0138",
+            "Islam",
+            "ToJson",
+            " pylint"
+        ],
+        "positive_strings": [
+            " State",
+            "State",
+            "ext",
+            "-ext",
+            " fundamental",
+            "Front",
+            "-State",
+            "_State",
+            "ists",
+            "ist"
+        ],
+        "description": "mentions of Islamic groups and terrorist affiliations"
+    },
+    {
+        "index": "28616",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_28616.json",
+        "negative_strings": [
+            "itzer",
+            "geh",
+            "OKIE",
+            "yard",
+            " Terrorism",
+            "\u00e0\u00b9\u0126\u00e0\u00b8\u00a5",
+            "away",
+            " Terror",
+            "torch",
+            " showc"
+        ],
+        "positive_strings": [
+            " financing",
+            "/ext",
+            " cells",
+            " acts",
+            " organizations",
+            " groups",
+            " plot",
+            " Financing",
+            " act",
+            " attacks"
+        ],
+        "description": "terms related to terrorism and terrorist organizations"
+    },
+    {
+        "index": "18824",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_18824.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d0\u00bd\u00d1\u012e",
+            " \u00d0\u00b7\u00d0\u00b0\u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d0\u00be\u00d0\u00bc",
+            "\u00e5\u00bd\u0135",
+            "zy",
+            "yses",
+            "DLL",
+            "ngen",
+            "zin",
+            "kel",
+            "\u00e6\u00a1\u012a"
+        ],
+        "positive_strings": [
+            "aida",
+            "aeda",
+            "azeera",
+            "eda",
+            "uida",
+            "addafi",
+            "usra",
+            "psilon",
+            "aed",
+            " al"
+        ],
+        "description": " references to specific terrorist organizations, particularly those associated with Al-Qaeda"
+    },
+    {
+        "index": "23809",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_23809.json",
+        "negative_strings": [
+            " Arrest",
+            "388",
+            "648",
+            "ahoo",
+            "389",
+            " Loot",
+            ".myapplication",
+            "RAP",
+            "agos",
+            " \u00e9\u0137\u00b7"
+        ],
+        "positive_strings": [
+            " attack",
+            " attacks",
+            "attack",
+            " Attacks",
+            " Attack",
+            "attacks",
+            " attacked",
+            " attach",
+            " twin",
+            " blasts"
+        ],
+        "description": " words and phrases related to terrorist attacks and their impact"
+    },
+    {
+        "index": "15043",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_15043.json",
+        "negative_strings": [
+            "artz",
+            "arts",
+            "plex",
+            "ngen",
+            "rop",
+            ".habbo",
+            "\u00e7\u00bf",
+            "pson",
+            "nte",
+            "verse"
+        ],
+        "positive_strings": [
+            "-Qaeda",
+            " Qaeda",
+            "queda",
+            "hur",
+            "subtype",
+            " kidd",
+            "-Q",
+            "aeda",
+            "-Jul",
+            "nicos"
+        ],
+        "description": "mentions of terrorist groups and their affiliates"
+    },
+    {
+        "index": "5430",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_5430.json",
+        "negative_strings": [
+            "agnost",
+            "olute",
+            "\u00d8\u00a7\u00d8\u0143\u00d8\u00aa",
+            "ivol",
+            "\u00e3\u0125\u0125\u00e3\u0125\u0139",
+            "446",
+            "837",
+            "arts",
+            "\u00d9\u0128\u00d9\u0129",
+            " Lutheran"
+        ],
+        "positive_strings": [
+            " bin",
+            " al",
+            " AQ",
+            " leadership",
+            " Bin",
+            " leader",
+            " operational",
+            "leader",
+            " senior",
+            " fighters"
+        ],
+        "description": "references to terrorist organizations and their leaders"
+    },
+    {
+        "index": "42823",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/terrorist/data_for_feature_42823.json",
+        "negative_strings": [
+            "pective",
+            "amos",
+            "xfff",
+            "onta",
+            "loat",
+            "Licensed",
+            "vas",
+            " Antar",
+            "WWW",
+            "sdale"
+        ],
+        "positive_strings": [
+            "-aff",
+            "-linked",
+            " fighters",
+            " forces",
+            " affiliate",
+            " affiliates",
+            " leader",
+            "-connected",
+            " cells",
+            "-aligned"
+        ],
+        "description": "mentions of terrorist organizations and related terminology"
+    },
+    {
+        "index": "31299",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/terrorist/data_for_feature_31299.json",
+        "negative_strings": [
+            "itzer",
+            "yard",
+            "\u00d0\u00b5\u00d1\u0122\u00d1\u012e",
+            " Terrorism",
+            "erte",
+            "OKIE",
+            "iero",
+            " Terror",
+            " showc",
+            "anness"
+        ],
+        "positive_strings": [
+            " financing",
+            "\u00c3\u0143f",
+            " activities",
+            "/ext",
+            " plot",
+            " activity",
+            " acts",
+            " cells",
+            " Financing",
+            " suspects"
+        ],
+        "description": "terms related to terrorism and terrorist groups"
+    }
+]

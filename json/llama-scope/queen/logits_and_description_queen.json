@@ -1,0 +1,602 @@
+[
+    {
+        "index": "91220",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_91220.json",
+        "negative_strings": [
+            "'gc",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0132",
+            "\u00e8\u012f\u0134",
+            " Kab",
+            " \u00ec\u00b6\u013e\u00ec\u0140\u00a5",
+            " barg",
+            " Carm",
+            " strictly",
+            " Spit",
+            "\u00e7\u00b3"
+        ],
+        "positive_strings": [
+            "ens",
+            "bec",
+            "zon",
+            "ues",
+            "erness",
+            "uing",
+            "ENS",
+            "ensi",
+            "enton",
+            "ensburg"
+        ],
+        "description": "the word \"Que\" and its variations, indicating a focus on the concept of queens or royal titles"
+    },
+    {
+        "index": "10414",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_10414.json",
+        "negative_strings": [
+            "\u00ce\u00bf\u00cf\u0124",
+            "immel",
+            "nul",
+            "acement",
+            "/questions",
+            "igt",
+            "nett",
+            "iglia",
+            "\u00cf\u0129\u00ce\u00b5",
+            "\u00c4\u013bd"
+        ],
+        "positive_strings": [
+            "stown",
+            " Elizabeth",
+            "ie",
+            " consort",
+            " Mother",
+            " Consort",
+            " Victoria",
+            "Elizabeth",
+            "borough",
+            " Lat"
+        ],
+        "description": " mentions of Queen Elizabeth and her royal status"
+    },
+    {
+        "index": "30123",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/queen/data_for_feature_30123.json",
+        "negative_strings": [
+            "nul",
+            "immel",
+            "nett",
+            "rema",
+            "\u00ce\u00bf\u00cf\u0124",
+            "/questions",
+            "iglia",
+            "acement",
+            "istro",
+            "orida"
+        ],
+        "positive_strings": [
+            "stown",
+            " Elizabeth",
+            "ie",
+            " consort",
+            " Victoria",
+            " Consort",
+            "borough",
+            "ston",
+            " Mother",
+            "Elizabeth"
+        ],
+        "description": "references to royalty, particularly involving the Queen"
+    },
+    {
+        "index": "121163",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_121163.json",
+        "negative_strings": [
+            "nett",
+            "\u00e6\u00b4\u012d",
+            "\u00c4\u013bd",
+            "/questions",
+            "sel",
+            "avou",
+            "memberOf",
+            "andin",
+            "\u00e0\u00a4\u00b5\u00e0\u00a4\u00b0",
+            "gings"
+        ],
+        "positive_strings": [
+            "ie",
+            "stown",
+            "pins",
+            " Victoria",
+            " Mother",
+            " bee",
+            "pin",
+            " Lat",
+            " Bee",
+            " Elizabeth"
+        ],
+        "description": "references to the British royal family, particularly the various Queens and their names"
+    },
+    {
+        "index": "34491",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_34491.json",
+        "negative_strings": [
+            "sw",
+            "sed",
+            "ses",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0132",
+            "amber",
+            "ship",
+            "mitters",
+            "'gc",
+            "loid",
+            "nut"
+        ],
+        "positive_strings": [
+            "uing",
+            "ued",
+            "ues",
+            "ens",
+            "bec",
+            "ijo",
+            "ENS",
+            "zon",
+            "ened",
+            "strt"
+        ],
+        "description": "the name \"Queens\" and its variations"
+    },
+    {
+        "index": "21553",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/queen/data_for_feature_21553.json",
+        "negative_strings": [
+            "nett",
+            "nul",
+            "\u00e6\u00b4\u012d",
+            "osate",
+            "memberOf",
+            "\u00ce\u00bf\u00cf\u0124",
+            "andin",
+            "sel",
+            "\u00e9\u0125\u0130",
+            "UNK"
+        ],
+        "positive_strings": [
+            "stown",
+            " Elizabeth",
+            " Victoria",
+            "ie",
+            "borough",
+            " Mary",
+            " Mother",
+            " Consort",
+            "Victoria",
+            " Anne"
+        ],
+        "description": "references to the British monarchy, particularly mentions of Queen Elizabeth and related themes"
+    },
+    {
+        "index": "118183",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_118183.json",
+        "negative_strings": [
+            "okus",
+            "OMP",
+            "oe",
+            "OE",
+            "ocus",
+            "exels",
+            "Ion",
+            "ONA",
+            "cko",
+            "pts"
+        ],
+        "positive_strings": [
+            "berry",
+            " Birthday",
+            "lander",
+            "bury",
+            " Baton",
+            "cliffe",
+            "landers",
+            " Counsel",
+            " birthday",
+            " Jub"
+        ],
+        "description": "references to the concept of \"Queens\" and related entities or titles"
+    },
+    {
+        "index": "24847",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_24847.json",
+        "negative_strings": [
+            "ActivityResult",
+            "\u00c3\u00bcnd",
+            "\u00e5\u013e",
+            "\u00e7\u00b4\u0122",
+            "asse",
+            "ayout",
+            "ulin",
+            "ssize",
+            " Walls",
+            "/MIT"
+        ],
+        "positive_strings": [
+            " LIC",
+            " Ast",
+            " Corona",
+            " Jackson",
+            " Hunters",
+            " ast",
+            "Ast",
+            " Queens",
+            ".ast",
+            " Jamaica"
+        ],
+        "description": " references to local developments and zoning changes in areas like Dutch Kills and Queens"
+    },
+    {
+        "index": "85406",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_85406.json",
+        "negative_strings": [
+            "aret",
+            "orne",
+            "'gc",
+            "amber",
+            "mitters",
+            "agna",
+            "lei",
+            "skin",
+            "avanaugh",
+            "thal"
+        ],
+        "positive_strings": [
+            "uing",
+            "ued",
+            "ens",
+            "ues",
+            "bec",
+            "ijo",
+            "ENS",
+            "UES",
+            "uede",
+            "uetype"
+        ],
+        "description": "references to the word \"Queen\" or related terms"
+    },
+    {
+        "index": "123630",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_123630.json",
+        "negative_strings": [
+            "nett",
+            "sel",
+            "osas",
+            "\u00ce\u00bf\u00cf\u0124",
+            "gle",
+            " c\u00c3\u00a1n",
+            "memberOf",
+            "edia",
+            "erek",
+            "\u00e6\u00b4\u012d"
+        ],
+        "positive_strings": [
+            "stown",
+            " Victoria",
+            "ie",
+            "pins",
+            " Lat",
+            "borough",
+            " bee",
+            " Elizabeth",
+            " Bee",
+            "Victoria"
+        ],
+        "description": "references to 'Queen' and 'Queen Mary'"
+    },
+    {
+        "index": "19298",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_19298.json",
+        "negative_strings": [
+            "mente",
+            "pent",
+            "_firestore",
+            ".IsNull",
+            "istributed",
+            "agini",
+            "irlines",
+            "\u00e5\u00a6\u00bb",
+            "thal",
+            "ipsis"
+        ],
+        "positive_strings": [
+            "berry",
+            "lander",
+            "way",
+            "cliffe",
+            " Bench",
+            "bury",
+            "landers",
+            "boro",
+            " Birthday",
+            " Gamb"
+        ],
+        "description": "references to \"Queens\" and related entities or attributes"
+    },
+    {
+        "index": "1230",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/queen/data_for_feature_1230.json",
+        "negative_strings": [
+            "nett",
+            "nul",
+            "sel",
+            "\u00e6\u00b4\u012d",
+            "edia",
+            "/questions",
+            "\u00ce\u00bf\u00cf\u0124",
+            "memberOf",
+            "gle",
+            "aceous"
+        ],
+        "positive_strings": [
+            "stown",
+            " Victoria",
+            " Elizabeth",
+            "borough",
+            "ie",
+            "Victoria",
+            " Mother",
+            "pins",
+            " Consort",
+            " Mary"
+        ],
+        "description": "references to queens and their titles or related entities"
+    },
+    {
+        "index": "90927",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_90927.json",
+        "negative_strings": [
+            "ariat",
+            "cken",
+            "ESIS",
+            "\u00e3\u0123\u00a3\u00e3\u0123\u00a1",
+            "edly",
+            "s\u00c4\u00b1",
+            "\u00cf\u0128\u00cf\u012e",
+            "ilar",
+            "imdi",
+            "\u00e3\u0125\u00a1\u00e3\u0125\u00b3\u00e3\u0125\u012a"
+        ],
+        "positive_strings": [
+            "ster",
+            "ged",
+            "strip",
+            "ging",
+            "gin",
+            " queen",
+            " queens",
+            "sters",
+            "gable",
+            "STER"
+        ],
+        "description": "references to drag queens or drag culture"
+    },
+    {
+        "index": "117102",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_117102.json",
+        "negative_strings": [
+            "nett",
+            "\u00c4\u013bd",
+            "/questions",
+            "memberOf",
+            "manent",
+            "\u00ce\u00bf\u00cf\u0124",
+            "\u00e6\u00b4\u012d",
+            "raman",
+            "gle",
+            "cion"
+        ],
+        "positive_strings": [
+            "stown",
+            " Victoria",
+            "borough",
+            "ie",
+            " Elizabeth",
+            " Lat",
+            " Bee",
+            " bee",
+            "Victoria",
+            " Mother"
+        ],
+        "description": " mentions of the word \"Queen\" and its variations, particularly in relation to notable figures"
+    },
+    {
+        "index": "130417",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_130417.json",
+        "negative_strings": [
+            "amber",
+            "med",
+            "olars",
+            "up",
+            " bounding",
+            "incible",
+            " Simpl",
+            "wise",
+            "rot",
+            "aine"
+        ],
+        "positive_strings": [
+            "ens",
+            "ixer",
+            "bec",
+            "ipo",
+            "ued",
+            "enaire",
+            "enment",
+            "ongyang",
+            "iro",
+            "ENS"
+        ],
+        "description": "the term \"Queens\" in various contexts"
+    },
+    {
+        "index": "12104",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/queen/data_for_feature_12104.json",
+        "negative_strings": [
+            "nett",
+            "memberOf",
+            "sel",
+            "aceous",
+            "/questions",
+            "\u00c4\u013bd",
+            "\u00ce\u00bf\u00cf\u0124",
+            "ello",
+            "osate",
+            "rome"
+        ],
+        "positive_strings": [
+            "stown",
+            " Elizabeth",
+            " Victoria",
+            "borough",
+            "ie",
+            " Consort",
+            " Anne",
+            " Lat",
+            " Mother",
+            "Victoria"
+        ],
+        "description": "references to royalty, specifically the Queen and related titles"
+    },
+    {
+        "index": "40442",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_40442.json",
+        "negative_strings": [
+            "aret",
+            "thal",
+            "shape",
+            "ship",
+            "bage",
+            "sw",
+            "ses",
+            "rit",
+            "skin",
+            "ly"
+        ],
+        "positive_strings": [
+            "uing",
+            "ens",
+            "ued",
+            "ues",
+            "uetype",
+            "ijo",
+            "iasi",
+            "erness",
+            "ENS",
+            " Sche"
+        ],
+        "description": "mentions of \"Queens\" or variations of the word"
+    },
+    {
+        "index": "101903",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_101903.json",
+        "negative_strings": [
+            "\u00c3\u00bcnd",
+            "ActivityResult",
+            "ulin",
+            "\u00e7\u00b4\u0122",
+            " svens",
+            " Tam",
+            "uforia",
+            "rente",
+            " Mercer",
+            "\u00e5\u013e"
+        ],
+        "positive_strings": [
+            " Queens",
+            " queens",
+            " Hunters",
+            " Jamaica",
+            " Jackson",
+            "Que",
+            " QUE",
+            " QB",
+            " Kew",
+            " LIC"
+        ],
+        "description": "references to specific locations and establishments in Queens"
+    },
+    {
+        "index": "75954",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/queen/data_for_feature_75954.json",
+        "negative_strings": [
+            "mente",
+            "arest",
+            "pent",
+            "son",
+            "oon",
+            "okus",
+            "\u00e5\u00a6\u00bb",
+            "ts",
+            "kov\u00c3\u00a1",
+            "ocus"
+        ],
+        "positive_strings": [
+            "lander",
+            "bury",
+            "berry",
+            "rych",
+            "way",
+            "borough",
+            "cliffe",
+            " Bench",
+            "landers",
+            "boro"
+        ],
+        "description": "references to locations or entities associated with \"Queens.\""
+    },
+    {
+        "index": "10958",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/queen/data_for_feature_10958.json",
+        "negative_strings": [
+            "nett",
+            "\u00e5\u00a6\u00bb",
+            "sel",
+            "memberOf",
+            " Glas",
+            "\u00c4\u013bd",
+            "\u012e\u00a8",
+            "raman",
+            "\u00ce\u00bf\u00cf\u0124",
+            "aceous"
+        ],
+        "positive_strings": [
+            "stown",
+            " Elizabeth",
+            " Victoria",
+            "borough",
+            "Victoria",
+            " Lat",
+            "Elizabeth",
+            " bee",
+            "ie",
+            " Anne"
+        ],
+        "description": "references to queens and their related contexts"
+    }
+]

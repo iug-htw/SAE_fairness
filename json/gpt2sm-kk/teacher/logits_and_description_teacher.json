@@ -1,0 +1,332 @@
+[
+    {
+        "index": "17414",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_17414.json",
+        "negative_strings": [
+            " Clo",
+            " Alien",
+            " Ban",
+            " Draft",
+            " Kenn",
+            " Transactions",
+            " Banking",
+            " transactions",
+            " Bank",
+            " Scy"
+        ],
+        "positive_strings": [
+            " teachers",
+            " teacher",
+            " Teacher",
+            " Teachers",
+            " Teaching",
+            " teaching",
+            " Teach",
+            " classroom",
+            " educators",
+            " teach"
+        ],
+        "description": "references to educational institutions and their policies regarding teachers and students"
+    },
+    {
+        "index": "10081",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_10081.json",
+        "negative_strings": [
+            "ioxide",
+            " Bomber",
+            " Bermuda",
+            " Khalid",
+            "Balt",
+            " Jama",
+            " Jamaica",
+            "Flight",
+            " surv",
+            " Fly"
+        ],
+        "positive_strings": [
+            " teachers",
+            " Teachers",
+            " Teacher",
+            " classroom",
+            " educators",
+            " teacher",
+            " classrooms",
+            " teaching",
+            " educ",
+            " educator"
+        ],
+        "description": "assertions related to educational policies and teacher-student relationships"
+    },
+    {
+        "index": "18313",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_18313.json",
+        "negative_strings": [
+            "adium",
+            "ouver",
+            " profile",
+            "amins",
+            "Shell",
+            "ixture",
+            " Spectre",
+            " Miner",
+            "\u9f8d\ufffd",
+            "ibaba"
+        ],
+        "positive_strings": [
+            " teaching",
+            " Teaching",
+            " Teach",
+            " Teacher",
+            " teach",
+            " classroom",
+            " teachers",
+            " Teachers",
+            " teacher",
+            " classrooms"
+        ],
+        "description": "discussions surrounding disciplinary actions and suspended teachers"
+    },
+    {
+        "index": "20968",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_20968.json",
+        "negative_strings": [
+            "\\\":",
+            " redes",
+            " EUR",
+            "imir",
+            " Moroccan",
+            " Ethereum",
+            "Europe",
+            " migrate",
+            "\u0131",
+            "Brexit"
+        ],
+        "positive_strings": [
+            " school",
+            "School",
+            " Schools",
+            " School",
+            " schools",
+            " classroom",
+            " SCHOOL",
+            " classrooms",
+            " classmate",
+            " students"
+        ],
+        "description": "references to educational contexts and challenges faced by students and teachers"
+    },
+    {
+        "index": "16778",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_16778.json",
+        "negative_strings": [
+            "obin",
+            "origin",
+            "Thumbnail",
+            "etric",
+            "rontal",
+            "arbon",
+            "atown",
+            "Spect",
+            "hai",
+            "ometown"
+        ],
+        "positive_strings": [
+            " Torah",
+            " Quran",
+            " Rae",
+            " Saud",
+            " Baptist",
+            " Bills",
+            " Instruction",
+            " Sudan",
+            "ificate",
+            " Koran"
+        ],
+        "description": "references to teachers and educational institutions"
+    },
+    {
+        "index": "2623",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_2623.json",
+        "negative_strings": [
+            " earthquakes",
+            " Ascension",
+            " earthquake",
+            "ibrary",
+            "avid",
+            "assetsadobe",
+            " navigate",
+            " volcano",
+            " messenger",
+            "aura"
+        ],
+        "positive_strings": [
+            "\ufffd",
+            "\ufffd",
+            "ff",
+            "rity",
+            "leck",
+            "xes",
+            "terson",
+            "olen",
+            "irled",
+            "lying"
+        ],
+        "description": "issues related to education and student-teacher relationships"
+    },
+    {
+        "index": "15277",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_15277.json",
+        "negative_strings": [
+            " ransom",
+            " vengeance",
+            " geopolitical",
+            " geop",
+            " vapor",
+            " combustion",
+            " Auction",
+            " limb",
+            " propell",
+            " covert"
+        ],
+        "positive_strings": [
+            "ploma",
+            "\ufffd\ufffd",
+            "udeb",
+            "girls",
+            "washer",
+            " Instructor",
+            " Teachers",
+            "Students",
+            "achelor",
+            " Teacher"
+        ],
+        "description": "terms related to education settings and actions, including mentions of students, teachers, schools, classes, and educational activities"
+    },
+    {
+        "index": "17880",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_17880.json",
+        "negative_strings": [
+            "arbon",
+            " viability",
+            "arson",
+            "\u30f4\u30a1",
+            "rox",
+            " Collider",
+            " speculation",
+            " improbable",
+            " sunset",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "jong",
+            " Devi",
+            " CPR",
+            " nurses",
+            " Ans",
+            " alike",
+            " Sue",
+            " obe",
+            " instructed",
+            " Oath"
+        ],
+        "description": "information related to education and teaching, particularly focusing on teacher experience levels, pay, educational protests, criminal law courses, and inappropriate behavior with students"
+    },
+    {
+        "index": "8621",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_8621.json",
+        "negative_strings": [
+            "ivot",
+            " Centauri",
+            "erenn",
+            " GMT",
+            " sclerosis",
+            "edia",
+            "early",
+            "olitics",
+            " Democr",
+            "vae"
+        ],
+        "positive_strings": [
+            "\u30fc\u30c6\u30a3",
+            "ometimes",
+            "anooga",
+            "anguage",
+            "ussion",
+            "caster",
+            "afety",
+            "\ufffd\ufffd",
+            " encount",
+            "essor"
+        ],
+        "description": "phrases related to education, school policy, and teacher-led activities"
+    },
+    {
+        "index": "19595",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_19595.json",
+        "negative_strings": [
+            "BSD",
+            " Centauri",
+            "Pok\u00e9",
+            " Krypt",
+            " Hispan",
+            " shipping",
+            " bud",
+            "wcsstore",
+            " shores",
+            " chess"
+        ],
+        "positive_strings": [
+            "emale",
+            "rators",
+            "icka",
+            " McH",
+            " Meredith",
+            " Hasan",
+            " raped",
+            "uti",
+            "inous",
+            " Towers"
+        ],
+        "description": "references to teachers and their employment status"
+    },
+    {
+        "index": "19255",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/teacher/data_for_feature_19255.json",
+        "negative_strings": [
+            "Submit",
+            " Fork",
+            "roxy",
+            " Craigslist",
+            "Quantity",
+            " PayPal",
+            " estimated",
+            "Instant",
+            " unsupported",
+            "SHARE"
+        ],
+        "positive_strings": [
+            "jong",
+            " briefings",
+            " Kyr",
+            " halls",
+            " scrolls",
+            "iev",
+            " Mori",
+            "igraph",
+            " dramas",
+            "roit"
+        ],
+        "description": "phrases related to education and teaching, particularly focusing on teachers and schools"
+    }
+]

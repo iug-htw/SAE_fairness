@@ -1,0 +1,30 @@
+{
+    "index": "56313",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_56313.json",
+    "negative_strings": [
+        "AndEndTag",
+        "\u2581Roskov",
+        "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+        "\u2581betweenstory",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "\u2581aikaa",
+        "Expedia",
+        "sibly",
+        "tagHelperRunner",
+        "\u2581\u0643\u0648\u0631\u0629"
+    ],
+    "positive_strings": [
+        "\u2581gender",
+        "volent",
+        "\u2581genital",
+        "MALE",
+        "\u2581reproductive",
+        "\u2581Gender",
+        "\u2581\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430",
+        "\u2581sex",
+        "gender",
+        "\u2581empowerment"
+    ],
+    "description": "references to gender, particularly females"
+}

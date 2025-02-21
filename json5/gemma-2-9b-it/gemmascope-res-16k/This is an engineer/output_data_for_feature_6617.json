@@ -1,0 +1,30 @@
+{
+    "index": "6617",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an engineer/data_for_feature_6617.json",
+    "negative_strings": [
+        "Cyfeiriadau",
+        "RTCF",
+        "ArrowToggle",
+        "\u2581NPC",
+        "\u2581NPCs",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "Hochspringen",
+        "\u2581\u0627\u0644\u062d\u0631\u0647",
+        "\u05d4\u05e2\u05e8\u05d5\u05ea",
+        "ellees"
+    ],
+    "positive_strings": [
+        "\u2581engineering",
+        "Engineering",
+        "\u2581Engineering",
+        "\u2581engineer",
+        "Engineers",
+        "\u2581Engineers",
+        "Engineer",
+        "\u2581engineers",
+        "\u2581Engineer",
+        "\u2581ingenieros"
+    ],
+    "description": "references to educational institutions and engineering programs"
+}

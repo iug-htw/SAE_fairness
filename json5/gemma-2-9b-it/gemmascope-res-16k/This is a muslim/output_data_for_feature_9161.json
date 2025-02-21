@@ -1,0 +1,30 @@
+{
+    "index": "9161",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a muslim/data_for_feature_9161.json",
+    "negative_strings": [
+        "\u2581kona",
+        "conversion",
+        "\u2581conversion",
+        "izoen",
+        "\u2581initComponents",
+        "\u4e00\u679a",
+        "\u2581column",
+        "\u2581Kela",
+        "\u2581cabinetry",
+        "\u2581Trigger"
+    ],
+    "positive_strings": [
+        "Jewish",
+        "\u2581Jewish",
+        "\u2581Hispanic",
+        "\u2581Muslim",
+        "\u2581Jews",
+        "Hispanic",
+        "\u2581Latino",
+        "Muslim",
+        "\u2581Hispanics",
+        "\u2581jewish"
+    ],
+    "description": "references to specific racial and ethnic demographics, particularly focusing on African American and Caribbean communities"
+}

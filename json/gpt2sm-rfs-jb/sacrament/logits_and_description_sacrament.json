@@ -1,0 +1,62 @@
+[
+    {
+        "index": "42885",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/sacrament/data_for_feature_42885.json",
+        "negative_strings": [
+            "tin",
+            "leneck",
+            "LECT",
+            "raid",
+            "sup",
+            "duino",
+            "govtrack",
+            "ibr",
+            " Nak",
+            " ceiling"
+        ],
+        "positive_strings": [
+            "uary",
+            "icle",
+            "ington",
+            "wich",
+            "ific",
+            "sylvania",
+            "naire",
+            "ificial",
+            "aries",
+            "arist"
+        ],
+        "description": "terms related to religious rituals, especially those involving sacraments"
+    },
+    {
+        "index": "67411",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/sacrament/data_for_feature_67411.json",
+        "negative_strings": [
+            "olkien",
+            "DonaldTrump",
+            "!/",
+            "oiler",
+            "IELD",
+            "igers",
+            "Downloadha",
+            "terday",
+            "cases",
+            " Lanka"
+        ],
+        "positive_strings": [
+            "icator",
+            "icable",
+            "icators",
+            " Commun",
+            "icative",
+            "icating",
+            "icate",
+            "ciation",
+            "nect",
+            "ique"
+        ],
+        "description": " references to religious sacraments"
+    }
+]

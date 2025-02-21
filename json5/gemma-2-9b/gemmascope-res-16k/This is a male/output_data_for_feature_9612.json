@@ -1,0 +1,30 @@
+{
+    "index": "9612",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a male/data_for_feature_9612.json",
+    "negative_strings": [
+        "scheme",
+        "URLException",
+        "\u2581DESCRIP",
+        "\u2581transf\u00e9rez",
+        "XmlIgnore",
+        "nestjs",
+        "\u2581communiquez",
+        "\u2581WebApplication",
+        "epar",
+        "\u2581p\u00e4iv"
+    ],
+    "positive_strings": [
+        "\u2581gender",
+        "volent",
+        "\u2581genital",
+        "\u2581Gender",
+        "\u2581vocalist",
+        "\u2581isNameExpr",
+        "Gender",
+        "rungsseite",
+        "mobileqq",
+        "\u2581adult"
+    ],
+    "description": "references to gender, specifically focusing on \"female\" entities or concepts"
+}

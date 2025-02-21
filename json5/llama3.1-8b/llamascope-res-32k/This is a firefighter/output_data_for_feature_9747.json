@@ -1,0 +1,30 @@
+{
+    "index": "9747",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a firefighter/data_for_feature_9747.json",
+    "negative_strings": [
+        "\u00c4\u013dr",
+        " Frag",
+        "kea",
+        "isor",
+        " Cult",
+        " Sanity",
+        " Stateless",
+        " \u00d0\u00bf\u00d0\u00bb\u00d0\u00b5\u00d0\u00bd",
+        "rella",
+        "\u00d8\u00b3\u00d8\u00a8"
+    ],
+    "positive_strings": [
+        " firefighter",
+        " firefighters",
+        " fire",
+        " Fire",
+        " firefight",
+        " Engine",
+        "Fire",
+        " apparatus",
+        ".Fire",
+        "fire"
+    ],
+    "description": " references to fire departments and emergency service activities"
+}

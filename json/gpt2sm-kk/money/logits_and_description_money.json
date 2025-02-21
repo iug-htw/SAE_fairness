@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6974",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_6974.json",
+        "negative_strings": [
+            "\ufffd\ufffd\ufffd",
+            "rology",
+            " audits",
+            "\ufffd\ufffd",
+            "tests",
+            "tower",
+            " unquestion",
+            " reconc",
+            "ealous",
+            " joints"
+        ],
+        "positive_strings": [
+            "\u00a3",
+            " (\u00a3",
+            " \u00d7",
+            "\u03bd",
+            " ($",
+            "}{",
+            "\u200e",
+            "\u20ac",
+            "]+",
+            " \u00b1"
+        ],
+        "description": " references to large sums of money or financial figures"
+    },
+    {
+        "index": "23185",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_23185.json",
+        "negative_strings": [
+            " Originally",
+            " needing",
+            " Concern",
+            "ilts",
+            "://",
+            " Approximately",
+            "Located",
+            " Located",
+            " youngest",
+            " NOTICE"
+        ],
+        "positive_strings": [
+            "nor",
+            "proof",
+            " vain",
+            "asel",
+            "bole",
+            " nor",
+            "anything",
+            " excuses",
+            " tricks",
+            " filibuster"
+        ],
+        "description": " references to financial matters and issues related to money management"
+    },
+    {
+        "index": "21273",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_21273.json",
+        "negative_strings": [
+            " whiff",
+            "ometers",
+            " levers",
+            " hypothal",
+            " R\u00e9",
+            " Initi",
+            " harb",
+            "ItemThumbnailImage",
+            " M\u00e9",
+            " M\u00fc"
+        ],
+        "positive_strings": [
+            "\ufffd",
+            "FY",
+            "minus",
+            "yip",
+            "hews",
+            "vich",
+            "antage",
+            "yang",
+            "\ufffd\ufffd",
+            " whirlwind"
+        ],
+        "description": "phrases related to sums of money or financial transactions"
+    },
+    {
+        "index": "1988",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_1988.json",
+        "negative_strings": [
+            "rer",
+            "ering",
+            "erer",
+            "encer",
+            "ower",
+            "woods",
+            "\ufffd\ufffd",
+            "hess",
+            "encers",
+            "horn"
+        ],
+        "positive_strings": [
+            " deduct",
+            " intellectual",
+            " expulsion",
+            "illus",
+            " decl",
+            " idi",
+            " copyrighted",
+            " recip",
+            " abst",
+            " Unix"
+        ],
+        "description": "money and financial terms"
+    },
+    {
+        "index": "21461",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_21461.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "ardless",
+            "tumblr",
+            " unfocusedRange",
+            "xual",
+            "ilib",
+            "YN",
+            "\u65b9",
+            "\ufffd\ufffd",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "sylv",
+            " Alto",
+            " consolation",
+            " underdog",
+            " loser",
+            "tops",
+            "jong",
+            " hopped",
+            "ippi",
+            " rattled"
+        ],
+        "description": "references to money and financial transactions"
+    },
+    {
+        "index": "14295",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_14295.json",
+        "negative_strings": [
+            " Mith",
+            "\u30d5\u30a1",
+            "pur",
+            "\u30a1",
+            "\u30c0",
+            " Sag",
+            "PsyNetMessage",
+            "\u30a3",
+            "advertisement",
+            "Adventure"
+        ],
+        "positive_strings": [
+            "cellence",
+            "theless",
+            "emale",
+            "onsense",
+            "ensical",
+            "etheless",
+            "ivably",
+            "entimes",
+            "ancial",
+            "renheit"
+        ],
+        "description": "words related to economic matters, including business, money, and taxes"
+    },
+    {
+        "index": "42793",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_42793.json",
+        "negative_strings": [
+            "ghan",
+            "ahime",
+            "lined",
+            " Lisa",
+            " timet",
+            " Uriel",
+            "ebted",
+            "/,",
+            "onom",
+            "facing"
+        ],
+        "positive_strings": [
+            "ileged",
+            ">)",
+            " persuasion",
+            "ealous",
+            " brav",
+            "wow",
+            "\ufffd\ufffd",
+            "ebus",
+            " compromises",
+            " Playoffs"
+        ],
+        "description": " references to money or financial concepts"
+    },
+    {
+        "index": "6349",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_6349.json",
+        "negative_strings": [
+            "quart",
+            "ntil",
+            "\u30b4\u30f3",
+            "washer",
+            " Reincarn",
+            " outwe",
+            "ixties",
+            " laund",
+            "\ufffd\ufffd",
+            " millenn"
+        ],
+        "positive_strings": [
+            " cents",
+            "oubt",
+            " ideas",
+            " dollars",
+            " beliefs",
+            " dignity",
+            " convictions",
+            " money",
+            "etooth",
+            " knowledge"
+        ],
+        "description": "references to resources, particularly time and money, in the context of various processes or challenges"
+    },
+    {
+        "index": "6214",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_6214.json",
+        "negative_strings": [
+            "\u899a\u9192",
+            "unct",
+            "ivot",
+            "asury",
+            "gil",
+            "ilib",
+            "REF",
+            "\u02c8",
+            " Ports",
+            "orno"
+        ],
+        "positive_strings": [
+            " roadside",
+            " TTC",
+            " passers",
+            " passer",
+            " Jed",
+            "CBC",
+            " Sharma",
+            "meter",
+            "athi",
+            ":{"
+        ],
+        "description": "phrases related to asking for money or donations from passersby"
+    },
+    {
+        "index": "17932",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_17932.json",
+        "negative_strings": [
+            "rab",
+            "yrights",
+            "arus",
+            "dar",
+            "ateur",
+            "odore",
+            "aur",
+            "eem",
+            "arna",
+            "natureconservancy"
+        ],
+        "positive_strings": [
+            " downwards",
+            " funnel",
+            " waste",
+            " Waste",
+            " trough",
+            " traffic",
+            " redirected",
+            " Via",
+            " Soup",
+            " hither"
+        ],
+        "description": " phrases related to the flow of money and resources"
+    },
+    {
+        "index": "8854",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_8854.json",
+        "negative_strings": [
+            " Bowman",
+            " Goldberg",
+            " PF",
+            " Bend",
+            " Artifact",
+            " Chatt",
+            " guilt",
+            " Pend",
+            " Goldstein",
+            "Gold"
+        ],
+        "positive_strings": [
+            "138",
+            "78",
+            "158",
+            "68",
+            "58",
+            "38",
+            " 58",
+            "esm",
+            " 68",
+            " 138"
+        ],
+        "description": "numerical data and references, particularly those related to dates and money"
+    },
+    {
+        "index": "13170",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_13170.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "Gay",
+            "soDeliveryDate",
+            "Gender",
+            "\ufffd\ufffd",
+            "english",
+            "inav",
+            "Afee",
+            "iquette",
+            "ripp"
+        ],
+        "positive_strings": [
+            " surplus",
+            " outputs",
+            " output",
+            " collateral",
+            " entropy",
+            " production",
+            " expend",
+            " Gerr",
+            " assets",
+            " produ"
+        ],
+        "description": "references to surplus or deficit in relation to money or stress"
+    },
+    {
+        "index": "22942",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_22942.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "itely",
+            "epad",
+            " \\'",
+            "Represent",
+            " lia",
+            "umin",
+            "assi",
+            "aciously",
+            " deserve"
+        ],
+        "positive_strings": [
+            " EVER",
+            "WHERE",
+            "ODY",
+            "immune",
+            " GER",
+            "apons",
+            " microbiome",
+            "iem",
+            " HA",
+            " BRA"
+        ],
+        "description": "phrases indicating quantities or percentages related to money or resources"
+    },
+    {
+        "index": "3990",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_3990.json",
+        "negative_strings": [
+            "\u00f3n",
+            "rawdownloadcloneembedreportprint",
+            "ife",
+            "OLOGY",
+            "ople",
+            " Webster",
+            "ESE",
+            " Michele",
+            " Fires",
+            "otes"
+        ],
+        "positive_strings": [
+            "-$",
+            " (\u00a3",
+            " crore",
+            " payable",
+            " Shares",
+            " Quantity",
+            "utsche",
+            " \u00a5",
+            "ngth",
+            "tsky"
+        ],
+        "description": "transactional information related to financial matters, including amounts of money and types of payments"
+    },
+    {
+        "index": "16052",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_16052.json",
+        "negative_strings": [
+            "aired",
+            "west",
+            "Road",
+            "hunt",
+            " Shay",
+            "\\\\\\\\\\\\\\\\",
+            "bies",
+            "\u30c7",
+            "Saudi",
+            "Sab"
+        ],
+        "positive_strings": [
+            " Sodium",
+            "ysis",
+            "milo",
+            " Tsukuyomi",
+            " intoxication",
+            "lycer",
+            " cardio",
+            "emn",
+            " output",
+            " Calories"
+        ],
+        "description": "terms related to quantities or measurements, particularly in the context of time or money"
+    },
+    {
+        "index": "7643",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_7643.json",
+        "negative_strings": [
+            "SPONSORED",
+            " Dragonbound",
+            "ADVERTISEMENT",
+            "Management",
+            "lishes",
+            " Gillespie",
+            " CLS",
+            "ipment",
+            " locality",
+            "riers"
+        ],
+        "positive_strings": [
+            "arat",
+            "illion",
+            "enthal",
+            "votes",
+            " Tsukuyomi",
+            "pixel",
+            " squared",
+            " cubic",
+            "kat",
+            "oby"
+        ],
+        "description": "quantitative terms related to wealth, money, or economic indicators"
+    },
+    {
+        "index": "5065",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_5065.json",
+        "negative_strings": [
+            "avored",
+            "naissance",
+            " adversary",
+            " Audit",
+            "geries",
+            " Rolls",
+            " audiences",
+            " Solitaire",
+            " Trilogy",
+            " Award"
+        ],
+        "positive_strings": [
+            "etheless",
+            " clicking",
+            " shy",
+            " coincidence",
+            " weeds",
+            " brushing",
+            "Percent",
+            " spotting",
+            " scratching",
+            "actly"
+        ],
+        "description": "references to significant amounts of money, numbers, or quantities"
+    },
+    {
+        "index": "13265",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_13265.json",
+        "negative_strings": [
+            "ecd",
+            "stable",
+            "settings",
+            "reviewed",
+            "mint",
+            "stats",
+            "\ufffd\ufffd",
+            "eson",
+            "independent",
+            "deck"
+        ],
+        "positive_strings": [
+            "imize",
+            " barrier",
+            "Sad",
+            " firefighter",
+            "everal",
+            " havoc",
+            " rall",
+            " veil",
+            "rov",
+            "amina"
+        ],
+        "description": "references to amounts of money or financial transactions"
+    },
+    {
+        "index": "6086",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_6086.json",
+        "negative_strings": [
+            "Rated",
+            "alon",
+            " porous",
+            "aina",
+            "unte",
+            " welcome",
+            " Beard",
+            "anthrop",
+            " removable",
+            "armor"
+        ],
+        "positive_strings": [
+            " gamble",
+            " betting",
+            "eering",
+            "eers",
+            "sters",
+            " gamb",
+            " Solitaire",
+            " bets",
+            "eer",
+            " gambling"
+        ],
+        "description": "information related to gambling and money"
+    },
+    {
+        "index": "16227",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/money/data_for_feature_16227.json",
+        "negative_strings": [
+            "INO",
+            "ARA",
+            "NOR",
+            "\ufffd\ufffd",
+            "Statement",
+            "SAM",
+            "chart",
+            "urion",
+            "Sensor",
+            "ISION"
+        ],
+        "positive_strings": [
+            " virginity",
+            " Wast",
+            " excess",
+            " Waste",
+            " Corpus",
+            "onds",
+            " prematurely",
+            "ensis",
+            " surplus",
+            " debt"
+        ],
+        "description": "positive testimonials about saving time and money through a specific service"
+    }
+]

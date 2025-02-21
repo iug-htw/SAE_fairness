@@ -1,0 +1,30 @@
+{
+    "index": "10448",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a woman/data_for_feature_10448.json",
+    "negative_strings": [
+        "expandindo",
+        "\u2581skolan",
+        "\u2581EconPapers",
+        "\u2581Photocase",
+        "']\")",
+        "\u2581autorytatywna",
+        "\u2581Scopus",
+        "\u2581['./",
+        "\u2581personnelles",
+        "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649"
+    ],
+    "positive_strings": [
+        "\u2581who",
+        "thol",
+        "\u2581men",
+        "\u2581Men",
+        "\u2581MEN",
+        "hunt",
+        "volent",
+        "agerie",
+        "aced",
+        "folk"
+    ],
+    "description": "references to gender, particularly focusing on men and women"
+}

@@ -1,0 +1,228 @@
+[
+    {
+        "index": "101405",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_101405.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Prefixes or suffixes of words related to buildings, mainly \"Temple\", and other words like \"temp\", \"tempt\", \"te\", \"templ\", \"temb\", or \"exemp\" that have similar patterns or roots, often referencing containment, structure, or allure."
+    },
+    {
+        "index": "100014",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_100014.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"tem\" appears in a variety of contexts, often as a part of words such as \"template\", \"temporary\", \"temper\", \"temple\", \"contemplate\", or \"contemporary\", and sometimes as a suffix in words like \"theme\" or \"them\"."
+    },
+    {
+        "index": "17647",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_17647.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Geographical names of cities, rivers, temples, and monuments in India."
+    },
+    {
+        "index": "122454",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_122454.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variations of the word \"temp\" (temporary), \"templ\" (template), \"tempe\" (tempel), \"tempel\" (Tempel), \"templar\" (Templar), \"templars\" (Templars), and \"tempor\" (temporary, temporal, tempest), often related to the concept of something being temporary or related to a specific time frame."
+    },
+    {
+        "index": "75148",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_75148.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns, including names of places (e.g. cities, monuments, temples), structures, organizations, and individuals, as well as specific dates and numbers."
+    },
+    {
+        "index": "96921",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_96921.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Geographic locations, names of places, temples, and UNESCO World Heritage sites, often referring to Nepal, Kathmandu, or other locations in Asia, typically used to describe tourist attractions, cultural heritage, and travel experiences."
+    },
+    {
+        "index": "46788",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_46788.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Geographic locations and specific, notable structures or institutions in India, including temples, ghats, cities, and monuments."
+    },
+    {
+        "index": "67644",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_67644.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Variations of the words \"temple\", \"them\", \"temp\", and \"template\" which can be found in different contexts, sometimes as prefixes or suffixes, but often as standalone words."
+    },
+    {
+        "index": "94361",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_94361.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Names of buildings, structures, and institutions such as castles, temples, palaces, and other establishments often serving a specific purpose."
+    },
+    {
+        "index": "87298",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_87298.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns representing places, names, or titles, often related to structures (castles, cathedrals, temples, etc.), locations (cities, streets, etc.), or establishments (casinos, palaces, etc.)."
+    },
+    {
+        "index": "102885",
+        "layer": "37-gemmascope-res-131k",
+        "url": "json/gemma-scope/temple/data_for_feature_102885.json",
+        "negative_strings": [
+            "\u2581Chwiliwch",
+            "\u2581elettrico",
+            "\u2581elettrica",
+            "\u2581\u0569\u057e\u0561\u056f\u0561\u0576",
+            "ce\u011fine",
+            "\u2581electrico",
+            "enderror",
+            "\u2581TextAppearance",
+            "\u2581spare",
+            "\u2581Waray"
+        ],
+        "positive_strings": [
+            "+#+#",
+            "maine",
+            "comer",
+            "findpost",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581kasarigan",
+            "tagHelperRunner",
+            "########.",
+            "complexContent",
+            "\u2581compr"
+        ],
+        "description": " references to castles and temples"
+    },
+    {
+        "index": "8996",
+        "layer": "40-gemmascope-res-16k",
+        "url": "json/gemma-scope/temple/data_for_feature_8996.json",
+        "negative_strings": [
+            "AddRange",
+            "modelBuilder",
+            "\u2581\u062a\u0639\u062f\u0649",
+            "\u2581CHRISTIAN",
+            "MigrationBuilder",
+            "dm",
+            "ParallelGroup",
+            "Christian",
+            "\u2581Christian",
+            "\u2581inform\u00e9e"
+        ],
+        "positive_strings": [
+            "\u2581Elder",
+            "Elder",
+            "\u2581presiden",
+            "\u2581priesthood",
+            "\u2581presidency",
+            "\u2581Relief",
+            "\u2581Presiden",
+            "\u2581Presidency",
+            "President",
+            "\u2581Alma"
+        ],
+        "description": " concepts related to the temple and its significance in relationships and marriage"
+    },
+    {
+        "index": "77640",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_77640.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Geographic locations, specifically names of places, rivers, and temples in India and Nepal."
+    },
+    {
+        "index": "58701",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_58701.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"temp\" often denotes a temporary nature, such as in temporary jobs, temperatures, or temporary visas, but also appears in unrelated contexts as part of a word, such as tempt, temple, or temporal."
+    },
+    {
+        "index": "61183",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_61183.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns often referring to specific locations, structures, or family names, typically preceded by \"New\", and including words like \"Castle\", \"Temple\", \"Ch\u00e2te\", \"Palace\", and \"Abbey\"."
+    },
+    {
+        "index": "83983",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_83983.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word \"temple\" is often used as a proper noun, referring to the name of a specific temple, and can be found in various contexts such as geography, architecture, and religious institutions."
+    },
+    {
+        "index": "87455",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_87455.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words referring to a temple or a structure similar to a temple, as well as words that sound similar to \"temple\" or have a similar prefix/suffix."
+    },
+    {
+        "index": "66067",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/temple/data_for_feature_66067.json",
+        "negative_strings": [
+            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+            "OGND",
+            "InputBorder",
+            "tdessen",
+            "\u9c06",
+            "\u2581h\u00famedo",
+            "Buongiorno",
+            "\u2581Nikolaus",
+            "\u2581BorderSide",
+            "OCCURRED"
+        ],
+        "positive_strings": [
+            "\u2581endowment",
+            "\u2581ordinances",
+            "\u2581sealing",
+            "\u2581Endowment",
+            "\u2581Celestial",
+            "\u2581Sealing",
+            "\u2581endowments",
+            "\u2581seal",
+            "\u2581temple",
+            "\u2581exalt"
+        ],
+        "description": " concepts related to marital relationships and temple marriage in a religious context"
+    },
+    {
+        "index": "50043",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_50043.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns referring to institutions, places, or names, often related to educational or religious organizations, such as universities or temples."
+    },
+    {
+        "index": "54635",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/temple/data_for_feature_54635.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns referring to a specific location or building, often of historical, cultural or spiritual significance, such as temples, cathedrals, or monuments."
+    }
+]

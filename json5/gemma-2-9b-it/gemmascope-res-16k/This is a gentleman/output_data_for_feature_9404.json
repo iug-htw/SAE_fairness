@@ -1,0 +1,30 @@
+{
+    "index": "9404",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a gentleman/data_for_feature_9404.json",
+    "negative_strings": [
+        "IsContent",
+        "parsedMessage",
+        "uxxxx",
+        "\u2581defaultstate",
+        "\u2581viewDidLoad",
+        "httphttps",
+        "adaptiveStyles",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "\u2581surla",
+        "\u2581cherch\u00e9s"
+    ],
+    "positive_strings": [
+        "\u2581Gen",
+        "\u2581Gene",
+        "\u2581Geno",
+        "vieve",
+        "\u2581GEN",
+        "\u2581mutation",
+        "\u2581loci",
+        "\u2581Genet",
+        "Gene",
+        "\u2581Genes"
+    ],
+    "description": "references to genes and genetic terminology"
+}

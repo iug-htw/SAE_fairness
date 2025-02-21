@@ -1,0 +1,30 @@
+{
+    "index": "4163",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a burka/data_for_feature_4163.json",
+    "negative_strings": [
+        "ConstraintMaker",
+        "\u2581Swann",
+        "ThemeOverlay",
+        "Xaml",
+        "/*---",
+        "assen",
+        "abetes",
+        "\u2581toek",
+        "\u2581Picchu",
+        "SpringRunner"
+    ],
+    "positive_strings": [
+        "\u2581bur",
+        "\u2581Bur",
+        "bur",
+        "Bur",
+        "\u2581BUR",
+        "BUR",
+        "\u2581Burrows",
+        "\u2581burrow",
+        "bor",
+        "\u2581burrows"
+    ],
+    "description": "references to the concept of \"burden\" in various contexts"
+}

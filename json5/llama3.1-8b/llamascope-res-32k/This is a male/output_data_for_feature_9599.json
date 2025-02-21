@@ -1,0 +1,30 @@
+{
+    "index": "9599",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_9599.json",
+    "negative_strings": [
+        " guys",
+        " Guys",
+        " boys",
+        " men",
+        "ners",
+        " Boys",
+        "edly",
+        "rei",
+        " guy",
+        " hombres"
+    ],
+    "positive_strings": [
+        "volent",
+        "-dominated",
+        "fic",
+        "/f",
+        "factor",
+        "-bodied",
+        "-only",
+        "-centric",
+        "-led",
+        "vol"
+    ],
+    "description": " references to gender, particularly focusing on male identities and issues related to masculinity"
+}

@@ -1,0 +1,212 @@
+[
+    {
+        "index": "20781",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_20781.json",
+        "negative_strings": [
+            " prostate",
+            " Parables",
+            "pard",
+            " Proposition",
+            " Prim",
+            "clipse",
+            "asper",
+            " McDonnell",
+            " Barney",
+            "paren"
+        ],
+        "positive_strings": [
+            " Taj",
+            " Uzbek",
+            " Tata",
+            " TJ",
+            " Kabul",
+            " Tat",
+            " Nish",
+            " Uz",
+            " Tah",
+            " Tuls"
+        ],
+        "description": "references to cultural dress codes and regulations surrounding women's outfits, particularly in relation to hijabs"
+    },
+    {
+        "index": "16210",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_16210.json",
+        "negative_strings": [
+            " pitching",
+            " Pinball",
+            " Gus",
+            " Franklin",
+            " Juice",
+            " Oxy",
+            " PSP",
+            "Ping",
+            " bullpen",
+            "assium"
+        ],
+        "positive_strings": [
+            " hijab",
+            " veil",
+            " Muslim",
+            "Muslim",
+            " veiled",
+            " bur",
+            " scarf",
+            "Muslims",
+            "Islam",
+            " mosque"
+        ],
+        "description": "references to the hijab and issues surrounding its wearing or removal"
+    },
+    {
+        "index": "23669",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_23669.json",
+        "negative_strings": [
+            " Loans",
+            " creditors",
+            " Asset",
+            "onz",
+            " addictive",
+            "ository",
+            " Bonds",
+            "Asset",
+            "terness",
+            " Rhod"
+        ],
+        "positive_strings": [
+            " hijab",
+            " veil",
+            " Islam",
+            " Muslim",
+            " veiled",
+            "qa",
+            "iq",
+            " Veil",
+            " scarf",
+            " mosques"
+        ],
+        "description": "references to gender-related topics and discussions surrounding the hijab"
+    },
+    {
+        "index": "18120",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_18120.json",
+        "negative_strings": [
+            " Edison",
+            "senal",
+            "wine",
+            "Trust",
+            "ovie",
+            " Decker",
+            " Tackle",
+            "ventures",
+            " Wilmington",
+            " VIDE"
+        ],
+        "positive_strings": [
+            " hijab",
+            " genital",
+            " clitor",
+            " Muslims",
+            " menstru",
+            " Islam",
+            " Muslim",
+            " Hindus",
+            " barbaric",
+            "ogyn"
+        ],
+        "description": "references to hijabs and related Islamic head coverings"
+    },
+    {
+        "index": "6248",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_6248.json",
+        "negative_strings": [
+            " Craw",
+            " Bonds",
+            " creek",
+            " Akron",
+            " Burns",
+            " Trout",
+            " Toad",
+            "Pitt",
+            "Plot",
+            " Tulsa"
+        ],
+        "positive_strings": [
+            "utterstock",
+            " clo",
+            " banned",
+            " prohibitions",
+            " bans",
+            " veil",
+            " derog",
+            " hijab",
+            " authorised",
+            " lawfully"
+        ],
+        "description": "references to clothing, specifically those associated with Islamic traditions such as the hijab and niqab"
+    },
+    {
+        "index": "28029",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_28029.json",
+        "negative_strings": [
+            "ventory",
+            "NAS",
+            "\u24d8",
+            "Ur",
+            "NES",
+            " Interstellar",
+            "Marsh",
+            "channelAvailability",
+            " Iter",
+            " Puzzles"
+        ],
+        "positive_strings": [
+            " veil",
+            " hijab",
+            " ceremony",
+            " citizenship",
+            " constitutionally",
+            " ceremon",
+            " ceremonial",
+            " dehuman",
+            "washing",
+            " modesty"
+        ],
+        "description": "content related to clothing restrictions and specifically the hijab in various contexts"
+    },
+    {
+        "index": "23679",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/hijab/data_for_feature_23679.json",
+        "negative_strings": [
+            "Downloadha",
+            " Blessed",
+            "bleacher",
+            " Pyr",
+            "early",
+            "patient",
+            " Fully",
+            "upon",
+            " Juven",
+            " kindred"
+        ],
+        "positive_strings": [
+            " lapt",
+            "rette",
+            "\u30fc\u30af",
+            " teasp",
+            "querade",
+            " shenan",
+            "bean",
+            "TextColor",
+            "ame",
+            " citiz"
+        ],
+        "description": "mentions of hijab-related issues"
+    }
+]

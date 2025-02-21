@@ -1,0 +1,92 @@
+[
+    {
+        "index": "51431",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/judaism/data_for_feature_51431.json",
+        "negative_strings": [
+            "inventoryQuantity",
+            "Accessory",
+            "aneously",
+            "ctive",
+            " ERA",
+            "ttes",
+            "SPONSORED",
+            "quickShipAvailable",
+            "amina",
+            "shown"
+        ],
+        "positive_strings": [
+            "ellery",
+            "ophobia",
+            " worsh",
+            "ophobic",
+            "geist",
+            "eller",
+            " settlers",
+            "esses",
+            " Refugees",
+            "eni"
+        ],
+        "description": "references to Jews and Jewish identity"
+    },
+    {
+        "index": "21528",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/judaism/data_for_feature_21528.json",
+        "negative_strings": [
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            "isSpecialOrderable",
+            "STATE",
+            "zon",
+            "igan",
+            "manac",
+            "soType",
+            "ibe",
+            "apult",
+            "Detailed"
+        ],
+        "positive_strings": [
+            " however",
+            " meanwhile",
+            " moreover",
+            " where",
+            " there",
+            " sometimes",
+            "where",
+            " whenever",
+            " therefore",
+            "there"
+        ],
+        "description": " concepts and references related to religion, particularly Judaism"
+    },
+    {
+        "index": "17571",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/judaism/data_for_feature_17571.json",
+        "negative_strings": [
+            "ovember",
+            " Rica",
+            " Extras",
+            "terday",
+            " QC",
+            " Audit",
+            "edIn",
+            " professionally",
+            " Month",
+            " Day"
+        ],
+        "positive_strings": [
+            "iest",
+            "liest",
+            "osphere",
+            "hest",
+            "arest",
+            "akings",
+            "est",
+            "most",
+            "cients",
+            "erest"
+        ],
+        "description": "phrases with religious references, particularly related to Christianity and Judaism"
+    }
+]

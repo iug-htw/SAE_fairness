@@ -1,0 +1,602 @@
+[
+    {
+        "index": "60838",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_60838.json",
+        "negative_strings": [
+            "ROY",
+            "ninger",
+            "oggler",
+            "\u00d0\u00bf\u00d0\u00be\u00d0\u00b2\u00d1\u0138\u00d0\u00b4",
+            "EC",
+            "imagin",
+            "imd",
+            "olson",
+            "gue",
+            "922"
+        ],
+        "positive_strings": [
+            " Benedict",
+            " Francis",
+            " Emer",
+            "yes",
+            "ye",
+            " Shen",
+            " Urban",
+            " Leo",
+            " Innoc",
+            " Gregory"
+        ],
+        "description": "mentions of the Pope and related terms"
+    },
+    {
+        "index": "95962",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_95962.json",
+        "negative_strings": [
+            "ROY",
+            "922",
+            "ninger",
+            "OLUTE",
+            "\u00d0\u00bf\u00d0\u00be\u00d0\u00b2\u00d1\u0138\u00d0\u00b4",
+            "\u00e6\u00a6\u013e",
+            "gue",
+            "ominated",
+            "EC",
+            " h\u00c3\u00a2l"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Emer",
+            "yes",
+            "ye",
+            "Franc",
+            " Berg",
+            " Frances",
+            " Shen",
+            " John"
+        ],
+        "description": "references to the Pope or mentions of papal figures"
+    },
+    {
+        "index": "18281",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/pope/data_for_feature_18281.json",
+        "negative_strings": [
+            "\u00e3\u0123\u0142\u00e3\u0123\u00aa",
+            "ancel",
+            "eper",
+            "icia",
+            "alking",
+            ".zone",
+            "ombok",
+            "\u00c3\u00bcrn",
+            " \u00e5\u012b",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00a9"
+        ],
+        "positive_strings": [
+            " Benedict",
+            " pont",
+            " Pope",
+            " pope",
+            " Leo",
+            " pap",
+            " Innoc",
+            " Clement",
+            " Pop",
+            "Leo"
+        ],
+        "description": " references to specific popes and their actions related to exorcisms"
+    },
+    {
+        "index": "121972",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_121972.json",
+        "negative_strings": [
+            "ROY",
+            "gue",
+            "922",
+            "\u00cf\u012e\u00ce\u00b3",
+            "\u00e1\u00bb\u012dch",
+            "ikip",
+            ".SDK",
+            "\u00e6\u00a6\u013e",
+            "sons",
+            " busty"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "ye",
+            "Franc",
+            "yes",
+            " Emer",
+            " Berg",
+            " Shen",
+            "YES",
+            " franc"
+        ],
+        "description": " mentions and references to the Pope"
+    },
+    {
+        "index": "118924",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_118924.json",
+        "negative_strings": [
+            "922",
+            "\u00cf\u012e\u00ce\u00b3",
+            "unar",
+            "(Render",
+            "_pv",
+            "ussen",
+            "ikip",
+            "nce",
+            "entifier",
+            " dinh"
+        ],
+        "positive_strings": [
+            " Francis",
+            "ye",
+            "Franc",
+            "yes",
+            " Benedict",
+            " Emer",
+            " Berg",
+            "YES",
+            " Shen",
+            " franc"
+        ],
+        "description": "references to the Pope"
+    },
+    {
+        "index": "76927",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_76927.json",
+        "negative_strings": [
+            "iesen",
+            "oration",
+            "ambda",
+            "\u00e9\u0122\u00b8",
+            "quila",
+            "igte",
+            "cona",
+            " Sen",
+            "apult",
+            " Ear"
+        ],
+        "positive_strings": [
+            "iffs",
+            "ificate",
+            "iff",
+            "oon",
+            "ificates",
+            "ificial",
+            "IFICATE",
+            "iac",
+            "if",
+            "ific"
+        ],
+        "description": " references to the concept of pontifical authority or the Pope"
+    },
+    {
+        "index": "5446",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_5446.json",
+        "negative_strings": [
+            "entifier",
+            "922",
+            "\u00cf\u012e\u00ce\u00b3",
+            "ikip",
+            " MSM",
+            "ayscale",
+            "\u00e1\u00bb\u012dch",
+            "\u00c4\u00b1n\u00c4\u00b1za",
+            "\u00e4\u00b8\u0122\u00e9\u00a1\u00b5",
+            "ldb"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            "ye",
+            "yes",
+            " Emer",
+            " Berg",
+            " em",
+            " Benedict",
+            "YES",
+            " Shen"
+        ],
+        "description": " references to the Pope"
+    },
+    {
+        "index": "55092",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_55092.json",
+        "negative_strings": [
+            "\u00e7\u012a\u00b5",
+            "imos",
+            "\u00e3\u0124\u00a4\u00e3\u0124\u00ba",
+            "zeich",
+            "922",
+            " Ear",
+            "\u00d0\u00b8\u00d1\u0129\u00d0\u00b0",
+            "iker",
+            "ilha",
+            " norm"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            " Emer",
+            " em",
+            " Benedict",
+            " Berg",
+            " Frances",
+            "-em",
+            "Emer",
+            " \u00d8\u00a8\u00d9\u0128\u00d8\u00af"
+        ],
+        "description": " references to the Pope and religious figures"
+    },
+    {
+        "index": "10670",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_10670.json",
+        "negative_strings": [
+            "ylim",
+            "entifier",
+            "\u00cf\u012e\u00ce\u00b3",
+            "922",
+            "\u00e3\u0124",
+            "\u00d9\u0129\u00d8\u00a7\u00d9\u012c",
+            ".SDK",
+            "iker",
+            " Isles",
+            "dez"
+        ],
+        "positive_strings": [
+            " Francis",
+            "ye",
+            " Benedict",
+            " Emer",
+            "Franc",
+            "yes",
+            " Berg",
+            " Frances",
+            " Leo",
+            " Innoc"
+        ],
+        "description": " references to the Pope"
+    },
+    {
+        "index": "3195",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/pope/data_for_feature_3195.json",
+        "negative_strings": [
+            " hyp",
+            "\u00e7\u00bb\u00a9",
+            " husband",
+            "\u00b5",
+            "393",
+            "eper",
+            " husbands",
+            "\u00e7\u00b8\u00be",
+            " cuckold",
+            "arial"
+        ],
+        "positive_strings": [
+            " pap",
+            " Pope",
+            " pope",
+            " Pap",
+            " pont",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf",
+            " Papa",
+            "Pont",
+            " Pop",
+            " Clement"
+        ],
+        "description": "references to popes and their addresses or teachings"
+    },
+    {
+        "index": "79306",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_79306.json",
+        "negative_strings": [
+            "agher",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d1\u0124",
+            "ties",
+            "APT",
+            "anken",
+            "\u00ec\u00b7\u00a8",
+            "m\u00c3\u00a1n",
+            "ernity",
+            "llib",
+            "nings"
+        ],
+        "positive_strings": [
+            "ye",
+            "joy",
+            "yes",
+            "YE",
+            "YES",
+            " pap",
+            "hat",
+            " Pap",
+            "ya",
+            "ve"
+        ],
+        "description": "mentions of the Pope"
+    },
+    {
+        "index": "46126",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_46126.json",
+        "negative_strings": [
+            "922",
+            "ored",
+            "VERSE",
+            "\u00e7\u00ae",
+            ".wik",
+            "orna",
+            " Isles",
+            "\u00ce\u00b4\u00ce\u00ac",
+            "iker",
+            "\u00e8\u0129\u00a3"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "ye",
+            " Emer",
+            " pap",
+            " Berg",
+            "yes",
+            "Franc",
+            " Leo",
+            " Papa"
+        ],
+        "description": "references to the Pope and related titles"
+    },
+    {
+        "index": "26199",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/pope/data_for_feature_26199.json",
+        "negative_strings": [
+            " Pap",
+            " pap",
+            "atican",
+            " princip",
+            "\u00e3\u0125\u00a9\u00e3\u0125\u00bc",
+            "ldb",
+            "aller",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf",
+            "-boot",
+            "\u00ac\u0124"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            "yes",
+            " Frances",
+            " Shen",
+            "YES",
+            " Benedict",
+            "ye",
+            "joy",
+            "rowsable"
+        ],
+        "description": "references to various popes and their statements or actions"
+    },
+    {
+        "index": "11703",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_11703.json",
+        "negative_strings": [
+            " Isles",
+            " Dyn",
+            "ored",
+            "deaux",
+            "ylim",
+            "\u00e7\u00ae",
+            "ivi",
+            "neau",
+            "922",
+            ".exceptions"
+        ],
+        "positive_strings": [
+            " Francis",
+            "ye",
+            " Benedict",
+            " Pope",
+            " pope",
+            " Papa",
+            " Nichols",
+            " pap",
+            " Emer",
+            " Gregory"
+        ],
+        "description": "references to the Pope and related discussions"
+    },
+    {
+        "index": "18562",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_18562.json",
+        "negative_strings": [
+            "isel",
+            "baugh",
+            "sen",
+            "ise",
+            "unar",
+            " Disclaimer",
+            "\u0143",
+            " Derrick",
+            " Dwarf",
+            " Aph"
+        ],
+        "positive_strings": [
+            " Innoc",
+            " Clement",
+            " Leo",
+            " Urban",
+            " \u00d8\u00a8\u00d9\u0128\u00d8\u00af",
+            "Leo",
+            " Gregory",
+            "Urban",
+            " Clem",
+            "Cele"
+        ],
+        "description": " references to religious figures, specifically popes and emperors"
+    },
+    {
+        "index": "109771",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_109771.json",
+        "negative_strings": [
+            "ties",
+            "ernity",
+            "anken",
+            "APT",
+            "m\u00c3\u00a1n",
+            "\u00e3\u0123\u0131\u00e3\u0123\u0142",
+            " \u00e5\u0131",
+            "usra",
+            "rored",
+            "rement"
+        ],
+        "positive_strings": [
+            "ye",
+            "joy",
+            "YE",
+            "yes",
+            " pap",
+            " Pope",
+            " Pap",
+            "yard",
+            "velt",
+            " pope"
+        ],
+        "description": " mentions of the word \"Pope.\""
+    },
+    {
+        "index": "122261",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_122261.json",
+        "negative_strings": [
+            "ored",
+            "neau",
+            " Isles",
+            "\u00e3\u0125\u00a5\u00e3\u0125\u00bc",
+            "\u00e7\u00ae",
+            " Dyn",
+            "deaux",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u00aa\u00e0\u00b8\u013b",
+            "alles",
+            "nce"
+        ],
+        "positive_strings": [
+            " pap",
+            "ye",
+            " Francis",
+            " Pope",
+            " Pap",
+            " Papa",
+            "yes",
+            " pope",
+            " Benedict",
+            " Emer"
+        ],
+        "description": " references to the Pope and related discussions"
+    },
+    {
+        "index": "95199",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_95199.json",
+        "negative_strings": [
+            "agher",
+            "\u00e3\u0123\u0131\u00e3\u0123\u0142",
+            "APT",
+            "ernity",
+            "orsi",
+            "rored",
+            "usra",
+            "l\u00c3\u0143n",
+            "llib",
+            " quy"
+        ],
+        "positive_strings": [
+            "ye",
+            "joy",
+            " pap",
+            "YE",
+            "yes",
+            " Pap",
+            " Pope",
+            "velt",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf",
+            " pope"
+        ],
+        "description": " mentions of the word \"Pope\" in various contexts"
+    },
+    {
+        "index": "120571",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_120571.json",
+        "negative_strings": [
+            "ernity",
+            "agher",
+            "orsi",
+            "APT",
+            "rais",
+            " quy",
+            "l\u00c3\u0143n",
+            "\u00d0\u00bd\u00d0\u00b5\u00d1\u0124",
+            "llib",
+            "oras"
+        ],
+        "positive_strings": [
+            "ye",
+            " pap",
+            "joy",
+            " Pap",
+            "yes",
+            "YE",
+            "Pop",
+            "yard",
+            "velt",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bf"
+        ],
+        "description": "mentions of the Pope"
+    },
+    {
+        "index": "81216",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/pope/data_for_feature_81216.json",
+        "negative_strings": [
+            "ategory",
+            "iry",
+            "igte",
+            "\u00e5\u00a5\u0131",
+            "oucher",
+            "\u00e7\u00b0",
+            "\u00e4\u00b8\u00bb\u00e4\u00b9\u012b",
+            "asso",
+            "legt",
+            "\u00e1\u00bb\u00a1"
+        ],
+        "positive_strings": [
+            "iffs",
+            "iff",
+            "ificate",
+            "ifacts",
+            "ificates",
+            "ificial",
+            "rome",
+            " pont",
+            "ificio",
+            "ific"
+        ],
+        "description": "references to pontiffs or popes"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "4193",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_4193.json",
+        "negative_strings": [
+            "eut",
+            "egers",
+            "ection",
+            "tin",
+            "eo",
+            "idge",
+            "wares",
+            ".liferay",
+            "tem",
+            "ables"
+        ],
+        "positive_strings": [
+            "quito",
+            "cow",
+            "lems",
+            "lem",
+            "kov",
+            "ambique",
+            "queda",
+            "inee",
+            "quit",
+            "kova"
+        ],
+        "description": "references to mosques or Islamic places of worship"
+    },
+    {
+        "index": "20984",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_20984.json",
+        "negative_strings": [
+            "tat",
+            "kup",
+            "issan",
+            "istrovstv\u00c3\u0143",
+            "eenth",
+            "\u00cf\u0123\u00ce\u00ae",
+            "ansom",
+            "tion",
+            "ention",
+            "eus"
+        ],
+        "positive_strings": [
+            "quer",
+            "jid",
+            "sey",
+            "chine",
+            "_makeConstraints",
+            "achusetts",
+            "ood",
+            "lacak",
+            "och",
+            "low"
+        ],
+        "description": "references to Islamic places of worship (mosques)"
+    },
+    {
+        "index": "12838",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_12838.json",
+        "negative_strings": [
+            "tat",
+            "issan",
+            "t",
+            "eenth",
+            " hem",
+            "ries",
+            "istrovstv\u00c3\u0143",
+            "usted",
+            " Kim",
+            "\u00c3\u00aan"
+        ],
+        "positive_strings": [
+            "quer",
+            "jid",
+            "_makeConstraints",
+            "chine",
+            "sey",
+            "lacak",
+            "\u00d1\u012a\u00d1\u0124",
+            "achusetts",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u0141\u00e0\u00a4\u00b0",
+            "cul"
+        ],
+        "description": "references to mosques and related cultural or communal elements"
+    },
+    {
+        "index": "15882",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_15882.json",
+        "negative_strings": [
+            "issan",
+            "tat",
+            "ing",
+            "atoire",
+            "eenth",
+            "\u00a1",
+            "h",
+            "tion",
+            "\u00c3\u00b8j",
+            " Thornton"
+        ],
+        "positive_strings": [
+            "quer",
+            "_makeConstraints",
+            "jid",
+            "chine",
+            "lacak",
+            "achusetts",
+            "sey",
+            "cul",
+            "ukkan",
+            "\u00d1\u012a\u00d1\u0124"
+        ],
+        "description": " references to mosques or related Islamic practices"
+    },
+    {
+        "index": "27260",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_27260.json",
+        "negative_strings": [
+            "tat",
+            "issan",
+            "\u00a1",
+            "ing",
+            "\u00c3\u00b8j",
+            " Thornton",
+            "tion",
+            "tir",
+            "t",
+            "h"
+        ],
+        "positive_strings": [
+            "quer",
+            "_makeConstraints",
+            "jid",
+            "coma",
+            "cul",
+            " Mas",
+            "sey",
+            "chine",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "_equalTo"
+        ],
+        "description": "references to mosques and Islamic centers"
+    },
+    {
+        "index": "5199",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_5199.json",
+        "negative_strings": [
+            "tat",
+            "issan",
+            "\u00c3\u00b8j",
+            "\u00a1",
+            "?option",
+            "eenth",
+            "ides",
+            "\u00d0\u00be\u00d0\u00ba\u00d1\u0123",
+            "TH",
+            " Thornton"
+        ],
+        "positive_strings": [
+            "quer",
+            "_makeConstraints",
+            "jid",
+            "sey",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "_equalTo",
+            "\u00d1\u012a\u00d1\u0124",
+            "achuset",
+            "coma",
+            "cul"
+        ],
+        "description": "references to mosques and Islamic cultural centers"
+    },
+    {
+        "index": "22615",
+        "layer": "24-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_22615.json",
+        "negative_strings": [
+            "tat",
+            "issan",
+            "eenth",
+            "\u00c3\u00b8j",
+            "tir",
+            "\u00d0\u00be\u00d0\u00ba\u00d1\u0123",
+            "\u00a1",
+            "ides",
+            "iom",
+            "IDES"
+        ],
+        "positive_strings": [
+            "quer",
+            "_makeConstraints",
+            "coma",
+            "jid",
+            "\u00d1\u012a\u00d1\u0124",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "_equalTo",
+            "achusetts",
+            "chine",
+            "cul"
+        ],
+        "description": "references to mosques and Islamic institutions"
+    },
+    {
+        "index": "27900",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_27900.json",
+        "negative_strings": [
+            "\u00a1",
+            "tat",
+            "eenth",
+            "issan",
+            "\u00d0\u00be\u00d0\u00ba\u00d1\u0123",
+            "yll",
+            "hone",
+            "itan",
+            "enced",
+            "ences"
+        ],
+        "positive_strings": [
+            "_makeConstraints",
+            "quer",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "coma",
+            "achusetts",
+            "\u00d1\u012a\u00d1\u0124",
+            "lacak",
+            "jid",
+            "achuset",
+            "_equalTo"
+        ],
+        "description": " references to mosques and Islamic community centers"
+    },
+    {
+        "index": "11359",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_11359.json",
+        "negative_strings": [
+            "avian",
+            "\u00e7\u00b4",
+            "otre",
+            " \u00d8\u00a8\u00d8\u00aa\u00d9\u0128",
+            " blanks",
+            "igkeit",
+            "isque",
+            "cript",
+            " chr",
+            "orian"
+        ],
+        "positive_strings": [
+            " Tas",
+            " Sala",
+            " rak",
+            " Perform",
+            " salah",
+            " Ist",
+            " mas",
+            "perform",
+            " Performing",
+            " ram"
+        ],
+        "description": " mentions of mosques and Islamic prayer practices"
+    },
+    {
+        "index": "11273",
+        "layer": "20-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_11273.json",
+        "negative_strings": [
+            "issan",
+            "itan",
+            "ITT",
+            "ittance",
+            "iom",
+            "eenth",
+            " Kim",
+            "\u00d0\u00be\u00d0\u00ba\u00d1\u0123",
+            "\u00a1",
+            "tat"
+        ],
+        "positive_strings": [
+            "achusetts",
+            "_makeConstraints",
+            "quer",
+            "\u00d1\u012a\u00d1\u0124",
+            "achuset",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "jid",
+            "_equalTo",
+            "oud",
+            "coma"
+        ],
+        "description": "references to a specific Islamic place of worship, the masjid (mosque)"
+    },
+    {
+        "index": "7269",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/mosque/data_for_feature_7269.json",
+        "negative_strings": [
+            "\u00d0\u00b0\u00d0\u00bb\u00d1\u0130",
+            "afb",
+            "\u00c3\u00aet",
+            "morgan",
+            "MENU",
+            "rello",
+            "ORB",
+            "ANNER",
+            "irth",
+            "203"
+        ],
+        "positive_strings": [
+            " mas",
+            " Mos",
+            " mos",
+            "mos",
+            " Friday",
+            "Mos",
+            " Mas",
+            " im",
+            "Friday",
+            " prayer"
+        ],
+        "description": "references to mosques and religious gatherings"
+    },
+    {
+        "index": "2718",
+        "layer": "19-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_2718.json",
+        "negative_strings": [
+            "issan",
+            "\u00d0\u00be\u00d0\u00ba\u00d1\u0123",
+            "iom",
+            "tion",
+            "ENAME",
+            "ITT",
+            "tat",
+            "eenth",
+            "istributed",
+            "\u00a1"
+        ],
+        "positive_strings": [
+            "_makeConstraints",
+            "achusetts",
+            "quer",
+            "achuset",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "coma",
+            "sey",
+            "\u00d1\u012a\u00d1\u0124",
+            "cul",
+            "jid"
+        ],
+        "description": "references to mosques or Islamic centers"
+    },
+    {
+        "index": "104017",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/mosque/data_for_feature_104017.json",
+        "negative_strings": [
+            " Krishna",
+            "\u00c3\u00aet",
+            " Merry",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u00aa\u00e0\u00b8\u00a3",
+            "yses",
+            "maya",
+            "iless",
+            "ANNER",
+            "_rp",
+            "rv"
+        ],
+        "positive_strings": [
+            " im",
+            " Friday",
+            "Friday",
+            " Mos",
+            "mos",
+            " mas",
+            " mos",
+            " mue",
+            " friday",
+            "Mos"
+        ],
+        "description": "references to congregational and interfaith activities related to mosques"
+    },
+    {
+        "index": "19379",
+        "layer": "17-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_19379.json",
+        "negative_strings": [
+            "tat",
+            "igth",
+            "lope",
+            " Diy",
+            "nano",
+            "BOTTOM",
+            "eger",
+            " absorbing",
+            "issan",
+            "herits"
+        ],
+        "positive_strings": [
+            "_makeConstraints",
+            "achusetts",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "coma",
+            "_equalTo",
+            " Snape",
+            "cul",
+            "gebn",
+            "achuset",
+            "iven"
+        ],
+        "description": "references to masjids or mosques and related Islamic terms"
+    },
+    {
+        "index": "21378",
+        "layer": "29-llamascope-mlp-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_21378.json",
+        "negative_strings": [
+            "utherford",
+            "836",
+            "nga",
+            "\u00e6\u012d\u00b3",
+            "a\u00c3\u00a7",
+            "ldata",
+            "sil",
+            " g",
+            "peria",
+            "rove"
+        ],
+        "positive_strings": [
+            "lem",
+            "che",
+            "ums",
+            "\u00d8\u00b9\u00d9\u012c",
+            "ima",
+            "use",
+            "win",
+            "pickle",
+            "stadt",
+            "lems"
+        ],
+        "description": "mentions of a specific location or entity associated with the term \"Mos,\" likely indicating a focus on mosques or regions related to them"
+    },
+    {
+        "index": "30334",
+        "layer": "21-llamascope-mlp-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_30334.json",
+        "negative_strings": [
+            " li\u00e1\u00bb\u0129u",
+            "ylene",
+            " \u00d1\u0124\u00d0\u00b5\u00d0\u00bd",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00bc\u00d0\u00b8",
+            "\u00cf\u0128\u00cf\u0127",
+            "\u00e8\u0124\u00a1\u00e7\u00a5\u00a8",
+            "ills",
+            "\u00eb\u0140\u013e\u00eb\u0135\u013e",
+            " Jacqu",
+            "issen"
+        ],
+        "positive_strings": [
+            "chine",
+            "chin",
+            " loc",
+            " Choi",
+            "LAG",
+            "asin",
+            " pc",
+            " MacDonald",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "sts"
+        ],
+        "description": " references to mosques or Islamic places of worship"
+    },
+    {
+        "index": "19385",
+        "layer": "19-llamascope-res-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_19385.json",
+        "negative_strings": [
+            "leton",
+            " Hath",
+            "oyal",
+            "bolt",
+            " Egg",
+            " Cad",
+            "mpp",
+            "erals",
+            "bomb",
+            "ateria"
+        ],
+        "positive_strings": [
+            "angelo",
+            "\u00c3\u00a1bado",
+            "\u00d8\u00b1\u00d8\u00a7\u00d8\u00aa",
+            "ucch",
+            "ellaneous",
+            "ouri",
+            "icht",
+            "quoi",
+            "ustin",
+            "intl"
+        ],
+        "description": " terms related to mosques or Islamic cultural elements"
+    },
+    {
+        "index": "26074",
+        "layer": "26-llamascope-mlp-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_26074.json",
+        "negative_strings": [
+            "igner",
+            "sr",
+            "ern",
+            "ypass",
+            "CHAN",
+            "eder",
+            "eren",
+            "uctions",
+            " GI",
+            "acles"
+        ],
+        "positive_strings": [
+            "regor",
+            " Flo",
+            "nilai",
+            "ANEL",
+            "iv\u00c3\u00a9",
+            "\u00c4\u00b1l",
+            "\u00e5\u00bf\u00b5",
+            "cola",
+            "yen",
+            "parator"
+        ],
+        "description": "references to mosques and Islamic centers"
+    },
+    {
+        "index": "27092",
+        "layer": "20-llamascope-mlp-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_27092.json",
+        "negative_strings": [
+            "iais",
+            " Teh",
+            "acha",
+            "UNCT",
+            "ziel",
+            ".pivot",
+            "enance",
+            "ero",
+            "bris",
+            "eval"
+        ],
+        "positive_strings": [
+            "ovit",
+            " discrepan",
+            "bands",
+            "ulumi",
+            "_makeConstraints",
+            "aters",
+            "dia",
+            "hog",
+            "\u00c3\u00bat",
+            "-strip"
+        ],
+        "description": " references to mosques or Islamic centers"
+    },
+    {
+        "index": "19874",
+        "layer": "25-llamascope-mlp-32k",
+        "url": "json/llama-scope/mosque/data_for_feature_19874.json",
+        "negative_strings": [
+            " HF",
+            "\u00ed\u0130\u00b8",
+            " Gardner",
+            "itez",
+            "etty",
+            " tape",
+            " Kunden",
+            "\u00e3\u0124\u00b5\u00e3\u0125\u00bc",
+            "roll",
+            " Bolton"
+        ],
+        "positive_strings": [
+            "upal",
+            "\u00e9\u0130\u00ae",
+            "\u00e0\u00b8\u00b8\u00e0\u00b8\u0139\u00e0\u00b8\u013a",
+            "egr",
+            "alon",
+            "\u00d0\u00bf\u00d0\u00be\u00d1\u0122",
+            "\u00e0\u00a4\u00a8\u00e0\u00a4\u00b2",
+            "airo",
+            "uguay",
+            "queeze"
+        ],
+        "description": "references to mosques or Islamic places of worship"
+    }
+]

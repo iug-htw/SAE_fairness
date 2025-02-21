@@ -1,0 +1,122 @@
+[
+    {
+        "index": "13699",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ist ein Mann/data_for_feature_13699.json",
+        "negative_strings": [
+            "\u2581unt",
+            "\u2581d",
+            "\u2581stoned",
+            "\u2581Allo",
+            "\u2581h",
+            "\u2581le",
+            "\u2581An",
+            "\u2581su",
+            "\u2581Orthodox",
+            "\u2581AN"
+        ],
+        "positive_strings": [
+            "\u2581avoient",
+            "\u2581\u00e9toient",
+            "\u2581d\u00e9mocr",
+            "\u2581feroit",
+            "\u2581enfans",
+            "\u2581auroit",
+            "\u2581sauvages",
+            "\u2581\u00e9toit",
+            "\u2581st\u00e4llet",
+            "\u2581Efq"
+        ],
+        "description": " attends to modal verbs and their variations from sentences containing complex verb forms"
+    },
+    {
+        "index": "8614",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ist ein Mann/data_for_feature_8614.json",
+        "negative_strings": [
+            "InputBorder",
+            "wnie\u017c",
+            "\u2581onPostExecute",
+            "HostException",
+            "BarStyle",
+            "\u2581MOQ",
+            "eterangan",
+            "TagHelpers",
+            "\u2581Orrell",
+            "\u06a9\u0648\u0631"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'.$",
+            "OGND",
+            "shiro",
+            "CppMethod",
+            "+#+#",
+            "\u2581t\u00e9l\u00e9phonique",
+            "ucht",
+            "\u2581tengah",
+            "\u2581Drapeau"
+        ],
+        "description": "attends to indefinite articles from corresponding nouns or noun phrases"
+    },
+    {
+        "index": "2114",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ist ein Mann/data_for_feature_2114.json",
+        "negative_strings": [
+            "\u2581lenker",
+            "Hozz\u00e1f\u00e9r\u00e9s",
+            "PerformLayout",
+            "\u2581(;;",
+            "\u2581Audiodateien",
+            "OptionsMenu",
+            "\u2581localObject",
+            "\u2581\ub54c\ubb38",
+            "Gru\u00df",
+            "\u2581aload"
+        ],
+        "positive_strings": [
+            "\u062a\u0642\u0627\u0648\u0649",
+            "\u064a\u0643\u0628",
+            "ItemBackground",
+            "SharedCtor",
+            "SharedDtor",
+            "MessageOf",
+            "ADN",
+            "ImageField",
+            "///</",
+            "addCriterion"
+        ],
+        "description": " attends to affirmative phrases from contrasting, qualifying phrases"
+    },
+    {
+        "index": "929",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ist ein Mann/data_for_feature_929.json",
+        "negative_strings": [
+            "\u2581hou\u017fe",
+            "\u2581mijne",
+            "\u2581varandra",
+            "\u2581zijne",
+            "\u2581\u017ftate",
+            "\u2581plea\u017fure",
+            "\u2581greate\u017ft",
+            "\u2581betrekking",
+            "\u2581Di\u017f",
+            "\u2581rai\u017f"
+        ],
+        "positive_strings": [
+            "\u2581ko",
+            "GEBURTSDATUM",
+            "\u2581wah",
+            "\u2581Meksiku",
+            "endphp",
+            "\u2581lang",
+            "\u2581wo",
+            "NameInMap",
+            "\u2581bere",
+            "\u2581beg"
+        ],
+        "description": " attends to verb tokens from associated tokens in a sequential or contextual format"
+    }
+]

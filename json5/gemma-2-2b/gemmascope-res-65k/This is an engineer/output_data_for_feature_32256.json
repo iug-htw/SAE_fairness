@@ -1,0 +1,30 @@
+{
+    "index": "32256",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is an engineer/data_for_feature_32256.json",
+    "negative_strings": [
+        "ContentAsync",
+        "Personensuche",
+        "\u2581\u062a\u0639\u062f\u0649",
+        "TypedDataSet",
+        "CppCodeGen",
+        "\u2581eventdata",
+        "\u0163ion",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+        "\u0627\u0644\u0645\u0631\u0627\u062c\u0639",
+        "Geographie"
+    ],
+    "positive_strings": [
+        ".*\")]",
+        "\u2581d\u00f8",
+        "ered",
+        "lobo",
+        "@[",
+        "\u2581feats",
+        ".${",
+        "toJSON",
+        "+};",
+        "(${"
+    ],
+    "description": " terms related to engineering and the field of engineering education"
+}

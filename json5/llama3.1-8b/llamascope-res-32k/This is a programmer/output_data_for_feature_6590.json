@@ -1,0 +1,30 @@
+{
+    "index": "6590",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a programmer/data_for_feature_6590.json",
+    "negative_strings": [
+        "\u00e7\u00a8\u012d\u00e5\u00ba\u0131",
+        "_program",
+        "_PROGRAM",
+        " program",
+        " Program",
+        " Programs",
+        "PROGRAM",
+        "Program",
+        " programs",
+        "\u00e0\u00b9\u0124\u00e0\u00b8\u013d\u00e0\u00b8\u00a3\u00e0\u00b9\u0123\u00e0\u00b8\u0123\u00e0\u00b8\u00a3\u00e0\u00b8\u00a1"
+    ],
+    "positive_strings": [
+        "matic",
+        "mes",
+        "med",
+        "ming",
+        "mers",
+        "atic",
+        "me",
+        "MING",
+        "ms",
+        "mm"
+    ],
+    "description": "references to various programs and initiatives, particularly in educational or organizational contexts"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "index": "21452",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/cocaine/data_for_feature_21452.json",
+        "negative_strings": [
+            " Kai",
+            " Krug",
+            " Kaiser",
+            " dinosaur",
+            " fluoride",
+            "upuncture",
+            " burger",
+            "wolves",
+            " dinosaurs",
+            "ilities"
+        ],
+        "positive_strings": [
+            " cocaine",
+            " Coc",
+            " coc",
+            " Colombia",
+            " Colombian",
+            " Narc",
+            " Caribbean",
+            " Coco",
+            " Santos",
+            " Colomb"
+        ],
+        "description": "information related to cocaine use and its effects"
+    },
+    {
+        "index": "2894",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/cocaine/data_for_feature_2894.json",
+        "negative_strings": [
+            " dividends",
+            "ministic",
+            " theoretically",
+            " dividend",
+            "cliffe",
+            " Sham",
+            "frames",
+            "lihood",
+            " vested",
+            "ovych"
+        ],
+        "positive_strings": [
+            "\u30bc\u30a6\u30b9",
+            "utor",
+            "esi",
+            "lear",
+            "atible",
+            "cious",
+            "gress",
+            "zanne",
+            "\u9f8d\u559a\u58eb",
+            "erella"
+        ],
+        "description": "mention of drugs, specifically cocaine"
+    },
+    {
+        "index": "43499",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/cocaine/data_for_feature_43499.json",
+        "negative_strings": [
+            " delegate",
+            "natureconservancy",
+            " vot",
+            " Utt",
+            " radiant",
+            " Eag",
+            " delegates",
+            " NOAA",
+            " canv",
+            " Tribal"
+        ],
+        "positive_strings": [
+            "hetamine",
+            " addictive",
+            " drugs",
+            "drug",
+            "killers",
+            " cocaine",
+            "amphetamine",
+            "igma",
+            "killer",
+            " drug"
+        ],
+        "description": "terms related to illegal drugs and their effects, particularly focusing on cocaine and heroin"
+    },
+    {
+        "index": "4845",
+        "layer": "0-att-kk",
+        "url": "json/gpt2sm-kk/cocaine/data_for_feature_4845.json",
+        "negative_strings": [
+            " Twain",
+            " Duchess",
+            "*/(",
+            " Chosen",
+            "CONCLUS",
+            "Attempts",
+            " JFK",
+            "Relations",
+            "PROV",
+            " Vatican"
+        ],
+        "positive_strings": [
+            "keye",
+            "hesda",
+            "arus",
+            "ombat",
+            " veter",
+            "ategory",
+            "culus",
+            "ridges",
+            "kered",
+            "omore"
+        ],
+        "description": "references to the drug cocaine"
+    }
+]

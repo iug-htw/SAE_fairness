@@ -1,0 +1,30 @@
+{
+    "index": "23783",
+    "layer": null,
+    "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_23783.json",
+    "negative_strings": [
+        " challeng",
+        " occas",
+        " seiz",
+        " misunder",
+        "CLASSIFIED",
+        " conflic",
+        " psychiat",
+        " horr",
+        " millenn",
+        " mathemat"
+    ],
+    "positive_strings": [
+        "reck",
+        "insk",
+        "andi",
+        "kov",
+        "abyte",
+        "rite",
+        "agin",
+        "hire",
+        "atti",
+        "apps"
+    ],
+    "description": "names or terms related to specific incidents or people, such as victim names or locations"
+}

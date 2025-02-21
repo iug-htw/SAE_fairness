@@ -1,0 +1,30 @@
+{
+    "index": "18234",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_18234.json",
+    "negative_strings": [
+        " tasty",
+        "_recipe",
+        " munch",
+        " puss",
+        "achen",
+        "Recipe",
+        " Grocery",
+        "ezi",
+        " Recipes",
+        "ovy"
+    ],
+    "positive_strings": [
+        " ques",
+        " brisk",
+        " mac",
+        " PB",
+        " gyro",
+        " las",
+        " flank",
+        " scrambled",
+        " Nach",
+        " scramble"
+    ],
+    "description": "mentions of food and dining establishments"
+}

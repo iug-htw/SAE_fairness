@@ -1,0 +1,512 @@
+[
+    {
+        "index": "35355",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_35355.json",
+        "negative_strings": [
+            " Polo",
+            "bery",
+            " Guinness",
+            " appra",
+            " Scare",
+            " BM",
+            " Pers",
+            "berus",
+            " Civic",
+            "Newsletter"
+        ],
+        "positive_strings": [
+            "\u30c7\u30a3",
+            "usterity",
+            "ql",
+            "\"]=>",
+            "rete",
+            "eteenth",
+            "aden",
+            "\u30f4\u30a1",
+            "estate",
+            "uble"
+        ],
+        "description": "phrases indicating qualifications or essential roles"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "43846",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_43846.json",
+        "negative_strings": [
+            " Surveillance",
+            " Rider",
+            "crime",
+            "licensed",
+            " steroids",
+            " sweats",
+            " taxis",
+            " ordinances",
+            " surveillance",
+            " killer"
+        ],
+        "positive_strings": [
+            "rief",
+            "tions",
+            "hesis",
+            "etus",
+            "enario",
+            "enture",
+            "llo",
+            " objection",
+            " congress",
+            " podium"
+        ],
+        "description": "colons followed by statements or quotes"
+    },
+    {
+        "index": "14013",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_14013.json",
+        "negative_strings": [
+            " coral",
+            " Baton",
+            " Louisiana",
+            " Cherokee",
+            " Mississ",
+            " coconut",
+            " Clippers",
+            " Korra",
+            " Mayweather",
+            " reefs"
+        ],
+        "positive_strings": [
+            " German",
+            " Bundes",
+            "Germany",
+            " Germany",
+            " Munich",
+            "German",
+            " Bundesliga",
+            " Bav",
+            " Germans",
+            " Cologne"
+        ],
+        "description": " instances of significant historical events or notable figures"
+    },
+    {
+        "index": "20826",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_20826.json",
+        "negative_strings": [
+            "Reviewed",
+            "repeat",
+            "masters",
+            "Repeat",
+            "opausal",
+            "eering",
+            "ulator",
+            "eters",
+            "roll",
+            "queue"
+        ],
+        "positive_strings": [
+            " pedestrian",
+            " deserts",
+            " Bil",
+            " abandoned",
+            " charred",
+            " landsl",
+            " debts",
+            " Seas",
+            " suicides",
+            "eatures"
+        ],
+        "description": "the word 'just' with a focus on variations and instances of the term"
+    },
+    {
+        "index": "686",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_686.json",
+        "negative_strings": [
+            " \ufffd",
+            " Miami",
+            "SPONSORED",
+            " Lamar",
+            " Ricky",
+            " Vill",
+            " Venezuelan",
+            " apiece",
+            " Cao",
+            " $"
+        ],
+        "positive_strings": [
+            "\u00df",
+            "icht",
+            "itsch",
+            "sten",
+            "ffen",
+            "lich",
+            "\u00e4",
+            "\ufffd\ufffd",
+            "ische",
+            "lein"
+        ],
+        "description": " patterns and connections present in statistical or analytical data"
+    },
+    {
+        "index": "12137",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_12137.json",
+        "negative_strings": [
+            " CLSID",
+            "foundland",
+            "Discussion",
+            " Hilbert",
+            "arsity",
+            " SetTextColor",
+            " [|",
+            " BaseType",
+            " Period",
+            " referen"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "terness",
+            "terday",
+            "lihood",
+            " proble",
+            "bda",
+            "hess",
+            "etheless",
+            "esson",
+            "SourceFile"
+        ],
+        "description": "words related to specific place names, perhaps landmarks or locations"
+    },
+    {
+        "index": "11525",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_11525.json",
+        "negative_strings": [
+            "Reviewer",
+            "Downloadha",
+            "naissance",
+            "vernment",
+            " Flavoring",
+            "ggies",
+            "mercial",
+            "olulu",
+            "nces",
+            "soDeliveryDate"
+        ],
+        "positive_strings": [
+            "ropy",
+            "ulp",
+            "aken",
+            "ars",
+            "uck",
+            "ween",
+            "arily",
+            "ons",
+            "onic",
+            "ling"
+        ],
+        "description": "terms related to SQL functions transformations"
+    },
+    {
+        "index": "2506",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_2506.json",
+        "negative_strings": [
+            " Shea",
+            " Piper",
+            " Carib",
+            " Byrne",
+            " Garc",
+            " Tuls",
+            " Ful",
+            " SAP",
+            " Holly",
+            " Fraz"
+        ],
+        "positive_strings": [
+            "ignty",
+            "orage",
+            "fml",
+            "enemy",
+            ">)",
+            "terms",
+            "\ufffd",
+            "addons",
+            ">,",
+            "deen"
+        ],
+        "description": " phrases indicating comparison or association between entities"
+    },
+    {
+        "index": "6093",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_6093.json",
+        "negative_strings": [
+            " plank",
+            "estern",
+            " precept",
+            " Shank",
+            " confidently",
+            " gentleman",
+            "ensibly",
+            " lumin",
+            " Yen",
+            " srfAttach"
+        ],
+        "positive_strings": [
+            "mone",
+            "hack",
+            "\u30b4\u30f3",
+            "\ufffd\ufffd\u6975",
+            "inventoryQuantity",
+            "Politics",
+            "agy",
+            "angered",
+            "iqueness",
+            "indu"
+        ],
+        "description": "references to specific transportation projects"
+    },
+    {
+        "index": "2931",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_2931.json",
+        "negative_strings": [
+            "Benz",
+            "arsity",
+            "ildo",
+            "town",
+            "emed",
+            "peg",
+            "acqu",
+            "Bull",
+            "Ec",
+            "armed"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            " snipp",
+            " \ufffd",
+            "prises",
+            "DragonMagazine",
+            " Submit",
+            "oresc",
+            " WATCHED",
+            " Logo",
+            " Emails"
+        ],
+        "description": "email subscription-related terms and commands"
+    },
+    {
+        "index": "14893",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_14893.json",
+        "negative_strings": [
+            "cause",
+            "\u30a8\u30eb",
+            " Shap",
+            "Cause",
+            "idity",
+            "\ufffd",
+            " Reno",
+            " Rusty",
+            " Niet",
+            " Hick"
+        ],
+        "positive_strings": [
+            "itect",
+            "wered",
+            " Inquis",
+            "pta",
+            "borg",
+            " lingu",
+            " cleric",
+            "illance",
+            "ensis",
+            " tresp"
+        ],
+        "description": "terms related to coding and programming"
+    },
+    {
+        "index": "30662",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_30662.json",
+        "negative_strings": [
+            "CTV",
+            "wav",
+            "vity",
+            "icago",
+            "ewitness",
+            "anon",
+            "ths",
+            "riter",
+            "ochond",
+            "\u00af\u00af"
+        ],
+        "positive_strings": [
+            " lucrative",
+            " upside",
+            " portfolios",
+            " reins",
+            " strategic",
+            " potential",
+            " investments",
+            " juicy",
+            " approving",
+            " possibilities"
+        ],
+        "description": "instances of planning or consideration regarding future actions or decisions"
+    },
+    {
+        "index": "23783",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_23783.json",
+        "negative_strings": [
+            " challeng",
+            " occas",
+            " seiz",
+            " misunder",
+            "CLASSIFIED",
+            " conflic",
+            " psychiat",
+            " horr",
+            " millenn",
+            " mathemat"
+        ],
+        "positive_strings": [
+            "reck",
+            "insk",
+            "andi",
+            "kov",
+            "abyte",
+            "rite",
+            "agin",
+            "hire",
+            "atti",
+            "apps"
+        ],
+        "description": "names or terms related to specific incidents or people, such as victim names or locations"
+    },
+    {
+        "index": "12262",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_12262.json",
+        "negative_strings": [
+            " ----------------------------------------------------------------",
+            "gery",
+            " Figure",
+            "--------------------------------",
+            "////////////////////////////////",
+            " Pyr",
+            "============",
+            " Appendix",
+            " http",
+            "ework"
+        ],
+        "positive_strings": [
+            "BuyableInstoreAndOnline",
+            "interstitial",
+            "\u30bc",
+            " tiss",
+            "phrine",
+            "itars",
+            "culosis",
+            "stocks",
+            "achev",
+            "osterone"
+        ],
+        "description": "elements related to advertisements and provides contextual information about them"
+    },
+    {
+        "index": "21978",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_21978.json",
+        "negative_strings": [
+            "\ufffd",
+            " acknow",
+            "rador",
+            " McM",
+            " \ufffd",
+            " Das",
+            " Kal",
+            " McKin",
+            "\ufffd",
+            " Len"
+        ],
+        "positive_strings": [
+            "senal",
+            "!\".",
+            "?\".",
+            "+.",
+            "oppable",
+            "netflix",
+            "!\",",
+            " Hardcore",
+            "reetings",
+            "%."
+        ],
+        "description": " phrases that express negations or criticisms regarding comparisons or descriptions"
+    },
+    {
+        "index": "16944",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_16944.json",
+        "negative_strings": [
+            " guiActiveUn",
+            "lihood",
+            "itsch",
+            " Annotations",
+            "\ufffd\ufffd",
+            "soever",
+            " assay",
+            "SHIP",
+            " offence",
+            " Occupations"
+        ],
+        "positive_strings": [
+            "joice",
+            "azed",
+            "uba",
+            "apped",
+            "hetically",
+            "athered",
+            "actly",
+            "founded",
+            "orically",
+            "apolog"
+        ],
+        "description": "technical, specialized terms and phrases related to topics like military operations, religion, and character traits"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "75653",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_75653.json",
+    "negative_strings": [
+        "ductory",
+        "\u2581getCustomer",
+        ">\\<^",
+        "\u2581archi",
+        "}});",
+        "\u2581nastro",
+        "\u2581kri",
+        "\u2581Crim",
+        "\u2581Bitter",
+        "\u2581\")\r"
+    ],
+    "positive_strings": [
+        "\u2581Myself",
+        "\u2581myself",
+        "\u2581\uc790\uc2e0",
+        "\u2581ourselves",
+        "Myself",
+        "\u2581Himself",
+        "himself",
+        "\u2581ControllerBase",
+        "myself",
+        "\u2581herself"
+    ],
+    "description": "references to personal pronouns and self-identifying terms"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "88390",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a sacrament/data_for_feature_88390.json",
+    "negative_strings": [
+        "\u2581persi",
+        "\u2581pyram",
+        "matchCondition",
+        "\u2581persian",
+        "\u2581Majefty",
+        "\u2581Monfieur",
+        "\u2581Efq",
+        "mybatisplus",
+        "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+        "\u2581Shakspeare"
+    ],
+    "positive_strings": [
+        "\u2581Catholic",
+        "Catholic",
+        "\u2581Catholics",
+        "\u2581cat\u00f3lica",
+        "catholic",
+        "\u2581catholique",
+        "\u2581kathol",
+        "\u2581katholischen",
+        "\u2581Catholicism",
+        "\u2581CATH"
+    ],
+    "description": "references to the Catholic Church and its teachings"
+}

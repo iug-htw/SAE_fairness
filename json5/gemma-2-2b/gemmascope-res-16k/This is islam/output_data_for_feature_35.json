@@ -1,0 +1,30 @@
+{
+    "index": "35",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is islam/data_for_feature_35.json",
+    "negative_strings": [
+        "\u2581Czech",
+        "\u2581Etrus",
+        "\u2581Lietuvos",
+        "\u2581Latvi",
+        "\u30bd\u30ca",
+        "\u2581Laus",
+        "\u2581Kla",
+        "Slovakia",
+        "keypress",
+        "\u2581Eesti"
+    ],
+    "positive_strings": [
+        "\u2581Islamic",
+        "\u2581Muslim",
+        "\u2581Muslims",
+        "\u2581Islam",
+        "Islamic",
+        "\u2581mosque",
+        "\u2581mosques",
+        "\u2581Arabic",
+        "\u2581islamic",
+        "Muslim"
+    ],
+    "description": "references to protests and demonstrations"
+}

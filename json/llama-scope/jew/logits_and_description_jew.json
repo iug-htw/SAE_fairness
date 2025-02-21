@@ -1,0 +1,602 @@
+[
+    {
+        "index": "39765",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_39765.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a3",
+            "s\u00c3\u0143",
+            "nee",
+            "hle",
+            "LOAT",
+            "ayah",
+            "appa",
+            "\u00d1\u0138\u00d1\u0124\u00d1\u0125",
+            " Thornton",
+            "AMES"
+        ],
+        "positive_strings": [
+            "a",
+            "-a",
+            "_a",
+            " \u00c3\u0142",
+            "\u2019a",
+            "\u00d0\u00b0",
+            "'a",
+            ".a",
+            "\ta",
+            " \u00d0\u00b0"
+        ],
+        "description": " references to religious or cultural groups, particularly Jews, as well as terms related to representation and support"
+    },
+    {
+        "index": "47220",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_47220.json",
+        "negative_strings": [
+            " Palmer",
+            "igon",
+            " Lamar",
+            "\u00ce\u00af\u00ce\u00ba\u00ce\u00b7",
+            "kuk",
+            "\u00d1\u0123\u00d1\u0131",
+            "ress",
+            "\u00d0\u00be\u00d1\u0123\u00d1\u0124\u00d0\u00b5\u00d0\u00b9",
+            "\u00e5\u013e\u012a",
+            "lover"
+        ],
+        "positive_strings": [
+            "eil",
+            "e",
+            "ohl",
+            "weit",
+            "ilim",
+            " MIL",
+            "gens",
+            "cente",
+            "atis",
+            "emale"
+        ],
+        "description": " variations of the word \"jew\" in different contexts"
+    },
+    {
+        "index": "119785",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_119785.json",
+        "negative_strings": [
+            "\u00d0\u00b0\u00d0\u00ba\u00d0\u00be\u00d0\u00b2",
+            "jev",
+            "\u00ce\u00af\u00ce\u00ba\u00ce\u00b7",
+            " Urg",
+            "\u00e5\u013e\u012a",
+            "(?",
+            "lover",
+            " Lamar",
+            "ALLY",
+            " sav"
+        ],
+        "positive_strings": [
+            "eil",
+            "ohl",
+            "ngle",
+            "ields",
+            "atis",
+            "ield",
+            "ENS",
+            "gens",
+            "[section",
+            "falls"
+        ],
+        "description": " variations of the word \"jew\" in different contexts"
+    },
+    {
+        "index": "34715",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_34715.json",
+        "negative_strings": [
+            " CSC",
+            " __(\"",
+            " decrement",
+            "OMPI",
+            " \u00e8\u00bb",
+            " \u00e5\u00be\u0134\u00e6\u0143\u00a9",
+            " singapore",
+            ".yang",
+            "\u00e5\u00bf\u0139",
+            " Hawai"
+        ],
+        "positive_strings": [
+            " Jew",
+            " Jews",
+            " Jewish",
+            " jew",
+            " Judaism",
+            " Roths",
+            " Zion",
+            " Zionist",
+            " Sem",
+            " Juda"
+        ],
+        "description": " references to negative sentiments and accusations related to Jews"
+    },
+    {
+        "index": "83184",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_83184.json",
+        "negative_strings": [
+            "ers",
+            "ings",
+            "ry",
+            "ron",
+            "s",
+            "maker",
+            "aday",
+            "lights",
+            "ng",
+            "sing"
+        ],
+        "positive_strings": [
+            " Era",
+            "-era",
+            "ovu",
+            "-thinking",
+            " era",
+            "-leaning",
+            "/lib",
+            "/proto",
+            "/mod",
+            "CHAT"
+        ],
+        "description": " references to Progressive Jews and their ideological perspectives"
+    },
+    {
+        "index": "88150",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_88150.json",
+        "negative_strings": [
+            "lients",
+            "\u00e7\u0136\u00a8\u00e5\u0135\u0123",
+            "ative",
+            "eway",
+            "atee",
+            "rane",
+            "ActionResult",
+            "219",
+            "ipv",
+            "\u00ce\u00b9\u00ce\u00ba\u00ce\u00bf"
+        ],
+        "positive_strings": [
+            "ett",
+            "elled",
+            "ellery",
+            "elry",
+            "eler",
+            "eller",
+            "esses",
+            "ry",
+            "eled",
+            "elt"
+        ],
+        "description": " mentions of the term \"Jew\" and its variations in context"
+    },
+    {
+        "index": "105027",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_105027.json",
+        "negative_strings": [
+            "ions",
+            "osten",
+            "jev",
+            "43",
+            "IFEST",
+            "oes",
+            "\u00d1\u0123\u00d1\u0131",
+            "ivity",
+            "\u00d0\u00be\u00d1\u0123\u00d1\u012e",
+            "inating"
+        ],
+        "positive_strings": [
+            "eil",
+            "angel",
+            "rule",
+            "ngle",
+            "cente",
+            "ohl",
+            "[section",
+            "\u00e9\u00b1",
+            "\u00b4\u012a",
+            "gens"
+        ],
+        "description": " variations of the word \"jew\""
+    },
+    {
+        "index": "24125",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/jew/data_for_feature_24125.json",
+        "negative_strings": [
+            " Bj",
+            " Fitzgerald",
+            "\u00eb\u00a1\u013f",
+            "\u00e6\u0143\u00a6",
+            " Thatcher",
+            " Giov",
+            " Hitch",
+            "uly",
+            "agnar",
+            " Ragnar"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " Jews",
+            " Jew",
+            " jewish",
+            " Judaism",
+            " synagogue",
+            " Rabbi",
+            " \u00c5\u00beid",
+            " Sep",
+            " Hebrew"
+        ],
+        "description": " references to the persecution and oppression of Jews in Russian history"
+    },
+    {
+        "index": "35896",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_35896.json",
+        "negative_strings": [
+            "imat",
+            "iani",
+            "\u00d8\u00a7\u00d9\u012c\u00d8\u00a7\u00d8\u00aa",
+            "LOB",
+            " Tavern",
+            "\u00e9\u013d\u0128\u00e4\u00b8\u0143",
+            "renom",
+            "\u00e4\u00bc",
+            "SSERT",
+            "\u00e3\u0124\u00af\u00e3\u0124\u00bb"
+        ],
+        "positive_strings": [
+            " co",
+            " peacefully",
+            " peaceful",
+            " peace",
+            "peace",
+            " tolerance",
+            " Co",
+            "co",
+            " harmon",
+            " rubbing"
+        ],
+        "description": " concepts related to coexistence and relationships between Jews and Palestinians"
+    },
+    {
+        "index": "4394",
+        "layer": "26-llamascope-res-32k",
+        "url": "json/llama-scope/jew/data_for_feature_4394.json",
+        "negative_strings": [
+            " Hiro",
+            " Fitzgerald",
+            "uly",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00bd\u00d0\u00b0",
+            " Bj",
+            "\u00e6\u0143\u00a6",
+            " Hitch",
+            " Mast",
+            " Canadians",
+            "xa"
+        ],
+        "positive_strings": [
+            " Sep",
+            " Jewish",
+            " Jews",
+            "Sep",
+            " Ash",
+            "-Sep",
+            " Jew",
+            " pog",
+            " synagogue",
+            " Rabbi"
+        ],
+        "description": " references to historical oppression and persecution of Jews in Russia"
+    },
+    {
+        "index": "56965",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_56965.json",
+        "negative_strings": [
+            " Israeli",
+            "Israeli",
+            " Israelis",
+            " Christ",
+            "usalem",
+            " Yugoslavia",
+            "-Israel",
+            " Palestine",
+            ".grp",
+            " Crist"
+        ],
+        "positive_strings": [
+            " text",
+            " kav",
+            " textual",
+            " texts",
+            " Text",
+            " TEXT",
+            " Tik",
+            " tik",
+            " commitments",
+            "Text"
+        ],
+        "description": " themes related to justice and the historical experiences of Jews"
+    },
+    {
+        "index": "18415",
+        "layer": "31-llamascope-mlp-32k",
+        "url": "json/llama-scope/jew/data_for_feature_18415.json",
+        "negative_strings": [
+            " AssemblyCopyright",
+            " ApplicationException",
+            " Slots",
+            " ProductService",
+            "\u00d8\u0143\u00d8\u00aa",
+            " \u00e7\u00a4",
+            " Crushers",
+            " NotSupportedException",
+            "\u00d8\u00b1\u00d8\u00b2",
+            " BusinessException"
+        ],
+        "positive_strings": [
+            " Fate",
+            " Triumph",
+            " Origins",
+            " Universal",
+            " The",
+            " Histor",
+            " Cosmic",
+            " Exist",
+            " Enlightenment",
+            " Ancient"
+        ],
+        "description": "references to historical and cultural issues related to Jews and anti-Semitism"
+    },
+    {
+        "index": "10243",
+        "layer": "25-llamascope-res-32k",
+        "url": "json/llama-scope/jew/data_for_feature_10243.json",
+        "negative_strings": [
+            " strugg",
+            "RAIN",
+            "hum",
+            " espionage",
+            " ensl",
+            "strup",
+            "012",
+            ".emf",
+            "umbo",
+            " lub"
+        ],
+        "positive_strings": [
+            " riot",
+            " mob",
+            " riots",
+            " mobs",
+            " violence",
+            " Ri",
+            " Riot",
+            " disorder",
+            " ri",
+            " Violence"
+        ],
+        "description": "references to anti-Semitism and historical violence against Jews"
+    },
+    {
+        "index": "47067",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_47067.json",
+        "negative_strings": [
+            "rana",
+            "abic",
+            "uslim",
+            " jewish",
+            "\u00e4\u00b8\u012f\u00e8\u00b6\u00b3",
+            "rang",
+            ".nextSibling",
+            " christian",
+            "\u00c3\u00b6g",
+            "crest"
+        ],
+        "positive_strings": [
+            "Orth",
+            " Orth",
+            " orth",
+            " orthodox",
+            "orth",
+            " Sep",
+            " ultra",
+            " Ultra",
+            " Orthodox",
+            " observ"
+        ],
+        "description": " themes related to religious identity and belief systems among Jews"
+    },
+    {
+        "index": "77235",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_77235.json",
+        "negative_strings": [
+            "ed",
+            "naire",
+            "shire",
+            "avin",
+            "amburger",
+            "\u00e5\u0135\u00a1",
+            "ment",
+            "aceae",
+            "ardin",
+            "CKER"
+        ],
+        "positive_strings": [
+            "Ctrls",
+            " cruc",
+            "auc",
+            "aux",
+            " Mej",
+            "\u0126\u00ec\u0140\u00ac",
+            "helm",
+            "Prediction",
+            "createQuery",
+            " ba\u00c5\u0141\u00c4\u00b1na"
+        ],
+        "description": " instances of the term \"jew\" in various contexts"
+    },
+    {
+        "index": "3615",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_3615.json",
+        "negative_strings": [
+            "aval",
+            " Mormon",
+            " singapore",
+            " Yuan",
+            "ano",
+            " LSU",
+            " yuan",
+            " Latter",
+            " chinese",
+            " Mormons"
+        ],
+        "positive_strings": [
+            " Palestinian",
+            "Pale",
+            " Palestine",
+            " Palestinians",
+            " Palest",
+            " Palestin",
+            " pale",
+            " Gaza",
+            " Pale",
+            " \u00d9\u0123\u00d9\u0126\u00d8\u00b3"
+        ],
+        "description": " references to historical and ongoing conflicts between Jews and Palestinians"
+    },
+    {
+        "index": "73006",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_73006.json",
+        "negative_strings": [
+            "orne",
+            "enna",
+            "\u00e8\u00b2\u00b4",
+            "ANJI",
+            ".GridView",
+            "enko",
+            " yurt",
+            "upo",
+            "lete",
+            "\u00eb\u00a7\u00a5"
+        ],
+        "positive_strings": [
+            " Israel",
+            " Israeli",
+            " Israelis",
+            "Israel",
+            "Israeli",
+            " Palestine",
+            " Netanyahu",
+            " Palestinians",
+            " Tel",
+            " \u00d8\u00a7\u00d8\u00b3\u00d8\u00b1"
+        ],
+        "description": "references to the historical and contemporary experiences of Jews and Palestinians in relation to the state of Israel"
+    },
+    {
+        "index": "56051",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_56051.json",
+        "negative_strings": [
+            "\u00ce\u00b7\u00ce\u00bd",
+            "\u00e9\u013d\u0128\u00e4\u00b8\u0143",
+            "iani",
+            "primer",
+            ".ToShort",
+            " deserted",
+            " consolid",
+            " \u00e8\u00bf\u0140",
+            " Sesso",
+            "emand"
+        ],
+        "positive_strings": [
+            " co",
+            " harmon",
+            " existence",
+            " exist",
+            " exists",
+            " tolerance",
+            " harmony",
+            "peace",
+            " peaceful",
+            " Exist"
+        ],
+        "description": " concepts related to coexistence and relationships between Jews and Palestinians"
+    },
+    {
+        "index": "2446",
+        "layer": "17-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_2446.json",
+        "negative_strings": [
+            "/octet",
+            "\u00c3\u00a9is",
+            "ymoon",
+            "issant",
+            "ellas",
+            "akk",
+            "/gin",
+            "tainment",
+            "ustin",
+            "ysa"
+        ],
+        "positive_strings": [
+            "\u00e9\u0134\u0141",
+            "ures",
+            "lected",
+            "\u00e3\u0122\u0127",
+            "urities",
+            "attle",
+            "utut",
+            "roc",
+            "unders",
+            "URITY"
+        ],
+        "description": "references to secularism and the concept of secular Jews"
+    },
+    {
+        "index": "56257",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/jew/data_for_feature_56257.json",
+        "negative_strings": [
+            "P\u00c5\u013b\u00c3\u0143",
+            "erde",
+            " Wade",
+            "forth",
+            "ueva",
+            "ative",
+            " Jens",
+            "\u00d8\u00a7\u00d8\u00aa\u00d9\u0129",
+            "tings",
+            "ein"
+        ],
+        "positive_strings": [
+            "-Christian",
+            "/non",
+            "-American",
+            "ery",
+            "esses",
+            "(er",
+            "-Owned",
+            "-Americans",
+            "\u00ef\u00bb\u00bf#",
+            "erman"
+        ],
+        "description": "references to Jews and Jewish identity in the context of historical and contemporary issues"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "index": "105872",
+        "layer": "23-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/fundamentalist/data_for_feature_105872.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Parts of words often related to Christian movements or ideologies, such as \"ost\" for Pentecostal, \"ist\" for Fundamentalist, and \"ical\" for Evangelical, are frequently recognized."
+    },
+    {
+        "index": "196287",
+        "layer": "29-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/fundamentalist/data_for_feature_196287.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Proper nouns and words related to Christian denominations, theological movements, and individuals, often referring to Baptist, Calvinist, and Fundamentalist perspectives."
+    },
+    {
+        "index": "185716",
+        "layer": "23-eleuther_gp-mlp-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/fundamentalist/data_for_feature_185716.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to specific religious or ethnic groups, including Muslims, Christians, Jews, Hindus, Catholics, and Communists, often used to identify a country, organization, or ideology, and sometimes associated with extremist or fundamentalist movements."
+    },
+    {
+        "index": "214258",
+        "layer": "29-eleuther_gp-res-262k",
+        "url": "json/llama3.1-8b-eleuther_gp/fundamentalist/data_for_feature_214258.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"fundamental\" or \"fundamentalist\" is predominantly used to describe a group or individual who holds traditional or conservative views, often in a religious or ideological context, and is also used as an adjective to describe a concept or principle that is basic, elementary, or essential."
+    }
+]

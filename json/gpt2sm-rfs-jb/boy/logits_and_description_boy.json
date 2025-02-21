@@ -1,0 +1,602 @@
+[
+    {
+        "index": "44857",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_44857.json",
+        "negative_strings": [
+            "aeda",
+            "arily",
+            " podium",
+            "ickr",
+            " showc",
+            "aukee",
+            "insula",
+            "neum",
+            "encing",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122"
+        ],
+        "positive_strings": [
+            "friend",
+            "cott",
+            "nton",
+            " Scouts",
+            "hood",
+            "boys",
+            "boy",
+            " Scout",
+            "friends",
+            "cot"
+        ],
+        "description": "references to \"Boy\" and \"Girl\" in various contexts"
+    },
+    {
+        "index": "55719",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_55719.json",
+        "negative_strings": [
+            "aeda",
+            "aukee",
+            "arily",
+            "ickr",
+            "insula",
+            " podium",
+            "encing",
+            "iment",
+            "ENC",
+            "iculture"
+        ],
+        "positive_strings": [
+            "friend",
+            "cott",
+            " Scouts",
+            "nton",
+            " Scout",
+            "boys",
+            "hood",
+            "friends",
+            "boy",
+            "cot"
+        ],
+        "description": "references to \"Boy,\" indicating a focus on male subjects or themes"
+    },
+    {
+        "index": "55719",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_55719.json",
+        "negative_strings": [
+            "aeda",
+            "aukee",
+            "arily",
+            "ickr",
+            "insula",
+            " podium",
+            "encing",
+            "iment",
+            "ENC",
+            "iculture"
+        ],
+        "positive_strings": [
+            "friend",
+            "cott",
+            " Scouts",
+            "nton",
+            " Scout",
+            "boys",
+            "hood",
+            "friends",
+            "boy",
+            "cot"
+        ],
+        "description": "references to \"Boy,\" indicating a focus on male subjects or themes"
+    },
+    {
+        "index": "22155",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_22155.json",
+        "negative_strings": [
+            " Cosponsors",
+            "PsyNetMessage",
+            "govtrack",
+            " sidx",
+            "actionDate",
+            "closed",
+            "issance",
+            "etsk",
+            " viz",
+            "MAP"
+        ],
+        "positive_strings": [
+            "nered",
+            "ishly",
+            "gling",
+            " congratulations",
+            "fuck",
+            " congr",
+            "hattan",
+            "ila",
+            "hood",
+            "ly"
+        ],
+        "description": "references to \"man\" or \"boy\" in various contexts"
+    },
+    {
+        "index": "11321",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_11321.json",
+        "negative_strings": [
+            "aeda",
+            "lyak",
+            " showc",
+            "odium",
+            "office",
+            "itures",
+            "PORT",
+            " Solitaire",
+            "ENCE",
+            "adena"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            "boys",
+            " Scouts",
+            "ishly",
+            "children",
+            " boys",
+            "nton",
+            "boy",
+            " boy"
+        ],
+        "description": "boy, mostly in the context of characters or individuals"
+    },
+    {
+        "index": "617",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_617.json",
+        "negative_strings": [
+            "aeda",
+            "lyak",
+            "odium",
+            "office",
+            " showc",
+            " Solitaire",
+            "itures",
+            "PORT",
+            "Office",
+            "ENCE"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            " Scouts",
+            "boys",
+            "nton",
+            "ishly",
+            "children",
+            " boys",
+            "boy",
+            "stown"
+        ],
+        "description": " mentions of a specific child or boy character in various contexts"
+    },
+    {
+        "index": "617",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_617.json",
+        "negative_strings": [
+            "aeda",
+            "lyak",
+            "odium",
+            "office",
+            " showc",
+            " Solitaire",
+            "itures",
+            "PORT",
+            "Office",
+            "ENCE"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            " Scouts",
+            "boys",
+            "nton",
+            "ishly",
+            "children",
+            " boys",
+            "boy",
+            "stown"
+        ],
+        "description": " mentions of a specific child or boy character in various contexts"
+    },
+    {
+        "index": "19543",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_19543.json",
+        "negative_strings": [
+            "aeda",
+            "lyak",
+            " showc",
+            "odium",
+            "PORT",
+            "itures",
+            " Solitaire",
+            "office",
+            "ENCE",
+            "arily"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            " Scouts",
+            "boys",
+            " boys",
+            "nton",
+            "friends",
+            " scout",
+            "boy",
+            "ishly"
+        ],
+        "description": "references to boys in various contexts"
+    },
+    {
+        "index": "10253",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_10253.json",
+        "negative_strings": [
+            "aeda",
+            "lyak",
+            " showc",
+            "office",
+            "PORT",
+            "Aff",
+            "location",
+            "ENCE",
+            "odium",
+            "topic"
+        ],
+        "positive_strings": [
+            "hood",
+            "friend",
+            " boys",
+            "ishly",
+            " boy",
+            " Scouts",
+            "children",
+            "boys",
+            "nton",
+            "stown"
+        ],
+        "description": "mentions of boys and male children"
+    },
+    {
+        "index": "10130",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_10130.json",
+        "negative_strings": [
+            "rology",
+            " Voting",
+            "aeda",
+            "odium",
+            "Community",
+            "olitan",
+            " Associates",
+            " LIVE",
+            "ophen",
+            "REM"
+        ],
+        "positive_strings": [
+            "ishly",
+            "hood",
+            "cott",
+            "friend",
+            "bear",
+            "frog",
+            "boy",
+            "bl",
+            "boys",
+            "hours"
+        ],
+        "description": "references to boys or males in various contexts"
+    },
+    {
+        "index": "10130",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_10130.json",
+        "negative_strings": [
+            "rology",
+            " Voting",
+            "aeda",
+            "odium",
+            "Community",
+            "olitan",
+            " Associates",
+            " LIVE",
+            "ophen",
+            "REM"
+        ],
+        "positive_strings": [
+            "ishly",
+            "hood",
+            "cott",
+            "friend",
+            "bear",
+            "frog",
+            "boy",
+            "bl",
+            "boys",
+            "hours"
+        ],
+        "description": "references to boys or males in various contexts"
+    },
+    {
+        "index": "77092",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_77092.json",
+        "negative_strings": [
+            "iture",
+            "itures",
+            "iped",
+            "mediated",
+            "osi",
+            "lyak",
+            "arily",
+            "ral",
+            "acle",
+            "icity"
+        ],
+        "positive_strings": [
+            " Scouts",
+            " boys",
+            " ages",
+            "hift",
+            "boys",
+            " puberty",
+            " scouts",
+            " sexes",
+            "friend",
+            " Boys"
+        ],
+        "description": "references to boys and young males"
+    },
+    {
+        "index": "77092",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_77092.json",
+        "negative_strings": [
+            "iture",
+            "itures",
+            "iped",
+            "mediated",
+            "osi",
+            "lyak",
+            "arily",
+            "ral",
+            "acle",
+            "icity"
+        ],
+        "positive_strings": [
+            " Scouts",
+            " boys",
+            " ages",
+            "hift",
+            "boys",
+            " puberty",
+            " scouts",
+            " sexes",
+            "friend",
+            " Boys"
+        ],
+        "description": "references to boys and young males"
+    },
+    {
+        "index": "24591",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_24591.json",
+        "negative_strings": [
+            "OLOG",
+            "iture",
+            "eering",
+            "lich",
+            "Deal",
+            "ointment",
+            "uncture",
+            "mediated",
+            "emort",
+            "sole"
+        ],
+        "positive_strings": [
+            " ages",
+            " aged",
+            "mith",
+            "pace",
+            "hips",
+            "folk",
+            " Females",
+            " girls",
+            "hift",
+            "'"
+        ],
+        "description": "references to gender, specifically focusing on boys and girls"
+    },
+    {
+        "index": "5202",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_5202.json",
+        "negative_strings": [
+            "OLOG",
+            "mediated",
+            "emort",
+            "oval",
+            "iture",
+            "lich",
+            "ointment",
+            "rior",
+            "eering",
+            "asel"
+        ],
+        "positive_strings": [
+            " ages",
+            "hift",
+            " Clubs",
+            "folk",
+            " sexes",
+            "mith",
+            " boys",
+            "pace",
+            " Females",
+            " Scouts"
+        ],
+        "description": "mentions of gender-specific terms, particularly 'boys' and 'girls'"
+    },
+    {
+        "index": "76561",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_76561.json",
+        "negative_strings": [
+            "aeda",
+            "iculture",
+            "\u00d8\u00a7\u00d9\u0126",
+            "iment",
+            "\u0143\u0136",
+            "herical",
+            "ickr",
+            " secretaries",
+            " ply",
+            "ossibility"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            "cott",
+            "friends",
+            "WithNo",
+            "stown",
+            "boy",
+            "volent",
+            " Slim",
+            "hole"
+        ],
+        "description": " references to the term \"boy\" in various contexts"
+    },
+    {
+        "index": "76561",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_76561.json",
+        "negative_strings": [
+            "aeda",
+            "iculture",
+            "\u00d8\u00a7\u00d9\u0126",
+            "iment",
+            "\u0143\u0136",
+            "herical",
+            "ickr",
+            " secretaries",
+            " ply",
+            "ossibility"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            "cott",
+            "friends",
+            "WithNo",
+            "stown",
+            "boy",
+            "volent",
+            " Slim",
+            "hole"
+        ],
+        "description": " references to the term \"boy\" in various contexts"
+    },
+    {
+        "index": "76561",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_76561.json",
+        "negative_strings": [
+            "aeda",
+            "iculture",
+            "\u00d8\u00a7\u00d9\u0126",
+            "iment",
+            "\u0143\u0136",
+            "herical",
+            "ickr",
+            " secretaries",
+            " ply",
+            "ossibility"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            "cott",
+            "friends",
+            "WithNo",
+            "stown",
+            "boy",
+            "volent",
+            " Slim",
+            "hole"
+        ],
+        "description": " references to the term \"boy\" in various contexts"
+    },
+    {
+        "index": "15616",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_15616.json",
+        "negative_strings": [
+            "ickr",
+            "iculture",
+            "aeda",
+            "iment",
+            "ossibility",
+            "itutional",
+            "merga",
+            "aution",
+            "herical",
+            "olia"
+        ],
+        "positive_strings": [
+            "friend",
+            "hood",
+            "cott",
+            "WithNo",
+            "friends",
+            " Slim",
+            " Scouts",
+            "stown",
+            "boy",
+            "z"
+        ],
+        "description": "the term \"boy\" and its variations in different contexts"
+    },
+    {
+        "index": "13327",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/boy/data_for_feature_13327.json",
+        "negative_strings": [
+            "lich",
+            "OLOG",
+            "OPLE",
+            "ointment",
+            "emort",
+            "sole",
+            "aneously",
+            "llo",
+            "eering",
+            " Hulk"
+        ],
+        "positive_strings": [
+            "hift",
+            "mith",
+            " ages",
+            "hips",
+            "pace",
+            " Clubs",
+            "'",
+            "heet",
+            "folk",
+            "ocial"
+        ],
+        "description": "gender-related terms, specifically focusing on differences and issues related to boys and men in various contexts"
+    }
+]

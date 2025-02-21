@@ -1,0 +1,182 @@
+[
+    {
+        "index": "7094",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_7094.json",
+        "negative_strings": [
+            "\u2581Fog",
+            "\u2581NF",
+            "dancing",
+            "rungsseite",
+            "\u2581G\u00f6tter",
+            "\u2581Seeder",
+            "\u2581dancing",
+            "\u2581Th\u1ea7n",
+            "\u2581Mahan",
+            "\u2581lenker"
+        ],
+        "positive_strings": [
+            "\u2581Christ",
+            "Christ",
+            "\u2581Jesus",
+            "Jesus",
+            "\u2581CHRIST",
+            "\u2581Christus",
+            "\u2581Cristo",
+            "\u2581jesus",
+            "\u2581JESUS",
+            "\u2581Kristus"
+        ],
+        "description": "references to Jesus Christ and related theological concepts"
+    },
+    {
+        "index": "2107",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_2107.json",
+        "negative_strings": [
+            "horabuena",
+            "}}%",
+            "\u2581Emerald",
+            "\u2581luck",
+            "\u2581fortune",
+            "\u2581neo",
+            "gilan",
+            "\u2581Chengdu",
+            "orthand",
+            "\u2581Fog"
+        ],
+        "positive_strings": [
+            "\u2581crucifixion",
+            "\u2581Christ",
+            "\u2581crucified",
+            "\u2581Crucifix",
+            "Christ",
+            "\u2581cruc",
+            "aarrggbb",
+            "\u2581CHRIST",
+            "SBATCH",
+            "AndEndTag"
+        ],
+        "description": "references to the themes of sacrifice and redemption in the context of Christian beliefs"
+    },
+    {
+        "index": "6237",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_6237.json",
+        "negative_strings": [
+            "R\u00fcyada",
+            "\u2581\u0648\u064a\u0643\u064a\u067e\u064a\u062f\u064a\u0627",
+            "\u2581InputDecoration",
+            "\u2581kasarigan",
+            "horabuena",
+            "ThemeOverlay",
+            "\u2581Pompeo",
+            "\u2087",
+            "\u2581conversion",
+            "\u2581Ellison"
+        ],
+        "positive_strings": [
+            "\u2581Christ",
+            "Christ",
+            "\u2581Jesus",
+            "Jesus",
+            "\u2581CHRIST",
+            "\u2581Christus",
+            "\u2581crucified",
+            "\u2581crucifixion",
+            "\u2581Chrift",
+            "\u2581Chri\u017ft"
+        ],
+        "description": "references to the themes of sacrifice and unity in a religious context"
+    },
+    {
+        "index": "765",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_765.json",
+        "negative_strings": [
+            "\u2581kasarigan",
+            "horabuena",
+            "ESOME",
+            "\u2581Pompeo",
+            "\ufeff//",
+            "\u2581sauter",
+            "\u2581kasa",
+            "\u2581cholera",
+            "westen",
+            "grandes"
+        ],
+        "positive_strings": [
+            "\u2581Christ",
+            "Christ",
+            "\u2581Jesus",
+            "\u2581crucified",
+            "\u2581Messiah",
+            "\u2581Christus",
+            "\u2581crucifixion",
+            "Jesus",
+            "\u2581Chrift",
+            "\u2581Crucifix"
+        ],
+        "description": " references to themes of unity and sacrifice in a religious context"
+    },
+    {
+        "index": "2107",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_2107.json",
+        "negative_strings": [
+            "horabuena",
+            "}}%",
+            "\u2581Emerald",
+            "\u2581luck",
+            "\u2581fortune",
+            "\u2581neo",
+            "gilan",
+            "\u2581Chengdu",
+            "orthand",
+            "\u2581Fog"
+        ],
+        "positive_strings": [
+            "\u2581crucifixion",
+            "\u2581Christ",
+            "\u2581crucified",
+            "\u2581Crucifix",
+            "Christ",
+            "\u2581cruc",
+            "aarrggbb",
+            "\u2581CHRIST",
+            "SBATCH",
+            "AndEndTag"
+        ],
+        "description": "references to the themes of sacrifice and redemption in the context of Christian beliefs"
+    },
+    {
+        "index": "1544",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is jesus/data_for_feature_1544.json",
+        "negative_strings": [
+            "\u2581kasarigan",
+            "WidgetItem",
+            "\u2581CURIAM",
+            "ESOME",
+            "\ufeff//",
+            "\u2581InputDecoration",
+            "\u062c\u0645\u0639\u06cc\u062a",
+            "\u2581AspNetCore",
+            "\u2087",
+            "Panic"
+        ],
+        "positive_strings": [
+            "\u2581crucified",
+            "\u2581Christ",
+            "\u2581Messiah",
+            "Christ",
+            "\u2581Jesus",
+            "\u2581Cru",
+            "\u2581sacrificed",
+            "\u2581incarnate",
+            "\u2581Son",
+            "\u2581sacrifice"
+        ],
+        "description": " references to spiritual themes and expressions of faith"
+    }
+]

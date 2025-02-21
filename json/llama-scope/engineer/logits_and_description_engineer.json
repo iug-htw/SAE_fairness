@@ -1,0 +1,602 @@
+[
+    {
+        "index": "35702",
+        "layer": "31-llamascope-mlp-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_35702.json",
+        "negative_strings": [
+            "_HERSHEY",
+            "/UIKit",
+            "-fontawesome",
+            "KeySpec",
+            "turnstile",
+            "(\u00e6\u00b0\u00b4",
+            " fkk",
+            "loquent",
+            "\u00ec\u00a7\u0122\u00eb\u0127\u00b8",
+            " eoq"
+        ],
+        "positive_strings": [
+            " comprising",
+            " utilizing",
+            " resembling",
+            " featuring",
+            " incorporating",
+            " depicting",
+            " emphasizing",
+            " geared",
+            " spanning",
+            " employing"
+        ],
+        "description": "technical terminology related to engineering, development, and project management in various industries"
+    },
+    {
+        "index": "4495",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_4495.json",
+        "negative_strings": [
+            "\u00d9\u012c\u00d8\u00ab",
+            "ATTERY",
+            ".cloudflare",
+            "ithe",
+            "Typed",
+            " Cue",
+            " Nay",
+            "\u00d8\u00a7\u00d8\u00ab",
+            "tery",
+            "stalk"
+        ],
+        "positive_strings": [
+            "idad",
+            "ria",
+            "rian",
+            "idades",
+            "amin",
+            "\u00c3\u00a2m",
+            "arga",
+            "ategorias",
+            "erto",
+            "idade"
+        ],
+        "description": "technical or specific terminologies related to aviation or engine systems"
+    },
+    {
+        "index": "48014",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_48014.json",
+        "negative_strings": [
+            "rase",
+            "ertools",
+            "adesh",
+            "CAS",
+            " trai",
+            "fon",
+            " CALLBACK",
+            "crest",
+            "ady",
+            "kees"
+        ],
+        "positive_strings": [
+            " cylinder",
+            " cylinders",
+            " cyl",
+            " Cylinder",
+            " cy",
+            "ylinder",
+            "-c",
+            " cycl",
+            " cil",
+            "cy"
+        ],
+        "description": " references to engine specifications and configurations in cars"
+    },
+    {
+        "index": "122536",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_122536.json",
+        "negative_strings": [
+            "pras",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "Bubble",
+            "\u00e8\u00a6\u00a7",
+            "chant",
+            "urls",
+            "aversable",
+            "esan",
+            "ousel",
+            "tiles"
+        ],
+        "positive_strings": [
+            "-speed",
+            " speed",
+            "speed",
+            "-Speed",
+            " Speed",
+            " speeds",
+            "Speed",
+            "_speed",
+            "peed",
+            "\u00e9\u0122\u0141"
+        ],
+        "description": " numerical values and references to engine specifications or performance metrics"
+    },
+    {
+        "index": "109401",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_109401.json",
+        "negative_strings": [
+            " \u00c4\u012flov",
+            "ejm\u00c3\u00a9na",
+            " z\u00c3\u00a1stup",
+            "m\u00c3\u00a9n\u00c4\u013d",
+            " \u00c3\u00ba\u00c4\u012fin",
+            " \u00c4\u012fty",
+            "yonel",
+            " fortunately",
+            " neither",
+            " notably"
+        ],
+        "positive_strings": [
+            " vyz",
+            " vy",
+            " ulo\u00c5\u00be",
+            " vytvo\u00c5\u013b",
+            " um\u00c3\u0143st",
+            " vyp",
+            " vyu",
+            " vyt",
+            " p\u00c5\u013biz",
+            " p\u00c5\u013bip"
+        ],
+        "description": "technical terms and numerical references related to machinery or engineering"
+    },
+    {
+        "index": "30867",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_30867.json",
+        "negative_strings": [
+            ".MixedReality",
+            "\u013d\u00b0",
+            "na\u00c4\u012f",
+            " FileAccess",
+            "AtPath",
+            "dum",
+            "\u00e4\u00b9\u0127\u00e4\u00b9\u0127",
+            "_processors",
+            "\u00cf\u0125\u00cf\u0126\u00ce\u00ac",
+            "lpVtbl"
+        ],
+        "positive_strings": [
+            " construct",
+            " vector",
+            " vectors",
+            " pl",
+            " constructs",
+            "construct",
+            " Vector",
+            " construction",
+            " constructions",
+            " cloning"
+        ],
+        "description": "elements related to genetic engineering and molecular biology processes"
+    },
+    {
+        "index": "39685",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_39685.json",
+        "negative_strings": [
+            "er",
+            "sar",
+            "ikt",
+            "uve",
+            "lant",
+            "sing",
+            "roring",
+            "ocha",
+            "pson",
+            "rido"
+        ],
+        "positive_strings": [
+            "SMART",
+            " envelope",
+            "-envelope",
+            " Blocks",
+            "Envelope",
+            " codes",
+            " blocks",
+            " permit",
+            " envelopes",
+            "-code"
+        ],
+        "description": " terms related to construction and engineering projects"
+    },
+    {
+        "index": "23672",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/engineer/data_for_feature_23672.json",
+        "negative_strings": [
+            "oref",
+            "cord",
+            "izza",
+            "Framework",
+            " Panel",
+            "ountains",
+            "<Field",
+            "\u00e6\u0141\u0135",
+            "-panel",
+            "\u00d8\u00b0"
+        ],
+        "positive_strings": [
+            " cam",
+            " valve",
+            " timing",
+            " valves",
+            " pist",
+            " cams",
+            " crank",
+            " piston",
+            " combustion",
+            " intake"
+        ],
+        "description": " technical terms related to mechanical or engineering processes"
+    },
+    {
+        "index": "121208",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_121208.json",
+        "negative_strings": [
+            "\u00e6\u00bf\u0125",
+            "abcdefghijkl",
+            "annt",
+            "\u0135n",
+            "lom",
+            "\u00cf\u0123\u00cf\u012b",
+            " tavs",
+            "unik",
+            "\u012e\u0135",
+            "iloc"
+        ],
+        "positive_strings": [
+            "L",
+            "-l",
+            "-liter",
+            " L",
+            " liter",
+            "lit",
+            " Lit",
+            " liters",
+            "liter",
+            "\u00c2\u0142L"
+        ],
+        "description": " specifications and technical details related to vehicle performance and engine characteristics"
+    },
+    {
+        "index": "32625",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/engineer/data_for_feature_32625.json",
+        "negative_strings": [
+            " these",
+            " such",
+            " thus",
+            " roughly",
+            " somehow",
+            " which",
+            " already",
+            " also",
+            " itself",
+            " this"
+        ],
+        "positive_strings": [
+            " revis",
+            "\u00e2\u013a\u0128",
+            "[J",
+            ":a",
+            ":A",
+            " \u00e2\u013a\u0128",
+            " reconsider",
+            "-An",
+            "?:",
+            ":"
+        ],
+        "description": "details related to scientific measurements and analyses in various fields, particularly focusing on engineering and ergonomics"
+    },
+    {
+        "index": "65035",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_65035.json",
+        "negative_strings": [
+            "Mocks",
+            "ynos",
+            "omik",
+            "pe\u00c4\u012f",
+            " ngu",
+            "ewidth",
+            "olith",
+            "inium",
+            "OrElse",
+            "\u00c4\u0141\u00c4\u00b1na"
+        ],
+        "positive_strings": [
+            " pump",
+            " pumps",
+            " pumping",
+            " Pump",
+            " centrif",
+            " Cent",
+            " pumped",
+            " sewage",
+            " Grund",
+            " wastewater"
+        ],
+        "description": " technical specifications or details related to engineering or product design"
+    },
+    {
+        "index": "38233",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_38233.json",
+        "negative_strings": [
+            "ials",
+            "\u00c4\u0141inden",
+            ".*?)",
+            "ially",
+            "orses",
+            " Lar",
+            "exus",
+            "alta",
+            "MENT",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u0126"
+        ],
+        "positive_strings": [
+            "ling",
+            "engin",
+            "gle",
+            "lear",
+            "ool",
+            "search",
+            "ogle",
+            "oh",
+            "/maps",
+            "ertz"
+        ],
+        "description": "references to the Google search engine and its related functionalities"
+    },
+    {
+        "index": "60675",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_60675.json",
+        "negative_strings": [
+            "/Branch",
+            ".dsl",
+            "riot",
+            "erli",
+            " Fate",
+            " \u201d\n\n",
+            "edla",
+            " Dial",
+            " Pest",
+            "FormsModule"
+        ],
+        "positive_strings": [
+            "-powered",
+            "-f",
+            "-fired",
+            "-elect",
+            " powered",
+            " fired",
+            "-eng",
+            " eng",
+            " burning",
+            "-engine"
+        ],
+        "description": " terms related to diesel and electric engines in the context of energy sources"
+    },
+    {
+        "index": "127327",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_127327.json",
+        "negative_strings": [
+            "elic",
+            "apes",
+            ".live",
+            " mListener",
+            ".pivot",
+            "ittings",
+            "innie",
+            " pres",
+            "ait",
+            "nda"
+        ],
+        "positive_strings": [
+            "rais",
+            "_ASSUME",
+            "IED",
+            "-peer",
+            " abstract",
+            " Preston",
+            "eer",
+            " peer",
+            "borg",
+            "asti"
+        ],
+        "description": "references to academic or formal publications related to engineering or technology"
+    },
+    {
+        "index": "37529",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_37529.json",
+        "negative_strings": [
+            "_eng",
+            " Engineer",
+            " engineered",
+            " Engineers",
+            " Engine",
+            "GGLE",
+            " Engineering",
+            "Engine",
+            "engineering",
+            "Engineering"
+        ],
+        "positive_strings": [
+            "ered",
+            "\u00e5\u00b8\u012a",
+            "/sc",
+            "/arch",
+            "\u00e5\u00b8\u00ab",
+            "ering",
+            "-design",
+            "ERING",
+            "/math",
+            " feats"
+        ],
+        "description": " terms and references related to engineering and design"
+    },
+    {
+        "index": "50349",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_50349.json",
+        "negative_strings": [
+            "uous",
+            " CALLBACK",
+            "fon",
+            "\u00e3\u0124\u00b7\u00e3\u0124\u00a7",
+            " Cand",
+            "indir",
+            "CAS",
+            " Cass",
+            "pesan",
+            "osomal"
+        ],
+        "positive_strings": [
+            "-c",
+            " stroke",
+            "stroke",
+            " Stroke",
+            "Stroke",
+            " strokes",
+            ".stroke",
+            "c",
+            "\u00c2\u0142c",
+            "\u00e7\u00bc"
+        ],
+        "description": " references to engine specifications and configurations"
+    },
+    {
+        "index": "20237",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/engineer/data_for_feature_20237.json",
+        "negative_strings": [
+            " butcher",
+            "udic",
+            " pathways",
+            " \u00d1\u0122\u00d1\u0125\u00d0\u00ba\u00d0\u00b8",
+            "\u00c3\u00a8s",
+            "azi",
+            "acer",
+            "946",
+            " apr",
+            "\u00ed\u0137\u0133"
+        ],
+        "positive_strings": [
+            " QUEUE",
+            "interrupt",
+            " queue",
+            " escal",
+            " lame",
+            " tob",
+            " bride",
+            "rides",
+            " cul",
+            "queue"
+        ],
+        "description": " features related to engineering and architectural design"
+    },
+    {
+        "index": "112563",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_112563.json",
+        "negative_strings": [
+            "enci",
+            "ilinear",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00aa",
+            "ibly",
+            "ipop",
+            "inka",
+            "\u00d1\u0122\u00d0\u00b4",
+            "zers",
+            "eker",
+            "ifying"
+        ],
+        "positive_strings": [
+            "aut",
+            "autical",
+            " Nav",
+            " navigation",
+            "au",
+            " nav",
+            " navig",
+            "nav",
+            " Navigation",
+            "Nav"
+        ],
+        "description": " terms related to aviation or aeronautical engineering"
+    },
+    {
+        "index": "123882",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/engineer/data_for_feature_123882.json",
+        "negative_strings": [
+            "edio",
+            ".sky",
+            "quia",
+            "pkg",
+            "baum",
+            "\u00e8\u0123\u0136\u00e7\u00bd\u0133",
+            "\u00d9\u0126\u00d9\u0125",
+            "\u00e0\u00a4\u00be\u00e0\u00a4\u00a7",
+            ".pkg",
+            "strain"
+        ],
+        "positive_strings": [
+            " Penguin",
+            " Panda",
+            " penalties",
+            " penalty",
+            " Penalty",
+            " panda",
+            " algorithm",
+            " algo",
+            " alg",
+            "algo"
+        ],
+        "description": " references to search engine optimization (SEO) and website performance"
+    },
+    {
+        "index": "31030",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/engineer/data_for_feature_31030.json",
+        "negative_strings": [
+            "ichert",
+            "ount",
+            "\u00d1\u012a\u00d0\u00b8\u00d0\u00b1",
+            " chute",
+            " Panel",
+            " sigmoid",
+            "OUNT",
+            "oref",
+            "ountains",
+            " apar"
+        ],
+        "positive_strings": [
+            " cam",
+            " cams",
+            " pist",
+            " lif",
+            " valves",
+            " bore",
+            " valve",
+            " intake",
+            " Pist",
+            " timing"
+        ],
+        "description": " technical terms related to engine mechanics"
+    }
+]

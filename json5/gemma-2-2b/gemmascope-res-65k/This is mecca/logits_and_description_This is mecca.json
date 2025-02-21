@@ -1,0 +1,242 @@
+[
+    {
+        "index": "46443",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_46443.json",
+        "negative_strings": [
+            "\u2581useRouter",
+            "optString",
+            "\u2581ProtoMessage",
+            "JsonKey",
+            "SpringBootTest",
+            "MLLoader",
+            "CodeAttribute",
+            "extAlignment",
+            "DataPropertyName",
+            "\u2581Differential"
+        ],
+        "positive_strings": [
+            "gatron",
+            "andering",
+            "\u2581gusta",
+            "\u2581personally",
+            "owed",
+            "ows",
+            "\u2581llamo",
+            "\u2581encant\u00f3",
+            "\u2581thinks",
+            "owing"
+        ],
+        "description": "references to the speaker or personal pronouns"
+    },
+    {
+        "index": "28501",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_28501.json",
+        "negative_strings": [
+            "\u2581it\u017felf",
+            "CloseOperation",
+            "SpringBootTest",
+            "\u2581'\\\\;'",
+            "\u2581them\u017felves",
+            "\u2581dAtA",
+            "WillAppear",
+            "dafx",
+            "forChild",
+            "\u2581hou\u017fe"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "\u2581myself",
+            "andering",
+            "\u2581am",
+            "mentos",
+            "\u2581Myself",
+            "myself",
+            "\u2581pers\u00f6nlich",
+            "\u2581my",
+            "zelf"
+        ],
+        "description": "references to the first-person pronoun \"me\""
+    },
+    {
+        "index": "15514",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_15514.json",
+        "negative_strings": [
+            "\u2581themselves",
+            "themselves",
+            "\u2581itself",
+            "itself",
+            "\u2581yourselves",
+            "nya",
+            "SpringBootTest",
+            "CloseOperation",
+            "\u2581Itself",
+            "\u2581ourselves"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "andering",
+            "\u2581personalmente",
+            "eeeee",
+            "\u2581pers\u00f6nlich",
+            "eeee",
+            "eee",
+            "mentos",
+            "zelf",
+            "ddle"
+        ],
+        "description": "references to the self or personal experiences"
+    },
+    {
+        "index": "56947",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_56947.json",
+        "negative_strings": [
+            "optString",
+            "extAlignment",
+            "\u2581hauteur",
+            "Differential",
+            "DataPropertyName",
+            "vitis",
+            "\u2581useRouter",
+            "CodeAttribute",
+            "\u2581Differential",
+            "totalAmount"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "\u2581pribadi",
+            "myself",
+            "gatron",
+            "andering",
+            "\u2581Myself",
+            "\u2581personlig",
+            "gap",
+            "\u2581thinks",
+            "\u2581neither"
+        ],
+        "description": "references to personal pronouns, particularly \"me.\""
+    },
+    {
+        "index": "3814",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_3814.json",
+        "negative_strings": [
+            "\u2581it\u017felf",
+            "\u2581them\u017felves",
+            "\u2581ExecuteAsync",
+            "\u2581Efq",
+            "\u2581hou\u017fe",
+            "\u2581'\\\\;'",
+            "\u2581occaf",
+            "\u2581purpo\u017fe",
+            "CloseOperation",
+            "\u2581Monfieur"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "\u2581am",
+            "andering",
+            "\u2581pers\u00f6nlich",
+            "mentos",
+            "\u2581\u4eec",
+            "decine",
+            "zelf",
+            "\u2581dentaire",
+            "vrouw"
+        ],
+        "description": " instances of the word \"me\""
+    },
+    {
+        "index": "18549",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_18549.json",
+        "negative_strings": [
+            "CodeAttribute",
+            "FXMLLoader",
+            "\u2581useRouter",
+            "vitis",
+            "FontOfSize",
+            "\u2581\u0633\u0643\u0627\u0646\u064a\u0629",
+            "DataPropertyName",
+            "Atsauces",
+            "\u2581'\\\\;'",
+            "\u2581purpo\u017fe"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "\u2581Myself",
+            "myself",
+            "ddle",
+            "\u2581myself",
+            "mentos",
+            "Myself",
+            "\u2581Meier",
+            "andering",
+            "Me"
+        ],
+        "description": "references to the speaker or self-identification"
+    },
+    {
+        "index": "38619",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_38619.json",
+        "negative_strings": [
+            "\u2581ProtoMessage",
+            "optString",
+            "CodeAttribute",
+            "vitis",
+            "extAlignment",
+            "DataPropertyName",
+            "\u2581\")\";",
+            "\u2581esbo\u00e7o",
+            "\u00d3S",
+            "qiu"
+        ],
+        "positive_strings": [
+            "gap",
+            "myself",
+            "\u2581Tarzan",
+            "gatron",
+            "\u2581personally",
+            "\u2581duele",
+            "\u2581sentimenti",
+            "\u2581Myself",
+            "\u2581selves",
+            "\u2581neither"
+        ],
+        "description": "references to the speaker or author, particularly emphasizing self-identification"
+    },
+    {
+        "index": "2566",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_2566.json",
+        "negative_strings": [
+            "\u2581it\u017felf",
+            "SpringBootTest",
+            "CloseOperation",
+            "itself",
+            "WillAppear",
+            "forChild",
+            "\u2581itself",
+            "\u2581kte\u0159\u00ed",
+            "\u2581them\u017felves",
+            "\u2581\u03bc\u03b1\u03c2"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "andering",
+            "\u2581myself",
+            "mentos",
+            "\\{\\\\",
+            "providedIn",
+            "\u2581pers\u00f6nlich",
+            "zelf",
+            "conium",
+            "eeee"
+        ],
+        "description": " occurrences of the word \"me.\""
+    }
+]

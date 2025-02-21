@@ -1,0 +1,92 @@
+[
+    {
+        "index": "9770",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a gospel/data_for_feature_9770.json",
+        "negative_strings": [
+            "ThroughAttribute",
+            "GOTREF",
+            "\u2581gr\u00e1fica",
+            "\u2581guest",
+            "\u2581G\u00e4ste",
+            "\u2581g\u00eanero",
+            "\u2581guests",
+            "\u2581g\u00e9nero",
+            "gemeester",
+            "\u2581genetic"
+        ],
+        "positive_strings": [
+            "\u2581actionMode",
+            "powder",
+            "timate",
+            "PreferredItem",
+            "\uf87f",
+            "keepers",
+            "keeper",
+            "\ufeff//",
+            "\u2581ho\u015f",
+            "\u2581\u043f\u0440\u0435\u043f\u0440\u0430\u0442\u043a\u0438"
+        ],
+        "description": "references to specific organizations and entities, particularly in a scientific or technical context"
+    },
+    {
+        "index": "7061",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a gospel/data_for_feature_7061.json",
+        "negative_strings": [
+            "\u2581AppCompat",
+            "\u2581\ucc98\ub9ac",
+            "jectures",
+            "DebuggerStep",
+            "webElement",
+            "mulher",
+            "\u3092\u91cd\u306d",
+            "\u2581silicona",
+            "\u2581votaci\u00f3n",
+            "HasBeenSet"
+        ],
+        "positive_strings": [
+            "\u2581mission",
+            "\u2581evangel",
+            "\u2581evange",
+            "\u2581missions",
+            "mission",
+            "\u2581Mission",
+            "Mission",
+            "\u2581missionary",
+            "\u2581preaching",
+            "\u2581MISSION"
+        ],
+        "description": "references to spiritual engagement and the importance of personal agency in faith-related discussions"
+    },
+    {
+        "index": "12985",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a gospel/data_for_feature_12985.json",
+        "negative_strings": [
+            "\u2581\u0627\u0634\u06a9",
+            "\u2581flechas",
+            "itude",
+            "\u2581Austausch",
+            "\u2581\u0441\u043c\u043e\u0442\u0440\u0438",
+            "\u2581Bemerkungen",
+            "\u2581k\u00f6nig",
+            "\u2581m\u00e1scaras",
+            "\u2581tiroirs",
+            "\u2581\u00d6ffentlichkeit"
+        ],
+        "positive_strings": [
+            "\u2581preached",
+            "MessageOf",
+            "\u2581gospel",
+            "EndInit",
+            "\u2581preaching",
+            "\u2581Gospel",
+            "\u2581NSCoder",
+            "\u2581spread",
+            "\u2581preach",
+            "\u2581Spread"
+        ],
+        "description": "references to Christian beliefs and spiritual concepts"
+    }
+]

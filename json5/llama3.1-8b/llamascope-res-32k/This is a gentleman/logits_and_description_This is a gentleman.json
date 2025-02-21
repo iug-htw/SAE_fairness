@@ -1,0 +1,242 @@
+[
+    {
+        "index": "20960",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_20960.json",
+        "negative_strings": [
+            "engin",
+            "ERS",
+            "tes",
+            "emble",
+            "itles",
+            "erties",
+            "inclu",
+            "alars",
+            "erece",
+            " Sisters"
+        ],
+        "positive_strings": [
+            "iac",
+            "hunt",
+            "hattan",
+            " who",
+            "atee",
+            "-child",
+            "ne",
+            "child",
+            "hood",
+            "hole"
+        ],
+        "description": " references to male characters or figures"
+    },
+    {
+        "index": "13421",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_13421.json",
+        "negative_strings": [
+            "edor",
+            "ToDevice",
+            "ence",
+            "iston",
+            "SSION",
+            "atik",
+            "edores",
+            "buie",
+            "PIO",
+            " Fet"
+        ],
+        "positive_strings": [
+            "lemen",
+            "leness",
+            " gent",
+            "ility",
+            "amic",
+            "elman",
+            "lest",
+            "lem",
+            "ile",
+            "iles"
+        ],
+        "description": "terms relating to gentility and gentlemanly qualities"
+    },
+    {
+        "index": "29467",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_29467.json",
+        "negative_strings": [
+            "edor",
+            "CTION",
+            "\u00e8\u012d\u0139",
+            "yers",
+            "ITY",
+            "thon",
+            "\u00ed\u0125\u012a",
+            "arding",
+            "\u00cf\u0128\u00cf\u012e",
+            "endum"
+        ],
+        "positive_strings": [
+            "lemen",
+            " gent",
+            "gent",
+            " Gent",
+            "lem",
+            "lemn",
+            "ile",
+            "LEM",
+            "amic",
+            "leness"
+        ],
+        "description": "terms related to masculinity and gender roles"
+    },
+    {
+        "index": "26971",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_26971.json",
+        "negative_strings": [
+            "ToDevice",
+            "\u00ec\u0128\u012e\u00eb\u0127\u0126",
+            "edores",
+            "edor",
+            "boards",
+            " judicial",
+            "SELL",
+            "yers",
+            "/english",
+            " Nie"
+        ],
+        "positive_strings": [
+            "lemen",
+            " gent",
+            "lem",
+            "leness",
+            "LEM",
+            "gent",
+            " Gent",
+            "oo",
+            "iles",
+            "amic"
+        ],
+        "description": " instances of the word \"gent\" and its variations related to the concept of gentlemen"
+    },
+    {
+        "index": "30035",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_30035.json",
+        "negative_strings": [
+            "yers",
+            "trak",
+            "edor",
+            "rying",
+            "anza",
+            "/runtime",
+            "ITY",
+            "essian",
+            "eries",
+            "CTION"
+        ],
+        "positive_strings": [
+            "lemen",
+            " Gent",
+            " gent",
+            "lem",
+            "leness",
+            "gent",
+            "ner",
+            "LEM",
+            "ile",
+            "\u00cc\u00a3"
+        ],
+        "description": " variations of the word \"gentleman.\""
+    },
+    {
+        "index": "31886",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_31886.json",
+        "negative_strings": [
+            "sik",
+            "izador",
+            "isateur",
+            "ibold",
+            "erli",
+            "piel",
+            " gratuits",
+            "bourg",
+            "ertz",
+            "oya"
+        ],
+        "positive_strings": [
+            "ship",
+            "hood",
+            "'s",
+            "ships",
+            "\u2019s",
+            " who",
+            "SHIP",
+            "esses",
+            " \u00e0\u00a4\u00ac\u00e0\u00a4\u00a8\u00e0\u00a4\u00a8",
+            "(ship"
+        ],
+        "description": "terms related to educational and professional roles"
+    },
+    {
+        "index": "6295",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_6295.json",
+        "negative_strings": [
+            " \u00ef\u00bf\u00bd",
+            "IDL",
+            "elve",
+            " \u00c3\u0124",
+            "iley",
+            "maj",
+            "sdk",
+            "717",
+            " t",
+            "/schema"
+        ],
+        "positive_strings": [
+            "\u00e3\u0124\u00ba",
+            "'s",
+            "\u2019s",
+            "ls",
+            "sw",
+            "\u00d1\u0137",
+            "\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+            "stype",
+            "\u2019S",
+            "swire"
+        ],
+        "description": "references to gender-specific groups and contexts"
+    },
+    {
+        "index": "30236",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_30236.json",
+        "negative_strings": [
+            "elve",
+            "IDL",
+            " \u00ef\u00bf\u00bd",
+            "arty",
+            "717",
+            "ecure",
+            "712",
+            "Pair",
+            "\u00ef\u00bf\u00bd",
+            "ata"
+        ],
+        "positive_strings": [
+            "\u00e3\u0124\u00ba",
+            "\u00d1\u0137",
+            "'s",
+            "\u2019s",
+            "\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+            "ls",
+            "stype",
+            "sg",
+            "\u00cf\u0124",
+            "sw"
+        ],
+        "description": "references to gender and familial relationships"
+    }
+]

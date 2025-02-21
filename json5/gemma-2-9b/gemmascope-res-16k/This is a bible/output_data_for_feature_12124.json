@@ -1,0 +1,30 @@
+{
+    "index": "12124",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_12124.json",
+    "negative_strings": [
+        "setVerticalGroup",
+        "+#+",
+        "EndGlobalSection",
+        "enterOuterAlt",
+        "\u2581\u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430",
+        "\u2581McLaugh",
+        "\u017byciorys",
+        "RTGC",
+        "RTEE",
+        "\u2581initComponents"
+    ],
+    "positive_strings": [
+        "\u2581scripture",
+        "\u2581scriptures",
+        "\u2581Scriptures",
+        "\u2581Scripture",
+        "\u2581Bible",
+        "\u2581bible",
+        "\u2581script",
+        "\u2581Script",
+        "\u2581biblical",
+        "Bible"
+    ],
+    "description": "references to religious doctrines and their authoritative sources"
+}

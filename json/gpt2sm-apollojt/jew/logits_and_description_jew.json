@@ -1,0 +1,182 @@
+[
+    {
+        "index": "32160",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_32160.json",
+        "negative_strings": [
+            " \u00e8\u00a3\u0131",
+            " Thai",
+            " conflic",
+            "mberg",
+            " volunt",
+            "channelAvailability",
+            " Georgian",
+            " NDP",
+            " LAT",
+            "GAME"
+        ],
+        "positive_strings": [
+            "ellery",
+            " Jew",
+            "eled",
+            "els",
+            "bow",
+            "ard",
+            "hart",
+            "Jew",
+            "ry",
+            "eller"
+        ],
+        "description": "mentions of the term \"Jew\" in various contexts"
+    },
+    {
+        "index": "44552",
+        "layer": "2-res_slefr-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_44552.json",
+        "negative_strings": [
+            " Mongol",
+            " sanitation",
+            "IUM",
+            "Population",
+            " Romanian",
+            " Thai",
+            " Um",
+            " Roma",
+            " authorization",
+            " Mongolia"
+        ],
+        "positive_strings": [
+            "ellery",
+            "cart",
+            "istry",
+            "etta",
+            " actionGroup",
+            "itz",
+            "assador",
+            "iques",
+            "arl",
+            "assadors"
+        ],
+        "description": " instances of the word \"Jew\" in various contexts"
+    },
+    {
+        "index": "2509",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_2509.json",
+        "negative_strings": [
+            "rase",
+            "sis",
+            "\u00c3\u00b6n",
+            "angelo",
+            "lisher",
+            "opsis",
+            "wrapper",
+            " infiltration",
+            "loo",
+            " counselor"
+        ],
+        "positive_strings": [
+            "geist",
+            "ality",
+            " Beasts",
+            "atown",
+            "alities",
+            "\u00e9\u0143\u0136",
+            "IFIED",
+            "ified",
+            "alez",
+            "Made"
+        ],
+        "description": "mentions of the word 'Jew' along with sentiments or attributes associated with it, such as injustice, penchant, sentiments, Semitism, humanity, man, or Son"
+    },
+    {
+        "index": "40840",
+        "layer": "10-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_40840.json",
+        "negative_strings": [
+            "aleigh",
+            "inventoryQuantity",
+            "raft",
+            "ynamic",
+            " VIDEOS",
+            "alogue",
+            "rontal",
+            "ysis",
+            "iotic",
+            "quickShipAvailable"
+        ],
+        "positive_strings": [
+            " persecuted",
+            " persecution",
+            " Muslims",
+            " minorities",
+            " Presbyter",
+            " pag",
+            " assimil",
+            "Russ",
+            " Communists",
+            " invaders"
+        ],
+        "description": "references to the persecution and suffering of religious minorities, particularly Jews and Christians"
+    },
+    {
+        "index": "23673",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_23673.json",
+        "negative_strings": [
+            "izen",
+            "iously",
+            "INFO",
+            "verning",
+            " existence",
+            "itial",
+            "ucha",
+            "\u00e0",
+            "EngineDebug",
+            "ruary"
+        ],
+        "positive_strings": [
+            " Doll",
+            " Jewel",
+            "arov",
+            "alam",
+            "abase",
+            " Hunters",
+            " Quinn",
+            "arr",
+            "illard",
+            "gerald"
+        ],
+        "description": " references to Jewish identity or the term \"Jew\""
+    },
+    {
+        "index": "23673",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/jew/data_for_feature_23673.json",
+        "negative_strings": [
+            "izen",
+            "iously",
+            "INFO",
+            "verning",
+            " existence",
+            "itial",
+            "ucha",
+            "\u00e0",
+            "EngineDebug",
+            "ruary"
+        ],
+        "positive_strings": [
+            " Doll",
+            " Jewel",
+            "arov",
+            "alam",
+            "abase",
+            " Hunters",
+            " Quinn",
+            "arr",
+            "illard",
+            "gerald"
+        ],
+        "description": " references to Jewish identity or the term \"Jew\""
+    }
+]

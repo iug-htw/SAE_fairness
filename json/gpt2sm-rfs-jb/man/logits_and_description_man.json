@@ -1,0 +1,602 @@
+[
+    {
+        "index": "2724",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_2724.json",
+        "negative_strings": [
+            " interstate",
+            " embargo",
+            " interval",
+            " infl",
+            " redress",
+            " choke",
+            " Gallup",
+            " arrivals",
+            "assetsadobe",
+            " muted"
+        ],
+        "positive_strings": [
+            "Woman",
+            "Man",
+            "vill",
+            "Mania",
+            "Robin",
+            "Cola",
+            "Girl",
+            "Ver",
+            "Sense",
+            "Talk"
+        ],
+        "description": " occurrences of the character Spider-Man and his related narratives"
+    },
+    {
+        "index": "45965",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_45965.json",
+        "negative_strings": [
+            "ARC",
+            "ATES",
+            "LESS",
+            " phones",
+            "ulators",
+            " surrog",
+            " GOODMAN",
+            "ALLY",
+            " oper",
+            " OCD"
+        ],
+        "positive_strings": [
+            "ught",
+            "fters",
+            "fter",
+            "ven",
+            "ugh",
+            "plin",
+            "enei",
+            "kes",
+            "pe",
+            "eger"
+        ],
+        "description": "references to fictional characters or names within a narrative context"
+    },
+    {
+        "index": "18143",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_18143.json",
+        "negative_strings": [
+            "brance",
+            "usable",
+            "essage",
+            "uction",
+            "umenthal",
+            "ufact",
+            "it\u00c3\u00a9",
+            "mable",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "anyl"
+        ],
+        "positive_strings": [
+            "lings",
+            "Oak",
+            " Spider",
+            "hawk",
+            "Bob",
+            "Spider",
+            " Bros",
+            "Byte",
+            "Leaks",
+            "monkey"
+        ],
+        "description": "references to the Spider-Man character and related themes"
+    },
+    {
+        "index": "18143",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_18143.json",
+        "negative_strings": [
+            "brance",
+            "usable",
+            "essage",
+            "uction",
+            "umenthal",
+            "ufact",
+            "it\u00c3\u00a9",
+            "mable",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "anyl"
+        ],
+        "positive_strings": [
+            "lings",
+            "Oak",
+            " Spider",
+            "hawk",
+            "Bob",
+            "Spider",
+            " Bros",
+            "Byte",
+            "Leaks",
+            "monkey"
+        ],
+        "description": "references to the Spider-Man character and related themes"
+    },
+    {
+        "index": "12107",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_12107.json",
+        "negative_strings": [
+            "enance",
+            "itia",
+            "igators",
+            "arre",
+            "ired",
+            "uated",
+            "idal",
+            "merce",
+            "ulhu",
+            "\u0138\u013c"
+        ],
+        "positive_strings": [
+            "clad",
+            "Python",
+            " Maiden",
+            " Fist",
+            " Age",
+            "works",
+            "heart",
+            "forge",
+            "wood",
+            "claw"
+        ],
+        "description": "references to \"Iron Man\""
+    },
+    {
+        "index": "46950",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_46950.json",
+        "negative_strings": [
+            "vernment",
+            "OPLE",
+            "LECT",
+            "glers",
+            " crawl",
+            "\u00e3\u0122",
+            " cele",
+            " dism",
+            "BLIC",
+            " Survivors"
+        ],
+        "positive_strings": [
+            "laughter",
+            "pread",
+            "chwitz",
+            "ouri",
+            "ions",
+            "field",
+            "olini",
+            "hap",
+            "aur",
+            "sein"
+        ],
+        "description": "references to the word \"Mans\" and its variations"
+    },
+    {
+        "index": "9844",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_9844.json",
+        "negative_strings": [
+            "RIPT",
+            "\u00e8\u0125",
+            "PsyNetMessage",
+            "\u00e5\u012b",
+            "\u00e4\u00bd\u00bf",
+            "=\"#",
+            "ENC",
+            "\u00e2\u0128\u0133",
+            "\u00e8\u00aa",
+            "\u00e8\u00a6"
+        ],
+        "positive_strings": [
+            "uscript",
+            "hattan",
+            "fred",
+            "oeuv",
+            "ifest",
+            "agers",
+            "agements",
+            "hunt",
+            "osphere",
+            "iac"
+        ],
+        "description": "mentions of the superhero character \"Man\""
+    },
+    {
+        "index": "19404",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_19404.json",
+        "negative_strings": [
+            "REDACTED",
+            "lasses",
+            "hig",
+            "Reviewer",
+            "cyl",
+            "hips",
+            "hou",
+            "detail",
+            "cam",
+            "CONCLUS"
+        ],
+        "positive_strings": [
+            " Manning",
+            " Peyton",
+            " Reed",
+            " Rogers",
+            " Carter",
+            "atoes",
+            " Hill",
+            " Sterling",
+            " Broncos",
+            " Miller"
+        ],
+        "description": "references to the quarterback Peyton Manning"
+    },
+    {
+        "index": "36871",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_36871.json",
+        "negative_strings": [
+            "\u00e8\u0125",
+            "RIPT",
+            "\u00e5\u012b",
+            "=\"#",
+            "\u00e4\u00bd\u00bf",
+            "PsyNetMessage",
+            "\u00e8\u00aa",
+            "\u00e9\u0139\u013a",
+            "ENC",
+            "\u00e6\u0138\u00b9"
+        ],
+        "positive_strings": [
+            "uscript",
+            "fred",
+            "hattan",
+            "hunt",
+            "agers",
+            "oeuv",
+            "ifest",
+            "iac",
+            "agements",
+            "osphere"
+        ],
+        "description": "references to the word \"Man\" in various contexts"
+    },
+    {
+        "index": "1114",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_1114.json",
+        "negative_strings": [
+            "atche",
+            "arre",
+            " TAM",
+            "\u0138\u013c",
+            "enance",
+            "itia",
+            " Garr",
+            "ilk",
+            "arro",
+            "CRE"
+        ],
+        "positive_strings": [
+            "clad",
+            "chest",
+            " ore",
+            "works",
+            " oxide",
+            " Maiden",
+            "Python",
+            "heart",
+            "ments",
+            "forge"
+        ],
+        "description": "references to the Marvel character \"Iron Man\""
+    },
+    {
+        "index": "60595",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_60595.json",
+        "negative_strings": [
+            " Transcript",
+            " OP",
+            " creditors",
+            " beads",
+            " Prol",
+            " Dickinson",
+            "yx",
+            " Ces",
+            " Downs",
+            " Boll"
+        ],
+        "positive_strings": [
+            "centered",
+            "centric",
+            "made",
+            "shaped",
+            "hours",
+            "oeuv",
+            "readable",
+            "controlled",
+            "eating",
+            "dimensional"
+        ],
+        "description": " patterns of \"man-in-the-middle\" vulnerabilities in security contexts"
+    },
+    {
+        "index": "12107",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_12107.json",
+        "negative_strings": [
+            "enance",
+            "itia",
+            "igators",
+            "arre",
+            "ired",
+            "uated",
+            "idal",
+            "merce",
+            "ulhu",
+            "\u0138\u013c"
+        ],
+        "positive_strings": [
+            "clad",
+            "Python",
+            " Maiden",
+            " Fist",
+            " Age",
+            "works",
+            "heart",
+            "forge",
+            "wood",
+            "claw"
+        ],
+        "description": "references to \"Iron Man\""
+    },
+    {
+        "index": "84067",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_84067.json",
+        "negative_strings": [
+            "\u00e8\u0125",
+            "=\"#",
+            "RIPT",
+            "\u00e5\u012b",
+            "\u00e4\u00bd\u00bf",
+            "ENC",
+            "\u00e8\u00aa",
+            "PsyNetMessage",
+            "\u00e9\u0139\u013a",
+            "\u00e7\u013e"
+        ],
+        "positive_strings": [
+            "uscript",
+            "fred",
+            "hattan",
+            "agers",
+            "oeuv",
+            "hunt",
+            "ifest",
+            "iac",
+            "agements",
+            "afort"
+        ],
+        "description": "the presence of the word \"Man\" in various contexts"
+    },
+    {
+        "index": "32975",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_32975.json",
+        "negative_strings": [
+            "swer",
+            "istically",
+            "theless",
+            "\u00d6\u00bc",
+            "rier",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122",
+            " reconcil",
+            "istic",
+            "*/(",
+            "etheless"
+        ],
+        "positive_strings": [
+            "Upload",
+            "eco",
+            "Games",
+            " Millions",
+            "Bio",
+            "Plex",
+            "Mix",
+            "Tok",
+            "plex",
+            "Box"
+        ],
+        "description": "references to the \"Mega Man\" franchise and related characters"
+    },
+    {
+        "index": "26391",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_26391.json",
+        "negative_strings": [
+            "externalActionCode",
+            "ILE",
+            "hered",
+            "urally",
+            " appropri",
+            " biom",
+            "amazon",
+            "HCR",
+            "population",
+            " UNESCO"
+        ],
+        "positive_strings": [
+            " Brothers",
+            " Bros",
+            " Sachs",
+            " Holdings",
+            " Horowitz",
+            " Corporation",
+            " bankruptcy",
+            " Investments",
+            " Investors",
+            " Companies"
+        ],
+        "description": "specific references to the term \"Lehman Brothers\" and various forms of the word \"man\" in the context of financial discussions"
+    },
+    {
+        "index": "61487",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_61487.json",
+        "negative_strings": [
+            "hips",
+            "chrom",
+            "undai",
+            "orks",
+            " Beir",
+            "ayne",
+            "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+            "ideon",
+            "relation",
+            " Adin"
+        ],
+        "positive_strings": [
+            " Manning",
+            "ufact",
+            " Papers",
+            "ifest",
+            "camp",
+            " cough",
+            "ham",
+            "pad",
+            "enburg",
+            " Snowden"
+        ],
+        "description": " mentions of individuals named Manning"
+    },
+    {
+        "index": "61487",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_61487.json",
+        "negative_strings": [
+            "hips",
+            "chrom",
+            "undai",
+            "orks",
+            " Beir",
+            "ayne",
+            "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+            "ideon",
+            "relation",
+            " Adin"
+        ],
+        "positive_strings": [
+            " Manning",
+            "ufact",
+            " Papers",
+            "ifest",
+            "camp",
+            " cough",
+            "ham",
+            "pad",
+            "enburg",
+            " Snowden"
+        ],
+        "description": " mentions of individuals named Manning"
+    },
+    {
+        "index": "44627",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_44627.json",
+        "negative_strings": [
+            "hips",
+            "chrom",
+            "ORK",
+            "ork",
+            " Debor",
+            "orks",
+            "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+            " Beir",
+            "ection",
+            "glomer"
+        ],
+        "positive_strings": [
+            " Manning",
+            "ufact",
+            "ifest",
+            " Papers",
+            "ham",
+            "stead",
+            "enburg",
+            " Passing",
+            " cough",
+            " Broncos"
+        ],
+        "description": "mentions of the name \"Manning.\""
+    },
+    {
+        "index": "22155",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_22155.json",
+        "negative_strings": [
+            " Cosponsors",
+            "PsyNetMessage",
+            "govtrack",
+            " sidx",
+            "actionDate",
+            "closed",
+            "issance",
+            "etsk",
+            " viz",
+            "MAP"
+        ],
+        "positive_strings": [
+            "nered",
+            "ishly",
+            "gling",
+            " congratulations",
+            "fuck",
+            " congr",
+            "hattan",
+            "ila",
+            "hood",
+            "ly"
+        ],
+        "description": "references to \"man\" or \"boy\" in various contexts"
+    },
+    {
+        "index": "18302",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/man/data_for_feature_18302.json",
+        "negative_strings": [
+            "hips",
+            "chrom",
+            " Debor",
+            "nces",
+            "ORK",
+            "ork",
+            "tml",
+            "ection",
+            "soType",
+            " Beir"
+        ],
+        "positive_strings": [
+            " Manning",
+            "ufact",
+            " Passing",
+            "ham",
+            " Broncos",
+            "IUM",
+            "ifest",
+            "stead",
+            " Papers",
+            "lete"
+        ],
+        "description": "references to a specific person's name, \"Manning\""
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "8863",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is cocaine/data_for_feature_8863.json",
+    "negative_strings": [
+        "\u00e0\u00b8\u00b4\u00e0\u00b8\u013d",
+        "\u00d0\u00bd\u00d0\u00b8\u00d1\u0124\u00d0\u00b8",
+        "ounder",
+        "onders",
+        "SystemService",
+        "redo",
+        "teri",
+        "ominator",
+        "_DUMP",
+        "ForObject"
+    ],
+    "positive_strings": [
+        " use",
+        " abuse",
+        " misuse",
+        " dependence",
+        "-use",
+        " dependency",
+        " Use",
+        " consumption",
+        "use",
+        " usage"
+    ],
+    "description": "terms related to substance use and abuse, particularly focusing on alcohol and marijuana"
+}

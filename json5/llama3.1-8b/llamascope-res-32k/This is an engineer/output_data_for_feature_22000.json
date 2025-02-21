@@ -1,0 +1,30 @@
+{
+    "index": "22000",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_22000.json",
+    "negative_strings": [
+        " Engineer",
+        " engine",
+        " engineer",
+        " Engine",
+        " engineered",
+        "_engine",
+        "Engine",
+        " engines",
+        " engineering",
+        " Engineers"
+    ],
+    "positive_strings": [
+        "ered",
+        "ERING",
+        "ering",
+        "\u00e5\u00b8\u00ab",
+        "\u00e5\u00b8\u012a",
+        "/sc",
+        "eer",
+        "ers",
+        "/arch",
+        "iro"
+    ],
+    "description": "terms and phrases related to engineering and technical disciplines"
+}

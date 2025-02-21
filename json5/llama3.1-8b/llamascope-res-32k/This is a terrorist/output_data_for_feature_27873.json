@@ -1,0 +1,30 @@
+{
+    "index": "27873",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_27873.json",
+    "negative_strings": [
+        "\u00d9\u012a\u00d9\u012c\u00d9\u0126",
+        "no\u00c5\u013d\u00c4\u0129",
+        "EMU",
+        "\u00eb\u012d\u00b5",
+        " Terminal",
+        "anel",
+        "lac",
+        "_corners",
+        " discriminatory",
+        "bao"
+    ],
+    "positive_strings": [
+        " plot",
+        " attempt",
+        " charge",
+        " case",
+        " Plot",
+        " ring",
+        " plots",
+        " charges",
+        " suspect",
+        "-su"
+    ],
+    "description": " references to various forms of violent crime, especially murder"
+}

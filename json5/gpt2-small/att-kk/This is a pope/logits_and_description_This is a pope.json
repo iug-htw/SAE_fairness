@@ -1,0 +1,482 @@
+[
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "1316",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_1316.json",
+        "negative_strings": [
+            "itialized",
+            "Bir",
+            "WIND",
+            "Ax",
+            "MON",
+            "Keys",
+            "yss",
+            "Ger",
+            " vans",
+            "Graphics"
+        ],
+        "positive_strings": [
+            "imaru",
+            "ebin",
+            "ppa",
+            "stress",
+            " abundantly",
+            "digy",
+            "enium",
+            "\ufffd",
+            " foss",
+            " Quan"
+        ],
+        "description": "articles or text passages that are relevant or noteworthy"
+    },
+    {
+        "index": "10316",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_10316.json",
+        "negative_strings": [
+            " trusts",
+            " assemblies",
+            " Contracts",
+            "ULTS",
+            " strikers",
+            " formations",
+            "events",
+            " Cups",
+            "stocks",
+            " interfaces"
+        ],
+        "positive_strings": [
+            "ocobo",
+            "emonic",
+            "ebin",
+            "assian",
+            "DragonMagazine",
+            "ccording",
+            "abyte",
+            "urion",
+            "majority",
+            "ivist"
+        ],
+        "description": "phrases related to critique and questioning"
+    },
+    {
+        "index": "14871",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_14871.json",
+        "negative_strings": [
+            "ngth",
+            "conservancy",
+            "urers",
+            "profits",
+            "bats",
+            "cles",
+            " faculties",
+            "wings",
+            "severe",
+            "owered"
+        ],
+        "positive_strings": [
+            "SourceFile",
+            " shenan",
+            "ECA",
+            " explan",
+            " understatement",
+            " millenn",
+            " toile",
+            " unpop",
+            " horm",
+            "\u30bb"
+        ],
+        "description": "important adjectives or descriptors that characterize significant concepts or entities"
+    },
+    {
+        "index": "17922",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_17922.json",
+        "negative_strings": [
+            " lik",
+            "Reviewer",
+            "olving",
+            "tests",
+            "umbn",
+            " compared",
+            " fare",
+            " measures",
+            " convinc",
+            "astical"
+        ],
+        "positive_strings": [
+            "\u30a8\u30eb",
+            "thora",
+            "\ufffd\ufffd\ufffd",
+            "++;",
+            "Buyable",
+            "\u30c3",
+            " Allaah",
+            "AppData",
+            " ILCS",
+            "veyard"
+        ],
+        "description": "negative sentiments or phrases indicating disappointment"
+    },
+    {
+        "index": "20826",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_20826.json",
+        "negative_strings": [
+            "Reviewed",
+            "repeat",
+            "masters",
+            "Repeat",
+            "opausal",
+            "eering",
+            "ulator",
+            "eters",
+            "roll",
+            "queue"
+        ],
+        "positive_strings": [
+            " pedestrian",
+            " deserts",
+            " Bil",
+            " abandoned",
+            " charred",
+            " landsl",
+            " debts",
+            " Seas",
+            " suicides",
+            "eatures"
+        ],
+        "description": "the word 'just' with a focus on variations and instances of the term"
+    },
+    {
+        "index": "4310",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_4310.json",
+        "negative_strings": [
+            "catentry",
+            "ILLE",
+            "OHN",
+            "BILITIES",
+            " Legislation",
+            "\u30d3",
+            " contrace",
+            " POLIT",
+            "Generic",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "merce",
+            "kered",
+            "tale",
+            "vre",
+            "iverse",
+            "iasis",
+            "hess",
+            "arsh",
+            "orth",
+            "tten"
+        ],
+        "description": "names related to specific universities or individuals, particularly focusing on the names with the word \"oster\" in them"
+    },
+    {
+        "index": "2931",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_2931.json",
+        "negative_strings": [
+            "Benz",
+            "arsity",
+            "ildo",
+            "town",
+            "emed",
+            "peg",
+            "acqu",
+            "Bull",
+            "Ec",
+            "armed"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            " snipp",
+            " \ufffd",
+            "prises",
+            "DragonMagazine",
+            " Submit",
+            "oresc",
+            " WATCHED",
+            " Logo",
+            " Emails"
+        ],
+        "description": "email subscription-related terms and commands"
+    },
+    {
+        "index": "5981",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_5981.json",
+        "negative_strings": [
+            "anting",
+            "antes",
+            " diluted",
+            " squash",
+            "ilty",
+            "hammad",
+            " dissolve",
+            "PROV",
+            "undy",
+            " recycle"
+        ],
+        "positive_strings": [
+            "FAQ",
+            "IRC",
+            "estern",
+            "Mand",
+            "panic",
+            "laus",
+            "ebus",
+            "yss",
+            "ymm",
+            "DragonMagazine"
+        ],
+        "description": "information related to time frames or dates"
+    },
+    {
+        "index": "33389",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_33389.json",
+        "negative_strings": [
+            "Tes",
+            "azard",
+            " glim",
+            "SourceFile",
+            "POR",
+            " Osc",
+            "pload",
+            "ajor",
+            "unk",
+            " Atari"
+        ],
+        "positive_strings": [
+            " inaug",
+            " Jinping",
+            " interpreting",
+            " conferred",
+            " Dalai",
+            " ambassadors",
+            " confirming",
+            " Vladimir",
+            " interpre",
+            " exh"
+        ],
+        "description": "mentions of Pope Francis and discussions related to his public engagements and statements"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "3947",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_3947.json",
+        "negative_strings": [
+            "laus",
+            "Interstitial",
+            "________________________________",
+            " Democr",
+            "yrinth",
+            "bleacher",
+            " Rockefeller",
+            "76561",
+            "ITNESS",
+            "tumblr"
+        ],
+        "positive_strings": [
+            "essed",
+            "ervative",
+            "angel",
+            "zilla",
+            "unia",
+            "otle",
+            "acket",
+            " wat",
+            "andise",
+            "icer"
+        ],
+        "description": "the word \"Pope\" or related terms"
+    },
+    {
+        "index": "23842",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_23842.json",
+        "negative_strings": [
+            " ACTIONS",
+            " horn",
+            " corridors",
+            " busiest",
+            "CHR",
+            " Doyle",
+            " attrition",
+            " Gerr",
+            " signalling",
+            " repr"
+        ],
+        "positive_strings": [
+            "anche",
+            "rait",
+            "icum",
+            "uer",
+            "rav",
+            "arching",
+            "lez",
+            "ormons",
+            "acent",
+            "enza"
+        ],
+        "description": "mentions of a specific location, likely related to legislation or community concerns"
+    },
+    {
+        "index": "17680",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_17680.json",
+        "negative_strings": [
+            " CLSID",
+            " redistributed",
+            " referen",
+            " requisite",
+            "\u30fc\u30c6\u30a3",
+            "idated",
+            "\u30fc\u30c6",
+            "66666666",
+            "emed",
+            "\u30ae"
+        ],
+        "positive_strings": [
+            "terness",
+            "esson",
+            "hyde",
+            "gur",
+            "puff",
+            "ktop",
+            "wolves",
+            "byss",
+            "tics",
+            "utics"
+        ],
+        "description": "proper nouns and locations, potentially related to events or announcements"
+    },
+    {
+        "index": "8429",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_8429.json",
+        "negative_strings": [
+            "cknow",
+            " Talks",
+            " roofs",
+            "\\<",
+            " vans",
+            "ouf",
+            "undreds",
+            "DERR",
+            "draft",
+            "umps"
+        ],
+        "positive_strings": [
+            " abundantly",
+            "!--",
+            "ebin",
+            "illet",
+            " Posted",
+            " XD",
+            " \ufffd",
+            "mone",
+            "erala",
+            " Lifetime"
+        ],
+        "description": "details and discussions related to specific events, cases, or topics"
+    },
+    {
+        "index": "2098",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is a pope/data_for_feature_2098.json",
+        "negative_strings": [
+            " Cly",
+            "Pok\u00e9mon",
+            "htaking",
+            " omission",
+            "QL",
+            "udging",
+            "maid",
+            " Nerd",
+            " excellence",
+            "minecraft"
+        ],
+        "positive_strings": [
+            "\u58eb",
+            " seams",
+            "obyl",
+            " externalToEVAOnly",
+            "pter",
+            "ubes",
+            " snail",
+            "ifice",
+            " Devices",
+            "Saharan"
+        ],
+        "description": "phrases related to potential threats or negative situations"
+    }
+]

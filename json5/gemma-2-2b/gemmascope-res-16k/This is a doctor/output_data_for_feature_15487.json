@@ -1,0 +1,30 @@
+{
+    "index": "15487",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_15487.json",
+    "negative_strings": [
+        "WaitGroup",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "WindowConstants",
+        "\u2581Signalez",
+        "tagHelperRunner",
+        "\u2581organisers",
+        "\ue315",
+        "\u2581projektu",
+        "ProductID",
+        "\u2581UITableViewCell"
+    ],
+    "positive_strings": [
+        "\u2581practice",
+        "\u2581office",
+        "\u2581offices",
+        "practice",
+        "Practice",
+        "\u2581Practice",
+        "office",
+        "\u2581PRACTICE",
+        "\u2581patients",
+        "\u2581praktijk"
+    ],
+    "description": "references to patient recruitment and treatment methods"
+}

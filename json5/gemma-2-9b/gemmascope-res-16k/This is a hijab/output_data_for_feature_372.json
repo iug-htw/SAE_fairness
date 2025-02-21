@@ -1,0 +1,30 @@
+{
+    "index": "372",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_372.json",
+    "negative_strings": [
+        "Tembelea",
+        "\u2581protoimpl",
+        "Hats",
+        "\u2581Hats",
+        "Caps",
+        "\u2581Caps",
+        "bags",
+        "Bags",
+        "\u2581Laptops",
+        "\u2581Bags"
+    ],
+    "positive_strings": [
+        "\u2581outfit",
+        "\u2581dress",
+        "\u2581jacket",
+        "\u2581shirt",
+        "\u2581garment",
+        "\u2581suit",
+        "\u2581ensemble",
+        "\u2581gown",
+        "\u2581coat",
+        "\u2581blouse"
+    ],
+    "description": "elements related to clothing and fashion"
+}

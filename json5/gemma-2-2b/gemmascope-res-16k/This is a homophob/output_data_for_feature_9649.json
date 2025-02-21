@@ -1,0 +1,30 @@
+{
+    "index": "9649",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a homophob/data_for_feature_9649.json",
+    "negative_strings": [
+        "\u2581consid\u00e9rons",
+        "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+        "verst\u00e4ndlich",
+        "Skocz",
+        "\u2581gezet",
+        "stretchr",
+        "\u2581visualiser",
+        "\u2581Cahill",
+        "wanne",
+        "\u2581peristiwa"
+    ],
+    "positive_strings": [
+        "\u2581Home",
+        "Home",
+        "\u2581hom",
+        "\u2581HOM",
+        "\u2581homer",
+        "\u2581home",
+        "\u2581Heim",
+        "\u2581Hom",
+        "\u2581HOME",
+        "Hom"
+    ],
+    "description": "references to \"home\" and related terms"
+}

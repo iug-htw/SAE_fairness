@@ -1,0 +1,602 @@
+[
+    {
+        "index": "32709",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_32709.json",
+        "negative_strings": [
+            "serving",
+            "BACK",
+            "gone",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
+            "vernment",
+            "\u00e3\u0125\u0138",
+            "nir",
+            "\u012a\u0134",
+            " chained",
+            "usercontent"
+        ],
+        "positive_strings": [
+            " College",
+            " Libraries",
+            " Hospital",
+            "College",
+            " Consortium",
+            " Faculty",
+            " Extension",
+            " Hosp",
+            " of",
+            " Athletic"
+        ],
+        "description": " references to universities and their associated professors"
+    },
+    {
+        "index": "9584",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_9584.json",
+        "negative_strings": [
+            "soDeliveryDate",
+            "ById",
+            "aways",
+            "Untitled",
+            "fetched",
+            "localhost",
+            "Feature",
+            "ickr",
+            "ught",
+            "ttle"
+        ],
+        "positive_strings": [
+            " sociology",
+            " psychiatry",
+            " classics",
+            " psychology",
+            " anthropology",
+            " humanities",
+            " crim",
+            " Anthropology",
+            " economics",
+            " geography"
+        ],
+        "description": "references to academic professionals, particularly professors and their areas of expertise"
+    },
+    {
+        "index": "41922",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_41922.json",
+        "negative_strings": [
+            "OPA",
+            "Veter",
+            "leased",
+            "igslist",
+            " compr",
+            "LET",
+            " routed",
+            "GROUP",
+            "college",
+            " comprom"
+        ],
+        "positive_strings": [
+            "essors",
+            " Nigel",
+            " Stephen",
+            " Alan",
+            " Peter",
+            " Hawking",
+            " Ian",
+            " Fiona",
+            " Andy",
+            " Phillip"
+        ],
+        "description": "references to academic titles and affiliations, particularly relating to professors and researchers"
+    },
+    {
+        "index": "3820",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_3820.json",
+        "negative_strings": [
+            " destro",
+            " routed",
+            "Veter",
+            " wed",
+            " skelet",
+            " ranger",
+            " compr",
+            "leased",
+            "OPA",
+            "igslist"
+        ],
+        "positive_strings": [
+            "essors",
+            " Hawking",
+            " Stephen",
+            "iles",
+            " Dawkins",
+            " Nigel",
+            "iciency",
+            "sson",
+            " Chomsky",
+            "imil"
+        ],
+        "description": "references to professors and academic researchers"
+    },
+    {
+        "index": "21235",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_21235.json",
+        "negative_strings": [
+            "OPA",
+            "nec",
+            "LET",
+            " avalanche",
+            "sole",
+            " queen",
+            " chorus",
+            " cruc",
+            " destro",
+            "college"
+        ],
+        "positive_strings": [
+            "essors",
+            "\u0128\u0134",
+            " Stephen",
+            " Ian",
+            " Laure",
+            " Meh",
+            "agher",
+            " Carlo",
+            " Jorge",
+            " Joseph"
+        ],
+        "description": "references to academic titles and the mention of professors"
+    },
+    {
+        "index": "39891",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_39891.json",
+        "negative_strings": [
+            "soDeliveryDate",
+            "boats",
+            "Tokens",
+            "zers",
+            " flashbacks",
+            " parade",
+            " flared",
+            "ittees",
+            "enaries",
+            " checkpoints"
+        ],
+        "positive_strings": [
+            " humanities",
+            " sociology",
+            " Psychology",
+            " Mathematics",
+            " Compar",
+            "engineering",
+            " Economics",
+            "ingu",
+            " psychology",
+            " Physics"
+        ],
+        "description": " academic titles and affiliations of professors"
+    },
+    {
+        "index": "850",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_850.json",
+        "negative_strings": [
+            "axy",
+            "ban",
+            "ads",
+            "adies",
+            "ankind",
+            "ntax",
+            "oter",
+            " enduring",
+            " territ",
+            " abort"
+        ],
+        "positive_strings": [
+            "essors",
+            "essor",
+            " professor",
+            "Professor",
+            " Professor",
+            "hesis",
+            "itatively",
+            "icist",
+            " emer",
+            "ially"
+        ],
+        "description": "mentions of academic titles like \"professor.\""
+    },
+    {
+        "index": "22368",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_22368.json",
+        "negative_strings": [
+            " Hatch",
+            " Panama",
+            " Conquest",
+            " Camel",
+            "lar",
+            " Sparrow",
+            " Switzerland",
+            "kok",
+            "LOAD",
+            " launchers"
+        ],
+        "positive_strings": [
+            " faculty",
+            "ulty",
+            "llor",
+            "essor",
+            " faculties",
+            " senate",
+            "umn",
+            " Faculty",
+            "inary",
+            "iple"
+        ],
+        "description": "mentions of academic faculty positions or individuals in academic roles"
+    },
+    {
+        "index": "26243",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_26243.json",
+        "negative_strings": [
+            "opter",
+            " destro",
+            " territ",
+            " cruc",
+            "GBT",
+            " Pradesh",
+            "aukee",
+            "ntax",
+            "ankind",
+            "etheus"
+        ],
+        "positive_strings": [
+            "essors",
+            " emer",
+            "\u0128\u0134",
+            "essor",
+            " Emer",
+            "ials",
+            "iate",
+            " Laure",
+            " Ming",
+            " Hawking"
+        ],
+        "description": "references to academic titles, particularly professors"
+    },
+    {
+        "index": "38706",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_38706.json",
+        "negative_strings": [
+            "axy",
+            "ankind",
+            "oter",
+            "uilt",
+            "uberty",
+            "pid",
+            " territ",
+            "ban",
+            "mental",
+            " sled"
+        ],
+        "positive_strings": [
+            "essors",
+            "essor",
+            "Professor",
+            " Professor",
+            " professor",
+            "hesis",
+            "ially",
+            "ials",
+            "icist",
+            " Puzz"
+        ],
+        "description": "titles or mentions of professors in academia"
+    },
+    {
+        "index": "38706",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_38706.json",
+        "negative_strings": [
+            "axy",
+            "ankind",
+            "oter",
+            "uilt",
+            "uberty",
+            "pid",
+            " territ",
+            "ban",
+            "mental",
+            " sled"
+        ],
+        "positive_strings": [
+            "essors",
+            "essor",
+            "Professor",
+            " Professor",
+            " professor",
+            "hesis",
+            "ially",
+            "ials",
+            "icist",
+            " Puzz"
+        ],
+        "description": "titles or mentions of professors in academia"
+    },
+    {
+        "index": "40689",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_40689.json",
+        "negative_strings": [
+            "GBT",
+            "PDATE",
+            " Pradesh",
+            "jriwal",
+            "MENTS",
+            " td",
+            "tera",
+            "TOR",
+            "BOOK",
+            "AH"
+        ],
+        "positive_strings": [
+            " emer",
+            " Emer",
+            " specializing",
+            "essors",
+            "angelo",
+            " Xavier",
+            "work",
+            " Lay",
+            "rooms",
+            "rics"
+        ],
+        "description": " mentions of academic titles and roles, particularly those associated with professors"
+    },
+    {
+        "index": "15565",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_15565.json",
+        "negative_strings": [
+            "MENTS",
+            "PATH",
+            "\u00e3\u0125\u0140",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " Islanders",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            "ANCE",
+            " cort",
+            " Loll",
+            "\u00e3\u0124\u00a1"
+        ],
+        "positive_strings": [
+            "essors",
+            "iciency",
+            "icient",
+            " Prof",
+            "ository",
+            "ound",
+            "uming",
+            "ellect",
+            "imilar",
+            "inction"
+        ],
+        "description": "proper nouns, specifically names of professionals or individuals"
+    },
+    {
+        "index": "28811",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_28811.json",
+        "negative_strings": [
+            " obsc",
+            " assistants",
+            "DOS",
+            "town",
+            " scratch",
+            "hart",
+            "TOP",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a1",
+            " summons",
+            "Rush"
+        ],
+        "positive_strings": [
+            "ourse",
+            "zyk",
+            "ertain",
+            "ulty",
+            "ategory",
+            "oir",
+            "uve",
+            "ean",
+            "oder",
+            "ourage"
+        ],
+        "description": "phrases related to academic affiliations and research work, particularly mentioning positions and roles like director, professor, and research projects"
+    },
+    {
+        "index": "10734",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_10734.json",
+        "negative_strings": [
+            " sails",
+            "wolves",
+            "wolf",
+            " cruc",
+            " noodles",
+            " lact",
+            " overflow",
+            " aval",
+            " Typhoon",
+            " pasture"
+        ],
+        "positive_strings": [
+            "essors",
+            "essor",
+            "ession",
+            "iciency",
+            "iles",
+            "essed",
+            "ound",
+            "icient",
+            "inction",
+            "inctions"
+        ],
+        "description": "proper nouns, specifically names of individuals and institutions"
+    },
+    {
+        "index": "39827",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_39827.json",
+        "negative_strings": [
+            " destro",
+            " annexed",
+            "OPA",
+            "elled",
+            " queen",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "nec",
+            " compr",
+            "Veter",
+            " quart"
+        ],
+        "positive_strings": [
+            " Puzz",
+            " Professor",
+            " Laure",
+            " Chomsky",
+            " Clause",
+            "essors",
+            " Birch",
+            " Maw",
+            " Dawkins",
+            " McG"
+        ],
+        "description": "names of academic titles such as \"Professor\" in various contexts"
+    },
+    {
+        "index": "39827",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_39827.json",
+        "negative_strings": [
+            " destro",
+            " annexed",
+            "OPA",
+            "elled",
+            " queen",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "nec",
+            " compr",
+            "Veter",
+            " quart"
+        ],
+        "positive_strings": [
+            " Puzz",
+            " Professor",
+            " Laure",
+            " Chomsky",
+            " Clause",
+            "essors",
+            " Birch",
+            " Maw",
+            " Dawkins",
+            " McG"
+        ],
+        "description": "names of academic titles such as \"Professor\" in various contexts"
+    },
+    {
+        "index": "26164",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_26164.json",
+        "negative_strings": [
+            "enty",
+            "raltar",
+            "\u00d6\u00bc",
+            "stakes",
+            "ppelin",
+            "atility",
+            "apo",
+            "abouts",
+            "cale",
+            "enegger"
+        ],
+        "positive_strings": [
+            "ociate",
+            " associate",
+            " dean",
+            " Associate",
+            "lly",
+            "uate",
+            " Commun",
+            " Cath",
+            "iate",
+            "ially"
+        ],
+        "description": "terms related to academic positions and activities, particularly those indicating different levels of hierarchy like \"Associate Professor\" and \"Dean.\""
+    },
+    {
+        "index": "37515",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_37515.json",
+        "negative_strings": [
+            "href",
+            " Bundy",
+            "Mex",
+            "anus",
+            "\u00d6\u00bc",
+            "apo",
+            "ichick",
+            " Sanford",
+            " torches",
+            "\u00e3\u0124\u00b1"
+        ],
+        "positive_strings": [
+            " Medal",
+            "lier",
+            "ollah",
+            " Affairs",
+            "Activity",
+            "liest",
+            "ffen",
+            "gio",
+            "lihood",
+            " medal"
+        ],
+        "description": "academic and educational terms or occupations such as doctorate, professor, learning, etc"
+    },
+    {
+        "index": "14637",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/professor/data_for_feature_14637.json",
+        "negative_strings": [
+            " totem",
+            " neigh",
+            " encamp",
+            "ters",
+            "apest",
+            " Wad",
+            "bles",
+            "atile",
+            "wal",
+            " marquee"
+        ],
+        "positive_strings": [
+            " Mellon",
+            "arton",
+            "giving",
+            "tta",
+            "\u00e3\u0123\u0128",
+            "TPS",
+            "ortium",
+            "}}}",
+            " [+",
+            "Reviewer"
+        ],
+        "description": "terms related to academic institutions and professors"
+    }
+]

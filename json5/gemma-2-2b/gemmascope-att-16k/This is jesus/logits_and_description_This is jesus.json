@@ -1,0 +1,62 @@
+[
+    {
+        "index": "9493",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is jesus/data_for_feature_9493.json",
+        "negative_strings": [
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "\u2581ostavi",
+            "intios",
+            "\u2581autorytatywna",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581disambiguazione",
+            "RUnlock",
+            "\u2581AttributeSet",
+            "ControllerAdvice",
+            "\u2581converge"
+        ],
+        "positive_strings": [
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627\u06cc",
+            "\u2581trying",
+            "\u2581talking",
+            "\u2581going",
+            "\u2581--;",
+            "\u2581meant",
+            "onuclear",
+            "\u2581worth",
+            "ient",
+            "\u2581fun"
+        ],
+        "description": " attends to the emphatic token \"that's\" from various subsequent tokens such as \"it,\" \"law,\" and \"code.\""
+    },
+    {
+        "index": "343",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is jesus/data_for_feature_343.json",
+        "negative_strings": [
+            "WebElementEntity",
+            "\u2581ModelExpression",
+            "\u2581QName",
+            "\u2581nakalista",
+            "nodoc",
+            "Aktualisiert",
+            "divia",
+            "\u2581Rel",
+            "\u2581campan",
+            "\u2581cons"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "saraba",
+            "DataSetChanged",
+            "SPJ",
+            "EndContext",
+            "\u2581\u0391\u03c5",
+            "\u2581C\u00e6sar",
+            "\u2581comportement",
+            "\u2581(;;)",
+            "\u2581replying"
+        ],
+        "description": " attends to the token \"is\" from various tokens including punctuation or articles that serve as a connector within the context"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "9795",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a grandpa/data_for_feature_9795.json",
+    "negative_strings": [
+        "RenderAtEndOf",
+        "\u2581BorderSide",
+        "enuine",
+        "HasIndex",
+        "antaranya",
+        "\u2581CreateTagHelper",
+        "\u2581kayna\u011f\u0131ndan",
+        "\u2581minat",
+        "harapkan",
+        "marked"
+    ],
+    "positive_strings": [
+        "\u2581father",
+        "\u2581mother",
+        "father",
+        "\u2581parent",
+        "Mother",
+        "\u2581parents",
+        "mother",
+        "\u2581fathers",
+        "\u2581Mother",
+        "\u2581grandparents"
+    ],
+    "description": "references to parental or father figures"
+}

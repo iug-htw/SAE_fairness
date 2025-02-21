@@ -1,0 +1,30 @@
+{
+    "index": "120156",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a girl/data_for_feature_120156.json",
+    "negative_strings": [
+        "\uc5d4",
+        "Removal",
+        "\u2581sa\u011flar",
+        "\ufeff<?",
+        "\u2581belonged",
+        "Visited",
+        "Detection",
+        "Visitation",
+        "Via",
+        "denn"
+    ],
+    "positive_strings": [
+        "\u2581doing",
+        "\u2581trying",
+        "\u2581attempting",
+        "\u2581taking",
+        "\u2581playing",
+        "\u2581getting",
+        "\u2581making",
+        "\u2581performing",
+        "\u2581looking",
+        "\u2581pushing"
+    ],
+    "description": " references to specific individuals or groups, particularly concerning relationships, family, or societal roles"
+}

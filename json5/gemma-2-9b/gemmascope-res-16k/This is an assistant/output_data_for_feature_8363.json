@@ -1,0 +1,30 @@
+{
+    "index": "8363",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an assistant/data_for_feature_8363.json",
+    "negative_strings": [
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "\u2581nahilalakip",
+        "rungsseite",
+        "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+        "\u2581disambiguazione",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "\u2581Exacts",
+        "\u2581Inf\u00f3rmanos",
+        "NameInMap",
+        "RTLR"
+    ],
+    "positive_strings": [
+        "\u2581professor",
+        "\u2581director",
+        "\u2581editor",
+        "\u2581prosecutor",
+        "editor",
+        "\u2581attorney",
+        "posedge",
+        "__':\r",
+        "professor",
+        "\u2581solicitor"
+    ],
+    "description": "titles and roles associated with assistant or associate positions in various professional contexts"
+}

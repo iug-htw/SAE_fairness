@@ -1,0 +1,30 @@
+{
+    "index": "7732",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a mosque/data_for_feature_7732.json",
+    "negative_strings": [
+        "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+        "\u2581Winthrop",
+        "\u2581Etrus",
+        "\u2581Laus",
+        "TagHelper",
+        "\u2581seng",
+        "ValueStyle",
+        "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+        "\u5668",
+        "ghalaya"
+    ],
+    "positive_strings": [
+        "\u2581Islamic",
+        "\u2581Muslims",
+        "\u2581Muslim",
+        "\u2581Islam",
+        "Islamic",
+        "Muslim",
+        "Muslims",
+        "\u2581mosque",
+        "Islam",
+        "\u2581mosques"
+    ],
+    "description": "terms related to Islamic cultural and political reactions"
+}

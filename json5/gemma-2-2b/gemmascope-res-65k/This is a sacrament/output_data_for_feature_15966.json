@@ -1,0 +1,30 @@
+{
+    "index": "15966",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a sacrament/data_for_feature_15966.json",
+    "negative_strings": [
+        "RenderAtEndOf",
+        "\u2581COPD",
+        "RegressionTest",
+        "\u2581Swagger",
+        "\u2581Ordner",
+        "Zunanje",
+        "\u2581Cog",
+        "\u043a\u043b\u043e\u043f\u0435",
+        "\u2581Exacts",
+        "ERRA"
+    ],
+    "positive_strings": [
+        "\u2581bread",
+        "\u2581Bread",
+        "\u2581meal",
+        "\u2581Supper",
+        "Bread",
+        "\u2581Meal",
+        "\u2581BREAD",
+        "\u2581supper",
+        "bread",
+        "\u2581p\u00e3o"
+    ],
+    "description": " terminology related to religious sacraments and their significance"
+}

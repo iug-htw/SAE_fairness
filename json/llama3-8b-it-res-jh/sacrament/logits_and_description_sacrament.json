@@ -1,0 +1,32 @@
+[
+    {
+        "index": "51896",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/sacrament/data_for_feature_51896.json",
+        "negative_strings": [
+            "erule",
+            "\u00e7\u0135",
+            "loff",
+            "\u00c3\u00a9g",
+            "\u00c3\u00a4ll",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0122",
+            "\u00d0\u00b2\u00d0\u00be\u00d1\u0130",
+            " Pett",
+            "edin",
+            " \u00ec\u0140\u00a1"
+        ],
+        "positive_strings": [
+            " confession",
+            " Comm",
+            " Conf",
+            "Comm",
+            " abs",
+            " Mass",
+            " conf",
+            " Stations",
+            " confess",
+            " Sac"
+        ],
+        "description": "references to religious rituals or sacraments in personal narratives"
+    }
+]

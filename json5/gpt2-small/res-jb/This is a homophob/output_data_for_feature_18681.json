@@ -1,0 +1,30 @@
+{
+    "index": "18681",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a homophob/data_for_feature_18681.json",
+    "negative_strings": [
+        " Medline",
+        "REE",
+        "FUL",
+        "Doctors",
+        "AMS",
+        "ESSION",
+        "\u00e3\u0123\u012f",
+        " Glory",
+        "FORE",
+        "\u00e6\u0138\u00b9"
+    ],
+    "positive_strings": [
+        "estead",
+        "onym",
+        "ogeneity",
+        "ogeneous",
+        "ogenous",
+        "icidal",
+        "onymous",
+        "ogly",
+        "icide",
+        "eworld"
+    ],
+    "description": "homogeneous and similar word forms"
+}

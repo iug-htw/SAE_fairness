@@ -1,0 +1,30 @@
+{
+    "index": "32208",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Jude/data_for_feature_32208.json",
+    "negative_strings": [
+        "\\{\\\\",
+        "\u2581",
+        "\u2581path",
+        "\u2581new",
+        "setDo",
+        "</",
+        "\u2581set",
+        "\u2581order",
+        "\u2581legacy",
+        "_"
+    ],
+    "positive_strings": [
+        "\u2581Germans",
+        "\u2581Yorkers",
+        "therners",
+        "Americans",
+        "\u2581Australians",
+        "\u2581Canadians",
+        "\u2581Frenchman",
+        "\u2581Mexicans",
+        "\u2581Koreans",
+        "\u2581Russians"
+    ],
+    "description": "references to specific nationalities or ethnic groups"
+}

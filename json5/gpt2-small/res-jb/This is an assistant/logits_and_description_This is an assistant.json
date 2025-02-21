@@ -1,0 +1,392 @@
+[
+    {
+        "index": "11245",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_11245.json",
+        "negative_strings": [
+            "abiding",
+            "ibal",
+            "naires",
+            "ERO",
+            "naire",
+            "\u00d6\u00bc",
+            "imaru",
+            "Brother",
+            "\u00ce\u00b5",
+            "Winged"
+        ],
+        "positive_strings": [
+            " professor",
+            " dean",
+            " secretary",
+            " professors",
+            " principal",
+            " curator",
+            " Professor",
+            " commissioner",
+            " superintendent",
+            " director"
+        ],
+        "description": "assistant positions or roles in various fields"
+    },
+    {
+        "index": "24196",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_24196.json",
+        "negative_strings": [
+            "agra",
+            "stakes",
+            "igated",
+            "igation",
+            "bow",
+            "aughs",
+            "ongo",
+            "ebook",
+            "abouts",
+            "fam"
+        ],
+        "positive_strings": [
+            " assistant",
+            " assistants",
+            " LIN",
+            " professor",
+            " WRITE",
+            " Assistant",
+            " coordinator",
+            " Siri",
+            " secretary",
+            " programmer"
+        ],
+        "description": "positions or roles as an assistant"
+    },
+    {
+        "index": "11234",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_11234.json",
+        "negative_strings": [
+            "Winged",
+            "ebook",
+            "stakes",
+            "fam",
+            "aughs",
+            "76561",
+            " Copenhagen",
+            "igation",
+            "1000",
+            "ongo"
+        ],
+        "positive_strings": [
+            " assistant",
+            " assistants",
+            " narrator",
+            " waiter",
+            " professor",
+            " Assistant",
+            " roomm",
+            "lies",
+            "hesis",
+            " WRITE"
+        ],
+        "description": "references to assistant roles"
+    },
+    {
+        "index": "23719",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_23719.json",
+        "negative_strings": [
+            "ilk",
+            "idi",
+            "half",
+            "ylon",
+            "conservancy",
+            "aghetti",
+            "hw",
+            "pter",
+            "zona",
+            "close"
+        ],
+        "positive_strings": [
+            " venture",
+            " ventures",
+            " chiefs",
+            " effort",
+            " statement",
+            "venture",
+            " fundraising",
+            " declaration",
+            " Venture",
+            " endeavor"
+        ],
+        "description": "phrases related to joint operations between authorities"
+    },
+    {
+        "index": "54",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_54.json",
+        "negative_strings": [
+            "older",
+            "reditary",
+            "oho",
+            "sever",
+            "iak",
+            "boa",
+            "iard",
+            "sky",
+            " Bees",
+            "urat"
+        ],
+        "positive_strings": [
+            " lifestyles",
+            " viewpoints",
+            " universes",
+            " fuels",
+            " livelihood",
+            " medicine",
+            " explanations",
+            " routes",
+            " propulsion",
+            " universe"
+        ],
+        "description": "references to alternatives or choices"
+    },
+    {
+        "index": "12690",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_12690.json",
+        "negative_strings": [
+            "things",
+            "sites",
+            " irrespective",
+            "ifles",
+            " else",
+            "-----------",
+            " besides",
+            " surely",
+            "\\\":",
+            "objects"
+        ],
+        "positive_strings": [
+            " edition",
+            " version",
+            " incarnation",
+            " rendition",
+            " replica",
+            " iteration",
+            " remake",
+            " variant",
+            " Version",
+            " copy"
+        ],
+        "description": "terms related to time duration or extension"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "14766",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_14766.json",
+        "negative_strings": [
+            "alore",
+            "itans",
+            "adle",
+            "kefeller",
+            "etooth",
+            "eus",
+            "ById",
+            "avorite",
+            "unts",
+            "arov"
+        ],
+        "positive_strings": [
+            " blog",
+            " post",
+            " article",
+            " installment",
+            " posts",
+            " tutorial",
+            " column",
+            " essay",
+            " Posts",
+            " blogs"
+        ],
+        "description": "technical terms related to software development and technology"
+    },
+    {
+        "index": "602",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_602.json",
+        "negative_strings": [
+            " alike",
+            " Kappa",
+            " stars",
+            "atever",
+            " GPUs",
+            " looms",
+            " Shining",
+            " cakes",
+            " suits",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            " Published",
+            " sponsored",
+            "english",
+            "published",
+            "avascript",
+            " affiliate",
+            " POLITICO",
+            " satire",
+            "ython",
+            "recated"
+        ],
+        "description": "texts related to article publication and reproduction"
+    },
+    {
+        "index": "12380",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_12380.json",
+        "negative_strings": [
+            "ooks",
+            "estyles",
+            "redients",
+            "ravings",
+            "issues",
+            "ernels",
+            "units",
+            "efficients",
+            "sites",
+            "lees"
+        ],
+        "positive_strings": [
+            " calculator",
+            " amplifier",
+            " scanner",
+            " mixer",
+            " encyclopedia",
+            " condom",
+            " blaster",
+            " recorder",
+            " flashlight",
+            " projector"
+        ],
+        "description": "terminology related to technical features of products or systems"
+    },
+    {
+        "index": "4212",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_4212.json",
+        "negative_strings": [
+            " Shoes",
+            " Incarn",
+            " Sons",
+            " Seasons",
+            " Restaur",
+            " Units",
+            " stadiums",
+            " Races",
+            " foundations",
+            " Machines"
+        ],
+        "positive_strings": [
+            "vertisement",
+            " memo",
+            " bulletin",
+            " note",
+            " summary",
+            " memorandum",
+            " sheet",
+            "sheet",
+            "post",
+            " pamphlet"
+        ],
+        "description": "news-related keywords and phrases"
+    },
+    {
+        "index": "9732",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_9732.json",
+        "negative_strings": [
+            "\u0117",
+            "\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124",
+            " RandomRedditor",
+            "\u011e",
+            "\u0103",
+            "\u00f7",
+            "\u010d",
+            "\u0107",
+            "\u0104",
+            "\u0101"
+        ],
+        "positive_strings": [
+            " subreddits",
+            " flavours",
+            " encyclopedia",
+            " journals",
+            " datasets",
+            " perspectives",
+            " theorem",
+            " inventions",
+            " patents",
+            " telescopes"
+        ],
+        "description": "topics related to law, policy, governance, and societal issues"
+    },
+    {
+        "index": "3387",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is an assistant/data_for_feature_3387.json",
+        "negative_strings": [
+            "aceae",
+            "buster",
+            "\u00d6\u00bc",
+            "atron",
+            "alion",
+            "onse",
+            "forced",
+            " undercut",
+            "orus",
+            "hess"
+        ],
+        "positive_strings": [
+            " Contribut",
+            " Featured",
+            " columnist",
+            " freelance",
+            " contributor",
+            " Editor",
+            " Journalism",
+            " Column",
+            " Opinion",
+            " Slate"
+        ],
+        "description": "personal or professional titles and positions (e.g., staff writer, commentator, reporter)"
+    }
+]

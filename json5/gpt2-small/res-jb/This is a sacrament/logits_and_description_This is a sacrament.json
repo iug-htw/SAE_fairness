@@ -1,0 +1,482 @@
+[
+    {
+        "index": "20235",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_20235.json",
+        "negative_strings": [
+            "eq",
+            "enegger",
+            "utenant",
+            "edy",
+            " Eisen",
+            " Entertainment",
+            "berman",
+            "enberg",
+            "nil",
+            " Cyborg"
+        ],
+        "positive_strings": [
+            " baptism",
+            " bapt",
+            " baptized",
+            " Bapt",
+            "ificial",
+            "istry",
+            "asca",
+            " fide",
+            " rites",
+            "alog"
+        ],
+        "description": " references to religious ceremonies, particularly baptisms"
+    },
+    {
+        "index": "12056",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_12056.json",
+        "negative_strings": [
+            "mind",
+            "feet",
+            "foot",
+            "LED",
+            "kens",
+            "pace",
+            "NetMessage",
+            "trop",
+            "friend",
+            " bang"
+        ],
+        "positive_strings": [
+            "ary",
+            "aries",
+            "ARY",
+            "arily",
+            "naire",
+            "arian",
+            "aires",
+            "als",
+            "ally",
+            "ation"
+        ],
+        "description": "technical terms related to safety and precautions"
+    },
+    {
+        "index": "10248",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_10248.json",
+        "negative_strings": [
+            " HW",
+            " NP",
+            " Bom",
+            " Wonderland",
+            " Asgard",
+            " Retro",
+            "Grab",
+            " trail",
+            "XT",
+            "OX"
+        ],
+        "positive_strings": [
+            "bishop",
+            "ric",
+            " ordained",
+            "iscopal",
+            "esses",
+            "ess",
+            " bishop",
+            " priest",
+            " consec",
+            "esan"
+        ],
+        "description": "mentions of religious figures, priests, and related religious contexts"
+    },
+    {
+        "index": "18693",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_18693.json",
+        "negative_strings": [
+            "velt",
+            "finder",
+            "BILL",
+            "osponsors",
+            "runner",
+            "DOS",
+            ":/",
+            " GamerGate",
+            " Tycoon",
+            "trace"
+        ],
+        "positive_strings": [
+            " Mass",
+            " feast",
+            " prayers",
+            " Sacrifice",
+            " communion",
+            " sacrifice",
+            " prayer",
+            " Lent",
+            " Commun",
+            " sacrifices"
+        ],
+        "description": "references to religious practices and locations"
+    },
+    {
+        "index": "22976",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_22976.json",
+        "negative_strings": [
+            "TER",
+            " Berk",
+            " Rebell",
+            "bie",
+            " Brave",
+            "cu",
+            "fully",
+            " cu",
+            " Ney",
+            " Columb"
+        ],
+        "positive_strings": [
+            "al",
+            "als",
+            "alist",
+            "ality",
+            "ally",
+            "AL",
+            "aler",
+            "aling",
+            "aled",
+            "alities"
+        ],
+        "description": "technical terms related to the anatomy of the human body"
+    },
+    {
+        "index": "21498",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_21498.json",
+        "negative_strings": [
+            "bern",
+            "transfer",
+            "draft",
+            " Clone",
+            "ortium",
+            "DragonMagazine",
+            "HK",
+            "Reviewer",
+            "hester",
+            ")=("
+        ],
+        "positive_strings": [
+            " vigil",
+            " prayers",
+            " aloud",
+            " prayer",
+            " praying",
+            " Almighty",
+            " Prayer",
+            " silently",
+            " prayed",
+            " beads"
+        ],
+        "description": "phrases related to prayers and religious activities"
+    },
+    {
+        "index": "15161",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_15161.json",
+        "negative_strings": [
+            "BuyableInstoreAndOnline",
+            "audi",
+            "maxwell",
+            "bern",
+            "Wiki",
+            "ohm",
+            "azines",
+            "oxin",
+            " defic",
+            "aspers"
+        ],
+        "positive_strings": [
+            " honoring",
+            " commemor",
+            " ceremony",
+            " rites",
+            " ceremonies",
+            " presided",
+            " rituals",
+            " rite",
+            " procession",
+            " ritual"
+        ],
+        "description": "events or ceremonies"
+    },
+    {
+        "index": "14776",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_14776.json",
+        "negative_strings": [
+            "\u00e3\u0125\u012b",
+            "DERR",
+            " Cheong",
+            " Hungry",
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            " Imran",
+            " Clarkson",
+            " Turk",
+            " Angry",
+            " Wanted"
+        ],
+        "positive_strings": [
+            "ificial",
+            " sac",
+            "char",
+            "rament",
+            "sac",
+            "anus",
+            "itol",
+            "ree",
+            "iety",
+            "alog"
+        ],
+        "description": "words related to fermentation and brewing, particularly involving the term \"saccharomyces\""
+    },
+    {
+        "index": "15509",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_15509.json",
+        "negative_strings": [
+            "nikov",
+            "TeX",
+            "borough",
+            "printed",
+            "ockets",
+            "clipse",
+            "gren",
+            "llah",
+            "inventoryQuantity",
+            "taboola"
+        ],
+        "positive_strings": [
+            " traditionally",
+            " synonymous",
+            " commonly",
+            " practiced",
+            " disproportionately",
+            " intrinsically",
+            " inherently",
+            " shorthand",
+            " compet",
+            " physi"
+        ],
+        "description": "sports and related terms"
+    },
+    {
+        "index": "602",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_602.json",
+        "negative_strings": [
+            " alike",
+            " Kappa",
+            " stars",
+            "atever",
+            " GPUs",
+            " looms",
+            " Shining",
+            " cakes",
+            " suits",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            " Published",
+            " sponsored",
+            "english",
+            "published",
+            "avascript",
+            " affiliate",
+            " POLITICO",
+            " satire",
+            "ython",
+            "recated"
+        ],
+        "description": "texts related to article publication and reproduction"
+    },
+    {
+        "index": "15481",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_15481.json",
+        "negative_strings": [
+            "ienced",
+            "eters",
+            "ity",
+            "o\u00c4\u0141",
+            "PET",
+            "arling",
+            "packs",
+            "ONSORED",
+            "herty",
+            "resent"
+        ],
+        "positive_strings": [
+            " rite",
+            " Rite",
+            " rites",
+            "sembly",
+            "terday",
+            "20439",
+            "itial",
+            " baptism",
+            " Trident",
+            " Edge"
+        ],
+        "description": "words related to religious ceremonies or rituals"
+    },
+    {
+        "index": "8646",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_8646.json",
+        "negative_strings": [
+            " Kazakh",
+            "zai",
+            "\u00d5",
+            " Murdoch",
+            "bourg",
+            " Ogre",
+            " Clash",
+            " Catalonia",
+            " Royale",
+            " Pengu"
+        ],
+        "positive_strings": [
+            " remission",
+            " flesh",
+            " baptism",
+            " righteousness",
+            " baptized",
+            " salvation",
+            " everlasting",
+            " circumcision",
+            " apostles",
+            " perfected"
+        ],
+        "description": "religious or spiritual content emphasizing increasing in knowledge, wisdom, and power"
+    },
+    {
+        "index": "5575",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_5575.json",
+        "negative_strings": [
+            "lihood",
+            "pers",
+            "through",
+            "document",
+            " hostages",
+            " Clerk",
+            "tub",
+            "scl",
+            " Icelandic",
+            "friend"
+        ],
+        "positive_strings": [
+            "ized",
+            "ically",
+            "icity",
+            "als",
+            "ics",
+            "ization",
+            "ial",
+            "ised",
+            "ic",
+            "izes"
+        ],
+        "description": "technical terms related to graphic design and brand identity"
+    },
+    {
+        "index": "18386",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_18386.json",
+        "negative_strings": [
+            "enegger",
+            " MAD",
+            " Nightmare",
+            " Hedge",
+            " Bayer",
+            " Yanuk",
+            " Beh",
+            "ilater",
+            " Pon",
+            " Freddy"
+        ],
+        "positive_strings": [
+            " missionary",
+            " priesthood",
+            "ithing",
+            " missionaries",
+            " Mormonism",
+            " Mormon",
+            " Brigham",
+            " bapt",
+            " bishop",
+            " LDS"
+        ],
+        "description": "references to missionaries and priesthood"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "3470",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a sacrament/data_for_feature_3470.json",
+        "negative_strings": [
+            "Images",
+            "features",
+            "stories",
+            "\u00e9\u00be\u012f",
+            "apses",
+            "laws",
+            "aunts",
+            "ths",
+            "itudes",
+            "umbs"
+        ],
+        "positive_strings": [
+            " affair",
+            " thing",
+            " unto",
+            " issue",
+            " ploy",
+            " impossibility",
+            " breaker",
+            " violation",
+            "breaker",
+            "fest"
+        ],
+        "description": "sports-related words and terms"
+    }
+]

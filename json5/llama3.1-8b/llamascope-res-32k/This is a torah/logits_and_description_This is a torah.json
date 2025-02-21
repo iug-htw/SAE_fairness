@@ -1,0 +1,362 @@
+[
+    {
+        "index": "12048",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_12048.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab",
+            "thalm",
+            "tru",
+            "strukce",
+            "atern",
+            "enus",
+            "\u00e4\u00bf\u0124",
+            "arsers",
+            "[string",
+            "timezone"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "pedo",
+            "mentor",
+            "ched",
+            "onto",
+            "oidal",
+            "ped",
+            "rid",
+            "qu"
+        ],
+        "description": " instances of the word \"Tor\" and its variations, indicating a focus on that specific term or name"
+    },
+    {
+        "index": "30003",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_30003.json",
+        "negative_strings": [
+            "k\u00c3\u00bc",
+            "InputElement",
+            "spath",
+            "m\u00c3\u00ae",
+            "enus",
+            "strukce",
+            "izi",
+            "OrFail",
+            "irs",
+            "thalm"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "mentor",
+            "qu",
+            "reon",
+            "ched",
+            "oidal",
+            "ped",
+            "pedo"
+        ],
+        "description": "mentions of the name \"Tor\" and related variations"
+    },
+    {
+        "index": "31318",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_31318.json",
+        "negative_strings": [
+            "izi",
+            "spath",
+            "ivities",
+            "k\u00c3\u00bc",
+            "InputElement",
+            "irs",
+            "edly",
+            "allet",
+            "argent",
+            "thalm"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "mentor",
+            "ched",
+            "reon",
+            "oidal",
+            "pid",
+            "ment",
+            "adol"
+        ],
+        "description": "references to the name \"Torre\" or related forms"
+    },
+    {
+        "index": "1364",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_1364.json",
+        "negative_strings": [
+            "izi",
+            "edly",
+            "ivities",
+            "k\u00c3\u00bc",
+            "egen",
+            "InputElement",
+            "\u00ec\u00b8\u0142",
+            "spath",
+            "yard",
+            "agle"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "rens",
+            "oidal",
+            "ment",
+            "mentor",
+            "pid",
+            "adol",
+            "reon"
+        ],
+        "description": "references to the term \"Tor,\" likely related to anonymity and privacy in internet communications"
+    },
+    {
+        "index": "14904",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_14904.json",
+        "negative_strings": [
+            "buquerque",
+            "\u00d8\u00b6\u00d8\u00a9",
+            "PTS",
+            "itus",
+            "arend",
+            "sit",
+            "berra",
+            "icontrol",
+            "spath",
+            "irty"
+        ],
+        "positive_strings": [
+            "mented",
+            " Tor",
+            " tor",
+            "Tor",
+            "adol",
+            " TOR",
+            "oidal",
+            "onto",
+            "pid",
+            "rence"
+        ],
+        "description": " references to \"Tor\" and related names, suggesting a focus on identifying specific individuals or entities"
+    },
+    {
+        "index": "29343",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_29343.json",
+        "negative_strings": [
+            "ema",
+            "arend",
+            "\u00ec\u00b8\u0142",
+            "ego",
+            "\u00d8\u00b6\u00d8\u00a9",
+            "tees",
+            "edly",
+            "buquerque",
+            "arya",
+            "enus"
+        ],
+        "positive_strings": [
+            " Tor",
+            "Tor",
+            "onto",
+            " tor",
+            " TOR",
+            "mented",
+            "QUE",
+            "adol",
+            "bole",
+            "que"
+        ],
+        "description": " references to a specific town or location"
+    },
+    {
+        "index": "2041",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_2041.json",
+        "negative_strings": [
+            "t",
+            "ti",
+            "ez",
+            "eer",
+            "tim",
+            "tors",
+            "tur",
+            "tin",
+            "ted",
+            "tor"
+        ],
+        "positive_strings": [
+            "rier",
+            "rr",
+            "ship",
+            "ra",
+            "de",
+            "riers",
+            "riage",
+            "ium",
+            "iginal",
+            "red"
+        ],
+        "description": "references to human roles and occupations, specifically in arts and media contexts"
+    },
+    {
+        "index": "1132",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_1132.json",
+        "negative_strings": [
+            "arend",
+            "oriented",
+            "timezone",
+            "elijk",
+            "\u00d8\u00b6\u00d8\u00a9",
+            "sit",
+            "\u00e4\u00bc\u00bc",
+            "izer",
+            "swire",
+            "\u00ec\u00b8\u0142"
+        ],
+        "positive_strings": [
+            " Tor",
+            "onto",
+            "Tor",
+            " tor",
+            " TOR",
+            "\u00d9\u0128\u00d8\u00a8",
+            " Pascal",
+            "mented",
+            " clipping",
+            "odash"
+        ],
+        "description": "mentions of the name \"Tor\" and its variations in different contexts"
+    },
+    {
+        "index": "11268",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_11268.json",
+        "negative_strings": [
+            "swire",
+            "agle",
+            "argent",
+            "\u00e7\u00a3\u00a8",
+            "\u00d8\u00b6\u00d8\u00a9",
+            "sit",
+            "nas",
+            "\u00ec\u00b8\u0142",
+            "arend",
+            "izer"
+        ],
+        "positive_strings": [
+            "sten",
+            "onto",
+            " seg",
+            "rance",
+            "mented",
+            " pockets",
+            "rence",
+            "ACKET",
+            "/application",
+            "\u00d9\u0128\u00d8\u00a8"
+        ],
+        "description": " mentions of a specific geographic location or references to a character associated with the name \"Tor.\""
+    },
+    {
+        "index": "30849",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_30849.json",
+        "negative_strings": [
+            "ey",
+            "es",
+            "eer",
+            "ep",
+            "ek",
+            "ez",
+            "ego",
+            "ev",
+            "ee",
+            "ei"
+        ],
+        "positive_strings": [
+            "iginal",
+            "ship",
+            "hythm",
+            "rr",
+            "respond",
+            "ourke",
+            "ange",
+            "de",
+            "er",
+            "porate"
+        ],
+        "description": " words related to legal or formal terms"
+    },
+    {
+        "index": "10021",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_10021.json",
+        "negative_strings": [
+            "eer",
+            "ey",
+            "ep",
+            "ek",
+            "t",
+            "erson",
+            "ef",
+            "ene",
+            "ego",
+            "eker"
+        ],
+        "positive_strings": [
+            "iginal",
+            "ourke",
+            "hythm",
+            "ship",
+            "outines",
+            "hyth",
+            "respond",
+            "relation",
+            "rr",
+            "rent"
+        ],
+        "description": " words related to legal or regulatory contexts"
+    },
+    {
+        "index": "10304",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a torah/data_for_feature_10304.json",
+        "negative_strings": [
+            "rubu",
+            "yalty",
+            "racat",
+            "IENCE",
+            "couz",
+            "tvrt",
+            "ATORY",
+            "HasBeen",
+            "isContained",
+            "OfSize"
+        ],
+        "positive_strings": [
+            "\u00c2\u0143ing",
+            "\u00c2\u0143",
+            "\u2019s",
+            " \u201c",
+            " \u2018",
+            " is",
+            "\u00c2\u0143s",
+            " has",
+            "\u00c2\u0143t",
+            "\u00c2\u0143i"
+        ],
+        "description": " capitalized terms and names"
+    }
+]

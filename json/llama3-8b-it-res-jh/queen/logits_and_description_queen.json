@@ -1,0 +1,32 @@
+[
+    {
+        "index": "3579",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/queen/data_for_feature_3579.json",
+        "negative_strings": [
+            "\u013f",
+            "WidgetItem",
+            " Depot",
+            ".predicate",
+            "ideo",
+            "elsinki",
+            "\u00c3\u00bczel",
+            "alse",
+            "allel",
+            "orent"
+        ],
+        "positive_strings": [
+            " royal",
+            "Royal",
+            " Royal",
+            " Commonwealth",
+            " invest",
+            " Invest",
+            " engagements",
+            " Windsor",
+            " Platinum",
+            " Asc"
+        ],
+        "description": " references to Queen Elizabeth II and her royal engagements"
+    }
+]

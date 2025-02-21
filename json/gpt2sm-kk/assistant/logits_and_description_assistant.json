@@ -1,0 +1,602 @@
+[
+    {
+        "index": "14502",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_14502.json",
+        "negative_strings": [
+            " inactive",
+            " Regular",
+            "\ufffd",
+            " Healthy",
+            " Active",
+            " Haram",
+            "Extra",
+            "\ufffd",
+            " Heroic",
+            " Rey"
+        ],
+        "positive_strings": [
+            " across",
+            " Across",
+            "Across",
+            " cross",
+            "cross",
+            " crosses",
+            " nationwide",
+            "Cross",
+            " crossed",
+            " spanning"
+        ],
+        "description": " references to acts of assistance or charity towards others"
+    },
+    {
+        "index": "20433",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_20433.json",
+        "negative_strings": [
+            "SPONSORED",
+            "\".[",
+            " (\"",
+            "NetMessage",
+            "iHUD",
+            " [...]",
+            " Selected",
+            "]-",
+            " autobi",
+            " Fas"
+        ],
+        "positive_strings": [
+            " @",
+            "@",
+            " \"@",
+            " (@",
+            " \ufffd",
+            " \ufffd",
+            " <@",
+            " https",
+            " #",
+            " \ufffd"
+        ],
+        "description": " tweets mentioning Donald Trump and seeking assistance regarding missing persons"
+    },
+    {
+        "index": "12356",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_12356.json",
+        "negative_strings": [
+            " QUEST",
+            "ality",
+            "MQ",
+            "iott",
+            "\u9ed2",
+            "Normal",
+            "romy",
+            "ahime",
+            "depending",
+            "channelAvailability"
+        ],
+        "positive_strings": [
+            " ceilings",
+            " shoulders",
+            " elbows",
+            " racks",
+            " walls",
+            " palm",
+            " pillars",
+            " shelves",
+            " rack",
+            " tallest"
+        ],
+        "description": "phrases indicating physical support or assistance in various contexts"
+    },
+    {
+        "index": "41224",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_41224.json",
+        "negative_strings": [
+            "ahime",
+            "ebook",
+            " 424",
+            "nce",
+            "\ufffd",
+            " Bai",
+            "bryce",
+            "\ufffd",
+            "Tube",
+            " 426"
+        ],
+        "positive_strings": [
+            " help",
+            " Help",
+            " helpful",
+            "help",
+            " helping",
+            " helps",
+            " HELP",
+            "helps",
+            " assisting",
+            " bolst"
+        ],
+        "description": " requests for assistance or help"
+    },
+    {
+        "index": "11355",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_11355.json",
+        "negative_strings": [
+            "\u306e\u9b54",
+            "ciation",
+            "century",
+            "icipated",
+            " roles",
+            "\u9ed2",
+            "Mission",
+            "VO",
+            "ontent",
+            "America"
+        ],
+        "positive_strings": [
+            " neighbours",
+            " grease",
+            " pse",
+            " pals",
+            "raphics",
+            " rub",
+            " pinch",
+            " neighbour",
+            " massage",
+            " compress"
+        ],
+        "description": "references to assistance or support in various contexts"
+    },
+    {
+        "index": "3752",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_3752.json",
+        "negative_strings": [
+            "luck",
+            " Haku",
+            "glers",
+            " helpers",
+            "GW",
+            " helper",
+            "ffect",
+            " Hack",
+            " Gw",
+            " goats"
+        ],
+        "positive_strings": [
+            "\u00f0",
+            "icz",
+            "pton",
+            " Ney",
+            "cius",
+            " Bolton",
+            "mol",
+            "Ray",
+            " Nou",
+            "\u2500\u2500"
+        ],
+        "description": "requests for help and offers of assistance"
+    },
+    {
+        "index": "1044",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_1044.json",
+        "negative_strings": [
+            " mash",
+            " photograp",
+            " Smithsonian",
+            " Kod",
+            " NX",
+            " designer",
+            " edited",
+            " plagiar",
+            " overc",
+            "phot"
+        ],
+        "positive_strings": [
+            " Support",
+            "Support",
+            "support",
+            " SUPPORT",
+            "zbollah",
+            " support",
+            " supportive",
+            " Patreon",
+            " Supports",
+            "onite"
+        ],
+        "description": "phrases indicating levels of support or assistance"
+    },
+    {
+        "index": "23149",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_23149.json",
+        "negative_strings": [
+            "ebted",
+            "iphate",
+            " except",
+            " differs",
+            "orse",
+            " characterized",
+            " differed",
+            " bothered",
+            "problem",
+            "urred"
+        ],
+        "positive_strings": [
+            "\\<",
+            " Wik",
+            " Morton",
+            " Kens",
+            " Juda",
+            " UNHCR",
+            " sprink",
+            " Writers",
+            " subtitles",
+            "\ufffd\ufffd"
+        ],
+        "description": "references to assistance and collaboration"
+    },
+    {
+        "index": "2268",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_2268.json",
+        "negative_strings": [
+            "visible",
+            " invis",
+            "trace",
+            "gger",
+            "nai",
+            "obyl",
+            "atel",
+            "riers",
+            "igraph",
+            "ience"
+        ],
+        "positive_strings": [
+            "Trend",
+            "ETS",
+            " Nanto",
+            "Brow",
+            "VW",
+            " regulars",
+            " Rex",
+            "\u304d",
+            "Bay",
+            "Prev"
+        ],
+        "description": "phrases that indicate assistance or support related to ongoing engagement"
+    },
+    {
+        "index": "16968",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_16968.json",
+        "negative_strings": [
+            " Huawei",
+            " Valkyrie",
+            "Ul",
+            " Ves",
+            " Vive",
+            " McLaren",
+            " Wand",
+            " Brisbane",
+            " Spectre",
+            " Chennai"
+        ],
+        "positive_strings": [
+            " SNAP",
+            " USDA",
+            " Supplemental",
+            " stamps",
+            "overty",
+            " poverty",
+            "elfare",
+            " welfare",
+            " Stamp",
+            " recip"
+        ],
+        "description": "data related to government assistance programs and food insecurity"
+    },
+    {
+        "index": "677",
+        "layer": "10-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_677.json",
+        "negative_strings": [
+            " Polo",
+            " Jeep",
+            "bowl",
+            " Riyadh",
+            "andals",
+            "rake",
+            " DEFENSE",
+            " Dodge",
+            " Saban",
+            " Bowl"
+        ],
+        "positive_strings": [
+            " euth",
+            " termin",
+            "anasia",
+            " assisted",
+            " Tasman",
+            " hosp",
+            " humane",
+            "Austral",
+            " medically",
+            " Alzheimer"
+        ],
+        "description": "mentions of assisted suicide and related policies"
+    },
+    {
+        "index": "28609",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_28609.json",
+        "negative_strings": [
+            "\ufffd",
+            " Wald",
+            "phe",
+            " Paw",
+            "TERN",
+            " brid",
+            " corpor",
+            "HCR",
+            " faire",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "info",
+            "Info",
+            " Info",
+            "INFO",
+            "ista",
+            " info",
+            "dos",
+            "ahi",
+            "started",
+            "iste"
+        ],
+        "description": " phrases related to future assistance or additional information"
+    },
+    {
+        "index": "6473",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_6473.json",
+        "negative_strings": [
+            "izoph",
+            "Contents",
+            "\u9f8d\u559a\u58eb",
+            " intrig",
+            "ellen",
+            "NetMessage",
+            " arrang",
+            "avorite",
+            "nered",
+            "userc"
+        ],
+        "positive_strings": [
+            "rano",
+            " Gloria",
+            " Irma",
+            " Jeremiah",
+            "onica",
+            " Juno",
+            " Creed",
+            " Jacksonville",
+            " Kira",
+            " Ow"
+        ],
+        "description": "phrases related to programs, initiatives, and procedures involving assistance or support"
+    },
+    {
+        "index": "2272",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_2272.json",
+        "negative_strings": [
+            " acron",
+            " PowerPoint",
+            "METHOD",
+            " motif",
+            " circumst",
+            "tymology",
+            " topic",
+            "notes",
+            " prepar",
+            " Caucas"
+        ],
+        "positive_strings": [
+            "livion",
+            "\ufffd",
+            "merce",
+            "\ufffd",
+            "ews",
+            "apo",
+            "\u2591",
+            "\ufffd",
+            "\ufffd",
+            "\ufffd"
+        ],
+        "description": " phrases related to support and assistance"
+    },
+    {
+        "index": "43041",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_43041.json",
+        "negative_strings": [
+            " accol",
+            " endorsements",
+            "\ufffd\ufffd",
+            " compliment",
+            " warranties",
+            " braces",
+            " teasp",
+            "\ufffd\ufffd\ufffd",
+            "aple",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "forums",
+            "cam",
+            " Encounter",
+            "cour",
+            "Discussion",
+            "Ask",
+            "ongo",
+            "indust",
+            "igi",
+            "vol"
+        ],
+        "description": " references to forums and discussions related to academic assistance and student support"
+    },
+    {
+        "index": "6769",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_6769.json",
+        "negative_strings": [
+            "inguished",
+            "ances",
+            "nces",
+            " Bride",
+            "................................",
+            "uggle",
+            "inction",
+            "lance",
+            " Beng",
+            " \u00a0 \u00a0 \u00a0 \u00a0"
+        ],
+        "positive_strings": [
+            " boundaries",
+            " wedge",
+            " envelope",
+            " agendas",
+            " onto",
+            " agenda",
+            "onto",
+            " overboard",
+            "rollers",
+            " farther"
+        ],
+        "description": "phrases related to assistance and support in challenging situations"
+    },
+    {
+        "index": "2888",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_2888.json",
+        "negative_strings": [
+            "sbm",
+            "\ufffd",
+            "wagen",
+            "atonin",
+            "veyard",
+            "idth",
+            "*/(",
+            "tsky",
+            " arteries",
+            "lishing"
+        ],
+        "positive_strings": [
+            " Afric",
+            "catentry",
+            "arations",
+            " Canaver",
+            " Cultural",
+            "aid",
+            "establishment",
+            " Precision",
+            "rehens",
+            " UNHCR"
+        ],
+        "description": " connections to aid and assistance in various contexts"
+    },
+    {
+        "index": "13154",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_13154.json",
+        "negative_strings": [
+            "llah",
+            "osate",
+            "UMP",
+            "onym",
+            "eday",
+            "soDeliveryDate",
+            "odon",
+            "DragonMagazine",
+            "displayText",
+            "OSH"
+        ],
+        "positive_strings": [
+            " assists",
+            " saves",
+            " teammate",
+            "agements",
+            " rebounds",
+            " promot",
+            " defensively",
+            " assist",
+            " Earn",
+            " earned"
+        ],
+        "description": "statistical data related to basketball player performance in terms of points, assists, and rebounds"
+    },
+    {
+        "index": "9667",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_9667.json",
+        "negative_strings": [
+            "colo",
+            "Trend",
+            " regulator",
+            " Bernstein",
+            " drivers",
+            " Benz",
+            " Electro",
+            "MSN",
+            " Coco",
+            " pros"
+        ],
+        "positive_strings": [
+            " denote",
+            " denotes",
+            " Genocide",
+            "orian",
+            "hat",
+            " signifies",
+            " Massacre",
+            " sar",
+            "kin",
+            "ovan"
+        ],
+        "description": " words related to rescue operations or assistance"
+    },
+    {
+        "index": "17219",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/assistant/data_for_feature_17219.json",
+        "negative_strings": [
+            "below",
+            "retch",
+            "\u03c2",
+            "hops",
+            "achev",
+            "cht",
+            " Tycoon",
+            "onom",
+            "pires",
+            "cks"
+        ],
+        "positive_strings": [
+            " toile",
+            " forgiveness",
+            " payment",
+            "MSN",
+            " explan",
+            " repayment",
+            " juven",
+            "lication",
+            " turf",
+            "EStream"
+        ],
+        "description": "requests for assistance or information"
+    }
+]

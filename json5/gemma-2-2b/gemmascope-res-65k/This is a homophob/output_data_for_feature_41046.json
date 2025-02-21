@@ -1,0 +1,30 @@
+{
+    "index": "41046",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a homophob/data_for_feature_41046.json",
+    "negative_strings": [
+        "\u2581baptized",
+        "tvguidetime",
+        "\u2581consid\u00e9rons",
+        "=$(\"#",
+        "Enquiries",
+        "loxy",
+        "\u2581Pharisees",
+        "\u2581ibis",
+        "\u2581Gott",
+        "\u2581Enquiries"
+    ],
+    "positive_strings": [
+        "\u2581Home",
+        "\u2581HOME",
+        "Home",
+        "\u2581hom",
+        "HOME",
+        "\u2581home",
+        "\u2581HOM",
+        "home",
+        "HOM",
+        "\u2581Hom"
+    ],
+    "description": "terms related to homogeneity or homogenous concepts"
+}

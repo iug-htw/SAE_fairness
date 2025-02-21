@@ -1,0 +1,30 @@
+{
+    "index": "10901",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a talmud/data_for_feature_10901.json",
+    "negative_strings": [
+        "ally",
+        "\u2581StringTokenizer",
+        "protoimpl",
+        "\u2581convertView",
+        "\u2581gynhyrchwyd",
+        "LY",
+        "enterOuterAlt",
+        "LIN",
+        "less",
+        "ALLY"
+    ],
+    "positive_strings": [
+        "liance",
+        "icious",
+        "lah",
+        "aksana",
+        "ex",
+        "dehyde",
+        "lel",
+        "lium",
+        "cohol",
+        "bum"
+    ],
+    "description": "words related to specific scientific or medical terms, particularly those ending in \"nal\" or \"ral\""
+}

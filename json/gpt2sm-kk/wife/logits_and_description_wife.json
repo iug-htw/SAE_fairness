@@ -1,0 +1,32 @@
+[
+    {
+        "index": "18790",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/wife/data_for_feature_18790.json",
+        "negative_strings": [
+            "roth",
+            "eele",
+            "YP",
+            "orrow",
+            "ngth",
+            "henko",
+            "qual",
+            " Featured",
+            "okin",
+            "qus"
+        ],
+        "positive_strings": [
+            " girlfriends",
+            " mothers",
+            " neighbours",
+            " grandparents",
+            " governors",
+            " nuns",
+            " grandmother",
+            " sisters",
+            " siblings",
+            " secretaries"
+        ],
+        "description": " references to marital relationships, particularly involving the terms \"husband\" and \"wife.\""
+    }
+]

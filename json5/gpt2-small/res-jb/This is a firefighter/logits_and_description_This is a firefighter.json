@@ -1,0 +1,422 @@
+[
+    {
+        "index": "6332",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_6332.json",
+        "negative_strings": [
+            " Franken",
+            "quick",
+            "emb",
+            "laus",
+            "money",
+            "phal",
+            "odus",
+            "grab",
+            "election",
+            "forward"
+        ],
+        "positive_strings": [
+            " firefighter",
+            " firefighters",
+            " extinguished",
+            "gencies",
+            " extingu",
+            " blaze",
+            " paramed",
+            " exting",
+            " ants",
+            " responders"
+        ],
+        "description": "mentions of firefighters"
+    },
+    {
+        "index": "2581",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_2581.json",
+        "negative_strings": [
+            "lihood",
+            "Grab",
+            " Franken",
+            "change",
+            "emb",
+            "fb",
+            " Proud",
+            "grab",
+            "forward",
+            "laus"
+        ],
+        "positive_strings": [
+            " firefighter",
+            " firefighters",
+            " blaze",
+            " extinguished",
+            " paramed",
+            " extingu",
+            "soDeliveryDate",
+            " sprink",
+            "gencies",
+            " exting"
+        ],
+        "description": "mentions of firefighters"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    },
+    {
+        "index": "13089",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_13089.json",
+        "negative_strings": [
+            " Lans",
+            "xus",
+            " Borderlands",
+            " Vide",
+            "este",
+            " Choice",
+            "zees",
+            " Verge",
+            " clipboard",
+            " Desk"
+        ],
+        "positive_strings": [
+            " exting",
+            "fight",
+            "fighting",
+            "bomb",
+            "brand",
+            "balls",
+            "storm",
+            " extingu",
+            "fights",
+            "storms"
+        ],
+        "description": "events related to fires and emergencies"
+    },
+    {
+        "index": "1863",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_1863.json",
+        "negative_strings": [
+            "uncture",
+            "olic",
+            "ados",
+            "las",
+            "raints",
+            "rency",
+            "maxwell",
+            "miss",
+            " Buckingham",
+            "thood"
+        ],
+        "positive_strings": [
+            " unions",
+            " union",
+            " employed",
+            " earning",
+            " displaced",
+            " commuting",
+            " hired",
+            " compensation",
+            "paces",
+            " organizing"
+        ],
+        "description": "descriptions of labor conditions and worker-related issues, such as workers' rights, exploitative practices, and living conditions"
+    },
+    {
+        "index": "6631",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_6631.json",
+        "negative_strings": [
+            "piring",
+            " Kafka",
+            " Manafort",
+            " Lens",
+            " TBA",
+            " neoc",
+            " Cursed",
+            " TPP",
+            " CHO",
+            "izable"
+        ],
+        "positive_strings": [
+            "fighters",
+            "fighter",
+            "fighting",
+            " Marshal",
+            " Fighters",
+            "brand",
+            "arms",
+            "baugh",
+            "fight",
+            " exting"
+        ],
+        "description": "keywords related to a fire incident, such as \"fire,\" \"Department,\" \"rescue,\" and \"power.\""
+    },
+    {
+        "index": "21581",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_21581.json",
+        "negative_strings": [
+            "Newsletter",
+            " Mehran",
+            "enne",
+            "soon",
+            "\u00e3\u0122",
+            "oho",
+            "\u00e2\u0122",
+            "ohm",
+            "iHUD",
+            "\u00e3\u0124\u00a6"
+        ],
+        "positive_strings": [
+            " trying",
+            " telling",
+            " deciding",
+            " messing",
+            " reacting",
+            " doing",
+            " pulling",
+            " proposing",
+            " agreeing",
+            " getting"
+        ],
+        "description": "proper nouns related to companies or organizations"
+    },
+    {
+        "index": "5537",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_5537.json",
+        "negative_strings": [
+            "roth",
+            "rongh",
+            "ername",
+            "gemony",
+            "eday",
+            "bernatorial",
+            "skirts",
+            "hett",
+            "shadow",
+            "ynasty"
+        ],
+        "positive_strings": [
+            " crews",
+            " responders",
+            " paramedics",
+            " paramed",
+            " personnel",
+            " ambulance",
+            " workers",
+            " services",
+            " helicopters",
+            " teams"
+        ],
+        "description": "terms related to emergency incidents and rescue operations"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "21319",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_21319.json",
+        "negative_strings": [
+            "ories",
+            "icone",
+            "itions",
+            " HOUSE",
+            " Pradesh",
+            "ask",
+            "ologies",
+            "itors",
+            "iture",
+            "ORY"
+        ],
+        "positive_strings": [
+            " jets",
+            " jet",
+            " Squadron",
+            " squadron",
+            " pilot",
+            " pilots",
+            " Typhoon",
+            " fighter",
+            " planes",
+            "fighter"
+        ],
+        "description": "words related to military fighter aircraft, particularly focusing on specific aircraft models and terms related to aircraft design and capabilities"
+    },
+    {
+        "index": "14760",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_14760.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a6",
+            "\u00a5\u00b5",
+            "Cry",
+            "\u00e5\u012e",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "\u013a\u0127",
+            "\u00e3\u0125\u00aa",
+            "rencies",
+            "dos",
+            "itionally"
+        ],
+        "positive_strings": [
+            " patrolling",
+            " stationed",
+            "involved",
+            " assigned",
+            " involved",
+            " guarding",
+            " responding",
+            " investigating",
+            " fatally",
+            " handcuffed"
+        ],
+        "description": "references to law enforcement officers, police shootings, and related incidents"
+    },
+    {
+        "index": "12738",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_12738.json",
+        "negative_strings": [
+            "izoph",
+            "etheless",
+            "\u00a5\u00b5",
+            "inventoryQuantity",
+            "sequence",
+            "ilogy",
+            "edIn",
+            "\u00e9\u0143\u0136",
+            "VALUE",
+            "izons"
+        ],
+        "positive_strings": [
+            " extraord",
+            " specializing",
+            "esses",
+            " hired",
+            "ess",
+            " who",
+            " employed",
+            " apprentice",
+            " apprentices",
+            " servicing"
+        ],
+        "description": "occupational titles related to various professions within the forestry and natural resources fields"
+    },
+    {
+        "index": "19462",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_19462.json",
+        "negative_strings": [
+            " appointments",
+            " nominees",
+            "chers",
+            " panels",
+            "sheets",
+            " chiefs",
+            "elines",
+            " portfolios",
+            " CDs",
+            " forecasts"
+        ],
+        "positive_strings": [
+            " ))",
+            " ?)",
+            "ccording",
+            " )))",
+            " ])",
+            "ategory",
+            " ));",
+            "lished",
+            " )",
+            "\u00de"
+        ],
+        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
+    },
+    {
+        "index": "23695",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a firefighter/data_for_feature_23695.json",
+        "negative_strings": [
+            " Allies",
+            " Tours",
+            " Fathers",
+            " Leilan",
+            " Franchise",
+            " Conflict",
+            " Crusade",
+            " Exodus",
+            "quished",
+            " Marketplace"
+        ],
+        "positive_strings": [
+            " vest",
+            " jacket",
+            " towel",
+            " glove",
+            "stick",
+            "hair",
+            "shirt",
+            "issue",
+            " skirt",
+            "mouse"
+        ],
+        "description": "activities or attributes of people in different professions or hobbies"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "62147",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_62147.json",
+        "negative_strings": [
+            "sted",
+            ",",
+            "/L",
+            "l",
+            " sacrifice",
+            " hecho",
+            " involuntary",
+            " premature",
+            "\u00c3\u0139",
+            " creado"
+        ],
+        "positive_strings": [
+            " sua",
+            " mesma",
+            " pr\u00c3\u00b3p",
+            "inda",
+            "qui",
+            "emons",
+            " \u00c3\u00a9p",
+            "ynet",
+            "ulas",
+            "ugins"
+        ],
+        "description": " references to financial terms and concepts related to money management"
+    },
+    {
+        "index": "32529",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/money/data_for_feature_32529.json",
+        "negative_strings": [
+            "sr",
+            "mlin",
+            "agus",
+            "sj",
+            "iren",
+            "suspend",
+            "sold",
+            "stal",
+            "ledon",
+            "uster"
+        ],
+        "positive_strings": [
+            "bags",
+            " laundering",
+            "changer",
+            " Lau",
+            " spent",
+            "bag",
+            "-saving",
+            "-making",
+            "flow",
+            " launder"
+        ],
+        "description": " references to money and financial transactions"
+    },
+    {
+        "index": "25409",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_25409.json",
+        "negative_strings": [
+            ".",
+            "\n",
+            "(",
+            "048",
+            "061",
+            "046",
+            "083",
+            "092",
+            ".T",
+            ".S"
+        ],
+        "positive_strings": [
+            "#!",
+            "$$$$",
+            "%^",
+            " signs",
+            "$$$",
+            "ecret",
+            "oftware",
+            "hit",
+            "uccess",
+            ".$."
+        ],
+        "description": " references to money or prices"
+    },
+    {
+        "index": "122527",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_122527.json",
+        "negative_strings": [
+            "ache",
+            "eda",
+            "elu",
+            "ede",
+            "827",
+            "erman",
+            "au",
+            "erna",
+            "esc",
+            "alic"
+        ],
+        "positive_strings": [
+            "\u00d0\u00b0\u00d1\u0122\u00d1\u0138\u00d0\u00b2",
+            "\u00d0\u00b0\u00d1\u0122\u00d0\u00be\u00d0\u00b2",
+            "ares",
+            "\u00d0\u00bb\u00d0\u00b0\u00d1\u0122\u00d0\u00b0",
+            "\u00d0\u00bb",
+            " \u00d0\u00a1\u00d0\u00a8\u00d0\u0132",
+            " \u00d0\u00b4\u00d0\u00be\u00d0\u00bb",
+            " Usa",
+            "iare",
+            "\u00d0\u00b0\u00d1\u0122\u00d0\u00b8"
+        ],
+        "description": " references to money or financial terms"
+    },
+    {
+        "index": "91051",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_91051.json",
+        "negative_strings": [
+            "ifo",
+            "emen",
+            " itemprop",
+            "\u00d1\u0122\u00d1\u012d",
+            "boro",
+            "emens",
+            "\tCopyright",
+            "prech",
+            " sch\u00c3\u00b6n",
+            "ewn"
+        ],
+        "positive_strings": [
+            " cash",
+            " bucks",
+            " funds",
+            " dollars",
+            " income",
+            " money",
+            " dough",
+            "cash",
+            " revenue",
+            " capital"
+        ],
+        "description": " discussions related to spending and saving money"
+    },
+    {
+        "index": "19167",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_19167.json",
+        "negative_strings": [
+            "erne",
+            "Sphere",
+            "vider",
+            "\u00c5\u0124aw",
+            "peri",
+            "adora",
+            "deck",
+            "eru",
+            "dos",
+            "UsageId"
+        ],
+        "positive_strings": [
+            "iless",
+            "ies",
+            " penn",
+            "nick",
+            "insula",
+            " Penn",
+            "yst",
+            " \u00d0\u00ba\u00d0\u00be\u00d0\u00bf",
+            "ance",
+            "worth"
+        ],
+        "description": "references to currency or money"
+    },
+    {
+        "index": "38431",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_38431.json",
+        "negative_strings": [
+            " pragma",
+            "uddenly",
+            "\u00e1\u00ba\u0143m",
+            "ainment",
+            "\u00c4\u00b1l\u00c4\u00b1",
+            "illet",
+            "\u00c3\u00bd\u00c5\u00a1",
+            "_require",
+            ".getOwnPropertyDescriptor",
+            "pora"
+        ],
+        "positive_strings": [
+            " time",
+            " money",
+            " valuable",
+            " precious",
+            " TIME",
+            " costs",
+            " hassle",
+            " headaches",
+            " effort",
+            " both"
+        ],
+        "description": " references to saving time and money"
+    },
+    {
+        "index": "47674",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_47674.json",
+        "negative_strings": [
+            "\u00b7\u00bb",
+            "egree",
+            "709",
+            " horm",
+            "sth",
+            "podob",
+            "t\u00c3\u0143",
+            "ceae",
+            "ledon",
+            "ledi"
+        ],
+        "positive_strings": [
+            "flow",
+            "iers",
+            "mere",
+            "ews",
+            "ew",
+            " flow",
+            "-flow",
+            "flows",
+            "ier",
+            "ola"
+        ],
+        "description": " terms related to money and financial transactions"
+    },
+    {
+        "index": "21634",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/money/data_for_feature_21634.json",
+        "negative_strings": [
+            "embre",
+            "ijn",
+            "Vu",
+            "\u0135n",
+            "\u00e1\u00ba\u00a1ch",
+            "dad",
+            "\u00ce\u00af\u00ce\u00bf\u00cf\u0124",
+            "ruz",
+            ".Unity",
+            "imax"
+        ],
+        "positive_strings": [
+            " worth",
+            "worth",
+            " Worth",
+            "-w",
+            " wor",
+            "sworth",
+            " worthwhile",
+            " worthy",
+            " well",
+            "wort"
+        ],
+        "description": " numerical values related to money and financial considerations"
+    },
+    {
+        "index": "86963",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_86963.json",
+        "negative_strings": [
+            "alles",
+            "ILED",
+            "mime",
+            "\u00e0\u00b8\u00b1\u00e0\u00b8\u0129\u00e0\u00b8\u013b",
+            "wyn",
+            ")test",
+            ".extern",
+            "POSE",
+            "adin",
+            " zay\u00c4\u00b1f"
+        ],
+        "positive_strings": [
+            " money",
+            " big",
+            " BIG",
+            " Money",
+            " time",
+            " $$$",
+            " Big",
+            "BIG",
+            " MONEY",
+            " dinero"
+        ],
+        "description": " phrases related to saving money through deals and discounts"
+    },
+    {
+        "index": "128624",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_128624.json",
+        "negative_strings": [
+            "mlin",
+            "urette",
+            "iren",
+            "ledon",
+            "uster",
+            "isty",
+            " nitelik",
+            "odos",
+            "ascus",
+            "agus"
+        ],
+        "positive_strings": [
+            "bags",
+            " laundering",
+            " spent",
+            "-making",
+            "flow",
+            "bag",
+            "/resources",
+            "ed",
+            "-saving",
+            " flow"
+        ],
+        "description": "references to money and financial transactions"
+    },
+    {
+        "index": "4166",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/money/data_for_feature_4166.json",
+        "negative_strings": [
+            "deniz",
+            " destinationViewController",
+            " Dup",
+            "\u00e8\u00b2\u00bc",
+            "_digest",
+            "enk",
+            "\u00e6\u0141\u013e",
+            "yclopedia",
+            " Diagram",
+            "\u00e7\u0124\u012b"
+        ],
+        "positive_strings": [
+            " dol",
+            " dollars",
+            " doll",
+            " \u00d0\u00b4\u00d0\u00be\u00d0\u00bb",
+            " buck",
+            " Doll",
+            " dollar",
+            " Dol",
+            "doll",
+            "dol"
+        ],
+        "description": "phrases and terms related to large sums of money"
+    },
+    {
+        "index": "21331",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_21331.json",
+        "negative_strings": [
+            "Dean",
+            "\u00cf\u0122\u00ce\u00bf\u00cf\u0126\u00ce\u00b5",
+            "\u00e5\u00bd\u00a6",
+            " micron",
+            "unsafe",
+            " Slate",
+            "i\u00c5\u00be",
+            " Auch",
+            " labor",
+            " unsafe"
+        ],
+        "positive_strings": [
+            " Naj",
+            " SRC",
+            " Goldman",
+            " sovereign",
+            "MDB",
+            " fug",
+            " Bers",
+            " Malays",
+            " Raz",
+            "SRC"
+        ],
+        "description": "references to financial scandals involving significant sums of money"
+    },
+    {
+        "index": "117074",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_117074.json",
+        "negative_strings": [
+            "Dean",
+            " micron",
+            "cient",
+            "\u00cf\u0122\u00ce\u00bf\u00cf\u0126\u00ce\u00b5",
+            "eken",
+            "i\u00c5\u00be",
+            "_union",
+            "jen",
+            "\u00e7\u00bf\u0136",
+            "andro"
+        ],
+        "positive_strings": [
+            " Naj",
+            " Raz",
+            " SRC",
+            " Bers",
+            " Goldman",
+            "SRC",
+            " Malaysian",
+            " Malaysia",
+            " sovereign",
+            " Malays"
+        ],
+        "description": " references to financial scandals involving large sums of money"
+    },
+    {
+        "index": "122068",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_122068.json",
+        "negative_strings": [
+            "assage",
+            "ascar",
+            "etto",
+            "\u00e7\u012b\u012e",
+            "ouden",
+            "emem",
+            "521",
+            " proprietary",
+            "ayet",
+            "ierten"
+        ],
+        "positive_strings": [
+            " funds",
+            " income",
+            " Funds",
+            " cash",
+            " Income",
+            " revenue",
+            " profit",
+            "\u00e6\u0136\u00b6\u00e5\u0127\u00a5",
+            "income",
+            " capital"
+        ],
+        "description": " terms associated with saving and spending money"
+    },
+    {
+        "index": "15085",
+        "layer": "31-llamascope-mlp-32k",
+        "url": "json/llama-scope/money/data_for_feature_15085.json",
+        "negative_strings": [
+            "\u00da\u00a9\u00d8\u00aa",
+            "\u00d8\u00a7\u00da\u00a9",
+            "\u00da\u00a9\u00d8\u00b2",
+            "\u00da\u00a9\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7\u00d9\u0128",
+            "\u00da\u00a9\u00d8\u00b1",
+            "$errors",
+            "\u00da\u00a9\u00d8\u00b3",
+            "\u00e2\u0122\u012e\u00da\u00a9\u00d9\u0128\u00d9\u0128\u00d8\u00af",
+            "\u00e2\u0122\u012e\u00da\u00a9\u00d9\u0128\u00d8\u00af",
+            "\u00da\u00a9\u00d8\u00a7\u00d8\u00b1"
+        ],
+        "positive_strings": [
+            " $",
+            " $\\",
+            "-$",
+            " ($",
+            " $(",
+            "$\\",
+            "/$",
+            "$_",
+            " ${",
+            "$("
+        ],
+        "description": "financial data or metrics related to money"
+    },
+    {
+        "index": "27992",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_27992.json",
+        "negative_strings": [
+            "-million",
+            "million",
+            "imeter",
+            "alles",
+            " Million",
+            "illion",
+            "mime",
+            "lov",
+            "\u00e7\u00b5\u00b5",
+            ".extern"
+        ],
+        "positive_strings": [
+            " big",
+            " money",
+            " BIG",
+            "big",
+            "BIG",
+            "-big",
+            " Big",
+            " time",
+            " Money",
+            " dough"
+        ],
+        "description": " phrases related to saving money and discounts"
+    },
+    {
+        "index": "39412",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_39412.json",
+        "negative_strings": [
+            "\u00e3\u0124\u0123",
+            "imiento",
+            " Cros",
+            "neau",
+            "uka",
+            "linkplain",
+            "\u00e5\u00a1\u013c",
+            "meni",
+            "\u00e3\u0125\u0128\u00e3\u0125\u00ab",
+            "zych"
+        ],
+        "positive_strings": [
+            " spend",
+            " Spending",
+            " spending",
+            " Spend",
+            " spends",
+            " spent",
+            " conserv",
+            " spender",
+            "spent",
+            " Conserv"
+        ],
+        "description": " references to saving money and acquiring deals"
+    },
+    {
+        "index": "123523",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_123523.json",
+        "negative_strings": [
+            "ALLY",
+            "sold",
+            "_executor",
+            "v\u00c3\u0143c",
+            "agus",
+            "Evt",
+            "icens",
+            " Zust",
+            "irable",
+            ".mixin"
+        ],
+        "positive_strings": [
+            "bags",
+            " talks",
+            " grub",
+            " Lau",
+            " laundering",
+            " Talks",
+            "ball",
+            "grab",
+            "-gr",
+            " trees"
+        ],
+        "description": "references to money and its impact on power and relationships"
+    },
+    {
+        "index": "65745",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/money/data_for_feature_65745.json",
+        "negative_strings": [
+            " throughout",
+            " beyond",
+            " across",
+            " each",
+            " following",
+            " prior",
+            " ever",
+            " aside",
+            " below",
+            " above"
+        ],
+        "positive_strings": [
+            " But",
+            "But",
+            " Because",
+            " Anyway",
+            " Edition",
+            "\u00e4\u00bd\u0128",
+            " mdi",
+            " Unless",
+            " BUT",
+            " Yet"
+        ],
+        "description": " phrases related to money and financial concepts"
+    }
+]

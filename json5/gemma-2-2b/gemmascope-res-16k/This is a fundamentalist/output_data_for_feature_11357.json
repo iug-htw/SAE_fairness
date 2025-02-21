@@ -1,0 +1,30 @@
+{
+    "index": "11357",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_11357.json",
+    "negative_strings": [
+        "SMART",
+        "}{|",
+        "\u2581iStock",
+        "\u2581Indoor",
+        "\u2581Florentine",
+        "\u2581Wittgenstein",
+        "Indoor",
+        "\u2581Tiberius",
+        "\u2581indoor",
+        "\u2581vouch"
+    ],
+    "positive_strings": [
+        "\u2581fundamental",
+        "fundamental",
+        "\u2581Fundamental",
+        "Fundamental",
+        "\u2581fondamental",
+        "\u2581fundamentals",
+        "\u2581Fundamentals",
+        "\u2581fundamentally",
+        "\u2581fondamentale",
+        "\u2581Fundament"
+    ],
+    "description": "references to fundamental concepts or principles"
+}

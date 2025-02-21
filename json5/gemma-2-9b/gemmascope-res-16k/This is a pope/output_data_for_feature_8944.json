@@ -1,0 +1,30 @@
+{
+    "index": "8944",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a pope/data_for_feature_8944.json",
+    "negative_strings": [
+        "\u2581ModelExpression",
+        "\u2581AssemblyTitle",
+        "WriteAttribute",
+        "\u2581ESQ",
+        "AutoScale",
+        "pyx",
+        "antMatchers",
+        "Parcelize",
+        "romyalgia",
+        "\u2581spart"
+    ],
+    "positive_strings": [
+        "\u2581Pope",
+        "Pope",
+        "\u2581pope",
+        "\u2581Vatican",
+        "\u2581papal",
+        "pope",
+        "\u2581Papal",
+        "\u2581Papst",
+        "Vat",
+        "\u2581Vaticano"
+    ],
+    "description": " references to the Pope and related religious figures"
+}

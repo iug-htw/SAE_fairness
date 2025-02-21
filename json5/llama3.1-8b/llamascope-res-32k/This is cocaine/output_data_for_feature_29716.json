@@ -1,0 +1,30 @@
+{
+    "index": "29716",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is cocaine/data_for_feature_29716.json",
+    "negative_strings": [
+        " drugs",
+        " alcohol",
+        " booze",
+        " antibiotics",
+        " drunken",
+        " drug",
+        " drinking",
+        " Drugs",
+        " alcoholic",
+        " whiskey"
+    ],
+    "positive_strings": [
+        " purity",
+        " powder",
+        " slang",
+        " recre",
+        " paraph",
+        " street",
+        "street",
+        " nasal",
+        " Powder",
+        " recreational"
+    ],
+    "description": " references to drug use and addiction"
+}

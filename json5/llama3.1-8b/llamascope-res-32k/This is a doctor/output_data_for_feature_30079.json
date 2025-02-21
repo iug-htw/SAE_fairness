@@ -1,0 +1,30 @@
+{
+    "index": "30079",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a doctor/data_for_feature_30079.json",
+    "negative_strings": [
+        " Nurs",
+        "xt",
+        "ti",
+        "tas",
+        "atak",
+        "punkt",
+        " Patrol",
+        "k\u00c3\u00a1",
+        "bourg",
+        " poil"
+    ],
+    "positive_strings": [
+        "ial",
+        "/engine",
+        "/ph",
+        "ate",
+        "avenport",
+        "iales",
+        "jar",
+        ".opend",
+        " treating",
+        "ISMATCH"
+    ],
+    "description": "references to healthcare professionals and their roles"
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "index": "19642",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a christian/data_for_feature_19642.json",
+        "negative_strings": [
+            "ervoir",
+            "inspace",
+            "rada",
+            "ULAR",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b2",
+            " Christians",
+            "elin",
+            "nika",
+            "uitive",
+            "atcher"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "-Muslim",
+            "izing",
+            "ities",
+            "ese",
+            " Bale",
+            "ITY",
+            "ize",
+            "ization"
+        ],
+        "description": "references to Christianity and related concepts"
+    },
+    {
+        "index": "29011",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a christian/data_for_feature_29011.json",
+        "negative_strings": [
+            "china",
+            "IES",
+            "ULAR",
+            "ustr",
+            "ervoir",
+            " Christianity",
+            "inspace",
+            "TURE",
+            "\u00c3\u00abn",
+            "\u00e3\u0123\u00a1\u00e3\u0124\u0125\u00e3\u0124\u0135"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "-Muslim",
+            " Bale",
+            "izing",
+            "ITY",
+            "ities",
+            "ize",
+            " Scientists",
+            "ization"
+        ],
+        "description": " terms related to Christianity and Christian organizations"
+    },
+    {
+        "index": "14085",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a christian/data_for_feature_14085.json",
+        "negative_strings": [
+            "/*\u010d\n",
+            "-wsj",
+            "outu",
+            ".bunifuFlatButton",
+            "\u00e0\u00b8\u00b1\u00e0\u00b8\u013b\u00e0\u00b8\u013a",
+            " unsuccessfully",
+            "-cols",
+            " Ibid",
+            "CreateInfo",
+            "[from"
+        ],
+        "positive_strings": [
+            " based",
+            " oriented",
+            " Based",
+            "based",
+            " driven",
+            "-based",
+            "Based",
+            "_based",
+            "oriented",
+            "-Based"
+        ],
+        "description": " words related to technical specifications and service-oriented topics in technology and society"
+    },
+    {
+        "index": "32705",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a christian/data_for_feature_32705.json",
+        "negative_strings": [
+            ".overflow",
+            "\u00d8\u00a8\u00d8\u00a7\u00d8\u00b2",
+            "\u00d8\u00a7\u00d9\u0126\u00d8\u00a5\u00d9\u0128\u00d8\u00ac\u00d9\u0126\u00d9\u012c\u00d8\u00b2\u00d9\u012c\u00d8\u00a9",
+            "\u00d0\u00bb\u00d1\u0130\u00d1\u0129\u00d0\u00b0",
+            "stants",
+            " entreprene",
+            " culp",
+            "\u00ed\u0126\u00b0",
+            " disag",
+            " borderSide"
+        ],
+        "positive_strings": [
+            " sterling",
+            "fiction",
+            " womens",
+            " serif",
+            " pendant",
+            " GeForce",
+            " mens",
+            " perg",
+            " uphol",
+            " Pendant"
+        ],
+        "description": "descriptive phrases associated with product quality and variety"
+    },
+    {
+        "index": "23587",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a christian/data_for_feature_23587.json",
+        "negative_strings": [
+            "\u00d1\u0130\u00d0\u00bd",
+            "\u00d9\u012c\u00d8\u00a7\u00d9\u0128",
+            "\u00d9\u012c\u00d8\u00b1\u00d8\u00a7\u00d9\u0128",
+            "\u00d1\u0122\u00d0\u00b0\u00d1\u012b",
+            "\u00d0\u00bc\u00d0\u00b5\u00d1\u012b",
+            "OutOfRange",
+            " \u00d0\u00b4\u00d0\u00b5\u00d1\u0122\u00d0\u00b6",
+            "EventData",
+            "Occurs",
+            "ieux"
+        ],
+        "positive_strings": [
+            " couple",
+            " \u2018",
+            "Girl",
+            " nun",
+            " girl",
+            " sopr",
+            " vs",
+            " Actress",
+            " Couple",
+            " duo"
+        ],
+        "description": " identifiers or descriptors related to nationality and ethnicity"
+    }
+]

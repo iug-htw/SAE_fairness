@@ -1,0 +1,30 @@
+{
+    "index": "63661",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a firefighter/data_for_feature_63661.json",
+    "negative_strings": [
+        "\u2581BoxDecoration",
+        "\u2581lawyers",
+        "\u2581Batam",
+        "numerusform",
+        "CodeAttribute",
+        "\u2581Gorilla",
+        "\u2581Migration",
+        "\u2581underestimated",
+        "\u2581mona",
+        "\u2581migration"
+    ],
+    "positive_strings": [
+        "\u2581Engine",
+        "Apparatus",
+        "\u2581apparatus",
+        "\u2581Apparatus",
+        "\u2581firefighters",
+        "\u2581firefighting",
+        "\u2581Ladder",
+        "\u2581firefighter",
+        "\u2581fire",
+        "\u2581engine"
+    ],
+    "description": " references to fire-related emergency services and vehicles"
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "index": "15046",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/receptionist/data_for_feature_15046.json",
+        "negative_strings": [
+            " mortg",
+            "astern",
+            "hed",
+            "chn",
+            "hov",
+            " aggress",
+            "Export",
+            "recy",
+            "DIV",
+            " Reduction"
+        ],
+        "positive_strings": [
+            "ally",
+            "aries",
+            " reception",
+            "alled",
+            "ist",
+            "ists",
+            "istic",
+            "naire",
+            "istically",
+            "itory"
+        ],
+        "description": "terms related to job roles or positions, such as 'receptionist' or 'CEO'"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "10913",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a homophob/data_for_feature_10913.json",
+    "negative_strings": [
+        "AddHtmlAttribute",
+        "\u2581createSprite",
+        "PickerController",
+        ":\u2728",
+        "ValueStyle",
+        "\u2581NgModule",
+        "balanceOf",
+        "=\"@+",
+        "st\u00e4nd",
+        "RequestQueue"
+    ],
+    "positive_strings": [
+        "\u2581hom",
+        "\u2581Hom",
+        "Hom",
+        "hom",
+        "\u2581HOM",
+        "HOM",
+        "\u2581homo",
+        "\u2581homogen",
+        "\u2581homophobic",
+        "\u2581homogeneous"
+    ],
+    "description": "terms related to homosexuality and related genetic concepts"
+}

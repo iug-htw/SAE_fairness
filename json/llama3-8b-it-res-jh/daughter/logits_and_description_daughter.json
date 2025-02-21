@@ -1,0 +1,62 @@
+[
+    {
+        "index": "11729",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/daughter/data_for_feature_11729.json",
+        "negative_strings": [
+            "iant",
+            "raquo",
+            " Shea",
+            " Dane",
+            "inux",
+            "emin",
+            "imon",
+            "erra",
+            "\u00e5\u00b1",
+            ".IT"
+        ],
+        "positive_strings": [
+            " Eth",
+            " Mild",
+            " Glad",
+            " Marg",
+            " Olive",
+            " Ag",
+            " Pearl",
+            " Mary",
+            " Annunci",
+            " marg"
+        ],
+        "description": " references to family relationships, particularly pertaining to wives and daughters"
+    },
+    {
+        "index": "32640",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/daughter/data_for_feature_32640.json",
+        "negative_strings": [
+            "raw",
+            "rew",
+            "imiento",
+            "nas",
+            "pped",
+            "\u00e0\u00b8\u0129\u00e0\u00b8\u00b2\u00e0\u00b8\u013b",
+            "sei",
+            "data",
+            "awei",
+            " data"
+        ],
+        "positive_strings": [
+            "ughter",
+            "ughters",
+            "IEL",
+            "\u00e0\u00b8\u00a1",
+            " Vinci",
+            "\u00c4\u0141\u00c4\u00b1n\u00c4\u00b1",
+            "dream",
+            "urnal",
+            "\u00da\u0128\u00d9\u0129",
+            "ught"
+        ],
+        "description": "terms related to \"daughter\" and familial relationships"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "101302",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is islam/data_for_feature_101302.json",
+    "negative_strings": [
+        "rungsseite",
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "RunWith",
+        "\u2581Meldung",
+        "columnHeader",
+        "rophore",
+        "\u2581consigo",
+        "barrow",
+        "Barry",
+        "\u5c53"
+    ],
+    "positive_strings": [
+        "\u2581Islam",
+        "Islam",
+        "\u2581islam",
+        "\u2581Islamic",
+        "\u2581ISLAM",
+        "islam",
+        "lamic",
+        "Islamic",
+        "\u2581Islamist",
+        "\u2581islamic"
+    ],
+    "description": "mentions of Islam and related terms"
+}

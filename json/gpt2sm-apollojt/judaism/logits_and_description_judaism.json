@@ -1,0 +1,482 @@
+[
+    {
+        "index": "10480",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_10480.json",
+        "negative_strings": [
+            "ptives",
+            "arcity",
+            "ptoms",
+            "nels",
+            "azine",
+            "enance",
+            "************",
+            "uncle",
+            "Drug",
+            "stract"
+        ],
+        "positive_strings": [
+            "omy",
+            "y",
+            " rabb",
+            "entimes",
+            "thodox",
+            " Patriarch",
+            " Judaism",
+            "osate",
+            " nomine",
+            "rophe"
+        ],
+        "description": "mentions of Orthodox Judaism and related topics"
+    },
+    {
+        "index": "22129",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_22129.json",
+        "negative_strings": [
+            "mson",
+            "neau",
+            " Lima",
+            "xit",
+            " Gutenberg",
+            " Hurricanes",
+            " Lisbon",
+            " Spartan",
+            "swick",
+            " Appalachian"
+        ],
+        "positive_strings": [
+            "inical",
+            " rabb",
+            " Judaism",
+            " rabbi",
+            "iah",
+            " Rabbi",
+            "inic",
+            "anyahu",
+            " Rabb",
+            "mud"
+        ],
+        "description": " references to religious figures and institutions, particularly within Judaism"
+    },
+    {
+        "index": "38388",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_38388.json",
+        "negative_strings": [
+            "lda",
+            "piece",
+            "IZE",
+            "stal",
+            " Mongolia",
+            " CONTROL",
+            "most",
+            "govtrack",
+            " Takeru",
+            "matched"
+        ],
+        "positive_strings": [
+            "abb",
+            "ucket",
+            "itt",
+            "abis",
+            "arre",
+            "azz",
+            "aii",
+            "its",
+            "arella",
+            "ias"
+        ],
+        "description": "references to religious practices and figures, particularly in Judaism"
+    },
+    {
+        "index": "36189",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_36189.json",
+        "negative_strings": [
+            "wagen",
+            "\u0138\u013c",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            " Lumpur",
+            "\u00e7\u0126",
+            " condem",
+            "EStreamFrame",
+            " blinded",
+            " philos",
+            " Elliott"
+        ],
+        "positive_strings": [
+            "ruct",
+            "essim",
+            "owship",
+            "emia",
+            "ructure",
+            "QL",
+            "aneous",
+            "emic",
+            "ateral",
+            "andise"
+        ],
+        "description": "religious and historical terms, particularly related to Judaism, Islam, and medieval Christian and Muslim countries"
+    },
+    {
+        "index": "31403",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_31403.json",
+        "negative_strings": [
+            " Gale",
+            "************",
+            "hig",
+            "Drug",
+            "ptoms",
+            "enance",
+            "ptives",
+            "arcity",
+            "nels",
+            "ORGE"
+        ],
+        "positive_strings": [
+            "thodox",
+            "\u00bb\u0134",
+            " Orthodox",
+            " satell",
+            " traged",
+            " rabb",
+            " nomine",
+            "orthodox",
+            "omy",
+            " Palestin"
+        ],
+        "description": "mentions of Orthodox religious beliefs and practices"
+    },
+    {
+        "index": "30476",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_30476.json",
+        "negative_strings": [
+            " Gale",
+            " hereafter",
+            "ptives",
+            "hig",
+            "arcity",
+            "************",
+            "advertising",
+            "\u00eb\u012d",
+            "enance",
+            "frame"
+        ],
+        "positive_strings": [
+            "thodox",
+            "orthodox",
+            " rabb",
+            "liction",
+            " satell",
+            "entimes",
+            "\u00bb\u0134",
+            " nomine",
+            "onite",
+            "ynski"
+        ],
+        "description": "references to different branches of Orthodox religious communities"
+    },
+    {
+        "index": "40625",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_40625.json",
+        "negative_strings": [
+            "rill",
+            "uzz",
+            "gars",
+            "ptoms",
+            "motion",
+            "strip",
+            "entin",
+            "azine",
+            " Keane",
+            "things"
+        ],
+        "positive_strings": [
+            " Judaism",
+            "ies",
+            " Church",
+            "hip",
+            " Jewish",
+            " Christian",
+            "CCC",
+            "sie",
+            "onite",
+            " theological"
+        ],
+        "description": " mentions of Orthodox Judaism or Orthodox Christians"
+    },
+    {
+        "index": "19571",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_19571.json",
+        "negative_strings": [
+            "ufact",
+            "\u00e2\u0139\u00bc",
+            "phrine",
+            "mint",
+            "netflix",
+            "inances",
+            "creation",
+            "inance",
+            "staking",
+            "cially"
+        ],
+        "positive_strings": [
+            "iya",
+            "iy",
+            "iaz",
+            "uga",
+            "ahoo",
+            "ye",
+            " Pwr",
+            "yah",
+            "gie",
+            "adh"
+        ],
+        "description": "quotes and textual content related to notable figures and political events"
+    },
+    {
+        "index": "17839",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_17839.json",
+        "negative_strings": [
+            "advertising",
+            "ptives",
+            " Rodham",
+            " Mongolia",
+            " Hurricanes",
+            " Wolver",
+            " Cheong",
+            " Nixon",
+            "riott",
+            " Skinner"
+        ],
+        "positive_strings": [
+            " rabb",
+            "\u00a3\u0131",
+            " arrang",
+            "itte",
+            "agog",
+            "y",
+            "onite",
+            "iggurat",
+            "ombat",
+            "itt"
+        ],
+        "description": "references to Orthodox Judaism"
+    },
+    {
+        "index": "34159",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_34159.json",
+        "negative_strings": [
+            " GOODMAN",
+            " Gutenberg",
+            " Wide",
+            " Goods",
+            " Burnett",
+            " Walters",
+            " Stretch",
+            " Goals",
+            "tenance",
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142"
+        ],
+        "positive_strings": [
+            "inical",
+            "rahim",
+            " rabb",
+            "aska",
+            "edi",
+            "istani",
+            "osate",
+            "mud",
+            "unal",
+            "eric"
+        ],
+        "description": " references to Jewish religious leaders and the concept of Judaism, particularly through the Torah"
+    },
+    {
+        "index": "11223",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_11223.json",
+        "negative_strings": [
+            "manship",
+            "fitting",
+            "fman",
+            "john",
+            "laughter",
+            "ensing",
+            "ense",
+            "advertising",
+            "lihood",
+            "hart"
+        ],
+        "positive_strings": [
+            " Reaper",
+            "naire",
+            " Canyon",
+            "thouse",
+            "naires",
+            "ists",
+            " Vault",
+            " Chamber",
+            "aries",
+            "ennett"
+        ],
+        "description": "religious and spiritual references, specifically related to Judaism and Islam"
+    },
+    {
+        "index": "34966",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_34966.json",
+        "negative_strings": [
+            "anqu",
+            "sworth",
+            "****************",
+            "enance",
+            "advertising",
+            "SON",
+            "nexus",
+            "oon",
+            "nih",
+            " Polk"
+        ],
+        "positive_strings": [
+            " actionGroup",
+            "ments",
+            " Judaism",
+            "ided",
+            " Seym",
+            "edIn",
+            "o\u00c4\u0141",
+            "\u00a5\u0140",
+            " piercing",
+            "thodox"
+        ],
+        "description": "references to Orthodox Judaism and its practices"
+    },
+    {
+        "index": "40647",
+        "layer": "2-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_40647.json",
+        "negative_strings": [
+            "etheless",
+            "atten",
+            "ctory",
+            "ocial",
+            "namese",
+            "ctica",
+            "ocal",
+            "ategory",
+            "terness",
+            "ction"
+        ],
+        "positive_strings": [
+            "ellery",
+            " Golem",
+            " Flask",
+            "fish",
+            "asus",
+            "matically",
+            " Druid",
+            " Gladiator",
+            " Alchemist",
+            "ebook"
+        ],
+        "description": " terms related to Judaism and its practitioners"
+    },
+    {
+        "index": "4121",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_4121.json",
+        "negative_strings": [
+            " Dakota",
+            "rolet",
+            " Peninsula",
+            "amaz",
+            " Stras",
+            " Afric",
+            "odium",
+            " eminent",
+            "alogue",
+            "hyde"
+        ],
+        "positive_strings": [
+            "ers",
+            "eries",
+            "itivity",
+            "ername",
+            "erd",
+            "seq",
+            "encer",
+            "enthal",
+            "inals",
+            "ingen"
+        ],
+        "description": "references to religious and cultural topics, especially related to Judaism and Christianity, as well as some geographical locations"
+    },
+    {
+        "index": "4121",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_4121.json",
+        "negative_strings": [
+            " Dakota",
+            "rolet",
+            " Peninsula",
+            "amaz",
+            " Stras",
+            " Afric",
+            "odium",
+            " eminent",
+            "alogue",
+            "hyde"
+        ],
+        "positive_strings": [
+            "ers",
+            "eries",
+            "itivity",
+            "ername",
+            "erd",
+            "seq",
+            "encer",
+            "enthal",
+            "inals",
+            "ingen"
+        ],
+        "description": "references to religious and cultural topics, especially related to Judaism and Christianity, as well as some geographical locations"
+    },
+    {
+        "index": "29674",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/judaism/data_for_feature_29674.json",
+        "negative_strings": [
+            " Andromeda",
+            " Xue",
+            " Hale",
+            " Sov",
+            " Morse",
+            "itious",
+            " linger",
+            " Pok",
+            " Freak",
+            " corpus"
+        ],
+        "positive_strings": [
+            "illus",
+            "Values",
+            "intosh",
+            "alg",
+            "dimensional",
+            "agn",
+            "valued",
+            "esp",
+            "utan",
+            "strength"
+        ],
+        "description": "religious or philosophical terms related to Judaism or similar concepts"
+    }
+]

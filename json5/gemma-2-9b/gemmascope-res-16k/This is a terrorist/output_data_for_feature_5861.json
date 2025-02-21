@@ -1,0 +1,30 @@
+{
+    "index": "5861",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a terrorist/data_for_feature_5861.json",
+    "negative_strings": [
+        "insegna",
+        "\u2581Racing",
+        "altezza",
+        "\u2581enfans",
+        "\u2581munka",
+        "\u2581racing",
+        "\u2581artificiales",
+        "ssysteme",
+        "\u2581rolled",
+        "\u2581raced"
+    ],
+    "positive_strings": [
+        "\u2581terrorist",
+        "terror",
+        "\u2581militant",
+        "\u2581terrorists",
+        "\u2581terrorism",
+        "\u2581terror",
+        "\u2581Terror",
+        "\u2581guerrilla",
+        "\u2581militants",
+        "\u2581organizations"
+    ],
+    "description": " references to terrorist organizations or activities"
+}

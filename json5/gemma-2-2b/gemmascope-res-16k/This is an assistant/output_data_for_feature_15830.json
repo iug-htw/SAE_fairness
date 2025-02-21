@@ -1,0 +1,30 @@
+{
+    "index": "15830",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is an assistant/data_for_feature_15830.json",
+    "negative_strings": [
+        "\u2581AssemblyProduct",
+        "myModal",
+        "\u70ef",
+        "tituzione",
+        "formData",
+        "\u24d8",
+        "\u2581quede",
+        "\u2581egentligen",
+        "\u2581dimaksud",
+        "Nations"
+    ],
+    "positive_strings": [
+        "TargetException",
+        "\u2581plea\u017fure",
+        "MethodManager",
+        "\u2581IBOutlet",
+        "RemoteException",
+        "-------------</",
+        "twimg",
+        "ficulty",
+        "__\":\r",
+        "\u2581\u0648\u064a\u0643\u064a\u067e\u064a\u062f\u064a\u0627"
+    ],
+    "description": "references to individuals in assistant or deputy positions across various contexts"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "102623",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_102623.json",
+    "negative_strings": [
+        "\u2581istr",
+        "racked",
+        "\u2581Hela",
+        "proven",
+        "\u2581Kron",
+        "\u2581Ender",
+        "\u2581Stellar",
+        "\u2581Hannibal",
+        "\u2581elemental",
+        "\u2581XY"
+    ],
+    "positive_strings": [
+        "\u2581mosque",
+        "\u2581Mosque",
+        "\u2581mosques",
+        "\u2581masjid",
+        "\u2581Masjid",
+        "\u2581synagogue",
+        "\u2581\u0645\u0633\u062c\u062f",
+        "\u2581Synagogue",
+        "\u2581church",
+        "\u2581churches"
+    ],
+    "description": "references to places of worship"
+}

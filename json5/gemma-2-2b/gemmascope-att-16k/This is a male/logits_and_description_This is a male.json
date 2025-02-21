@@ -1,0 +1,62 @@
+[
+    {
+        "index": "2114",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a male/data_for_feature_2114.json",
+        "negative_strings": [
+            "\u2581lenker",
+            "Hozz\u00e1f\u00e9r\u00e9s",
+            "PerformLayout",
+            "\u2581(;;",
+            "\u2581Audiodateien",
+            "OptionsMenu",
+            "\u2581localObject",
+            "\u2581\ub54c\ubb38",
+            "Gru\u00df",
+            "\u2581aload"
+        ],
+        "positive_strings": [
+            "\u062a\u0642\u0627\u0648\u0649",
+            "\u064a\u0643\u0628",
+            "ItemBackground",
+            "SharedCtor",
+            "SharedDtor",
+            "MessageOf",
+            "ADN",
+            "ImageField",
+            "///</",
+            "addCriterion"
+        ],
+        "description": " attends to affirmative phrases from contrasting, qualifying phrases"
+    },
+    {
+        "index": "12729",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a male/data_for_feature_12729.json",
+        "negative_strings": [
+            "\u2581female",
+            "\u2581Female",
+            "\u2581male",
+            "\u2581\u0643\u0648\u0645\u0648\u0646\u0632",
+            "male",
+            "female",
+            "\u2581FEMALE",
+            "Male",
+            "Female",
+            "\u2581Male"
+        ],
+        "positive_strings": [
+            "RectangleBorder",
+            "sizeCache",
+            "\u7701\u5e02\u9547",
+            "\u2581disambiguazione",
+            "\u2581utafitiHapana",
+            "\u2581EconPapers",
+            "LookAnd",
+            "\u2581typelib",
+            "Odour",
+            "SizeF"
+        ],
+        "description": " attends to female-related tokens from various contexts mentioned later"
+    }
+]

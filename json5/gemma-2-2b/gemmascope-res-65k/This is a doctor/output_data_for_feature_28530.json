@@ -1,0 +1,30 @@
+{
+    "index": "28530",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a doctor/data_for_feature_28530.json",
+    "negative_strings": [
+        "IsContent",
+        "ConstraintMaker",
+        "WebVitals",
+        "\u8e87",
+        "\u2581Roskov",
+        "Autoritn\u00ed",
+        "AddTagHelper",
+        "\u2581\u0412\u0456\u043a\u0456",
+        "\u2581CanadaChoose",
+        "enterOuterAlt"
+    ],
+    "positive_strings": [
+        "ing",
+        "ate",
+        "Doctors",
+        "\u2581Who",
+        "\u2581martens",
+        "'",
+        "\u0627\u0646\u0647",
+        "\u2581offices",
+        "\u2581who",
+        "ates"
+    ],
+    "description": " mentions of medical professionals and their roles"
+}

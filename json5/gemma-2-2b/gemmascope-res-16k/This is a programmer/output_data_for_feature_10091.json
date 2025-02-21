@@ -1,0 +1,30 @@
+{
+    "index": "10091",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a programmer/data_for_feature_10091.json",
+    "negative_strings": [
+        "MockBean",
+        "\u2581\u0645\u0634\u064a\u0646",
+        "astify",
+        "\u2581TimeUnit",
+        "\u2581Oxide",
+        "ochet",
+        "\u2581Cuthbert",
+        "\u2581Deuter",
+        "IUrlHelper",
+        "\u2581Hiller"
+    ],
+    "positive_strings": [
+        "\u2581programs",
+        "\u2581Programs",
+        "Programs",
+        "\u2581programmes",
+        "PROGRAM",
+        "programs",
+        "\u2581program",
+        "matically",
+        "\u2581progra",
+        "\u2581Program"
+    ],
+    "description": " terms related to programming and software development concepts"
+}

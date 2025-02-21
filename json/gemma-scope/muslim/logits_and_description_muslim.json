@@ -1,0 +1,338 @@
+[
+    {
+        "index": "50400",
+        "layer": "38-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_50400.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A prefix often referring to \"Music\", \"Muslim\", or \"Muscle\"."
+    },
+    {
+        "index": "30609",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_30609.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "A descriptive term of a religion or a religious group (mainly \"Islamic\", but also \"Buddhist\", \"Christian\", \"Torah\", \"Muslim\", \"Hellenic\", \"Coptic\", \"Jihad\", \"Sharia\", or \"Islamist\") is used as an adjective to describe a noun or an institution."
+    },
+    {
+        "index": "5960",
+        "layer": "36-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_5960.json",
+        "negative_strings": [
+            "webElementXpaths",
+            "\u2581snippetHide",
+            "\u24e7",
+            "addCriterion",
+            "\u2581referrerpolicy",
+            "ActionCreators",
+            "DrawerToggle",
+            "sizeCache",
+            "\ue738",
+            "aarrggbb"
+        ],
+        "positive_strings": [
+            "\u2581mus",
+            "\u2581Mus",
+            "\u2581MUS",
+            "Mus",
+            "\u2581Mos",
+            "\u2581mos",
+            "\u2581Muss",
+            "mus",
+            "Mos",
+            "\u2581Musk"
+        ],
+        "description": "Tokens containing the \"mus\", \"mos\", or \"mou\" sequence, often part of the words \"Muslim\", \"mosquito\", or \"mouse\", but also found in other words such as \"muscle\", \"museum\", \"music\", and proper nouns like \"Mossa\", \"Moussa\", \"Monsanto\", or \"Mouneer\"."
+    },
+    {
+        "index": "82288",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_82288.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The sequence often contains an incomplete word, especially one that is the beginning of the word \"music\", \"muscle\", \"muse\", \"Muslim\", or \"must\"."
+    },
+    {
+        "index": "78616",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_78616.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Frequent mention of geographic locations, specifically countries in the Middle East and North Africa, such as Egypt, Iran, and Israel, and organizations or groups associated with these regions, including the Muslim Brotherhood and Hamas."
+    },
+    {
+        "index": "75863",
+        "layer": "34-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_75863.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The token \"mus\" often appears as a suffix or part of words like \"musings\", \"muscle\", \"muslim\", \"musculoskeletal\", and \"music\", and is often used in names of people, places, or concepts, particularly in the context of science, philosophy, and culture."
+    },
+    {
+        "index": "121335",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/muslim/data_for_feature_121335.json",
+        "negative_strings": [
+            "oredCriteria",
+            "AnchorTagHelper",
+            "enumii",
+            "\u2581\u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629",
+            "\u2581Museo",
+            "adaptiveStyles",
+            "WebVitals",
+            "\u2581Muslim",
+            "yours",
+            "effects"
+        ],
+        "positive_strings": [
+            "\u2581Brotherhood",
+            "majority",
+            "\u2581Um",
+            "\u2581majority",
+            "\u2581brotherhood",
+            "\u2581countries",
+            "\u2581League",
+            "\u2581prayers",
+            "\u2581um",
+            "\u2581cleric"
+        ],
+        "description": "references to Muslims and related terms"
+    },
+    {
+        "index": "6922",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_6922.json",
+        "negative_strings": [
+            "\u24e7",
+            "ActionCreators",
+            "addCriterion",
+            "\u2581referrerpolicy",
+            "\u2581Chaco",
+            "AnchorStyles",
+            "Ford\u00edt\u00e1s",
+            "parsedMessage",
+            "otheek",
+            "tors"
+        ],
+        "positive_strings": [
+            "\u2581Mus",
+            "\u2581mus",
+            "\u2581MUS",
+            "Mus",
+            "\u2581Muss",
+            "mus",
+            "MUS",
+            "\u2581Mos",
+            "\u2581Musk",
+            "\u2581Musa"
+        ],
+        "description": "Common words include: \"Muslim\", \"Museum\", \"Mouse\", \"Muscle\", \"Muse\", \"Mou\", \"Must\", \"Music\", \"Musical\", \"Moscow\", and \"Mosquitoes\", often referring to cultural or scientific organizations and concepts."
+    },
+    {
+        "index": "61160",
+        "layer": "39-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_61160.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to \"Muslim\" or \"Islamic\" in various contexts, often in relation to cultural, social, or political topics."
+    },
+    {
+        "index": "4182",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_4182.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to Islam and Muslims, often used as nouns or adjectives to describe people, countries, or cultures associated with the Islamic faith."
+    },
+    {
+        "index": "69090",
+        "layer": "39-gemmascope-res-131k",
+        "url": "json/gemma-scope/muslim/data_for_feature_69090.json",
+        "negative_strings": [
+            "\u2581mutiara",
+            "\u2581betreft",
+            "\u2581islas",
+            "\u2581berlaku",
+            "\u2581ge\u00efsole",
+            "\u2581alkoholu",
+            "AnchorTagHelper",
+            "\u2581Beweis",
+            "\u2581K\u00fcste",
+            "\u2581meille"
+        ],
+        "positive_strings": [
+            "\u2581Brotherhood",
+            "\u2581Um",
+            "\u2581cler",
+            "majority",
+            "\u2581League",
+            "\u2581civi",
+            "\u2581cleric",
+            "\u2581countries",
+            "\u2581brotherhood",
+            "\u2581majority"
+        ],
+        "description": "references to Muslims and Islam-related contexts"
+    },
+    {
+        "index": "65604",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/muslim/data_for_feature_65604.json",
+        "negative_strings": [
+            "AnchorTagHelper",
+            "WebVitals",
+            "\u0631\u0634\u0641",
+            "oredCriteria",
+            "\u2581Museo",
+            "enumii",
+            "ForResult",
+            "\u2581\u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629",
+            "\u2581guste",
+            "muse"
+        ],
+        "positive_strings": [
+            "\u2581Brotherhood",
+            "\u2581countries",
+            "\u2581Um",
+            "\u2581brotherhood",
+            "\u2581faith",
+            "majority",
+            "\u2581convert",
+            "\u2581majority",
+            "\u2581prayers",
+            "\u2581cleric"
+        ],
+        "description": " mentions of \"Muslim\" in various contexts"
+    },
+    {
+        "index": "28756",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_28756.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Common references to Islam, Islamic, or Muslim, often used in discussions, comparisons, or descriptions of the faith and its relation to politics, identity, or social issues."
+    },
+    {
+        "index": "1278",
+        "layer": "35-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_1278.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Frequent mentions of \"Islam\", \"Islamic\", and related words, often in contexts discussing Muslim societies, politics, and culture, or references to specific countries or organizations with predominantly Muslim populations."
+    },
+    {
+        "index": "10475",
+        "layer": "40-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_10475.json",
+        "negative_strings": [
+            "\u2581Wiktionnaire",
+            "\u2581doInBackground",
+            "intenant",
+            "gantung",
+            "berdayakan",
+            "nobyl",
+            "\u2581nakalista",
+            "\u2581propOrder",
+            "\u2581chilen",
+            "\u2581u\u017e\u00ed"
+        ],
+        "positive_strings": [
+            "\u2581Muslim",
+            "\u2581Islamic",
+            "\u2581Muslims",
+            "\u2581Islam",
+            "Muslim",
+            "Islamic",
+            "Islam",
+            "Muslims",
+            "\u2581muslim",
+            "\u2581musul"
+        ],
+        "description": "References to Islamic culture, countries with significant Muslim populations, and related concepts, often in contexts discussing politics, society, and international relations."
+    },
+    {
+        "index": "197",
+        "layer": "36-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_197.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to Muslims or Islam."
+    },
+    {
+        "index": "7618",
+        "layer": "32-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_7618.json",
+        "negative_strings": [
+            "\u24e7",
+            "ActionCreators",
+            "\u2581referrerpolicy",
+            "addCriterion",
+            "Ford\u00edt\u00e1s",
+            "Referenties",
+            "\u2581kombinasi",
+            "Erfolge",
+            "\u043f\u0435\u0440\u044c",
+            "########."
+        ],
+        "positive_strings": [
+            "\u2581mus",
+            "\u2581Mus",
+            "\u2581MUS",
+            "Mus",
+            "\u2581Muss",
+            "\u2581Musk",
+            "\u2581MOS",
+            "\u2581Mos",
+            "mus",
+            "MUS"
+        ],
+        "description": "A \"mus\" sound often appears in words representing the idea of a place for the display and preservation of objects, or several names of individuals, or other miscellaneous words such as \"muscle\", \"muslin\", \"mouse\", \"mosque\", \"must\", or \"muslims\"."
+    },
+    {
+        "index": "1125",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_1125.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The term \"Muslim\" or its variants (\"Moslem\", \"muslim\") often referring to people who practice Islam, frequently used as a noun or adjective in various contexts, including discussions of politics, society, and culture."
+    },
+    {
+        "index": "86790",
+        "layer": "37-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/muslim/data_for_feature_86790.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Adjectives and nouns associated with specific world religions or belief systems, referencing the Islamic, Muslim, Islamist, Buddhist, Christian, Jewish, Hellenic, Episcopal, and Shi'ite faiths or ideologies."
+    },
+    {
+        "index": "84089",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/muslim/data_for_feature_84089.json",
+        "negative_strings": [
+            "\u2581mutiara",
+            "\u2581guste",
+            "\u2581Wikiseite",
+            "\u2581lunak",
+            "sweise",
+            "\u2581ge\u00efsole",
+            "\u2581Gerechtigkeit",
+            "\u2581alkoholu",
+            "\u2581zijne",
+            "\u2581berlaku"
+        ],
+        "positive_strings": [
+            "\u2581Brotherhood",
+            "\u2581cler",
+            "majority",
+            "\u2581cleric",
+            "\u2581countries",
+            "\u2581community",
+            "\u2581Um",
+            "\u2581communities",
+            "\u2581civi",
+            "\u2581majority"
+        ],
+        "description": "references to the Muslim community or Islam"
+    }
+]

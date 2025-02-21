@@ -1,0 +1,30 @@
+{
+    "index": "909",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a church/data_for_feature_909.json",
+    "negative_strings": [
+        "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+        "Diweddarwch",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "\u2581railroads",
+        "\u2581vulcan",
+        "avadoc",
+        "gl\u0119d",
+        "!(\"{",
+        "cret",
+        "})$}"
+    ],
+    "positive_strings": [
+        "\u2581worship",
+        "\u2581Sunday",
+        "Sunday",
+        "\u2581services",
+        "\u2581Worship",
+        "worship",
+        "Worship",
+        "\u2581Sundays",
+        "\u2581sanctuary",
+        "\u2581worshipped"
+    ],
+    "description": "references to church activities and community events"
+}

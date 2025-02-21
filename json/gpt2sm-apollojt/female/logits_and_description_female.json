@@ -1,0 +1,602 @@
+[
+    {
+        "index": "24632",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_24632.json",
+        "negative_strings": [
+            "VICE",
+            " proposition",
+            "ERSON",
+            "REDACTED",
+            " mono",
+            "enance",
+            " retard",
+            "IVERS",
+            "gerald",
+            " srfAttach"
+        ],
+        "positive_strings": [
+            "endez",
+            "orah",
+            "cius",
+            "ager",
+            "opausal",
+            "acing",
+            "iscal",
+            "omon",
+            "stru",
+            "aced"
+        ],
+        "description": "references to male and female athletes or teams"
+    },
+    {
+        "index": "36272",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_36272.json",
+        "negative_strings": [
+            "rieve",
+            "ting",
+            "ierrez",
+            "REAM",
+            "rete",
+            "endered",
+            "OUT",
+            "redo",
+            "rays",
+            "sheet"
+        ],
+        "positive_strings": [
+            "ological",
+            "ology",
+            "archy",
+            "ity",
+            "auts",
+            "cles",
+            "stru",
+            "thia",
+            "orr",
+            "\u012a\u00e8"
+        ],
+        "description": " words related to female identity and representation"
+    },
+    {
+        "index": "37230",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_37230.json",
+        "negative_strings": [
+            " dece",
+            " abiding",
+            "ively",
+            " Cuomo",
+            " WARN",
+            " counseling",
+            " Barn",
+            " perks",
+            " rav",
+            " incub"
+        ],
+        "positive_strings": [
+            "antle",
+            "urs",
+            "puter",
+            "orp",
+            "ilit",
+            "mson",
+            "ldom",
+            "dom",
+            "ming",
+            "inity"
+        ],
+        "description": " terms related to gender and female representation"
+    },
+    {
+        "index": "17036",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_17036.json",
+        "negative_strings": [
+            "hemy",
+            "rieg",
+            "krit",
+            "ypes",
+            "raltar",
+            "ozy",
+            "vous",
+            "akespe",
+            "uden",
+            "lov"
+        ],
+        "positive_strings": [
+            "volent",
+            " genital",
+            " empowerment",
+            " reproductive",
+            " genitals",
+            " menstrual",
+            " emancipation",
+            " counterparts",
+            " assassins",
+            " infertility"
+        ],
+        "description": "references to gender, specifically females and related gender dynamics"
+    },
+    {
+        "index": "23672",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_23672.json",
+        "negative_strings": [
+            "enegger",
+            "ours",
+            "staff",
+            "-+-+",
+            "nir",
+            "ierrez",
+            "asters",
+            "reek",
+            "redo",
+            "rance"
+        ],
+        "positive_strings": [
+            " Karen",
+            " Maria",
+            "oice",
+            "isle",
+            " Nicole",
+            "abel",
+            "Anna",
+            "esthesia",
+            "uthor",
+            " Elsa"
+        ],
+        "description": "female names, with a particular focus on the name \"Anna\""
+    },
+    {
+        "index": "36570",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_36570.json",
+        "negative_strings": [
+            " tyr",
+            " stewards",
+            " enthusi",
+            "perty",
+            " appre",
+            "\u00c3\u0125\u00c3\u0124",
+            " destro",
+            "\u00a9\u00b6\u00e6",
+            "quished",
+            " eleph"
+        ],
+        "positive_strings": [
+            " Jill",
+            " Fiorina",
+            " Pelosi",
+            "Jane",
+            " Sunshine",
+            " Carol",
+            " Olympia",
+            " Chal",
+            " Pier",
+            " Mary"
+        ],
+        "description": " references to female characters and figures in the Marvel universe"
+    },
+    {
+        "index": "27318",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_27318.json",
+        "negative_strings": [
+            "lov",
+            "hemy",
+            "vous",
+            "uden",
+            "etsk",
+            "anwhile",
+            "leans",
+            "akespe",
+            "ozy",
+            "rieg"
+        ],
+        "positive_strings": [
+            "volent",
+            " genital",
+            " empowerment",
+            " female",
+            " Female",
+            " reproductive",
+            " Male",
+            " genitals",
+            " sexuality",
+            " females"
+        ],
+        "description": " references to female characters and their roles or representations"
+    },
+    {
+        "index": "8818",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_8818.json",
+        "negative_strings": [
+            "church",
+            "kefeller",
+            "~~~~",
+            "ugu",
+            " Disclosure",
+            "atory",
+            " Jindal",
+            "urnal",
+            "aber",
+            " Skydragon"
+        ],
+        "positive_strings": [
+            "pher",
+            "pherd",
+            "athed",
+            "pard",
+            "ffield",
+            "ppard",
+            "athing",
+            "'ll",
+            "'d",
+            "itage"
+        ],
+        "description": "personal experiences or stories related to intimate or sensitive situations involving relationships"
+    },
+    {
+        "index": "4218",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_4218.json",
+        "negative_strings": [
+            " proprietary",
+            " leve",
+            " corrosion",
+            " ful",
+            "wcsstore",
+            " reins",
+            " proceedings",
+            " bindings",
+            " explan",
+            " parcels"
+        ],
+        "positive_strings": [
+            "ikini",
+            "odies",
+            "ionic",
+            "ummer",
+            "izarre",
+            "itch",
+            "wana",
+            "unny",
+            "achel",
+            "ambo"
+        ],
+        "description": " mentions of women and female performers in a cultural or entertainment context"
+    },
+    {
+        "index": "19562",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_19562.json",
+        "negative_strings": [
+            "strom",
+            "icone",
+            "hari",
+            "alan",
+            "ere",
+            "SPONSORED",
+            "thouse",
+            "esters",
+            "stairs",
+            "Layer"
+        ],
+        "positive_strings": [
+            " possibility",
+            " dangers",
+            " importance",
+            " merits",
+            " viability",
+            " feasibility",
+            " legality",
+            " adequ",
+            " whereabouts",
+            " usefulness"
+        ],
+        "description": " phrases or words that highlight topics of discussion related to female representation in the film industry"
+    },
+    {
+        "index": "42614",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_42614.json",
+        "negative_strings": [
+            "daq",
+            "Additional",
+            "aura",
+            "ibaba",
+            "ategory",
+            "Interstitial",
+            " sidx",
+            "ription",
+            "isites",
+            "aundering"
+        ],
+        "positive_strings": [
+            " lot",
+            " guy",
+            " person",
+            " politician",
+            "rouse",
+            " beginner",
+            " teenager",
+            " seasoned",
+            " newcomer",
+            " bunch"
+        ],
+        "description": " references to female characters and their roles in narratives"
+    },
+    {
+        "index": "26222",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_26222.json",
+        "negative_strings": [
+            "ozy",
+            "venants",
+            "oned",
+            "asper",
+            " eleph",
+            "ategory",
+            "ORPG",
+            "abul",
+            "ypes",
+            "uyomi"
+        ],
+        "positive_strings": [
+            " Rodham",
+            " herself",
+            " Jane",
+            " Ann",
+            " Merkel",
+            " Rouse",
+            " Anne",
+            " Thatcher",
+            " Louise",
+            " May"
+        ],
+        "description": "mentions of prominent female individuals in political contexts"
+    },
+    {
+        "index": "24222",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_24222.json",
+        "negative_strings": [
+            "ramid",
+            "aturdays",
+            "keyes",
+            "rm",
+            "alion",
+            "undown",
+            "plom",
+            "ipers",
+            "aird",
+            "brids"
+        ],
+        "positive_strings": [
+            " Louise",
+            " Keller",
+            " Sloan",
+            " DeVos",
+            " Helen",
+            " Cald",
+            " Thatcher",
+            " Jane",
+            "ously",
+            " Osc"
+        ],
+        "description": "references to prominent female figures"
+    },
+    {
+        "index": "28957",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_28957.json",
+        "negative_strings": [
+            "ense",
+            "isations",
+            "emi",
+            "sheets",
+            "hens",
+            "ignty",
+            "staking",
+            "ciation",
+            "eker",
+            "ISSION"
+        ],
+        "positive_strings": [
+            "rants",
+            "rant",
+            "inally",
+            "aries",
+            " vag",
+            "adal",
+            "rors",
+            "ansas",
+            "ran",
+            "otomy"
+        ],
+        "description": " terms related to female anatomy, specifically referencing the vagina and its variations"
+    },
+    {
+        "index": "10032",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_10032.json",
+        "negative_strings": [
+            "ned",
+            "VERTISEMENT",
+            "agher",
+            "nings",
+            "ahime",
+            "zig",
+            "vernment",
+            "tering",
+            "fleet",
+            "nit"
+        ],
+        "positive_strings": [
+            " Cec",
+            "ilia",
+            "ktop",
+            "\u00e3\u0124\u00a2\u00e3\u0125\u00ab",
+            "aii",
+            " Aires",
+            " traged",
+            "reon",
+            "kai",
+            "pter"
+        ],
+        "description": "names of individuals, particularly female names"
+    },
+    {
+        "index": "40953",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_40953.json",
+        "negative_strings": [
+            "ype",
+            "arios",
+            "ornia",
+            "ypes",
+            "kefeller",
+            "eers",
+            "ozy",
+            "ocument",
+            "brush",
+            "eering"
+        ],
+        "positive_strings": [
+            " own",
+            "ding",
+            " daughter",
+            " Majesty",
+            "metic",
+            "itage",
+            "self",
+            " favorite",
+            "cule",
+            "nia"
+        ],
+        "description": "references to specific female individuals in various contexts"
+    },
+    {
+        "index": "18244",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_18244.json",
+        "negative_strings": [
+            "ypes",
+            "ozy",
+            "ype",
+            "ablishment",
+            "uminati",
+            "\u00c2\u00b1",
+            "uck",
+            "anamo",
+            "eers",
+            "ornia"
+        ],
+        "positive_strings": [
+            " own",
+            "ding",
+            "itage",
+            "metic",
+            " favorite",
+            " favourite",
+            " daughter",
+            " knees",
+            " granddaughter",
+            "ded"
+        ],
+        "description": "mentions of a specific female character in different contexts, such as discussing her actions, relationships, or situations involving her"
+    },
+    {
+        "index": "7962",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_7962.json",
+        "negative_strings": [
+            "quickShipAvailable",
+            "anqu",
+            " GOODMAN",
+            "steen",
+            "tyard",
+            "ONSORED",
+            "weet",
+            "bour",
+            "rieg",
+            "resp"
+        ],
+        "positive_strings": [
+            " genital",
+            " genitals",
+            " herpes",
+            "ococ",
+            "cised",
+            " circumcised",
+            " circumcision",
+            " vagina",
+            "cision",
+            " penis"
+        ],
+        "description": "terms related to female genital mutilation and medical conditions related to genitals"
+    },
+    {
+        "index": "28385",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_28385.json",
+        "negative_strings": [
+            "soDeliveryDate",
+            "gradient",
+            " antioxid",
+            "sequence",
+            "esters",
+            "krit",
+            "plain",
+            "authent",
+            " psychedelic",
+            "falls"
+        ],
+        "positive_strings": [
+            "ilia",
+            "\"},\"",
+            "zzi",
+            "ttes",
+            "zza",
+            "utics",
+            " Dise",
+            "phia",
+            "waukee",
+            " Mb"
+        ],
+        "description": "female names ending in 'ilia'"
+    },
+    {
+        "index": "8818",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/female/data_for_feature_8818.json",
+        "negative_strings": [
+            "church",
+            "kefeller",
+            "~~~~",
+            "ugu",
+            " Disclosure",
+            "atory",
+            " Jindal",
+            "urnal",
+            "aber",
+            " Skydragon"
+        ],
+        "positive_strings": [
+            "pher",
+            "pherd",
+            "athed",
+            "pard",
+            "ffield",
+            "ppard",
+            "athing",
+            "'ll",
+            "'d",
+            "itage"
+        ],
+        "description": "personal experiences or stories related to intimate or sensitive situations involving relationships"
+    }
+]

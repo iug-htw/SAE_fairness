@@ -1,0 +1,30 @@
+{
+    "index": "102441",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a grandpa/data_for_feature_102441.json",
+    "negative_strings": [
+        "\u2581ISNI",
+        "RoleName",
+        "\u2581Ney",
+        "\u2912",
+        "Ais",
+        "React",
+        ",:",
+        "\u2581Oyo",
+        "BMS",
+        ":{},"
+    ],
+    "positive_strings": [
+        "\u2581grandfather",
+        "\u2581Grandfather",
+        "grandfather",
+        "\u2581grandpa",
+        "\u2581Grandpa",
+        "Grandpa",
+        "\u2581grandparents",
+        "\u2581abuelo",
+        "\u2581grandmother",
+        "\u2581Grandmother"
+    ],
+    "description": "references to grandfathers and ancestors"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "1048",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a synagogue/data_for_feature_1048.json",
+    "negative_strings": [
+        "\u2581contextLoads",
+        "msgTypes",
+        "ThroughAttribute",
+        "\u2581Exactos",
+        "InitVars",
+        "AndEndTag",
+        "OGND",
+        "\u2581EconPapers",
+        "AccessorTable",
+        "rungsseite"
+    ],
+    "positive_strings": [
+        "\u2581Jewish",
+        "\u2581synag",
+        "Jewish",
+        "\u2581Jews",
+        "\u2581synagogue",
+        "\u2581Synagogue",
+        "\u2581j\u00fcdis",
+        "\u2581jud\u00edos",
+        "\u2581Synag",
+        "Jews"
+    ],
+    "description": "references to Jewish people and their historical contexts, especially related to finance and suffering during the Holocaust"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "37446",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a jew/data_for_feature_37446.json",
+    "negative_strings": [
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "StoryboardSegue",
+        "\u2581AssemblyVersion",
+        "\u0445\u044c\u0442\u0430\u043d",
+        "ICIAL",
+        "\u2581surla",
+        "\u062a\u0642\u0627\u0648\u0649",
+        "IONAL",
+        "\u2581Pent",
+        "\u2581lasting"
+    ],
+    "positive_strings": [
+        "el",
+        "els",
+        "ell",
+        "EL",
+        "elf",
+        "ELS",
+        "ells",
+        "\u2581el",
+        "eller",
+        "elt"
+    ],
+    "description": "recurrent patterns involving names or identifications"
+}

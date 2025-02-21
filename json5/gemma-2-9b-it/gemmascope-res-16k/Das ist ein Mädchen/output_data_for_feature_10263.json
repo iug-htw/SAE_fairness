@@ -1,0 +1,30 @@
+{
+    "index": "10263",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein M\u00e4dchen/data_for_feature_10263.json",
+    "negative_strings": [
+        "\u2581CreateTagHelper",
+        "\u65e5\u95b2\u89a7",
+        "\u0411\u0456\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
+        "andam",
+        "Hozz\u00e1f\u00e9r\u00e9s",
+        "\u2581nonUne",
+        "genic",
+        "TypeError",
+        "WritableDatabase",
+        "\u2581chi\u030dt"
+    ],
+    "positive_strings": [
+        "\u2581name",
+        "\u2581names",
+        "\u2581Name",
+        "name",
+        "\u2581NAME",
+        "\u2581naam",
+        "\u2581Namen",
+        "\u2581\uc774\ub984",
+        "Name",
+        "\u540d\u79f0"
+    ],
+    "description": " details related to names and naming instances within various contexts"
+}

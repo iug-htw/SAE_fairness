@@ -1,0 +1,30 @@
+{
+    "index": "89028",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a nurse/data_for_feature_89028.json",
+    "negative_strings": [
+        "\u2581betweenstory",
+        "\u2581Winaray",
+        "complexContent",
+        "SequentialGroup",
+        "\u2581contextLoads",
+        "reportWebVitals",
+        "LinkId",
+        "ormais",
+        "\u2581AssemblyVersion",
+        "Tikang"
+    ],
+    "positive_strings": [
+        "\u2581manager",
+        "administrator",
+        "\u2581administrator",
+        "\u2581worker",
+        "\u2581officer",
+        "\u2581marketer",
+        "\u2581MANAGER",
+        "Administrator",
+        "\u2581clerk",
+        "\u2581physician"
+    ],
+    "description": "words that relate to various job titles and professional roles"
+}

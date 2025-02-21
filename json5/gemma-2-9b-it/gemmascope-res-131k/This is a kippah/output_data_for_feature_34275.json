@@ -1,0 +1,30 @@
+{
+    "index": "34275",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_34275.json",
+    "negative_strings": [
+        "\ufeff/*",
+        "\ufeff/**",
+        "RTDA",
+        "')\";",
+        "\u2581BorderSide",
+        "prijs",
+        "userdetails",
+        "})()",
+        "tvguidetime",
+        "\u2581BoxDecoration"
+    ],
+    "positive_strings": [
+        "pable",
+        "nop",
+        "\u2581Jep",
+        "\u2581Kip",
+        "\u2581EconPapers",
+        "pe",
+        "rap",
+        "\u2581Arp",
+        "yp",
+        "pement"
+    ],
+    "description": "proper nouns and acronyms related to organizations or entities"
+}

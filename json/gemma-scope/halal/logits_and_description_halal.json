@@ -1,0 +1,404 @@
+[
+    {
+        "index": "104240",
+        "layer": "31-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_104240.json",
+        "negative_strings": [
+            "KommentareTeilen",
+            "afficheront",
+            "\u2581MotionEvent",
+            "chargez",
+            "\u2581introductions",
+            "\u0648\u0644\u0648\u0698\u06cc",
+            "others",
+            "intios",
+            "LAHOMA",
+            "Digitized"
+        ],
+        "positive_strings": [
+            "Halo",
+            "Hal",
+            "\u2581hal",
+            "\u2581Halo",
+            "\u2581Hal",
+            "\u2581HAL",
+            "rungsseite",
+            "\u2581Hale",
+            "\u2581halo",
+            "\u2581Hald"
+        ],
+        "description": " references to the word \"Hallelujah\" and related terms like \"halo\" and \"Halal\""
+    },
+    {
+        "index": "16108",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_16108.json",
+        "negative_strings": [
+            "intios",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581estekak",
+            "UserScript",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581wireType",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "parsedMessage",
+            "\u2581betweenstory",
+            "afficheront"
+        ],
+        "positive_strings": [
+            "Halo",
+            "\u2581Halo",
+            "Hal",
+            "\u2581Hal",
+            "\u2581HAL",
+            "HAL",
+            "hal",
+            "\u2581halo",
+            "lujah",
+            "\u2581halide"
+        ],
+        "description": " references to halo and halal concepts in the document"
+    },
+    {
+        "index": "83575",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_83575.json",
+        "negative_strings": [
+            "\u2581NavController",
+            "Tikang",
+            "\u2581atasan",
+            "PostBack",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "Haiti",
+            "\u017felf",
+            "\u2581comunicaciones",
+            "\u2581OnInit",
+            "\u2581fhew"
+        ],
+        "positive_strings": [
+            "\u2581Islamic",
+            "Islamic",
+            "\u2581Shari",
+            "\u2581halal",
+            "\u2581Halal",
+            "\u2581Sh",
+            "\u2581suk",
+            "\u2581Suk",
+            "\u2581Taka",
+            "islamic"
+        ],
+        "description": " references to halal practices and regulations"
+    },
+    {
+        "index": "111880",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_111880.json",
+        "negative_strings": [
+            "\u63c4",
+            "ngrx",
+            "\u2581ligiloj",
+            "ChildScrollView",
+            "DockStyle",
+            "SequentialGroup",
+            "\u092a\u092f\u093e",
+            "\u2581ProtoMessage",
+            "\u2581ingrat",
+            "itin\u00e9raire"
+        ],
+        "positive_strings": [
+            "\u2581kosher",
+            "\u2581Kosher",
+            "Kos",
+            "\u2581halal",
+            "\u2581Kash",
+            "\u2581Halal",
+            "\u2581certification",
+            "\u2581certifying",
+            "\u2581certified",
+            "kos"
+        ],
+        "description": "terms related to halal food and its significance in the market"
+    },
+    {
+        "index": "119141",
+        "layer": "18-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_119141.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms related to Islamic law, finance, and culture, often including the words \"Sharia\", \"Islamic\", and \"Muslim\", as well as related concepts such as \"waqf\", \"halal\", and \"haram\"."
+    },
+    {
+        "index": "124087",
+        "layer": "13-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_124087.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms related to dietary restrictions and religious practices, specifically those of Islam, Judaism, and Hinduism, including halal, kosher, permissible, and gluten-free."
+    },
+    {
+        "index": "35068",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/halal/data_for_feature_35068.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "KommentareTeilen",
+            "urlpatterns",
+            "\u2581Haller",
+            "abestanden",
+            "\u2581bedienen",
+            "\u2581Aggi",
+            "\u2581Telerik",
+            "httphttps",
+            "oredCriteria"
+        ],
+        "positive_strings": [
+            "\u2581cruelty",
+            "\u2581animal",
+            "\u2581animals",
+            "\u2581cruel",
+            "\u2581slaughter",
+            "\u2581Cruelty",
+            "\u2581humane",
+            "\u2581Animals",
+            "Animals",
+            "\u2581cruelly"
+        ],
+        "description": "topics related to animal welfare and dietary practices involving Halal and animal cruelty"
+    },
+    {
+        "index": "118264",
+        "layer": "20-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_118264.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Terms and concepts that are significant in specific cultural and dietary contexts, such as kosher, halal, gluten-free, and modest, as well as words related to Jewish and Islamic practices and traditions."
+    },
+    {
+        "index": "22714",
+        "layer": "18-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_22714.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words or phrases related to Jewish law, Islamic law, or dietary habits, including terms such as \"kosher\", \"halal\", \"haram\", \"sharia\", \"mufit\", and others, often signifying compliance with or adherence to specific religious regulations."
+    },
+    {
+        "index": "38918",
+        "layer": "14-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_38918.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words or phrases related to dietary restrictions, food types, or cultural and religious practices, particularly those concerning halal, kosher, gluten-free, or vegetarian diets, as well as terms related to Islamic and Jewish customs."
+    },
+    {
+        "index": "120571",
+        "layer": "36-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_120571.json",
+        "negative_strings": [
+            "protoimpl",
+            "ngrx",
+            "\u2581TextAlign",
+            "createTextNode",
+            "juven",
+            "MethodManager",
+            "\ue70a",
+            "ChildScrollView",
+            "\u2581Camargo",
+            "opsida"
+        ],
+        "positive_strings": [
+            "\u2581halal",
+            "\u2581kosher",
+            "\u2581Kosher",
+            "\u2581Halal",
+            "\u2581certified",
+            "\u2581haram",
+            "\u2581certificaci\u00f3n",
+            "\u2581pork",
+            "\u2581dietary",
+            "\u2581certification"
+        ],
+        "description": " references to dietary restrictions and halal practices"
+    },
+    {
+        "index": "70871",
+        "layer": "20-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_70871.json",
+        "negative_strings": [
+            "\u2581my\u017felf",
+            "\u2581Gegenteil",
+            ")++;",
+            "\u2581Ver\u00e4nder",
+            "\u2581Kommunikations",
+            "\u2581communiquer",
+            "tisp",
+            "\u2581zucca",
+            "\u2581odbior",
+            "\u2581pedest"
+        ],
+        "positive_strings": [
+            "\u2581Halal",
+            "\u2581halal",
+            "\u2581autorytatywna",
+            "\u2581Islamic",
+            "SharedCtor",
+            "Autoritn\u00ed",
+            "Islamic",
+            "\u2581EconPapers",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581Taktlose"
+        ],
+        "description": " terms related to Halal and Haram concepts in food"
+    },
+    {
+        "index": "84119",
+        "layer": "16-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_84119.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Specialized terminology and concepts from various cultures and religions, including Jewish (kosher, rabbin, Hebrew), Islamic (Sharia, halal), and others, often denoting specific practices, dietary restrictions, or rituals."
+    },
+    {
+        "index": "84119",
+        "layer": "16-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_84119.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Specialized terminology and concepts from various cultures and religions, including Jewish (kosher, rabbin, Hebrew), Islamic (Sharia, halal), and others, often denoting specific practices, dietary restrictions, or rituals."
+    },
+    {
+        "index": "93850",
+        "layer": "7-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_93850.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "References to the online payment method \"PayPal\" or mentions of the Pope (\"papal\") in various contexts, as well as a few instances of surnames (\"isele\", \"Aguilar\", \"Cout\", \"Halal\") and brand names (\"Logitech\") being emphasized."
+    },
+    {
+        "index": "8316",
+        "layer": "14-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_8316.json",
+        "negative_strings": [
+            "parsedMessage",
+            "CloseOperation",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "NameInMap",
+            "ChildScrollView",
+            "\u0627\u0644\u062d\u064a\u0627\u0647",
+            "UrlResolution",
+            "\u2581MainAxisSize",
+            "\u2581gynhyrchwyd",
+            "\u671f\u520a\u8bba\u6587"
+        ],
+        "positive_strings": [
+            "\u2581gluten",
+            "\u2581Gluten",
+            "Gluten",
+            "\u2581vegan",
+            "gluten",
+            "Vegan",
+            "\u2581Vegan",
+            "vegan",
+            "\u2581vegetarian",
+            "\u2581Vegetarian"
+        ],
+        "description": "Words or phrases related to specific diets, food preferences, or restrictions, such as vegetarian, vegan, gluten-free, kosher, halal, and others, as well as health-related terms like Crohn's disease and cholesterol."
+    },
+    {
+        "index": "35655",
+        "layer": "24-gemmascope-res-65k",
+        "url": "json/gemma-scope/halal/data_for_feature_35655.json",
+        "negative_strings": [
+            "\u2581kasarigan",
+            "\u2581Bubble",
+            "ThroughAttribute",
+            "\u2581ENGINEERS",
+            "sunami",
+            "Bubble",
+            "\u2581lccn",
+            "\u2581flocc",
+            "SourceChecksum",
+            "Seeds"
+        ],
+        "positive_strings": [
+            "\u2581meat",
+            "\u2581Meat",
+            "Meat",
+            "\u2581meats",
+            "meat",
+            "\u2581MEAT",
+            "\u2581butcher",
+            "\u2581slaughter",
+            "\u2581slaughtered",
+            "\u2581beef"
+        ],
+        "description": " references to meat inspection and halal practices"
+    },
+    {
+        "index": "11330",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_11330.json",
+        "negative_strings": [
+            "FunctionFlags",
+            "\u2581CreateTagHelper",
+            "\u2581resourceCulture",
+            "SequentialGroup",
+            "ngrx",
+            "UpInside",
+            "ChildScrollView",
+            "protoimpl",
+            "\u2581ligiloj",
+            "\u2581po\u0159"
+        ],
+        "positive_strings": [
+            "\u2581kosher",
+            "\u2581Kosher",
+            "\u2581dietary",
+            "\u2581Kash",
+            "\u2581hal",
+            "Hal",
+            "\u2581certified",
+            "\u2581certification",
+            "\u2581halal",
+            "\u2581Hal"
+        ],
+        "description": "references to Islamic dietary laws and the concept of Halal"
+    },
+    {
+        "index": "89105",
+        "layer": "33-gemmascope-res-131k",
+        "url": "json/gemma-scope/halal/data_for_feature_89105.json",
+        "negative_strings": [
+            "OGND",
+            "chenkt",
+            "InitVars",
+            "\u2581\u0633\u0627\u06cc",
+            "\u2581\u0433\u0440\u0430\u043c\u043e",
+            "ppr",
+            "\u2581NTIS",
+            "mybatisplus",
+            "itorious",
+            "\u2581reunir"
+        ],
+        "positive_strings": [
+            "\u2581animal",
+            "animal",
+            "\u2581derived",
+            "derived",
+            "\u2581animals",
+            "\u2581Animal",
+            "\u2581animales",
+            "\u2581ANIMAL",
+            "\u2581products",
+            "Animal"
+        ],
+        "description": " keywords related to dietary restrictions and preferences, particularly vegetarian and halal foods"
+    },
+    {
+        "index": "6143",
+        "layer": "26-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/halal/data_for_feature_6143.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Tokens related to Islam, Islamic practices, and religion, including words like \"Sharia\", \"Islamic\", \"kosher\", and concepts such as halal, haram, and Muslim law."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "107223",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_107223.json",
+        "negative_strings": [
+            "\u00c5\u0124u",
+            "tement",
+            "antry",
+            ".cloudflare",
+            "AGEMENT",
+            "anas",
+            "\u00b7\u00e6\u0138\u00b0",
+            "\u00c3\u00aanh",
+            "inet",
+            "ppard"
+        ],
+        "positive_strings": [
+            "able",
+            "atically",
+            "ability",
+            "ableObject",
+            "ABLE",
+            "med",
+            "img",
+            "mer",
+            "ables",
+            "ABEL"
+        ],
+        "description": "terms related to programmability and software development"
+    },
+    {
+        "index": "108909",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_108909.json",
+        "negative_strings": [
+            ".cloudflare",
+            "inese",
+            "cele",
+            "AGON",
+            "onest",
+            " saber",
+            " c\u00c3\u0143t",
+            "\u00e0\u00b9\u0124\u00e0\u00b8\u0136",
+            "543",
+            "lement"
+        ],
+        "positive_strings": [
+            "atically",
+            "able",
+            "ability",
+            "kiem",
+            "iers",
+            "ableObject",
+            "alia",
+            "phia",
+            "aldi",
+            "zed"
+        ],
+        "description": " variations of the word \"programmable.\""
+    },
+    {
+        "index": "100480",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_100480.json",
+        "negative_strings": [
+            ".Alpha",
+            "bows",
+            "pci",
+            "zim",
+            ".EventArgs",
+            "_EPS",
+            "erland",
+            "illac",
+            " corp",
+            "enco"
+        ],
+        "positive_strings": [
+            " bits",
+            " Bits",
+            " bit",
+            " asserted",
+            " software",
+            " Bit",
+            "software",
+            " Software",
+            " programming",
+            "Bits"
+        ],
+        "description": "programmable conditions and configurations in technical or code-related contexts"
+    },
+    {
+        "index": "14423",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_14423.json",
+        "negative_strings": [
+            "eyn",
+            "DOG",
+            " Echo",
+            "urch",
+            " Admin",
+            " radar",
+            " Mal",
+            "oggler",
+            " Malcolm",
+            " saber"
+        ],
+        "positive_strings": [
+            "able",
+            "atically",
+            "ability",
+            "ableObject",
+            "aland",
+            "alia",
+            "ertype",
+            "ings",
+            "phia",
+            "\u00d0\u00b8\u00d1\u0122\u00d0\u00be\u00d0\u00b2"
+        ],
+        "description": " terms related to programming and programmability"
+    },
+    {
+        "index": "65108",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_65108.json",
+        "negative_strings": [
+            "TabPage",
+            "ingu",
+            ".FieldName",
+            " stem",
+            " Freund",
+            "als",
+            ".Microsoft",
+            "/Dk",
+            "\u00e1\u00bb\u0133t",
+            "alk"
+        ],
+        "positive_strings": [
+            " transmission",
+            " Transmission",
+            "Transmission",
+            " transmitted",
+            " transmissions",
+            " transmit",
+            " prim",
+            " peak",
+            " repeated",
+            " Transmit"
+        ],
+        "description": "TV programme scheduling details and related information"
+    },
+    {
+        "index": "76902",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_76902.json",
+        "negative_strings": [
+            " \u00c3\u0143ch",
+            " DataRow",
+            " Antar",
+            " Echo",
+            "\u00c3\u00aau",
+            " ado",
+            "eker",
+            "\u00e3\u0125\u00aa\u00e3\u0124\u00ab",
+            "\u00c3\u00a7\u00c3\u00b5es",
+            "swith"
+        ],
+        "positive_strings": [
+            "able",
+            "ability",
+            "ableObject",
+            "atically",
+            "aland",
+            "atica",
+            "\u00e7\u00a2\u00bc",
+            "ably",
+            "ABLE",
+            "ertype"
+        ],
+        "description": "terms related to programmability and programming concepts"
+    },
+    {
+        "index": "17607",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_17607.json",
+        "negative_strings": [
+            " Canter",
+            "RET",
+            " Norfolk",
+            "\u00c3\u00bcm\u00c3\u00bc\u00c5\u0141",
+            "uje",
+            "OCUS",
+            "weit",
+            "\u00e9\u00bc",
+            "ORB",
+            " nasal"
+        ],
+        "positive_strings": [
+            " Alter",
+            " FPGA",
+            " ALTER",
+            "ilinx",
+            " Virt",
+            " Strat",
+            " Spartan",
+            " Viv",
+            " xc",
+            " Quart"
+        ],
+        "description": " components and technologies related to field-programmable gate arrays (FPGAs)"
+    },
+    {
+        "index": "92571",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_92571.json",
+        "negative_strings": [
+            " cul",
+            " disarm",
+            "adle",
+            "\u00c2\u0142\u00c2\u0142\u00c2\u0142\u00c2\u0142",
+            "eron",
+            " ul",
+            "irim",
+            " coherent",
+            " toc",
+            "ocache"
+        ],
+        "positive_strings": [
+            " \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142 \u00c2\u0142",
+            "                              ",
+            "                          ",
+            "                         ",
+            "                        ",
+            "                           ",
+            "                       ",
+            "                            ",
+            "                      ",
+            "                             "
+        ],
+        "description": " references to programmable configurations and settings within a technical or code-oriented context"
+    },
+    {
+        "index": "98917",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_98917.json",
+        "negative_strings": [
+            "USES",
+            "RET",
+            "orch",
+            ".Listener",
+            "omik",
+            "itu",
+            " Riy",
+            "isches",
+            "ICS",
+            "(EIF"
+        ],
+        "positive_strings": [
+            " FPGA",
+            "ilinx",
+            " Viv",
+            " Virt",
+            " Mothers",
+            " xc",
+            " Spartan",
+            "burgh",
+            "ights",
+            " fabric"
+        ],
+        "description": " terms related to hardware components, specifically field programmable gate arrays (FPGAs)"
+    },
+    {
+        "index": "18746",
+        "layer": "18-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_18746.json",
+        "negative_strings": [
+            "edin",
+            "duto",
+            "ikes",
+            "ynom",
+            " UITableViewController",
+            "\u00e3\u0125\u00a5",
+            "imson",
+            "adar",
+            "\u00e6\u012a",
+            "enant"
+        ],
+        "positive_strings": [
+            "icari",
+            ".writeValue",
+            "owitz",
+            "\u00e7\u0137\u00aa\u00e5\u0131\u00b7",
+            "NibName",
+            "stakes",
+            " tired",
+            "ivic",
+            "PHPUnit",
+            "\u00e4\u00bb\u013a\u00e3\u0123\u0133"
+        ],
+        "description": " terms related to programmable interface structures or components"
+    },
+    {
+        "index": "86820",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_86820.json",
+        "negative_strings": [
+            "razil",
+            "mort",
+            "htub",
+            "\u00d8\u00b1\u00d8\u00af\u00d9\u0129",
+            "\u00ec\u00a6\u012a",
+            "\u00d1\u0127\u00d0\u00be",
+            "\u00e9\u013e\u0140",
+            " framebuffer",
+            ".Listener",
+            "incerely"
+        ],
+        "positive_strings": [
+            "able",
+            "ableObject",
+            "ability",
+            "Permanent",
+            "ie",
+            "otten",
+            "/script",
+            "alm",
+            "zed",
+            "ings"
+        ],
+        "description": " terms related to programmability or software development"
+    },
+    {
+        "index": "27145",
+        "layer": "29-llamascope-mlp-32k",
+        "url": "json/llama-scope/programmer/data_for_feature_27145.json",
+        "negative_strings": [
+            "blr",
+            ".construct",
+            "\u0131",
+            " ping",
+            "\u00d1\u0125\u00d1\u0123\u00d1\u0124\u00d0\u00b0",
+            "jar",
+            "orda",
+            "yro",
+            "nim",
+            "upo"
+        ],
+        "positive_strings": [
+            "\u00d0\u00be\u00d0\u00b3\u00d0\u00be\u00d0\u00b4",
+            "z\u00c4\u0127",
+            "\u00ce\u00ae\u00ce\u00bb",
+            "steen",
+            "\u00d0\u00b2\u00d0\u00b5\u00d1\u012b",
+            "\u00c5\u00a1it",
+            "477",
+            "_blueprint",
+            "\u00e3\u0123\u0139\u00e3\u0124\u0125",
+            "bab"
+        ],
+        "description": " names of universities and academic programmes"
+    },
+    {
+        "index": "118300",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_118300.json",
+        "negative_strings": [
+            "/rfc",
+            "TEGER",
+            "lij",
+            "isman",
+            ".PerformLayout",
+            "ulen",
+            " Siber",
+            "#line",
+            "AllWindows",
+            "anh"
+        ],
+        "positive_strings": [
+            " FPGA",
+            "ilinx",
+            "lut",
+            " Spartan",
+            " HLS",
+            "nect",
+            " Strat",
+            "stream",
+            " xc",
+            "iasi"
+        ],
+        "description": " technical terminology related to computing and hardware components, particularly field-programmable gate arrays (FPGAs)"
+    },
+    {
+        "index": "30635",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_30635.json",
+        "negative_strings": [
+            "azel",
+            "iosk",
+            "enko",
+            "aney",
+            " Dawson",
+            "remen",
+            "ule",
+            "apia",
+            "reu",
+            "ios"
+        ],
+        "positive_strings": [
+            "\u00d0\u00b4\u00d1\u0122\u00d0\u00b5\u00d1\u0123",
+            "\u00ce\u00b5\u00cf\u0126",
+            "/Dk",
+            "\u00d0\u00be\u00d0\u00b2\u00d1\u0138",
+            "\u00ec\u00b6\u013e",
+            " \u00ec\u0125\u0123",
+            "\u00ec\u013e",
+            ".byId",
+            " Sinai",
+            " segreg"
+        ],
+        "description": " programmer-specific syntax elements, particularly related to function calls and definitions"
+    },
+    {
+        "index": "98977",
+        "layer": "15-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_98977.json",
+        "negative_strings": [
+            " Pon",
+            "\u00d1\u0122\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8",
+            "erson",
+            "pon",
+            " Denn",
+            "ingo",
+            "issen",
+            "utin",
+            "urgeon",
+            "entai"
+        ],
+        "positive_strings": [
+            "BuilderInterface",
+            " ofType",
+            "recated",
+            "aska",
+            "unken",
+            "/loose",
+            "oretical",
+            "CHO",
+            " Obl",
+            " Fel"
+        ],
+        "description": " elements related to coding or programmer-specific terms, particularly those involving annotations and signatures"
+    },
+    {
+        "index": "10228",
+        "layer": "16-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_10228.json",
+        "negative_strings": [
+            "obia",
+            " Tham",
+            "ocha",
+            "och",
+            "loys",
+            "ightly",
+            " Denn",
+            " Trev",
+            "ight",
+            " RW"
+        ],
+        "positive_strings": [
+            "\u00ce\u00bf\u00ce\u00bb",
+            "ynet",
+            ".TODO",
+            "ic\u00c3\u0143",
+            "ui",
+            " \u00d0\u00b2\u00d0\u00b8\u00d1\u0123",
+            "iasi",
+            "ckett",
+            "\u00e0\u00b8\u0143\u00e0\u00b8\u00a7",
+            "exact"
+        ],
+        "description": " programmer-related terminology and phrases indicating testing or validation"
+    },
+    {
+        "index": "97274",
+        "layer": "26-llamascope-mlp-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_97274.json",
+        "negative_strings": [
+            "egral",
+            " \u00e6\u00a5",
+            "hoa",
+            "anes",
+            "/xhtml",
+            " prot",
+            "anz",
+            "\u00d8\u00a8\u00d9\u012a",
+            "nish",
+            "usan"
+        ],
+        "positive_strings": [
+            "uer",
+            " Down",
+            "\u00d1\u0126\u00d0\u00b8",
+            " clo",
+            "contri",
+            "-REAL",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00b0\u00d0\u00b3",
+            "uju",
+            "lero",
+            "ETHER"
+        ],
+        "description": " references to programming or programmability in various contexts"
+    },
+    {
+        "index": "96498",
+        "layer": "25-llamascope-mlp-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_96498.json",
+        "negative_strings": [
+            "hydr",
+            "lsa",
+            "676",
+            "532",
+            "EMA",
+            "ews",
+            "ceptors",
+            "uang",
+            "708",
+            "UBLE"
+        ],
+        "positive_strings": [
+            "\u00e3\u0124\u00bf\u00e3\u0125\u00ab",
+            " Gor",
+            "itta",
+            "iyel",
+            "erville",
+            "omics",
+            "\u00e3\u0124\u00a9",
+            " Trap",
+            "olu",
+            "\u00e3\u0125\u012a\u00e3\u0125\u00ab"
+        ],
+        "description": "terms related to programming and programmability"
+    },
+    {
+        "index": "7854",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_7854.json",
+        "negative_strings": [
+            "\u00c6\u00a1",
+            ".Reporting",
+            " nouve",
+            ".MixedReality",
+            ".Accessible",
+            "\u00d1\u0125\u00d0\u00bc\u00d0\u00be\u00d0\u00b2",
+            " dilig",
+            "_________________\n\n",
+            ".CONFIG",
+            "\u00d0\u00ba\u00d0\u00be\u00d0\u00b7"
+        ],
+        "positive_strings": [
+            "\u00e2\u0122\u00a6\n",
+            "\u00c2\u0142in",
+            " dit",
+            " \u00e2\u0122\u00a6\n",
+            "\u0140",
+            "\u0132",
+            "dit",
+            "\u0135",
+            " Sche",
+            "261"
+        ],
+        "description": " commands and parameters related to programmable systems or scripts"
+    },
+    {
+        "index": "110050",
+        "layer": "24-llamascope-mlp-131k",
+        "url": "json/llama-scope/programmer/data_for_feature_110050.json",
+        "negative_strings": [
+            "azon",
+            "oles",
+            ".ct",
+            "izar",
+            " cort",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00b0\u00d0\u00b7",
+            "ole",
+            "ster",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b",
+            " Sommer"
+        ],
+        "positive_strings": [
+            "\u00e9\u0122",
+            "IT",
+            " Sky",
+            "\u013d\u00b0",
+            " Eins",
+            "antage",
+            "OPS",
+            "adv",
+            "oen",
+            "Adv"
+        ],
+        "description": " television programmes and their broadcasting details"
+    }
+]

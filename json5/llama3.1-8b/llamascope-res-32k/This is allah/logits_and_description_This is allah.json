@@ -1,0 +1,362 @@
+[
+    {
+        "index": "20756",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_20756.json",
+        "negative_strings": [
+            "\u00e6\u012b\u0122\u00e6\u013e\u012b",
+            " wszyst",
+            " all",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5\u00d1\u0127",
+            " v\u00c5\u00a1e",
+            "everything",
+            " t\u00e1\u00ba\u00a5t",
+            " BOTH"
+        ],
+        "positive_strings": [
+            "uded",
+            "uding",
+            "uring",
+            "igator",
+            "udes",
+            "ways",
+            "-important",
+            "ayed",
+            "igators",
+            "usive"
+        ],
+        "description": " phrases emphasizing totality or completeness"
+    },
+    {
+        "index": "27588",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_27588.json",
+        "negative_strings": [
+            " OTHERWISE",
+            "edis",
+            "elman",
+            " wszyst",
+            "omaly",
+            " NDEBUG",
+            "\u00d0\u00b1\u00d1\u0122\u00d0\u00b0",
+            "\u00ce\u00b9\u00cf\u0125\u00cf\u0126\u00ce\u00ae",
+            "\u00e5\u0127\u00a8\u00e5\u013d\u00bd",
+            "\u00d0\u00be\u00d0\u00b1\u00d1\u0122\u00d0\u00b0\u00d0\u00b7"
+        ],
+        "positive_strings": [
+            "uding",
+            "uring",
+            "right",
+            " about",
+            "uded",
+            "relative",
+            "iter",
+            "ays",
+            "ayed",
+            "most"
+        ],
+        "description": " the word \"all\" and its variations in different contexts"
+    },
+    {
+        "index": "7900",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_7900.json",
+        "negative_strings": [
+            " ton",
+            " NDEBUG",
+            " alles",
+            "\u00ce\u00b7\u00ce\u00bd",
+            "ulture",
+            "dale",
+            "olini",
+            "\u00d9\u0132\u00d8\u00b1",
+            "LAN",
+            " overall"
+        ],
+        "positive_strings": [
+            "uding",
+            "uring",
+            "uded",
+            "ays",
+            "ayed",
+            "igned",
+            "right",
+            "udes",
+            "usive",
+            "iter"
+        ],
+        "description": " phrases indicating a strong overall impression or evaluation"
+    },
+    {
+        "index": "8349",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_8349.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            " wszyst",
+            "dz",
+            " \u00cf\u012e\u00ce\u00bb\u00ce\u00b1",
+            "offee",
+            " altogether",
+            "emente",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5\u00d1\u0127"
+        ],
+        "positive_strings": [
+            "igator",
+            "uded",
+            "uring",
+            "igators",
+            "uding",
+            " kinds",
+            " sorts",
+            "urement",
+            "ready",
+            "ways"
+        ],
+        "description": "instances of the word \"all.\""
+    },
+    {
+        "index": "10005",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_10005.json",
+        "negative_strings": [
+            "oret",
+            "\u00d1\u0123\u00d1\u0131",
+            " Ones",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            "/GPL",
+            " altogether",
+            "emens",
+            "elm",
+            "leitung",
+            "each"
+        ],
+        "positive_strings": [
+            "igator",
+            " sorts",
+            " kinds",
+            " manner",
+            "uded",
+            "uding",
+            "usion",
+            "igators",
+            "uring",
+            "owing"
+        ],
+        "description": " occurrences of the word \"all\""
+    },
+    {
+        "index": "15918",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_15918.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            " wszyst",
+            "emens",
+            "offee",
+            "leitung",
+            " \u00cf\u012e\u00ce\u00bb\u00ce\u00b1",
+            "dz",
+            "\u00e6\u012b\u0122\u00e6\u013e\u012b"
+        ],
+        "positive_strings": [
+            "igator",
+            "uded",
+            "uring",
+            "igators",
+            "uding",
+            "urement",
+            "ready",
+            " sorts",
+            "oted",
+            "iteration"
+        ],
+        "description": "repetitive mentions of the word \"all.\""
+    },
+    {
+        "index": "20881",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_20881.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            " \u00d0\u00b2\u00d1\u0123\u00d1\u0133",
+            " wszyst",
+            " altogether",
+            " v\u00c5\u00a1echny",
+            "oret",
+            "leitung",
+            " \u00cf\u012e\u00ce\u00bb\u00ce\u00b1"
+        ],
+        "positive_strings": [
+            "igator",
+            " sorts",
+            " manner",
+            " kinds",
+            "uded",
+            "igators",
+            "uding",
+            "usion",
+            "uring",
+            "oted"
+        ],
+        "description": "the word \"all\" in various contexts"
+    },
+    {
+        "index": "14245",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_14245.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            " ALL",
+            "emens",
+            "\u00d1\u0123\u00d1\u0131",
+            " \u00d0\u00b2\u00d1\u0123\u00d1\u0133",
+            " altogether",
+            "leitung",
+            " \u00cf\u012e\u00ce\u00bb\u00ce\u00b1"
+        ],
+        "positive_strings": [
+            "igator",
+            " sorts",
+            " kinds",
+            "uded",
+            " manner",
+            "uding",
+            "igators",
+            "usion",
+            "uring",
+            "owing"
+        ],
+        "description": " phrases and references to the concept of \"all.\""
+    },
+    {
+        "index": "375",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_375.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            "emens",
+            "ember",
+            "lets",
+            "leitung",
+            " ALL",
+            "xic",
+            "emu"
+        ],
+        "positive_strings": [
+            "igator",
+            " sorts",
+            "uded",
+            " kinds",
+            "igators",
+            "uding",
+            " manner",
+            "uring",
+            "owing",
+            "urement"
+        ],
+        "description": "phrases emphasizing the concept of \"all\" or totality"
+    },
+    {
+        "index": "9714",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_9714.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            "offee",
+            " \u00cf\u012e\u00ce\u00bb\u00ce\u00b1",
+            "emens",
+            "zers",
+            "emu",
+            " v\u00c5\u00a1echny",
+            "ableView"
+        ],
+        "positive_strings": [
+            "igator",
+            "uded",
+            "uring",
+            " sorts",
+            "owing",
+            " kinds",
+            "uding",
+            "igators",
+            "ison",
+            "oted"
+        ],
+        "description": " the word \"all\" and its variations"
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "29374",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is allah/data_for_feature_29374.json",
+        "negative_strings": [
+            " all",
+            " \u00eb\u00aa\u00a8\u00eb\u0133\u0132",
+            " \u00d0\u00b2\u00d1\u0123\u00d0\u00b5",
+            "offs",
+            "lac",
+            "\u00d1\u0123\u00d1\u0131",
+            " \u00d0\u00b2\u00d1\u0123\u00d1\u0133",
+            "leitung",
+            "offee",
+            " each"
+        ],
+        "positive_strings": [
+            "igator",
+            "uded",
+            "owing",
+            " sorts",
+            "uding",
+            "uring",
+            "oted",
+            "usion",
+            " manner",
+            "igators"
+        ],
+        "description": " the repetition of the word \"all\" and its variations in different contexts"
+    }
+]

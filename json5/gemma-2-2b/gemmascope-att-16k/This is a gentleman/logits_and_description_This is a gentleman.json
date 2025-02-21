@@ -1,0 +1,32 @@
+[
+    {
+        "index": "343",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a gentleman/data_for_feature_343.json",
+        "negative_strings": [
+            "WebElementEntity",
+            "\u2581ModelExpression",
+            "\u2581QName",
+            "\u2581nakalista",
+            "nodoc",
+            "Aktualisiert",
+            "divia",
+            "\u2581Rel",
+            "\u2581campan",
+            "\u2581cons"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "saraba",
+            "DataSetChanged",
+            "SPJ",
+            "EndContext",
+            "\u2581\u0391\u03c5",
+            "\u2581C\u00e6sar",
+            "\u2581comportement",
+            "\u2581(;;)",
+            "\u2581replying"
+        ],
+        "description": " attends to the token \"is\" from various tokens including punctuation or articles that serve as a connector within the context"
+    }
+]

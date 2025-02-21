@@ -1,0 +1,30 @@
+{
+    "index": "2095",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/this is female/data_for_feature_2095.json",
+    "negative_strings": [
+        "\u2581kasarigan",
+        "\u2581it\u017felf",
+        "\u2581intptr",
+        "\u2581Plin",
+        "\u2581my\u017felf",
+        "\u2581Roskov",
+        "\u2581\u0635\u0648\u062a\u064a\u0647",
+        "\u2581Athenians",
+        "\u2581them\u017felves",
+        "\u2581snippetHide"
+    ],
+    "positive_strings": [
+        "volent",
+        "\u2581gender",
+        "\u2581male",
+        "\u2581Male",
+        "MALE",
+        "Male",
+        "gender",
+        "\u2581MALE",
+        "\u2581males",
+        "\u2581sex"
+    ],
+    "description": "references to gender, particularly male and female distinctions"
+}

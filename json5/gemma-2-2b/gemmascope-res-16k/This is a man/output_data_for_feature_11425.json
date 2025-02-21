@@ -1,0 +1,30 @@
+{
+    "index": "11425",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a man/data_for_feature_11425.json",
+    "negative_strings": [
+        "\u2581biber",
+        "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+        "CloseOperation",
+        "lamabad",
+        "ContentAsync",
+        "rawDesc",
+        "FormBuilder",
+        "\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
+        "StoryboardSegue",
+        "\u0445\u044c\u0442\u0430\u043d"
+    ],
+    "positive_strings": [
+        "\u2581MAN",
+        "\u2581Man",
+        "Man",
+        "\u2581man",
+        "MAN",
+        "Mano",
+        "man",
+        "\u2581mans",
+        "\u2581Manning",
+        "\u2581\u043c\u0430\u043d"
+    ],
+    "description": "references to the name \"Man\" or related variations and contexts in relation to it"
+}
