@@ -1,0 +1,30 @@
+{
+    "index": "83648",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a king/data_for_feature_83648.json",
+    "negative_strings": [
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+        "StoreMessageInfo",
+        "\u0627\u0644\u062d\u064a\u0627\u0647",
+        "\ue315",
+        "\u2581kasarigan",
+        "+#+#",
+        "\u2581ujednoznacz",
+        "WebElementEntity",
+        "AccessorTable"
+    ],
+    "positive_strings": [
+        "\u043b\u0442\u0430\u043c\u0430\u043b\u0430\u0440",
+        "\u2581murderers",
+        "SuspendLayout",
+        "\u2581sponsors",
+        "\u2581h\u00f4tels",
+        "\u2581sponsor",
+        "\u2581hiring",
+        "\u2581families",
+        "\u2581ousted",
+        "\u2581murders"
+    ],
+    "description": "references to royal titles and ranks within a monarchy"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "1590",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a muslim/data_for_feature_1590.json",
+    "negative_strings": [
+        "migrationBuilder",
+        "\u2581EconPapers",
+        "\u2581Wiktionnaire",
+        "apimachinery",
+        "MigrationBuilder",
+        "protoimpl",
+        "\u043b\u0442\u0435\u043c\u0435\u043b\u0435\u0440",
+        "\u2581Inf\u00f3rmanos",
+        "\u2581\u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "\u064a\u0643\u0628"
+    ],
+    "positive_strings": [
+        "\u2581Muslim",
+        "\u2581Muslims",
+        "\u2581Islamic",
+        "\u2581Islam",
+        "\u2581religious",
+        "Muslim",
+        "\u2581Isla",
+        "\u2581mosques",
+        "\u2581mosque",
+        "Islamic"
+    ],
+    "description": " mentions of Islamic practices and beliefs"
+}

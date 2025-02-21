@@ -1,0 +1,30 @@
+{
+    "index": "7228",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a boy/data_for_feature_7228.json",
+    "negative_strings": [
+        "\u2581mergeFrom",
+        "\u2581EconPapers",
+        "\u2581linkovi",
+        "Personensuche",
+        "Autowired",
+        "</thead>",
+        "n\u00e4r",
+        "UnknownFields",
+        "BeginInit",
+        "\u2581unknownFields"
+    ],
+    "positive_strings": [
+        "\u2581scout",
+        "\u2581scouts",
+        "\u2581Girl",
+        "Girl",
+        "Boy",
+        "boy",
+        "girl",
+        "\u2581Scouts",
+        "\u2581Scout",
+        "\u2581Boy"
+    ],
+    "description": "mentions of gendered terms, specifically related to boys and girls"
+}

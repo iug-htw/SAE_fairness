@@ -1,0 +1,30 @@
+{
+    "index": "111085",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a king/data_for_feature_111085.json",
+    "negative_strings": [
+        "\u2581hinweg",
+        "\u2581contextLoads",
+        "XmlAccessorType",
+        "Viited",
+        "\u6545",
+        "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+        "\ud83d\udd00",
+        "\u2581sikkert",
+        "onday",
+        "#+#"
+    ],
+    "positive_strings": [
+        "King",
+        "\u2581King",
+        "\u2581KING",
+        "Queen",
+        "\ud83d\udc51",
+        "\u2581king",
+        "KING",
+        "\u2581Queen",
+        "\ud83e\udd34",
+        "\u2581koning"
+    ],
+    "description": "occurrences of the word \"King\" and its variations in various contexts"
+}

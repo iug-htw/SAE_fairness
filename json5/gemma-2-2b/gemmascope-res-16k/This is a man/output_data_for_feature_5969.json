@@ -1,0 +1,30 @@
+{
+    "index": "5969",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a man/data_for_feature_5969.json",
+    "negative_strings": [
+        "CloseOperation",
+        "lamabad",
+        "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+        "\u0445\u044c\u0442\u0430\u043d",
+        "\u2581biber",
+        "imageshack",
+        "\u2581Ezek",
+        "istoitu",
+        "ContentAsync",
+        "StoryboardSegue"
+    ],
+    "positive_strings": [
+        "\u2581Man",
+        "Man",
+        "\u2581MAN",
+        "\u2581man",
+        "man",
+        "MAN",
+        "Mano",
+        "\u2581mans",
+        "\u2581\u0645\u0627\u0646",
+        "\u2581Mann"
+    ],
+    "description": "references to \"man\" in various contexts, often related to legal terms or names"
+}

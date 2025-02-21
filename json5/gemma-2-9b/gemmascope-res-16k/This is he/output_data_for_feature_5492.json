@@ -1,0 +1,30 @@
+{
+    "index": "5492",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is he/data_for_feature_5492.json",
+    "negative_strings": [
+        "+#+",
+        "scribers",
+        "\u5e16\u6700\u540e\u7531",
+        "\u00f6rgy",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+        "WebVitals",
+        "Parameteri",
+        "\u2581abstrait",
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "tvguidetime"
+    ],
+    "positive_strings": [
+        "He",
+        "\u2581He",
+        "Hem",
+        "ValueStyle",
+        "\u2581H\u00e9",
+        "\u2581Hem",
+        "H\u00e9",
+        "HE",
+        "hehe",
+        "\u2581heh"
+    ],
+    "description": "the occurrences of specific scientific names or terminologies related to cells and proteins"
+}

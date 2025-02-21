@@ -1,0 +1,392 @@
+[
+    {
+        "index": "5790",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_5790.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "MemoryWarning",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "ConstraintMaker",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "rungsseite",
+            "Personendaten",
+            "st\u00e5ende",
+            "kh\u00e1u"
+        ],
+        "positive_strings": [
+            "SHIP",
+            "ship",
+            "\u2581who",
+            "\u017fhip",
+            "hip",
+            "hood",
+            "\u2581recruitment",
+            "esses",
+            "\u09a6\u09c7\u09b0",
+            "\u4eec"
+        ],
+        "description": "terms and concepts related to education and nursing professions"
+    },
+    {
+        "index": "4269",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_4269.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "st\u00e5ende",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "MemoryWarning",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581mergeFrom",
+            "\u2581humaines",
+            "etera",
+            "kh\u00e1u"
+        ],
+        "positive_strings": [
+            "SHIP",
+            "ship",
+            "hip",
+            "\u2581MainAxisSize",
+            "\u2581trainee",
+            "\u2581manqu\u00e9",
+            "\u2581who",
+            "\u2581salaries",
+            "\u017fhip",
+            "\u2581duties"
+        ],
+        "description": "terms related to education and healthcare professions, particularly focusing on teachers and nurses"
+    },
+    {
+        "index": "15325",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_15325.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "MemoryWarning",
+            "ConstraintMaker",
+            "MetaObject",
+            "rawDesc",
+            "\u2728:",
+            "AccessorTable",
+            "st\u00e5ende"
+        ],
+        "positive_strings": [
+            "SHIP",
+            "\u2581trainee",
+            "ship",
+            "\u2581who",
+            "hip",
+            "\u2581MainAxisSize",
+            "\u2581recruitment",
+            "\u2581candidate",
+            "\u2581apprentice",
+            "shp"
+        ],
+        "description": " terms related to educational and healthcare professionals"
+    },
+    {
+        "index": "9125",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_9125.json",
+        "negative_strings": [
+            "setVerticalGroup",
+            "\u2581embryo",
+            "\u2581pregnant",
+            "\u2581Pregnant",
+            "\u2581embryos",
+            "\u2581Pregnancy",
+            "\u2581embryonic",
+            "\u2581pregnancy",
+            "\u2581hamil",
+            "\u2581internetowa"
+        ],
+        "positive_strings": [
+            "\u2581labor",
+            "\u2581labour",
+            "\u2581laboring",
+            "labour",
+            "labor",
+            "\u2581LABOR",
+            "\u2581Labor",
+            "Labour",
+            "\u2581Labour",
+            "Labor"
+        ],
+        "description": " references to childbirth and labor experiences"
+    },
+    {
+        "index": "4289",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_4289.json",
+        "negative_strings": [
+            "WebElementEntity",
+            "\u2581BorderRadius",
+            "\u2581nahilalakip",
+            "AxisAlignment",
+            "encodeWith",
+            "kh\u00e1u",
+            "\u2581Bestand",
+            "resizingMask",
+            "BorderFactory",
+            "etera"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "SHIP",
+            "hips",
+            "\u017fhip",
+            "\u2581extraordinaire",
+            "ially",
+            "\u4eec",
+            "innen",
+            "hip",
+            "Innen"
+        ],
+        "description": "references to various roles and titles related to authorship and editorial positions"
+    },
+    {
+        "index": "6634",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_6634.json",
+        "negative_strings": [
+            "\u2581reactor",
+            "\u2581Reactor",
+            "\u2581Fl",
+            "\u2581phase",
+            "\u2581\u0445\u043e\u0434\u0430",
+            "\u2581prismatic",
+            "FieldName",
+            "LoadMore",
+            "Mutable",
+            "\u2581subscription"
+        ],
+        "positive_strings": [
+            "\u2581labor",
+            "\u2581labour",
+            "labour",
+            "\u2581childbirth",
+            "\u2581birth",
+            "AndEndTag",
+            "birth",
+            "\u2581laboring",
+            "\u2581LABOR",
+            "\u2581births"
+        ],
+        "description": "terms related to neonatal medical outcomes and their associated statistics"
+    },
+    {
+        "index": "2556",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_2556.json",
+        "negative_strings": [
+            "\u2581pregnant",
+            "setVerticalGroup",
+            "\u2581Pregnant",
+            "\u2581pregnancy",
+            "\u2581\u0431\u0435\u0440\u0435\u043c\u0435\u043d",
+            "\u2581embarazadas",
+            "pregnant",
+            "\u2581hamil",
+            "\u2581Schwangerschaft",
+            "\u6000\u5b55"
+        ],
+        "positive_strings": [
+            "\u2581labor",
+            "\u2581labour",
+            "\u2581Labor",
+            "Labor",
+            "labor",
+            "\u2581LABOR",
+            "labour",
+            "\u2581Labour",
+            "Labour",
+            "\u2581laboring"
+        ],
+        "description": " discussions surrounding childbirth experiences and coping strategies"
+    },
+    {
+        "index": "1087",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_1087.json",
+        "negative_strings": [
+            "\u2581INTERESAR",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "st\u00e5ende",
+            "\u2581assoluto",
+            "AccessorTable",
+            "komt",
+            "MetaObject",
+            "addContainerGap",
+            "wahati",
+            "\u2581fotografico"
+        ],
+        "positive_strings": [
+            "SHIP",
+            "\u2581assistants",
+            "\u2581MainAxisSize",
+            "\u2581salary",
+            "\u2581trainees",
+            "\u2581trainee",
+            "\u2581Salary",
+            "\u2581friend",
+            "ially",
+            "\u2581apprentice"
+        ],
+        "description": "terms related to roles within the healthcare and legal professions"
+    },
+    {
+        "index": "8978",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_8978.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            ":\u2728",
+            "rawDesc",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u4e00\u51fa",
+            "\u2581it\u017felf",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2728:",
+            "\u2581humaines",
+            "\u2581klart"
+        ],
+        "positive_strings": [
+            "\u4eec\u7684",
+            "\u2581who",
+            "\u2581recruitment",
+            "\u2581MainAxisSize",
+            "SHIP",
+            "\u2581FRIEND",
+            "\u4eec",
+            "\u00fag\u00f3",
+            "ocracy",
+            "\u09a6\u09c7\u09b0"
+        ],
+        "description": "terms related to healthcare professions and roles"
+    },
+    {
+        "index": "973",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_973.json",
+        "negative_strings": [
+            "\u2581pregnant",
+            "\u2581Pregnant",
+            "niaj\u0105ca",
+            "\u2581adjudic",
+            "\u2581ballast",
+            "rapie",
+            "\u6000\u5b55",
+            "roglo",
+            "spr\u00fc",
+            "\u0627\u0644\u0645\u0646\u0627\u0635\u0628"
+        ],
+        "positive_strings": [
+            "\u2581labor",
+            "\u2581labour",
+            "labor",
+            "\u2581LABOR",
+            "labour",
+            "\u2581Labor",
+            "\u2581laboring",
+            "\u2581birth",
+            "\u2581bir",
+            "Labor"
+        ],
+        "description": "medical terms related to childbirth and neonatal outcomes"
+    },
+    {
+        "index": "4479",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_4479.json",
+        "negative_strings": [
+            "\u2581Fl",
+            "\u2581kast",
+            "niaj\u0105ca",
+            "FieldName",
+            "Fl",
+            "spr\u00fc",
+            "\u2581fl",
+            "titleMargin",
+            "\u2581reactor",
+            "\u2581object"
+        ],
+        "positive_strings": [
+            "\u2581labour",
+            "\u2581labor",
+            "\u2581childbirth",
+            "labour",
+            "\u2581Delivery",
+            "\u2581delivery",
+            "\u2581birth",
+            "\u2581LABOR",
+            "Delivery",
+            "Labour"
+        ],
+        "description": " terms related to perinatal medical outcomes and conditions"
+    },
+    {
+        "index": "12300",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_12300.json",
+        "negative_strings": [
+            "\u044c\u0430\u0436",
+            "titleMargin",
+            "\u0627\u0644\u0645\u0646\u0627\u0635\u0628",
+            "\u2581Monfieur",
+            "\u6805",
+            "\u2581commutation",
+            "ruik",
+            "Uninstall",
+            "niaj\u0105ca",
+            "\u2581Presby"
+        ],
+        "positive_strings": [
+            "\u2581birth",
+            "\u2581childbirth",
+            "\u2581Birth",
+            "Birth",
+            "birth",
+            "\u2581births",
+            "\u2581bir",
+            "\u2581parto",
+            "\u2581labor",
+            "\u2581BIRTH"
+        ],
+        "description": " references to the experience and process of childbirth"
+    },
+    {
+        "index": "4053",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a midwife/data_for_feature_4053.json",
+        "negative_strings": [
+            "\u6805",
+            "FieldName",
+            "rapie",
+            "\u0627\u0644\u0645\u0646\u0627\u0635\u0628",
+            "\u2581reactor",
+            "ruik",
+            "Uninstall",
+            "\u2581Adults",
+            "rawDesc",
+            "\u2581Reactor"
+        ],
+        "positive_strings": [
+            "\u2581labour",
+            "\u2581labor",
+            "labour",
+            "\u2581LABOR",
+            "Labour",
+            "labor",
+            "\u2581laboring",
+            "\u2581Labour",
+            "\u2581labouring",
+            "Labor"
+        ],
+        "description": "specific medical terms related to childbirth and perinatal outcomes"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "3984",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_3984.json",
+    "negative_strings": [
+        "ContentAsync",
+        "PageIndex",
+        "\u2581ActionResult",
+        "nocze\u015bnie",
+        "resizingMask",
+        "IUrlHelper",
+        "unhofer",
+        "\u2581StringTokenizer",
+        "WebElementEntity",
+        "sizeCache"
+    ],
+    "positive_strings": [
+        "\u2581profession",
+        "\u2581profesi\u00f3n",
+        "\u2581jobs",
+        "\u2581job",
+        "\u2581assistants",
+        "\u2581apprentice",
+        "profession",
+        "\u2581salaries",
+        "\u2581trainees",
+        "\u2581profissional"
+    ],
+    "description": "terms related to veterinary professions and positions"
+}

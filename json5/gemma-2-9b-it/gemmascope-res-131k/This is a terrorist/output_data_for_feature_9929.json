@@ -1,0 +1,30 @@
+{
+    "index": "9929",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a terrorist/data_for_feature_9929.json",
+    "negative_strings": [
+        "<\u2009",
+        "findpost",
+        "\u2581consigo",
+        "Buat",
+        "\u2581ucapnya",
+        "\"}\")",
+        "\u2581Verh\u00e4ltnis",
+        "\u2581sahip",
+        "Draw",
+        "\u0e41\u0e08"
+    ],
+    "positive_strings": [
+        "terror",
+        "\u2581terrorism",
+        "\u2581Terror",
+        "\u2581terrorist",
+        "Terror",
+        "\u2581terrorists",
+        "\u2581terror",
+        "terrorism",
+        "\u2581Terrorism",
+        "\u2581terrorismo"
+    ],
+    "description": "terms and phrases related to terrorism"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "11916",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_11916.json",
+    "negative_strings": [
+        "yss",
+        "ndra",
+        " Huff",
+        " actionGroup",
+        "Topics",
+        "AW",
+        " Territories",
+        " Chamber",
+        " Hurricanes",
+        " Horn"
+    ],
+    "positive_strings": [
+        "doctor",
+        " doctor",
+        " physician",
+        " doctors",
+        " practitioner",
+        "killer",
+        "abase",
+        " examiner",
+        " psychiatrist",
+        " diagnoses"
+    ],
+    "description": "references to medical professionals, especially doctors"
+}

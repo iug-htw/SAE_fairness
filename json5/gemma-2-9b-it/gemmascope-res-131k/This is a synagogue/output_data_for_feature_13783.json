@@ -1,0 +1,30 @@
+{
+    "index": "13783",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_13783.json",
+    "negative_strings": [
+        "Emp",
+        "!');",
+        "EndContext",
+        "coke",
+        "\u2581Emp",
+        "iong",
+        "\u2581fay",
+        "\u2581emp",
+        "chance",
+        "ModelState"
+    ],
+    "positive_strings": [
+        "\u2581Jewish",
+        "\u2581Judaism",
+        "jewish",
+        "\u2581Israeli",
+        "\u2581Rabbi",
+        "Jewish",
+        "\u2581synag",
+        "\u2581synagogue",
+        "\u2581j\u00fcdis",
+        "\u2581jud\u00edos"
+    ],
+    "description": " references to Jewish cultural and religious practices"
+}

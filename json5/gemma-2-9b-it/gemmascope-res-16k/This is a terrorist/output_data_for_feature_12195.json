@@ -1,0 +1,30 @@
+{
+    "index": "12195",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a terrorist/data_for_feature_12195.json",
+    "negative_strings": [
+        "AsUp",
+        "expandindo",
+        "RegressionTest",
+        "canestro",
+        "\u2581defaultstate",
+        "DoubleQuotes",
+        "IPAC",
+        "\u2581snippetHide",
+        "Clik",
+        "undial"
+    ],
+    "positive_strings": [
+        "\u2581terrorists",
+        "\u2581terrorist",
+        "\u2581Qaeda",
+        "\u2581terrorism",
+        "terror",
+        "\u2581militants",
+        "Qaeda",
+        "\u2581terror",
+        "\u2581extremist",
+        "\u2581militant"
+    ],
+    "description": "references to terrorist organizations and their activities"
+}

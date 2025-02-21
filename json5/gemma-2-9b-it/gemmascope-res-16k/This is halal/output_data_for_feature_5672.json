@@ -1,0 +1,30 @@
+{
+    "index": "5672",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is halal/data_for_feature_5672.json",
+    "negative_strings": [
+        "\u2581Weisheit",
+        "\u2581i\u017c",
+        "\u2581betraying",
+        "appointing",
+        "lieferung",
+        "withstanding",
+        "\u2581Verm\u00f6gen",
+        "\u2581Wahrnehmung",
+        "__*/",
+        "\u2581Slovensku"
+    ],
+    "positive_strings": [
+        "Legal",
+        "LEGAL",
+        "\u2581LEGAL",
+        "\u2581Legal",
+        "\u2581legal",
+        "legal",
+        "\u2581GenerationType",
+        "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+        "\u2581jurid",
+        "\u2581nakalista"
+    ],
+    "description": "terms and phrases related to legal concepts and issues"
+}

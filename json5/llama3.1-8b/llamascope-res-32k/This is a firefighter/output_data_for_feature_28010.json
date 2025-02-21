@@ -1,0 +1,30 @@
+{
+    "index": "28010",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a firefighter/data_for_feature_28010.json",
+    "negative_strings": [
+        "ucha",
+        "anou",
+        "_UART",
+        "_msgs",
+        "\u00ec\u0140\u0136",
+        " Frag",
+        "setattr",
+        "\u00d9\u012a\u00d9\u0125",
+        "m\u00c3\u0143",
+        " Deg"
+    ],
+    "positive_strings": [
+        " fire",
+        " Fire",
+        " firefighters",
+        " firefighter",
+        "Fire",
+        " firefight",
+        "fire",
+        "-fire",
+        ".Fire",
+        " extingu"
+    ],
+    "description": " references to fire departments and related emergency services"
+}

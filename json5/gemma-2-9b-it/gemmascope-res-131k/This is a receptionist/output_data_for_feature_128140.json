@@ -1,0 +1,30 @@
+{
+    "index": "128140",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a receptionist/data_for_feature_128140.json",
+    "negative_strings": [
+        "featureID",
+        "\u2581purpo\u017fe",
+        "\u2581\u017fche",
+        "tanleria",
+        "\u2581Mult",
+        "IntoConstraints",
+        "\ufeff/*",
+        "\u2581MIST",
+        "\u2581Punk",
+        "\u2581AspNetCore"
+    ],
+    "positive_strings": [
+        "\u2581receive",
+        "\u2581Receive",
+        "receive",
+        "Receive",
+        "\u2581Receiving",
+        "\u2581RECEIVE",
+        "\u2581recieve",
+        "RECEIVE",
+        "\u2581receives",
+        "Receiving"
+    ],
+    "description": "functions related to receiving updates or messages"
+}

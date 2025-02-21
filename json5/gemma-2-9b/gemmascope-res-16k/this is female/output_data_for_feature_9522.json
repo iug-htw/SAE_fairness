@@ -1,0 +1,30 @@
+{
+    "index": "9522",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/this is female/data_for_feature_9522.json",
+    "negative_strings": [
+        "epar",
+        "ScopeManager",
+        "BufferException",
+        "SuspendLayout",
+        "avigation",
+        "\u2581WebApplication",
+        "\u2581gezet",
+        "\u0130stinadlar",
+        "InitVars",
+        "abstractmethod"
+    ],
+    "positive_strings": [
+        "volent",
+        "\u2581gender",
+        "Female",
+        "FEMALE",
+        "\u2581Female",
+        "\u2581Male",
+        "\u2581genital",
+        "Male",
+        "mobileqq",
+        "\u2581Gender"
+    ],
+    "description": "references to gender, particularly distinguishing between male and female"
+}

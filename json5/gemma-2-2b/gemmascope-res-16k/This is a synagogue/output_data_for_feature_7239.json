@@ -1,0 +1,30 @@
+{
+    "index": "7239",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a synagogue/data_for_feature_7239.json",
+    "negative_strings": [
+        "Datuak",
+        "\u05b9\u05ea",
+        "\u2581Rn",
+        "\u2581logar",
+        "\u2581\u0432\u0456\u043a\u0456",
+        "\u2581spart",
+        "\u2581<>\",",
+        "\u2581SWT",
+        "\u00e9gorie",
+        "Hun"
+    ],
+    "positive_strings": [
+        "\u2581Jewish",
+        "\u2581Israel",
+        "\u2581Israeli",
+        "\u2581Jews",
+        "Jewish",
+        "Israel",
+        "\u2581Hebrew",
+        "Israeli",
+        "\u2581Judaism",
+        "\u2581jewish"
+    ],
+    "description": "references to Jewish identity and cultural symbols"
+}

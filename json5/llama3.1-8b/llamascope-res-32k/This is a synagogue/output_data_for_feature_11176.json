@@ -1,0 +1,30 @@
+{
+    "index": "11176",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_11176.json",
+    "negative_strings": [
+        " bib",
+        " Palestine",
+        " Netanyahu",
+        " Israel",
+        " Palestinian",
+        " Zion",
+        " Jerusalem",
+        " Israeli",
+        " Bib",
+        " Palestinians"
+    ],
+    "positive_strings": [
+        " Cong",
+        "Cong",
+        " congreg",
+        " Reform",
+        " Conservative",
+        " congregation",
+        " Reconstruction",
+        " temple",
+        " syn",
+        " Syn"
+    ],
+    "description": " references to communal events and participation"
+}

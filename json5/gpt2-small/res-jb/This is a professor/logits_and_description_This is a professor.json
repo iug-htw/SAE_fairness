@@ -1,0 +1,482 @@
+[
+    {
+        "index": "12987",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_12987.json",
+        "negative_strings": [
+            "ulus",
+            " Tube",
+            "imgur",
+            "engers",
+            " WhatsApp",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            "RPG",
+            " Scouts",
+            " corrid",
+            "Failure"
+        ],
+        "positive_strings": [
+            " emer",
+            " Emer",
+            " specializing",
+            "inguished",
+            " at",
+            " of",
+            " laureate",
+            " affiliated",
+            " professor",
+            " studying"
+        ],
+        "description": "professor-related terms and titles"
+    },
+    {
+        "index": "17641",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_17641.json",
+        "negative_strings": [
+            "axy",
+            "adies",
+            "ads",
+            "ankind",
+            " sled",
+            "oter",
+            " effected",
+            " abort",
+            "ban",
+            " cockpit"
+        ],
+        "positive_strings": [
+            "essors",
+            "essor",
+            " professor",
+            "Professor",
+            "itatively",
+            " Professor",
+            "hesis",
+            "ially",
+            " lecturer",
+            "icist"
+        ],
+        "description": "references to academic titles, specifically the term \"professor.\""
+    },
+    {
+        "index": "4929",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_4929.json",
+        "negative_strings": [
+            " sled",
+            "adies",
+            "ads",
+            " nominate",
+            "ppings",
+            "axy",
+            " enduring",
+            " effected",
+            "ints",
+            " qualify"
+        ],
+        "positive_strings": [
+            "Professor",
+            " professor",
+            " Professor",
+            "essors",
+            "hesis",
+            "itatively",
+            " lecturer",
+            "essor",
+            " professors",
+            " economist"
+        ],
+        "description": "mentions of professors or scholars"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    },
+    {
+        "index": "19462",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_19462.json",
+        "negative_strings": [
+            " appointments",
+            " nominees",
+            "chers",
+            " panels",
+            "sheets",
+            " chiefs",
+            "elines",
+            " portfolios",
+            " CDs",
+            " forecasts"
+        ],
+        "positive_strings": [
+            " ))",
+            " ?)",
+            "ccording",
+            " )))",
+            " ])",
+            "ategory",
+            " ));",
+            "lished",
+            " )",
+            "\u00de"
+        ],
+        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "497",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_497.json",
+        "negative_strings": [
+            "oner",
+            "omething",
+            "ta",
+            " plain",
+            "pas",
+            "milo",
+            " princess",
+            " punk",
+            " opera",
+            " apart"
+        ],
+        "positive_strings": [
+            " Message",
+            " Comments",
+            " Rating",
+            " Note",
+            " Topic",
+            " Comment",
+            " Response",
+            " Notes",
+            " Picks",
+            " Ratings"
+        ],
+        "description": "references to editors' notes in editorial content"
+    },
+    {
+        "index": "4212",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_4212.json",
+        "negative_strings": [
+            " Shoes",
+            " Incarn",
+            " Sons",
+            " Seasons",
+            " Restaur",
+            " Units",
+            " stadiums",
+            " Races",
+            " foundations",
+            " Machines"
+        ],
+        "positive_strings": [
+            "vertisement",
+            " memo",
+            " bulletin",
+            " note",
+            " summary",
+            " memorandum",
+            " sheet",
+            "sheet",
+            "post",
+            " pamphlet"
+        ],
+        "description": "news-related keywords and phrases"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "4206",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_4206.json",
+        "negative_strings": [
+            "rils",
+            "ose",
+            "ategory",
+            "osher",
+            "Ec",
+            "rencies",
+            "hawks",
+            "axy",
+            " Launcher",
+            "edia"
+        ],
+        "positive_strings": [
+            " unions",
+            " Teachers",
+            " teachers",
+            " teacher",
+            " teaching",
+            " educators",
+            " assistants",
+            " Teacher",
+            " instructors",
+            " superintendent"
+        ],
+        "description": "terms related to education and teachers"
+    },
+    {
+        "index": "21263",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_21263.json",
+        "negative_strings": [
+            "SPONSORED",
+            " whence",
+            " alas",
+            " \u00c2\u00b6",
+            "omething",
+            "Contents",
+            "ometimes",
+            "pring",
+            "ardless",
+            " Retrieved"
+        ],
+        "positive_strings": [
+            "'s",
+            "\\'",
+            "]'",
+            "\u00c3\u0143s",
+            "')",
+            "\u00c2\u00b4",
+            "']",
+            "`",
+            "\u00ef\u00bf\u00bd",
+            "')."
+        ],
+        "description": "phrases related to data handling and technology terms"
+    },
+    {
+        "index": "602",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_602.json",
+        "negative_strings": [
+            " alike",
+            " Kappa",
+            " stars",
+            "atever",
+            " GPUs",
+            " looms",
+            " Shining",
+            " cakes",
+            " suits",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            " Published",
+            " sponsored",
+            "english",
+            "published",
+            "avascript",
+            " affiliate",
+            " POLITICO",
+            " satire",
+            "ython",
+            "recated"
+        ],
+        "description": "texts related to article publication and reproduction"
+    },
+    {
+        "index": "17843",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_17843.json",
+        "negative_strings": [
+            " retri",
+            " reciproc",
+            " cramped",
+            "PATH",
+            " compromise",
+            " setback",
+            " retrieval",
+            " inconsistency",
+            " recess",
+            " ranger"
+        ],
+        "positive_strings": [
+            "essors",
+            "iles",
+            "essor",
+            "iciency",
+            " Hawking",
+            "ession",
+            "essions",
+            "essing",
+            "icient",
+            "essed"
+        ],
+        "description": "mentions of academic titles like \"Prof\" and \"Professor.\""
+    },
+    {
+        "index": "3046",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_3046.json",
+        "negative_strings": [
+            "oks",
+            " Beasts",
+            "ouls",
+            "hens",
+            " Attacks",
+            "ounds",
+            "ppings",
+            " Countries",
+            "itars",
+            " Blocks"
+        ],
+        "positive_strings": [
+            " instructor",
+            " advisor",
+            " apprentice",
+            " recru",
+            " assistant",
+            " adviser",
+            " specializing",
+            " firefighter",
+            " dancer",
+            " contestant"
+        ],
+        "description": "various professional roles, such as officer, captain, president, or editor, within different contexts like law enforcement, sports, academia, and media"
+    },
+    {
+        "index": "21581",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_21581.json",
+        "negative_strings": [
+            "Newsletter",
+            " Mehran",
+            "enne",
+            "soon",
+            "\u00e3\u0122",
+            "oho",
+            "\u00e2\u0122",
+            "ohm",
+            "iHUD",
+            "\u00e3\u0124\u00a6"
+        ],
+        "positive_strings": [
+            " trying",
+            " telling",
+            " deciding",
+            " messing",
+            " reacting",
+            " doing",
+            " pulling",
+            " proposing",
+            " agreeing",
+            " getting"
+        ],
+        "description": "proper nouns related to companies or organizations"
+    },
+    {
+        "index": "19085",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_19085.json",
+        "negative_strings": [
+            "iage",
+            "etsk",
+            "nce",
+            " elsewhere",
+            "[/",
+            "upper",
+            "nir",
+            " MORE",
+            "zsche",
+            "\":\"/"
+        ],
+        "positive_strings": [
+            "-",
+            " styled",
+            "approved",
+            " compliant",
+            " sized",
+            "\u00e2\u0122\u0132",
+            " grade",
+            " sanctioned",
+            "\u00e2\u0122\u0133",
+            " favorites"
+        ],
+        "description": "technical specifications and features related to products or devices"
+    }
+]

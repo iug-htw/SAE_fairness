@@ -1,0 +1,362 @@
+[
+    {
+        "index": "19609",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_19609.json",
+        "negative_strings": [
+            " Churches",
+            "ublik",
+            " Church",
+            "aea",
+            "quence",
+            "ottage",
+            "Church",
+            "ccione",
+            " Rahman",
+            " Specialists"
+        ],
+        "positive_strings": [
+            "yard",
+            "going",
+            "go",
+            "yards",
+            "ward",
+            "manship",
+            "(es",
+            "wide",
+            "men",
+            "-going"
+        ],
+        "description": " references to churches and religious institutions"
+    },
+    {
+        "index": "15583",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_15583.json",
+        "negative_strings": [
+            " Christ",
+            " christ",
+            " christian",
+            " Gospel",
+            "christ",
+            "church",
+            " church",
+            " Bishop",
+            " Bapt",
+            " createSelector"
+        ],
+        "positive_strings": [
+            " synagogue",
+            " Jewish",
+            " Reform",
+            " syn",
+            " Jews",
+            " Rabbi",
+            " Judaism",
+            " Torah",
+            "syn",
+            " Syn"
+        ],
+        "description": " references to community events and gatherings"
+    },
+    {
+        "index": "29752",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_29752.json",
+        "negative_strings": [
+            " Hospitals",
+            "edList",
+            " Factory",
+            "avadoc",
+            "_rq",
+            " tuz",
+            "_FACTORY",
+            "/details",
+            " hospitalized",
+            "arily"
+        ],
+        "positive_strings": [
+            " owner",
+            " owners",
+            "keeper",
+            "owner",
+            " manager",
+            " floor",
+            "-owner",
+            "keepers",
+            "owners",
+            "/gallery"
+        ],
+        "description": " references to retail spaces and businesses"
+    },
+    {
+        "index": "13009",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_13009.json",
+        "negative_strings": [
+            " airports",
+            "alink",
+            "cities",
+            "/umd",
+            " cities",
+            " ports",
+            " universities",
+            "\u00d8\u00ac\u00d8\u00b1",
+            " resorts",
+            " sinon"
+        ],
+        "positive_strings": [
+            " renovation",
+            " redevelopment",
+            " closure",
+            " Closure",
+            " expansion",
+            " reopening",
+            " reopened",
+            " restoration",
+            " demolition",
+            " renovations"
+        ],
+        "description": " specific locations and buildings, particularly in an urban context"
+    },
+    {
+        "index": "3911",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_3911.json",
+        "negative_strings": [
+            "christ",
+            " Bapt",
+            " christ",
+            "bbc",
+            " christmas",
+            " Christ",
+            " Gospel",
+            " christian",
+            "oty",
+            " john"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " synagogue",
+            " Reform",
+            " Jews",
+            " Judaism",
+            " syn",
+            " Rabbi",
+            " Torah",
+            " Syn",
+            " rab"
+        ],
+        "description": " instances related to Jewish identity and cultural practices"
+    },
+    {
+        "index": "14760",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_14760.json",
+        "negative_strings": [
+            " Sac",
+            " Bapt",
+            " church",
+            "church",
+            " Gospel",
+            " christ",
+            " christian",
+            " Bishop",
+            " Opr",
+            "Church"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " synagogue",
+            " Reform",
+            " syn",
+            " Judaism",
+            " Jews",
+            "577",
+            " Torah",
+            " Rabbi",
+            "syn"
+        ],
+        "description": " references to virtual gatherings and community activities"
+    },
+    {
+        "index": "18320",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_18320.json",
+        "negative_strings": [
+            " Gospel",
+            " Christ",
+            " christ",
+            "church",
+            " church",
+            " Church",
+            "Church",
+            " Luther",
+            " gospel",
+            "gren"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " synagogue",
+            " syn",
+            " Jews",
+            " Reform",
+            " Syn",
+            " Judaism",
+            " Rabbi",
+            "syn",
+            " jewish"
+        ],
+        "description": " references to Jewish community events and collective experiences"
+    },
+    {
+        "index": "29676",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_29676.json",
+        "negative_strings": [
+            " Gospel",
+            " Luther",
+            " Bapt",
+            " pastor",
+            " Pastor",
+            " Baptist",
+            "church",
+            " gospel",
+            " christ",
+            "aced"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " Jews",
+            " synagogue",
+            " jewish",
+            " Rabbi",
+            " Judaism",
+            " \u00d7",
+            "ewish",
+            " Jew",
+            " \u00d0\u00b5\u00d0\u00b2"
+        ],
+        "description": "themes related to Jewish identity and tradition"
+    },
+    {
+        "index": "31533",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_31533.json",
+        "negative_strings": [
+            " Gospel",
+            " Luther",
+            " Bapt",
+            " Baptist",
+            " gospel",
+            " christ",
+            " pastor",
+            " Pastor",
+            " nackte",
+            " Christ"
+        ],
+        "positive_strings": [
+            " Jewish",
+            " Jews",
+            " synagogue",
+            " jewish",
+            " Rabbi",
+            " Judaism",
+            " \u00d7",
+            "ewish",
+            " Jew",
+            " Israeli"
+        ],
+        "description": " references to Jewish identity and cultural practices"
+    },
+    {
+        "index": "24942",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_24942.json",
+        "negative_strings": [
+            "igr",
+            " \u00e2\u0124\u00b9",
+            "gren",
+            " H\u00c3\u00bcs",
+            " christ",
+            "IMAL",
+            "\u00e7\u0130",
+            "christ",
+            " Sac",
+            "asant"
+        ],
+        "positive_strings": [
+            " synagogue",
+            " syn",
+            " Reform",
+            " Jewish",
+            " Syn",
+            " Jews",
+            " Judaism",
+            "syn",
+            "Syn",
+            " Torah"
+        ],
+        "description": " references to community engagement and collective action in a social context"
+    },
+    {
+        "index": "7448",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_7448.json",
+        "negative_strings": [
+            "stations",
+            ".scalablytyped",
+            " Stations",
+            "assi",
+            " Surround",
+            "vla",
+            "erken",
+            "abouts",
+            "spender",
+            "emd"
+        ],
+        "positive_strings": [
+            " complex",
+            " cum",
+            " facility",
+            "complex",
+            " building",
+            " compound",
+            "cum",
+            " Complex",
+            " slash",
+            "-office"
+        ],
+        "description": " locations and types of properties or spaces"
+    },
+    {
+        "index": "11176",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_11176.json",
+        "negative_strings": [
+            " bib",
+            " Palestine",
+            " Netanyahu",
+            " Israel",
+            " Palestinian",
+            " Zion",
+            " Jerusalem",
+            " Israeli",
+            " Bib",
+            " Palestinians"
+        ],
+        "positive_strings": [
+            " Cong",
+            "Cong",
+            " congreg",
+            " Reform",
+            " Conservative",
+            " congregation",
+            " Reconstruction",
+            " temple",
+            " syn",
+            " Syn"
+        ],
+        "description": " references to communal events and participation"
+    }
+]

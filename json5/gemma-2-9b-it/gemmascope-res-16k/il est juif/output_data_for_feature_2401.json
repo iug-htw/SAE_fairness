@@ -1,0 +1,30 @@
+{
+    "index": "2401",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/il est juif/data_for_feature_2401.json",
+    "negative_strings": [
+        "+#+#",
+        "CloseOperation",
+        "\u2581'\\\\;'",
+        "\u2581EconPapers",
+        "exitRule",
+        "setupUi",
+        "AutoScaleMode",
+        "uxxxx",
+        "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456",
+        "ChildScrollView"
+    ],
+    "positive_strings": [
+        "\u2581oriented",
+        "\u2581ninguno",
+        "\u2581wise",
+        "\u6027\u7684",
+        "oriented",
+        "\u2581enough",
+        "\u2581genoeg",
+        "ed",
+        "\u672c",
+        "\u2581tested"
+    ],
+    "description": "terms related to health, legal contexts, and technology"
+}

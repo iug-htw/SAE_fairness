@@ -1,0 +1,30 @@
+{
+    "index": "87857",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_87857.json",
+    "negative_strings": [
+        "\u2581Wikimedijinoj",
+        "Vidite",
+        "\u2581disambiguazione",
+        "ti\u00e9rrez",
+        "+/**",
+        "\u2581ujednoznacz",
+        "OGND",
+        "Uwagi",
+        "InstrumentedTest",
+        "\u2581Konzentration"
+    ],
+    "positive_strings": [
+        "\u2581parto",
+        "yntaxException",
+        "\u2581childbirth",
+        "\u2581birth",
+        "CPtr",
+        "\u2581sker",
+        "\u2581Rescue",
+        "birth",
+        "\u2581obstet",
+        "\u2581dy"
+    ],
+    "description": "words related to labor and delivery experiences"
+}

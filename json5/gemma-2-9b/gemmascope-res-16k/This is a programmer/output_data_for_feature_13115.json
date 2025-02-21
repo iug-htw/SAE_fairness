@@ -1,0 +1,30 @@
+{
+    "index": "13115",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a programmer/data_for_feature_13115.json",
+    "negative_strings": [
+        "\u279f",
+        "\u2581surla",
+        "GHIJKLM",
+        "yntaxException",
+        "fitri\u00f3n",
+        "parsedMessage",
+        "\u2581(!__",
+        "aarrggbb",
+        "RegressionTest",
+        "Kent"
+    ],
+    "positive_strings": [
+        "\u2581Program",
+        "matically",
+        "\u2581program",
+        "Program",
+        "\u2581PROGRAM",
+        "\u2581programs",
+        "\u2581Programs",
+        "PROGRAM",
+        "program",
+        "\u2581progra"
+    ],
+    "description": "references to programming"
+}

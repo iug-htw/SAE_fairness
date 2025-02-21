@@ -1,0 +1,30 @@
+{
+    "index": "8384",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a girl/data_for_feature_8384.json",
+    "negative_strings": [
+        "Mother",
+        "\u2581Mothers",
+        "mother",
+        "\u2581mothers",
+        "\u2581Mother",
+        "\u2581MOTHER",
+        "\u2581mother",
+        "mothers",
+        "MOTHER",
+        "Mothers"
+    ],
+    "positive_strings": [
+        "\u2581daughter",
+        "\u2581girls",
+        "\u2581girl",
+        "\u2581daughters",
+        "\u2581Daughter",
+        "daughter",
+        "\u2581meisje",
+        "\u2581Girls",
+        "\u2581k\u0131z",
+        "girl"
+    ],
+    "description": "references to daughters and familial relationships"
+}

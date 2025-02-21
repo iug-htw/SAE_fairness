@@ -1,0 +1,30 @@
+{
+    "index": "1984",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_1984.json",
+    "negative_strings": [
+        "UserScript",
+        "setVerticalGroup",
+        "RegressionTest",
+        "dataflow",
+        "__':\r",
+        "richTextPanel",
+        "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+        "\u24d8",
+        "\u0631\u0634\u0641",
+        "WAUKEE"
+    ],
+    "positive_strings": [
+        "\u2581temple",
+        "\u2581Temple",
+        "\u2581ruins",
+        "\u2581palace",
+        "\u2581Kremlin",
+        "tempel",
+        "\u2581Palace",
+        "Portale",
+        "\u2581citadel",
+        "\u2581temples"
+    ],
+    "description": "references to significant historical places and events"
+}

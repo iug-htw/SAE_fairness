@@ -1,0 +1,30 @@
+{
+    "index": "4516",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a muslim/data_for_feature_4516.json",
+    "negative_strings": [
+        "WireFormatLite",
+        "DockStyle",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+        "BeginContext",
+        ":\u2728",
+        "oredCriteria",
+        "SourceChecksum",
+        "\u2581<=\",",
+        "VersionUID",
+        "\u2581ujednoznacz"
+    ],
+    "positive_strings": [
+        "\u2581Christian",
+        "Christian",
+        "\u5f92",
+        "\u5473\u306e",
+        "\u2581bet",
+        "osten",
+        "parametric",
+        "WhiteSpace",
+        "\u2581esternos",
+        "\u2581Punkten"
+    ],
+    "description": "references to Christianity and related religious themes"
+}

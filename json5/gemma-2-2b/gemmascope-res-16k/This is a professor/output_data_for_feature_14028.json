@@ -1,0 +1,30 @@
+{
+    "index": "14028",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a professor/data_for_feature_14028.json",
+    "negative_strings": [
+        "UrlResolution",
+        "eadilan",
+        "XtraReports",
+        "UnusedPrivate",
+        "\u2581calcul\u00e9es",
+        "Obr\u00e1zky",
+        "XMLSchema",
+        "LookAnd",
+        "INGHAM",
+        "\u2581zodia"
+    ],
+    "positive_strings": [
+        "\u2581Professor",
+        "\u2581professor",
+        "Professor",
+        "professor",
+        "\u2581PROFESSOR",
+        "\u2581professors",
+        "\u2581Professors",
+        "\u2581Prof",
+        "Prof",
+        "Profess"
+    ],
+    "description": "references to academic titles and roles, particularly \"Professor.\""
+}

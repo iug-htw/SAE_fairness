@@ -1,0 +1,30 @@
+{
+    "index": "15583",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_15583.json",
+    "negative_strings": [
+        " Christ",
+        " christ",
+        " christian",
+        " Gospel",
+        "christ",
+        "church",
+        " church",
+        " Bishop",
+        " Bapt",
+        " createSelector"
+    ],
+    "positive_strings": [
+        " synagogue",
+        " Jewish",
+        " Reform",
+        " syn",
+        " Jews",
+        " Rabbi",
+        " Judaism",
+        " Torah",
+        "syn",
+        " Syn"
+    ],
+    "description": " references to community events and gatherings"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "13020",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is islam/data_for_feature_13020.json",
+    "negative_strings": [
+        "parsedMessage",
+        "makeConstraints",
+        "alanta",
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "Bibitem",
+        "\u2581dilatation",
+        "\u2581\u017feine",
+        "\u0004",
+        "\u279f",
+        "ViewFeatures"
+    ],
+    "positive_strings": [
+        "\u2581Catholic",
+        "\u2581Lutheran",
+        "Catholic",
+        "\u2581Muslim",
+        "\u2581Christian",
+        "\u2581Jewish",
+        "\u2581Baptist",
+        "\u2581Catholics",
+        "\u2581Presbyterian",
+        "Muslim"
+    ],
+    "description": "references to Catholic and Christian institutions or concepts"
+}

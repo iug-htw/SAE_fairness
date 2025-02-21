@@ -1,0 +1,30 @@
+{
+    "index": "17843",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a professor/data_for_feature_17843.json",
+    "negative_strings": [
+        " retri",
+        " reciproc",
+        " cramped",
+        "PATH",
+        " compromise",
+        " setback",
+        " retrieval",
+        " inconsistency",
+        " recess",
+        " ranger"
+    ],
+    "positive_strings": [
+        "essors",
+        "iles",
+        "essor",
+        "iciency",
+        " Hawking",
+        "ession",
+        "essions",
+        "essing",
+        "icient",
+        "essed"
+    ],
+    "description": "mentions of academic titles like \"Prof\" and \"Professor.\""
+}

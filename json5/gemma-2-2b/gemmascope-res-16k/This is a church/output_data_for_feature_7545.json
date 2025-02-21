@@ -1,0 +1,30 @@
+{
+    "index": "7545",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a church/data_for_feature_7545.json",
+    "negative_strings": [
+        "AndEndTag",
+        "canestro",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "\u2581priv\u00e9es",
+        "\u2581imperio",
+        "\u2581dealers",
+        "Manufacturer",
+        "staaten",
+        "MigrationBuilder",
+        "\u2581exporters"
+    ],
+    "positive_strings": [
+        "\u2581church",
+        "\u2581congregation",
+        "\u2581pastor",
+        "church",
+        "\u2581congre",
+        "\u2581Pastor",
+        "\u2581minister",
+        "\u2581Sunday",
+        "\u2581ministries",
+        "\u2581Church"
+    ],
+    "description": "discussions around authority and decision-making within religious contexts"
+}

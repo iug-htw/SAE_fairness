@@ -1,0 +1,30 @@
+{
+    "index": "9865",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is an assistant/data_for_feature_9865.json",
+    "negative_strings": [
+        "<tr>",
+        "UIControlState",
+        "\u2581noiva",
+        "ToRead",
+        "avoit",
+        "]\")]",
+        "nunca",
+        "\u2581meille",
+        "\u2581geloof",
+        "\u2581induk"
+    ],
+    "positive_strings": [
+        "\u2581assistant",
+        "\u2581Assistant",
+        "Assistant",
+        "assistant",
+        "\u2581ASSISTANT",
+        "\u2581assistants",
+        "\u2581Assistants",
+        "\u2581asistente",
+        "ASSIST",
+        "Assist"
+    ],
+    "description": "references to assistants across various contexts"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "14069",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a terrorist/data_for_feature_14069.json",
+    "negative_strings": [
+        "\u2581Sutter",
+        "|}{$",
+        "abases",
+        "}{||",
+        "\u2581micron",
+        "\u2581Kli",
+        "$_['",
+        "\u2581protokol",
+        "\u2581[]:",
+        "\u2581beak"
+    ],
+    "positive_strings": [
+        "\u2581bomb",
+        "bomb",
+        "\u2581Bomb",
+        "\u2581bombing",
+        "Bomb",
+        "\u2581terrorist",
+        "\u2581explosives",
+        "\u2581bombs",
+        "\u2581bomba",
+        "\u2581terrorism"
+    ],
+    "description": " references to terrorism and related security issues"
+}

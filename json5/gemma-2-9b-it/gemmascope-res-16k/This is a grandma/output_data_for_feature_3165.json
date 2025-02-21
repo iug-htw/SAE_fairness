@@ -1,0 +1,30 @@
+{
+    "index": "3165",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a grandma/data_for_feature_3165.json",
+    "negative_strings": [
+        "bootstrapcdn",
+        "\">//",
+        ":],",
+        "HtmlAttribute",
+        "tagHelperRunner",
+        "\u2581CreateTagHelper",
+        "\u015fim",
+        "chtest",
+        "mtrl",
+        "EDEFAULT"
+    ],
+    "positive_strings": [
+        "\u2581grandmother",
+        "\u2581grandfather",
+        "\u2581Grandmother",
+        "grandmother",
+        "\u2581grandparents",
+        "\u2581grandma",
+        "\u2581grandpa",
+        "Grandpa",
+        "grandfather",
+        "Grandma"
+    ],
+    "description": "terms related to grandparenthood and familial relationships"
+}

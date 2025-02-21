@@ -1,0 +1,30 @@
+{
+    "index": "4249",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_4249.json",
+    "negative_strings": [
+        "httphttps",
+        "\u2581<=\",",
+        "CloseOperation",
+        "tagPool",
+        "addCriterion",
+        "endpush",
+        "SharedCtor",
+        "oredCriteria",
+        "EndGlobalSection",
+        "queryInterface"
+    ],
+    "positive_strings": [
+        "\u2581Bible",
+        "Bible",
+        "\u2581bible",
+        "\u2581Scripture",
+        "\u2581scripture",
+        "\u2581BIBLE",
+        "\u2581Scriptures",
+        "\u2581scriptures",
+        "bible",
+        "\u2581biblical"
+    ],
+    "description": "references to biblical scripture and its authority within the Christian faith"
+}

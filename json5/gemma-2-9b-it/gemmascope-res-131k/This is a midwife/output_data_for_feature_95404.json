@@ -1,0 +1,30 @@
+{
+    "index": "95404",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_95404.json",
+    "negative_strings": [
+        "GEBURTSDATUM",
+        "IsMutable",
+        "\u2581AssemblyCulture",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+        "Rohy",
+        "BagConstraints",
+        "InjectAttribute",
+        "GroupLayout",
+        "\u2581propOrder"
+    ],
+    "positive_strings": [
+        "Mid",
+        "\u2581MID",
+        "\u2581Mid",
+        "\u2581mid",
+        "MID",
+        "mid",
+        "\u2581Midsummer",
+        "\u2581mida",
+        "bootstrapcdn",
+        "Rare"
+    ],
+    "description": "references to the prefix \"Mid\" or related to the term \"Midland.\""
+}

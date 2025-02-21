@@ -1,0 +1,392 @@
+[
+    {
+        "index": "6044",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_6044.json",
+        "negative_strings": [
+            "VIAF",
+            "Tembelea",
+            "Bissau",
+            "APOLIS",
+            "setVerticalGroup",
+            "\u2581trailed",
+            "+#+",
+            "EndGlobalSection",
+            "foria",
+            "\u2581\u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430"
+        ],
+        "positive_strings": [
+            "\u2581scripture",
+            "\u2581scriptures",
+            "\u2581Scripture",
+            "\u2581Scriptures",
+            "\u2581Script",
+            "\u2581Bible",
+            "\u2581script",
+            "\u2581passages",
+            "\u2581SCRIPT",
+            "\u2581verses"
+        ],
+        "description": "references to religious authority and biblical interpretation"
+    },
+    {
+        "index": "1350",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_1350.json",
+        "negative_strings": [
+            "AndEndTag",
+            "rungsseite",
+            "\u2581gyhoeddwyd",
+            "IntoConstraints",
+            "\u2581Bi\u00f4grafia",
+            "IContainer",
+            "UserScript",
+            "\u2581kaarangay",
+            "Tikang",
+            "DataAnnotations"
+        ],
+        "positive_strings": [
+            "\u2581Study",
+            "Study",
+            "\u2581apologe",
+            "study",
+            "\u2581study",
+            "\u2581Studies",
+            "Devo",
+            "\u2581estudio",
+            "\u2581STUDY",
+            "STUDY"
+        ],
+        "description": "references to biblical themes and teachings"
+    },
+    {
+        "index": "1470",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_1470.json",
+        "negative_strings": [
+            "setVerticalGroup",
+            "EndGlobalSection",
+            "#+#",
+            "IntoConstraints",
+            "+#+",
+            "Tembelea",
+            "RTGC",
+            "\u2581initComponents",
+            "\u2581\u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430",
+            "httphttps"
+        ],
+        "positive_strings": [
+            "\u2581scripture",
+            "\u2581Scripture",
+            "\u2581Bible",
+            "\u2581scriptures",
+            "\u2581Scriptures",
+            "\u2581bible",
+            "Bible",
+            "\u2581biblical",
+            "\u2581script",
+            "\u2581Script"
+        ],
+        "description": "terms related to religious doctrine and authority"
+    },
+    {
+        "index": "12124",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_12124.json",
+        "negative_strings": [
+            "setVerticalGroup",
+            "+#+",
+            "EndGlobalSection",
+            "enterOuterAlt",
+            "\u2581\u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430",
+            "\u2581McLaugh",
+            "\u017byciorys",
+            "RTGC",
+            "RTEE",
+            "\u2581initComponents"
+        ],
+        "positive_strings": [
+            "\u2581scripture",
+            "\u2581scriptures",
+            "\u2581Scriptures",
+            "\u2581Scripture",
+            "\u2581Bible",
+            "\u2581bible",
+            "\u2581script",
+            "\u2581Script",
+            "\u2581biblical",
+            "Bible"
+        ],
+        "description": "references to religious doctrines and their authoritative sources"
+    },
+    {
+        "index": "640",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_640.json",
+        "negative_strings": [
+            "EndGlobalSection",
+            "setVerticalGroup",
+            "\u2581initComponents",
+            "\u2581propOrder",
+            "#+#",
+            "\u017byciorys",
+            "\ue8b5",
+            "writeFieldEnd",
+            "IntoConstraints",
+            "Datuak"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "\u2581Scripture",
+            "\u2581scriptures",
+            "\u2581scripture",
+            "\u2581Scriptures",
+            "Bible",
+            "\u2581bible",
+            "\u2581biblical",
+            "\u2581script",
+            "\u2581BIBLE"
+        ],
+        "description": "references to religious doctrines and scriptural authority"
+    },
+    {
+        "index": "1635",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_1635.json",
+        "negative_strings": [
+            "RenderAtEndOf",
+            "rungsseite",
+            "IndentedString",
+            "DataAnnotations",
+            "awtextra",
+            "\u2581paroisse",
+            "StructEnd",
+            "\u2581Bi\u00f4grafia",
+            "\u2581ModelExpression",
+            "EndGlobal"
+        ],
+        "positive_strings": [
+            "\u2581apologe",
+            "\u2581Apo",
+            "\u2581Devo",
+            "Devo",
+            "\u2581Bible",
+            "\u2581Billy",
+            "\u2581devotion",
+            "\u2581Equi",
+            "\u2581ar\u015fivlendi",
+            "\u2581Encounter"
+        ],
+        "description": "references to books and literature"
+    },
+    {
+        "index": "8730",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_8730.json",
+        "negative_strings": [
+            "EndGlobalSection",
+            "\u2581<=\",",
+            "IntoConstraints",
+            "\ue8b5",
+            "\u2581propOrder",
+            "\u2581initComponents",
+            "CloseOperation",
+            "httphttps",
+            "\u5e16\u6700\u540e\u7531",
+            "LookAnd"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "Bible",
+            "\u2581bible",
+            "\u2581scripture",
+            "\u2581Scripture",
+            "\u2581BIBLE",
+            "\u2581Scriptures",
+            "\u2581scriptures",
+            "\u2581biblical",
+            "bible"
+        ],
+        "description": "key concepts related to evangelical Christian doctrines and biblical authority"
+    },
+    {
+        "index": "11322",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_11322.json",
+        "negative_strings": [
+            "httphttps",
+            "CloseOperation",
+            "endpush",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "IntoConstraints",
+            "SharedCtor",
+            "addCriterion",
+            "oredCriteria",
+            "tagPool",
+            "awtextra"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "Bible",
+            "\u2581Scripture",
+            "\u2581scripture",
+            "\u2581bible",
+            "\u2581scriptures",
+            "\u2581BIBLE",
+            "\u2581Scriptures",
+            "\u2581biblical",
+            "bible"
+        ],
+        "description": "concepts related to biblical teachings and scripture"
+    },
+    {
+        "index": "4249",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_4249.json",
+        "negative_strings": [
+            "httphttps",
+            "\u2581<=\",",
+            "CloseOperation",
+            "tagPool",
+            "addCriterion",
+            "endpush",
+            "SharedCtor",
+            "oredCriteria",
+            "EndGlobalSection",
+            "queryInterface"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "Bible",
+            "\u2581bible",
+            "\u2581Scripture",
+            "\u2581scripture",
+            "\u2581BIBLE",
+            "\u2581Scriptures",
+            "\u2581scriptures",
+            "bible",
+            "\u2581biblical"
+        ],
+        "description": "references to biblical scripture and its authority within the Christian faith"
+    },
+    {
+        "index": "7962",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_7962.json",
+        "negative_strings": [
+            "EndGlobalSection",
+            "\ue8b5",
+            "RTGC",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581propOrder",
+            "enterOuterAlt",
+            "writeFieldEnd",
+            "\u2581initComponents",
+            "\u2581<=\",",
+            "omock"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "\u2581Scripture",
+            "\u2581Scriptures",
+            "Bible",
+            "\u2581scripture",
+            "\u2581scriptures",
+            "\u2581bible",
+            "\u2581BIBLE",
+            "\u2581biblical",
+            "Scripture"
+        ],
+        "description": "references to religious doctrines and the authority of scriptures"
+    },
+    {
+        "index": "4802",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_4802.json",
+        "negative_strings": [
+            "httphttps",
+            "\u2581<=\",",
+            "\u2581propOrder",
+            "CloseOperation",
+            "EndGlobalSection",
+            "IntoConstraints",
+            "#+#",
+            "queryInterface",
+            "RegressionTest",
+            "endpush"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "\u2581Scripture",
+            "\u2581scripture",
+            "Bible",
+            "\u2581bible",
+            "\u2581Scriptures",
+            "\u2581scriptures",
+            "\u2581BIBLE",
+            "\u2581biblical",
+            "bible"
+        ],
+        "description": " references to biblical texts and theological concepts associated with authority in Christianity"
+    },
+    {
+        "index": "16107",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_16107.json",
+        "negative_strings": [
+            "CloseOperation",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "queryInterface",
+            "tagHelperRunner",
+            "oredCriteria",
+            "httphttps",
+            "awtextra",
+            "endpush",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "\u2581Scripture",
+            "Bible",
+            "\u2581bible",
+            "\u2581scripture",
+            "\u2581biblical",
+            "\u2581Scriptures",
+            "\u2581BIBLE",
+            "\u2581scriptures",
+            "\u2581Biblical"
+        ],
+        "description": "references to biblical teachings and scripture"
+    },
+    {
+        "index": "13541",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_13541.json",
+        "negative_strings": [
+            "httphttps",
+            "CloseOperation",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "addCriterion",
+            "endpush",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "awtextra",
+            "oredCriteria",
+            "tagHelperRunner",
+            "queryInterface"
+        ],
+        "positive_strings": [
+            "\u2581Bible",
+            "\u2581bible",
+            "\u2581scripture",
+            "\u2581Scripture",
+            "Bible",
+            "\u2581scriptures",
+            "\u2581biblical",
+            "\u2581Scriptures",
+            "\u2581BIBLE",
+            "bible"
+        ],
+        "description": "references to biblical scripture and teachings related to faith and practice"
+    }
+]

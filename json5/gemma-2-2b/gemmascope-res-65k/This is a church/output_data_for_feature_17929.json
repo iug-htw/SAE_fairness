@@ -1,0 +1,30 @@
+{
+    "index": "17929",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a church/data_for_feature_17929.json",
+    "negative_strings": [
+        "\u2581\u017fmall",
+        "\u03af\u03bd\u03b1\u03b9",
+        "\u0432\u0433\u0435\u043d\u0438\u0439",
+        "principalTable",
+        "\u2581Chriftian",
+        "\u2581Con\u017f",
+        "ValueStyle",
+        "\u2581them\u017felves",
+        "\u2581inva",
+        "AndEndTag"
+    ],
+    "positive_strings": [
+        "goers",
+        "rooms",
+        "wide",
+        "manship",
+        "mate",
+        "mates",
+        "man",
+        "\u2581naves",
+        "warden",
+        "userManager"
+    ],
+    "description": "references to organized religious institutions, particularly churches"
+}

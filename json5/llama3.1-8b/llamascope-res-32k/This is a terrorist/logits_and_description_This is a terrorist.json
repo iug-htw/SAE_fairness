@@ -1,0 +1,302 @@
+[
+    {
+        "index": "32001",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_32001.json",
+        "negative_strings": [
+            "iero",
+            " showc",
+            "orney",
+            "tures",
+            "OKIE",
+            "anness",
+            "arians",
+            "yard",
+            " d\u00c3\u00a9m",
+            "erte"
+        ],
+        "positive_strings": [
+            " financing",
+            "\u00c3\u0143f",
+            "/ext",
+            " activities",
+            "itories",
+            " groups",
+            "hythm",
+            " cell",
+            " Activities",
+            " suspect"
+        ],
+        "description": "references to terrorism and terrorist-related activities"
+    },
+    {
+        "index": "6312",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_6312.json",
+        "negative_strings": [
+            "arians",
+            "OKIE",
+            "iero",
+            "tures",
+            " showc",
+            "erte",
+            "anness",
+            "orney",
+            "attend",
+            "appen"
+        ],
+        "positive_strings": [
+            " activities",
+            " Activities",
+            " groups",
+            " financing",
+            "izing",
+            " suspect",
+            "/ext",
+            " activity",
+            " group",
+            "\u00c3\u0143f"
+        ],
+        "description": "terms associated with terrorism and terrorist activities"
+    },
+    {
+        "index": "22247",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_22247.json",
+        "negative_strings": [
+            "attend",
+            " showc",
+            "\u00e6\u00b3\u00a5",
+            "tures",
+            "ucky",
+            "Torrent",
+            "steen",
+            "arians",
+            "\u00d0\u00ba\u00d0\u00b0\u00d0\u00b2",
+            "erte"
+        ],
+        "positive_strings": [
+            "hythm",
+            " activities",
+            "izing",
+            "\u00e6\u0122\u0138",
+            " Activities",
+            "\u00c3\u0143f",
+            " chief",
+            "ized",
+            " groups",
+            "itories"
+        ],
+        "description": " terms related to terrorism and related threats"
+    },
+    {
+        "index": "16638",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_16638.json",
+        "negative_strings": [
+            "ethyst",
+            "allas",
+            " Sass",
+            "rzy",
+            "inventory",
+            " sass",
+            ":block",
+            ".heroku",
+            "\u00c4\u013dr",
+            "urum"
+        ],
+        "positive_strings": [
+            " terrorism",
+            " terrorist",
+            " terrorists",
+            " Terrorism",
+            " radical",
+            " terror",
+            " jihadist",
+            " extremism",
+            " Radical",
+            " Terror"
+        ],
+        "description": " references to terrorism and the associated funding mechanisms"
+    },
+    {
+        "index": "25071",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_25071.json",
+        "negative_strings": [
+            " showc",
+            "ucky",
+            "tures",
+            "\u00e6\u00b3\u00a5",
+            "elsey",
+            "itzer",
+            "arians",
+            "steen",
+            "ergarten",
+            "icap"
+        ],
+        "positive_strings": [
+            "hythm",
+            "\u00e6\u0122\u0138",
+            "izing",
+            "ormsg",
+            " activities",
+            "ozo",
+            "\u00c3\u0143f",
+            " Activities",
+            "itories",
+            "defer"
+        ],
+        "description": " terms and phrases related to terrorism and terrorist organizations"
+    },
+    {
+        "index": "24789",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_24789.json",
+        "negative_strings": [
+            "Licensed",
+            " ConfigureServices",
+            " ngh\u00e1\u00bb\u0123",
+            "-pencil",
+            "abilidad",
+            "po\u00c4\u012fet",
+            "histoire",
+            "eeper",
+            "orio",
+            "tridge"
+        ],
+        "positive_strings": [
+            " forces",
+            "-controlled",
+            "-aligned",
+            "-backed",
+            "-led",
+            "-aff",
+            "-held",
+            "-sponsored",
+            "-linked",
+            " Forces"
+        ],
+        "description": "references to terrorist groups and related conflicts"
+    },
+    {
+        "index": "12064",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_12064.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "islation",
+            " portions",
+            " Legislation",
+            " proceedings",
+            " iterations",
+            " putas",
+            " legislation",
+            " primaries",
+            " festivities"
+        ],
+        "positive_strings": [
+            " that",
+            "-related",
+            "-based",
+            " like",
+            "-like",
+            "-worthy",
+            " perspective",
+            "-specific",
+            "-driven",
+            "-centric"
+        ],
+        "description": "terms related to business acquisitions and financial dealings"
+    },
+    {
+        "index": "27873",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_27873.json",
+        "negative_strings": [
+            "\u00d9\u012a\u00d9\u012c\u00d9\u0126",
+            "no\u00c5\u013d\u00c4\u0129",
+            "EMU",
+            "\u00eb\u012d\u00b5",
+            " Terminal",
+            "anel",
+            "lac",
+            "_corners",
+            " discriminatory",
+            "bao"
+        ],
+        "positive_strings": [
+            " plot",
+            " attempt",
+            " charge",
+            " case",
+            " Plot",
+            " ring",
+            " plots",
+            " charges",
+            " suspect",
+            "-su"
+        ],
+        "description": " references to various forms of violent crime, especially murder"
+    },
+    {
+        "index": "29434",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_29434.json",
+        "negative_strings": [
+            " showc",
+            "arians",
+            "steen",
+            "attend",
+            "tures",
+            "lish",
+            "\u00e6\u00b3\u00a5",
+            "arian",
+            "ucky",
+            "\u00e6\u00a1\u00a3"
+        ],
+        "positive_strings": [
+            "\u00e6\u0122\u0138",
+            "hythm",
+            "ozo",
+            "ToDevice",
+            "ormsg",
+            "izing",
+            "itories",
+            ".LookAndFeel",
+            "\u00c3\u0143f",
+            " activities"
+        ],
+        "description": "references to terrorism and terrorist organizations"
+    },
+    {
+        "index": "31886",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a terrorist/data_for_feature_31886.json",
+        "negative_strings": [
+            "sik",
+            "izador",
+            "isateur",
+            "ibold",
+            "erli",
+            "piel",
+            " gratuits",
+            "bourg",
+            "ertz",
+            "oya"
+        ],
+        "positive_strings": [
+            "ship",
+            "hood",
+            "'s",
+            "ships",
+            "\u2019s",
+            " who",
+            "SHIP",
+            "esses",
+            " \u00e0\u00a4\u00ac\u00e0\u00a4\u00a8\u00e0\u00a4\u00a8",
+            "(ship"
+        ],
+        "description": "terms related to educational and professional roles"
+    }
+]

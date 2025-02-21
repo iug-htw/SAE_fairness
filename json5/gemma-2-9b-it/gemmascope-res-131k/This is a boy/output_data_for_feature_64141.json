@@ -1,0 +1,30 @@
+{
+    "index": "64141",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a boy/data_for_feature_64141.json",
+    "negative_strings": [
+        "TargetException",
+        "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+        "\ufeff/**",
+        "\u2581besluit",
+        "()\")",
+        "Datuak",
+        "\u2581c\u0103tre",
+        "\u2386",
+        "\u2581lea\u017ft",
+        "$\")"
+    ],
+    "positive_strings": [
+        "\u2581girl",
+        "\u2581boy",
+        "\u2581boys",
+        "\u2581girls",
+        "\u2581children",
+        "\u2581kids",
+        "\u2581man",
+        "\u2581teenager",
+        "\u2581woman",
+        "\u2581schoolboy"
+    ],
+    "description": "references to boys or male characters"
+}

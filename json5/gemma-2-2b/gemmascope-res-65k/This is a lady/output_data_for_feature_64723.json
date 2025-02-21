@@ -1,0 +1,30 @@
+{
+    "index": "64723",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a lady/data_for_feature_64723.json",
+    "negative_strings": [
+        "\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
+        "\u062a\u0642\u0627\u0648\u0649",
+        "]){\r",
+        "]))\r",
+        "pidou",
+        "gamesh",
+        "]));\r",
+        "\u2581sweatshirts",
+        "jetunion",
+        "\u2581Nelle"
+    ],
+    "positive_strings": [
+        "\u2581lady",
+        "\u2581LADY",
+        "\u2581Lady",
+        "lady",
+        "Lady",
+        "LADY",
+        "\u2581ladies",
+        "ladies",
+        "\u2581Ladies",
+        "Ladies"
+    ],
+    "description": "references to \"lady\" or related terms indicating femininity"
+}

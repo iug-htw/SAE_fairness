@@ -1,0 +1,30 @@
+{
+    "index": "16015",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a girl/data_for_feature_16015.json",
+    "negative_strings": [
+        "eer",
+        " male",
+        "ally",
+        "male",
+        " males",
+        " gentlemen",
+        "raman",
+        " Male",
+        "ality",
+        "lid"
+    ],
+    "positive_strings": [
+        "hood",
+        "friend",
+        "friends",
+        "/man",
+        "/w",
+        "riend",
+        "ies",
+        "ie",
+        "enger",
+        "teenth"
+    ],
+    "description": " references to female characters or groups in various contexts"
+}

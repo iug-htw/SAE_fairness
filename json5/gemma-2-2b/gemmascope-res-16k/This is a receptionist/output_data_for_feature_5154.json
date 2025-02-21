@@ -1,0 +1,30 @@
+{
+    "index": "5154",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a receptionist/data_for_feature_5154.json",
+    "negative_strings": [
+        "ViewImports",
+        "\u2581AssemblyCompany",
+        "\u00e9ges",
+        "createCanvas",
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "djangoproject",
+        "\u2581\u062a\u0627\u0646\u064a\u0647",
+        "\u2581ruine",
+        "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+        "BufferException"
+    ],
+    "positive_strings": [
+        "\u2581role",
+        "\u2581roles",
+        "role",
+        "\u2581Role",
+        "Role",
+        "\u2581ROLE",
+        "\u2581r\u00f4le",
+        "\u2581Roles",
+        "\u2581ruolo",
+        "ROLE"
+    ],
+    "description": "roles and responsibilities related to management and leadership"
+}

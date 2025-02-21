@@ -1,0 +1,30 @@
+{
+    "index": "123071",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_123071.json",
+    "negative_strings": [
+        "\u2581de\u017ft",
+        "\u2581\u017fta",
+        "\u2581it\u017felf",
+        "\u2581\u017fte",
+        "\u2581\u017fur",
+        "\u017felf",
+        "\u2581purpo\u017fe",
+        "zembro",
+        "\u2581\u017fche",
+        "\u2581fr\u00e9"
+    ],
+    "positive_strings": [
+        "ScopeManager",
+        "InjectAttribute",
+        "bibinfo",
+        "cal\u00e7a",
+        "IUrlHelper",
+        "\u2581uska",
+        "webtoken",
+        "NewLabel",
+        "SuspendLayout",
+        "kw\u00fcr"
+    ],
+    "description": "substrings with specific character patterns or sequences"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "6600",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a girl/data_for_feature_6600.json",
+    "negative_strings": [
+        "yntaxException",
+        "\"=>\"",
+        "\u2581InputDecoration",
+        "ciutto",
+        "\u2581hinweg",
+        "$\")",
+        "\u00b4)",
+        "\u2581Uncategorized",
+        ">\")",
+        "()\")"
+    ],
+    "positive_strings": [
+        "\u2581girls",
+        "\u2581Girls",
+        "\u2581girl",
+        "Girls",
+        "\u2581Girl",
+        "\u2581GIRLS",
+        "\u2581GIRL",
+        "Girl",
+        "girl",
+        "girls"
+    ],
+    "description": "mentions of girls and related gender terms"
+}

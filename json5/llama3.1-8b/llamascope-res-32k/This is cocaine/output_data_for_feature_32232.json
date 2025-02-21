@@ -1,0 +1,30 @@
+{
+    "index": "32232",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is cocaine/data_for_feature_32232.json",
+    "negative_strings": [
+        " drugs",
+        " narcotics",
+        " drug",
+        "antino",
+        "drug",
+        " Drugs",
+        " \u00e8\u012f",
+        " drunken",
+        " narc",
+        " undermin"
+    ],
+    "positive_strings": [
+        " powder",
+        " purity",
+        " street",
+        " Powder",
+        "street",
+        " powdered",
+        " pure",
+        " Street",
+        " PURE",
+        " STREET"
+    ],
+    "description": " substances related to drug use and addiction"
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "index": "593",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is an engineer/data_for_feature_593.json",
+        "negative_strings": [
+            "\u2581exact",
+            "\u2581entire",
+            "\u2581issue",
+            "\u2581average",
+            "\u2581hour",
+            "\u2581alternative",
+            "\u2581answer",
+            "\u2581official",
+            "\u2581idea",
+            "\u2581increase"
+        ],
+        "positive_strings": [
+            "\u2581Chwiliwch",
+            "ConstraintMaker",
+            "setVerticalGroup",
+            "ViewFeatures",
+            "########.",
+            "IUrlHelper",
+            "\u2581InputDecoration",
+            "\u2581Paglinawan",
+            "EndInit",
+            "DeleteBehavior"
+        ],
+        "description": " attends to the token \"an\" from feminine markers represented by \"ky\" and \"nal\""
+    },
+    {
+        "index": "9631",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is an engineer/data_for_feature_9631.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581ModelExpression",
+            "WebElementEntity",
+            "\u2581betweenstory",
+            "argout",
+            "\u2581nakalista",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u51fa\u7248\u5e74",
+            "\">//",
+            "\u2581them\u017felves"
+        ],
+        "positive_strings": [
+            "\u2581meant",
+            "\u2581true",
+            "\u09be\u09ac",
+            "\ufdfa",
+            "\u2581territory",
+            "Wolf",
+            "\u2581exactly",
+            "\u2581aimed",
+            "bewerken",
+            "true"
+        ],
+        "description": " attends to the expression \"this is\" from earlier tokens identified as contextually significant"
+    },
+    {
+        "index": "9736",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is an engineer/data_for_feature_9736.json",
+        "negative_strings": [
+            "\u2581engineering",
+            "\u2581engineer",
+            "\u2581Engineering",
+            "\u2581Engineer",
+            "\u2581engineers",
+            "engineering",
+            "\u2581ENGINEERING",
+            "\u2581Engineers",
+            "Engineering",
+            "engineer"
+        ],
+        "positive_strings": [
+            "ItemBackground",
+            "stris",
+            "\u2581Kun",
+            "AsUp",
+            "Tarot",
+            "BeginContext",
+            "IDC",
+            "\u2581HasFactory",
+            "uscany",
+            "riwal"
+        ],
+        "description": " attends to the token \"Engineering\" from tokens related to \"engineering\" in various contexts"
+    }
+]

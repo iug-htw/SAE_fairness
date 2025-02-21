@@ -1,0 +1,30 @@
+{
+    "index": "12685",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a terrorist/data_for_feature_12685.json",
+    "negative_strings": [
+        "\u2581OnInit",
+        "cemment",
+        "dauer",
+        "\u2581mandato",
+        "sz\u00f6n",
+        "sv",
+        "\u2581B\u00fchne",
+        "S\u00edguenos",
+        "Przypisy",
+        "Referanser"
+    ],
+    "positive_strings": [
+        "\u2581Traffic",
+        "Traffic",
+        "\u2581traffic",
+        "\u2581flow",
+        "\u2581TRAFFIC",
+        "traffic",
+        "\u6d41\u91cf",
+        "\u2581Flow",
+        "\u2581trafic",
+        "\u2581FLOW"
+    ],
+    "description": "terms related to traffic and transportation systems"
+}

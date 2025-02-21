@@ -1,0 +1,30 @@
+{
+    "index": "52905",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a church/data_for_feature_52905.json",
+    "negative_strings": [
+        "\u2581\u017fmall",
+        "\u2581my\u017felf",
+        "\u2581poffe",
+        "\u2581them\u017felves",
+        "\u2581Efq",
+        "\u2581Monfieur",
+        "\u2581rea\u017fon",
+        "\u2581\u017feveral",
+        "\u2581poffible",
+        "\u2581fa\u017ft"
+    ],
+    "positive_strings": [
+        "\u2581Church",
+        "urches",
+        "</b>",
+        "CHURCH",
+        "</i>",
+        "\u2581churches",
+        "\u2581Churchill",
+        "\u2581CHURCH",
+        "goers",
+        "\u2581Ch"
+    ],
+    "description": "mentions of the Church, particularly the Church of Scientology and related terms"
+}

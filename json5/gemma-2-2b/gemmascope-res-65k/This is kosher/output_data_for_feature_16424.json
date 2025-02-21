@@ -1,0 +1,30 @@
+{
+    "index": "16424",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is kosher/data_for_feature_16424.json",
+    "negative_strings": [
+        "\u05b9\u05ea",
+        "Datuak",
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9",
+        "\u05d5\u05b9\u05ea",
+        "\u05b6\u05d4",
+        "\u2581\u05e1\u05e1",
+        "\u2581VND",
+        "\u2581<>\",",
+        "\u2581Vietnamese",
+        "\u2581Pandey"
+    ],
+    "positive_strings": [
+        "\u2581Jewish",
+        "\u2581Israeli",
+        "\u2581Israel",
+        "\u2581Jews",
+        "Jewish",
+        "\u2581Hebrew",
+        "Israel",
+        "\u2581Judaism",
+        "\u2581Rabbi",
+        "Israeli"
+    ],
+    "description": "references to community leadership and social dynamics"
+}

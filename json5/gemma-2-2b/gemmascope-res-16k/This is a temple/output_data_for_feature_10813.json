@@ -1,0 +1,30 @@
+{
+    "index": "10813",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_10813.json",
+    "negative_strings": [
+        "\u2581BoxDecoration",
+        "Datuak",
+        "TagMode",
+        "\u2581resourceCulture",
+        "\u2581@\"/",
+        "\u2581disambiguazione",
+        "Carriera",
+        "bootstrapcdn",
+        "\u2581wireType",
+        "featureID"
+    ],
+    "positive_strings": [
+        "\u2581located",
+        "\u2581situated",
+        "\u2581floor",
+        "\u2581facilities",
+        "\u2581dwellers",
+        "\u2581manager",
+        "\u2581owner",
+        "\u2581owners",
+        "\u2581closures",
+        "\u2581entrance"
+    ],
+    "description": "references to places and facilities"
+}

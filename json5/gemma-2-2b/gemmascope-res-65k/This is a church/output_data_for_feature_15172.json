@@ -1,0 +1,30 @@
+{
+    "index": "15172",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a church/data_for_feature_15172.json",
+    "negative_strings": [
+        "\u2581EconPapers",
+        "InSection",
+        "RectangleBorder",
+        "Geplaatst",
+        "\u2581Efq",
+        "UnsafeEnabled",
+        "RenderAtEndOf",
+        "adaptiveStyles",
+        "\u2581Monfieur",
+        "\u2581Athenians"
+    ],
+    "positive_strings": [
+        "\u2581religione",
+        "\u26ea",
+        "\u2581congregations",
+        "\u2581congregation",
+        "\u2581choir",
+        "\u2581catholique",
+        "\u043d\u0430\u0447\u0435",
+        "\u2581Church",
+        "hoven",
+        "\u2581pew"
+    ],
+    "description": "references to religious organizations or institutions"
+}

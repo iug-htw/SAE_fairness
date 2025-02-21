@@ -1,0 +1,30 @@
+{
+    "index": "121195",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Mann/data_for_feature_121195.json",
+    "negative_strings": [
+        "Personendaten",
+        "\u2581EconPapers",
+        "\u2581autorytatywna",
+        "\u2581nahilalakip",
+        "Personensuche",
+        "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+        "\u2581utafitiHapana",
+        "\u2581unknownFields",
+        "<unused52>",
+        "<unused28>"
+    ],
+    "positive_strings": [
+        ",",
+        "which",
+        "\u2581which",
+        "\uff0c",
+        "\u2581Which",
+        "\u060c",
+        "whose",
+        "Which",
+        "\u2581whose",
+        "\u2581\u043a\u043e\u0442\u043e\u0440\u044b\u0439"
+    ],
+    "description": "elements related to conditions, opinions, and necessary actions"
+}

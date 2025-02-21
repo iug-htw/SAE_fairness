@@ -1,0 +1,30 @@
+{
+    "index": "3815",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3815.json",
+    "negative_strings": [
+        ")=(",
+        "rencies",
+        "conom",
+        "ernels",
+        "venants",
+        "rils",
+        "uliffe",
+        "geist",
+        "rices",
+        "blers"
+    ],
+    "positive_strings": [
+        " checkpoint",
+        " outpost",
+        " compound",
+        " barracks",
+        " camp",
+        " convoy",
+        " base",
+        " bunker",
+        " depot",
+        " garrison"
+    ],
+    "description": "phrases related to military operations and conflict"
+}

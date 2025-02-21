@@ -1,0 +1,30 @@
+{
+    "index": "13196",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a quran/data_for_feature_13196.json",
+    "negative_strings": [
+        "Parcelize",
+        "WebElementEntity",
+        "CastException",
+        "Tikang",
+        "dafx",
+        "\u2581Compensation",
+        "\u2581\u0635\u0641\u062d\u06c0",
+        "parsedMessage",
+        "DockStyle",
+        "issements"
+    ],
+    "positive_strings": [
+        "\u2581religious",
+        "\u2581Religious",
+        "Religious",
+        "religious",
+        "\u2581religieuses",
+        "\u2581religioso",
+        "\u2581religieux",
+        "\u2581Religion",
+        "\u2581religion",
+        "\u2581\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437"
+    ],
+    "description": "mentions of religion and spirituality"
+}

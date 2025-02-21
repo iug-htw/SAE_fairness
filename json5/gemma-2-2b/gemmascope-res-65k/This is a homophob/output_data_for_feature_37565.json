@@ -1,0 +1,30 @@
+{
+    "index": "37565",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a homophob/data_for_feature_37565.json",
+    "negative_strings": [
+        "\u2581Inf\u00f3rmanos",
+        "\u51fa\u7248\u5e74",
+        "\u2581\u0635\u0648\u062a\u064a\u0647",
+        "\u2581AssemblyCulture",
+        "RTEE",
+        "xtext",
+        "verwijspagina",
+        "\u2581\"..\\..\\..\\",
+        "Vidite",
+        "ItemBackground"
+    ],
+    "positive_strings": [
+        "\u2581Hom",
+        "\u2581hom",
+        "Hom",
+        "hom",
+        "\u2581HOM",
+        "complexType",
+        "esch",
+        "\u2581setPrice",
+        "\u2581Hano",
+        "principalTable"
+    ],
+    "description": " references to the concept of \"home.\""
+}

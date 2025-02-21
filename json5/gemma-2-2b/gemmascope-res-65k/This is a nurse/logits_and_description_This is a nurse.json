@@ -1,0 +1,302 @@
+[
+    {
+        "index": "17529",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_17529.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "Geplaatst",
+            "TagMode",
+            "\u0627\u0644\u0645\u0635\u0627\u062f\u0631",
+            "\u9190",
+            "Diwedd",
+            "redients",
+            "pportun",
+            "sbericht",
+            "\u0627\u0644\u0645\u0631\u0627\u062c\u0639"
+        ],
+        "positive_strings": [
+            "maid",
+            "\u2581practitioner",
+            "maids",
+            "\u2581Practitioner",
+            "\u00e9moc",
+            "\u2581practitioners",
+            "\u2581anesthe",
+            "\u2581practition",
+            "\u2581Practitioners",
+            "practi"
+        ],
+        "description": "terms related to nursing and nurse management"
+    },
+    {
+        "index": "29501",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_29501.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "unknownFields",
+            "\u0627\u0644\u062d\u064a\u0627\u0647",
+            "\u2581AssemblyProduct",
+            "modb",
+            "FormTagHelper",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581Yahya",
+            "\u2581gynhyrchwyd",
+            "parsedMessage"
+        ],
+        "positive_strings": [
+            "maids",
+            "maid",
+            "\u2581homes",
+            "\u2581practitioner",
+            "\u00e9moc",
+            "\u2581home",
+            "\u2581anesthe",
+            "\u2581Homes",
+            "\u2581Practitioner",
+            "\u2581HOMES"
+        ],
+        "description": "terms related to nursing and nurse management"
+    },
+    {
+        "index": "54691",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_54691.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "\u9190",
+            "parsedMessage",
+            "\u0627\u0644\u062d\u064a\u0627\u0647",
+            "PickerController",
+            "\u2581gynhyrchwyd",
+            "principalColumn",
+            "\u2581AssemblyProduct",
+            "\u0627\u0644\u0645\u0635\u0627\u062f\u0631",
+            "\u2581\u017fp"
+        ],
+        "positive_strings": [
+            "\u2581practitioner",
+            "maid",
+            "maids",
+            "\u2581Practitioner",
+            "\u2581practitioners",
+            "\u2581anesthe",
+            "\u2581practition",
+            "Xna",
+            "\u2581Practitioners",
+            "\u00e9moc"
+        ],
+        "description": "terms related to nursing and healthcare professionals"
+    },
+    {
+        "index": "62703",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_62703.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "Geplaatst",
+            "oredCriteria",
+            "\u2581plea\u017fure",
+            "MessageOf",
+            "principalColumn",
+            "GEBURTSDATUM",
+            "Diwedd",
+            "\u2581BrowserModule",
+            "\u2581\u017fche"
+        ],
+        "positive_strings": [
+            "maid",
+            "maids",
+            "\u2581practitioner",
+            "\u2581Practitioner",
+            "\u2581practitioners",
+            "\u00e9moc",
+            "practi",
+            "wor",
+            "\u0101ti",
+            "\u2581practition"
+        ],
+        "description": "terms related to nursing and nurse management"
+    },
+    {
+        "index": "32476",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_32476.json",
+        "negative_strings": [
+            "Diwedd",
+            "Obr\u00e1zky",
+            "\u2581plea\u017fure",
+            "\u2581Majefty",
+            "Geplaatst",
+            "\u2581Monfieur",
+            "\u2581u\u017f",
+            "\u2581purpo\u017fe",
+            "\u2581Per\u017f",
+            "\u2581\u017fmall"
+        ],
+        "positive_strings": [
+            "maid",
+            "maids",
+            "\u2581practitioner",
+            "\u00e9moc",
+            "\u2581Practitioner",
+            "\u2581care",
+            "featureID",
+            "NOTES",
+            "\u2581Clio",
+            "\u2581inoxydable"
+        ],
+        "description": "references to nurses and nursing"
+    },
+    {
+        "index": "11561",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_11561.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "Geplaatst",
+            "GEBURTSDATUM",
+            "GGLE",
+            "oredCriteria",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "alty",
+            "pexpr",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "principalColumn"
+        ],
+        "positive_strings": [
+            "maid",
+            "maids",
+            "\u2581practitioner",
+            "\u2581Practitioner",
+            "\u2581Cullen",
+            "\u00e9moc",
+            "\u2581nurses",
+            "\u0633\u062a\u0627\u0646\u06cc",
+            "\u2581lourdes",
+            "ly"
+        ],
+        "description": "references to the nursing profession and nurse managers"
+    },
+    {
+        "index": "46870",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_46870.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "GEBURTSDATUM",
+            "oredCriteria",
+            "Geplaatst",
+            "windowFixed",
+            "fjspx",
+            "\u2581gynhyrchwyd",
+            "GGLE",
+            "pexpr",
+            "principalColumn"
+        ],
+        "positive_strings": [
+            "\u2581nurses",
+            "\u2581Nurses",
+            "maid",
+            "Nurse",
+            "\u2581nurse",
+            "\u2581Nurse",
+            "\u2581nursing",
+            "nurse",
+            "maids",
+            "\u2581Cullen"
+        ],
+        "description": "references to nurses and nursing roles"
+    },
+    {
+        "index": "38810",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_38810.json",
+        "negative_strings": [
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "Geplaatst",
+            "enumi",
+            "\u2581\u062a\u0639\u062f\u0649",
+            "NameInMap",
+            "\u2581Treaty",
+            "\u2581[*]",
+            "+#+",
+            "TemporalType",
+            "dymyr"
+        ],
+        "positive_strings": [
+            "\u2581aide",
+            "\u2581shortage",
+            "\u2581CANDIDATE",
+            "preparation",
+            "\u2581candidate",
+            "\u2581aides",
+            "\u2581preparation",
+            "VIAF",
+            "\u2581Aide",
+            "\u2581candidates"
+        ],
+        "description": " references to teachers and nurses in various contexts"
+    },
+    {
+        "index": "23282",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_23282.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "\u2581plea\u017fure",
+            "\u2581\u017fmall",
+            "oredCriteria",
+            "\ufeff/**",
+            "fjspx",
+            "\u2581Templ",
+            "WebVitals",
+            "^(@)",
+            "GEBURTSDATUM"
+        ],
+        "positive_strings": [
+            "\u2581nurses",
+            "\u2581Nurses",
+            "maid",
+            "Nurse",
+            "\u2581nursing",
+            "\u2581nurse",
+            "\u2581NURS",
+            "nursing",
+            "Nursing",
+            "\u2581Nursing"
+        ],
+        "description": " terms related to nursing and nurse management"
+    },
+    {
+        "index": "31636",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_31636.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "\u2581BorderSide",
+            "WebVitals",
+            "oredCriteria",
+            "\u03bc\u03bc",
+            "\u2581ujednoznacz",
+            "pexpr",
+            "\u2581Templ",
+            "\u2581AssemblyProduct",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448"
+        ],
+        "positive_strings": [
+            "\u2581nurses",
+            "\u2581nursing",
+            "\u2581Nurses",
+            "nursing",
+            "\u2581nurse",
+            "\u2581Nursing",
+            "Nurse",
+            "Nursing",
+            "\u2581nursed",
+            "nurse"
+        ],
+        "description": "terms related to nursing professionals and their roles"
+    }
+]

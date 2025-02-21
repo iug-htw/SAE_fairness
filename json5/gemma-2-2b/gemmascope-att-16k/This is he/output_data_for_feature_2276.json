@@ -1,0 +1,30 @@
+{
+    "index": "2276",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is he/data_for_feature_2276.json",
+    "negative_strings": [
+        "<bos>",
+        "\u2581he",
+        "He",
+        "\u2581He",
+        "'",
+        "',",
+        "\u2581\u043e\u043d",
+        ".'",
+        "\",",
+        "\u2581she"
+    ],
+    "positive_strings": [
+        "\u2581my\u017felf",
+        "\u2581auroit",
+        "\u2581feroit",
+        "\u2581Hou\u017fe",
+        "\u2581pouvoit",
+        "\u2581juger",
+        "\u2581purpo\u017fe",
+        "fjspx",
+        "\u2581\u00e9trang\u00e8re",
+        "\u2581\u00e9toit"
+    ],
+    "description": " attends to various tokens marked as \"he\" from preceding tokens"
+}

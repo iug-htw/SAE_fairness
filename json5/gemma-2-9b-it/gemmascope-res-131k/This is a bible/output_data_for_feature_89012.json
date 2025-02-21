@@ -1,0 +1,30 @@
+{
+    "index": "89012",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a bible/data_for_feature_89012.json",
+    "negative_strings": [
+        "IsContent",
+        "\u2581<<<<<<<<<<<<<<",
+        "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+        "ScopeManager",
+        "VersionUID",
+        "\u2581propOrder",
+        "ThemeOverlay",
+        "AddTagHelper",
+        "printStackTrace",
+        "pantalones"
+    ],
+    "positive_strings": [
+        "\u2581club",
+        "\u2581clubs",
+        "club",
+        "\u2581Club",
+        "Club",
+        "\u2581CLUB",
+        "clubs",
+        "\u2581Clubs",
+        "CLUB",
+        "\u2581group"
+    ],
+    "description": "references to book clubs and associated activities"
+}

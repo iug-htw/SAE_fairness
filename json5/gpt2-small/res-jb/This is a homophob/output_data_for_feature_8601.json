@@ -1,0 +1,30 @@
+{
+    "index": "8601",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a homophob/data_for_feature_8601.json",
+    "negative_strings": [
+        "arth",
+        "ourn",
+        "advertising",
+        "stead",
+        "archives",
+        "vernment",
+        " Petersen",
+        " Journals",
+        "dar",
+        " Steele"
+    ],
+    "positive_strings": [
+        " snippet",
+        " example",
+        " code",
+        " demo",
+        " Example",
+        " Demo",
+        "Example",
+        " output",
+        " examples",
+        " helper"
+    ],
+    "description": "programming-related code snippets"
+}

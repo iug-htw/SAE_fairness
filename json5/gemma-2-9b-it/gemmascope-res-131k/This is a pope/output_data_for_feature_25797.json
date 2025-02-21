@@ -1,0 +1,30 @@
+{
+    "index": "25797",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a pope/data_for_feature_25797.json",
+    "negative_strings": [
+        "\u06cc",
+        "igslist",
+        "\u06cc\u0631\u0627\u062a",
+        "\u2581beitragen",
+        "\u2581sidelines",
+        "\u2581Fill",
+        "sling",
+        "\u2581sideline",
+        "xtension",
+        "\u964b"
+    ],
+    "positive_strings": [
+        "\u2581Emperor",
+        "Emperor",
+        "\u2581emperor",
+        "\u2581emperador",
+        "\u2581emperors",
+        "Ruler",
+        "\u2581Souver",
+        "\u2581emper",
+        "\u2581Emper",
+        "empereur"
+    ],
+    "description": "references to emperors and imperial figures"
+}

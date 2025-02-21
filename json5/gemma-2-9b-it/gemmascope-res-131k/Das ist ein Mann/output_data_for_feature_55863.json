@@ -1,0 +1,30 @@
+{
+    "index": "55863",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Mann/data_for_feature_55863.json",
+    "negative_strings": [
+        "\ud83c\udffc",
+        "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+        "\ud83c\udffd",
+        "\u306e\u3067",
+        "terase",
+        "\u2581ng\u00e0o",
+        "\ud83c\udfff",
+        "\u0dca",
+        "\ud83c\udffb",
+        "ticio"
+    ],
+    "positive_strings": [
+        "ann",
+        "nnn",
+        "mann",
+        "\u00e6nd",
+        "\u2581defaultstate",
+        "enn",
+        "nn",
+        "DebuggerStep",
+        "ings",
+        "nnnn"
+    ],
+    "description": "references to the person named \"Mann\" and related pronouns"
+}

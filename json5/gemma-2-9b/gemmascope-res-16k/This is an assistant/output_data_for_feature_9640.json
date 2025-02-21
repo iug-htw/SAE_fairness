@@ -1,0 +1,30 @@
+{
+    "index": "9640",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an assistant/data_for_feature_9640.json",
+    "negative_strings": [
+        "\u2581<<<<<<<<<<<<<<",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "\u2581nahilalakip",
+        "rungsseite",
+        "\u2581disambiguazione",
+        "RenderAtEndOf",
+        "\u2581parall",
+        "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "WriteTagHelper"
+    ],
+    "positive_strings": [
+        "\u2581editor",
+        "\u2581Editor",
+        "\u2581professor",
+        "editor",
+        "\u2581prosecutor",
+        "Editor",
+        "\u2581Professor",
+        "\u2581Solicitor",
+        "\u2581Editors",
+        "\u2581solicitor"
+    ],
+    "description": " titles and roles related to assistant positions within various professions"
+}

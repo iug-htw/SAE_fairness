@@ -1,0 +1,30 @@
+{
+    "index": "11896",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a terrorist/data_for_feature_11896.json",
+    "negative_strings": [
+        "\u2581PeEnEo",
+        "ToScroll",
+        "\u2581referirse",
+        "parsedMessage",
+        "Carriera",
+        "\u2581jLabel",
+        "ObservableList",
+        "\">{{$",
+        "JoinColumn",
+        "\u2581Bean"
+    ],
+    "positive_strings": [
+        "\u2581terrorism",
+        "\u2581Terrorism",
+        "\u2581terrorist",
+        "terrorism",
+        "\u2581terrorismo",
+        "\u2581terrorists",
+        "RenderAtEndOf",
+        "Terror",
+        "terror",
+        "Qaeda"
+    ],
+    "description": " references to significant events, particularly related to terrorism and major historical incidents"
+}

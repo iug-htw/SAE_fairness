@@ -1,0 +1,122 @@
+[
+    {
+        "index": "4479",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is naiveThis is money/data_for_feature_4479.json",
+        "negative_strings": [
+            "Datuak",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581lenker",
+            "principalColumn",
+            "\u2581snippetHide",
+            "\u2581nahilalakip",
+            "GEBURTS",
+            "HasAnnotation",
+            "\u2581AssemblyProduct"
+        ],
+        "positive_strings": [
+            "\u2581foolish",
+            "\u2581stupid",
+            "\u2581idiotic",
+            "\u2581silly",
+            "stupid",
+            "\u2581Stupid",
+            "Stupid",
+            "dumb",
+            "\u2581dumb",
+            "\u2581idiots"
+        ],
+        "description": " derogatory terms and phrases related to foolishness or lack of intelligence"
+    },
+    {
+        "index": "2382",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is naiveThis is money/data_for_feature_2382.json",
+        "negative_strings": [
+            "Abit",
+            "seamn\u0103",
+            "AutoScaleMode",
+            "ToScroll",
+            "\u2581>=\",",
+            "\u2581/\\.(",
+            "Hozz\u00e1f\u00e9r\u00e9s",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "IContainer",
+            "\u2581ffilm"
+        ],
+        "positive_strings": [
+            "\u2581fodder",
+            "\u2581stuff",
+            "\u2581territory",
+            "\u2581advice",
+            "\u2581evidence",
+            "\u2581fare",
+            "\u2581medicine",
+            "\u2581entertainment",
+            "\u2581information",
+            "\u2581news"
+        ],
+        "description": " positive evaluations or sentiments about various subjects"
+    },
+    {
+        "index": "10760",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is naiveThis is money/data_for_feature_10760.json",
+        "negative_strings": [
+            "metries",
+            "\u00e8cie",
+            "onets",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "ricians",
+            "parency",
+            "\u2581Roskov",
+            "juries",
+            "uage",
+            "uality"
+        ],
+        "positive_strings": [
+            "\u2581enough",
+            "enough",
+            "\u2581genug",
+            "\u2581ENOUGH",
+            "\u2581genoeg",
+            "\u2581demais",
+            "\u2581Enough",
+            "Enough",
+            "ly",
+            "\u2581compared"
+        ],
+        "description": "terms related to size, effectiveness, and physical properties"
+    },
+    {
+        "index": "8053",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is naiveThis is money/data_for_feature_8053.json",
+        "negative_strings": [
+            "DockStyle",
+            "seamn\u0103",
+            "enderror",
+            "\u2581n\u00e4m",
+            "ngdoc",
+            "Portail",
+            "\u2581kasarigan",
+            "\u2581d\u00e9sol\u00e9s",
+            "Enllaces",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647"
+        ],
+        "positive_strings": [
+            "ness",
+            "NESS",
+            "\u2581demeanor",
+            "\u2581souls",
+            "ne\u017fs",
+            "\u2581disposition",
+            "\u0627\u0646\u0647",
+            "\u2581attitude",
+            "\u2581ness",
+            "\u2581disregard"
+        ],
+        "description": "emotions and attitudes associated with gentleness and kindness"
+    }
+]

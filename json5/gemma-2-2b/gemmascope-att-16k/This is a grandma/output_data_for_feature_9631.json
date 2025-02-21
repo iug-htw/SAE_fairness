@@ -1,0 +1,30 @@
+{
+    "index": "9631",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a grandma/data_for_feature_9631.json",
+    "negative_strings": [
+        "LookAnd",
+        "\u2581ModelExpression",
+        "WebElementEntity",
+        "\u2581betweenstory",
+        "argout",
+        "\u2581nakalista",
+        "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+        "\u51fa\u7248\u5e74",
+        "\">//",
+        "\u2581them\u017felves"
+    ],
+    "positive_strings": [
+        "\u2581meant",
+        "\u2581true",
+        "\u09be\u09ac",
+        "\ufdfa",
+        "\u2581territory",
+        "Wolf",
+        "\u2581exactly",
+        "\u2581aimed",
+        "bewerken",
+        "true"
+    ],
+    "description": " attends to the expression \"this is\" from earlier tokens identified as contextually significant"
+}

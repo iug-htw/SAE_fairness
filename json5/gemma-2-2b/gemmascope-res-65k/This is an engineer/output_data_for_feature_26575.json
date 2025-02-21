@@ -1,0 +1,30 @@
+{
+    "index": "26575",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is an engineer/data_for_feature_26575.json",
+    "negative_strings": [
+        "ContentAsync",
+        "\u2581engineered",
+        "\u2581engineering",
+        "\u2581Engineering",
+        "\u2581engineer",
+        "\u2581ENGINEER",
+        "\u2581ENGINEERING",
+        "\u2581Engineer",
+        "IsInitialized",
+        "engineering"
+    ],
+    "positive_strings": [
+        "\u2581marvels",
+        "\u2581feats",
+        "\u2581marvel",
+        "\u2581plastics",
+        "\u2581therm",
+        "\u2581ac\u00fas",
+        "\u2581design",
+        "\u2581drawings",
+        "\u2581pl\u00e1sticos",
+        "toJSON"
+    ],
+    "description": "terms related to engineering and its various applications"
+}

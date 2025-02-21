@@ -1,0 +1,422 @@
+[
+    {
+        "index": "40731",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_40731.json",
+        "negative_strings": [
+            "\u2581S\u00fcnde",
+            "\u2581enfans",
+            "\u2581Menschheit",
+            "\u2581mijne",
+            "\u2581Wikiseite",
+            "\u2581Feinde",
+            "\u2581cejas",
+            "\u2581S\u00fcnden",
+            "\u2581Ge\u017fch",
+            "\u2581Tieren"
+        ],
+        "positive_strings": [
+            "\u2581\u201e",
+            "\u2581ver",
+            "\u2581rech",
+            "\u2581authenti",
+            "\u2581hin",
+            "\u2581horizont",
+            "\u2581\u00b4",
+            "\u2581\u201a",
+            "\u2581dyna",
+            "\u2581blin"
+        ],
+        "description": " requests related to file handling and permissions"
+    },
+    {
+        "index": "80886",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_80886.json",
+        "negative_strings": [
+            "\u2581linkovi",
+            "\u2581EconPapers",
+            "st\u00e5ende",
+            "EndInit",
+            "UnknownFields",
+            "\u2581\ub300\ud574",
+            "tehen",
+            "=\"\">\r",
+            "\u2581@\"/",
+            "BeginInit"
+        ],
+        "positive_strings": [
+            "girls",
+            "\u2581Girls",
+            "\u2581scout",
+            "\u2581girls",
+            "Girl",
+            "\u2581Girl",
+            "\u2581scouts",
+            "\ud83d\udc67",
+            "Girls",
+            "girl"
+        ],
+        "description": "references to girls or young females"
+    },
+    {
+        "index": "89506",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_89506.json",
+        "negative_strings": [
+            "anyahu",
+            ")}\r",
+            "\u65e5\u95b2\u89a7",
+            "\u2581CNA",
+            "\u2581McIntyre",
+            ")),\r",
+            "\u2581McIntosh",
+            "\u2581condolences",
+            "']))\r",
+            "anio"
+        ],
+        "positive_strings": [
+            "Girl",
+            "\u2581girl",
+            "\u2581Girl",
+            "girl",
+            "\u2581GIRL",
+            "Girls",
+            "\u2581Girls",
+            "\u2581girls",
+            "girls",
+            "GIRL"
+        ],
+        "description": "references to girls, emphasizing their roles and identities in various contexts"
+    },
+    {
+        "index": "68484",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_68484.json",
+        "negative_strings": [
+            "\u2581his",
+            "himself",
+            "\u2581himself",
+            "\u2581him\u017felf",
+            "\u2581h\u00e4nen",
+            "\u2581herself",
+            "his",
+            "\u5f7c\u306e",
+            "\u2581Administrativna",
+            "herself"
+        ],
+        "positive_strings": [
+            "\u2581\u043a\u043e\u0442\u043e\u0440\u043e\u0435",
+            "\u2581its",
+            "\u2581\u044f\u043a\u0435",
+            "\u2581\u041e\u043d\u043e",
+            "Its",
+            "\u2581\u043e\u043d\u043e",
+            "\u2581Its",
+            "\u2581itself",
+            "\u5b83\u7684",
+            "its"
+        ],
+        "description": "words related to chemical compounds and their properties in a scientific context"
+    },
+    {
+        "index": "62242",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_62242.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
+            "\u2581de\u017f\u017fen",
+            "RenderAtEndOf",
+            "makeConstraints",
+            "maj\u00e1nl\u00f3",
+            "\u2581Gei\u017ft",
+            "\u2581rodillas",
+            "\u2581cuerda",
+            "\u2581imagui"
+        ],
+        "positive_strings": [
+            "gur",
+            "-",
+            "pro",
+            "\u2581Prisma",
+            "ful",
+            "gu",
+            "per",
+            "ent",
+            "meta",
+            "orm"
+        ],
+        "description": " terms related to geographical locations, institutions, or data entities"
+    },
+    {
+        "index": "12445",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_12445.json",
+        "negative_strings": [
+            "\u2581stuks",
+            "\u2581\u091a\u0940\u095b\u094b\u0902",
+            "curities",
+            "\u2581democr\u00e1tica",
+            "\u2581wife",
+            "\u2581directories",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "AnchorStyles",
+            "\u2581diodes",
+            "\u2581avulla"
+        ],
+        "positive_strings": [
+            "\udb40\udc74",
+            "Tikang",
+            "parsedMessage",
+            "\u2581defaultstate",
+            "RenderAtEndOf",
+            "\u2581peuples",
+            "holdet",
+            "\u2581gouvernements",
+            "\u2581bouquet",
+            "\u2581v\u00e9rit"
+        ],
+        "description": "specific terms and elements related to programming and technical specifications"
+    },
+    {
+        "index": "82289",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_82289.json",
+        "negative_strings": [
+            "\u2581retirees",
+            "\u2581utilizzando",
+            "\u2581using",
+            "\u2581utilizando",
+            "\u2581retired",
+            "unak",
+            "\u2581usando",
+            "\u2581utilising",
+            "\u2581kinerja",
+            "\u2581Begegn"
+        ],
+        "positive_strings": [
+            "\u2581girl",
+            "\u2581girls",
+            "\u2581Girls",
+            "Girls",
+            "\u2581boys",
+            "\u2581boy",
+            "\u2581GIRLS",
+            "Girl",
+            "girls",
+            "girl"
+        ],
+        "description": "references to girls and gender-related themes"
+    },
+    {
+        "index": "4159",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_4159.json",
+        "negative_strings": [
+            "rungsseite",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "\u2581ujednoznacz",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581nakalista",
+            "Vidite",
+            "AndEndTag",
+            "esModule",
+            "protoimpl"
+        ],
+        "positive_strings": [
+            "\u2581of",
+            "\u2581des",
+            "\u2581von",
+            "\u2581an",
+            "\u2581the",
+            "\u2581\u0939\u094b\u0924\u0940",
+            "\u2581der",
+            "\u2581a",
+            "est",
+            "ones"
+        ],
+        "description": "terms related to mathematical or computational operations and their outcomes"
+    },
+    {
+        "index": "76018",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_76018.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "BeginInit",
+            "\u2581NSCoder",
+            "\ud835\udff9",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "\u2581CallOverrides",
+            "\u2581sembl",
+            "\u2581participating",
+            "\uaed8",
+            "\u2581RouterModule"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "verwijspagina",
+            "FRIEND",
+            "Crush",
+            "\u2581scouts",
+            "friend",
+            "\u2581crush",
+            "scout",
+            "\u2581Scout",
+            "\u2581ujednoznacz"
+        ],
+        "description": "references to boys and girls"
+    },
+    {
+        "index": "20314",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_20314.json",
+        "negative_strings": [
+            "\u2581<>\",",
+            "\u2581Italijanski",
+            "\u2581propOrder",
+            "expandindo",
+            "fromnode",
+            "\u2581BorderSide",
+            "httphttps",
+            "\u2581Italijani",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "OCCURRED"
+        ],
+        "positive_strings": [
+            "\u2581newborn",
+            "\u2581birth",
+            "\u2581baby",
+            "\u2581births",
+            "\u2581babies",
+            "\u2581newborns",
+            "\u2581Newborn",
+            "\u2581Babies",
+            "birth",
+            "\u2581Baby"
+        ],
+        "description": " references to childbirth and delivery experiences"
+    },
+    {
+        "index": "87387",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_87387.json",
+        "negative_strings": [
+            "Personensuche",
+            "StoryboardSegue",
+            "]\")]",
+            "KommentareTeilen",
+            "\u51fa\u7248\u5e74",
+            "interopRequire",
+            "\u2581NavController",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "istoitu",
+            "VYMaps"
+        ],
+        "positive_strings": [
+            "\u2581boy",
+            "\u2581boys",
+            "\u2581children",
+            "\u2581child",
+            "boy",
+            "boys",
+            "\u2581kids",
+            "\u2581ni\u00f1o",
+            "\u2581kid",
+            "\u2581Boys"
+        ],
+        "description": "references to children and their ages in various contexts"
+    },
+    {
+        "index": "110690",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_110690.json",
+        "negative_strings": [
+            "jspb",
+            "\u2581@\"/",
+            "Portale",
+            "orteur",
+            "PickerController",
+            "\uf0f6",
+            "jsdelivr",
+            "setDo",
+            "\u2581tar",
+            "Tren"
+        ],
+        "positive_strings": [
+            "AccessorTable",
+            "appartamento",
+            "ReusableCell",
+            "StoryboardSegue",
+            "\u2581named",
+            "\u2581esternos",
+            "ast\u00e9ro\u00efdes",
+            "SequentialGroup",
+            "ToTable",
+            "rrggbb"
+        ],
+        "description": "references to female and male family relationships, particularly focusing on daughters and sons"
+    },
+    {
+        "index": "104309",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_104309.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "AddTagHelper",
+            "webElementXpaths",
+            "\u2581demografica",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "\u2581perd\u00f3n",
+            "magitan",
+            "\u2581nahilalakip",
+            "\u2581b\u00ec",
+            "cks\u00e5"
+        ],
+        "positive_strings": [
+            "\u2581MA",
+            "\u2581Mayhem",
+            "\u2581m\u1ebd",
+            "\u2581Ma",
+            "\u2581Mania",
+            "Ma",
+            "MA",
+            "MAL",
+            "\u2581MAL",
+            "\u2581Madness"
+        ],
+        "description": "references to specific medical or scientific methodologies and their corresponding results"
+    },
+    {
+        "index": "25514",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein M\u00e4dchen/data_for_feature_25514.json",
+        "negative_strings": [
+            "contentLoaded",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "InjectAttribute",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581CreateTagHelper",
+            "\u2581Inf\u00f3rmanos",
+            "tagext",
+            "\u2581surla",
+            "\u2581disambiguazione",
+            "PostInfinity"
+        ],
+        "positive_strings": [
+            "\u2581stupid",
+            "\u2581stuff",
+            "\u2581stupidly",
+            "\u2581pretty",
+            "\u2581shit",
+            "\u2581silly",
+            "\u2581shitty",
+            "\u2581fucking",
+            "\u2581something",
+            "\u2581fucked"
+        ],
+        "description": " expressions related to modal verbs and their usage"
+    }
+]

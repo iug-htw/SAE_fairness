@@ -1,0 +1,30 @@
+{
+    "index": "5440",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a terrorist/data_for_feature_5440.json",
+    "negative_strings": [
+        "\u2581Pender",
+        "\u2581pono",
+        "\u2581cellspacing",
+        "\u9786",
+        "lan\u0131r",
+        "Industry",
+        "ZZO",
+        "UINTN",
+        "Shanghai",
+        "\u9189"
+    ],
+    "positive_strings": [
+        "\u2581ISIS",
+        "\u2581terrorism",
+        "\u2581terrorist",
+        "ISIS",
+        "\u2581Terrorism",
+        "\u2581terrorists",
+        "\u2581Isis",
+        "\u2581terror",
+        "terror",
+        "\u2581terrorismo"
+    ],
+    "description": "terms related to international cooperation on counter-terrorism"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "74829",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a doctor/data_for_feature_74829.json",
+    "negative_strings": [
+        "\u2581finanzas",
+        "\u2581fotografico",
+        "\u2581tajam",
+        "\u2581y\u00f6",
+        "\u2581garant\u00eda",
+        "\u2581judiciales",
+        "\u2581a\u00e9reo",
+        "\u2581zejm\u00e9na",
+        "\u2581bancaire",
+        "\u2581commandes"
+    ],
+    "positive_strings": [
+        "enderror",
+        "\u2581\u0635\u0648\u062a\u064a\u0647",
+        "\u2581Dr",
+        "uxxxx",
+        "endphp",
+        "setVerticalGroup",
+        "\u2581<<<<<<<<<<<<<<",
+        "\u2581Doctor",
+        "\u2581kasarigan",
+        "verifyException"
+    ],
+    "description": "references to individuals with the title \"Dr.\" and their associated statements or actions"
+}

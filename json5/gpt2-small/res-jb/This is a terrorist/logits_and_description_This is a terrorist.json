@@ -1,0 +1,422 @@
+[
+    {
+        "index": "15301",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_15301.json",
+        "negative_strings": [
+            "galitarian",
+            "\u00e7\u012d",
+            "equality",
+            " Jaguar",
+            "resso",
+            " Minotaur",
+            "erous",
+            "luck",
+            "llan",
+            " Mercury"
+        ],
+        "positive_strings": [
+            " financing",
+            " suspects",
+            " plots",
+            " attacks",
+            " threat",
+            "istic",
+            " threats",
+            " cells",
+            " attack",
+            " mastermind"
+        ],
+        "description": "phrases, words, and terms related to terrorism and security threats"
+    },
+    {
+        "index": "8562",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_8562.json",
+        "negative_strings": [
+            "elf",
+            "laus",
+            "ership",
+            ")=(",
+            "galitarian",
+            "shire",
+            " NRS",
+            "Lago",
+            " Wine",
+            "ais"
+        ],
+        "positive_strings": [
+            " terrorist",
+            " terrorists",
+            " mastermind",
+            " bombers",
+            "terrorist",
+            " bombings",
+            " bombing",
+            "abad",
+            " bomber",
+            " assassin"
+        ],
+        "description": "words related to acts of terrorism"
+    },
+    {
+        "index": "670",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_670.json",
+        "negative_strings": [
+            "elf",
+            "ership",
+            "laus",
+            ")=(",
+            "shire",
+            " Wine",
+            " NRS",
+            "galitarian",
+            "rose",
+            "alt"
+        ],
+        "positive_strings": [
+            " terrorist",
+            " terrorists",
+            "terrorist",
+            " mastermind",
+            " terrorism",
+            " bombers",
+            " bombings",
+            "abad",
+            " bombing",
+            " bomber"
+        ],
+        "description": "words related to terrorism and terrorist activities"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    },
+    {
+        "index": "3815",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3815.json",
+        "negative_strings": [
+            ")=(",
+            "rencies",
+            "conom",
+            "ernels",
+            "venants",
+            "rils",
+            "uliffe",
+            "geist",
+            "rices",
+            "blers"
+        ],
+        "positive_strings": [
+            " checkpoint",
+            " outpost",
+            " compound",
+            " barracks",
+            " camp",
+            " convoy",
+            " base",
+            " bunker",
+            " depot",
+            " garrison"
+        ],
+        "description": "phrases related to military operations and conflict"
+    },
+    {
+        "index": "19135",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_19135.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            "uchin",
+            "obyl",
+            "orem",
+            "ulhu",
+            "apist",
+            "orative",
+            "krit",
+            "kefeller",
+            "mberg"
+        ],
+        "positive_strings": [
+            " fighters",
+            " factions",
+            " groups",
+            " rebels",
+            " militias",
+            " group",
+            " stronghold",
+            " commander",
+            " commanders",
+            " faction"
+        ],
+        "description": "references to rebel groups and conflict zones in news articles"
+    },
+    {
+        "index": "3470",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3470.json",
+        "negative_strings": [
+            "Images",
+            "features",
+            "stories",
+            "\u00e9\u00be\u012f",
+            "apses",
+            "laws",
+            "aunts",
+            "ths",
+            "itudes",
+            "umbs"
+        ],
+        "positive_strings": [
+            " affair",
+            " thing",
+            " unto",
+            " issue",
+            " ploy",
+            " impossibility",
+            " breaker",
+            " violation",
+            "breaker",
+            "fest"
+        ],
+        "description": "sports-related words and terms"
+    },
+    {
+        "index": "2020",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_2020.json",
+        "negative_strings": [
+            "aurus",
+            "eon",
+            "ources",
+            "mith",
+            "erity",
+            "utenberg",
+            "ilion",
+            "eni",
+            "omething",
+            "uits"
+        ],
+        "positive_strings": [
+            "hood",
+            "proof",
+            "ishly",
+            "dom",
+            " beware",
+            "stown",
+            "iasis",
+            "liness",
+            " hunt",
+            "strate"
+        ],
+        "description": "phrases related to financial activities, specifically insider trading"
+    },
+    {
+        "index": "12380",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_12380.json",
+        "negative_strings": [
+            "ooks",
+            "estyles",
+            "redients",
+            "ravings",
+            "issues",
+            "ernels",
+            "units",
+            "efficients",
+            "sites",
+            "lees"
+        ],
+        "positive_strings": [
+            " calculator",
+            " amplifier",
+            " scanner",
+            " mixer",
+            " encyclopedia",
+            " condom",
+            " blaster",
+            " recorder",
+            " flashlight",
+            " projector"
+        ],
+        "description": "terminology related to technical features of products or systems"
+    },
+    {
+        "index": "1808",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_1808.json",
+        "negative_strings": [
+            "HUD",
+            "izons",
+            " Cosponsors",
+            "Reviewed",
+            " Painter",
+            " POV",
+            "natureconservancy",
+            " Integrity",
+            " Counsel",
+            " Transparency"
+        ],
+        "positive_strings": [
+            " bombings",
+            " attacks",
+            " plots",
+            " assass",
+            " massacres",
+            " atrocities",
+            " atroc",
+            " murders",
+            " attack",
+            " kidn"
+        ],
+        "description": "information related to terrorism and terrorist activities"
+    },
+    {
+        "index": "16479",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_16479.json",
+        "negative_strings": [
+            " Seasons",
+            "\u012c\u00b1",
+            "isites",
+            "phies",
+            "iddles",
+            "cards",
+            " seasons",
+            " Dates",
+            "RIPT",
+            "Meta"
+        ],
+        "positive_strings": [
+            " organisation",
+            " organization",
+            " outfit",
+            " faction",
+            " movement",
+            " group",
+            " denomination",
+            " sect",
+            " grouping",
+            " militia"
+        ],
+        "description": "phrases related to extremism and terrorism, especially in political and military contexts"
+    },
+    {
+        "index": "3211",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3211.json",
+        "negative_strings": [
+            "units",
+            "markets",
+            "forts",
+            "enaries",
+            "packages",
+            "models",
+            " Cups",
+            "pieces",
+            "features",
+            "stories"
+        ],
+        "positive_strings": [
+            " violation",
+            " offence",
+            " allegation",
+            " conviction",
+            " incident",
+            " offense",
+            " complaint",
+            " accusation",
+            " altercation",
+            " case"
+        ],
+        "description": "phrases related to legal issues and crime, specifically domestic violence and legal charges"
+    },
+    {
+        "index": "3748",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3748.json",
+        "negative_strings": [
+            "acists",
+            "\u0131",
+            "\u00e9\u00be\u012f\u00e5",
+            "eph",
+            "_{",
+            "Fans",
+            "conserv",
+            "alg",
+            "govtrack",
+            "adow"
+        ],
+        "positive_strings": [
+            " dossier",
+            " shipment",
+            " intercepted",
+            " wiret",
+            " airstrike",
+            " detainee",
+            " intercept",
+            " interception",
+            " extradition",
+            " referral"
+        ],
+        "description": "terms related to government secrets, intelligence operations, and security breaches"
+    },
+    {
+        "index": "16943",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_16943.json",
+        "negative_strings": [
+            "izons",
+            "osponsors",
+            "ographies",
+            " scholars",
+            "AppData",
+            " trillions",
+            "ometers",
+            " guides",
+            " \u00e7\u00a5\u0140",
+            " historians"
+        ],
+        "positive_strings": [
+            " altercation",
+            " incident",
+            " robbery",
+            " brawl",
+            " shootout",
+            " disturbance",
+            " confrontation",
+            " stabbing",
+            " attack",
+            " collision"
+        ],
+        "description": "phrases related to incidents involving law enforcement, accidents, and criminal activities"
+    }
+]

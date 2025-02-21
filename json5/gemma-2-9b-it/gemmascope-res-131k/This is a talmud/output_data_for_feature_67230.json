@@ -1,0 +1,30 @@
+{
+    "index": "67230",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a talmud/data_for_feature_67230.json",
+    "negative_strings": [
+        "WireFormatLite",
+        "\u2581proving",
+        "\u2581Provisions",
+        "\u2581Shooter",
+        "\u2581Tired",
+        "\u2581Provision",
+        "\u2581tired",
+        "OLOGIES",
+        "\u2581provision",
+        "\u2581peep"
+    ],
+    "positive_strings": [
+        "Rabbi",
+        "\u2581Rabbi",
+        "\u2581varandra",
+        "\u2581juda",
+        "\u2581Jewish",
+        "\u2581EconPapers",
+        "\u2581rabb",
+        "\u2581Talmud",
+        "Jewish",
+        "\u2581Numerade"
+    ],
+    "description": " references to specific individuals and their roles within a community"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "19135",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_19135.json",
+    "negative_strings": [
+        "\u0138\u013c",
+        "uchin",
+        "obyl",
+        "orem",
+        "ulhu",
+        "apist",
+        "orative",
+        "krit",
+        "kefeller",
+        "mberg"
+    ],
+    "positive_strings": [
+        " fighters",
+        " factions",
+        " groups",
+        " rebels",
+        " militias",
+        " group",
+        " stronghold",
+        " commander",
+        " commanders",
+        " faction"
+    ],
+    "description": "references to rebel groups and conflict zones in news articles"
+}

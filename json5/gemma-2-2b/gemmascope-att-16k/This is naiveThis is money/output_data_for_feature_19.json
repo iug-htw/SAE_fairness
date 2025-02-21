@@ -1,0 +1,30 @@
+{
+    "index": "19",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is naiveThis is money/data_for_feature_19.json",
+    "negative_strings": [
+        "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u0915",
+        "lccn",
+        "\u2581AssemblyCulture",
+        "enumi",
+        "InvalidProtocol",
+        "\u2581onAnimation",
+        "styleUrls",
+        "tagHelperRunner",
+        "<thead>",
+        "::~"
+    ],
+    "positive_strings": [
+        "\u2581atrav",
+        "\u2581d\u00e9mocr",
+        "\u2581humaines",
+        "\u2581veau",
+        "\u2581aveug",
+        "\u2581chr\u00e9tien",
+        "\u2581scolas",
+        "\u2581AppColors",
+        "\u2581g\u00e2nd",
+        "\u2581sauvages"
+    ],
+    "description": " attends to the token \"is\" from various tokens that come after it"
+}

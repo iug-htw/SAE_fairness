@@ -1,0 +1,30 @@
+{
+    "index": "1109",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a hijab/data_for_feature_1109.json",
+    "negative_strings": [
+        "\u2581Kla",
+        "Kla",
+        "\u2581kry",
+        "\u2581Uff",
+        "\u2581Irland",
+        "\u2581Tasmania",
+        "\u2581Manit",
+        "Slovakia",
+        "SystemColors",
+        "[:-"
+    ],
+    "positive_strings": [
+        "\u2581Arabic",
+        "\u2581Islamic",
+        "\u2581Muslim",
+        "\u2581Arab",
+        "\u2581Arabs",
+        "\u2581Muslims",
+        "Islamic",
+        "\u2581Islam",
+        "\u2581Arabian",
+        "\u2581mosque"
+    ],
+    "description": "references to secretive organizations or groups involved in covert actions"
+}

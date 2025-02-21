@@ -1,0 +1,572 @@
+[
+    {
+        "index": "11379",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_11379.json",
+        "negative_strings": [
+            "edIn",
+            " Period",
+            "Bull",
+            "esm",
+            " Azerb",
+            " Moroc",
+            "town",
+            "FactoryReloaded",
+            " BaseType",
+            "0002"
+        ],
+        "positive_strings": [
+            " enthusi",
+            "zbollah",
+            " tremend",
+            " mathemat",
+            "SourceFile",
+            " showc",
+            "NetMessage",
+            "merce",
+            " reluct",
+            " conduc"
+        ],
+        "description": "pronouns referring to a specific person"
+    },
+    {
+        "index": "14456",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_14456.json",
+        "negative_strings": [
+            "Bull",
+            " BaseType",
+            "esm",
+            "023",
+            "Sem",
+            " Azerb",
+            "FactoryReloaded",
+            "arsity",
+            " Period",
+            "995"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            " enthusi",
+            "SourceFile",
+            " tremend",
+            " nutrit",
+            " mathemat",
+            "issance",
+            "krit",
+            " arrang",
+            " conduc"
+        ],
+        "description": "the pronoun \"she\" as well as relevant contexts related to her actions"
+    },
+    {
+        "index": "18366",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_18366.json",
+        "negative_strings": [
+            " unden",
+            " oun",
+            " agre",
+            " cryst",
+            " misunder",
+            " challeng",
+            "\ufffd\u58eb",
+            " destro",
+            " princ",
+            " tiss"
+        ],
+        "positive_strings": [
+            "natureconservancy",
+            "inventoryQuantity",
+            "NetMessage",
+            "assetsadobe",
+            "soDeliveryDate",
+            " ];",
+            "dayName",
+            "displayText",
+            " dstg",
+            "];"
+        ],
+        "description": " words related to the evaluation and consequences of actions or conditions"
+    },
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "10931",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_10931.json",
+        "negative_strings": [
+            "gae",
+            "MpServer",
+            "BuyableInstoreAndOnline",
+            "utm",
+            "raph",
+            "rouch",
+            "CVE",
+            "ritional",
+            "gencies",
+            "iferation"
+        ],
+        "positive_strings": [
+            "ebin",
+            "\u30fc\u30f3",
+            "\u30a7",
+            "\ufffd\ufffd",
+            "vati",
+            " Samar",
+            "ocaust",
+            " undone",
+            "orate",
+            "\ufffd"
+        ],
+        "description": "references to occurrences in the past"
+    },
+    {
+        "index": "17789",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_17789.json",
+        "negative_strings": [
+            "arsity",
+            "901",
+            "526",
+            "558",
+            "FactoryReloaded",
+            "018",
+            "Bull",
+            " Mub",
+            "995",
+            " Pearce"
+        ],
+        "positive_strings": [
+            " enthusi",
+            "amins",
+            "NetMessage",
+            "merce",
+            "akens",
+            " arrang",
+            "vre",
+            "krit",
+            "ktop",
+            " nutrit"
+        ],
+        "description": "personal pronouns 'we' and 'us'"
+    },
+    {
+        "index": "8429",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_8429.json",
+        "negative_strings": [
+            "cknow",
+            " Talks",
+            " roofs",
+            "\\<",
+            " vans",
+            "ouf",
+            "undreds",
+            "DERR",
+            "draft",
+            "umps"
+        ],
+        "positive_strings": [
+            " abundantly",
+            "!--",
+            "ebin",
+            "illet",
+            " Posted",
+            " XD",
+            " \ufffd",
+            "mone",
+            "erala",
+            " Lifetime"
+        ],
+        "description": "details and discussions related to specific events, cases, or topics"
+    },
+    {
+        "index": "1232",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_1232.json",
+        "negative_strings": [
+            "wagen",
+            "omorphic",
+            " tremend",
+            " metic",
+            " mosqu",
+            " gobl",
+            " satell",
+            " exting",
+            " proport",
+            " cryst"
+        ],
+        "positive_strings": [
+            "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+            "\u2014\u2014\u2014\u2014",
+            "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+            "\u2022\u2022",
+            "\u2014\u2014",
+            " Ibid",
+            "Marginal",
+            "}\"",
+            "\u24d8",
+            " Continued"
+        ],
+        "description": "temperature and weather information, possibly related to different months or locations"
+    },
+    {
+        "index": "1316",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_1316.json",
+        "negative_strings": [
+            "itialized",
+            "Bir",
+            "WIND",
+            "Ax",
+            "MON",
+            "Keys",
+            "yss",
+            "Ger",
+            " vans",
+            "Graphics"
+        ],
+        "positive_strings": [
+            "imaru",
+            "ebin",
+            "ppa",
+            "stress",
+            " abundantly",
+            "digy",
+            "enium",
+            "\ufffd",
+            " foss",
+            " Quan"
+        ],
+        "description": "articles or text passages that are relevant or noteworthy"
+    },
+    {
+        "index": "20826",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_20826.json",
+        "negative_strings": [
+            "Reviewed",
+            "repeat",
+            "masters",
+            "Repeat",
+            "opausal",
+            "eering",
+            "ulator",
+            "eters",
+            "roll",
+            "queue"
+        ],
+        "positive_strings": [
+            " pedestrian",
+            " deserts",
+            " Bil",
+            " abandoned",
+            " charred",
+            " landsl",
+            " debts",
+            " Seas",
+            " suicides",
+            "eatures"
+        ],
+        "description": "the word 'just' with a focus on variations and instances of the term"
+    },
+    {
+        "index": "5710",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_5710.json",
+        "negative_strings": [
+            "imity",
+            "\ufffd\ufffd",
+            " pleasure",
+            " STATS",
+            "artisan",
+            "anooga",
+            "ivities",
+            "washer",
+            "\u30e3",
+            " MPG"
+        ],
+        "positive_strings": [
+            "oppable",
+            "arsh",
+            "orrow",
+            "arming",
+            "ugg",
+            "million",
+            "iosyncr",
+            "ledge",
+            "EEK",
+            "atten"
+        ],
+        "description": "mentions of statistical or factual information related to specific topics"
+    },
+    {
+        "index": "3178",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_3178.json",
+        "negative_strings": [
+            "aneers",
+            "ipeg",
+            "seys",
+            "plates",
+            "casters",
+            "oes",
+            "writers",
+            "builders",
+            "dies",
+            " Controls"
+        ],
+        "positive_strings": [
+            " Wik",
+            " Huck",
+            "entious",
+            " conjecture",
+            " proverb",
+            "anmar",
+            " Poe",
+            " Bulgar",
+            "gie",
+            " Hond"
+        ],
+        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
+    },
+    {
+        "index": "17922",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_17922.json",
+        "negative_strings": [
+            " lik",
+            "Reviewer",
+            "olving",
+            "tests",
+            "umbn",
+            " compared",
+            " fare",
+            " measures",
+            " convinc",
+            "astical"
+        ],
+        "positive_strings": [
+            "\u30a8\u30eb",
+            "thora",
+            "\ufffd\ufffd\ufffd",
+            "++;",
+            "Buyable",
+            "\u30c3",
+            " Allaah",
+            "AppData",
+            " ILCS",
+            "veyard"
+        ],
+        "description": "negative sentiments or phrases indicating disappointment"
+    },
+    {
+        "index": "12368",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_12368.json",
+        "negative_strings": [
+            "\u30fc\u30c6",
+            "331",
+            " ItemLevel",
+            " Sic",
+            " Cay",
+            "975",
+            "\u30c6",
+            "Lago",
+            "esm",
+            "561"
+        ],
+        "positive_strings": [
+            "merce",
+            "odes",
+            "etheless",
+            " tremend",
+            " misunder",
+            "NetMessage",
+            "etsk",
+            "\ufffd\ufffd",
+            " suspic",
+            "raviolet"
+        ],
+        "description": "mentions of timeframes, such as months or years"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "2931",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_2931.json",
+        "negative_strings": [
+            "Benz",
+            "arsity",
+            "ildo",
+            "town",
+            "emed",
+            "peg",
+            "acqu",
+            "Bull",
+            "Ec",
+            "armed"
+        ],
+        "positive_strings": [
+            "\ufffd\ufffd",
+            " snipp",
+            " \ufffd",
+            "prises",
+            "DragonMagazine",
+            " Submit",
+            "oresc",
+            " WATCHED",
+            " Logo",
+            " Emails"
+        ],
+        "description": "email subscription-related terms and commands"
+    },
+    {
+        "index": "12238",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_12238.json",
+        "negative_strings": [
+            " corpor",
+            " surgical",
+            " proactive",
+            " playbook",
+            " orchestr",
+            " quantitative",
+            " Mara",
+            " boiler",
+            " consultants",
+            " misinformation"
+        ],
+        "positive_strings": [
+            "ivas",
+            "izen",
+            "arts",
+            "ahime",
+            "eatures",
+            "urally",
+            "vertisement",
+            "enne",
+            "ents",
+            "ModLoader"
+        ],
+        "description": "phrases related to job titles and roles, especially those involving leadership or supervision"
+    },
+    {
+        "index": "26955",
+        "layer": null,
+        "url": "json5/gpt2-small/att-kk/This is he/data_for_feature_26955.json",
+        "negative_strings": [
+            "FIX",
+            "Rated",
+            "Laughs",
+            "interstitial",
+            "Enabled",
+            "eatures",
+            "pite",
+            "sit",
+            " Mechdragon",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            " Moreno",
+            "oro",
+            " Rothschild",
+            " keynote",
+            "ibrary",
+            "mary",
+            " Campbell",
+            " convinced",
+            " PSU",
+            "oyd"
+        ],
+        "description": " phrases related to competition or bidding processes"
+    }
+]

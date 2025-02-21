@@ -1,0 +1,30 @@
+{
+    "index": "14021",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a sacrament/data_for_feature_14021.json",
+    "negative_strings": [
+        "Aiheesta",
+        "ifo",
+        "AndEndTag",
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "+#+",
+        "aarrggbb",
+        "FirstResponder",
+        "CardHeader",
+        "nesium",
+        "\u2581resourceCulture"
+    ],
+    "positive_strings": [
+        "\u2581Anglican",
+        "\u2581Episcopal",
+        "Epis",
+        "\u2581epis",
+        "\u2581Episcop",
+        "\u2581Bishop",
+        "\u2581dioces",
+        "TypedDataSet",
+        "migrationBuilder",
+        "\u2581Diocese"
+    ],
+    "description": "references to Anglican bishops and their roles or activities"
+}

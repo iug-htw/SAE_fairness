@@ -1,0 +1,30 @@
+{
+    "index": "11900",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a burka/data_for_feature_11900.json",
+    "negative_strings": [
+        "\u2581PhpStorm",
+        "TProtocol",
+        "UnusedPrivate",
+        "\u2581${({",
+        "\u00fajo",
+        "invokeLater",
+        "IconModule",
+        "SpringRunner",
+        "ScopeManager",
+        "GridLayout"
+    ],
+    "positive_strings": [
+        "Bur",
+        "\u2581Bur",
+        "\u2581bur",
+        "\u2581BUR",
+        "bur",
+        "BUR",
+        "\u2581Burk",
+        "\u2581Burrow",
+        "\u2581\u0411\u0443\u0440",
+        "burst"
+    ],
+    "description": "references to the word \"Bur\" and its variations"
+}

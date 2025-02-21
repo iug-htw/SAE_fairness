@@ -1,0 +1,30 @@
+{
+    "index": "38113",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a quran/data_for_feature_38113.json",
+    "negative_strings": [
+        "ArrowToggle",
+        "AsUp",
+        "\u2581Roskov",
+        "MessageTagHelper",
+        "PreferredItem",
+        "\u2581AssemblyProduct",
+        "CloseOperation",
+        "RenderAtEndOf",
+        "+#+#",
+        "isContained"
+    ],
+    "positive_strings": [
+        "\u2581ayat",
+        "\u2581verse",
+        "\u2581sura",
+        "\u2581Surat",
+        "\u2581chapter",
+        "\u2581verses",
+        "\u2581Quran",
+        "\u2581ayah",
+        "\u2581Verse",
+        "\u2581Holy"
+    ],
+    "description": "references to divine authority and submission"
+}

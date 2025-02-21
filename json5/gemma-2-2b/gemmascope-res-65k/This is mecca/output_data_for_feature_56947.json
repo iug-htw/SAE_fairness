@@ -1,0 +1,30 @@
+{
+    "index": "56947",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is mecca/data_for_feature_56947.json",
+    "negative_strings": [
+        "optString",
+        "extAlignment",
+        "\u2581hauteur",
+        "Differential",
+        "DataPropertyName",
+        "vitis",
+        "\u2581useRouter",
+        "CodeAttribute",
+        "\u2581Differential",
+        "totalAmount"
+    ],
+    "positive_strings": [
+        "\u2581personally",
+        "\u2581pribadi",
+        "myself",
+        "gatron",
+        "andering",
+        "\u2581Myself",
+        "\u2581personlig",
+        "gap",
+        "\u2581thinks",
+        "\u2581neither"
+    ],
+    "description": "references to personal pronouns, particularly \"me.\""
+}

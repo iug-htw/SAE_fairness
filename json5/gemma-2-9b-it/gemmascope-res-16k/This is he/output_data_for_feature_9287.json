@@ -1,0 +1,30 @@
+{
+    "index": "9287",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is he/data_for_feature_9287.json",
+    "negative_strings": [
+        "featureID",
+        "\u2581Normdatei",
+        "\u017f\u017fung",
+        "\u2581que\u017fta",
+        "<unused68>",
+        "<unused52>",
+        "<unused74>",
+        "<unused79>",
+        "<pad>",
+        "<unused16>"
+    ],
+    "positive_strings": [
+        "\u2581is",
+        "'",
+        "\u0161",
+        "\u2581se",
+        "\u0415",
+        "1",
+        "\u2019",
+        "Hello",
+        "Observable",
+        "5"
+    ],
+    "description": "uppercase letters and symbols from mathematical expressions or equations"
+}

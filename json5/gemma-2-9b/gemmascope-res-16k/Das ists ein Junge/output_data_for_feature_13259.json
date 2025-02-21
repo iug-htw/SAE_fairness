@@ -1,0 +1,30 @@
+{
+    "index": "13259",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ists ein Junge/data_for_feature_13259.json",
+    "negative_strings": [
+        "\u2581enfans",
+        "\u2581F\u00fc\u00dfen",
+        "\u2581M\u00e4nnern",
+        "\u2581Erwachsene",
+        "\u2581Jugendliche",
+        "\u2581Tieren",
+        "\u2581Schiffe",
+        "\u2581pouvoit",
+        "\u2581Feinde",
+        "\u2581K\u00f6nige"
+    ],
+    "positive_strings": [
+        "\u2581Er",
+        "\u2581Ab",
+        "\u2581Ver",
+        "\u2581Re",
+        "\u2581Sch",
+        "\u2581End",
+        "\u2581Event",
+        "\u2581Post",
+        "\u2581Qu",
+        "\u2581Ent"
+    ],
+    "description": " references to conditional verbs and modal verbs in a context discussing grammar or language structure"
+}

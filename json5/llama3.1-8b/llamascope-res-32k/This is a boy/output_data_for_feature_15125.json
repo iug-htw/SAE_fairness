@@ -1,0 +1,30 @@
+{
+    "index": "15125",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a boy/data_for_feature_15125.json",
+    "negative_strings": [
+        "aker",
+        "wich",
+        "emen",
+        "ITTER",
+        "ermen",
+        "estre",
+        "erman",
+        "itter",
+        ".psi",
+        " Niet"
+    ],
+    "positive_strings": [
+        "friend",
+        " Scout",
+        " Scouts",
+        " scout",
+        "hood",
+        "Friend",
+        "cott",
+        "friends",
+        " scouts",
+        " freund"
+    ],
+    "description": "mentions of genders and relationships between boys and girls"
+}

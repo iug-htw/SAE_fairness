@@ -1,0 +1,30 @@
+{
+    "index": "25563",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a quran/data_for_feature_25563.json",
+    "negative_strings": [
+        "Personendaten",
+        "\u2581'\\\\;'",
+        "RenderAtEndOf",
+        "AddTagHelper",
+        "\u2581initComponents",
+        "CloseOperation",
+        "addCriterion",
+        "\u27ec",
+        "RTLR",
+        "elemField"
+    ],
+    "positive_strings": [
+        "\u2581Quran",
+        "Quran",
+        "quran",
+        "\u2581\u0627\u0644\u0642\u0631\u0622\u0646",
+        "\u2581Qur",
+        "\u2581Spiegel",
+        "\u2581marchandises",
+        "\u2581ouvrages",
+        "\u2581\u00e9quipements",
+        "\u2581s\u00e9jours"
+    ],
+    "description": "references to religious texts, particularly from the Quran"
+}

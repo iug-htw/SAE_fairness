@@ -1,0 +1,30 @@
+{
+    "index": "13700",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a mosque/data_for_feature_13700.json",
+    "negative_strings": [
+        "\u00e5\u012b\u0124",
+        "eselect",
+        "Exposed",
+        "ocz",
+        "uffled",
+        " vyd",
+        " involving",
+        " invokevirtual",
+        "-enable",
+        "Definition"
+    ],
+    "positive_strings": [
+        " built",
+        "built",
+        " Built",
+        " constructed",
+        "Built",
+        "-built",
+        " builtin",
+        " Construct",
+        "constructed",
+        " dating"
+    ],
+    "description": " references to historical buildings and architectural features"
+}

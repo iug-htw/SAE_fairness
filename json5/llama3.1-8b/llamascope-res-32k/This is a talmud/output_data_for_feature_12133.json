@@ -1,0 +1,30 @@
+{
+    "index": "12133",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a talmud/data_for_feature_12133.json",
+    "negative_strings": [
+        "rc",
+        "\u00c3\u00a2y",
+        "rl",
+        "\u00e1\u00bb\u00af",
+        "rid",
+        "rang",
+        "rt",
+        "RT",
+        "agher",
+        "ording"
+    ],
+    "positive_strings": [
+        "issue",
+        "inker",
+        "uck",
+        "arry",
+        "onne",
+        " wo",
+        "old",
+        "ilda",
+        "rolley",
+        " rue"
+    ],
+    "description": " instances of the letter 'T' or its variations in the text"
+}

@@ -1,0 +1,452 @@
+[
+    {
+        "index": "14927",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_14927.json",
+        "negative_strings": [
+            "\u2581current",
+            "current",
+            "\u0344",
+            "JNIEnv",
+            "\u2581VIDEOTAPE",
+            "\u2581fides",
+            "\u2581present",
+            "\u2581onAnimation",
+            "IsContent",
+            "abrigo"
+        ],
+        "positive_strings": [
+            "\u2581Seuss",
+            "ummer",
+            "\u2581Jekyll",
+            "\u2581martens",
+            "MLLoader",
+            "\udb40\udc63",
+            "umm",
+            "pepper",
+            "\u6700\u5feb\u66f4\u65b0",
+            "\u2581Pepper"
+        ],
+        "description": " mentions of doctors or individuals with the title \"Dr.\""
+    },
+    {
+        "index": "784",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_784.json",
+        "negative_strings": [
+            "AddHtmlAttribute",
+            "\u2581modern",
+            "\u2581m\u1eafn",
+            "\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "\u2581fides",
+            "ic\u0103",
+            "picasso",
+            "\u2581aktual",
+            "Nh",
+            "ukary"
+        ],
+        "positive_strings": [
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581Italijanski",
+            "\u2581martens",
+            "\u2581Jekyll",
+            "\u2581Seuss",
+            "MarshalTo",
+            "Diweddarwch",
+            "ummer",
+            "\u043f\u0440\u0438\u043c\u0435\u0447\u0430",
+            "MLLoader"
+        ],
+        "description": "references to individuals with the title \"Dr.\" including their names and context"
+    },
+    {
+        "index": "16366",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_16366.json",
+        "negative_strings": [
+            "current",
+            "\u2581current",
+            "abrigo",
+            "\u2581fides",
+            "\u2581ar\u015fivlendi",
+            "\u2581bloemen",
+            "\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "Kjelder",
+            "\u2581VIDEOTAPE",
+            "\u2581m\u1eafn"
+        ],
+        "positive_strings": [
+            "ummer",
+            "\u2581martens",
+            "\u2581Jekyll",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581Seuss",
+            "MarshalTo",
+            "MLLoader",
+            "\udb40\udc63",
+            "\u6700\u5feb\u66f4\u65b0",
+            "\u2581Italijanski"
+        ],
+        "description": "references to medical professionals and their titles"
+    },
+    {
+        "index": "13794",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_13794.json",
+        "negative_strings": [
+            "ContentAsync",
+            "__(/*!",
+            "parsedMessage",
+            "Personendaten",
+            "\u0e47\u0e08",
+            "enumi",
+            "horesis",
+            "l\u0259\u015f",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "rawDesc"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "who",
+            "SHIP",
+            "hip",
+            "hood",
+            "\u2581Who",
+            "ship",
+            "\u2581wanna",
+            "\u2581ship",
+            "ComponentScan"
+        ],
+        "description": "terms related to education and teaching roles"
+    },
+    {
+        "index": "666",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_666.json",
+        "negative_strings": [
+            "AddHtmlAttribute",
+            "SequentialGroup",
+            "Cyfeiriadau",
+            "\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "\u2581m\u1eafn",
+            "Kjelder",
+            "Autoritn\u00ed",
+            "ActivityCompat",
+            "illance",
+            "getLine"
+        ],
+        "positive_strings": [
+            "\u2581Seuss",
+            "ummer",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581martens",
+            "+#+#",
+            "\u2581Jekyll",
+            "\u2581Turquie",
+            "Diweddarwch",
+            "\u2581cabecera",
+            "\u6700\u5feb\u66f4\u65b0"
+        ],
+        "description": "titles or mentions of medical professionals"
+    },
+    {
+        "index": "3991",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_3991.json",
+        "negative_strings": [
+            "SequentialGroup",
+            "AddHtmlAttribute",
+            "Kjelder",
+            "Cyfeiriadau",
+            "\u2581gynhyrchwyd",
+            "Autoritn\u00ed",
+            "\u2581secundarios",
+            "V\u00e5",
+            "\u2581Publicity",
+            "zien"
+        ],
+        "positive_strings": [
+            "\u6700\u5feb\u66f4\u65b0",
+            "\u2581Seuss",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "ummer",
+            "\u2581Turquie",
+            "\u2581martens",
+            "LookAnd",
+            "__':\r",
+            "\u2581Jekyll",
+            "__':"
+        ],
+        "description": "references to doctors or medical professionals"
+    },
+    {
+        "index": "6225",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_6225.json",
+        "negative_strings": [
+            "AddHtmlAttribute",
+            "SequentialGroup",
+            "PICTURE",
+            "Kjelder",
+            "\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "\u2581Picture",
+            "\u2581secundarios",
+            "fraz",
+            "picasso",
+            "ayette"
+        ],
+        "positive_strings": [
+            "\u2581Seuss",
+            "+#+#",
+            "\u2581martens",
+            "\u2581Italijanski",
+            "\u2581Jekyll",
+            "\u6700\u5feb\u66f4\u65b0",
+            "Diweddarwch",
+            "\u2581Turquie",
+            "WritableDatabase",
+            "ummer"
+        ],
+        "description": "references to doctors and medical professionals"
+    },
+    {
+        "index": "11793",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_11793.json",
+        "negative_strings": [
+            "Kjelder",
+            "\u2581Picture",
+            "SequentialGroup",
+            "\u2581secundarios",
+            "PICTURE",
+            "\u2581\"..\\..\\..\\",
+            "\u2581[*]",
+            "\u0e2d\u0e49\u0e32\u0e07\u0e2d\u0e34\u0e07",
+            "fraz",
+            "\u2581jakby"
+        ],
+        "positive_strings": [
+            "+#+#",
+            "\u2581Seuss",
+            "\u6700\u5feb\u66f4\u65b0",
+            "\u2581martens",
+            "Diweddarwch",
+            "\">//",
+            "\u2581Dre",
+            "\u2581Italijanski",
+            "ummer",
+            "\u2581\u0635\u0648\u062a\u064a\u0647"
+        ],
+        "description": "references to doctors"
+    },
+    {
+        "index": "14332",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_14332.json",
+        "negative_strings": [
+            "ContentAsync",
+            "Personendaten",
+            "parsedMessage",
+            "setViewportView",
+            "splitlines",
+            "l\u0259\u015f",
+            "\u2581utafitiHapana",
+            "ACHUSET",
+            "\u2581Roskov",
+            "ronique"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "who",
+            "\u2581specializing",
+            "\u2581extraordinaire",
+            "\u2581friend",
+            "\u2581salaries",
+            "\u2581specialising",
+            "\u2581manqu\u00e9",
+            "\u2581trainee",
+            "\u2581profession"
+        ],
+        "description": "terms related to nursing and legal professions"
+    },
+    {
+        "index": "15211",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_15211.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "ContentAsync",
+            "parsedMessage",
+            "\u2581SafeMath",
+            "StoreMessageInfo",
+            "Diwedd",
+            "\u2581ostavi",
+            "\u2581&___",
+            "__(/*!",
+            "\u064a\u0645\u064a\u062f\u064a\u0627"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "SHIP",
+            "hips",
+            "\u4eec",
+            "hip",
+            "innen",
+            "\u2581kt\u00f3rzy",
+            "\u5011",
+            "\u2581extraordinaire",
+            "\u4eec\u7684"
+        ],
+        "description": "roles related to education and professional titles"
+    },
+    {
+        "index": "2280",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_2280.json",
+        "negative_strings": [
+            "\u2581secundarios",
+            "\u2581Picture",
+            "\u2581BeautifulSoup",
+            "\u043d\u0435\u043e\u043f\u0440",
+            "\u2581sure",
+            "fraz",
+            "quivado",
+            "PICTURE",
+            "\u0131\u015ft\u0131",
+            "\u2581tonel"
+        ],
+        "positive_strings": [
+            "LookAnd",
+            "Diweddarwch",
+            "+#+#",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "\u2581Drury",
+            "!*\\",
+            "\u6700\u5feb\u66f4\u65b0",
+            "HostException",
+            "\u2581NSCoder",
+            "\u043d\u043e\u0432\u043d\u0438\u0448"
+        ],
+        "description": "references to medical doctors or professionals"
+    },
+    {
+        "index": "9385",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_9385.json",
+        "negative_strings": [
+            "\u043d\u0435\u043e\u043f\u0440",
+            "\u2581\u00e9trang\u00e8re",
+            "\u0131\u015ft\u0131",
+            "\u2581surety",
+            "\u2581BeautifulSoup",
+            "\u2581int\u00e9rieure",
+            "\u2581secundarios",
+            "PICTURE",
+            "\u2581profonde",
+            "heureusement"
+        ],
+        "positive_strings": [
+            "LookAnd",
+            "RegistryLite",
+            "setVerticalGroup",
+            "\u2581Drury",
+            "IndentedString",
+            "R\u00fcyada",
+            "IsMutable",
+            "DockStyle",
+            "\u2581Meksiku",
+            "\u2581himo"
+        ],
+        "description": "references to medical doctors and their titles"
+    },
+    {
+        "index": "12480",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_12480.json",
+        "negative_strings": [
+            "RectangleBorder",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581appart",
+            "ished",
+            "\u2581journalism",
+            "atypes",
+            "\u092e\u0947\u0902",
+            "HEIM",
+            "atikan",
+            "enchymal"
+        ],
+        "positive_strings": [
+            "\u2581office",
+            "alty",
+            "\u2581emeritus",
+            "\u2581designate",
+            "\u2581who",
+            "\u2581offices",
+            "hips",
+            "office",
+            "\u2581Emeritus",
+            "\u2581Offices"
+        ],
+        "description": "references to leadership roles and positions, particularly in governmental or religious contexts"
+    },
+    {
+        "index": "15487",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_15487.json",
+        "negative_strings": [
+            "WaitGroup",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "WindowConstants",
+            "\u2581Signalez",
+            "tagHelperRunner",
+            "\u2581organisers",
+            "\ue315",
+            "\u2581projektu",
+            "ProductID",
+            "\u2581UITableViewCell"
+        ],
+        "positive_strings": [
+            "\u2581practice",
+            "\u2581office",
+            "\u2581offices",
+            "practice",
+            "Practice",
+            "\u2581Practice",
+            "office",
+            "\u2581PRACTICE",
+            "\u2581patients",
+            "\u2581praktijk"
+        ],
+        "description": "references to patient recruitment and treatment methods"
+    },
+    {
+        "index": "6330",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a doctor/data_for_feature_6330.json",
+        "negative_strings": [
+            "\u2581>=\",",
+            "\u2581unknownFields",
+            "mergeFrom",
+            "\u2581<=\",",
+            "complexContent",
+            "agissait",
+            "ArrowToggle",
+            "Coordonn\u00e9es",
+            "\u2581calldata",
+            "CreateMap"
+        ],
+        "positive_strings": [
+            "\u2581doctor",
+            "\u2581Doctor",
+            "doctor",
+            "Doctor",
+            "\u2581DOCTOR",
+            "\u2581doctors",
+            "DOCTOR",
+            "\u2581Doctors",
+            "doctors",
+            "Doctors"
+        ],
+        "description": "references to doctors and medical professionals"
+    }
+]

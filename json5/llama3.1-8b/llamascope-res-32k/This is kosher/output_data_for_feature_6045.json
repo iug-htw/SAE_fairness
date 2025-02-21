@@ -1,0 +1,30 @@
+{
+    "index": "6045",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is kosher/data_for_feature_6045.json",
+    "negative_strings": [
+        "achen",
+        " munch",
+        " tasty",
+        "caffe",
+        "_recipe",
+        " Beverage",
+        " puss",
+        " caf",
+        "\u00e8\u012e\u00b6",
+        "\u00e9\u00a4\u0132"
+    ],
+    "positive_strings": [
+        " ques",
+        " las",
+        " flank",
+        " mac",
+        " ribs",
+        " gyro",
+        " wings",
+        " brisk",
+        " Nach",
+        " Gy"
+    ],
+    "description": " mentions of specific foods and dining experiences"
+}

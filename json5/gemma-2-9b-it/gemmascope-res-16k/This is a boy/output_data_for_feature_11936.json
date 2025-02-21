@@ -1,0 +1,30 @@
+{
+    "index": "11936",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a boy/data_for_feature_11936.json",
+    "negative_strings": [
+        "\ufeff/**",
+        "v\u00e1bb",
+        "anyahu",
+        "\u65e5\u95b2\u89a7",
+        "\u2581Thrones",
+        "});\r\r",
+        "\u2581CNA",
+        "\u2581aberta",
+        ")}\r",
+        "\u2581Continuum"
+    ],
+    "positive_strings": [
+        "\u2581girl",
+        "Boy",
+        "Girl",
+        "\u2581Girl",
+        "\u2581boy",
+        "\u2581girls",
+        "Girls",
+        "girl",
+        "\u2581Girls",
+        "\u2581GIRL"
+    ],
+    "description": " references to girls and related gender terms"
+}

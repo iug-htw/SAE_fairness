@@ -1,0 +1,30 @@
+{
+    "index": "12729",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/this is female/data_for_feature_12729.json",
+    "negative_strings": [
+        "\u2581female",
+        "\u2581Female",
+        "\u2581male",
+        "\u2581\u0643\u0648\u0645\u0648\u0646\u0632",
+        "male",
+        "female",
+        "\u2581FEMALE",
+        "Male",
+        "Female",
+        "\u2581Male"
+    ],
+    "positive_strings": [
+        "RectangleBorder",
+        "sizeCache",
+        "\u7701\u5e02\u9547",
+        "\u2581disambiguazione",
+        "\u2581utafitiHapana",
+        "\u2581EconPapers",
+        "LookAnd",
+        "\u2581typelib",
+        "Odour",
+        "SizeF"
+    ],
+    "description": " attends to female-related tokens from various contexts mentioned later"
+}

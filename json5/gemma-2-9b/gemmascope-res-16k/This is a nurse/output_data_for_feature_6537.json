@@ -1,0 +1,30 @@
+{
+    "index": "6537",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a nurse/data_for_feature_6537.json",
+    "negative_strings": [
+        ":\u2728",
+        "\u2581autorytatywna",
+        "Eksteraj",
+        "DrawerToggle",
+        "contentLoaded",
+        "withIdentifier",
+        "\u2581nonUne",
+        "protoimpl",
+        "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+        "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430"
+    ],
+    "positive_strings": [
+        "\u2581nursing",
+        "\u2581nurse",
+        "\u2581Nursing",
+        "\u2581nurses",
+        "Nursing",
+        "\u2581Nurse",
+        "Nurse",
+        "nursing",
+        "\u2581Nurses",
+        "nurse"
+    ],
+    "description": " references to healthcare professionals and their qualifications"
+}

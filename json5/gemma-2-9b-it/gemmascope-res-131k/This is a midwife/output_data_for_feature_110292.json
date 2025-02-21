@@ -1,0 +1,30 @@
+{
+    "index": "110292",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_110292.json",
+    "negative_strings": [
+        "endphp",
+        "\u2581strtok",
+        "\u2581HasFactory",
+        "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+        "\u2581\u0635\u0648\u062a\u064a\u0647",
+        "InjectAttribute",
+        "UrlResolution",
+        "featureID",
+        "\u2581kasarigan",
+        "\u2581haji"
+    ],
+    "positive_strings": [
+        "Mid",
+        "\u2581Mid",
+        "\u2581MID",
+        "\u2581mid",
+        "MID",
+        "mid",
+        "dling",
+        "dled",
+        "\u2581Middel",
+        "\u2581Midtown"
+    ],
+    "description": " references to specific geographic locations or entities, especially related to the Midwest"
+}

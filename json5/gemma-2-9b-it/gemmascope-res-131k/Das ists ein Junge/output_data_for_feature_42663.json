@@ -1,0 +1,30 @@
+{
+    "index": "42663",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ists ein Junge/data_for_feature_42663.json",
+    "negative_strings": [
+        "\u2581GenerationType",
+        "QMetaType",
+        "typeorm",
+        "\u2581kasarigan",
+        "SequentialGroup",
+        "Personendaten",
+        "GenerationType",
+        "->___",
+        "ValueStyle",
+        "IUrlHelper"
+    ],
+    "positive_strings": [
+        "\u2581ein",
+        "Ein",
+        "\u2581Ein",
+        "ein",
+        "\u2581kein",
+        "\u2581EIN",
+        "enein",
+        "\u2581Kein",
+        "\u2581Ihr",
+        "\u2581Dein"
+    ],
+    "description": " occurrences of the word \"ein,\" which is a German indefinite article meaning \"a\" or \"an.\""
+}

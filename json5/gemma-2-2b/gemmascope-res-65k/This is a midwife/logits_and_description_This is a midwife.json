@@ -1,0 +1,302 @@
+[
+    {
+        "index": "31603",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_31603.json",
+        "negative_strings": [
+            "ContentAsync",
+            "\u03b3\u03b7",
+            "l\u0259\u015f",
+            "nissen",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581[*]",
+            "bounds",
+            "multirow",
+            "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u0915",
+            "\u2581m\u00e9dica"
+        ],
+        "positive_strings": [
+            "GEBURTSDATUM",
+            "\u2581profession",
+            "\u2581duties",
+            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
+            "\u0e2a\u0e32\u0e27",
+            "\u2581training",
+            "\u2581jScrollPane",
+            "\u2581friend",
+            "\u2581job",
+            "\u2581apprentice"
+        ],
+        "description": "references to culinary roles or occupations"
+    },
+    {
+        "index": "55464",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_55464.json",
+        "negative_strings": [
+            "Enlla\u00e7os",
+            "++]=",
+            "\u0004",
+            "acyjnych",
+            "avax",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "rostis",
+            "\u2581HasFactory",
+            "archiviato",
+            "arthritis"
+        ],
+        "positive_strings": [
+            "\u2581prenatal",
+            "\u2581maternity",
+            "\u2581obstet",
+            "\u2581midwife",
+            "\u2581midwives",
+            "\u2581pregnancy",
+            "\u2581Maternity",
+            "\u2581maternal",
+            "\u2581childbirth",
+            "\u2581Obstet"
+        ],
+        "description": " terms related to obstetrics and gynecology, specifically focusing on women's health and medical professionals in that field"
+    },
+    {
+        "index": "59458",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_59458.json",
+        "negative_strings": [
+            "\\}\\\\",
+            "HostException",
+            "\u2581kayna\u011f\u0131ndan",
+            "']?>",
+            "\u2581reta",
+            "MessageOf",
+            "\u2581Thesaurus",
+            "\u2581uVar",
+            "yntaxException",
+            "IPAC"
+        ],
+        "positive_strings": [
+            "\u2581MID",
+            "Mid",
+            "\u2581mid",
+            "\u2581Mid",
+            "MID",
+            "mid",
+            "\u2581mids",
+            "dles",
+            "\u2581midwives",
+            "\u2581midwife"
+        ],
+        "description": "references to geographic locations or specific place names"
+    },
+    {
+        "index": "3984",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_3984.json",
+        "negative_strings": [
+            "ContentAsync",
+            "PageIndex",
+            "\u2581ActionResult",
+            "nocze\u015bnie",
+            "resizingMask",
+            "IUrlHelper",
+            "unhofer",
+            "\u2581StringTokenizer",
+            "WebElementEntity",
+            "sizeCache"
+        ],
+        "positive_strings": [
+            "\u2581profession",
+            "\u2581profesi\u00f3n",
+            "\u2581jobs",
+            "\u2581job",
+            "\u2581assistants",
+            "\u2581apprentice",
+            "profession",
+            "\u2581salaries",
+            "\u2581trainees",
+            "\u2581profissional"
+        ],
+        "description": "terms related to veterinary professions and positions"
+    },
+    {
+        "index": "64505",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_64505.json",
+        "negative_strings": [
+            "CppCodeGen",
+            "ConstraintMaker",
+            "enumi",
+            "AnimationsModule",
+            "transQ",
+            "XmlAccessType",
+            "enumii",
+            "PerformLayout",
+            "\u2581/\\.",
+            "ContentAsync"
+        ],
+        "positive_strings": [
+            "\u2581Relations",
+            "\u2581relations",
+            "\u2581who",
+            "\u2581RELATIONS",
+            "\u2581Appreciation",
+            "who",
+            "\u2581appreciation",
+            "\u2581Spotlight",
+            "relations",
+            "\u2581interview"
+        ],
+        "description": "references to support services and roles in various contexts"
+    },
+    {
+        "index": "6414",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_6414.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "WebElementEntity",
+            "\u2581ristor",
+            "PageIndex",
+            "+#+#",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "enerys",
+            "\u2581Baillargeon",
+            "ContentAsync",
+            "\u2581utafitiHapana"
+        ],
+        "positive_strings": [
+            "\u2581services",
+            "\u2581profession",
+            "\u2581duties",
+            "\u2581service",
+            "\u2581job",
+            "\u2581dienst",
+            "\u2581association",
+            "ess",
+            "\u2581servi\u00e7o",
+            "\u2581Association"
+        ],
+        "description": " roles and occupations related to service and teaching professions"
+    },
+    {
+        "index": "40739",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_40739.json",
+        "negative_strings": [
+            "\u2581Meksiku",
+            "entibus",
+            "\u2728:",
+            "\u2581dasselbe",
+            "\u2581{},\r",
+            "\u2581derselbe",
+            "RectangleBorder",
+            "TagMode",
+            "enterOuterAlt",
+            "DidLoad"
+        ],
+        "positive_strings": [
+            "\u2581based",
+            "\u2581related",
+            "\u2581oriented",
+            "\u2581driven",
+            "\u2581BASED",
+            "\u2581inspired",
+            "\u2581Based",
+            "\u2581centric",
+            "\u2581themed",
+            "\u2581focussed"
+        ],
+        "description": "keywords related to various types of professional occupations and their specifics"
+    },
+    {
+        "index": "29501",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_29501.json",
+        "negative_strings": [
+            "Obr\u00e1zky",
+            "unknownFields",
+            "\u0627\u0644\u062d\u064a\u0627\u0647",
+            "\u2581AssemblyProduct",
+            "modb",
+            "FormTagHelper",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581Yahya",
+            "\u2581gynhyrchwyd",
+            "parsedMessage"
+        ],
+        "positive_strings": [
+            "maids",
+            "maid",
+            "\u2581homes",
+            "\u2581practitioner",
+            "\u00e9moc",
+            "\u2581home",
+            "\u2581anesthe",
+            "\u2581Homes",
+            "\u2581Practitioner",
+            "\u2581HOMES"
+        ],
+        "description": "terms related to nursing and nurse management"
+    },
+    {
+        "index": "13286",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_13286.json",
+        "negative_strings": [
+            "\u2581Thun",
+            "\u2581Hermit",
+            "\u2581Vandal",
+            "\u2581Bux",
+            "\u2581Armin",
+            "}^{-}\\",
+            "ivoli",
+            "\u2581Seel",
+            "\u2581Hermitage",
+            "Armin"
+        ],
+        "positive_strings": [
+            "\u2581pregnancy",
+            "\u2581pregnant",
+            "\u2581Pregnancy",
+            "Pregnancy",
+            "\u2581Pregnant",
+            "\u2581prenatal",
+            "\u2581maternity",
+            "pregnancy",
+            "pregnant",
+            "\u2581pregnancies"
+        ],
+        "description": "references to pregnancy and childbirth experiences"
+    },
+    {
+        "index": "31355",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a midwife/data_for_feature_31355.json",
+        "negative_strings": [
+            "InputBorder",
+            "WireFormatLite",
+            "\\}\\\\",
+            "\u2581kayna\u011f\u0131ndan",
+            "forKey",
+            "ecake",
+            "\u2581ConstraintSet",
+            "\u2581Thesaurus",
+            "]++;",
+            "HostException"
+        ],
+        "positive_strings": [
+            "dles",
+            "addGap",
+            "dling",
+            "dled",
+            "weile",
+            "hoeddwyd",
+            "\u0100r\u0113j\u0101s",
+            "range",
+            "AntiForgeryToken",
+            "\u2581['./"
+        ],
+        "description": " terms related to positioning and spatial relationships in geometry"
+    }
+]

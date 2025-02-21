@@ -1,0 +1,30 @@
+{
+    "index": "3211",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3211.json",
+    "negative_strings": [
+        "units",
+        "markets",
+        "forts",
+        "enaries",
+        "packages",
+        "models",
+        " Cups",
+        "pieces",
+        "features",
+        "stories"
+    ],
+    "positive_strings": [
+        " violation",
+        " offence",
+        " allegation",
+        " conviction",
+        " incident",
+        " offense",
+        " complaint",
+        " accusation",
+        " altercation",
+        " case"
+    ],
+    "description": "phrases related to legal issues and crime, specifically domestic violence and legal charges"
+}

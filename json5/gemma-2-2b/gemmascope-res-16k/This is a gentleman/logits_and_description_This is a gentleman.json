@@ -1,0 +1,302 @@
+[
+    {
+        "index": "1008",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_1008.json",
+        "negative_strings": [
+            ">{@",
+            "Sper",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\u2581sper",
+            "xref",
+            "\u2581pregn",
+            "RetentionPolicy",
+            "\u2581mums",
+            "\u2581MediaType",
+            "\u0648\u0630"
+        ],
+        "positive_strings": [
+            "\u2581Lady",
+            "\u2581LADY",
+            "knecht",
+            "\u2581lady",
+            ":\u2728",
+            "Lady",
+            "\u2581Lords",
+            "StructEnd",
+            "lady",
+            "InstrumentedTest"
+        ],
+        "description": "nouns and titles related to nobility and aristocracy"
+    },
+    {
+        "index": "10448",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_10448.json",
+        "negative_strings": [
+            "expandindo",
+            "\u2581skolan",
+            "\u2581EconPapers",
+            "\u2581Photocase",
+            "']\")",
+            "\u2581autorytatywna",
+            "\u2581Scopus",
+            "\u2581['./",
+            "\u2581personnelles",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "thol",
+            "\u2581men",
+            "\u2581Men",
+            "\u2581MEN",
+            "hunt",
+            "volent",
+            "agerie",
+            "aced",
+            "folk"
+        ],
+        "description": "references to gender, particularly focusing on men and women"
+    },
+    {
+        "index": "10962",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_10962.json",
+        "negative_strings": [
+            "saraba",
+            "ThroughAttribute",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581AssemblyCulture",
+            "\u2581disambiguazione",
+            "\u092e\u0947\u0902",
+            "+#+#",
+            "\u2581sj\u00e4lva",
+            "vedades",
+            "transQ"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "\u2581named",
+            "\u2581whom",
+            "who",
+            "ess",
+            "\u2581manqu\u00e9",
+            "whom",
+            "\u2581wearing",
+            "\u2581whose",
+            "\u2581boy"
+        ],
+        "description": "characters involved in fantasy or supernatural themes"
+    },
+    {
+        "index": "14697",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_14697.json",
+        "negative_strings": [
+            "addPreferredGap",
+            "\u2581Administrativna",
+            "\u2581sj\u00e4lva",
+            "thenReturn",
+            "m\u00eames",
+            "\u2581eds",
+            "\u0bb1\u0bc8",
+            "themselves",
+            "saraba",
+            "HomeAsUpEnabled"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "\u2581named",
+            "\u2581whom",
+            "\u2581whose",
+            "named",
+            "\u2581namens",
+            "who",
+            "\u2581Named",
+            "ess",
+            "\u2581bernama"
+        ],
+        "description": "references to individuals and their identities"
+    },
+    {
+        "index": "10867",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_10867.json",
+        "negative_strings": [
+            "ThroughAttribute",
+            "setCellValue",
+            "WebControls",
+            "textTheme",
+            "transQ",
+            "\u2581Commons",
+            "EndContext",
+            "viewport",
+            "\u0012",
+            "Personensuche"
+        ],
+        "positive_strings": [
+            "\u2581scout",
+            "\u2581scouts",
+            "FRIEND",
+            "\u2581Scouts",
+            "friends",
+            "hood",
+            "\u2581Scout",
+            "friend",
+            "couts",
+            "scout"
+        ],
+        "description": "references to boys and male-related terms"
+    },
+    {
+        "index": "7060",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_7060.json",
+        "negative_strings": [
+            "expandindo",
+            "\u2581EconPapers",
+            "\u2581skolan",
+            "\u2581saites",
+            "\u2581snippetHide",
+            "']\")",
+            "\u2581Photocase",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "\u2581autorytatywna"
+        ],
+        "positive_strings": [
+            "\u2581men",
+            "\u2581Men",
+            "\u2581who",
+            "\u2581MEN",
+            "hunt",
+            "\u2581Man",
+            "Men",
+            "\u2581man",
+            "\u2581woman",
+            "men"
+        ],
+        "description": "references to \"man\" or male characters in various contexts"
+    },
+    {
+        "index": "10914",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_10914.json",
+        "negative_strings": [
+            "\ue315",
+            "\u90a3\u4e9b",
+            "saraba",
+            "themselves",
+            "\u2581amelyek",
+            "\u2581themselves",
+            "Those",
+            "transQ",
+            "\u2581Those",
+            "\u099b\u09c7"
+        ],
+        "positive_strings": [
+            "\u2581named",
+            "named",
+            "\u2581Named",
+            "\u2581namens",
+            "\u2581bernama",
+            "Named",
+            "\u2581nomm\u00e9",
+            "\u2581t\u00ean",
+            "\u2581nomm\u00e9e",
+            "\u2581who"
+        ],
+        "description": "references to characters, particularly their roles and relationships, in a narrative context"
+    },
+    {
+        "index": "10932",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_10932.json",
+        "negative_strings": [
+            "TemporalType",
+            "<h5>",
+            "IsContent",
+            "\u0e47\u0e08",
+            "\u2581NSCoder",
+            "makeConstraints",
+            "/***/",
+            "\u2581nacionais",
+            "\u043a\u0438\u0441\u043b\u043e",
+            "\u2581NgModule"
+        ],
+        "positive_strings": [
+            "\u2581reminder",
+            "\u2581genti",
+            "\u2581Genti",
+            "\u2581Gentle",
+            "\u2581nh\u00e0ng",
+            "\u2581reminders",
+            "emang",
+            "\u2581GENTLE",
+            "\u2581gentle",
+            "ni\u0161tvo"
+        ],
+        "description": "instances of the word \"friendly\" and related positive attributes or traits"
+    },
+    {
+        "index": "14369",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_14369.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "expandindo",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581EconPapers",
+            "}}}\r",
+            "']\")",
+            "})));",
+            "^(@)",
+            "\u2581Numerade",
+            "\u2581nakalista"
+        ],
+        "positive_strings": [
+            "\u2581who",
+            "\u2581men",
+            "\u2581Men",
+            "\u2581man",
+            "\u2581MEN",
+            "\u2581Man",
+            "Men",
+            "men",
+            "who",
+            "\u2581woman"
+        ],
+        "description": "references to male characters or figures"
+    },
+    {
+        "index": "12402",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a gentleman/data_for_feature_12402.json",
+        "negative_strings": [
+            "\u2581nakalista",
+            "^(@)",
+            "expandindo",
+            "\u2581EconPapers",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581snippetHide",
+            "']\")",
+            "})));",
+            "\u2581Escolar",
+            "\u2581Ramadhan"
+        ],
+        "positive_strings": [
+            "\u2581men",
+            "\u2581Men",
+            "\u2581who",
+            "\u2581Man",
+            "\u2581MEN",
+            "\u2581man",
+            "Men",
+            "men",
+            "\u2581Woman",
+            "Man"
+        ],
+        "description": "references to male characters or figures"
+    }
+]

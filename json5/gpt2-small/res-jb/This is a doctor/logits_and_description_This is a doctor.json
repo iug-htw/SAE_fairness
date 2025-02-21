@@ -1,0 +1,482 @@
+[
+    {
+        "index": "2423",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_2423.json",
+        "negative_strings": [
+            " Territories",
+            " Transit",
+            " LW",
+            " Dwell",
+            " Strongh",
+            " Roads",
+            "wm",
+            " Esports",
+            "izons",
+            " Underworld"
+        ],
+        "positive_strings": [
+            " prescribing",
+            " prescribe",
+            " presc",
+            " treating",
+            " prescribed",
+            " specializing",
+            " diagnosed",
+            " practitioner",
+            " diagnose",
+            " diagn"
+        ],
+        "description": "medical professionals, medical practices, and medical procedures"
+    },
+    {
+        "index": "20416",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_20416.json",
+        "negative_strings": [
+            "yss",
+            "*/(",
+            "cluding",
+            " Huff",
+            "issan",
+            "AW",
+            "CHAT",
+            "ndra",
+            "theless",
+            " Flavoring"
+        ],
+        "positive_strings": [
+            "doctor",
+            " doctor",
+            " physician",
+            " examiner",
+            " Doctor",
+            " practitioner",
+            "iate",
+            "abase",
+            "killer",
+            "Doctor"
+        ],
+        "description": "references to medical professionals, particularly doctors"
+    },
+    {
+        "index": "11916",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_11916.json",
+        "negative_strings": [
+            "yss",
+            "ndra",
+            " Huff",
+            " actionGroup",
+            "Topics",
+            "AW",
+            " Territories",
+            " Chamber",
+            " Hurricanes",
+            " Horn"
+        ],
+        "positive_strings": [
+            "doctor",
+            " doctor",
+            " physician",
+            " doctors",
+            " practitioner",
+            "killer",
+            "abase",
+            " examiner",
+            " psychiatrist",
+            " diagnoses"
+        ],
+        "description": "references to medical professionals, especially doctors"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    },
+    {
+        "index": "8436",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_8436.json",
+        "negative_strings": [
+            " total",
+            " embargo",
+            "mission",
+            " autos",
+            " restriction",
+            " censorship",
+            " dear",
+            " envelope",
+            "rily",
+            " lapse"
+        ],
+        "positive_strings": [
+            " Who",
+            " Strange",
+            " Myster",
+            " Zh",
+            "Who",
+            "atel",
+            "sonian",
+            "abase",
+            "ow",
+            " Doom"
+        ],
+        "description": "references to fictional characters or movies"
+    },
+    {
+        "index": "9727",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_9727.json",
+        "negative_strings": [
+            " practically",
+            " tomorrow",
+            " Dane",
+            " behind",
+            " almost",
+            " suddenly",
+            " just",
+            " bru",
+            "\u00e2\u0122\u00a6.",
+            " around"
+        ],
+        "positive_strings": [
+            " guiActiveUnfocused",
+            "actionDate",
+            " guiActive",
+            "catentry",
+            "ategory",
+            "BuyableInstoreAndOnline",
+            "ThumbnailImage",
+            "cloneembedreportprint",
+            "EStreamFrame",
+            "wcsstore"
+        ],
+        "description": "references to possession or ownership"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "4212",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_4212.json",
+        "negative_strings": [
+            " Shoes",
+            " Incarn",
+            " Sons",
+            " Seasons",
+            " Restaur",
+            " Units",
+            " stadiums",
+            " Races",
+            " foundations",
+            " Machines"
+        ],
+        "positive_strings": [
+            "vertisement",
+            " memo",
+            " bulletin",
+            " note",
+            " summary",
+            " memorandum",
+            " sheet",
+            "sheet",
+            "post",
+            " pamphlet"
+        ],
+        "description": "news-related keywords and phrases"
+    },
+    {
+        "index": "19462",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_19462.json",
+        "negative_strings": [
+            " appointments",
+            " nominees",
+            "chers",
+            " panels",
+            "sheets",
+            " chiefs",
+            "elines",
+            " portfolios",
+            " CDs",
+            " forecasts"
+        ],
+        "positive_strings": [
+            " ))",
+            " ?)",
+            "ccording",
+            " )))",
+            " ])",
+            "ategory",
+            " ));",
+            "lished",
+            " )",
+            "\u00de"
+        ],
+        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "12770",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_12770.json",
+        "negative_strings": [
+            "forth",
+            " secretary",
+            " pil",
+            " rewrite",
+            "fit",
+            " ter",
+            " head",
+            "iter",
+            " pitch",
+            " writ"
+        ],
+        "positive_strings": [
+            "BuyableInstoreAndOnline",
+            "\u013c\u00e9\u0128\u0134",
+            "cloneembedreportprint",
+            "ategory",
+            "Downloadha",
+            "EStream",
+            " guiActiveUn",
+            " Flavoring",
+            "\u00a9\u00b6\u00e6\u00a5\u00b5",
+            " partName"
+        ],
+        "description": "references to book reading progress and statistics, as well as technical skills and experience related to specific projects"
+    },
+    {
+        "index": "602",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_602.json",
+        "negative_strings": [
+            " alike",
+            " Kappa",
+            " stars",
+            "atever",
+            " GPUs",
+            " looms",
+            " Shining",
+            " cakes",
+            " suits",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            " Published",
+            " sponsored",
+            "english",
+            "published",
+            "avascript",
+            " affiliate",
+            " POLITICO",
+            " satire",
+            "ython",
+            "recated"
+        ],
+        "description": "texts related to article publication and reproduction"
+    },
+    {
+        "index": "3470",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_3470.json",
+        "negative_strings": [
+            "Images",
+            "features",
+            "stories",
+            "\u00e9\u00be\u012f",
+            "apses",
+            "laws",
+            "aunts",
+            "ths",
+            "itudes",
+            "umbs"
+        ],
+        "positive_strings": [
+            " affair",
+            " thing",
+            " unto",
+            " issue",
+            " ploy",
+            " impossibility",
+            " breaker",
+            " violation",
+            "breaker",
+            "fest"
+        ],
+        "description": "sports-related words and terms"
+    },
+    {
+        "index": "6721",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_6721.json",
+        "negative_strings": [
+            " tomorrow",
+            " MacArthur",
+            " Cain",
+            "fulness",
+            " FDR",
+            " Berkeley",
+            "forth",
+            " Percy",
+            " Xer",
+            " Indy"
+        ],
+        "positive_strings": [
+            "Joined",
+            "reply",
+            " guiActiveUn",
+            "Join",
+            "\u00d4",
+            "Offline",
+            "Registered",
+            "Legendary",
+            "Created",
+            "cloneembedreportprint"
+        ],
+        "description": "mentions of individuals in a formal or organizational group"
+    },
+    {
+        "index": "24546",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_24546.json",
+        "negative_strings": [
+            "etts",
+            "ariat",
+            "naire",
+            "tons",
+            "ndum",
+            "gins",
+            "reau",
+            "ctors",
+            "rawn",
+            "illes"
+        ],
+        "positive_strings": [
+            "iframe",
+            "Ble",
+            "thumbnails",
+            "Movie",
+            " Citiz",
+            " Seller",
+            " reddit",
+            "Asset",
+            " celeb",
+            "Content"
+        ],
+        "description": "phrases related to safety and legality"
+    },
+    {
+        "index": "6696",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a doctor/data_for_feature_6696.json",
+        "negative_strings": [
+            "iddler",
+            "cling",
+            "\u00bb\u0134",
+            "dor",
+            "SPONSORED",
+            " Chal",
+            "trap",
+            "vati",
+            "luaj",
+            "Secretary"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " assumes",
+            " tentative",
+            " approximate",
+            " unofficial",
+            " Actual",
+            " subjective",
+            " provisional",
+            " NOT",
+            "claimer"
+        ],
+        "description": "disclaimers and notes about content reliability"
+    }
+]

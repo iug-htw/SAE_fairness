@@ -1,0 +1,30 @@
+{
+    "index": "6077",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_6077.json",
+    "negative_strings": [
+        "ValueGenerated",
+        "ToAction",
+        "\u2581ExecuteAsync",
+        "\u2581defaultstate",
+        "\u2581HasFactory",
+        "\u2581Normdatei",
+        "Havolalar",
+        "\u2581GenerationType",
+        "\u2581combineReducers",
+        "setVerticalGroup"
+    ],
+    "positive_strings": [
+        "\u2581TEM",
+        "alte",
+        "\u2581TEMP",
+        "\u2581templates",
+        "TEMP",
+        "altes",
+        "\u2581\u6a21\u677f",
+        "Templates",
+        "\u2581temp",
+        "\u2581Temp"
+    ],
+    "description": "references to temperature and template-related terminology"
+}

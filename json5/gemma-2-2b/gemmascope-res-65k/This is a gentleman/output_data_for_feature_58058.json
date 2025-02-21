@@ -1,0 +1,30 @@
+{
+    "index": "58058",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a gentleman/data_for_feature_58058.json",
+    "negative_strings": [
+        "\u062a\u0642\u0627\u0648\u0649",
+        "ectoria",
+        ">{@",
+        "LITERAL",
+        "Port\u00e1ly",
+        "AsUp",
+        "\u2581\u0421\u0430\u0432\u0435\u0437",
+        "Refer\u00eancias",
+        "thier",
+        "\u2581Reach"
+    ],
+    "positive_strings": [
+        "bugs",
+        "\u2581Gaga",
+        "bird",
+        "bug",
+        "\u2581gaga",
+        "fingers",
+        "birds",
+        "BIRD",
+        "BUG",
+        "finger"
+    ],
+    "description": "mentions of female titles or references related to women"
+}

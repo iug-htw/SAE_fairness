@@ -1,0 +1,30 @@
+{
+    "index": "12968",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is cocaine/data_for_feature_12968.json",
+    "negative_strings": [
+        "\u00e9nario",
+        "\u2581\u0628\u064a\u0647\u0627",
+        "\u2581oprot",
+        "ConfigureAwait",
+        "StoryboardSegue",
+        "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+        "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+        "onets",
+        "liferay",
+        "ymus"
+    ],
+    "positive_strings": [
+        "\u2581drug",
+        "\u2581drugs",
+        "\u2581Drug",
+        "drug",
+        "Drug",
+        "\u2581Drugs",
+        "drugs",
+        "Drugs",
+        "\u2581cocaine",
+        "\u2581heroin"
+    ],
+    "description": "references to drug-related issues and behaviors"
+}

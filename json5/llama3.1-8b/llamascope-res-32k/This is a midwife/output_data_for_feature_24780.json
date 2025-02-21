@@ -1,0 +1,30 @@
+{
+    "index": "24780",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a midwife/data_for_feature_24780.json",
+    "negative_strings": [
+        "acula",
+        "\u00c3\u00a1o",
+        " t\u00e1\u00bb\u00abng",
+        "pNet",
+        "ersen",
+        "anter",
+        "fak",
+        "oplay",
+        "baz",
+        "marvin"
+    ],
+    "positive_strings": [
+        " sized",
+        "-sized",
+        " Sized",
+        "-size",
+        " size",
+        "size",
+        " Size",
+        "_size",
+        "-large",
+        "Size"
+    ],
+    "description": "references to different sizes and scales, particularly medium-sized entities or concepts"
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "index": "3725",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ists ein Junge/data_for_feature_3725.json",
+        "negative_strings": [
+            "\u2581ein",
+            "\u2581nahilalakip",
+            "DockStyle",
+            "principalColumn",
+            "\u2581initComponents",
+            "Personendaten",
+            "SequentialGroup",
+            "Ein",
+            "\u2581EconPapers",
+            "CodedInputStream"
+        ],
+        "positive_strings": [
+            "\u2581gendar",
+            "\u2581montanha",
+            "\u2581inaczej",
+            "\u2581spolupr\u00e1",
+            "\u2581ravens",
+            "\u2581Humanos",
+            "\u2581&___",
+            "pography",
+            "tenham",
+            "\u2581\")["
+        ],
+        "description": " attends to tokens marked \"ein\" from subsequent tokens involving various forms of verb constructions"
+    },
+    {
+        "index": "2960",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/Das ists ein Junge/data_for_feature_2960.json",
+        "negative_strings": [
+            "\u2581my\u017felf",
+            "\u2581purpo\u017fe",
+            "\u2581plea\u017fure",
+            "\u2581it\u017felf",
+            "\u2581Monfieur",
+            "\u2581hou\u017fe",
+            "\u2581them\u017felves",
+            "\u2581him\u017felf",
+            "\u2581rai\u017f",
+            "\u2581fa\u017ft"
+        ],
+        "positive_strings": [
+            "\u2581Co",
+            "\u2581P",
+            "\u2581T",
+            "\u2581K",
+            "\u2581co",
+            "\u2581H",
+            "\u2581R",
+            "\u2581V",
+            "nteral",
+            "\u2581S"
+        ],
+        "description": " attends to modifiers or descriptors from the main subjects in the sentences"
+    }
+]

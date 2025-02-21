@@ -1,0 +1,422 @@
+[
+    {
+        "index": "6588",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_6588.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581male",
+            "\u2581males",
+            "URLException",
+            "\u2581damski",
+            "\u2581p\u00e1ns",
+            "\u2581d\u00e1msk\u00e9",
+            "\u2581men",
+            "\u2581m\u00e2le",
+            "\u2581cowok"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "volent",
+            "\u2581Empowerment",
+            "hood",
+            "\u2581suffrage",
+            "\u2581entrepreneurs",
+            "\u2581entrepreneur",
+            "\u2581fatale",
+            "\u2581mittleren"
+        ],
+        "description": "references to women's involvement and representation in various contexts"
+    },
+    {
+        "index": "9424",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_9424.json",
+        "negative_strings": [
+            "\u2581Palis",
+            "\u2581\u0410\u0440\u0445\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e",
+            "ing",
+            "form",
+            "Vaya",
+            "\u2581sur",
+            "\u2581\u0432\u043d\u0435",
+            "\u2581gen\u00fc",
+            "setting",
+            "\u2581aqu"
+        ],
+        "positive_strings": [
+            "Lady",
+            "\u2581Lady",
+            "\u2581LADY",
+            "\u2581lady",
+            "WithIOException",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "LADY",
+            "\u2581EconPapers",
+            "lady"
+        ],
+        "description": "references to noble titles and roles, particularly 'Lady' and 'Lord'"
+    },
+    {
+        "index": "7896",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_7896.json",
+        "negative_strings": [
+            "sur",
+            "\u2581sur",
+            "\u2581dis",
+            "aligned",
+            "\u2581au",
+            "\u2581form",
+            "Sur",
+            "setting",
+            "multer",
+            "\u2581Grain"
+        ],
+        "positive_strings": [
+            "\u2581LADY",
+            "Lady",
+            "\u2581Lady",
+            "\u2581lady",
+            "\u2581Sir",
+            "LADY",
+            "lady",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "Sir",
+            "msgTypes"
+        ],
+        "description": "references to noble titles and roles, particularly those pertaining to ladies and lords"
+    },
+    {
+        "index": "10482",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_10482.json",
+        "negative_strings": [
+            "\u2581Aqu",
+            "or",
+            "for",
+            "ine",
+            "\u2581aqu",
+            "\u2581pro",
+            "\u2581sur",
+            "sq",
+            "ing",
+            "ior"
+        ],
+        "positive_strings": [
+            "berdayakan",
+            "msgTypes",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "\u2581Monfieur",
+            "GEBURTSDATUM",
+            "\u2581propOrder",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581Wicidata",
+            "Lady"
+        ],
+        "description": "references to nobility or titles related to ladies and lords"
+    },
+    {
+        "index": "11567",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_11567.json",
+        "negative_strings": [
+            "\u2581sur",
+            "HDC",
+            "\u2581Aqu",
+            "sur",
+            "\u2581p\u0159ep",
+            "\u2581aqu",
+            "\u2581juc",
+            "or",
+            "abor",
+            "for"
+        ],
+        "positive_strings": [
+            "Lady",
+            "\u2581LADY",
+            "\u2581Lady",
+            "\u2581Monfieur",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581PeEnEo",
+            "Lord",
+            "LADY",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581EconPapers"
+        ],
+        "description": "titles and honorifics related to nobility and gender"
+    },
+    {
+        "index": "7413",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_7413.json",
+        "negative_strings": [
+            "\u2581CreateTagHelper",
+            "\u2581damski",
+            "\u2581p\u00e1ns",
+            "\u2581d\u00e1msk\u00e9",
+            "URLException",
+            "\u2581menino",
+            "\u2581cewek",
+            "\u2581boy",
+            "\u2581cowok",
+            "\u2581perempuan"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "\u2581Empowerment",
+            "\u2581folk",
+            "\u2581suffrage",
+            "\u2581voters",
+            "Folk",
+            "\u2581prisoners",
+            "\u2581entrepreneurs",
+            "\u2581golfers"
+        ],
+        "description": "references to women and gender-related terms"
+    },
+    {
+        "index": "4030",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_4030.json",
+        "negative_strings": [
+            "ing",
+            "Gr\u00fcsse",
+            "\u2581control",
+            "\u2581p\u0159ep",
+            "\u2581conform",
+            "Kathy",
+            "\u2581subject",
+            "\u2581Palis",
+            "setting",
+            "\u60c5"
+        ],
+        "positive_strings": [
+            "LookAnd",
+            "DockStyle",
+            "RenderAtEndOf",
+            "RegressionTest",
+            "GEBURTSDATUM",
+            "\u2581LADY",
+            "ThroughAttribute",
+            "\u2581propOrder",
+            "Lady",
+            "dafx"
+        ],
+        "description": "titles and honorifics associated with nobility"
+    },
+    {
+        "index": "5739",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_5739.json",
+        "negative_strings": [
+            "\u2581male",
+            "\u2581CreateTagHelper",
+            "\u2581damski",
+            "\u2581female",
+            "\u2581males",
+            "\u2581perempuan",
+            "\u2581m\u0119ski",
+            "\u2581cewek",
+            "\u2581d\u00e1msk\u00e9",
+            "URLException"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "\u2581Empowerment",
+            "\u2581folk",
+            "\u2581suffrage",
+            "\u2581fatale",
+            "Folk",
+            "\u2581voters",
+            "\u2581prisoners",
+            "\u2581entrepreneurs"
+        ],
+        "description": "references to women's involvement and representation in various contexts"
+    },
+    {
+        "index": "7917",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_7917.json",
+        "negative_strings": [
+            "ing",
+            "\u2581contas",
+            "ForResult",
+            "form",
+            "m\u00f6gens",
+            "setting",
+            "\u2581tear",
+            "\u2581\u0645\u0628",
+            "\u2581form",
+            "ORES"
+        ],
+        "positive_strings": [
+            "\u2581Sir",
+            "\u2581Lady",
+            "\u2581LADY",
+            "Lady",
+            "Sir",
+            "LADY",
+            "\u2581lady",
+            "WithIOException",
+            "\u2581SIR",
+            "lady"
+        ],
+        "description": " titles and honorifics associated with nobility or aristocracy"
+    },
+    {
+        "index": "2854",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_2854.json",
+        "negative_strings": [
+            "\u2581male",
+            "\u2581m\u0119ski",
+            "\u2581damski",
+            "\u2581perempuan",
+            "\u2581CreateTagHelper",
+            "\u2581female",
+            "male",
+            "\u2581cewek",
+            "girl",
+            "\u2581girl"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581folk",
+            "\u2581empowerment",
+            "\u2581fatale",
+            "\u2581voters",
+            "Folk",
+            "\u2581prisoners",
+            "\u2581wrestlers",
+            "\u2581athletes",
+            "\u2581entrepreneur"
+        ],
+        "description": "references to women and gender-related terms"
+    },
+    {
+        "index": "1993",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_1993.json",
+        "negative_strings": [
+            "\u2581damski",
+            "\u2581m\u0119ski",
+            "\u2581CreateTagHelper",
+            "URLException",
+            "\u2581femininas",
+            "\u2581\u0436\u0435\u043d\u0441\u043a\u0438\u0435",
+            "\u2581perempuan",
+            "\u2581d\u00e1msk\u00e9",
+            "\u2581male",
+            "\u2581p\u00e1ns"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u2581empowerment",
+            "\u2581folk",
+            "\u2581Empowerment",
+            "Folk",
+            "\u2581voters",
+            "\u2581fatale",
+            "\u2581prisoners",
+            "\u2581suffrage",
+            "\u2581Voters"
+        ],
+        "description": "references to women and gender-related issues"
+    },
+    {
+        "index": "10498",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_10498.json",
+        "negative_strings": [
+            "\u2581himself",
+            "\u2581Handsome",
+            "\u304f\u3093\u306e",
+            "\u2581Anson",
+            "\u304f\u3093",
+            "\u2581brotherhood",
+            "\u2581handsome",
+            "BaseType",
+            "\u2581Sonny",
+            "Handsome"
+        ],
+        "positive_strings": [
+            "transQ",
+            "MLLoader",
+            "\u2581\u062a\u0643\u0628\u0631\u0647\u0627",
+            "folk",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581pinulongan",
+            "ast\u00e9ro\u00efdes",
+            "-------\f",
+            "\u2581AssemblyProduct",
+            "tinyos"
+        ],
+        "description": "references to women and related gender terms"
+    },
+    {
+        "index": "4607",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_4607.json",
+        "negative_strings": [
+            "sourceMap",
+            "\u2581himself",
+            "\u2581Handsome",
+            "URLException",
+            "\u2581Anson",
+            "\u304f\u3093\u306e",
+            "primaryKey",
+            "\u2581Sonny",
+            "\u2581hemsida",
+            "rago"
+        ],
+        "positive_strings": [
+            "folk",
+            "transQ",
+            "\u2581empowerment",
+            "StoryboardSegue",
+            "\u2581\u062a\u0643\u0628\u0631\u0647\u0627",
+            "-------\f",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "tinyos",
+            "\u2581pinulongan",
+            "ast\u00e9ro\u00efdes"
+        ],
+        "description": "words and phrases specifically related to women and gender issues"
+    },
+    {
+        "index": "8688",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_8688.json",
+        "negative_strings": [
+            "\u2581Handsome",
+            "\u2581himself",
+            "summary",
+            "Handsome",
+            "\u2581Anson",
+            "\u2581handsome",
+            "\u2581Sonny",
+            "onio",
+            "\u304f\u3093\u306e",
+            "Completo"
+        ],
+        "positive_strings": [
+            "ast\u00e9ro\u00efdes",
+            "MLLoader",
+            "\u2581pinulongan",
+            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
+            "lorette",
+            "IUrlHelper",
+            "transQ",
+            "\u2581getItemCount",
+            "\u2581\u062a\u0643\u0628\u0631\u0647\u0627",
+            "\u2581poveznice"
+        ],
+        "description": "references to women and their roles or representations in various contexts"
+    }
+]

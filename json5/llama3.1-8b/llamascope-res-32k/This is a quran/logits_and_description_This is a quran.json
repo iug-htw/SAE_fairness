@@ -1,0 +1,422 @@
+[
+    {
+        "index": "20987",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_20987.json",
+        "negative_strings": [
+            "arez",
+            "uju",
+            "isting",
+            "ague",
+            "kker",
+            " lac",
+            "ACEMENT",
+            " plural",
+            " chip",
+            "uhn"
+        ],
+        "positive_strings": [
+            "&A",
+            "antas",
+            "oS",
+            "ubits",
+            "naires",
+            "atar",
+            "ues",
+            "ubit",
+            "rious",
+            " Fever"
+        ],
+        "description": "questions pertaining to programming or technical inquiries"
+    },
+    {
+        "index": "27622",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_27622.json",
+        "negative_strings": [
+            "ague",
+            "uju",
+            "arez",
+            "unday",
+            "ickers",
+            "ACEMENT",
+            "estroy",
+            "uy",
+            "apse",
+            "ylim"
+        ],
+        "positive_strings": [
+            "&A",
+            "oS",
+            "ubits",
+            "naires",
+            "atar",
+            "ubit",
+            "antas",
+            "atars",
+            "uds",
+            "aland"
+        ],
+        "description": "question format phrases or inquiries"
+    },
+    {
+        "index": "32018",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_32018.json",
+        "negative_strings": [
+            "ACEMENT",
+            "dez",
+            "estroy",
+            "kker",
+            "UGIN",
+            " lac",
+            "\u00eb\u0126\u0132",
+            " highly",
+            "arez",
+            " amat"
+        ],
+        "positive_strings": [
+            "&A",
+            "atar",
+            "antas",
+            "ues",
+            "uesta",
+            "ubits",
+            "ubit",
+            " Fever",
+            "atars",
+            "west"
+        ],
+        "description": "occurrences of the letter 'Q' in various contexts"
+    },
+    {
+        "index": "9863",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_9863.json",
+        "negative_strings": [
+            "enha",
+            "endum",
+            "ifice",
+            " hik",
+            "\u00eb\u0126\u0132",
+            "\u00d0\u00be\u00d0\u00b7",
+            " otherwise",
+            "iteur",
+            "\u00e7\u00aa",
+            " incarceration"
+        ],
+        "positive_strings": [
+            "&A",
+            "atar",
+            "antas",
+            "+A",
+            "uran",
+            "addafi",
+            "uesta",
+            "west",
+            " fever",
+            "lik"
+        ],
+        "description": "questions related to technical or programming inquiries"
+    },
+    {
+        "index": "11289",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_11289.json",
+        "negative_strings": [
+            "b",
+            "l",
+            "p",
+            "r",
+            "t",
+            "c",
+            "lak",
+            "lund",
+            "lac",
+            "lis"
+        ],
+        "positive_strings": [
+            "rcode",
+            "eu",
+            "oq",
+            "ubit",
+            "o",
+            "ubits",
+            "y",
+            "eer",
+            "ei",
+            "eq"
+        ],
+        "description": "strings of repeated characters or sequences"
+    },
+    {
+        "index": "1199",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_1199.json",
+        "negative_strings": [
+            "ague",
+            "uju",
+            "arez",
+            " BIN",
+            "unday",
+            "IFIC",
+            "QUIRE",
+            "lac",
+            " \u00d1\u0125\u00d1\u0123\u00d1\u0124",
+            "QWidget"
+        ],
+        "positive_strings": [
+            "&A",
+            "antas",
+            "ubit",
+            "ubits",
+            "ued",
+            "uds",
+            "EMU",
+            "oS",
+            "atars",
+            "rious"
+        ],
+        "description": " questions indicated by the notation 'Q' at the beginning of the sentences"
+    },
+    {
+        "index": "21669",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_21669.json",
+        "negative_strings": [
+            "u",
+            "l",
+            "t",
+            "p",
+            "lint",
+            "uw",
+            "lil",
+            "la",
+            "uC",
+            "lac"
+        ],
+        "positive_strings": [
+            "ubits",
+            "ubit",
+            "eu",
+            "eer",
+            "uries",
+            "oq",
+            "rcode",
+            "e",
+            "eel",
+            "o"
+        ],
+        "description": " sequences of characters resembling mathematical or programming syntax"
+    },
+    {
+        "index": "7346",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_7346.json",
+        "negative_strings": [
+            "ague",
+            "\u00e8\u012f\u0134",
+            " \u00d1\u0125\u00d1\u0123\u00d1\u0124",
+            "quat",
+            "uhn",
+            "\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00bc",
+            "UCE",
+            "uju",
+            "aces",
+            " BIN"
+        ],
+        "positive_strings": [
+            " Q",
+            "/Q",
+            "antas",
+            "ued",
+            "oS",
+            "outes",
+            "&A",
+            "wick",
+            "wik",
+            "ubit"
+        ],
+        "description": " occurrences of the letter \"Q\""
+    },
+    {
+        "index": "32058",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_32058.json",
+        "negative_strings": [
+            " \u00d1\u0125\u00d1\u0123\u00d1\u0124",
+            "unday",
+            "lech",
+            "quat",
+            " BIN",
+            "UCE",
+            "\u00e8\u012f\u0134",
+            "ague",
+            "ACHI",
+            "aces"
+        ],
+        "positive_strings": [
+            " Q",
+            "/Q",
+            "oS",
+            "&A",
+            "estion",
+            "naires",
+            "rcode",
+            ",Q",
+            "ued",
+            "wick"
+        ],
+        "description": "questions formatted in a specific question structure, denoted by the letter 'Q' followed by a number"
+    },
+    {
+        "index": "19228",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_19228.json",
+        "negative_strings": [
+            "unday",
+            " BIN",
+            "istro",
+            "avez",
+            "ounding",
+            "acing",
+            "lech",
+            ":CGRect",
+            "acia",
+            "ewan"
+        ],
+        "positive_strings": [
+            "estion",
+            "wick",
+            "oS",
+            "naires",
+            "&A",
+            "antas",
+            "rcode",
+            "outes",
+            "wert",
+            "uality"
+        ],
+        "description": " questions and queries formatted in a specific way"
+    },
+    {
+        "index": "32167",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_32167.json",
+        "negative_strings": [
+            "ORMAT",
+            "\u00d8\u00a7\u00da\u00a9\u00db\u012e",
+            "acles",
+            "ACEMENT",
+            "coln",
+            "endum",
+            "enha",
+            "esian",
+            "ertest",
+            "acement"
+        ],
+        "positive_strings": [
+            "&A",
+            "uito",
+            "ues",
+            "uid",
+            "antas",
+            "UINT",
+            "ubit",
+            "UIT",
+            "ued",
+            "ubits"
+        ],
+        "description": " references to question and answer formats or discussions"
+    },
+    {
+        "index": "5308",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_5308.json",
+        "negative_strings": [
+            "ACEMENT",
+            "ONSE",
+            "883",
+            "ORAGE",
+            "coln",
+            "ector",
+            "ACING",
+            "AGON",
+            "fol",
+            "LETE"
+        ],
+        "positive_strings": [
+            "uito",
+            "UINT",
+            "&A",
+            "uid",
+            "ues",
+            "ued",
+            "UIT",
+            "iu",
+            "uids",
+            "antas"
+        ],
+        "description": " instances of question-and-answer dialogues or formats"
+    },
+    {
+        "index": "15235",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_15235.json",
+        "negative_strings": [
+            "u",
+            "uw",
+            "t",
+            "uin",
+            "uju",
+            "uz",
+            "p",
+            "uze",
+            "uv",
+            "uC"
+        ],
+        "positive_strings": [
+            "ubits",
+            "ubit",
+            "uries",
+            "rcode",
+            "naires",
+            "eer",
+            "eu",
+            "o",
+            "e",
+            "oS"
+        ],
+        "description": "elements related to mathematical or scientific notation"
+    },
+    {
+        "index": "11903",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a quran/data_for_feature_11903.json",
+        "negative_strings": [
+            "unday",
+            "opus",
+            " \u00d1\u0125\u00d1\u0123\u00d1\u0124",
+            "estroy",
+            "bih",
+            "aced",
+            "aces",
+            "\u00d0\u00bd\u00d0\u00b5",
+            "unden",
+            "criptor"
+        ],
+        "positive_strings": [
+            "oS",
+            "naires",
+            "ubit",
+            "estion",
+            "wick",
+            "rcode",
+            "&A",
+            "ues",
+            "wert",
+            "o"
+        ],
+        "description": "questions that introduce a subject for discussion or inquiry"
+    }
+]

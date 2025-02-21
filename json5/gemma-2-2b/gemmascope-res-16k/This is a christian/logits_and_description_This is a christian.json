@@ -1,0 +1,392 @@
+[
+    {
+        "index": "805",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_805.json",
+        "negative_strings": [
+            "adaptiveStyles",
+            "tagHelperRunner",
+            "\u2581GeoNames",
+            "tief",
+            "WebMethod",
+            "\u2581AssemblyProduct",
+            "enumii",
+            "\u2581\u0412\u0456\u043a\u0456\u043f\u0435",
+            "\u2581Islamic",
+            "\u2581Catholicism"
+        ],
+        "positive_strings": [
+            "\u2581Milit",
+            "Milit",
+            "\u5f92",
+            "\u0411\u0430\u0445\u0430\u0440",
+            "gemeins",
+            "medades",
+            "\u2581scolaire",
+            "Cyfeiriadau",
+            "\u2581pinulongan",
+            "\u2581teachings"
+        ],
+        "description": "references to religious themes, organizations, and discussions of religious freedom"
+    },
+    {
+        "index": "6827",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_6827.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "DockStyle",
+            "\u2581OMITBAD",
+            "modelBuilder",
+            "kh\u00e1u",
+            "AccessorTable",
+            "CppMethod",
+            "Jeografia",
+            "__\":",
+            "langsung"
+        ],
+        "positive_strings": [
+            "\u2581faith",
+            "Parcelize",
+            "\u2581useParams",
+            "faith",
+            "\u00edslu",
+            "\u2581Faith",
+            "\u2581beliefs",
+            "Faith",
+            "\u2581useHistory",
+            "\u2581teaching"
+        ],
+        "description": "references to various Christian denominations and religious contexts"
+    },
+    {
+        "index": "4138",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_4138.json",
+        "negative_strings": [
+            "ppuden",
+            "InSection",
+            "\u2581GeoNames",
+            "GetKeyDown",
+            "\u2581GreatSchools",
+            "atschappij",
+            ":)",
+            "\u2581Notices",
+            "\u2581tamen",
+            "\u2581Tsche"
+        ],
+        "positive_strings": [
+            "ized",
+            "guarded",
+            "ization",
+            "\u2581nahilalakip",
+            "\u2581ControllerBase",
+            "\u2581cref",
+            "GraphicsUnit",
+            "aarrggbb",
+            "ised",
+            "\u2581Dior"
+        ],
+        "description": "references to the term \"Christian\" and related concepts"
+    },
+    {
+        "index": "428",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_428.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "styleType",
+            "modelBuilder",
+            "AccessorTable",
+            "\u2581cherch\u00e9s",
+            "\u2581AssemblyProduct",
+            "CppMethod",
+            "AndEndTag",
+            "\u2581Catholicism"
+        ],
+        "positive_strings": [
+            "\u2581faith",
+            "ITY",
+            "orum",
+            "faith",
+            "\u2581Charities",
+            "\u2581Faith",
+            "\u2581Church",
+            "\u0631\u0627\u0643",
+            "ity",
+            "\u2581\u00d4ng"
+        ],
+        "description": "references to the Catholic Church and related terminology"
+    },
+    {
+        "index": "15465",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_15465.json",
+        "negative_strings": [
+            "AccessorTable",
+            "tagHelperRunner",
+            "CppMethod",
+            "DockStyle",
+            "styleType",
+            "\u2581Catholicism",
+            "AndEndTag",
+            "modelBuilder",
+            "QMetaType",
+            "\u2581ujednoznacz"
+        ],
+        "positive_strings": [
+            "Parcelize",
+            "\u2581faith",
+            "ITY",
+            "itys",
+            "MENAFN",
+            "faith",
+            "\u2581belief",
+            "\u2581tradition",
+            "ism",
+            "Cyfeiriadau"
+        ],
+        "description": "terms and references related to Christianity, particularly Catholicism"
+    },
+    {
+        "index": "14873",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_14873.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "SourceChecksum",
+            "adaptiveStyles",
+            "\u2581intptr",
+            "migrationBuilder",
+            "elemField",
+            ":\u2728",
+            "tvguidetime",
+            "CppMethod",
+            "styleType"
+        ],
+        "positive_strings": [
+            "Christian",
+            "\u2581Christian",
+            "\u2581N\u00e4ch",
+            "lae",
+            "\u2581faith",
+            "\u5473\u306e",
+            "\u00edslu",
+            "\u2581religione",
+            "\u2581cref",
+            "\u2581Lu"
+        ],
+        "description": "references to Christianity and its various denominations"
+    },
+    {
+        "index": "4516",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_4516.json",
+        "negative_strings": [
+            "WireFormatLite",
+            "DockStyle",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "BeginContext",
+            ":\u2728",
+            "oredCriteria",
+            "SourceChecksum",
+            "\u2581<=\",",
+            "VersionUID",
+            "\u2581ujednoznacz"
+        ],
+        "positive_strings": [
+            "\u2581Christian",
+            "Christian",
+            "\u5f92",
+            "\u5473\u306e",
+            "\u2581bet",
+            "osten",
+            "parametric",
+            "WhiteSpace",
+            "\u2581esternos",
+            "\u2581Punkten"
+        ],
+        "description": "references to Christianity and related religious themes"
+    },
+    {
+        "index": "3498",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_3498.json",
+        "negative_strings": [
+            "SourceChecksum",
+            "tagHelperRunner",
+            "WireFormatLite",
+            "kh\u00e1u",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "migrationBuilder",
+            "DockStyle",
+            "adaptiveStyles",
+            "contentLoaded",
+            "oredCriteria"
+        ],
+        "positive_strings": [
+            "\u5f92",
+            "\u5473\u306e",
+            "irah",
+            "('../../../",
+            "\u2581leaning",
+            "\u2581useRouter",
+            "Christian",
+            "\u2581Christian",
+            "\u30eb\u30fc",
+            "\u2581Punkten"
+        ],
+        "description": "terms and concepts related to Christianity and its various denominations"
+    },
+    {
+        "index": "12651",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_12651.json",
+        "negative_strings": [
+            "\u2581Efq",
+            "\u2581my\u017felf",
+            "\u2581Shakspeare",
+            "\u2581them\u017felves",
+            "\u2581Monfieur",
+            "\u2581him\u017felf",
+            "\u2581becau\u017fe",
+            "\u2581poffible",
+            "tagHelperRunner",
+            "\u2581poffe"
+        ],
+        "positive_strings": [
+            "Cyfeiriadau",
+            "sunter",
+            "toft",
+            "\u2581beliefs",
+            "\u2581leaders",
+            "gemeins",
+            "\u2581belief",
+            "\u2581textes",
+            "\u2581imposto",
+            "\u5f92"
+        ],
+        "description": "terms related to religion and religious concepts"
+    },
+    {
+        "index": "13540",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_13540.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "elemField",
+            "migrationBuilder",
+            "SourceChecksum",
+            "CppMethod",
+            "WireFormatLite",
+            "DockStyle",
+            "kh\u00e1u",
+            "\u2581intptr",
+            "oredCriteria"
+        ],
+        "positive_strings": [
+            "\u2581religione",
+            "\u2581faith",
+            "\u2581Christian",
+            "Christian",
+            "Parcelize",
+            "matically",
+            "\u5473\u306e",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "faith",
+            "\u2581Punkten"
+        ],
+        "description": "terms related to Christianity and Islam"
+    },
+    {
+        "index": "2251",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_2251.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "modelBuilder",
+            "\u2581cherch\u00e9s",
+            "audiovisuel",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "DockStyle",
+            "\u51fa\u7248\u5e74",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "kh\u00e1u",
+            "\u2581<=\","
+        ],
+        "positive_strings": [
+            "\u2581faith",
+            "ism",
+            "\u2581Party",
+            "\u2581tradition",
+            "\u2581useParams",
+            "\u2581UnityEditor",
+            "\u2581churches",
+            "Faith",
+            "\u2581belief",
+            "\u2581nations"
+        ],
+        "description": "references to different Christian denominations and religious identities"
+    },
+    {
+        "index": "14209",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_14209.json",
+        "negative_strings": [
+            "adaptiveStyles",
+            "enumii",
+            "enumi",
+            "RectangleBorder",
+            "\u2581insuffisamment",
+            "enang",
+            "\u270e",
+            "INCLUDED",
+            "\u2581TextInputType",
+            "ANEOUS"
+        ],
+        "positive_strings": [
+            "goers",
+            "\u2581Milit",
+            "Milit",
+            "\u2581leaders",
+            "djangoproject",
+            "milit",
+            "\u2581militant",
+            "Leaders",
+            "Cyfeiriadau",
+            "MigrationBuilder"
+        ],
+        "description": "references to religious institutions and churches"
+    },
+    {
+        "index": "1113",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a christian/data_for_feature_1113.json",
+        "negative_strings": [
+            "\u2581Efq",
+            "\u2581them\u017felves",
+            "\u2581greate\u017ft",
+            "\u2581Chriftian",
+            "\u2581my\u017felf",
+            "\u2581him\u017felf",
+            "\u2581Monfieur",
+            "\u2581purpo\u017fe",
+            "\u2581Con\u017f",
+            "\u2581poffe"
+        ],
+        "positive_strings": [
+            "\u2581leaders",
+            "goers",
+            "MigrationBuilder",
+            "Cyfeiriadau",
+            "yard",
+            "Leaders",
+            "osoba",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "Milit",
+            "\u0421\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e"
+        ],
+        "description": "references to religious institutions and churches"
+    }
+]

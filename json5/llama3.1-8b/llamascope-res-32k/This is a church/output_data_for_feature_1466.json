@@ -1,0 +1,30 @@
+{
+    "index": "1466",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a church/data_for_feature_1466.json",
+    "negative_strings": [
+        " Churches",
+        " churches",
+        " church",
+        " Specialists",
+        "egin",
+        "ottage",
+        "stinence",
+        " Church",
+        "#line",
+        "strup"
+    ],
+    "positive_strings": [
+        "yard",
+        "going",
+        "go",
+        "wide",
+        "(es",
+        "yards",
+        "ward",
+        "manship",
+        "men",
+        "-going"
+    ],
+    "description": " references to religious institutions, specifically churches and associated figures"
+}

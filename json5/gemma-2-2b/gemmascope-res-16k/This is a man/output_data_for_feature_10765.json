@@ -1,0 +1,30 @@
+{
+    "index": "10765",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a man/data_for_feature_10765.json",
+    "negative_strings": [
+        "CloseOperation",
+        "VersionUID",
+        "ReusableCell",
+        "PhysRevD",
+        "ModelAdmin",
+        "BURGH",
+        "rawDesc",
+        "subplots",
+        "tableFuture",
+        "ContentAsync"
+    ],
+    "positive_strings": [
+        "cipation",
+        "fact",
+        "Kind",
+        "\u2581Manzan",
+        "ouver",
+        "atee",
+        "\u2581suffrage",
+        "handled",
+        "cave",
+        "ageable"
+    ],
+    "description": "references to the word \"man\" in various contexts"
+}

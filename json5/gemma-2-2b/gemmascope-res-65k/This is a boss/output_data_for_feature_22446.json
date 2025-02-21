@@ -1,0 +1,30 @@
+{
+    "index": "22446",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a boss/data_for_feature_22446.json",
+    "negative_strings": [
+        "OGND",
+        "---*/",
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "/*---",
+        "\u0928\u0932\u093f\u0916\u093f\u0924",
+        "\u671f\u520a\u8bba\u6587",
+        "verwijspagina",
+        "]-->",
+        "pegno",
+        "\u2581cdti"
+    ],
+    "positive_strings": [
+        "\u2581boss",
+        "\u2581BOSS",
+        "\u2581Boss",
+        "boss",
+        "Boss",
+        "\u2581bosses",
+        "ing",
+        "BOSS",
+        "ESS",
+        "ess"
+    ],
+    "description": "references to authority figures or positions of leadership"
+}

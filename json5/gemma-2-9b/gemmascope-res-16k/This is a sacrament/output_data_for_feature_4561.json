@@ -1,0 +1,30 @@
+{
+    "index": "4561",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a sacrament/data_for_feature_4561.json",
+    "negative_strings": [
+        "ChildScrollView",
+        "\u2581EconPapers",
+        "Personensuche",
+        "NoStop",
+        "DockStyle",
+        "productivity",
+        "\u2581escapes",
+        "principalTable",
+        "diffuse",
+        "\u2581diffuse"
+    ],
+    "positive_strings": [
+        "\u2581baptism",
+        "\u2581Baptism",
+        "\u2581bap",
+        "\u2581bapt",
+        "\u2581baptis",
+        "\u2581baptized",
+        "bap",
+        "\u2581bautizo",
+        "\u2581Bap",
+        "Bap"
+    ],
+    "description": "references to religious sacraments and their significance"
+}

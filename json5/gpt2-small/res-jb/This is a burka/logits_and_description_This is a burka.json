@@ -1,0 +1,482 @@
+[
+    {
+        "index": "5944",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_5944.json",
+        "negative_strings": [
+            " antioxid",
+            " Vie",
+            " modesty",
+            " rotating",
+            " reporting",
+            " GAM",
+            " endorsements",
+            " Hayden",
+            " capt",
+            " doubtful"
+        ],
+        "positive_strings": [
+            "geoning",
+            "rito",
+            "rough",
+            "zynski",
+            "rows",
+            "pees",
+            "leigh",
+            "pee",
+            "lington",
+            "ied"
+        ],
+        "description": "mentions of specific place names"
+    },
+    {
+        "index": "10771",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_10771.json",
+        "negative_strings": [
+            "BuyableInstoreAndOnline",
+            "ENDED",
+            " Rutherford",
+            ">>>>",
+            " juven",
+            "ADE",
+            "ended",
+            "ENT",
+            " Nadu",
+            " suspic"
+        ],
+        "positive_strings": [
+            "lap",
+            "qa",
+            "sters",
+            "ials",
+            "bling",
+            "rito",
+            "liest",
+            "ster",
+            "liness",
+            "kas"
+        ],
+        "description": "mentions of bodily harm or violence"
+    },
+    {
+        "index": "12676",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_12676.json",
+        "negative_strings": [
+            "\u00e9\u00be\u012f\u00e5",
+            "\u00e9\u0139\u013a",
+            " Regulatory",
+            "aunder",
+            "\u00e5\u00a7\u00ab",
+            " Failure",
+            "payer",
+            ")=(",
+            "OA",
+            "DragonMagazine"
+        ],
+        "positive_strings": [
+            " bur",
+            "rows",
+            "rito",
+            "rowing",
+            "row",
+            "rette",
+            "gey",
+            "querque",
+            "ried",
+            "geons"
+        ],
+        "description": "the word \"bur\" or variations of it"
+    },
+    {
+        "index": "5893",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_5893.json",
+        "negative_strings": [
+            "\u00e9\u00be\u012f\u00e5",
+            "aunder",
+            "uncture",
+            "\u00e9\u0139\u013a",
+            " Regulatory",
+            "ACTED",
+            " Failure",
+            "peak",
+            "eanor",
+            "FTWARE"
+        ],
+        "positive_strings": [
+            " bur",
+            "rows",
+            "rito",
+            "rowing",
+            "gey",
+            "bur",
+            "rette",
+            "row",
+            "geons",
+            "geon"
+        ],
+        "description": "the word \"bur\" followed by a number indicating intensity or direction"
+    },
+    {
+        "index": "19357",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_19357.json",
+        "negative_strings": [
+            " Cups",
+            " setbacks",
+            " ones",
+            " bosses",
+            " fixtures",
+            " testers",
+            " Ones",
+            " Tanks",
+            " agents",
+            " deployments"
+        ],
+        "positive_strings": [
+            "uristic",
+            "cipled",
+            "emonic",
+            "ministic",
+            "assian",
+            "emale",
+            "athetic",
+            "rotein",
+            "icrobial",
+            "ogeneous"
+        ],
+        "description": "negative social behaviors and controversial terms related to race and prejudice"
+    },
+    {
+        "index": "5417",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_5417.json",
+        "negative_strings": [
+            " detectors",
+            " generals",
+            " sauces",
+            "places",
+            " sensations",
+            " secretaries",
+            " PCs",
+            " instructors",
+            " transmissions",
+            " rituals"
+        ],
+        "positive_strings": [
+            "ringe",
+            "ulet",
+            "oon",
+            "ipop",
+            "ruck",
+            "ucer",
+            "onet",
+            "raper",
+            "ifle",
+            "coon"
+        ],
+        "description": "physical objects and actions related to a crime scene"
+    },
+    {
+        "index": "240",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_240.json",
+        "negative_strings": [
+            " reluct",
+            " unexplained",
+            " Path",
+            " unethical",
+            " skepticism",
+            " opposition",
+            " Advantage",
+            " Awakening",
+            " Apostle",
+            " Ground"
+        ],
+        "positive_strings": [
+            "igraph",
+            "ampunk",
+            "igree",
+            "itone",
+            "intage",
+            "icol",
+            "iques",
+            "iture",
+            "olor",
+            "ivery"
+        ],
+        "description": "physical objects or garments and detailed descriptions related to their appearance"
+    },
+    {
+        "index": "19048",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_19048.json",
+        "negative_strings": [
+            "enhagen",
+            "ECT",
+            "IELD",
+            "EMBER",
+            " 1886",
+            "OP",
+            " Equity",
+            "ONES",
+            "UX",
+            " Oaks"
+        ],
+        "positive_strings": [
+            "ks",
+            "ked",
+            "king",
+            "ried",
+            "ky",
+            "ping",
+            "kers",
+            "kish",
+            "ped",
+            "rily"
+        ],
+        "description": "names or phrases related to particular individuals within the text"
+    },
+    {
+        "index": "19100",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_19100.json",
+        "negative_strings": [
+            " writ",
+            " last",
+            " particularly",
+            " most",
+            " lying",
+            " under",
+            " now",
+            " marked",
+            " questioning",
+            " previously"
+        ],
+        "positive_strings": [
+            "ikuman",
+            "acebook",
+            "renheit",
+            "ModLoader",
+            "assic",
+            "isphere",
+            "ixel",
+            "Forge",
+            "elight",
+            "itech"
+        ],
+        "description": "names of specific entities or titles"
+    },
+    {
+        "index": "13077",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_13077.json",
+        "negative_strings": [
+            "tons",
+            " Luk",
+            " duly",
+            " advance",
+            "yg",
+            "gets",
+            "emouth",
+            " Unch",
+            " Dragonbound",
+            " crystal"
+        ],
+        "positive_strings": [
+            "ves",
+            "red",
+            "fed",
+            "let",
+            "fs",
+            "ring",
+            "lett",
+            "fing",
+            "lete",
+            "cer"
+        ],
+        "description": "mentions of clothing accessories"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
+        "index": "22687",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_22687.json",
+        "negative_strings": [
+            " Whitman",
+            " Marqu",
+            " Martin",
+            " Robinson",
+            " famously",
+            " Emerson",
+            " Winn",
+            " Jackson",
+            " Spark",
+            " Chapman"
+        ],
+        "positive_strings": [
+            " exting",
+            " oun",
+            " tremend",
+            " teasp",
+            "ortunately",
+            "nesday",
+            " pione",
+            "\u00d0\u00be",
+            " carbohyd",
+            "aution"
+        ],
+        "description": "phrases related to enhancing tasks"
+    },
+    {
+        "index": "22516",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_22516.json",
+        "negative_strings": [
+            " platforms",
+            " inputs",
+            " structures",
+            " screenings",
+            " pools",
+            " avenues",
+            " trailers",
+            " timelines",
+            " lessons",
+            " lines"
+        ],
+        "positive_strings": [
+            "ibrarian",
+            "agogue",
+            "assador",
+            "emaker",
+            "ologist",
+            "agonist",
+            "ector",
+            "rolog",
+            "iever",
+            "rentice"
+        ],
+        "description": "words related to academic or technical concepts, such as notation, operations, and theorists"
+    },
+    {
+        "index": "16849",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_16849.json",
+        "negative_strings": [
+            "--------------------------------",
+            " constitu",
+            "\u00d9\u0126",
+            "Thumbnail",
+            " governing",
+            "Brew",
+            " predec",
+            "\u00e2\u0139\u00bc",
+            " Administration",
+            "\u00d8\u00a8"
+        ],
+        "positive_strings": [
+            "ested",
+            "ress",
+            "ression",
+            "ressing",
+            "ests",
+            "ressed",
+            "itial",
+            "resses",
+            "esting",
+            "ressive"
+        ],
+        "description": "terms related to investigation or analysis of information"
+    },
+    {
+        "index": "4494",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_4494.json",
+        "negative_strings": [
+            "\u00de",
+            "PDATE",
+            " behavi",
+            " exting",
+            "\u00df",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " corrid",
+            " millenn",
+            " referen",
+            " conclud"
+        ],
+        "positive_strings": [
+            "ache",
+            "ary",
+            "ical",
+            "aled",
+            "aged",
+            "hire",
+            "atal",
+            "orial",
+            "agically",
+            "ate"
+        ],
+        "description": "verbs related to violent or harmful actions"
+    },
+    {
+        "index": "12419",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a burka/data_for_feature_12419.json",
+        "negative_strings": [
+            " Roe",
+            " Crunch",
+            " Cache",
+            " Face",
+            " Digest",
+            " Patent",
+            " CV",
+            " Missouri",
+            " Dign",
+            " accord"
+        ],
+        "positive_strings": [
+            "orters",
+            "ippers",
+            "ammers",
+            "appers",
+            "achers",
+            "istors",
+            "ineries",
+            "esters",
+            "encers",
+            "ateurs"
+        ],
+        "description": "references to specific locations such as refineries"
+    }
+]

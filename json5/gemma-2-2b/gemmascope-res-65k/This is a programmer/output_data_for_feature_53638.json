@@ -1,0 +1,30 @@
+{
+    "index": "53638",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a programmer/data_for_feature_53638.json",
+    "negative_strings": [
+        "astify",
+        "MockBean",
+        "omitempty",
+        "WriteBarrier",
+        "\u2581BorderRadius",
+        "\u2581Oxide",
+        "\u2581<>\",",
+        "__\":",
+        "shadowRadius",
+        "\u2581pousser"
+    ],
+    "positive_strings": [
+        "matically",
+        "mers",
+        "matical",
+        "mable",
+        "matic",
+        "mability",
+        "\u2581languages",
+        "mier",
+        "med",
+        "mming"
+    ],
+    "description": " references to programs and programming-related terminology"
+}

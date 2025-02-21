@@ -1,0 +1,30 @@
+{
+    "index": "13088",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_13088.json",
+    "negative_strings": [
+        "getActiveSheet",
+        "bootstrapcdn",
+        "\u2581CanadaChoose",
+        "mybatisplus",
+        "donn\u00e9es",
+        "Suff",
+        "\ufeff/*",
+        "Karol",
+        "\u2581PAN",
+        "\ufeff/**"
+    ],
+    "positive_strings": [
+        "\u2581Re",
+        "\u2581RE",
+        "Re",
+        "\u2581re",
+        "posedge",
+        "tonode",
+        "\u2581disambiguazione",
+        "\u2581tartalomaj\u00e1nl\u00f3",
+        "re",
+        "rew"
+    ],
+    "description": "references to the prefix \"Re\" in words, particularly in names and scientific terms"
+}

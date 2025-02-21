@@ -1,0 +1,30 @@
+{
+    "index": "16332",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a gospel/data_for_feature_16332.json",
+    "negative_strings": [
+        "\u2581<>\",",
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "AsUp",
+        "\u2581AssemblyCulture",
+        "yntaxException",
+        "\u00e9valuateur",
+        "\u2581JpaRepository",
+        "RetentionPolicy",
+        "AndEndTag",
+        "\u2581estim\u00e9s"
+    ],
+    "positive_strings": [
+        "\u2581evangel",
+        "\u2581preaching",
+        "\u2581outreach",
+        "\u2581Gospel",
+        "\u2581Outreach",
+        "\u2581evange",
+        "\u2581gospel",
+        "Gospel",
+        "\u2581preach",
+        "\u2581Evangel"
+    ],
+    "description": "references to the Christian faith and its teachings"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "12666",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a temple/data_for_feature_12666.json",
+    "negative_strings": [
+        "risk",
+        "\u2581A",
+        "Krank",
+        "ness",
+        "\u0648\u0631\u062f\u0627\u0631",
+        "Boris",
+        "bias",
+        "Rourke",
+        "\u8e87",
+        "rag"
+    ],
+    "positive_strings": [
+        "\u2581Temple",
+        "Temple",
+        "\u2581temple",
+        "\u2581TEMPLE",
+        "\u2581Temples",
+        "\u2581temples",
+        "\u2581tempio",
+        "temple",
+        "\u2581templo",
+        "\u2581Templo"
+    ],
+    "description": " references to temples and religious institutions"
+}

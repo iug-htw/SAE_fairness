@@ -1,0 +1,30 @@
+{
+    "index": "7580",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_7580.json",
+    "negative_strings": [
+        " guys",
+        " Guys",
+        " boys",
+        " men",
+        " Boys",
+        "ners",
+        " Sisters",
+        "sel",
+        " guy",
+        " males"
+    ],
+    "positive_strings": [
+        "volent",
+        "-dominated",
+        "factor",
+        "fic",
+        "/f",
+        "vol",
+        "uada",
+        "-bodied",
+        " bonding",
+        "faction"
+    ],
+    "description": " terms related to gender, particularly focusing on males and male dominance"
+}

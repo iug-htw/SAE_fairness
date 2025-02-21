@@ -1,0 +1,30 @@
+{
+    "index": "9042",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a kippah/data_for_feature_9042.json",
+    "negative_strings": [
+        "\u2581resourceCulture",
+        "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+        "urlpatterns",
+        "saraba",
+        "\u2581beginnetje",
+        "\u092a\u092f\u093e",
+        "MockMvc",
+        "itin\u00e9raire",
+        "balleur",
+        "GTCX"
+    ],
+    "positive_strings": [
+        "\u2581Ki",
+        "Ki",
+        "\u2581Kir",
+        "\u2581\u041a\u0438",
+        "\u2581KIR",
+        "\u2581Kira",
+        "\u2581Kib",
+        "\u2581KIT",
+        "\u2581KI",
+        "\u2581kasarigan"
+    ],
+    "description": "references to specific names or identifiers related to a subject"
+}

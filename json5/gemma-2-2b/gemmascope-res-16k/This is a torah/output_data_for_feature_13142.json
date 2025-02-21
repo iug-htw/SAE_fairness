@@ -1,0 +1,30 @@
+{
+    "index": "13142",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a torah/data_for_feature_13142.json",
+    "negative_strings": [
+        "EFAULT",
+        "\u2581mangan",
+        "\u09ae\u09bf",
+        "uterie",
+        "PDU",
+        "\u2581\u017fp",
+        "\u0e36\u0e07",
+        "\u2581combo",
+        "\u2581Thiago",
+        "PRIV"
+    ],
+    "positive_strings": [
+        "\u2581year",
+        "\u2581\u0643\u0648\u0645\u0648\u0646\u0632",
+        "\u2581Year",
+        "year",
+        "sizeCache",
+        "\u2581YEAR",
+        "UnusedPrivate",
+        "Year",
+        "ValueStyle",
+        "\u2581tor"
+    ],
+    "description": "references to specific types or properties of toroidal structures"
+}

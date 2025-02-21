@@ -1,0 +1,30 @@
+{
+    "index": "8561",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a professor/data_for_feature_8561.json",
+    "negative_strings": [
+        "Personendaten",
+        "CodedInputStream",
+        "WriteTagHelper",
+        "ngrx",
+        "\u2581scouts",
+        "LookAnd",
+        "VIATIONS",
+        "WEEN",
+        "\u2581Chwiliwch",
+        "\u2581DIEGO"
+    ],
+    "positive_strings": [
+        "\u2581professor",
+        "\u2581Professor",
+        "\u2581professors",
+        "\u2581faculty",
+        "professor",
+        "Professor",
+        "\u2581Professors",
+        "\u2581Faculty",
+        "faculty",
+        "\u2581Profess"
+    ],
+    "description": "titles and roles associated with academic positions"
+}

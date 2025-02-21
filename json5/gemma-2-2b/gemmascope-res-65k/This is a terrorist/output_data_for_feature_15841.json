@@ -1,0 +1,30 @@
+{
+    "index": "15841",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a terrorist/data_for_feature_15841.json",
+    "negative_strings": [
+        "SPATH",
+        "\u0435\u043d\u0447\u0430",
+        "centralwidget",
+        "UNGE",
+        "\u2581tr\u1ea7n",
+        "helves",
+        "AndEndTag",
+        "(&:",
+        "\u2581Uhr",
+        "Dislikes"
+    ],
+    "positive_strings": [
+        "\u2581forces",
+        "\u2581Forces",
+        "\u2581group",
+        "\u2581fighters",
+        "\u2581FORCES",
+        "\u2581movement",
+        "\u2581militia",
+        "\u2581groups",
+        "\u2581sympathi",
+        "\u2581sympath"
+    ],
+    "description": "references to armed groups and political factions involved in conflict"
+}

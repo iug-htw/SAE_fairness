@@ -1,0 +1,30 @@
+{
+    "index": "9106",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a husband/data_for_feature_9106.json",
+    "negative_strings": [
+        "\u2581sector",
+        "\u2581sectores",
+        "\u2581Sector",
+        "\u2581secteur",
+        "\u30c1\u30fc",
+        "\u2581m\u1ea1ch",
+        "\u5c0f\u59d0",
+        "xcd",
+        "\u5c11\u5973",
+        "Sector"
+    ],
+    "positive_strings": [
+        "\u2581wife",
+        "\u2581husband",
+        "\u2581Wife",
+        "Wife",
+        "wife",
+        "\u2581spouse",
+        "\u2581wives",
+        "\u2581WIFE",
+        "husband",
+        "\u2581spouses"
+    ],
+    "description": "references to family dynamics and relationships, particularly focusing on marriage and divorce"
+}

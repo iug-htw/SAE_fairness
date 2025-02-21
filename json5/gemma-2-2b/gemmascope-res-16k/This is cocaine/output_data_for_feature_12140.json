@@ -1,0 +1,30 @@
+{
+    "index": "12140",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is cocaine/data_for_feature_12140.json",
+    "negative_strings": [
+        "\u00e9nario",
+        "MinWidth",
+        "\u2581\u0628\u064a\u0647\u0627",
+        "onets",
+        "CastException",
+        "getMenuInflater",
+        "ymus",
+        "\u2581JpaRepository",
+        "{#",
+        "StoryboardSegue"
+    ],
+    "positive_strings": [
+        "\u2581drug",
+        "\u2581drugs",
+        "\u2581Drug",
+        "drug",
+        "Drug",
+        "\u2581Drugs",
+        "\u2581cocaine",
+        "drugs",
+        "Drugs",
+        "\u2581narcotics"
+    ],
+    "description": " references to illegal drugs and their distribution"
+}

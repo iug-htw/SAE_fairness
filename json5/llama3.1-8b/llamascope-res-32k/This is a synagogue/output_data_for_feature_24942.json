@@ -1,0 +1,30 @@
+{
+    "index": "24942",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a synagogue/data_for_feature_24942.json",
+    "negative_strings": [
+        "igr",
+        " \u00e2\u0124\u00b9",
+        "gren",
+        " H\u00c3\u00bcs",
+        " christ",
+        "IMAL",
+        "\u00e7\u0130",
+        "christ",
+        " Sac",
+        "asant"
+    ],
+    "positive_strings": [
+        " synagogue",
+        " syn",
+        " Reform",
+        " Jewish",
+        " Syn",
+        " Jews",
+        " Judaism",
+        "syn",
+        "Syn",
+        " Torah"
+    ],
+    "description": " references to community engagement and collective action in a social context"
+}

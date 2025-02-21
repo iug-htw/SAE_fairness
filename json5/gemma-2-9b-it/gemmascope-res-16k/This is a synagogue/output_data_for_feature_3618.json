@@ -1,0 +1,30 @@
+{
+    "index": "3618",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a synagogue/data_for_feature_3618.json",
+    "negative_strings": [
+        "\u2581ferons",
+        "\u2581Tiefe",
+        "\u0e2d\u0e2d\u0e01\u0e21\u0e32",
+        "\u2581Ber\u00fchrung",
+        "\u2581Provinsi",
+        "\u2581profondeur",
+        "\u2581dureza",
+        "\u2581Jap\u00f3n",
+        "\u2581profundidad",
+        "\u2581Mittelalter"
+    ],
+    "positive_strings": [
+        "\u2581church",
+        "\u2581Church",
+        "\u2581churches",
+        "church",
+        "Church",
+        "\u2581CHURCH",
+        "\u5e16\u6700\u540e\u7531",
+        "\u2581congregation",
+        "\u2581Churches",
+        "httphttps"
+    ],
+    "description": "references to religious roles and church-related activities"
+}

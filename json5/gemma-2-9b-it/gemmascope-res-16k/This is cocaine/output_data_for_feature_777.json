@@ -1,0 +1,30 @@
+{
+    "index": "777",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is cocaine/data_for_feature_777.json",
+    "negative_strings": [
+        "\u2581profondeur",
+        "GroupLayout",
+        "\u2581Spannung",
+        "RTGC",
+        "\u2581argint",
+        "engeance",
+        "\u2581jScrollPane",
+        "MTG",
+        "\u2581asistir",
+        "setVerticalGroup"
+    ],
+    "positive_strings": [
+        "Drug",
+        "Drugs",
+        "\u2581AssemblyProduct",
+        "\u2581Drugs",
+        "\u2581Drug",
+        "drugs",
+        "\u2581molecules",
+        "\u2581mug",
+        "\u2581noDo",
+        "MigrationBuilder"
+    ],
+    "description": "references to drugs and medication in various contexts"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "3281",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a synagogue/data_for_feature_3281.json",
+    "negative_strings": [
+        "adders",
+        "taboola",
+        "\u00e3\u0125\u012b\u00e3\u0125\u00a9",
+        "awatts",
+        " Plans",
+        "keyes",
+        " Acts",
+        " Cosponsors",
+        " Statements",
+        " Parables"
+    ],
+    "positive_strings": [
+        " frequ",
+        " owned",
+        " staffed",
+        " called",
+        " nearby",
+        " restroom",
+        " near",
+        " stall",
+        " populated",
+        " brawl"
+    ],
+    "description": "locations or events related to legal issues or law enforcement"
+}

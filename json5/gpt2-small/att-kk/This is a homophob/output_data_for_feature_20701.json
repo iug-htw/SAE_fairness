@@ -1,0 +1,30 @@
+{
+    "index": "20701",
+    "layer": null,
+    "url": "json5/gpt2-small/att-kk/This is a homophob/data_for_feature_20701.json",
+    "negative_strings": [
+        "FactoryReloaded",
+        "illions",
+        "Tokens",
+        "arsity",
+        " Laksh",
+        "town",
+        " [|",
+        "Tracker",
+        "Discussion",
+        " CLSID"
+    ],
+    "positive_strings": [
+        " proble",
+        "NetMessage",
+        "lihood",
+        "terday",
+        "NESS",
+        "etheless",
+        "vre",
+        " unden",
+        "ibilities",
+        "orry"
+    ],
+    "description": "differences in the frequency or presence of specific terms"
+}

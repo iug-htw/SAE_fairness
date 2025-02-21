@@ -1,0 +1,30 @@
+{
+    "index": "45032",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a gentleman/data_for_feature_45032.json",
+    "negative_strings": [
+        "ThroughAttribute",
+        "\u2581ExecuteAsync",
+        "\u51fa\u7248\u5e74",
+        "WithIOException",
+        "\u2581it\u017felf",
+        "\u062a\u0642\u0627\u0648\u0649",
+        "$_['",
+        "]));\r",
+        "\u2581@\"/",
+        "+#+#"
+    ],
+    "positive_strings": [
+        "\u2581who",
+        "\u2581ladies",
+        "\u2581gents",
+        "\u2581Gentlemen",
+        "\u2581Ladies",
+        "liminaries",
+        "Gentlemen",
+        "pertino",
+        "getKeyCode",
+        "\u2581gentlemen"
+    ],
+    "description": "references to female characters or entities"
+}

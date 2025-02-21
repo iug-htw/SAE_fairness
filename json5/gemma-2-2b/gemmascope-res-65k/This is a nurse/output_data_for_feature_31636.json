@@ -1,0 +1,30 @@
+{
+    "index": "31636",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a nurse/data_for_feature_31636.json",
+    "negative_strings": [
+        "Obr\u00e1zky",
+        "\u2581BorderSide",
+        "WebVitals",
+        "oredCriteria",
+        "\u03bc\u03bc",
+        "\u2581ujednoznacz",
+        "pexpr",
+        "\u2581Templ",
+        "\u2581AssemblyProduct",
+        "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448"
+    ],
+    "positive_strings": [
+        "\u2581nurses",
+        "\u2581nursing",
+        "\u2581Nurses",
+        "nursing",
+        "\u2581nurse",
+        "\u2581Nursing",
+        "Nurse",
+        "Nursing",
+        "\u2581nursed",
+        "nurse"
+    ],
+    "description": "terms related to nursing professionals and their roles"
+}

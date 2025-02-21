@@ -1,0 +1,30 @@
+{
+    "index": "23947",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_23947.json",
+    "negative_strings": [
+        "\u2581auszu",
+        "AccessorTable",
+        "breakable",
+        "\u2581IndexError",
+        "IDOS",
+        "calyptic",
+        "TagMode",
+        "ICIENCY",
+        "JsonHelper",
+        "IDO"
+    ],
+    "positive_strings": [
+        "\u2581built",
+        "\u2581dating",
+        "\u2581reopened",
+        "\u2581Built",
+        "\u2581restored",
+        "\u2581constructed",
+        "\u2581rebuilt",
+        "\u2581opened",
+        "Built",
+        "\u2581founded"
+    ],
+    "description": "references to historical buildings and landmarks"
+}

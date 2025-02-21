@@ -1,0 +1,30 @@
+{
+    "index": "16929",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a muslim/data_for_feature_16929.json",
+    "negative_strings": [
+        " Catholic",
+        " Lutheran",
+        " catholic",
+        "\u00e0\u00b8\u00b6",
+        " Presbyterian",
+        "elon",
+        "\u00d0\u00b5\u00d1\u0123\u00d1\u012e",
+        " Mormon",
+        "rowned",
+        " jewish"
+    ],
+    "positive_strings": [
+        "-major",
+        " Brotherhood",
+        "-Christian",
+        "isches",
+        "\u00e5\u00be\u0134",
+        "ified",
+        "/non",
+        "ischer",
+        "-American",
+        "-Americans"
+    ],
+    "description": "references to Islam and its followers, particularly focusing on the term \"Muslim.\""
+}

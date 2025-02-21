@@ -1,0 +1,332 @@
+[
+    {
+        "index": "432",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_432.json",
+        "negative_strings": [
+            "\u2581autorytatywna",
+            "\u2581ligiloj",
+            "\u2581MessageBoxIcon",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+            "Manbalar",
+            "\u2581linkovi",
+            "rrggbb",
+            "AnchorStyles",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "Basic",
+            "basic",
+            "\u2581Basic",
+            "\u2581basic",
+            "\u2581b\u00e1sico",
+            "\u2581BASIC",
+            "BASIC",
+            "\u2581basics",
+            "\u2581b\u00e1sicos",
+            "\u2581b\u00e1sica"
+        ],
+        "description": " mentions of 'basic' in various contexts or as a category label"
+    },
+    {
+        "index": "9577",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_9577.json",
+        "negative_strings": [
+            "Jeografia",
+            "fjspx",
+            "\u2581autorytatywna",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581MessageBoxIcon",
+            "HasForeignKey",
+            "\u1000\u102d\u102f\u1038\u1000\u102c\u1038",
+            "hyrchwyd",
+            "\u2581Gr\u00fcsse",
+            "posedge"
+        ],
+        "positive_strings": [
+            "\u2581principles",
+            "\u2581tenet",
+            "\u2581principle",
+            "\u2581Principle",
+            "\u2581Principles",
+            "Principle",
+            "\u2581essentials",
+            "\u2581tenets",
+            "\u2581premise",
+            "\u2581Basic"
+        ],
+        "description": "references to basic concepts or categories in various contexts"
+    },
+    {
+        "index": "1186",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_1186.json",
+        "negative_strings": [
+            "\u2581autorytatywna",
+            "\u2581ligiloj",
+            "AnchorStyles",
+            "\u2581MessageBoxIcon",
+            "ikations",
+            "\u2581linkovi",
+            "Cyfarwyddwr",
+            "Manbalar",
+            "posedge",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448"
+        ],
+        "positive_strings": [
+            "\u2581b\u00e1sico",
+            "basic",
+            "Basic",
+            "\u2581basic",
+            "\u2581Basic",
+            "\u2581basics",
+            "\u2581b\u00e1sicos",
+            "\u2581BASIC",
+            "\u2581fundamentals",
+            "\u2581fundamental"
+        ],
+        "description": "references to fundamental concepts in a scientific or technical context"
+    },
+    {
+        "index": "156",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_156.json",
+        "negative_strings": [
+            "\u2581autorytatywna",
+            "\u2581Gr\u00fcsse",
+            "posedge",
+            "enumi",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581noiva",
+            "\u2581ligiloj",
+            "\u2581ujednoznacz",
+            "$_['",
+            "envolvimento"
+        ],
+        "positive_strings": [
+            "\u2581basic",
+            "\u2581b\u00e1sico",
+            "basic",
+            "\u2581Basic",
+            "Basic",
+            "\u2581BASIC",
+            "\u2581basics",
+            "\u2581b\u00e1sicos",
+            "BASIC",
+            "\u2581b\u00e1sica"
+        ],
+        "description": "the term \"basic\" in various contexts and its associations"
+    },
+    {
+        "index": "11245",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_11245.json",
+        "negative_strings": [
+            "\u2581MessageBoxIcon",
+            "Cyfarwyddwr",
+            "fjspx",
+            "\u2581Gr\u00fcsse",
+            "envolvimento",
+            "rrggbb",
+            "\u2581ligiloj",
+            "posedge",
+            "\u2581autorytatywna",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448"
+        ],
+        "positive_strings": [
+            "\u2581Basic",
+            "Basic",
+            "basic",
+            "\u2581basic",
+            "\u2581b\u00e1sico",
+            "\u2581fundamentals",
+            "\u2581fundamental",
+            "\u2581BASIC",
+            "\u2581basics",
+            "\u2581b\u00e1sicos"
+        ],
+        "description": "terms and phrases related to fundamental concepts and categories in academic or scientific contexts"
+    },
+    {
+        "index": "6570",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_6570.json",
+        "negative_strings": [
+            "major",
+            "\u2581major",
+            "Possible",
+            "\u2581Possibility",
+            "posedge",
+            "Possibility",
+            "possible",
+            "\u2581Possible",
+            "Major",
+            "\u2581possibility"
+        ],
+        "positive_strings": [
+            "\u2581ingredient",
+            "\u2581component",
+            "\u2581components",
+            "\u2581componente",
+            "\u2581ingredients",
+            "\u2581Bestandteil",
+            "\u2581element",
+            "\u2581importance",
+            "\u2581aspect",
+            "\u2581aspects"
+        ],
+        "description": "terms related to importance and urgency in various contexts"
+    },
+    {
+        "index": "2303",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_2303.json",
+        "negative_strings": [
+            "\u2581autorytatywna",
+            "posedge",
+            "AnchorStyles",
+            "fjspx",
+            "\u2581MessageBoxIcon",
+            "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+            "homonymie",
+            "Beijos",
+            "RegressionTest",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448"
+        ],
+        "positive_strings": [
+            "basic",
+            "\u2581Basic",
+            "Basic",
+            "\u2581b\u00e1sico",
+            "\u2581basic",
+            "\u2581b\u00e1sicos",
+            "\u2581basics",
+            "\u2581BASIC",
+            "BASIC",
+            "\u2581Fundamental"
+        ],
+        "description": " references to basic concepts or fundamentals in various contexts"
+    },
+    {
+        "index": "11898",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_11898.json",
+        "negative_strings": [
+            "\u2581MessageBoxIcon",
+            "\u2581autorytatywna",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581ujednoznacz",
+            "posedge",
+            "Clik",
+            "$_['",
+            "specialchars",
+            "andExpect",
+            "\u2581BoxFit"
+        ],
+        "positive_strings": [
+            "\u2581basic",
+            "basic",
+            "Basic",
+            "\u2581b\u00e1sico",
+            "\u2581Basic",
+            "\u2581basics",
+            "\u2581BASIC",
+            "\u2581b\u00e1sica",
+            "\u2581fundamental",
+            "BASIC"
+        ],
+        "description": " fundamental concepts and basic knowledge across various subjects"
+    },
+    {
+        "index": "10080",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_10080.json",
+        "negative_strings": [
+            "major",
+            "\u2581major",
+            "\u2581pagrind",
+            "SequentialGroup",
+            "\u2581muligt",
+            "Major",
+            "pecific",
+            "\u2581Possible",
+            "Possible",
+            "\u2581belangrij"
+        ],
+        "positive_strings": [
+            "\u2581driver",
+            "\u2581drivers",
+            "stays",
+            "\u2581players",
+            "\u2581player",
+            "\u2581contributors",
+            "driver",
+            "\u2581contributor",
+            "\u2581concern",
+            "\u2581focus"
+        ],
+        "description": " key terms and concepts related to primary issues or contributions in various contexts"
+    },
+    {
+        "index": "3361",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_3361.json",
+        "negative_strings": [
+            "\u2581major",
+            "major",
+            "\u2581main",
+            "AndEndTag",
+            "\u2581mainly",
+            "TargetException",
+            "\u2581pagrind",
+            "\u2581hlavn\u00ed",
+            "\u2581\u0433\u043b\u0430\u0432",
+            "\u2581great"
+        ],
+        "positive_strings": [
+            "\u2581driver",
+            "\u2581players",
+            "\u2581player",
+            "stays",
+            "\u2581contributors",
+            "\u2581contributor",
+            "\u2581spelers",
+            "\u2581drivers",
+            "\u2581concern",
+            "itarian"
+        ],
+        "description": "key concepts and phrases that reflect significant issues or challenges"
+    },
+    {
+        "index": "5101",
+        "layer": null,
+        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a fundamentalist/data_for_feature_5101.json",
+        "negative_strings": [
+            "\u2581MessageBoxIcon",
+            "\u2581ligiloj",
+            "fjspx",
+            "AnchorStyles",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581ujednoznacz",
+            "commentId",
+            "\u2581Malle",
+            "mbrie",
+            "\u2581linkovi"
+        ],
+        "positive_strings": [
+            "\u2581fondament",
+            "\u2581fundamentals",
+            "\u2581b\u00e1sico",
+            "Fundamental",
+            "\u2581fundamental",
+            "\u2581getBase",
+            "\u2581Fundamental",
+            "Basic",
+            "\u2581tenets",
+            "\u2581essentials"
+        ],
+        "description": " references to fundamental concepts in basic sciences and energy"
+    }
+]

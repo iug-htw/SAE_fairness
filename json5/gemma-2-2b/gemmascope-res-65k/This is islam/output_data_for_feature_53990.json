@@ -1,0 +1,30 @@
+{
+    "index": "53990",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is islam/data_for_feature_53990.json",
+    "negative_strings": [
+        "\u2581Islam",
+        "\u2581Islamic",
+        "\u2581Muslims",
+        "ngOn",
+        "\u2581Muslim",
+        "tling",
+        "KommentareTeilen",
+        "assium",
+        "Islam",
+        "\u2581ISLAM"
+    ],
+    "positive_strings": [
+        "icity",
+        "ABAD",
+        "\u2581countries",
+        "ophobic",
+        "\u2581fundamental",
+        "countries",
+        "\u2581L\u00e4ndern",
+        "\u2581finance",
+        "\u2581extremists",
+        "\u2581conquerors"
+    ],
+    "description": "references to Islamic and Muslim concepts or entities"
+}

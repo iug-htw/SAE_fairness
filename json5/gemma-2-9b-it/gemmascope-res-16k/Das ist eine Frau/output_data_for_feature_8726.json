@@ -1,0 +1,30 @@
+{
+    "index": "8726",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist eine Frau/data_for_feature_8726.json",
+    "negative_strings": [
+        "Aspen",
+        "Aspect",
+        "snippet",
+        "Opt",
+        "CONTACT",
+        "\u2581Sentinel",
+        "R\u00e9alisation",
+        "titude",
+        "Teng",
+        "allenge"
+    ],
+    "positive_strings": [
+        "\u2581disambiguazione",
+        "\u2581ILogger",
+        "\u062d\u064a\u0627\u062a\u0647\u0627",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "\u2581AssemblyCompany",
+        "\u2581chi\u030dt",
+        "IUrlHelper",
+        "principalColumn",
+        "GraphicsUnit",
+        "\u2581Mrs"
+    ],
+    "description": "references to female characters, specifically those addressed as \"Mrs.\""
+}

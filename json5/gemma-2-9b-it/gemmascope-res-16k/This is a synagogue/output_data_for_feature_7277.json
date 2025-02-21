@@ -1,0 +1,30 @@
+{
+    "index": "7277",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a synagogue/data_for_feature_7277.json",
+    "negative_strings": [
+        "\u2581prowadzi",
+        "\u2581zmieni",
+        "\u2581llegado",
+        "\u2581zasady",
+        "\u2581czuj",
+        "\u2581powietrza",
+        "\u2581fallecido",
+        "D\u00e9mographie",
+        "\u2581\u00f6l\u00fc",
+        "\u2581vastaan"
+    ],
+    "positive_strings": [
+        "\u2581Sy",
+        "Sy",
+        "\u2581SY",
+        "\u2581Sym",
+        "\u2581sy",
+        "Sym",
+        "\u2581Symp",
+        "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+        "\u2581sym",
+        "\u2581otomatig"
+    ],
+    "description": "mentions of specific scientific or technical terms and their contexts"
+}

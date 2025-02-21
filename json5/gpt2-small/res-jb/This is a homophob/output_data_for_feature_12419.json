@@ -1,0 +1,30 @@
+{
+    "index": "12419",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a homophob/data_for_feature_12419.json",
+    "negative_strings": [
+        " Roe",
+        " Crunch",
+        " Cache",
+        " Face",
+        " Digest",
+        " Patent",
+        " CV",
+        " Missouri",
+        " Dign",
+        " accord"
+    ],
+    "positive_strings": [
+        "orters",
+        "ippers",
+        "ammers",
+        "appers",
+        "achers",
+        "istors",
+        "ineries",
+        "esters",
+        "encers",
+        "ateurs"
+    ],
+    "description": "references to specific locations such as refineries"
+}

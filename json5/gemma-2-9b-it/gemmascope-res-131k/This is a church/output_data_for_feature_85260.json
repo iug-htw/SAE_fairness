@@ -1,0 +1,30 @@
+{
+    "index": "85260",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a church/data_for_feature_85260.json",
+    "negative_strings": [
+        "\u2581filtered",
+        "\u2581conced",
+        "\u2581implied",
+        "\u2581magical",
+        "\u2581chi",
+        "\u2581global",
+        "\u2581rapid",
+        "II",
+        "\u2581diku",
+        "\u2581quasi"
+    ],
+    "positive_strings": [
+        "\u2581parishioners",
+        "\u2581iglesia",
+        "\u2581church",
+        "church",
+        "\u2581churches",
+        "httphttps",
+        "\u2581congregation",
+        "\u2581igreja",
+        "\u2581parishi",
+        "\u2581pastors"
+    ],
+    "description": " references to churches and their activities"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "14846",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a professor/data_for_feature_14846.json",
+    "negative_strings": [
+        "AutoScaleMode",
+        "ChildScrollView",
+        "\u2581Skyl",
+        "esgue",
+        "Datuak",
+        "\u2581estim\u00e9s",
+        "\u2581Besoin",
+        "XMLSchema",
+        "\u2581BoxFit",
+        "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f"
+    ],
+    "positive_strings": [
+        "\u2581professor",
+        "\u2581Professor",
+        "\u2581professors",
+        "Professor",
+        "\u2581Professors",
+        "professor",
+        "\u2581PROFESSOR",
+        "Profess",
+        "\u2581Prof",
+        "\u2581profesor"
+    ],
+    "description": "references to academic titles, particularly the term \"professor.\""
+}

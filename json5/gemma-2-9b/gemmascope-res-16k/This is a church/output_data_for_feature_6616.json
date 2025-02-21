@@ -1,0 +1,30 @@
+{
+    "index": "6616",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a church/data_for_feature_6616.json",
+    "negative_strings": [
+        "\u2581christlichen",
+        "\u2581htmlFor",
+        "JsonFormat",
+        "\u2581Leibniz",
+        "\u2581cristi",
+        "\u2581kato",
+        "\u2581hindu",
+        "\u2581cristiana",
+        "\u2581katholischen",
+        "\u2581Autorisations"
+    ],
+    "positive_strings": [
+        "\u2581congregation",
+        "\u2581worship",
+        "\u2581Sunday",
+        "\u2581congre",
+        "Sunday",
+        "\u2581congreg",
+        "\u2581sanctuary",
+        "\u2581sunday",
+        "\u2581worshippers",
+        "\u2581Sundays"
+    ],
+    "description": "references to church-related events and activities"
+}

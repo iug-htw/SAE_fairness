@@ -1,0 +1,452 @@
+[
+    {
+        "index": "13438",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_13438.json",
+        "negative_strings": [
+            " bil",
+            "rg",
+            "MpServer",
+            " Cree",
+            "sha",
+            " fireplace",
+            " Wonderland",
+            "bc",
+            " Chero",
+            "Reviewer"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Emer",
+            " Gregory",
+            " Leo",
+            " John",
+            " Jinping",
+            "hat",
+            " Urban",
+            " Clement"
+        ],
+        "description": "references to Catholic Church leaders and related events"
+    },
+    {
+        "index": "24094",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_24094.json",
+        "negative_strings": [
+            "ript",
+            "nesota",
+            "yrinth",
+            "awks",
+            "rg",
+            "\u00e9\u00be",
+            "ahime",
+            "mental",
+            "erry",
+            "ership"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Pope",
+            "Pope",
+            " Benedict",
+            " pont",
+            " pope",
+            " Father",
+            "orio",
+            "angelo",
+            " Pablo"
+        ],
+        "description": "mentions of the Pope"
+    },
+    {
+        "index": "20251",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_20251.json",
+        "negative_strings": [
+            "iable",
+            "elong",
+            "productive",
+            "nerg",
+            " Miner",
+            " Cooperative",
+            "iance",
+            " Mines",
+            "eeds",
+            " srf"
+        ],
+        "positive_strings": [
+            " pope",
+            " pont",
+            "iscopal",
+            " ashore",
+            " bishop",
+            "icular",
+            " franc",
+            "ocalypse",
+            "Pope",
+            "romeda"
+        ],
+        "description": "references to the Pope"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    },
+    {
+        "index": "6343",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_6343.json",
+        "negative_strings": [
+            "Haw",
+            " Hawth",
+            "pring",
+            " Appalachian",
+            " Imran",
+            "hops",
+            " Wonderland",
+            " Kessler",
+            " Mustang",
+            "Thompson"
+        ],
+        "positive_strings": [
+            "arium",
+            "Leaks",
+            "esan",
+            " City",
+            " Patriarch",
+            "atican",
+            "itary",
+            "ese",
+            "ifice",
+            " Cathedral"
+        ],
+        "description": "references to religious institutions and figures, particularly the Vatican and the Pope"
+    },
+    {
+        "index": "12075",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_12075.json",
+        "negative_strings": [
+            "ript",
+            "yrinth",
+            "erry",
+            "mental",
+            "rg",
+            "ties",
+            "CAP",
+            "\u00e9\u00be",
+            "uld",
+            "awks"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Pope",
+            "Pope",
+            " pont",
+            " pope",
+            " Benedict",
+            "otle",
+            "angelo",
+            "ervative",
+            "orio"
+        ],
+        "description": "mentions of the word \"Pope\" along with some specific contexts, such as visits or mentions of names like Benedict"
+    },
+    {
+        "index": "10248",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_10248.json",
+        "negative_strings": [
+            " HW",
+            " NP",
+            " Bom",
+            " Wonderland",
+            " Asgard",
+            " Retro",
+            "Grab",
+            " trail",
+            "XT",
+            "OX"
+        ],
+        "positive_strings": [
+            "bishop",
+            "ric",
+            " ordained",
+            "iscopal",
+            "esses",
+            "ess",
+            " bishop",
+            " priest",
+            " consec",
+            "esan"
+        ],
+        "description": "mentions of religious figures, priests, and related religious contexts"
+    },
+    {
+        "index": "3470",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_3470.json",
+        "negative_strings": [
+            "Images",
+            "features",
+            "stories",
+            "\u00e9\u00be\u012f",
+            "apses",
+            "laws",
+            "aunts",
+            "ths",
+            "itudes",
+            "umbs"
+        ],
+        "positive_strings": [
+            " affair",
+            " thing",
+            " unto",
+            " issue",
+            " ploy",
+            " impossibility",
+            " breaker",
+            " violation",
+            "breaker",
+            "fest"
+        ],
+        "description": "sports-related words and terms"
+    },
+    {
+        "index": "21314",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_21314.json",
+        "negative_strings": [
+            " Exposure",
+            " Employment",
+            " Reports",
+            " Activities",
+            " Communities",
+            " Spiegel",
+            " Exper",
+            " Investigations",
+            " Reporter",
+            " Fiction"
+        ],
+        "positive_strings": [
+            "pins",
+            "pin",
+            "esses",
+            "doms",
+            " prince",
+            "dom",
+            "DOM",
+            "hip",
+            " throne",
+            "alty"
+        ],
+        "description": "words related to monarchs, kingdoms, and titles"
+    },
+    {
+        "index": "4801",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_4801.json",
+        "negative_strings": [
+            "\u00c2\u00b7\u00c2\u00b7",
+            " Spain",
+            " Remain",
+            "\u00e3\u0122\u0132",
+            " Crusader",
+            " Slov",
+            " Gaul",
+            " Catalonia",
+            "ERY",
+            " feder"
+        ],
+        "positive_strings": [
+            "raint",
+            "cup",
+            "iating",
+            "ley",
+            "enth",
+            "ressing",
+            "aired",
+            "requent",
+            "rences",
+            "ial"
+        ],
+        "description": "proper nouns related to political figures and financial matters"
+    },
+    {
+        "index": "4403",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_4403.json",
+        "negative_strings": [
+            "sites",
+            " Cups",
+            "inas",
+            "events",
+            " Views",
+            " Hits",
+            " VIDEOS",
+            " timelines",
+            " Dates",
+            "ooks"
+        ],
+        "positive_strings": [
+            " designed",
+            " aimed",
+            " dubbed",
+            " enhancement",
+            " proposal",
+            " deal",
+            " extension",
+            " called",
+            " memorandum",
+            " permit"
+        ],
+        "description": "financial terms related to business operations and development"
+    },
+    {
+        "index": "4425",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_4425.json",
+        "negative_strings": [
+            " Candy",
+            " Catholicism",
+            " Flan",
+            " Coke",
+            " Haram",
+            " humanity",
+            " Cart",
+            " Apocalypse",
+            " Scientology",
+            " Gemini"
+        ],
+        "positive_strings": [
+            "adows",
+            "ouston",
+            "adow",
+            "awar",
+            "lished",
+            "sbm",
+            "asar",
+            "aspberry",
+            "\n\u00c2\u0142",
+            "');"
+        ],
+        "description": "numbers and specific terms related to budgeting and finance, particularly in sports"
+    },
+    {
+        "index": "16340",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_16340.json",
+        "negative_strings": [
+            " Garrison",
+            " corrosion",
+            " CP",
+            " breach",
+            " Luxem",
+            " IPS",
+            " contin",
+            " Wer",
+            " consecut",
+            " IG"
+        ],
+        "positive_strings": [
+            "father",
+            "frey",
+            "mother",
+            "parents",
+            "olphin",
+            "zilla",
+            "speed",
+            "win",
+            "liness",
+            "spell"
+        ],
+        "description": "references to religious figures or religious beliefs"
+    },
+    {
+        "index": "353",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_353.json",
+        "negative_strings": [
+            " evacuated",
+            " ASA",
+            " Mehran",
+            " dispersed",
+            " Archangel",
+            " streamed",
+            " ABE",
+            " Freddie",
+            " intercepted",
+            " Ember"
+        ],
+        "positive_strings": [
+            "omics",
+            "mania",
+            "ism",
+            "care",
+            "Care",
+            "istas",
+            "isms",
+            "ian",
+            "ismo",
+            "onom"
+        ],
+        "description": "names of political figures like Trump, Blair, Labour, and Corbyn"
+    },
+    {
+        "index": "14360",
+        "layer": null,
+        "url": "json5/gpt2-small/res-jb/This is a pope/data_for_feature_14360.json",
+        "negative_strings": [
+            " Extensions",
+            "actionDate",
+            " srfAttach",
+            " Dates",
+            "}:",
+            "events",
+            "ices",
+            "SpaceEngineers",
+            "}\"",
+            "enthal"
+        ],
+        "positive_strings": [
+            " rife",
+            " plagued",
+            " riddled",
+            " overflowing",
+            " obsessed",
+            " ravaged",
+            " dominated",
+            " starved",
+            " littered",
+            " gripped"
+        ],
+        "description": "descriptions relating to political and economic situations"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "index": "15200",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_15200.json",
+        "negative_strings": [
+            "\u05b9\u05ea",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "ThroughAttribute",
+            "\u2581SQLAlchemy",
+            "\u2581\u05e1\u05e1",
+            "\u2581c\u00edr",
+            "v\u00e1l",
+            "Datuak",
+            "uterte",
+            "\u2581Spart"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Jews",
+            "Jewish",
+            "\u2581Israel",
+            "\u2581synagogue",
+            "\u2581Israeli",
+            "\u2581Rabbi",
+            "\u2581Judaism",
+            "\u2581rabbi",
+            "\u2581Hebrew"
+        ],
+        "description": "elements related to Jewish traditions and cultural heritage"
+    },
+    {
+        "index": "12486",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_12486.json",
+        "negative_strings": [
+            "\u2581vastaan",
+            "SequentialGroup",
+            "\u2581yrity",
+            "\u2581kiin",
+            "\u2581pysty",
+            "\u2581n\u00e4ky",
+            "\u2581kyse",
+            "\u2581k\u0131l\u0131f",
+            "\u2581ep\u00e4",
+            "\u2581vapa"
+        ],
+        "positive_strings": [
+            "\u2581cheese",
+            "\u2581bread",
+            "\u2581chicken",
+            "\u2581chocolate",
+            "\u2581bacon",
+            "\u2581rice",
+            "\u2581potatoes",
+            "\u2581peanut",
+            "\u2581yogurt",
+            "\u2581sausages"
+        ],
+        "description": "references to culinary experiences and food descriptions"
+    },
+    {
+        "index": "1647",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_1647.json",
+        "negative_strings": [
+            "\u2581\u0432\u0456\u043a\u0456",
+            "\u05b9\u05ea",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "Datuak",
+            "\u2581logar",
+            "\u2581Carson",
+            "\u2581Rn",
+            "\u2581SWT",
+            "\u2581Duterte",
+            "\u2581carolina"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Jews",
+            "Jewish",
+            "\u2581Israel",
+            "\u2581Israeli",
+            "\u2581Rabbi",
+            "\u2581Judaism",
+            "\u2581rabbi",
+            "\u2581jewish",
+            "\u2581Hebrew"
+        ],
+        "description": "terms related to Jewish cultural identity and experiences"
+    },
+    {
+        "index": "12069",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_12069.json",
+        "negative_strings": [
+            "\u2581\u0432\u0456\u043a\u0456",
+            "WriteTagHelper",
+            "\u2581actionPerformed",
+            "h\u00e1ny",
+            "\u2581Azt",
+            "iglesia",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581engineers",
+            "\u2581reven",
+            "\u00e1roz"
+        ],
+        "positive_strings": [
+            "\u2581Rabbi",
+            "\u2581Jewish",
+            "Rabbi",
+            "\u2581rabbi",
+            "\u2581Jews",
+            "Jewish",
+            "OGND",
+            "\u2581Synagogue",
+            "\u2581Torah",
+            "\u2581synagogue"
+        ],
+        "description": "references to community meetings or gatherings"
+    },
+    {
+        "index": "13795",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_13795.json",
+        "negative_strings": [
+            "SequentialGroup",
+            "\u2581vastaan",
+            "\u2581rayures",
+            "\u2581qu\u00e6",
+            "\u2581yrity",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581cord\u00f3n",
+            "zeptember",
+            "\u2581enfans",
+            "felves"
+        ],
+        "positive_strings": [
+            "\u2581chicken",
+            "\u2581cheese",
+            "\u2581chocolate",
+            "\u2581bread",
+            "\u2581bacon",
+            "\u2581pork",
+            "\u2581potato",
+            "\u2581fried",
+            "\u2581pasta",
+            "\u2581sausage"
+        ],
+        "description": "phrases related to food and dining experiences"
+    },
+    {
+        "index": "14565",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_14565.json",
+        "negative_strings": [
+            "\u2581Jefus",
+            "uterte",
+            "\u05b9\u05ea",
+            "\u2581Christo",
+            "ThroughAttribute",
+            "WriteTagHelper",
+            "\u05d9\u05e6\u05d5\u05d1",
+            "\u017felf",
+            "\u2581J\u00e9sus",
+            "\u00e1roz"
+        ],
+        "positive_strings": [
+            "\u2581Sha",
+            "\u2581Torah",
+            "Sha",
+            "\u2581Has",
+            "\u2581Puri",
+            "\u2581Rabbi",
+            "\u2581minha",
+            "\u2581Reb",
+            "\u2581Rav",
+            "\u2581Pes"
+        ],
+        "description": "specific references to community leaders and meetings related to local issues"
+    },
+    {
+        "index": "13142",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_13142.json",
+        "negative_strings": [
+            "\u2581vastaan",
+            "\u2581cord\u00f3n",
+            "\u2581pinulongan",
+            "\u2581l\u00e4\u00e4",
+            "\u2581faim",
+            "zeptember",
+            "\u2581BoxFit",
+            "\u2581l\u00f6yty",
+            "\u2581n\u00e4ky",
+            "\u2581spise"
+        ],
+        "positive_strings": [
+            "\u2581spaghetti",
+            "\u2581scrambled",
+            "\u2581macaroni",
+            "\u2581salami",
+            "\u2581brownies",
+            "\u2581chicken",
+            "\u2581lasagna",
+            "\u2581salmon",
+            "\u2581waffles",
+            "\u2581bors"
+        ],
+        "description": "positive and descriptive phrases related to food and dining experiences"
+    },
+    {
+        "index": "7651",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_7651.json",
+        "negative_strings": [
+            "\u2581Shakspeare",
+            "\u2581Jefus",
+            "\u2581The\u017fe",
+            "\u2581An\u017f",
+            "\u2581Hou\u017fe",
+            "\u2581it\u017felf",
+            "\u2581Di\u017f",
+            "\u2581Majefty",
+            "\u2581my\u017felf",
+            "\u2581Phry"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Israel",
+            "\u2581Jews",
+            "\u2581Israeli",
+            "Jewish",
+            "jewish",
+            "\u2581Aviv",
+            "Israel",
+            "Jews",
+            "\u2581Rabbi"
+        ],
+        "description": "references to Jewish people and their historical contexts"
+    },
+    {
+        "index": "13843",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_13843.json",
+        "negative_strings": [
+            "\u2581\u0432\u0456\u043a\u0456",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "WriteTagHelper",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u00e1roz",
+            "\u2581Naga",
+            "\u00e4lv",
+            "\u2581Tennyson",
+            "\u2581PropertyChanged",
+            "ValueStyle"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Jews",
+            "Jewish",
+            "\u2581Rabbi",
+            "Rabbi",
+            "\u2581rabbi",
+            "\u2581Judaism",
+            "\u2581jewish",
+            "\u2581synagogue",
+            "Jews"
+        ],
+        "description": "references to specific individuals or events within a community context"
+    },
+    {
+        "index": "11539",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is kosher/data_for_feature_11539.json",
+        "negative_strings": [
+            "Datuak",
+            "\u05b9\u05ea",
+            "\u2581Missoula",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9",
+            "\u2581\u05e1\u05e1",
+            "\u05d5\u05b9\u05ea",
+            "\u2581Eriksson",
+            "\u2581<>\",",
+            ",:);"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Israel",
+            "\u2581Israeli",
+            "\u2581Jews",
+            "Jewish",
+            "\u2581Rabbi",
+            "\u2581Hebrew",
+            "Israel",
+            "\u2581Judaism",
+            "\u2581Israelis"
+        ],
+        "description": "elements related to familial and cultural traditions within Jewish contexts"
+    }
+]

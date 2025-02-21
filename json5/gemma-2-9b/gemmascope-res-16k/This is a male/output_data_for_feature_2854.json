@@ -1,0 +1,30 @@
+{
+    "index": "2854",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a male/data_for_feature_2854.json",
+    "negative_strings": [
+        "\u2581male",
+        "\u2581m\u0119ski",
+        "\u2581damski",
+        "\u2581perempuan",
+        "\u2581CreateTagHelper",
+        "\u2581female",
+        "male",
+        "\u2581cewek",
+        "girl",
+        "\u2581girl"
+    ],
+    "positive_strings": [
+        "folk",
+        "\u2581folk",
+        "\u2581empowerment",
+        "\u2581fatale",
+        "\u2581voters",
+        "Folk",
+        "\u2581prisoners",
+        "\u2581wrestlers",
+        "\u2581athletes",
+        "\u2581entrepreneur"
+    ],
+    "description": "references to women and gender-related terms"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "1126",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a pope/data_for_feature_1126.json",
+    "negative_strings": [
+        "adaptiveStyles",
+        "matchCondition",
+        "AutoScale",
+        "\u2581Efq",
+        "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+        "\u2581Huguen",
+        "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+        "\u2581Jefus",
+        "\u2581Houd",
+        "\u2581Majefty"
+    ],
+    "positive_strings": [
+        "\u2581pr\u00eatres",
+        "\u2581catholique",
+        "\u2581Catholic",
+        "\u2581cat\u00f3lica",
+        "\u2581\u00e9v\u00eaque",
+        "\u2581particuli\u00e8res",
+        "\u2581officielles",
+        "\u2581diocese",
+        "\u2581hospitales",
+        "\u2581obispo"
+    ],
+    "description": "references to church leadership and organizational structures"
+}

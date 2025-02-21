@@ -1,0 +1,30 @@
+{
+    "index": "43846",
+    "layer": null,
+    "url": "json5/gpt2-small/att-kk/Das ists ein Junge/data_for_feature_43846.json",
+    "negative_strings": [
+        " Surveillance",
+        " Rider",
+        "crime",
+        "licensed",
+        " steroids",
+        " sweats",
+        " taxis",
+        " ordinances",
+        " surveillance",
+        " killer"
+    ],
+    "positive_strings": [
+        "rief",
+        "tions",
+        "hesis",
+        "etus",
+        "enario",
+        "enture",
+        "llo",
+        " objection",
+        " congress",
+        " podium"
+    ],
+    "description": "colons followed by statements or quotes"
+}

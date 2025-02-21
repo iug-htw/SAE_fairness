@@ -1,0 +1,30 @@
+{
+    "index": "67391",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a pope/data_for_feature_67391.json",
+    "negative_strings": [
+        "\u2581HCI",
+        "\u2581QI",
+        "\u2581TSV",
+        "NDA",
+        "\u2581LCM",
+        "\u2581Aruba",
+        "erial",
+        "\u2581Java",
+        "\u2581EDA",
+        "sampled"
+    ],
+    "positive_strings": [
+        "\u2581Pope",
+        "Pope",
+        "\u2581pope",
+        "pope",
+        "\u2581Papst",
+        "\u2581pape",
+        "Pop",
+        "\u2581pop",
+        "\u2581papal",
+        "\u2581Pop"
+    ],
+    "description": "references to religious figures, specifically popes"
+}

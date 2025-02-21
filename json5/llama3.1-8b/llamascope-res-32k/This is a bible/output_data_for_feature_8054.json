@@ -1,0 +1,30 @@
+{
+    "index": "8054",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a bible/data_for_feature_8054.json",
+    "negative_strings": [
+        "ima",
+        "\u00d1\u0123\u00d1\u0131",
+        "IMA",
+        "APA",
+        "abouts",
+        "\u00e9\u0143\u0124",
+        "\u00e6\u00bf",
+        "(er",
+        "\u00e9\u0142\u0127",
+        "rema"
+    ],
+    "positive_strings": [
+        "lical",
+        "oft",
+        "gateway",
+        " D\u00c3\u00bcn",
+        "anic",
+        "amarin",
+        "gnore",
+        " passages",
+        " verse",
+        "LS"
+    ],
+    "description": "references to biblical texts and concepts related to religion"
+}

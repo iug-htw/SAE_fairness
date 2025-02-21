@@ -1,0 +1,30 @@
+{
+    "index": "110288",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a nurse/data_for_feature_110288.json",
+    "negative_strings": [
+        "\u2581StringTokenizer",
+        "\u3081\u3067\u3068\u3046",
+        "ervos",
+        "\u2581cereal",
+        "\u2581disfruta",
+        "\u2581PARTY",
+        "arande",
+        "AdapterView",
+        "\u2581Tang",
+        "\u2581Contest"
+    ],
+    "positive_strings": [
+        "\u2581medical",
+        "\u2581healthcare",
+        "\u2581hospitals",
+        "Medical",
+        "\u2581medically",
+        "\u2581Medical",
+        "medical",
+        "\u2581hospital",
+        "\u2581physicians",
+        "\u2581Healthcare"
+    ],
+    "description": "terms and phrases related to healthcare and medical professions"
+}

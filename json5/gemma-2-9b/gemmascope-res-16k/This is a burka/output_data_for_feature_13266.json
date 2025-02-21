@@ -1,0 +1,30 @@
+{
+    "index": "13266",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a burka/data_for_feature_13266.json",
+    "negative_strings": [
+        "ScopeManager",
+        "TProtocol",
+        "ImageContext",
+        "\u2581PhpStorm",
+        "RegressionTest",
+        "balleur",
+        "\u2581${({",
+        "\u2581disambiguazione",
+        "titleMargin",
+        "SpringRunner"
+    ],
+    "positive_strings": [
+        "Bur",
+        "\u2581Bur",
+        "\u2581bur",
+        "\u2581BUR",
+        "\u2581Burk",
+        "bur",
+        "BUR",
+        "\u2581Burrow",
+        "\u2581Burgh",
+        "\u2581\u0411\u0443\u0440"
+    ],
+    "description": "references to specific burrowing animals or entities, particularly those with \"Bur\" in their name"
+}

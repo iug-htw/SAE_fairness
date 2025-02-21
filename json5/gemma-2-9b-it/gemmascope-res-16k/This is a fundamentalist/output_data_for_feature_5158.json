@@ -1,0 +1,30 @@
+{
+    "index": "5158",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a fundamentalist/data_for_feature_5158.json",
+    "negative_strings": [
+        "PreferredItem",
+        "WriteTagHelper",
+        "SBATCH",
+        "\u2581ExecuteAsync",
+        "andExpect",
+        "\u2581MotionEvent",
+        "SerializedSize",
+        "httphttps",
+        "\u2581AsyncTask",
+        "HtmlAttribute"
+    ],
+    "positive_strings": [
+        "\u2581Foundation",
+        "Foundation",
+        "\u2581foundation",
+        "\u2581Foundations",
+        "\u2581FOUNDATION",
+        "\u2581Gund",
+        "Foundations",
+        "\u2581stone",
+        "stone",
+        "\u2581Fund"
+    ],
+    "description": "references to organizations or entities related to foundations"
+}

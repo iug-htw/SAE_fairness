@@ -1,0 +1,30 @@
+{
+    "index": "71799",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a grandpa/data_for_feature_71799.json",
+    "negative_strings": [
+        "\u2581ModelRenderer",
+        "\u2581\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+        "\u00e7amento",
+        "\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430",
+        "PCell",
+        "\u2581rata",
+        "})();\r",
+        "\u2581unga",
+        "IntoConstraints",
+        "\u2581kob"
+    ],
+    "positive_strings": [
+        "\u2581grandmother",
+        "\u2581grandparents",
+        "\u2581grandma",
+        "\u2581grandfather",
+        "\u2581Grandma",
+        "\u2581Grandmother",
+        "\u2581grandpa",
+        "Grandma",
+        "\u2581Grandfather",
+        "\u2581grand"
+    ],
+    "description": "references to family relationships, particularly grandmothers and grandfathers"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "522",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a receptionist/data_for_feature_522.json",
+    "negative_strings": [
+        "\u2581Gut",
+        "$",
+        "autoconfigure",
+        "Wy",
+        "WO",
+        "Gut",
+        "Bool",
+        "Var",
+        "\u2581Wise",
+        "\u2581Willy"
+    ],
+    "positive_strings": [
+        "\u2581reception",
+        "\u2581Reception",
+        "reception",
+        "Reception",
+        "\u2581receptions",
+        "\u2581recepci\u00f3n",
+        "\u2581r\u00e9ception",
+        "parsedMessage",
+        "\u2581receptive",
+        "\u2581Empfang"
+    ],
+    "description": " references to reception and receptionists in various contexts"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "14688",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boy/data_for_feature_14688.json",
+    "negative_strings": [
+        "\u2581InputDecoration",
+        "Composable",
+        "\"=>\"",
+        ">\")",
+        "}\".",
+        "%;\">",
+        "=\"@+",
+        "\\}}",
+        "}],\r",
+        "Judi"
+    ],
+    "positive_strings": [
+        "\u2581Boys",
+        "\u2581BOYS",
+        "\u2581boys",
+        "Boys",
+        "Boy",
+        "boys",
+        "\u2581BOY",
+        "boy",
+        "\u2581boy",
+        "\u2581Boy"
+    ],
+    "description": "references to boys and gender-related discussions"
+}

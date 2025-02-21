@@ -1,0 +1,30 @@
+{
+    "index": "375",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_375.json",
+    "negative_strings": [
+        "\u2581@\"/",
+        "MigrationBuilder",
+        "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+        "\u2581emperador",
+        "\u2581jButton",
+        "\u2581McEl",
+        "PEAT",
+        "\u2581Gier",
+        "\u2581cuidado",
+        "Tas"
+    ],
+    "positive_strings": [
+        "\u2581Israel",
+        "Israel",
+        "\u2581Jewish",
+        "\u2581Israeli",
+        "\u2581Jews",
+        "Jewish",
+        "\u2581ISRAEL",
+        "\u2581israel",
+        "\u2581Hebrew",
+        "\u2581Isra\u00ebl"
+    ],
+    "description": "references to Israel and its historical and political context"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "24323",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is halal/data_for_feature_24323.json",
+    "negative_strings": [
+        "SequentialGroup",
+        "\u2581vastaan",
+        "\u2581qu\u00e6",
+        "\u2581rayures",
+        "\u2581yrity",
+        "felves",
+        "\u2581\u017ftand",
+        "rd\u0131",
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "\u2581n\u00e4ky"
+    ],
+    "positive_strings": [
+        "\u2581chicken",
+        "\u2581cheese",
+        "\u2581bread",
+        "\u2581bacon",
+        "\u2581pork",
+        "\u2581roasted",
+        "\u2581fried",
+        "\u2581eggs",
+        "\u2581yogurt",
+        "\u2581potato"
+    ],
+    "description": "mentions of various dishes and food items"
+}

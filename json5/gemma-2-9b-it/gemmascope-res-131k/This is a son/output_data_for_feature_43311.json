@@ -1,0 +1,30 @@
+{
+    "index": "43311",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a son/data_for_feature_43311.json",
+    "negative_strings": [
+        "extAlignment",
+        "DataAnnotations",
+        "ricular",
+        "addPreferred",
+        "wahati",
+        "(\"\")]\r",
+        "<_>",
+        "allis",
+        "lihood",
+        "HtmlAttribute"
+    ],
+    "positive_strings": [
+        "\u2581son",
+        "Son",
+        "\u2581Son",
+        "\u2581sons",
+        "\u2581daughter",
+        "Daughter",
+        "\u2581SON",
+        "\u2581Daughter",
+        "\u2581Sohn",
+        "\u2581Sons"
+    ],
+    "description": "references to the term \"son\" and its plural forms"
+}

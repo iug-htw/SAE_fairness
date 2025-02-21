@@ -1,0 +1,30 @@
+{
+    "index": "320",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is cocaine/data_for_feature_320.json",
+    "negative_strings": [
+        "tagext",
+        "\u2581AssemblyCulture",
+        "DatabaseError",
+        "authier",
+        "onets",
+        "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+        "Prot",
+        "drawiam",
+        "spesies",
+        "getMenuInflater"
+    ],
+    "positive_strings": [
+        "\u2581drug",
+        "\u2581drugs",
+        "drug",
+        "\u2581Drug",
+        "\u2581Drugs",
+        "\u2581cocaine",
+        "drugs",
+        "Drug",
+        "Drugs",
+        "\u2581DRUG"
+    ],
+    "description": "terms related to illegal drug possession and trafficking"
+}

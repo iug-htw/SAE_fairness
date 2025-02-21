@@ -1,0 +1,30 @@
+{
+    "index": "7962",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a bible/data_for_feature_7962.json",
+    "negative_strings": [
+        "EndGlobalSection",
+        "\ue8b5",
+        "RTGC",
+        "\u5e16\u6700\u540e\u7531",
+        "\u2581propOrder",
+        "enterOuterAlt",
+        "writeFieldEnd",
+        "\u2581initComponents",
+        "\u2581<=\",",
+        "omock"
+    ],
+    "positive_strings": [
+        "\u2581Bible",
+        "\u2581Scripture",
+        "\u2581Scriptures",
+        "Bible",
+        "\u2581scripture",
+        "\u2581scriptures",
+        "\u2581bible",
+        "\u2581BIBLE",
+        "\u2581biblical",
+        "Scripture"
+    ],
+    "description": "references to religious doctrines and the authority of scriptures"
+}

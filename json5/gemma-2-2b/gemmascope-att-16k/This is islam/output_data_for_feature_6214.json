@@ -1,0 +1,30 @@
+{
+    "index": "6214",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-att-16k/This is islam/data_for_feature_6214.json",
+    "negative_strings": [
+        "CGContext",
+        "jal\u00e1",
+        "\u4ec0\u4e48\u7684",
+        "\u2581contextLoads",
+        "\u2581ISNI",
+        "\u2581niech",
+        "\u0161as",
+        "\u2581**/\r",
+        "\u2581\\%$\\\\",
+        "\u00bb\u0589"
+    ],
+    "positive_strings": [
+        "\u2581@\"/",
+        "awtextra",
+        "\u2581nahilalakip",
+        "ArgsConstructor",
+        "\u2581viewDidLoad",
+        "saraba",
+        "rungsseite",
+        "\u2581\u091a\u0940\u095b\u094b\u0902",
+        "expandindo",
+        "\u2581gyhoeddwyd"
+    ],
+    "description": " attends to the token \"is\" from sentences that end with punctuation"
+}

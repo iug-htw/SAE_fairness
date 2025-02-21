@@ -1,0 +1,30 @@
+{
+    "index": "4533",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a grandpa/data_for_feature_4533.json",
+    "negative_strings": [
+        "ToTensor",
+        "jsxFileName",
+        "\u2581Ueb",
+        "\u2581Wiss",
+        "leyebilirsiniz",
+        "omitempty",
+        "\u2581dr\u00f4le",
+        "\u2581raisonnable",
+        "\u2581v\u00e9g\u00e9tale",
+        "Quieres"
+    ],
+    "positive_strings": [
+        "\u2581grand",
+        "\u2581Grand",
+        "\u2581GRAND",
+        "GRAND",
+        "Grand",
+        "grand",
+        "iose",
+        "\u2581Gran",
+        "HomeAsUpEnabled",
+        "Gran"
+    ],
+    "description": "references to \"grand\" entities or concepts, particularly in the context of places or events"
+}

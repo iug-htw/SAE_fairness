@@ -1,0 +1,30 @@
+{
+    "index": "6295",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a gentleman/data_for_feature_6295.json",
+    "negative_strings": [
+        " \u00ef\u00bf\u00bd",
+        "IDL",
+        "elve",
+        " \u00c3\u0124",
+        "iley",
+        "maj",
+        "sdk",
+        "717",
+        " t",
+        "/schema"
+    ],
+    "positive_strings": [
+        "\u00e3\u0124\u00ba",
+        "'s",
+        "\u2019s",
+        "ls",
+        "sw",
+        "\u00d1\u0137",
+        "\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+        "stype",
+        "\u2019S",
+        "swire"
+    ],
+    "description": "references to gender-specific groups and contexts"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "12284",
+    "layer": null,
+    "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a sacrament/data_for_feature_12284.json",
+    "negative_strings": [
+        "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+        "\u2581utafitiHapana",
+        "RegressionTest",
+        "transQ",
+        "pola",
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "\u2581Spare",
+        "RenderAtEndOf",
+        "\u044b\u0433\u0430\u043d\u0430",
+        "\u2581intStringLen"
+    ],
+    "positive_strings": [
+        "AutoField",
+        "DMETHOD",
+        "\u2581AssemblyCulture",
+        "parsedMessage",
+        "\u2581meliputi",
+        "ModelForm",
+        "\u2581\u017eivljen",
+        "TextWatcher",
+        "\u2581spirituale",
+        "\u2581miniaturka"
+    ],
+    "description": "references to key concepts or components of a system"
+}

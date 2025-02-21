@@ -1,0 +1,62 @@
+[
+    {
+        "index": "2497",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a daughter/data_for_feature_2497.json",
+        "negative_strings": [
+            "\u2581son",
+            "\u2581Son",
+            "Son",
+            "son",
+            "\u2581sons",
+            "\u2581daughter",
+            "sons",
+            "\u2581hijo",
+            "SON",
+            "\u2581figlio"
+        ],
+        "positive_strings": [
+            "LookAnd",
+            "\u2581$_\"",
+            "OOTDTY",
+            "Vidite",
+            "\u2581bezeichneter",
+            "\u2581}}$}",
+            "\u0627\u0644\u0645\u0643\u0627\u0646",
+            "})$}",
+            "\u2581AssemblyCompany",
+            "\u0e2b\u0e27\u0e31\u0e14"
+        ],
+        "description": " attends to the token \"son\" from tokens that reference their gender"
+    },
+    {
+        "index": "6171",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is a daughter/data_for_feature_6171.json",
+        "negative_strings": [
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581CreateTagHelper",
+            "\u2581nahilalakip",
+            "PyExc",
+            "thenReturn",
+            "\u2581AssemblyTitle",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581useAppContext",
+            "IContainer",
+            "\u2581fallu"
+        ],
+        "positive_strings": [
+            "GetEnumerator",
+            "assies",
+            ").",
+            ";#",
+            "ANDUM",
+            "Une",
+            "\u2581Une",
+            "\u2581boy",
+            "Una",
+            "\u0436\u0438\u043d\u0430"
+        ],
+        "description": " attends to tokens representing \"daughter\" from various narrative contexts dealing with complex personal relationships and experiences"
+    }
+]

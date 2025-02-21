@@ -1,0 +1,30 @@
+{
+    "index": "15821",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-16k/This is mecca/data_for_feature_15821.json",
+    "negative_strings": [
+        "itself",
+        "\u2581itself",
+        "ScopeManager",
+        "\u2581MotionEvent",
+        "enumi",
+        "SpringBootTest",
+        "\u2581Itself",
+        "\u2581it\u017felf",
+        "\u2581suivante",
+        "\u0e40\u0e14\u0e35\u0e22\u0e27"
+    ],
+    "positive_strings": [
+        "\u2581personally",
+        "self",
+        "zelf",
+        "SELF",
+        "tubers",
+        "\u2581personalmente",
+        "sel",
+        "\u2581individually",
+        "\u017felf",
+        "sels"
+    ],
+    "description": "references to individuals and their relationships with each other"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "3748",
+    "layer": null,
+    "url": "json5/gpt2-small/res-jb/This is a terrorist/data_for_feature_3748.json",
+    "negative_strings": [
+        "acists",
+        "\u0131",
+        "\u00e9\u00be\u012f\u00e5",
+        "eph",
+        "_{",
+        "Fans",
+        "conserv",
+        "alg",
+        "govtrack",
+        "adow"
+    ],
+    "positive_strings": [
+        " dossier",
+        " shipment",
+        " intercepted",
+        " wiret",
+        " airstrike",
+        " detainee",
+        " intercept",
+        " interception",
+        " extradition",
+        " referral"
+    ],
+    "description": "terms related to government secrets, intelligence operations, and security breaches"
+}

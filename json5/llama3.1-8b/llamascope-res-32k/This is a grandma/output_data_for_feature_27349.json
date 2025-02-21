@@ -1,0 +1,30 @@
+{
+    "index": "27349",
+    "layer": null,
+    "url": "json5/llama3.1-8b/llamascope-res-32k/This is a grandma/data_for_feature_27349.json",
+    "negative_strings": [
+        "eer",
+        "bite",
+        "rome",
+        "wright",
+        "calar",
+        "ovna",
+        "unning",
+        "imple",
+        " queryInterface",
+        "\u00cf\u0123\u00ce\u00af\u00ce\u00bf\u00cf\u0127"
+    ],
+    "positive_strings": [
+        "ma",
+        "my",
+        "mys",
+        "ents",
+        "preneur",
+        "MY",
+        "ager",
+        "ENTS",
+        "prene",
+        "iji"
+    ],
+    "description": "mentions of \"Mom\" and \"Dad\" in various contexts"
+}

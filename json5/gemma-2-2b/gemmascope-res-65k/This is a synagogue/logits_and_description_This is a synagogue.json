@@ -1,0 +1,332 @@
+[
+    {
+        "index": "36519",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_36519.json",
+        "negative_strings": [
+            "\u05b9\u05ea",
+            "ThroughAttribute",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "uterte",
+            "\u2581&___",
+            "\u2581\u05e1\u05e1",
+            "\u2581Christo",
+            "\u2581Burrell",
+            "\u2581useContext",
+            "\u2581SQLAlchemy"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Rabbi",
+            "Jewish",
+            "\u2581Jews",
+            "\u2581synagogue",
+            "\u2581Judaism",
+            "\u2581rabbi",
+            "Rabbi",
+            "\u2581Hebrew",
+            "\u2581kosher"
+        ],
+        "description": " references to community leadership and concerns about surveillance"
+    },
+    {
+        "index": "16424",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_16424.json",
+        "negative_strings": [
+            "\u05b9\u05ea",
+            "Datuak",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9",
+            "\u05d5\u05b9\u05ea",
+            "\u05b6\u05d4",
+            "\u2581\u05e1\u05e1",
+            "\u2581VND",
+            "\u2581<>\",",
+            "\u2581Vietnamese",
+            "\u2581Pandey"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Israeli",
+            "\u2581Israel",
+            "\u2581Jews",
+            "Jewish",
+            "\u2581Hebrew",
+            "Israel",
+            "\u2581Judaism",
+            "\u2581Rabbi",
+            "Israeli"
+        ],
+        "description": "references to community leadership and social dynamics"
+    },
+    {
+        "index": "51682",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_51682.json",
+        "negative_strings": [
+            "\u05b9\u05ea",
+            "\u05d5\u05b9\u05ea",
+            "\u05b6\u05d4",
+            "\u2581Wikimedijinoj",
+            "\u2581carolina",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9",
+            "\u2581Coleridge",
+            "\u2581Magno",
+            "Datuak",
+            "\u2581\u05e1\u05e1"
+        ],
+        "positive_strings": [
+            "\u2581Israel",
+            "\u2581Israeli",
+            "\u2581Jewish",
+            "Israel",
+            "Israeli",
+            "Jewish",
+            "\u2581Jews",
+            "\u2581Israelis",
+            "\u2581Hebrew",
+            "\u2581ISRAEL"
+        ],
+        "description": " messages or threats directed at a specific community"
+    },
+    {
+        "index": "15267",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_15267.json",
+        "negative_strings": [
+            "\u05b9\u05ea",
+            "\u05d5\u05b9\u05ea",
+            "\u2581carolina",
+            "\u2581Wikimedijinoj",
+            "\u03bc\u03af",
+            "\u2581Coleridge",
+            "\u05b6\u05d4",
+            "\u2581vPvB",
+            "\u2581Magno",
+            "\u2581\u0432\u0456\u043a\u0456"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "\u2581Israeli",
+            "\u2581Israel",
+            "Jewish",
+            "\u2581Jews",
+            "Israel",
+            "Israeli",
+            "\u2581Hebrew",
+            "\u2581Israelis",
+            "\u2581Rabbi"
+        ],
+        "description": " references to Israeli media and broadcasting stations"
+    },
+    {
+        "index": "23947",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_23947.json",
+        "negative_strings": [
+            "\u2581auszu",
+            "AccessorTable",
+            "breakable",
+            "\u2581IndexError",
+            "IDOS",
+            "calyptic",
+            "TagMode",
+            "ICIENCY",
+            "JsonHelper",
+            "IDO"
+        ],
+        "positive_strings": [
+            "\u2581built",
+            "\u2581dating",
+            "\u2581reopened",
+            "\u2581Built",
+            "\u2581restored",
+            "\u2581constructed",
+            "\u2581rebuilt",
+            "\u2581opened",
+            "Built",
+            "\u2581founded"
+        ],
+        "description": "references to historical buildings and landmarks"
+    },
+    {
+        "index": "5051",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_5051.json",
+        "negative_strings": [
+            "\u2581\u0432\u0456\u043a\u0456",
+            "esri",
+            "\u2581Duterte",
+            "\u2581spart",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "\u2581Virg",
+            "\u2581logar",
+            "\u2581Naga",
+            "\u2581Burrell",
+            "\u2581Nusa"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "Jewish",
+            "\u2581Jews",
+            "\u2581Judaism",
+            "\u2581Rabbi",
+            "\u2581rabbi",
+            "\u2581jewish",
+            "\u2581synagogue",
+            "\u2581synag",
+            "Rabbi"
+        ],
+        "description": "terms and contexts related to Judaism and interfaith dialogue"
+    },
+    {
+        "index": "46193",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_46193.json",
+        "negative_strings": [
+            "TagMode",
+            "\u2581NSCoder",
+            "ISODE",
+            "ospel",
+            "AutoScaleMode",
+            "\u2581_:",
+            "\u2581Forests",
+            "chymal",
+            "ContentAlignment",
+            "\u2581betweenstory"
+        ],
+        "positive_strings": [
+            "\u2581dating",
+            "\u2581built",
+            "\u2581Built",
+            "\u2581constructed",
+            "Built",
+            "\u2581Dating",
+            "\u2581rebuilt",
+            "\u2581Constructed",
+            "built",
+            "Dating"
+        ],
+        "description": " references to historical buildings and landmarks"
+    },
+    {
+        "index": "53777",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_53777.json",
+        "negative_strings": [
+            "\u2581AssemblyCulture",
+            "\u2581RoutedEventArgs",
+            "\u2581Galer",
+            "Rural",
+            "\u2581Virg",
+            "\u05d9\u05e1\u05d8\u05d5\u05e8",
+            "\u2581africains",
+            "\u2581Heid",
+            "BeginContext",
+            "\u2581Poet"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "Jewish",
+            "\u2581Israeli",
+            "\u2581Jews",
+            "\u2581Israel",
+            "\u2581Aviv",
+            "\u2581Rabbi",
+            "\u2581synagogue",
+            "jewish",
+            "\u2581Hebrew"
+        ],
+        "description": "references to Jewish identity and related themes"
+    },
+    {
+        "index": "8859",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_8859.json",
+        "negative_strings": [
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\uf0f1",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "InitVars",
+            "printStackTrace",
+            "featureID",
+            "\u2581\u00e9las",
+            "\u2581democr\u00e1tica",
+            "JsonPropertyName",
+            "orianCalendar"
+        ],
+        "positive_strings": [
+            "\u2581complex",
+            "complex",
+            "\u2581Complex",
+            "Complex",
+            "\u2581facility",
+            "\u2581COMPLEX",
+            "\u2581project",
+            "\u2581building",
+            "\u2581site",
+            "\u2581kompleks"
+        ],
+        "description": "elements related to historical buildings and infrastructure"
+    },
+    {
+        "index": "51533",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_51533.json",
+        "negative_strings": [
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "ContentAsync",
+            "\u2581JpaRepository",
+            "AnchorStyles",
+            "+#+#",
+            "\u2581ujednoznacz",
+            "\u2581snippetHide",
+            "IntoConstraints",
+            "IndentedString",
+            "AddTagHelper"
+        ],
+        "positive_strings": [
+            "\u2581that",
+            "\u2581created",
+            "\u2581originally",
+            "\u2581consisting",
+            "\u2581found",
+            "\u2581originating",
+            "\u2581used",
+            "\u2581first",
+            "\u2581belonging",
+            "\u2581often"
+        ],
+        "description": " various types of items and their descriptions, particularly focusing on unique inventions and creations"
+    },
+    {
+        "index": "56691",
+        "layer": null,
+        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a synagogue/data_for_feature_56691.json",
+        "negative_strings": [
+            "NewUrlParser",
+            "adaptiveStyles",
+            "DoubleQuotes",
+            "TagMode",
+            "\u2581AssemblyCulture",
+            "\u24e7",
+            "RetentionPolicy",
+            "ANTLR",
+            "extAlignment",
+            "ArrowToggle"
+        ],
+        "positive_strings": [
+            "\u2581grounds",
+            "\u2581Grounds",
+            "\u2581precincts",
+            "\u2581complex",
+            "yard",
+            "\u2581gardens",
+            "\u2581courtyard",
+            "\u2581bells",
+            "\u2581ruines",
+            "\u2581Complex"
+        ],
+        "description": " references to temples and related architectural or religious concepts"
+    }
+]

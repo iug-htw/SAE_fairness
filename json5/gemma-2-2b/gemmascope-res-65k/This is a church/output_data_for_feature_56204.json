@@ -1,0 +1,30 @@
+{
+    "index": "56204",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a church/data_for_feature_56204.json",
+    "negative_strings": [
+        "\u2581EconPapers",
+        "TagMode",
+        "Geplaatst",
+        "getActiveSheet",
+        "\u2581capture",
+        "capture",
+        "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+        "\u2581capturing",
+        "\u2581m\u00e4r",
+        "\u2581impresa"
+    ],
+    "positive_strings": [
+        "\u2581congregations",
+        "\u2581congregation",
+        "\u2581choir",
+        "\u26ea",
+        "\u2581paroisse",
+        "\u2581religione",
+        "\u2581churches",
+        "\u044c\u0430\u0436",
+        "\u2581clergy",
+        "Priest"
+    ],
+    "description": "mentions of churches, specifically the Church of Scientology"
+}

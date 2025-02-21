@@ -1,0 +1,30 @@
+{
+    "index": "20042",
+    "layer": null,
+    "url": "json5/gemma-2-2b/gemmascope-res-65k/This is a male/data_for_feature_20042.json",
+    "negative_strings": [
+        "\u2581\u043c\u04d9\u043a\u0430\u043b",
+        "\u2581snippetHide",
+        "tvguidetime",
+        "expandindo",
+        "\u2581}}\"></",
+        "GraphicsUnit",
+        "\u2581InputDecoration",
+        "FormTagHelper",
+        "\u2581HasFactory",
+        "})));"
+    ],
+    "positive_strings": [
+        "volent",
+        "\u2581gender",
+        "\u2581sex",
+        "\u2581Men",
+        "gender",
+        "vol",
+        "\u2581sexual",
+        "\u2581men",
+        "\u2581SEX",
+        "\u2581Male"
+    ],
+    "description": "gender-specific terms related to males and females"
+}

@@ -1,0 +1,332 @@
+[
+    {
+        "index": "718",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_718.json",
+        "negative_strings": [
+            " professionals",
+            " Professionals",
+            "edes",
+            " professions",
+            " professionalism",
+            "ohn",
+            " professionnel",
+            "upe",
+            "SI",
+            "utenberg"
+        ],
+        "positive_strings": [
+            "ial",
+            "ess",
+            "iate",
+            "ship",
+            "ships",
+            "esso",
+            "esor",
+            "ession",
+            "ESS",
+            "esse"
+        ],
+        "description": "references to professors and academic titles"
+    },
+    {
+        "index": "19341",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_19341.json",
+        "negative_strings": [
+            ".timing",
+            "amedi",
+            "\u00e5\u00ba\u0143",
+            " olmu\u00c5\u0141tur",
+            " /^\\",
+            "imizer",
+            "amarin",
+            " executor",
+            "\u00e3\u0125\u0140\u00e3\u0125\u00b3",
+            "\u00c3\u00a2y"
+        ],
+        "positive_strings": [
+            "ship",
+            "ships",
+            "(s",
+            " Spotlight",
+            " Profile",
+            "ial",
+            " Wanted",
+            "-at",
+            "-in",
+            "cies"
+        ],
+        "description": " titles and roles associated with leadership or authoritative positions"
+    },
+    {
+        "index": "24956",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_24956.json",
+        "negative_strings": [
+            "edes",
+            "\u00c3\u00b3t",
+            "edd",
+            " \u00d8\u00a7\u00d9\u0126\u00d8\u00b4\u00d9\u0127",
+            "edral",
+            "ough",
+            "edin",
+            "@student",
+            "SI",
+            "orph"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "iate",
+            " Emer",
+            "ships",
+            "SHIP",
+            "IAL",
+            " em",
+            "Emer",
+            "ess"
+        ],
+        "description": "titles and roles related to academia and teaching"
+    },
+    {
+        "index": "28092",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_28092.json",
+        "negative_strings": [
+            "ough",
+            "edes",
+            "orph",
+            "\u00e1\u00ba\u00bfp",
+            "Principal",
+            "\u00c3\u00b3t",
+            "lish",
+            "odge",
+            " Professionals",
+            "SI"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "ships",
+            "iate",
+            " Emer",
+            "ession",
+            "IAL",
+            "SHIP",
+            "esse",
+            "Emer"
+        ],
+        "description": " references to academic titles and positions"
+    },
+    {
+        "index": "31886",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_31886.json",
+        "negative_strings": [
+            "sik",
+            "izador",
+            "isateur",
+            "ibold",
+            "erli",
+            "piel",
+            " gratuits",
+            "bourg",
+            "ertz",
+            "oya"
+        ],
+        "positive_strings": [
+            "ship",
+            "hood",
+            "'s",
+            "ships",
+            "\u2019s",
+            " who",
+            "SHIP",
+            "esses",
+            " \u00e0\u00a4\u00ac\u00e0\u00a4\u00a8\u00e0\u00a4\u00a8",
+            "(ship"
+        ],
+        "description": "terms related to educational and professional roles"
+    },
+    {
+        "index": "24612",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_24612.json",
+        "negative_strings": [
+            " profit",
+            "@student",
+            "profits",
+            "herence",
+            "isans",
+            "inations",
+            " Boss",
+            "edin",
+            " profits",
+            "_profit"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "ships",
+            " em",
+            " Emer",
+            "SHIP",
+            "iate",
+            "IAL",
+            "Emer",
+            "esso"
+        ],
+        "description": "references to academic titles and positions"
+    },
+    {
+        "index": "3146",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_3146.json",
+        "negative_strings": [
+            "ough",
+            "orph",
+            "edes",
+            "\u00c3\u00b3t",
+            "asonic",
+            "ott",
+            "kommen",
+            "arch",
+            "age",
+            "lish"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "iate",
+            "ships",
+            " Emer",
+            "IAL",
+            "iales",
+            "ession",
+            "esser",
+            "esor"
+        ],
+        "description": "mentions of academic titles and positions"
+    },
+    {
+        "index": "5209",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_5209.json",
+        "negative_strings": [
+            "edin",
+            "ott",
+            "@student",
+            "orph",
+            "\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
+            "Principal",
+            "\u00d1\u0125\u00d1\u012b",
+            "ough",
+            "arch",
+            "egrator"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            " Emer",
+            "ships",
+            "iate",
+            "IAL",
+            "SHIP",
+            "Emer",
+            " em",
+            "hip"
+        ],
+        "description": "titles and roles associated with academic professionals"
+    },
+    {
+        "index": "7175",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_7175.json",
+        "negative_strings": [
+            "ough",
+            "iscard",
+            "\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
+            "orph",
+            "edin",
+            "lish",
+            "edes",
+            "edd",
+            "ensed",
+            "\u00c3\u00b3t"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "ships",
+            " Emer",
+            "iate",
+            " em",
+            "Emer",
+            "SHIP",
+            "IAL",
+            "hip"
+        ],
+        "description": " mentions of academic titles and associated fields of study"
+    },
+    {
+        "index": "26550",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_26550.json",
+        "negative_strings": [
+            ".opend",
+            "\u00ec\u0126\u0143",
+            "\u00e8\u00aa\u012e",
+            "abal",
+            "ledon",
+            "profits",
+            "\u00d9\u012a\u00d8\u00b7",
+            " \u00e6\u0132",
+            "\u00e0\u00b9\u012a\u00e0\u00b8\u00b2\u00e0\u00b8\u0129",
+            "inations"
+        ],
+        "positive_strings": [
+            "ial",
+            " Emer",
+            " em",
+            "ship",
+            " at",
+            " jointly",
+            "ships",
+            " specializing",
+            "Emer",
+            " Department"
+        ],
+        "description": "references to individuals with academic titles and their fields of expertise"
+    },
+    {
+        "index": "28496",
+        "layer": null,
+        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a professor/data_for_feature_28496.json",
+        "negative_strings": [
+            "allas",
+            "orph",
+            "gar",
+            " cust",
+            "\u00d0\u00b8\u00d1\u0124\u00d0\u00b8",
+            "asonic",
+            "weise",
+            "yu",
+            "ucken",
+            "\u00c3\u00b3t"
+        ],
+        "positive_strings": [
+            "ial",
+            "ship",
+            "iate",
+            "ships",
+            " Emer",
+            "IAL",
+            "umo",
+            "ession",
+            "hip",
+            "SHIP"
+        ],
+        "description": " references to academic titles and positions"
+    }
+]

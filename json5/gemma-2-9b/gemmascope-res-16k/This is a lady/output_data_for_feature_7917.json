@@ -1,0 +1,30 @@
+{
+    "index": "7917",
+    "layer": null,
+    "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a lady/data_for_feature_7917.json",
+    "negative_strings": [
+        "ing",
+        "\u2581contas",
+        "ForResult",
+        "form",
+        "m\u00f6gens",
+        "setting",
+        "\u2581tear",
+        "\u2581\u0645\u0628",
+        "\u2581form",
+        "ORES"
+    ],
+    "positive_strings": [
+        "\u2581Sir",
+        "\u2581Lady",
+        "\u2581LADY",
+        "Lady",
+        "Sir",
+        "LADY",
+        "\u2581lady",
+        "WithIOException",
+        "\u2581SIR",
+        "lady"
+    ],
+    "description": " titles and honorifics associated with nobility or aristocracy"
+}
