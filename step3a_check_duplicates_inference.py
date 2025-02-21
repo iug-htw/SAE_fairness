@@ -60,4 +60,12 @@ def check_duplicates_inference(modelReleases, main_dir='json'):
                 json.dump(output, json_file, indent=4)
 
 if __name__ == "__main__":
-    check_duplicates_inference()
+    model_sources = [
+        "gemma-2-2b",
+        "gemma-2-9b",
+        "gemma-2-9b-it",
+        "gpt2-small",
+        "llama3.1-8b",
+    ]
+
+    check_duplicates_inference(model_sources, main_dir="json6")

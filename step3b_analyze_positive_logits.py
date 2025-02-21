@@ -102,3 +102,6 @@ def analyze_positive_logits(directory='json'):
     #def retrieve_and_save_duplicates(duplicates_count_file, collected_data, output_file):
     retrieve_and_save_duplicates(directory+'/duplicates_pos_count.json', collected_data, directory+'/duplicates_pos_info.json')   
 
+
+if __name__ == "__main__":
+    analyze_positive_logits(main_dir="json6")

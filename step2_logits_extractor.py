@@ -92,3 +92,16 @@ def extract_logits_for_all_queries(modelReleases, queries_file='queries.json', m
                 with open(output_filename, 'w') as output_file:
                     json.dump(all_output_data, output_file, indent=4)
                 print(f"✅ {query} => {modelRelease}-{residual_stream}")    
+
+
+
+if __name__ == "__main__":
+    modelReleases = [
+        "gemma-2-2b",
+        "gemma-2-9b",
+        "gemma-2-9b-it",
+        "gpt2-small",
+        "llama3.1-8b",
+    ]
+
+    extract_logits_for_all_queries(modelReleases, queries_file='queries6.json', main_dir='json6')

@@ -99,4 +99,5 @@ def analyze_negative_logits(directory='json'):
     retrieve_and_save_duplicates(directory+'/duplicates_neg_count.json', collected_data, directory+'/duplicates_neg_info.json')  
     return 
 
-
+if __name__ == "__main__":
+    analyze_negative_logits(main_dir="json6")
