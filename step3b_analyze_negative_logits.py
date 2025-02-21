@@ -83,7 +83,7 @@ def retrieve_and_save_duplicates(duplicates_file, collected_data, output_file):
     
     print(f"Duplicate information saved to {output_file}")
 
-def main(directory):
+def analyze_negative_logits(directory='json'):
     file_list = []
     for root, _, files in os.walk(directory):
         for file in files:
@@ -96,12 +96,7 @@ def main(directory):
     count_duplicates(collected_data, directory)
     #für diese doppelten strings die query und index finden
     #def retrieve_and_save_duplicates(duplicates_count_file, collected_data, output_file):
-    retrieve_and_save_duplicates(directory+'/duplicates_neg_count.json', collected_data, directory+'/duplicates_neg_info.json')   
+    retrieve_and_save_duplicates(directory+'/duplicates_neg_count.json', collected_data, directory+'/duplicates_neg_info.json')  
+    return 
 
-if __name__ == "__main__":
-    import sys
-    if len(sys.argv) != 2:
-        print("Usage: python collect_strings.py <directory> Directory should be folder for one model")
-    else:
-        main(sys.argv[1])
 

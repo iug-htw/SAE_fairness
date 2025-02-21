@@ -3,18 +3,6 @@ import re
 import json
 from collections import defaultdict
 
-model_source_sets = [
-    ("gpt2-small", "res-jb"),#fertig
-    ("gpt2-small", "att-kk"), #fertig
-    ("gemma-2-2b", "gemmascope-att-16k"),# fertig
-    ("gemma-2-2b", "gemmascope-res-16k"),# fertig
-    ("gemma-2-2b", "gemmascope-res-65k"),# fertig
-    ("gemma-2-9b", "gemmascope-res-16k"), 
-    ("gemma-2-9b-it", "gemmascope-res-16k"), 
-    ("gemma-2-9b-it", "gemmascope-res-131k"),  # fertig
-    ("llama3.1-8b","llamascope-res-32k"),# fertig
-]
-
 # this checks for duplicates in the feature numbers
 
 def find_feature_numbers(directory):
@@ -37,7 +25,7 @@ def check_for_duplicates(feature_files):
 
 def check_duplicates_inference(modelReleases, main_dir='json'):
     for model in modelReleases:
-        # list out all files in the main_dir/modelRelease/query/
+        # list out all files in the main_dir/{modelRelease}/{query}/
         files = os.listdir(os.path.join(main_dir, model))
 
         for source in files:
