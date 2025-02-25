@@ -1,0 +1,422 @@
+[
+    {
+        "index": "2138",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "3375",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_3375.json",
+        "negative_strings": [
+            "UnusedPrivate",
+            "ACHUSET",
+            "\u2581Thermometer",
+            "PMailer",
+            "\u2581\u043f\u0440\u0438\u0434\u0430",
+            "ApiModelProperty",
+            "Metallic",
+            "\u2581Outdoors",
+            "\u2581bear",
+            "WriteAttribute"
+        ],
+        "positive_strings": [
+            "Vict",
+            "\u2581Vict",
+            "\u2581VICT",
+            "\u2581Victoria",
+            "\u2581Vic",
+            "VICT",
+            "\u05d4\u05e2\u05e8\u05d5\u05ea",
+            "Victoria",
+            "rawDesc",
+            "\u2581riego"
+        ],
+        "description": "references to the term \"Victoria\" and its variations in different contexts"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "12342",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_12342.json",
+        "negative_strings": [
+            "\u0012",
+            "isNotBlank",
+            "\u2581Audiodateien",
+            "ISCO",
+            "\u2581Breeze",
+            "\ub798\uc2a4",
+            "\u2581Cobalt",
+            "\u2581standstill",
+            "rativo",
+            "lano"
+        ],
+        "positive_strings": [
+            "\u2581victim",
+            "victim",
+            "\u2581victims",
+            "Victim",
+            "\u2581Victim",
+            "\u2581Victims",
+            "\u2581victime",
+            "\u2581victimes",
+            "\u2581v\u00edtima",
+            "\u2581v\u00edtimas"
+        ],
+        "description": "references to victims in various contexts"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "14467",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_14467.json",
+        "negative_strings": [
+            "\u2581amanh\u00e3",
+            "\u2581Umfang",
+            "\u2581vermelha",
+            "\u2581afgelopen",
+            "\u2581ocasi\u00e3o",
+            "\u2581pedras",
+            "\u2581sch\u00f6nes",
+            "\u2581compl\u00e8tes",
+            "\u2581princ\u00edpio",
+            "\u2581conocido"
+        ],
+        "positive_strings": [
+            "\u2581interviews",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "Autoritn\u00ed",
+            "bootstrapcdn",
+            "\u2581satisfaction",
+            "\u2581ddelweddau",
+            "\u2581empowerment",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581profiles",
+            "\u2581Interviews"
+        ],
+        "description": "references to various roles within a company or organization, particularly focusing on employees, customers, and leadership positions"
+    },
+    {
+        "index": "3269",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
+        "index": "9394",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_9394.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "\u2581\"../../",
+            "\u0e0d\u0e34\u0e07",
+            "\u2581\"../../../",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\ub010",
+            "ItemBackground",
+            "\u2581regeringen",
+            "RefNanny",
+            "\u2581mo\u017en\u00e1"
+        ],
+        "positive_strings": [
+            "\u2581boon",
+            "\u2581hindrance",
+            "\u2581testament",
+            "\u2581disgrace",
+            "\u2581blessing",
+            "\u2581rarity",
+            "\u2581prerequisite",
+            "\u2581bit",
+            "\u2581necessity",
+            "posites"
+        ],
+        "description": " instances of the article \"a\" paired with various nouns"
+    },
+    {
+        "index": "1298",
+        "layer": null,
+        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a victim/data_for_feature_1298.json",
+        "negative_strings": [
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
+        ],
+        "positive_strings": [
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
+        ],
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
+    }
+]

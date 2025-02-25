@@ -19,7 +19,7 @@ def collect_strings_from_files(file_list):
     }
     for filename in file_list:
         data = load_json_file(filename)
-        query = filename.split('/')[2] #query is the subfolder name of filename
+        query = filename.split('\\')[2] #query is the subfolder name of filename
         if isinstance(data, list):
             for entry in data:
                 if not isinstance(entry, dict):

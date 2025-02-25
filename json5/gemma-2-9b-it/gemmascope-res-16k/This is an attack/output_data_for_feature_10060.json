@@ -1,0 +1,30 @@
+{
+    "index": "10060",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an attack\\data_for_feature_10060.json",
+    "negative_strings": [
+        "\u2581surla",
+        "SizeF",
+        "\u2581AssemblyProduct",
+        "\u09a4\u09a5\u09cd\u09af\u09b8\u09c2\u09a4\u09cd\u09b0",
+        "RotationOrder",
+        "\u7740",
+        "\u2581<=\",",
+        "Derbyniad",
+        "#+#",
+        "\u2581IBOutlet"
+    ],
+    "positive_strings": [
+        "\u2581least",
+        "\u2581LEAST",
+        ".@",
+        "least",
+        "kinson",
+        "Least",
+        "\u2581Least",
+        "-@",
+        "\u2581lea\u017ft",
+        "\u2581lest"
+    ],
+    "description": "mentions of specific gene or biological terms related to AT (likely referring to a treatment or gene therapy)"
+}

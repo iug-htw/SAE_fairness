@@ -1,0 +1,30 @@
+{
+    "index": "54298",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is money\\data_for_feature_54298.json",
+    "negative_strings": [
+        "ServletException",
+        "SourceChecksum",
+        "\u2581ExecuteAsync",
+        "ViewFeatures",
+        "\u2581AssemblyTitle",
+        "GOTREF",
+        "\u2581connus",
+        "SBATCH",
+        "\u2581disambiguazione",
+        "closePath"
+    ],
+    "positive_strings": [
+        "\u2581laundering",
+        "MONEY",
+        "\u2581Money",
+        "\u2581Mayweather",
+        "\u2581MONEY",
+        "\u2581money",
+        "Money",
+        "ngOn",
+        "bags",
+        "money"
+    ],
+    "description": "references to money and financial transactions"
+}
