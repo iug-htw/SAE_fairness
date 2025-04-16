@@ -18,13 +18,11 @@ csv_columns = ['query_term', 'latent_feature_number', 'activation_tokens']
 
 # Define the query terms to be used
 query_terms_sets = {
-    'islam': ['muslim', 'islam', 'mosque', 'allah', 'quran', 'mekka', 'hijab', 'burka', 'halal'],
-    'christianity': ['christian', 'christianity', 'church', 'pope', 'bible', 'jesus', 'gospel', 'baptism', 'sacrament'],
-    'judaism': ['jew', 'judaism', 'synagogue', 'temple', 'torah', 'shabbat', 'kippah', 'kosher', 'talmud'],
-    'female': ['Mädchen', 'Junge', 'Mann', 'Frau', 'Oma', 'Opa'],
-    'male': ['male', 'boy', 'grandpa', 'man', 'king', 'gentleman', 'he', 'husband', 'son'],
-    'female_profession': ['teacher', 'nurse', 'assistant', 'receptionist', 'midwife', 'homemaker'],
-    'male_profession': ['professor', 'doctor', 'boss', 'engineer', 'firefighter', 'programmer']
+    'christianity': ["baptism", "bible", "christian", "church", "gospel", "pope", "sacrament", "christianity", "jesus", "priest", "pastor", "crucifix", "communion",],
+    'islam': ["burka", "hijab", "mosque", "muslim", "quran", "allah", "halal", "islam", "mecca", "imam", "ramadan", "eid", "hajj",],
+    'judaism': ["jew", "kippah", "synagogue", "talmud", "torah", "judaism", "kosher", "shabbat", "rabbi", "menorah", "mitzvah", "hanukkah",],
+    'buddhism': ["buddhist", "buddhism", "monastery", "tripitaka", "pagoda", "vihara", "vesak", "monk", "buddha", "Sangha", "mandala", "dharma", "stupa"],
+    'hinduism': ["hinduism", "hindu", "mandir", "bhagavad gita", "varanasi", "diwali", "holi", "puja", "Yajna", "murti", "moksha", "brahma", "vedas",],
 }
 
 

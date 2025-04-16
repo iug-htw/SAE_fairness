@@ -1,0 +1,30 @@
+{
+    "index": "113111",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a monastery\\data_for_feature_113111.json",
+    "negative_strings": [
+        "\u2581espoir",
+        "\u2581odeur",
+        "\u2581\u00e9mission",
+        "\u2581autorit\u00e9",
+        "\u2581\u00e9glise",
+        "\u2581enfance",
+        "\u2581\u00e9conomie",
+        "\u2581alimentazione",
+        "\u2581honneur",
+        "\u2581espace"
+    ],
+    "positive_strings": [
+        "\u2581few",
+        "\u2581lot",
+        "OGND",
+        "\u2581very",
+        "\u2581variety",
+        "\u2581handful",
+        "\u2581couple",
+        "\u2581multitude",
+        "\u2581certain",
+        "\u2581dozen"
+    ],
+    "description": " occurrences of the article \"a\" in various contexts"
+}

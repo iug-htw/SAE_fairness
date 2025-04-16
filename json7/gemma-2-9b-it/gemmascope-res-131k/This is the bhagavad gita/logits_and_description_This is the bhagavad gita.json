@@ -1,0 +1,392 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "129976",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_129976.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "LabelTagHelper",
+            "verwijspagina",
+            "\u2581initComponents",
+            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+            "\u2581IBOutlet",
+            "\u2581Administrativna",
+            "PERTIES",
+            "\u2581onderhoud",
+            "IBOutlet"
+        ],
+        "positive_strings": [
+            "habhar",
+            "\u2581Arjuna",
+            "PMailer",
+            "\u2581Mahabhar",
+            "\u2581Meksiku",
+            "Adverse",
+            "iastes",
+            "\u2581hindu",
+            "\u2581prot\u00e9ines",
+            "\u2581gouvernements"
+        ],
+        "description": "spiritual and religious concepts related to Hindu practices and deities"
+    },
+    {
+        "index": "88716",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_88716.json",
+        "negative_strings": [
+            "webElementGuid",
+            "\u2581regra",
+            "\u2581regole",
+            "\u2581Reglas",
+            "ilaian",
+            "\u2581reglas",
+            "\u2581serez",
+            "\u2581hayal",
+            "\u2581gruesa",
+            "pompa"
+        ],
+        "positive_strings": [
+            "\u2581Gita",
+            "\u2581Bhag",
+            "loroethene",
+            "\u2581Arjuna",
+            "gwick",
+            "\u2581EClass",
+            "Tikang",
+            "\u2581gita",
+            "\u2581'\\\\;'",
+            "SequentialGroup"
+        ],
+        "description": " references to popular culture and religious texts"
+    },
+    {
+        "index": "20298",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_20298.json",
+        "negative_strings": [
+            "\u2581Absicht",
+            "\u2581hieronder",
+            "\u2581vuitton",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581Unterscheidung",
+            "\u2581t\u00e4ss\u00e4",
+            "habitude",
+            "besondere",
+            "\u2581Kreise",
+            "above"
+        ],
+        "positive_strings": [
+            "\u2581final",
+            "\u2581official",
+            "\u2581beginning",
+            "unknownFields",
+            "\u2581initial",
+            "official",
+            "ArgumentParser",
+            "\u2581storyboard",
+            "GIVEREF",
+            "\u2581README"
+        ],
+        "description": "repeated uses of the word \"the\" and possessive pronouns"
+    },
+    {
+        "index": "127746",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_127746.json",
+        "negative_strings": [
+            "AnchorStyles",
+            "OGND",
+            "toggler",
+            "\u2581MainAxisSize",
+            "\u2581estekak",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "\u230b",
+            "\u2581OnInit",
+            "Koordinaten",
+            "lesias"
+        ],
+        "positive_strings": [
+            "\u2581Bag",
+            "\u2581bag",
+            "\u2581BAG",
+            "Bag",
+            "\u2581bags",
+            "\u2581Bags",
+            "Bags",
+            "bag",
+            "BAG",
+            "bags"
+        ],
+        "description": " references to types of bags and related terms"
+    },
+    {
+        "index": "45871",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_45871.json",
+        "negative_strings": [
+            "ViewImports",
+            "\ufeff<?",
+            "Personensuche",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\ue315",
+            "\u2581BrowserModule",
+            "KELEY",
+            "\u2581ControllerBase",
+            "stateProvider",
+            "\u2581ind\u00edgen"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "kijken",
+            "rawa",
+            "FailureListener",
+            "ciptakan",
+            "bh",
+            "hende",
+            "mahami",
+            "omitempty",
+            "Bha"
+        ],
+        "description": "names and references related to individuals, possibly in an academic or scholarly context"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "86097",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_86097.json",
+        "negative_strings": [
+            "Autoritn\u00ed",
+            "UrlResolution",
+            "\u2581GALER\u00cdA",
+            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+            "queryInterface",
+            "MarshalTo",
+            "\u21b9",
+            "hoedd",
+            "\u2581anunciou",
+            "\u041f\u043e\u0440\u0442\u0430\u043b\u0438"
+        ],
+        "positive_strings": [
+            "ToAction",
+            "\u2581Livro",
+            "\u2581Book",
+            "cshtml",
+            "\u2581compl\u00e8tes",
+            "\u2581m\u00e5l",
+            "Book",
+            "Livro",
+            "Libro",
+            "\u2581Laws"
+        ],
+        "description": "terms and references related to written works and their authors, particularly in historical or literary contexts"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "93482",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the bhagavad gita\\data_for_feature_93482.json",
+        "negative_strings": [
+            "queles",
+            "is",
+            "le",
+            "es",
+            "\u0922\u093c",
+            "manera",
+            "\u2581ins",
+            "ele",
+            "\u2581\u00e9nerg\u00e9",
+            "\u2581tempes"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581bVar",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getB",
+            "StoryboardSegue",
+            "RTCK",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "delwed",
+            "\u2581zu\u017fammen",
+            "\u2581kaarangay"
+        ],
+        "description": "binary data representations"
+    }
+]

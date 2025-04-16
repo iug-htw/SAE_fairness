@@ -1,0 +1,30 @@
+{
+    "index": "5496",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-att-16k\\This is a bar mitzvah\\data_for_feature_5496.json",
+    "negative_strings": [
+        "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+        "taf",
+        "bad",
+        "\u2581matter",
+        "alace",
+        "\u2581Bad",
+        "\u2581Jann",
+        "ental",
+        "\u2581duraci\u00f3n",
+        "\u2581Bunch"
+    ],
+    "positive_strings": [
+        "\u2581protoimpl",
+        "sidemargin",
+        "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+        "\u2581himo",
+        "ChildScrollView",
+        "\u2581CreateTagHelper",
+        "enderror",
+        "Tikang",
+        "\u2581BrowserModule",
+        "+#+"
+    ],
+    "description": " attends to tokens that include \"Bar\" from subsequent tokens that include \"bee\""
+}

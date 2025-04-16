@@ -1,0 +1,542 @@
+[
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "4034",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_4034.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\uafe8",
+            "\ub01d",
+            "writeField",
+            "UserScript",
+            "ModelForm",
+            "\ub010",
+            "\u2581resourceCulture",
+            "writeFieldEnd"
+        ],
+        "positive_strings": [
+            "stool",
+            "nyard",
+            "racuda",
+            "\u2581None",
+            "Tender",
+            "\u2581mitz",
+            "ometric",
+            "bitur",
+            "\u2581none",
+            "None"
+        ],
+        "description": " references to the term \"Bar\" and its variations"
+    },
+    {
+        "index": "8206",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_8206.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "writeField",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "UserScript",
+            "\u0411\u0430\u0445\u0430\u0440",
+            "\ue315"
+        ],
+        "positive_strings": [
+            "stool",
+            "nyard",
+            "racuda",
+            "codes",
+            "\u2581mitz",
+            "room",
+            "\u2581none",
+            "coded",
+            "\u2581None",
+            "setupUi"
+        ],
+        "description": "occurrences of the word 'Bar' and its variations in different contexts"
+    },
+    {
+        "index": "12476",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_12476.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "writeField",
+            "UserScript",
+            "ModelForm",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "\u2581resourceCulture"
+        ],
+        "positive_strings": [
+            "stool",
+            "nyard",
+            "\u2581None",
+            "racuda",
+            "\u2581mitz",
+            "\u2581none",
+            "bitur",
+            "\u2581snippetHide",
+            "None",
+            "room"
+        ],
+        "description": "references to the word \"bar\" in various contexts"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "9242",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_9242.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "writeField",
+            "xue",
+            "\u27ec",
+            "\ub00c",
+            "ydd"
+        ],
+        "positive_strings": [
+            "\u00af\u00af",
+            "nyard",
+            "setupUi",
+            "stool",
+            "Autoritn\u00ed",
+            "\u2581BAR",
+            "racuda",
+            "\u2581mitz",
+            "\u2581None",
+            "\u2581none"
+        ],
+        "description": "references to the term \"Bar\" in various contexts"
+    },
+    {
+        "index": "13696",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_13696.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "writeField",
+            "\ue315",
+            "xue",
+            "\uafd4"
+        ],
+        "positive_strings": [
+            "setupUi",
+            "\u2581BAR",
+            "\u00af\u00af",
+            "BAR",
+            "stool",
+            "nyard",
+            "\u2581Bar",
+            "room",
+            "\u2581snippetHide",
+            "\u2581bar"
+        ],
+        "description": "references to specific types of bars, particularly related to names and locations"
+    },
+    {
+        "index": "13893",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_13893.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "\ub00c",
+            "XmlType",
+            "ydd",
+            "xue",
+            "\uafd4"
+        ],
+        "positive_strings": [
+            "\u2581BAR",
+            "Bar",
+            "\u2581Bar",
+            "Autoritn\u00ed",
+            "BAR",
+            "\u00af\u00af",
+            "IBar",
+            "\u2581snippetHide",
+            "UrlResolution",
+            "\u2581bar"
+        ],
+        "description": "words and phrases related to the concept of \"bar.\""
+    },
+    {
+        "index": "11690",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a bar mitzvah\\data_for_feature_11690.json",
+        "negative_strings": [
+            "\ub01c",
+            "\ub014",
+            "\ub01d",
+            "\uafe8",
+            "\ub010",
+            "\ub00c",
+            "xue",
+            "ydd",
+            "\u2581Aussi",
+            "provo"
+        ],
+        "positive_strings": [
+            "\u2581BAR",
+            "\u2581Bar",
+            "Autoritn\u00ed",
+            "Bar",
+            "\u2581snippetHide",
+            "IBar",
+            "BAR",
+            "UrlResolution",
+            "\u00af\u00af",
+            "\u2581bar"
+        ],
+        "description": "terms and phrases related to the Bar-deen concept and its derivatives in various contexts"
+    }
+]

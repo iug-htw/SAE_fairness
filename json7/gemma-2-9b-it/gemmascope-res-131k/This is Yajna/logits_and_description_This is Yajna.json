@@ -1,0 +1,452 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "27540",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_27540.json",
+        "negative_strings": [
+            "\u2581recevez",
+            "clusal",
+            "\u2581rispet",
+            "\u2581invitado",
+            "\u2581l\u00e9gal",
+            "celona",
+            "\u2581mandatario",
+            "\u2581einge",
+            "\u2581iguales",
+            "\u2581PROPER"
+        ],
+        "positive_strings": [
+            "\u2581getY",
+            "\u2581Y",
+            "\u2581otomatig",
+            "getY",
+            "\u2581GenerationType",
+            "ScopeManager",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "bootstrapcdn",
+            "principalColumn",
+            "terday"
+        ],
+        "description": " occurrences of names and places, specifically those starting with the letter 'Y.'"
+    },
+    {
+        "index": "14166",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_14166.json",
+        "negative_strings": [
+            "\u2581otomatig",
+            "\u2581InputDecoration",
+            "WebElementEntity",
+            "SourceChecksum",
+            "\u0442\u0435\u0440\u0438\u0437\u0443",
+            "Principle",
+            "Potential",
+            "\u2581Functionality",
+            "\u2581sunshine",
+            "Princip"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "AndroidJUnit",
+            "\u2581AssemblyCulture",
+            "\u2581nakalista",
+            "\u2581BoxFit",
+            "contentLoaded",
+            "__(/*!",
+            "IntoConstraints",
+            "ngdoc",
+            "Erreferentziak"
+        ],
+        "description": " names and words associated with specific individuals or entities"
+    },
+    {
+        "index": "86017",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_86017.json",
+        "negative_strings": [
+            "\u2581aikaa",
+            "\u2581aufs",
+            "nation",
+            "Nation",
+            "minds",
+            "subsection",
+            "defn",
+            "czeg\u00f3",
+            "\u2581perfectly",
+            "\u2581Darauf"
+        ],
+        "positive_strings": [
+            "\u2581Y",
+            "\u2581getY",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "webElementXpaths",
+            "IUrlHelper",
+            "\u2581OFDb",
+            "\u2581NavController",
+            "\u2581cherch\u00e9s",
+            "MLLoader",
+            "\u2581kasarigan"
+        ],
+        "description": "references to individuals or entities denoted by the letter 'Y'"
+    },
+    {
+        "index": "37912",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_37912.json",
+        "negative_strings": [
+            "setupUi",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "Manbalar",
+            "\u2581creep",
+            "twimg",
+            "\u2581remarqu\u00e9",
+            "plo",
+            "Luther",
+            "Mix",
+            "tainment"
+        ],
+        "positive_strings": [
+            "OCCURRED",
+            "\u2581Jacoby",
+            "\u2581Ja",
+            "createCanvas",
+            "jaqueta",
+            "fortawesome",
+            "BASEPATH",
+            "astify",
+            "OrBuilder",
+            "Autoritn\u00ed"
+        ],
+        "description": "references to specific names or notable individuals"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "51273",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_51273.json",
+        "negative_strings": [
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "IntoConstraints",
+            "ValueGeneration",
+            "\u2581otomatig",
+            "MessageTagHelper",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "mergeFrom",
+            "setcounter",
+            "XtraReports",
+            "URLException"
+        ],
+        "positive_strings": [
+            "\u2581Kaj",
+            "Dj",
+            "gj",
+            "Lij",
+            "\u2581BJ",
+            "\u2581FJ",
+            "Haj",
+            "\u2581SJ",
+            "\u2581Kej",
+            "\u2581Kij"
+        ],
+        "description": "references to a specific character or entity named \"Kaj\" and its various forms"
+    },
+    {
+        "index": "92379",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_92379.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "i",
+            "DockStyle",
+            "PreferredItem",
+            "a",
+            "\u2581beina",
+            "\u0438",
+            "\u00f6ny",
+            "\u2581kasarigan",
+            "\u2581\u0627\u0644\u062d\u0631\u0647"
+        ],
+        "positive_strings": [
+            "\u044c\u0430\u0436",
+            "\u2581dAtA",
+            "PerformLayout",
+            "\u2581protoimpl",
+            "httphttps",
+            "\u5e16\u6700\u540e\u7531",
+            "ScopeManager",
+            "ImageContext",
+            "contentLoaded",
+            "\ue315"
+        ],
+        "description": "references to specific researchers or publications in the field of biology or microbiology"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "8543",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is Yajna\\data_for_feature_8543.json",
+        "negative_strings": [
+            "\u2581ge\u00efsole",
+            "\udb40\udc62",
+            "\u2581Genehmigung",
+            "\u2581ddelweddau",
+            "\u2581Bed\u00fcrfn",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "interopRequire",
+            "\u2581herido",
+            "Cyfeiriadau",
+            "Czytaj"
+        ],
+        "positive_strings": [
+            "\u2581Pok\u00e9mon",
+            "\u2581Binance",
+            "\u2581cryptocurrency",
+            "\u2581BMW",
+            "\u2581anime",
+            "\u2581Dogecoin",
+            "bibfield",
+            "\u2581WWE",
+            "\u2581Mercedes",
+            "\u04d4"
+        ],
+        "description": "specific symbols or letters, particularly those representing medical or scientific terminology"
+    }
+]

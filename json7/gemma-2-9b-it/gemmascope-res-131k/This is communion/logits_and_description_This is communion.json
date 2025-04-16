@@ -1,0 +1,452 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "87595",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_87595.json",
+        "negative_strings": [
+            "\u2581Jasa",
+            "\u2581Wasch",
+            "\u2581maternidade",
+            "\u2581Peker",
+            "ografija",
+            "\u2581citoy",
+            "\u2581kasarigan",
+            "\u2581Flucht",
+            "\u2581swamp",
+            "Ekster"
+        ],
+        "positive_strings": [
+            "\u2581Eucharist",
+            "\u2581bread",
+            "\u2581Bread",
+            "\u2581Communion",
+            "\u2581communion",
+            "\u2581Euchar",
+            "bread",
+            "\u2581sacrament",
+            "Bread",
+            "\u2581BREAD"
+        ],
+        "description": "references to religious sacraments and rituals"
+    },
+    {
+        "index": "99068",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_99068.json",
+        "negative_strings": [
+            "phazard",
+            "\u2581overboard",
+            "Concepto",
+            "\u2581Panjang",
+            "urale",
+            "Ikus",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "tryck",
+            "kops",
+            "queiro"
+        ],
+        "positive_strings": [
+            "\u2581Eucharist",
+            "AsUp",
+            "\u2581Euchar",
+            "TemporalType",
+            "\u2581Communion",
+            "reactstrap",
+            "\u2581communion",
+            "\u2581sacrament",
+            "ModelSerializer",
+            "aarrggbb"
+        ],
+        "description": "references to religious sacraments and rites"
+    },
+    {
+        "index": "70030",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_70030.json",
+        "negative_strings": [
+            "rungsseite",
+            "StoryboardSegue",
+            "mybatisplus",
+            "URLException",
+            "\u2581BoxDecoration",
+            "\u0627\u0631\u06cc\u062e",
+            "\u2581noDo",
+            "\ufe0f",
+            "\u5404\u6837\u7684",
+            "viewDidLoad"
+        ],
+        "positive_strings": [
+            "Commun",
+            "\u2581Commun",
+            "\u2581communes",
+            "\u2581comun",
+            "commun",
+            "\u2581commune",
+            "\u2581Comm",
+            "\u2581COMMUNIC",
+            "\u2581commun",
+            "\u2581Commune"
+        ],
+        "description": " words and phrases related to communism and communal concepts"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "89062",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_89062.json",
+        "negative_strings": [
+            "\u2581BoxDecoration",
+            "\u2581MainAxisSize",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "ValueStyle",
+            "IGraphics",
+            "\u2581Wikimedijinoj",
+            "etheless",
+            "bootstrapcdn",
+            "blick",
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448"
+        ],
+        "positive_strings": [
+            "ynb",
+            "Tikang",
+            "\u2581Com",
+            "\u0631\u0634\u0641",
+            "\u2581COM",
+            "\u0936\u094d\u0928",
+            "\\:",
+            "FirstResponder",
+            "\u2581Normdatei",
+            "windowFixed"
+        ],
+        "description": " references to companies or corporate entities"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "15515",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_15515.json",
+        "negative_strings": [
+            "\u2581disambiguazione",
+            "\u66d6\u6627\u3055\u56de\u907f",
+            "\u2581ModelExpression",
+            "\u2581\"..\\..\\..\\",
+            "MemoryWarning",
+            "ikbaar",
+            "ulipas",
+            "\u0f91",
+            "\u0411\u0430\u0445\u0430\u0440",
+            "\u0e2c"
+        ],
+        "positive_strings": [
+            "stateProvider",
+            "prom",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "\u2581kaarangay",
+            "Prom",
+            "HomeAsUpEnabled",
+            "\u2581FetchType",
+            "Datuak",
+            "prompt",
+            "\u2581Prom"
+        ],
+        "description": "references to religious sacraments and notable personal achievements in sports"
+    },
+    {
+        "index": "64092",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_64092.json",
+        "negative_strings": [
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
+        ],
+        "description": "questions beginning with \"What\" or \"How.\""
+    },
+    {
+        "index": "54465",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is communion\\data_for_feature_54465.json",
+        "negative_strings": [
+            "setVerticalGroup",
+            "ever",
+            "fromnode",
+            "\u2581Keuangan",
+            "Baz",
+            "baz",
+            "ISTRY",
+            "eader",
+            "fiant",
+            "teady"
+        ],
+        "positive_strings": [
+            "\u2581communications",
+            "\u2581Communication",
+            "Communication",
+            "\u2581communication",
+            "\u2581Communications",
+            "communications",
+            "Communications",
+            "communication",
+            "\u2581Communic",
+            "\u2581communic"
+        ],
+        "description": "terms related to communication systems"
+    }
+]

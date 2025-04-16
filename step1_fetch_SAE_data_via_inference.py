@@ -207,7 +207,7 @@ def save_queries(queries, filename='queries5.json'):
     with open(filename, 'w') as file:
         json.dump(queries, file, indent=4)
 
-def search_latent_features_by_model(query, model, source_set): 
+def search_latent_features_by_model(query, model, source_set, base_dir='json5'): 
     # https://www.neuronpedia.org/api-doc#tag/search
     url = "https://www.neuronpedia.org/api/search-all"
 
@@ -228,11 +228,11 @@ def search_latent_features_by_model(query, model, source_set):
     #print("Response Data:", response_data)
     
     # Create 'json' folder if it doesn't exist
-    if not os.path.exists('json5/' + model + '/' + source_set + '/'+ query):
-        os.makedirs('json5/' + model + '/'+ source_set + '/' + query)  
+    if not os.path.exists(base_dir + '/' + model + '/' + source_set + '/'+ query):
+        os.makedirs(base_dir + '/' + model + '/'+ source_set + '/' + query)  
     
     # Save the JSON response to a file in the 'json' folder
-    filename = 'json5/' + model + '/'+ source_set + '/' + query + '/explanation_for_query_' + query + '.json'
+    filename = base_dir + '/' + model + '/'+ source_set + '/' + query + '/explanation_for_query_' + query + '.json'
     with open(filename, 'w') as json_file:
         json.dump(response_data, json_file, indent=4)
     
@@ -247,7 +247,7 @@ def search_latent_features_by_model(query, model, source_set):
     
     return features
 
-def search_explanations_by_feature(feature,query):
+def search_explanations_by_feature(feature, query, base_dir='json5'):
     #get Feature aus API https://www.neuronpedia.org/api-doc#tag/features/GET/api/feature/{modelId}/{layer}/{index}
     #Featurenummer muss in URL stehen
     model, source_set, layer, index = feature
@@ -258,28 +258,33 @@ def search_explanations_by_feature(feature,query):
     
     # Save the JSON response to a file in the 'json' folder
     json_data = response.json()
-    filename = 'json5/'+model+'/'+ source_set + '/'+query+'/data_for_feature_' + str(index) + '.json'
+    filename = base_dir + '/'+ model + '/' + source_set + '/' +query+ '/data_for_feature_' + str(index) + '.json'
     with open(filename, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
     print(f"Data saved to {filename}")
     #print(response.json())
 
 
+def fetch_SAE_data_via_inference(model_source_sets, queries, base_dir='json5'):
+    # Main execution
+    for model, source_set in model_source_sets:
+        for query in queries:
+            print(f"Processing query '{query}' for model '{model}' with source set '{source_set}'")
+            features = search_latent_features_by_model(query, model, source_set, base_dir)  # Search explanations by model
+            #print("Features found: ", features)  # Print the features found
+            if features:
+                for feature in features:
+                    print("Feature: ", feature)
+                    search_explanations_by_feature(feature, query, base_dir)
+            else:
+                print("Feature IDs not found in the response.")
 
-# Main execution
-for model, source_set in model_source_sets:
-    for query in queries:
-        print(f"Processing query '{query}' for model '{model}' with source set '{source_set}'")
-        features = search_latent_features_by_model(query, model, source_set)  # Search explanations by model
-        #print("Features found: ", features)  # Print the features found
-        if features:
-            for feature in features:
-                print("Feature: ", feature)
-                search_explanations_by_feature(feature, query)
-        else:
-            print("Feature IDs not found in the response.")
+    # Save the updated list of all queries
+    # existing_queries = load_existing_queries()
+    # all_queries = list(set(existing_queries + queries))  # Combine and remove duplicates
+    # save_queries(all_queries)
 
-# Save the updated list of all queries
-existing_queries = load_existing_queries()
-all_queries = list(set(existing_queries + queries))  # Combine and remove duplicates
-save_queries(all_queries)
+
+if __name__ == "__main__":
+    fetch_SAE_data_via_inference(model_source_sets, queries)
+    print("Data fetching completed.")

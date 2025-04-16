@@ -1,0 +1,452 @@
+[
+    {
+        "index": "2138",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "6301",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_6301.json",
+        "negative_strings": [
+            "DockStyle",
+            "\u2581TextInputType",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\u2581BorderRadius",
+            "queryInterface",
+            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+            "\u2581ContentValues",
+            "\u2581Marrow",
+            "DataAnnotations",
+            "\u2581AssemblyCulture"
+        ],
+        "positive_strings": [
+            "\u2581trip",
+            "\u2581Trip",
+            "\u2581trips",
+            "Trip",
+            "trip",
+            "\u2581Trips",
+            "\u2581Journey",
+            "\u2581TRIP",
+            "\u2581through",
+            "\u2581journey"
+        ],
+        "description": "references to trips and journeys"
+    },
+    {
+        "index": "674",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_674.json",
+        "negative_strings": [
+            "\u2581FetchType",
+            "twimg",
+            "MenuInflater",
+            "\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430",
+            "endcsname",
+            "\u2581Generales",
+            "HomeAsUpEnabled",
+            "medriver",
+            "\u2581Commencez",
+            "Tikang"
+        ],
+        "positive_strings": [
+            "\u2581Tri",
+            "Tri",
+            "\u2581tri",
+            "tri",
+            "setVerticalGroup",
+            "\u2581\u30c8\u30ea",
+            "\u2581Trib",
+            "\u2581Trig",
+            "Trick",
+            "\u2581Tripod"
+        ],
+        "description": "references to the prefix \"Tri\" in various contexts"
+    },
+    {
+        "index": "1084",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_1084.json",
+        "negative_strings": [
+            "\u0645\u0639\u0644\u0648\u0645\u0627\u062a",
+            "wie\u015b",
+            "RegressionTest",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "\u2581'\\\\;'",
+            "pectives",
+            "Kariera",
+            "enschappen",
+            "\u2581notions"
+        ],
+        "positive_strings": [
+            "\u2581epitome",
+            "\u2581only",
+            "\u2581culmination",
+            "\u2581ultimate",
+            "\u2581easiest",
+            "\u2581least",
+            "\u2581antithesis",
+            "\u2581embodiment",
+            "\u2581furthest",
+            "\u2581einzige"
+        ],
+        "description": "phrases that emphasize the significance or superiority of particular concepts or entities"
+    },
+    {
+        "index": "15935",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_15935.json",
+        "negative_strings": [
+            "]\")]",
+            "setVerticalGroup",
+            "MessageTagHelper",
+            "\u041a\u043b\u0438\u043c\u0430\u0442\u044b",
+            "JspWriter",
+            "\u2581nahilalakip",
+            "FileDescriptor",
+            "pushFollow",
+            "\u2581AssemblyTitle",
+            "numerusform"
+        ],
+        "positive_strings": [
+            "\u2581Buddhist",
+            "\u2581Buddha",
+            "\u2581Buddhism",
+            "Buddha",
+            "\u2581Buddhists",
+            "Bud",
+            "\u2581buddha",
+            "\u2581Budd",
+            "\u2581monks",
+            "\u2581monk"
+        ],
+        "description": " references to Buddhism and related concepts of enlightenment"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "15011",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_15011.json",
+        "negative_strings": [
+            "\u2581nonUne",
+            "\u2581gyhoeddwyd",
+            "ERVER",
+            "\u2581Ganzen",
+            "bkz",
+            "\u2581ar\u015fivlendi",
+            "ReusableCell",
+            "leme",
+            "\u2581\u043f\u043e\u0432\u0435",
+            "\u2581steder"
+        ],
+        "positive_strings": [
+            "ted",
+            "\u2581zit",
+            "Lit",
+            "Bit",
+            "ting",
+            "Rit",
+            "zerland",
+            "\u2581\u041b\u0438\u0442",
+            "Wit",
+            "rition"
+        ],
+        "description": "terms related to pharmaceuticals or drug interactions"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "16303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_16303.json",
+        "negative_strings": [
+            "\u0440\u0430\u0437\u0434\u043e",
+            "ChildScrollView",
+            "llac",
+            "UBLE",
+            "AMS",
+            "aR",
+            "lehre",
+            "hpur",
+            "DBC",
+            "SFD"
+        ],
+        "positive_strings": [
+            "aarrggbb",
+            "\u2581Pi",
+            "\u2581\u041f\u0438",
+            "\u2581\u30d4",
+            "\u2581\u043f\u0438",
+            "\u2581Piz",
+            "Pim",
+            "Pi",
+            "\u2581Piper",
+            "\u2581PIT"
+        ],
+        "description": "mentions of the word \"Pi\" and its variations in different contexts"
+    },
+    {
+        "index": "9593",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_9593.json",
+        "negative_strings": [
+            "\u2581P\u00fablicas",
+            "\u2581inal\u00e1mb",
+            "\u2581femininos",
+            "\u2581cora\u00e7\u00f5es",
+            "\u2581agujas",
+            "\u2581femenina",
+            "\u2581hueso",
+            "ate\u013e",
+            "\u2581P\u00fablica",
+            "\u2581g\u00e9n\u00e9raux"
+        ],
+        "positive_strings": [
+            "\u2581trip",
+            "trip",
+            "\u2581trips",
+            "Trip",
+            "\u2581Trip",
+            "\u2581Trips",
+            "trips",
+            "\u2581TRIP",
+            "Trips",
+            "TRIP"
+        ],
+        "description": "references to various types of trips and travel experiences"
+    },
+    {
+        "index": "3269",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is the tripitaka\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "32402",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a pope\\data_for_feature_32402.json",
+    "negative_strings": [
+        "WriteAttribute",
+        "\u2581Waray",
+        "\u2581flan",
+        "\u2581ModelExpression",
+        "esModule",
+        "PACKET",
+        "\u8425",
+        "\u7c3f",
+        "queryInterface",
+        "\u2581InputDecoration"
+    ],
+    "positive_strings": [
+        "\u2581Pope",
+        "Pope",
+        "\u2581pope",
+        "\u2581Vatican",
+        "\u2581papal",
+        "pope",
+        "\u2581Papst",
+        "\u2581Papal",
+        "\u2581pap",
+        "\u2581Vaticano"
+    ],
+    "description": "references to popes and their actions or affiliations"
+}

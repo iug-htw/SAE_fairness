@@ -1,0 +1,422 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "88481",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_88481.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "\u2581Sammy",
+            "\udb40\udc74",
+            "dchen",
+            "ordonn\u00e9es",
+            "\u2581aast",
+            "icz",
+            "obenzene",
+            "\u2581Lampung",
+            "ffmpeg"
+        ],
+        "positive_strings": [
+            "Hol",
+            "\u2581hol",
+            "\u2581Hol",
+            "hol",
+            "\u2581HOL",
+            "\u2581surla",
+            "\u2581Paglinawan",
+            "\u2581Holistic",
+            "\u2581defaultstate",
+            "\ue315"
+        ],
+        "description": "references to the name \"Hol\" or its variations within the text"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "97760",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_97760.json",
+        "negative_strings": [
+            "\u0445\u044c\u0442\u0430\u043d",
+            "TypedDataSet",
+            "FormTagHelper",
+            "\u2581newBuilder",
+            "GOTREF",
+            "WriteLiteral",
+            "\u2581StatelessWidget",
+            "\u2581estekak",
+            "Enllaces",
+            "elemField"
+        ],
+        "positive_strings": [
+            "\u2581celebration",
+            "\u2581celebrations",
+            "\u2581festivities",
+            "celebr",
+            "\u2581festival",
+            "\u2581Eve",
+            "\u2581celebraci\u00f3n",
+            "Celebration",
+            "\u2581celebra",
+            "\u2581c\u00e9l\u00e9br"
+        ],
+        "description": "references to various holidays and celebrations"
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "16714",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_16714.json",
+        "negative_strings": [
+            "verwijspagina",
+            "\u2581Strecken",
+            "prefixer",
+            "\u2581distancias",
+            "\u2581\u00e9tions",
+            "\u2581d\u00f6nem",
+            "\ub01c",
+            "\u2581ederim",
+            "\u2581ferdig",
+            "\u2581normalidad"
+        ],
+        "positive_strings": [
+            "Holy",
+            "\u2581Holy",
+            "\u2581moly",
+            "\u2581shit",
+            "\u2581HOLY",
+            "HOLY",
+            "\u2581grail",
+            "\u2581holy",
+            "holy",
+            "ka\u016d"
+        ],
+        "description": "references to the term \"Holy,\" indicating a focus on religious or sacred contexts"
+    },
+    {
+        "index": "34503",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_34503.json",
+        "negative_strings": [
+            "springframework",
+            "\u2581utom",
+            "\u2581DEC",
+            "\u2581highly",
+            "\u2581random",
+            "onload",
+            "thebibliography",
+            "\u2581l\u00e0nh",
+            "\u2581Dec",
+            "\u0441\u0442"
+        ],
+        "positive_strings": [
+            "\u2581doInBackground",
+            "extAlignment",
+            "WriteTagHelper",
+            "styleType",
+            "AddTagHelper",
+            "ACHUSET",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "\u2581Reli",
+            "lli",
+            "colnshire"
+        ],
+        "description": " names and terms related to people and places"
+    },
+    {
+        "index": "40005",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_40005.json",
+        "negative_strings": [
+            "nya",
+            "ness",
+            "\u05dd",
+            "\u0646",
+            "\u0e19",
+            "\u0646\u0627",
+            "\u10e1",
+            "cation",
+            "ts",
+            "nat"
+        ],
+        "positive_strings": [
+            "\uae50",
+            "iiii",
+            "Gabi",
+            "uci",
+            "\u06cc",
+            "hdi",
+            "ppi",
+            "Miri",
+            "Di",
+            "rici"
+        ],
+        "description": " names of plants or specific biological classifications"
+    },
+    {
+        "index": "64092",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is holi\\data_for_feature_64092.json",
+        "negative_strings": [
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
+        ],
+        "description": "questions beginning with \"What\" or \"How.\""
+    }
+]

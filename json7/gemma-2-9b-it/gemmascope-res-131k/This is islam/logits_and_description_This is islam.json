@@ -1,0 +1,392 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "66335",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_66335.json",
+        "negative_strings": [
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "\u2581ComVisible",
+            "strophic",
+            "\u279f",
+            "\u2581po\u010det",
+            "\u2581consigo",
+            "Conte\u00fado",
+            "\u2581pieni",
+            "eroy",
+            "\u8e87"
+        ],
+        "positive_strings": [
+            "Islam",
+            "ization",
+            "\u2581Islam",
+            "TagMode",
+            "ophobia",
+            "\u2581Isla",
+            "\u2581ISLAM",
+            "\u2581islam",
+            "\u2581Utf",
+            "matchCondition"
+        ],
+        "description": " references and discussions surrounding Islam and its interpretations"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "101302",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_101302.json",
+        "negative_strings": [
+            "rungsseite",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "RunWith",
+            "\u2581Meldung",
+            "columnHeader",
+            "rophore",
+            "\u2581consigo",
+            "barrow",
+            "Barry",
+            "\u5c53"
+        ],
+        "positive_strings": [
+            "\u2581Islam",
+            "Islam",
+            "\u2581islam",
+            "\u2581Islamic",
+            "\u2581ISLAM",
+            "islam",
+            "lamic",
+            "Islamic",
+            "\u2581Islamist",
+            "\u2581islamic"
+        ],
+        "description": "mentions of Islam and related terms"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "128665",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_128665.json",
+        "negative_strings": [
+            "expandindo",
+            "windowFixed",
+            "\u5c31\u6709",
+            "\u2581Dray",
+            "WorkItem",
+            "\u2581Welles",
+            "\u2581REX",
+            "Agent",
+            "\u2581Perci",
+            "ch\u1ecdn"
+        ],
+        "positive_strings": [
+            "\u2581Islam",
+            "Islam",
+            "\u2581islam",
+            "islam",
+            "\u2581ISLAM",
+            "\u2581Islamist",
+            "\u2581\u0627\u0633\u0644\u0627\u0645",
+            "ISLAM",
+            "\u2581Islamic",
+            "\u2581Isla"
+        ],
+        "description": "repeated mentions of the term \"Islam.\""
+    },
+    {
+        "index": "111322",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_111322.json",
+        "negative_strings": [
+            "\u2581noDo",
+            "Personensuche",
+            "expandindo",
+            "\u2581atmosf",
+            "\u00farate",
+            "\u2581habitu",
+            "\u2581Kessel",
+            "rawDesc",
+            "\u2581Antiqu",
+            "\u2581useNavigate"
+        ],
+        "positive_strings": [
+            "\u2581religion",
+            "religion",
+            "\u2581religions",
+            "\u2581religi\u00f3n",
+            "\u2581Religion",
+            "\u2581Christianity",
+            "\u2581Judaism",
+            "\u2581RELIGION",
+            "\u2581religione",
+            "Religion"
+        ],
+        "description": "statements and discussions about religious beliefs and their implications"
+    },
+    {
+        "index": "64092",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is islam\\data_for_feature_64092.json",
+        "negative_strings": [
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
+        ],
+        "description": "questions beginning with \"What\" or \"How.\""
+    }
+]

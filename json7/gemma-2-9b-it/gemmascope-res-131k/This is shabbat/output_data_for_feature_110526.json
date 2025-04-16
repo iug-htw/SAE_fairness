@@ -1,0 +1,30 @@
+{
+    "index": "110526",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is shabbat\\data_for_feature_110526.json",
+    "negative_strings": [
+        "\u2581Wikimedijinoj",
+        "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+        "INCIP",
+        "\u0159ed",
+        "IsMutable",
+        "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+        "arXiv",
+        "\u2581ba\u011flant\u0131lar",
+        "RTLI",
+        "adpleegd"
+    ],
+    "positive_strings": [
+        "\u2581Saturday",
+        "Saturday",
+        "\u2581weekend",
+        "\u2581Sunday",
+        "Sunday",
+        "\u2581saturday",
+        "weekend",
+        "\u2581Weekend",
+        "Weekend",
+        "saturday"
+    ],
+    "description": "references to scheduling and timing for events, particularly related to weekends"
+}

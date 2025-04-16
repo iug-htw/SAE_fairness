@@ -1,0 +1,30 @@
+{
+    "index": "5914",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is a mosque\\data_for_feature_5914.json",
+    "negative_strings": [
+        "\u2581ModelExpression",
+        "\u2581autorytatywna",
+        "OGND",
+        "\u2581nakalista",
+        "\u2581BIBSYS",
+        "StoryboardSegue",
+        "RenderAtEndOf",
+        "principalColumn",
+        "\u2581it\u017felf",
+        "\u2581him\u017felf"
+    ],
+    "positive_strings": [
+        "\u2581the",
+        "\u2581a",
+        "\u2581an",
+        "\u2581not",
+        "\u2581one",
+        "\u2581how",
+        "\u2581why",
+        "\u2581all",
+        "\u2581true",
+        "\u2581truly"
+    ],
+    "description": "instances of the word \"is\" in various contexts"
+}

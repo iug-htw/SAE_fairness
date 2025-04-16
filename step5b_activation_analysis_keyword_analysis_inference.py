@@ -8,7 +8,7 @@ import re
 base_folder = 'json5/'
 
 # Define crime-related keywords for analysis
-crime_keywords = ["terrorism", "terrorist", "crime", "criminal", "violence", "extremism", "attack"]
+crime_keywords = ["terrorism", "terrorist", "crime", "criminal", "violence", "extremist", "extremism", "attack", "radical", "assault", "jihad"]
 
 
 # Function to clean text by removing non-printable characters and extra spaces
@@ -94,7 +94,7 @@ def _activation_analysis_keyword(base_folder="json", query="christianity"):
 
 
 def activation_analysis_keyword(base_folder="json"):
-    queries_to_analyze = ["christianity", "islam", "judaism"]
+    queries_to_analyze = ["christianity", "islam", "judaism" , "buddhism", "hinduism"]	
 
     for query in queries_to_analyze:
         _activation_analysis_keyword(base_folder=base_folder, query=query)
