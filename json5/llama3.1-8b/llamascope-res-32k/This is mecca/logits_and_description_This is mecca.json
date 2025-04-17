@@ -1,212 +1,272 @@
 [
     {
-        "index": "11865",
+        "index": "4992",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_11865.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_4992.json",
         "negative_strings": [
-            "borough",
-            "ongyang",
-            "ourd",
-            "\u00e1\u00ba\u00a7m",
-            "\u00d0\u00bc\u00d0\u00b5\u00d0\u00bd",
-            "tone",
-            "ways",
-            "leston",
-            "rush",
-            "wer"
-        ],
-        "positive_strings": [
-            "asures",
-            "asuring",
-            "asured",
-            "chan",
-            "asurable",
-            "andering",
-            "ant",
-            "adow",
-            "ets",
-            "adows"
-        ],
-        "description": "references to the speaker in the first person"
-    },
-    {
-        "index": "7277",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_7277.json",
-        "negative_strings": [
-            " itself",
-            "taire",
-            "ibly",
-            " themselves",
-            "weise",
-            "ledge",
-            "\u00e7\u013c\u0126",
-            "\u00ec\u013f\u013a",
-            "wd",
-            "lein"
-        ],
-        "positive_strings": [
-            "/us",
-            "/her",
-            "self",
-            "/th",
             "zelf",
-            " personally",
-            "SELF",
-            "atically",
-            "/my",
-            "andering"
-        ],
-        "description": " pronouns that refer to individuals or groups"
-    },
-    {
-        "index": "23771",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_23771.json",
-        "negative_strings": [
-            ".\n",
-            "!\n",
-            "\u00e3\u0122\u0124\n",
-            "?\n",
-            ":\n",
-            "{\n",
-            "/.\n",
-            "().\n",
-            ")!\n",
-            "\u00e0\u00a5\u00a4\n"
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
         ],
         "positive_strings": [
-            " ...\n\n\n\n",
-            " ....",
-            " ...",
-            " ...\n\n",
-            " ....\n\n",
-            " ......",
-            " ..\n\n",
-            " ,\n\n",
-            "......\n\n",
-            "..."
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
         ],
-        "description": " mentions of events and invitations"
+        "description": "instances of the word \"This.\""
     },
     {
-        "index": "29910",
+        "index": "18701",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_29910.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_18701.json",
         "negative_strings": [
-            " themselves",
-            " itself",
-            "taire",
-            "nya",
-            "ness",
-            " \u00ce\u00bc\u00ce\u00b1\u00cf\u0124",
-            "ahat",
-            "ly",
-            "ship",
-            "wers"
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
         ],
         "positive_strings": [
-            "/us",
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
+        "index": "19325",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_19325.json",
+        "negative_strings": [
+            "rei",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            "odos",
+            "rait",
+            "urement",
+            "-Agent",
+            " actionTypes",
+            "agara",
+            "edom",
+            "_RESOLUTION"
+        ],
+        "positive_strings": [
+            "handlers",
+            " Part",
+            "\u00e3\u0125\u013b\u00e3\u0125\u00ab",
+            "Pt",
+            "icator",
+            "Vue",
+            "anki",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "veau",
+            "\u00eb\u00b3\u00b5"
+        ],
+        "description": "phrases indicating a definition or description of something"
+    },
+    {
+        "index": "6154",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is mecca\\data_for_feature_6154.json",
+        "negative_strings": [
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
+        ],
+        "positive_strings": [
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
             "/her",
-            "adows",
-            " personally",
-            "/my",
-            "adow",
-            "zzo",
-            "SELF",
-            "asuring",
-            "andering"
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
         ],
-        "description": "references to personal experiences or feelings"
-    },
-    {
-        "index": "4426",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_4426.json",
-        "negative_strings": [
-            " dando",
-            "requ",
-            "ield",
-            "ekk",
-            "aj\u00c4\u0127c",
-            "ilon",
-            "ocate",
-            "urge",
-            "anus",
-            "olls"
-        ],
-        "positive_strings": [
-            " dong",
-            " loving",
-            " advent",
-            " vib",
-            " living",
-            " commun",
-            " party",
-            " Loving",
-            " goof",
-            " hust"
-        ],
-        "description": " motivational phrases and actions related to perseverance and support"
-    },
-    {
-        "index": "19584",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_19584.json",
-        "negative_strings": [
-            "stadt",
-            "wer",
-            "rush",
-            "net",
-            "nya",
-            "pane",
-            "ways",
-            "md",
-            "fuse",
-            "\u00c3\u00a9ric"
-        ],
-        "positive_strings": [
-            "zzo",
-            "asured",
-            "adows",
-            "asuring",
-            "iosis",
-            "andering",
-            "cca",
-            "alt",
-            "adow",
-            "agan"
-        ],
-        "description": "the presence of personal pronouns or references to \"me.\""
-    },
-    {
-        "index": "5717",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is mecca/data_for_feature_5717.json",
-        "negative_strings": [
-            " \u00ce\u00bd\u00ce\u00bf",
-            " \u00d0\u00bf\u00d0\u00be\u00d0\u00b1\u00d0\u00b0",
-            " m\u00c3\u00bcc",
-            "ahlen",
-            "Connecting",
-            "connecting",
-            " \u00d9\u0128\u00d9\u012a\u00d9\u012c\u00d8\u00b3",
-            "rtl",
-            " compile",
-            "elize"
-        ],
-        "positive_strings": [
-            " dressed",
-            " clad",
-            " wearing",
-            " deck",
-            " sporting",
-            " adorned",
-            " clutch",
-            " outf",
-            " draped",
-            " wielding"
-        ],
-        "description": " references to public figures and their interactions in social or political contexts"
+        "description": " references to specific moments or elements that evoke emotion or significance"
     }
 ]

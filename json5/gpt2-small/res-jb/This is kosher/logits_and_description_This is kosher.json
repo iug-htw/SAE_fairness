@@ -1,8 +1,158 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
         "index": "21814",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_21814.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_21814.json",
         "negative_strings": [
             "resp",
             " Hurricanes",
@@ -30,9 +180,69 @@
         "description": "terms related to Jewish faith and practices"
     },
     {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
         "index": "6241",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_6241.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_6241.json",
         "negative_strings": [
             "ugal",
             "ienne",
@@ -60,9 +270,69 @@
         "description": "phrases related to political conflict and controversy, specifically related to Jewish communities and entities"
     },
     {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
         "index": "24487",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_24487.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_24487.json",
         "negative_strings": [
             "llo",
             "etus",
@@ -90,9 +360,99 @@
         "description": "legal and illegal actions or states"
     },
     {
+        "index": "2271",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_2271.json",
+        "negative_strings": [
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
+        ],
+        "positive_strings": [
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
+        ],
+        "description": "past tense verbs"
+    },
+    {
+        "index": "13798",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_13798.json",
+        "negative_strings": [
+            "ornia",
+            "Interstitial",
+            "ilaterally",
+            "emale",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "pheus",
+            " Moroc",
+            " horizont",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " tradem"
+        ],
+        "positive_strings": [
+            " Flavoring",
+            " Coverage",
+            " Mant",
+            " Psy",
+            "Interested",
+            " Mars",
+            "BILITIES",
+            " GOODMAN",
+            "ANS",
+            " Entered"
+        ],
+        "description": "words related to specific entities such as places, people, and organizations"
+    },
+    {
+        "index": "7731",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_7731.json",
+        "negative_strings": [
+            "*/",
+            "inventoryQuantity",
+            "Others",
+            "forts",
+            " PLUS",
+            "abal",
+            "&&",
+            " discounts",
+            "../",
+            "Cause"
+        ],
+        "positive_strings": [
+            " comprised",
+            " an",
+            " rated",
+            " pleased",
+            " a",
+            " another",
+            " composed",
+            " billed",
+            " located",
+            "ometric"
+        ],
+        "description": "phrases related to specific organizations or projects"
+    },
+    {
         "index": "3236",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_3236.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_3236.json",
         "negative_strings": [
             "rils",
             "ospels",
@@ -120,333 +480,93 @@
         "description": "terms related to technology and hacking"
     },
     {
-        "index": "185",
+        "index": "16348",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_185.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_16348.json",
         "negative_strings": [
-            " Slack",
-            " Hoover",
-            " Jackets",
-            "allo",
-            "BOOK",
-            "apple",
-            "\u00e3\u0123\u00a6",
-            " liner",
-            " Nora",
-            "ECH"
+            "adle",
+            "pots",
+            "masters",
+            "aments",
+            "\u00e3\u0124\u00b9\u00e3\u0125\u012a",
+            " Flores",
+            "\u00e3\u0125\u013a",
+            "aws",
+            "tones",
+            "pless"
         ],
         "positive_strings": [
-            "usalem",
-            " Municip",
-            " synagogue",
-            " Jerusalem",
-            " municipality",
-            "ites",
-            "aretz",
-            "anyahu",
-            " Pradesh",
-            "ite"
+            "information",
+            " Week",
+            " week",
+            " arrang",
+            " Month",
+            " trope",
+            "jri",
+            "Adds",
+            " latest",
+            "Information"
         ],
-        "description": "words related to political events and locations, specifically focusing on the recognition of Jerusalem"
+        "description": "introductory phrases indicating the beginning of an article or story"
     },
     {
-        "index": "13433",
+        "index": "5048",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_13433.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_5048.json",
         "negative_strings": [
-            "76561",
-            " unseen",
-            "dB",
-            "\u00e6\u00a9\u0141",
-            "INESS",
-            "External",
-            " Io",
-            "ograph",
-            " dB",
-            " Proced"
+            " headaches",
+            "CG",
+            " wiser",
+            " headache",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " traged",
+            " indign",
+            "Tokens",
+            "quez",
+            "ONSORED"
         ],
         "positive_strings": [
-            "ism",
-            " diets",
-            " cuisine",
-            "ohydrate",
-            " diet",
-            " burgers",
-            " curry",
-            " meals",
-            " las",
-            " chili"
-        ],
-        "description": "phrases related to veganism"
-    },
-    {
-        "index": "11500",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_11500.json",
-        "negative_strings": [
-            " Gutenberg",
-            " balloon",
-            " Prairie",
-            " Petro",
-            " Bundy",
-            " Patriot",
-            " turrets",
-            " Nex",
-            " Garrison",
-            " convol"
-        ],
-        "positive_strings": [
-            "inical",
-            "inic",
-            "inate",
-            "ogi",
-            "its",
-            "azor",
-            "iah",
-            "erences",
-            "inates",
-            "rief"
-        ],
-        "description": "names related to Jewish rabbis, such as \"rabbi\" and various specific rabbi names"
-    },
-    {
-        "index": "7015",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_7015.json",
-        "negative_strings": [
-            " finishes",
-            " backs",
-            " transpired",
-            " bids",
-            "ses",
-            " stint",
-            " sidelines",
-            " trips",
-            " launches",
-            " outings"
-        ],
-        "positive_strings": [
-            " !!",
-            "!!!!",
-            "!!!",
-            "!:",
-            "!!!!!",
-            " !",
-            "\u00e3\u0124\u00b4",
-            " Because",
-            "!!!!!!!!",
-            "!\","
-        ],
-        "description": "adjectives related to technology and cost, as well as verbs related to conversations or discussions"
-    },
-    {
-        "index": "10495",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_10495.json",
-        "negative_strings": [
-            "elaide",
-            "\u00c3\u00a3o",
-            "Brazil",
-            "UFC",
-            "wcsstore",
-            "ratom",
-            " Silva",
-            " pineapple",
-            "Corp",
-            "PLA"
-        ],
-        "positive_strings": [
-            " Rabbi",
-            " Judaism",
-            " rabbi",
-            " Jewish",
-            " synagogue",
-            " rabb",
-            " Jews",
-            "Jewish",
-            "Jews",
-            " Torah"
-        ],
-        "description": "mentions of religious conversions"
-    },
-    {
-        "index": "19110",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_19110.json",
-        "negative_strings": [
-            "odder",
-            "ueller",
-            "ertodd",
-            "ividual",
-            "perty",
-            "lease",
-            "abilities",
-            "olicy",
-            "vable",
-            "isconsin"
-        ],
-        "positive_strings": [
-            " immigrant",
-            " immigrants",
-            " ancestry",
-            " heritage",
-            "oslov",
-            " proverb",
-            " descent",
-            " cuisine",
-            "istani",
-            "apolis"
-        ],
-        "description": "names of nationalities or cultures"
-    },
-    {
-        "index": "22740",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_22740.json",
-        "negative_strings": [
-            "ault",
-            "ional",
-            "phrine",
-            "aldo",
-            "erences",
-            "ered",
-            " rods",
-            " charge",
-            "IBLE",
-            "eric"
-        ],
-        "positive_strings": [
-            "istani",
-            "regate",
-            "lar",
-            " Lumpur",
-            "patrick",
-            "avan",
-            "orea",
-            "lyak",
-            "lein",
-            "\u00a9\u00b6\u00e6\u00a5\u00b5"
-        ],
-        "description": "names of individuals or organizations related to current events"
-    },
-    {
-        "index": "602",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_602.json",
-        "negative_strings": [
-            " alike",
-            " Kappa",
-            " stars",
-            "atever",
-            " GPUs",
-            " looms",
-            " Shining",
-            " cakes",
-            " suits",
-            " Mexicans"
-        ],
-        "positive_strings": [
-            " Published",
+            " deprecated",
+            " Mahjong",
+            "ittens",
+            " archived",
+            "recated",
+            " \u00e2\u013f",
+            "official",
+            " Vegan",
             " sponsored",
-            "english",
-            "published",
-            "avascript",
-            " affiliate",
-            " POLITICO",
-            " satire",
-            "ython",
-            "recated"
+            " Tutorial"
         ],
-        "description": "texts related to article publication and reproduction"
+        "description": "short introductory phrases starting with \"This is\" or similar constructions signaling the beginning of an explanation or description"
     },
     {
-        "index": "14803",
+        "index": "10789",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_14803.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is kosher\\data_for_feature_10789.json",
         "negative_strings": [
-            "plin",
-            "psons",
-            "etter",
-            "bring",
-            "weeney",
-            "lag",
-            "owitz",
-            "romy",
-            "auga",
-            "reve"
+            " immersion",
+            " halfway",
+            " around",
+            " lay",
+            " afar",
+            " outside",
+            " within",
+            " therein",
+            " langu",
+            " laying"
         ],
         "positive_strings": [
-            " medicinal",
-            " edible",
-            " marijuana",
-            " cannabis",
-            "ificial",
-            " recre",
-            " herbs",
-            " cannibal",
-            "\u00e5\u00a7",
-            " ceramic"
+            "DragonMagazine",
+            "wcsstore",
+            "interstitial",
+            "catentry",
+            "\u0138\u013c",
+            "actionDate",
+            "plugins",
+            "URL",
+            " Flavoring",
+            "\"]=>"
         ],
-        "description": " terms related to healthcare and food"
-    },
-    {
-        "index": "19914",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_19914.json",
-        "negative_strings": [
-            "\u00e7\u012b\u012a",
-            "20439",
-            "arser",
-            "farious",
-            "lete",
-            "unes",
-            "aneers",
-            "hover",
-            "endants",
-            "ourn"
-        ],
-        "positive_strings": [
-            " territory",
-            " consolation",
-            " advice",
-            " stuff",
-            " considering",
-            " motivation",
-            " reasoning",
-            " news",
-            " logic",
-            " nonsense"
-        ],
-        "description": "adjectives that describe the quality or state of something"
-    },
-    {
-        "index": "14513",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is kosher/data_for_feature_14513.json",
-        "negative_strings": [
-            "adier",
-            " allotted",
-            " succeeding",
-            "mberg",
-            " conquered",
-            " contracted",
-            " prepared",
-            "ogie",
-            "gone",
-            " supposedly"
-        ],
-        "positive_strings": [
-            " environments",
-            "NESS",
-            ")?",
-            "\"?",
-            " subreddits",
-            " pleasures",
-            " lifestyle",
-            "!!!!",
-            " recipes",
-            " propositions"
-        ],
-        "description": "descriptive adjectives related to experiences or qualities"
+        "description": "Twitter handles, dates, and URLs"
     }
 ]

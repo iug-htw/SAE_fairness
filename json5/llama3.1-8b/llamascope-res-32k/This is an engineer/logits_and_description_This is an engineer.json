@@ -1,8 +1,308 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "2804",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_2804.json",
+        "negative_strings": [
+            " sufficient",
+            " ragaz",
+            "[n",
+            " similar",
+            "\u00ce\u00bb\u00ce\u00b5",
+            " vivastreet",
+            "sexual",
+            " rather",
+            "minated",
+            "/an"
+        ],
+        "positive_strings": [
+            " assortment",
+            "archy",
+            " array",
+            " abundance",
+            " entire",
+            " individual",
+            " attempt",
+            "null",
+            " important",
+            " initial"
+        ],
+        "description": " the article \"an\" in various contexts"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
+        "index": "19325",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_19325.json",
+        "negative_strings": [
+            "rei",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            "odos",
+            "rait",
+            "urement",
+            "-Agent",
+            " actionTypes",
+            "agara",
+            "edom",
+            "_RESOLUTION"
+        ],
+        "positive_strings": [
+            "handlers",
+            " Part",
+            "\u00e3\u0125\u013b\u00e3\u0125\u00ab",
+            "Pt",
+            "icator",
+            "Vue",
+            "anki",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "veau",
+            "\u00eb\u00b3\u00b5"
+        ],
+        "description": "phrases indicating a definition or description of something"
+    },
+    {
+        "index": "6154",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_6154.json",
+        "negative_strings": [
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
+        ],
+        "positive_strings": [
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
+            "/her",
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
+        ],
+        "description": " references to specific moments or elements that evoke emotion or significance"
+    },
+    {
         "index": "26996",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_26996.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_26996.json",
         "negative_strings": [
             " Engineer",
             " engineered",
@@ -30,303 +330,33 @@
         "description": "references to engineering and related disciplines"
     },
     {
-        "index": "22000",
+        "index": "24644",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_22000.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an engineer\\data_for_feature_24644.json",
         "negative_strings": [
-            " Engineer",
-            " engine",
-            " engineer",
-            " Engine",
-            " engineered",
-            "_engine",
-            "Engine",
-            " engines",
-            " engineering",
-            " Engineers"
+            "etten",
+            "ahren",
+            "ertools",
+            " Bam",
+            "errupted",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+            "icensed",
+            "acades",
+            " Gol",
+            "IDEO"
         ],
         "positive_strings": [
-            "ered",
-            "ERING",
-            "ering",
-            "\u00e5\u00b8\u00ab",
-            "\u00e5\u00b8\u012a",
-            "/sc",
-            "eer",
-            "ers",
-            "/arch",
-            "iro"
+            "ther",
+            "archy",
+            "iline",
+            "agrams",
+            "ointed",
+            "ach",
+            "vil",
+            "thers",
+            "null",
+            "ote"
         ],
-        "description": "terms and phrases related to engineering and technical disciplines"
-    },
-    {
-        "index": "24250",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_24250.json",
-        "negative_strings": [
-            "Engine",
-            " Engine",
-            " engine",
-            "_engine",
-            " engines",
-            " Engineering",
-            " engineered",
-            " ENGINE",
-            " Engineer",
-            " Engineers"
-        ],
-        "positive_strings": [
-            "ered",
-            "ERING",
-            "ering",
-            "/arch",
-            "/design",
-            " design",
-            "-design",
-            "/sc",
-            " marvel",
-            "eer"
-        ],
-        "description": "terms related to engineering and engineering-related professions"
-    },
-    {
-        "index": "31886",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_31886.json",
-        "negative_strings": [
-            "sik",
-            "izador",
-            "isateur",
-            "ibold",
-            "erli",
-            "piel",
-            " gratuits",
-            "bourg",
-            "ertz",
-            "oya"
-        ],
-        "positive_strings": [
-            "ship",
-            "hood",
-            "'s",
-            "ships",
-            "\u2019s",
-            " who",
-            "SHIP",
-            "esses",
-            " \u00e0\u00a4\u00ac\u00e0\u00a4\u00a8\u00e0\u00a4\u00a8",
-            "(ship"
-        ],
-        "description": "terms related to educational and professional roles"
-    },
-    {
-        "index": "11546",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_11546.json",
-        "negative_strings": [
-            "rahim",
-            "ication",
-            "GGLE",
-            "istence",
-            "deniz",
-            "anders",
-            " WINAPI",
-            "_codec",
-            "\u00d0\u013e\u00d0\u0140",
-            "ppy"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "\u00e5\u00b8\u00ab",
-            " feats",
-            "\u00e5\u00b8\u012a",
-            "eer",
-            "ERING",
-            "/arch",
-            "/design",
-            "/sc"
-        ],
-        "description": " terms related to engineering and engineering disciplines"
-    },
-    {
-        "index": "31433",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_31433.json",
-        "negative_strings": [
-            "ing",
-            "edata",
-            "izik",
-            "ISED",
-            "ed",
-            "lico",
-            "zelf",
-            "edir",
-            "cstdint",
-            "ellido"
-        ],
-        "positive_strings": [
-            "ings",
-            "\u00c2\u0143ing",
-            "ng",
-            "Ing",
-            "ig",
-            "ign",
-            " ing",
-            "ining",
-            "ning",
-            "INGS"
-        ],
-        "description": " keywords related to employment and skills training"
-    },
-    {
-        "index": "19341",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_19341.json",
-        "negative_strings": [
-            ".timing",
-            "amedi",
-            "\u00e5\u00ba\u0143",
-            " olmu\u00c5\u0141tur",
-            " /^\\",
-            "imizer",
-            "amarin",
-            " executor",
-            "\u00e3\u0125\u0140\u00e3\u0125\u00b3",
-            "\u00c3\u00a2y"
-        ],
-        "positive_strings": [
-            "ship",
-            "ships",
-            "(s",
-            " Spotlight",
-            " Profile",
-            "ial",
-            " Wanted",
-            "-at",
-            "-in",
-            "cies"
-        ],
-        "description": " titles and roles associated with leadership or authoritative positions"
-    },
-    {
-        "index": "24227",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_24227.json",
-        "negative_strings": [
-            "ERS",
-            "ers",
-            "orus",
-            "isateur",
-            "oya",
-            "arius",
-            "velte",
-            "rosso",
-            "izador",
-            "oris"
-        ],
-        "positive_strings": [
-            "ship",
-            "hood",
-            "SHIP",
-            "otle",
-            "(ship",
-            "stvo",
-            " \u00e0\u00a4\u00ac\u00e0\u00a4\u00a8\u00e0\u00a4\u00a8",
-            " Wanted",
-            "ships",
-            "dom"
-        ],
-        "description": "roles and titles related to professions and occupations"
-    },
-    {
-        "index": "11297",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_11297.json",
-        "negative_strings": [
-            "deniz",
-            "addin",
-            "agog",
-            "055",
-            "itions",
-            "istence",
-            "iker",
-            "roc",
-            "\u00c2\u0143i",
-            " ciz"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "/engine",
-            "/software",
-            "kl",
-            "OUNTER",
-            "\u00eb\u00b3\u00b5\u00ec\u00a7\u0122",
-            "neck",
-            "edly",
-            "\u00e5\u00b8\u00ab"
-        ],
-        "description": "terms related to engineering and its various applications"
-    },
-    {
-        "index": "7396",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_7396.json",
-        "negative_strings": [
-            "deniz",
-            "addin",
-            "agog",
-            "istence",
-            "adium",
-            " ciz",
-            "itions",
-            "GGLE",
-            "ties",
-            "anders"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "/engine",
-            "inne",
-            "neck",
-            " feats",
-            "urve",
-            "swer",
-            "inery",
-            "/arch"
-        ],
-        "description": "references to engineering-related topics"
-    },
-    {
-        "index": "12064",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an engineer/data_for_feature_12064.json",
-        "negative_strings": [
-            ".scalablytyped",
-            "islation",
-            " portions",
-            " Legislation",
-            " proceedings",
-            " iterations",
-            " putas",
-            " legislation",
-            " primaries",
-            " festivities"
-        ],
-        "positive_strings": [
-            " that",
-            "-related",
-            "-based",
-            " like",
-            "-like",
-            "-worthy",
-            " perspective",
-            "-specific",
-            "-driven",
-            "-centric"
-        ],
-        "description": "terms related to business acquisitions and financial dealings"
+        "description": " instances of the indefinite article \"an.\""
     }
 ]

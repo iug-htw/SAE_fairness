@@ -1,158 +1,68 @@
 [
     {
-        "index": "7141",
+        "index": "4992",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_7141.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_4992.json",
         "negative_strings": [
-            "_based",
-            "sdale",
-            " basically",
-            "pecific",
-            "SWG",
-            "Base",
-            "\u00e5\u0141\u00ba\u00e5\u013e\u00b0",
-            ";base",
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
             "specific",
-            " Specialists"
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
         ],
         "positive_strings": [
-            " ten",
-            " premise",
-            " tenants",
-            " principles",
-            " tenant",
-            " principle",
-            "-level",
-            " principals",
-            " necessities",
-            " concepts"
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
         ],
-        "description": "phrases related to fundamental concepts, basic principles, and essential knowledge"
+        "description": "instances of the word \"This.\""
     },
     {
-        "index": "17479",
+        "index": "18701",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_17479.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_18701.json",
         "negative_strings": [
-            "kw",
-            "ubern",
-            "ONO",
-            "emm",
-            "tings",
-            "webtoken",
-            "_framework",
-            "unk",
-            "\u00e3\u0125\u0129\u00e3\u0125\u00ab",
-            "ustin"
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
         ],
         "positive_strings": [
-            "mente",
-            "/basic",
-            "amentals",
-            "amental",
-            "ists",
-            "ially",
-            "/Instruction",
-            "ist",
-            "/original",
-            "/core"
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
         ],
-        "description": " concepts related to fundamental principles or core elements in various contexts"
-    },
-    {
-        "index": "10425",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_10425.json",
-        "negative_strings": [
-            " the",
-            "\u00eb\u0140\u0133",
-            "-addon",
-            "/from",
-            "-Identifier",
-            " its",
-            "thed",
-            "\u00e9\u00a7\u0127\u00e5\u00be\u0134\u00e6\u0143\u00a9",
-            "\tthe",
-            "-msg"
-        ],
-        "positive_strings": [
-            ",",
-            " but",
-            " and",
-            " yet",
-            "-but",
-            "-looking",
-            " albeit",
-            "-y",
-            "but",
-            "yet"
-        ],
-        "description": " attributes and qualities related to experiences and evaluations of various subjects or concepts"
-    },
-    {
-        "index": "30754",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_30754.json",
-        "negative_strings": [
-            "ONO",
-            "emm",
-            "\u00c3\u0142y",
-            "\u00e3\u0125\u0129\u00e3\u0125\u00ab",
-            "bie",
-            "\u00c3\u00b6tt",
-            "_relu",
-            "itude",
-            "\u00e1\u00bb\u0135n",
-            "_framework"
-        ],
-        "positive_strings": [
-            "mente",
-            "ists",
-            " flaw",
-            "ist",
-            "/ext",
-            " differences",
-            "/original",
-            "ism",
-            "\u00ec\u0142\u0123\u00ec\u013e\u00bc\u00eb\u00a1\u013e",
-            "aires"
-        ],
-        "description": " concepts and elements that are deemed essential or foundational in various contexts"
-    },
-    {
-        "index": "5742",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_5742.json",
-        "negative_strings": [
-            " fundamental",
-            " fundamentals",
-            " fondo",
-            " fundraiser",
-            "Fund",
-            " fundament",
-            " fund",
-            " Fundamental",
-            " Fund",
-            " fundraising"
-        ],
-        "positive_strings": [
-            "raise",
-            "amentals",
-            "raising",
-            "amental",
-            "-ra",
-            "raised",
-            "ament",
-            "ra",
-            "rais",
-            "ings"
-        ],
-        "description": "references to funding and financial resources"
+        "description": "sentences that contain the verb \"is.\""
     },
     {
         "index": "12648",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a fundamentalist/data_for_feature_12648.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_12648.json",
         "negative_strings": [
             "isty",
             "vale",
@@ -178,5 +88,215 @@
             "\u00b7"
         ],
         "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "28950",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
+        "index": "6415",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_6415.json",
+        "negative_strings": [
+            "\u00e3\u0125\u0125\u00e3\u0124\u00b0",
+            " Yue",
+            "adle",
+            "-modules",
+            "\\Carbon",
+            "\u00e6\u0140\u013e",
+            "oba",
+            "oeff",
+            "\\AppData",
+            "672"
+        ],
+        "positive_strings": [
+            " placeholder",
+            " playground",
+            "placeholder",
+            "orph",
+            "istar",
+            "yahoo",
+            "vero",
+            "oot",
+            " Contract",
+            " Formal"
+        ],
+        "description": "articles and the word \"this\" in various contexts"
+    },
+    {
+        "index": "7141",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a fundamentalist\\data_for_feature_7141.json",
+        "negative_strings": [
+            "_based",
+            "sdale",
+            " basically",
+            "pecific",
+            "SWG",
+            "Base",
+            "\u00e5\u0141\u00ba\u00e5\u013e\u00b0",
+            ";base",
+            "specific",
+            " Specialists"
+        ],
+        "positive_strings": [
+            " ten",
+            " premise",
+            " tenants",
+            " principles",
+            " tenant",
+            " principle",
+            "-level",
+            " principals",
+            " necessities",
+            " concepts"
+        ],
+        "description": "phrases related to fundamental concepts, basic principles, and essential knowledge"
     }
 ]

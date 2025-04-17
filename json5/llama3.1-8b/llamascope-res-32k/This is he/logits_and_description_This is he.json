@@ -1,8 +1,158 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
         "index": "13763",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_13763.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_13763.json",
         "negative_strings": [
             "ities",
             "ITIES",
@@ -30,9 +180,69 @@
         "description": " occurrences of the pronoun \"he.\""
     },
     {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
         "index": "19758",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_19758.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_19758.json",
         "negative_strings": [
             "sep",
             "omial",
@@ -60,9 +270,69 @@
         "description": " instances of the pronoun \"he.\""
     },
     {
+        "index": "19325",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_19325.json",
+        "negative_strings": [
+            "rei",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            "odos",
+            "rait",
+            "urement",
+            "-Agent",
+            " actionTypes",
+            "agara",
+            "edom",
+            "_RESOLUTION"
+        ],
+        "positive_strings": [
+            "handlers",
+            " Part",
+            "\u00e3\u0125\u013b\u00e3\u0125\u00ab",
+            "Pt",
+            "icator",
+            "Vue",
+            "anki",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "veau",
+            "\u00eb\u00b3\u00b5"
+        ],
+        "description": "phrases indicating a definition or description of something"
+    },
+    {
+        "index": "6154",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_6154.json",
+        "negative_strings": [
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
+        ],
+        "positive_strings": [
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
+            "/her",
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
+        ],
+        "description": " references to specific moments or elements that evoke emotion or significance"
+    },
+    {
         "index": "27863",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_27863.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is he\\data_for_feature_27863.json",
         "negative_strings": [
             "ande",
             "wa",
@@ -88,215 +358,5 @@
             "eler"
         ],
         "description": " the pronoun \"he\""
-    },
-    {
-        "index": "4997",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_4997.json",
-        "negative_strings": [
-            "weep",
-            "mag",
-            "omial",
-            "ners",
-            "ra",
-            "wares",
-            "ande",
-            "went",
-            "raf",
-            "wa"
-        ],
-        "positive_strings": [
-            "/she",
-            "idelberg",
-            "brew",
-            "eding",
-            "ights",
-            "inous",
-            "ath",
-            "athy",
-            "ated",
-            "addresses"
-        ],
-        "description": "the pronoun \"He\""
-    },
-    {
-        "index": "10576",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_10576.json",
-        "negative_strings": [
-            "omial",
-            "weep",
-            "sep",
-            "tran",
-            "onne",
-            "\u00e3\u0123\u00a3\u00e3\u0123\u00a8",
-            "wares",
-            "mag",
-            "yen",
-            "riel"
-        ],
-        "positive_strings": [
-            "brew",
-            "idelberg",
-            "/she",
-            "isman",
-            "inkel",
-            "ikki",
-            "ated",
-            "itor",
-            "uristic",
-            "bron"
-        ],
-        "description": "the pronoun \"He.\""
-    },
-    {
-        "index": "1487",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_1487.json",
-        "negative_strings": [
-            "ledge",
-            "ounce",
-            "wares",
-            "ount",
-            "ounced",
-            "weep",
-            "oned",
-            "OUS",
-            "omial",
-            "Enumeration"
-        ],
-        "positive_strings": [
-            "idelberg",
-            "aven",
-            "fty",
-            "inz",
-            "arty",
-            "ads",
-            "ather",
-            "aviest",
-            "avier",
-            "brew"
-        ],
-        "description": "the pronoun \"He\""
-    },
-    {
-        "index": "9320",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_9320.json",
-        "negative_strings": [
-            "liest",
-            "keley",
-            "lotte",
-            "amas",
-            "wa",
-            "nd",
-            "zcze",
-            "l\u00c3\u00a9d",
-            "otti",
-            "hammad"
-        ],
-        "positive_strings": [
-            "/she",
-            "ated",
-            "eled",
-            "alty",
-            "brew",
-            "inous",
-            "ating",
-            "eding",
-            "addresses",
-            "ART"
-        ],
-        "description": "pronouns, specifically variations of the word \"he.\""
-    },
-    {
-        "index": "4644",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_4644.json",
-        "negative_strings": [
-            "riel",
-            "ners",
-            "\u00e3\u0123\u00a3\u00e3\u0123\u00a8",
-            "wares",
-            "wright",
-            "went",
-            "ande",
-            "ies",
-            "\u00d0\u00bb\u00d0\u00b0\u00d1\u0123",
-            "ng"
-        ],
-        "positive_strings": [
-            "/she",
-            "brew",
-            "idelberg",
-            "ights",
-            "ath",
-            "athy",
-            "ated",
-            "ikki",
-            "addresses",
-            "aviest"
-        ],
-        "description": " references to the pronoun \"he\""
-    },
-    {
-        "index": "15268",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_15268.json",
-        "negative_strings": [
-            " herself",
-            "nof",
-            "'ve",
-            "ners",
-            "'m",
-            "MouseListener",
-            "'\u00c3\u00a9t",
-            "'d",
-            "ounced",
-            "'aff"
-        ],
-        "positive_strings": [
-            "arts",
-            "e",
-            "aven",
-            "aling",
-            "ard",
-            " who",
-            "brew",
-            "ee",
-            "ads",
-            "ading"
-        ],
-        "description": " references to a specific male character or subject, focusing on the frequency of mentions"
-    },
-    {
-        "index": "28094",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is he/data_for_feature_28094.json",
-        "negative_strings": [
-            "ities",
-            "ings",
-            "ality",
-            "ivity",
-            "less",
-            "itarian",
-            "ITIES",
-            "wards",
-            "INGS",
-            "\u00e4\u00bb\u00ac"
-        ],
-        "positive_strings": [
-            "amage",
-            "ungi",
-            "uing",
-            "ty",
-            "encer",
-            "354",
-            "\u00d8\u00af\u00d8\u00a7",
-            "555",
-            "eur",
-            "NonNull"
-        ],
-        "description": " themes related to work, supervision, and responsibility"
     }
 ]

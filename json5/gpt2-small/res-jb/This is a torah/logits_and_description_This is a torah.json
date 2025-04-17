@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "23391",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_23391.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_23391.json",
         "negative_strings": [
             " XV",
             " Feder",
@@ -30,9 +90,69 @@
         "description": "references to a specific software or product called \"Tor Browser\""
     },
     {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "13838",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_13838.json",
+        "negative_strings": [
+            " alike",
+            " treat",
+            " juices",
+            " arts",
+            " rule",
+            " Rica",
+            " attention",
+            " JUSTICE",
+            " fill",
+            " balance"
+        ],
+        "positive_strings": [
+            "awks",
+            "awk",
+            "olics",
+            "renheit",
+            "olic",
+            "ouston",
+            "ouse",
+            "uman",
+            "atche",
+            "annah"
+        ],
+        "description": "phrases related to kitchen knives and their quality"
+    },
+    {
         "index": "4956",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_4956.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_4956.json",
         "negative_strings": [
             "sheets",
             "compliance",
@@ -60,9 +180,99 @@
         "description": " mentions of physical or emotional torment"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "9314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_9314.json",
+        "negative_strings": [
+            " insured",
+            " fict",
+            " paycheck",
+            " fixation",
+            " advoc",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " totality",
+            " gobl",
+            " nomine",
+            " ubiquitous"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "awks",
+            "aha",
+            "olics",
+            "onda",
+            "ttp",
+            "oe",
+            "aban",
+            "ghan"
+        ],
+        "description": "the word \"ah\" with variations in intensity"
+    },
+    {
         "index": "9337",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_9337.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_9337.json",
         "negative_strings": [
             " Consent",
             "ACTED",
@@ -90,159 +300,9 @@
         "description": "words related to torment or suffering"
     },
     {
-        "index": "17075",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_17075.json",
-        "negative_strings": [
-            "heid",
-            "draft",
-            "holder",
-            " Dakota",
-            "ERG",
-            "\u00e3\u0127\u012d",
-            "VB",
-            "clusive",
-            "stakes",
-            "Cause"
-        ],
-        "positive_strings": [
-            " Tor",
-            "Tor",
-            "pora",
-            " mosqu",
-            " Palestin",
-            "zik",
-            "ascus",
-            "onto",
-            " conflic",
-            "ricia"
-        ],
-        "description": "references to the Tor project"
-    },
-    {
-        "index": "16591",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_16591.json",
-        "negative_strings": [
-            " enrollment",
-            " payday",
-            " admitting",
-            " appraisal",
-            " informal",
-            " assessment",
-            " Beaver",
-            " admissions",
-            " Upton",
-            " school"
-        ],
-        "positive_strings": [
-            "izons",
-            "ror",
-            "ribly",
-            "rible",
-            "izontal",
-            "izon",
-            "izont",
-            "rors",
-            "oscope",
-            "seless"
-        ],
-        "description": "strong emotional reactions"
-    },
-    {
-        "index": "11084",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_11084.json",
-        "negative_strings": [
-            "CRIP",
-            "CLASSIFIED",
-            " Agents",
-            " Bolt",
-            "\u00d4",
-            " Bridges",
-            " authentic",
-            "TPS",
-            " significant",
-            " mileage"
-        ],
-        "positive_strings": [
-            "ona",
-            "nered",
-            "nea",
-            "onal",
-            "rals",
-            "vette",
-            "usc",
-            "olla",
-            "rug",
-            "prus"
-        ],
-        "description": "words related to outer space occurrences"
-    },
-    {
-        "index": "19357",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_19357.json",
-        "negative_strings": [
-            " Cups",
-            " setbacks",
-            " ones",
-            " bosses",
-            " fixtures",
-            " testers",
-            " Ones",
-            " Tanks",
-            " agents",
-            " deployments"
-        ],
-        "positive_strings": [
-            "uristic",
-            "cipled",
-            "emonic",
-            "ministic",
-            "assian",
-            "emale",
-            "athetic",
-            "rotein",
-            "icrobial",
-            "ogeneous"
-        ],
-        "description": "negative social behaviors and controversial terms related to race and prejudice"
-    },
-    {
-        "index": "22245",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_22245.json",
-        "negative_strings": [
-            " Nare",
-            " Chou",
-            "OCK",
-            "USER",
-            " Vi",
-            "ACP",
-            "OFF",
-            " Lamar",
-            "ITH",
-            "ODE"
-        ],
-        "positive_strings": [
-            "ations",
-            "ational",
-            "aments",
-            "abulary",
-            "inations",
-            "ments",
-            "rants",
-            "illation",
-            "ility",
-            "atories"
-        ],
-        "description": "mentions of a specific anatomical term"
-    },
-    {
         "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_21800.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_21800.json",
         "negative_strings": [
             " eleph",
             " hub",
@@ -270,93 +330,213 @@
         "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "22031",
+        "index": "23303",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_22031.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_23303.json",
         "negative_strings": [
-            "anti",
-            "leaders",
-            "furt",
-            "manship",
-            "men",
-            "andro",
-            "people",
-            "ingu",
-            "ichick",
-            "dayName"
-        ],
-        "positive_strings": [
-            "ries",
-            "X",
-            "ue",
-            "OWN",
-            "x",
-            "illard",
-            " Pradesh",
-            " XV",
-            "own",
-            "UES"
-        ],
-        "description": "mentions of various states in India, with a focus on Uttar Pradesh"
-    },
-    {
-        "index": "5417",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_5417.json",
-        "negative_strings": [
-            " detectors",
-            " generals",
-            " sauces",
-            "places",
-            " sensations",
+            " fict",
+            " insured",
+            " totality",
+            " tremend",
             " secretaries",
-            " PCs",
-            " instructors",
-            " transmissions",
-            " rituals"
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " insepar",
+            " advoc",
+            " ubiquitous",
+            " notor"
         ],
         "positive_strings": [
-            "ringe",
-            "ulet",
-            "oon",
-            "ipop",
-            "ruck",
-            "ucer",
-            "onet",
-            "raper",
-            "ifle",
-            "coon"
+            "renheit",
+            "awk",
+            "ttp",
+            "awks",
+            "ah",
+            "aha",
+            "tml",
+            "onda",
+            "olics",
+            "ghan"
         ],
-        "description": "physical objects and actions related to a crime scene"
+        "description": "words related to a specific individual named \"Shah\" or \"Shahid.\""
     },
     {
-        "index": "4212",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a torah/data_for_feature_4212.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_7040.json",
         "negative_strings": [
-            " Shoes",
-            " Incarn",
-            " Sons",
-            " Seasons",
-            " Restaur",
-            " Units",
-            " stadiums",
-            " Races",
-            " foundations",
-            " Machines"
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
-            "vertisement",
-            " memo",
-            " bulletin",
-            " note",
-            " summary",
-            " memorandum",
-            " sheet",
-            "sheet",
-            "post",
-            " pamphlet"
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "news-related keywords and phrases"
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "19958",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_19958.json",
+        "negative_strings": [
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
+        ],
+        "positive_strings": [
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
+        ],
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
+        "index": "2634",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a torah\\data_for_feature_2634.json",
+        "negative_strings": [
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
+        ],
+        "positive_strings": [
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
+        ],
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
     }
 ]

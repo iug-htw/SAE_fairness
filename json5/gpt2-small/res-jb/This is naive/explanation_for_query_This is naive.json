@@ -821,11 +821,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-19T07:49:18.119Z",
-                        "updatedAt": "2024-06-19T07:49:18.119Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-19T07:49:18.119Z"
                     },
                     {
                         "id": "clxmi84y8025c9u9yq8hjpmhe",
@@ -845,11 +841,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-20T00:08:51.728Z",
-                        "updatedAt": "2024-06-20T00:08:51.728Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-20T00:08:51.728Z"
                     },
                     {
                         "id": "syc18sd3tf3tzd0g1a4znmcof",
@@ -869,16 +861,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:28:44.218Z",
-                        "updatedAt": "2024-12-30T05:28:44.218Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:28:44.218Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -896,7 +884,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -1713,11 +1702,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T22:17:54.096Z",
-                        "updatedAt": "2024-06-18T22:17:54.096Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T22:17:54.096Z"
                     },
                     {
                         "id": "mp1qqz6gtpzb9oregk0no034f",
@@ -1737,16 +1722,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:27:48.208Z",
-                        "updatedAt": "2024-12-30T05:27:48.208Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:27:48.208Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -1764,19 +1745,20 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "2-res-jb",
             "index": "17904",
-            "maxValue": 44.300846099853516,
+            "maxValue": 44.30084609985352,
             "maxValueIndex": 3,
             "values": [
-                15.023033142089844,
+                15.02303314208984,
                 0,
                 0,
-                44.300846099853516
+                44.30084609985352
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -2199,11 +2181,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T03:12:28.042Z",
-                        "updatedAt": "2024-02-23T03:12:28.042Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T03:12:28.042Z"
                     },
                     {
                         "id": "y4la6zud1hqd26ehja741fqwu",
@@ -2223,16 +2201,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T03:28:01.744Z",
-                        "updatedAt": "2024-12-30T03:28:01.744Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T03:28:01.744Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -2250,19 +2224,20 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "1-res-jb",
             "index": "19018",
-            "maxValue": 41.085784912109375,
+            "maxValue": 41.08578491210938,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                41.085784912109375
+                41.08578491210938
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -2685,11 +2660,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T03:47:16.815Z",
-                        "updatedAt": "2024-02-23T03:47:16.815Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T03:47:16.815Z"
                     },
                     {
                         "id": "tpb8hwaa7n8q1lgh6mksgofb7",
@@ -2709,16 +2680,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T03:16:19.573Z",
-                        "updatedAt": "2024-12-30T03:16:19.573Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T03:16:19.573Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -2736,7 +2703,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -3553,11 +3521,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T19:53:35.699Z",
-                        "updatedAt": "2024-06-18T19:53:35.699Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T19:53:35.699Z"
                     },
                     {
                         "id": "joy5fmkp1h88kqvhv18qg5kda",
@@ -3577,16 +3541,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:27:14.692Z",
-                        "updatedAt": "2024-12-30T05:27:14.692Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:27:14.692Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -3604,18 +3564,19 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "11-res-jb",
             "index": "21800",
-            "maxValue": 29.265356063842773,
+            "maxValue": 29.26535606384277,
             "maxValueIndex": 1,
             "values": [
                 0,
-                29.265356063842773,
-                24.479740142822266,
+                29.26535606384277,
+                24.47974014282227,
                 8.501760482788086
             ],
             "neuron": {
@@ -4039,11 +4000,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T05:55:42.038Z",
-                        "updatedAt": "2024-02-23T05:55:42.038Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T05:55:42.038Z"
                     },
                     {
                         "id": "r7ll34d7yn2n2lmqfsitwmwcm",
@@ -4063,16 +4020,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:13:35.169Z",
-                        "updatedAt": "2024-12-30T05:13:35.169Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:13:35.169Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -4090,19 +4043,20 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "7040",
-            "maxValue": 28.029743194580078,
+            "maxValue": 28.02974319458008,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0,
-                28.029743194580078,
-                0.22492678463459015
+                28.02974319458008,
+                0.2249267846345901
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -4907,11 +4861,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T03:55:04.636Z",
-                        "updatedAt": "2024-06-18T03:55:04.636Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T03:55:04.636Z"
                     },
                     {
                         "id": "n5czta9sqnvl5xkg9yfknq13i",
@@ -4931,16 +4881,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:20:59.127Z",
-                        "updatedAt": "2024-12-30T05:20:59.127Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:20:59.127Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -4958,7 +4904,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -4969,7 +4916,7 @@
             "values": [
                 0,
                 24.28920555114746,
-                6.6340484619140625,
+                6.634048461914062,
                 0
             ],
             "neuron": {
@@ -5775,11 +5722,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T18:24:38.759Z",
-                        "updatedAt": "2024-06-18T18:24:38.759Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T18:24:38.759Z"
                     },
                     {
                         "id": "iv52ro485mv7vvmdqhfrsle40",
@@ -5799,16 +5742,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:26:39.178Z",
-                        "updatedAt": "2024-12-30T05:26:39.178Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:26:39.178Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -5826,18 +5765,19 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "18025",
-            "maxValue": 23.735410690307617,
+            "maxValue": 23.73541069030762,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0,
-                23.735410690307617,
+                23.73541069030762,
                 0
             ],
             "neuron": {
@@ -6643,11 +6583,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T19:48:14.387Z",
-                        "updatedAt": "2024-06-18T19:48:14.387Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T19:48:14.387Z"
                     },
                     {
                         "id": "n11gpik7ahbjwjtdcbrcu0chj",
@@ -6667,16 +6603,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:27:11.244Z",
-                        "updatedAt": "2024-12-30T05:27:11.244Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:27:11.244Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -6694,19 +6626,20 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "19914",
-            "maxValue": 19.947982788085938,
+            "maxValue": 19.94798278808594,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                19.947982788085938
+                19.94798278808594
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -7511,11 +7444,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-19T06:51:44.451Z",
-                        "updatedAt": "2024-06-19T06:51:44.451Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-19T06:51:44.451Z"
                     },
                     {
                         "id": "clxmh4dn200xm9u9ye8h6li2w",
@@ -7535,11 +7464,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-19T23:37:56.751Z",
-                        "updatedAt": "2024-06-19T23:37:56.751Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-19T23:37:56.751Z"
                     },
                     {
                         "id": "ttr9sickanwkqmamfy1el66dx",
@@ -7559,16 +7484,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:28:23.320Z",
-                        "updatedAt": "2024-12-30T05:28:23.320Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:28:23.320Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -7586,18 +7507,19 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "1-res-jb",
             "index": "24566",
-            "maxValue": 19.820114135742188,
+            "maxValue": 19.82011413574219,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0,
-                19.820114135742188,
+                19.82011413574219,
                 0
             ],
             "neuron": {
@@ -8021,11 +7943,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T05:27:06.499Z",
-                        "updatedAt": "2024-02-23T05:27:06.499Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T05:27:06.499Z"
                     },
                     {
                         "id": "vokyqe88677m1ljuv673bncwh",
@@ -8045,16 +7963,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T03:18:59.046Z",
-                        "updatedAt": "2024-12-30T03:18:59.046Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T03:18:59.046Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -8072,7 +7986,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -8082,7 +7997,7 @@
             "maxValueIndex": 2,
             "values": [
                 0,
-                12.979853630065918,
+                12.97985363006592,
                 19.74192237854004,
                 5.82057523727417
             ],
@@ -8507,11 +8422,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T05:13:29.834Z",
-                        "updatedAt": "2024-02-23T05:13:29.834Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T05:13:29.834Z"
                     },
                     {
                         "id": "t2cklz9gm2y61sn9biazm8rsv",
@@ -8531,16 +8442,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:12:18.943Z",
-                        "updatedAt": "2024-12-30T05:12:18.943Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:12:18.943Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -8558,7 +8465,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -9375,11 +9283,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T09:30:16.631Z",
-                        "updatedAt": "2024-06-18T09:30:16.631Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T09:30:16.631Z"
                     },
                     {
                         "id": "b432pzmumv3hh3r672l9l38rw",
@@ -9399,16 +9303,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:23:09.145Z",
-                        "updatedAt": "2024-12-30T05:23:09.145Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:23:09.145Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -9426,18 +9326,19 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "2271",
-            "maxValue": 18.171072006225586,
+            "maxValue": 18.17107200622559,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0,
-                18.171072006225586,
+                18.17107200622559,
                 0
             ],
             "neuron": {
@@ -10243,11 +10144,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-17T21:18:03.541Z",
-                        "updatedAt": "2024-06-17T21:18:03.541Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-17T21:18:03.541Z"
                     },
                     {
                         "id": "jxdfyas9xbexum5vpq3kl9a6o",
@@ -10267,16 +10164,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:16:19.678Z",
-                        "updatedAt": "2024-12-30T05:16:19.678Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:16:19.678Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -10294,7 +10187,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -11111,11 +11005,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T05:30:08.720Z",
-                        "updatedAt": "2024-06-18T05:30:08.720Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T05:30:08.720Z"
                     },
                     {
                         "id": "qh7pgncnxbfypyzoo8bekbr97",
@@ -11135,16 +11025,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:21:35.988Z",
-                        "updatedAt": "2024-12-30T05:21:35.988Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:21:35.988Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -11162,17 +11048,18 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "3-res-jb",
             "index": "13798",
-            "maxValue": 17.919660568237305,
+            "maxValue": 17.9196605682373,
             "maxValueIndex": 1,
             "values": [
                 0,
-                17.919660568237305,
+                17.9196605682373,
                 0,
                 0
             ],
@@ -11597,11 +11484,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T02:18:42.510Z",
-                        "updatedAt": "2024-02-23T02:18:42.510Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T02:18:42.510Z"
                     },
                     {
                         "id": "eginp3psxtpb4yi90mw9bkybg",
@@ -11621,16 +11504,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T03:35:33.728Z",
-                        "updatedAt": "2024-12-30T03:35:33.728Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T03:35:33.728Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -11648,19 +11527,20 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "3236",
-            "maxValue": 17.008275985717773,
+            "maxValue": 17.00827598571777,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                17.008275985717773
+                17.00827598571777
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -12465,11 +12345,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-17T22:37:16.441Z",
-                        "updatedAt": "2024-06-17T22:37:16.441Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-17T22:37:16.441Z"
                     },
                     {
                         "id": "xoqx4il9qh2b0nh7mdnppcoqo",
@@ -12489,16 +12365,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:16:41.292Z",
-                        "updatedAt": "2024-12-30T05:16:41.292Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:16:41.292Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -12516,18 +12388,19 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
             "layer": "12-res-jb",
             "index": "7731",
-            "maxValue": 17.007543563842773,
+            "maxValue": 17.00754356384277,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0,
-                17.007543563842773,
+                17.00754356384277,
                 0
             ],
             "neuron": {
@@ -13333,11 +13206,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-06-18T04:52:21.267Z",
-                        "updatedAt": "2024-06-18T04:52:21.267Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-06-18T04:52:21.267Z"
                     },
                     {
                         "id": "xb00bsef09coqrjnju4f0wgsk",
@@ -13357,16 +13226,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T05:21:23.078Z",
-                        "updatedAt": "2024-12-30T05:21:23.078Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T05:21:23.078Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -13384,7 +13249,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         },
         {
             "modelId": "gpt2-small",
@@ -13819,11 +13685,7 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-02-23T02:58:15.063Z",
-                        "updatedAt": "2024-02-23T02:58:15.063Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-02-23T02:58:15.063Z"
                     },
                     {
                         "id": "tlkb1nyxkqnpkmsaznaf01f8e",
@@ -13843,16 +13705,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-12-30T03:15:28.534Z",
-                        "updatedAt": "2024-12-30T03:15:28.534Z",
-                        "author": {
-                            "name": "bot"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-12-30T03:15:28.534Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -13870,7 +13728,8 @@
                     "updatedAt": "2023-07-06T00:01:44.843Z",
                     "website": "https://openai.com"
                 }
-            }
+            },
+            "dfaValues": []
         }
     ],
     "counts": [

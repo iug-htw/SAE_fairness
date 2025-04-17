@@ -2,7 +2,7 @@
     {
         "index": "24651",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_24651.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_24651.json",
         "negative_strings": [
             "ar",
             "am",
@@ -30,9 +30,69 @@
         "description": "instances of the letter 'j'"
     },
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
         "index": "31614",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_31614.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_31614.json",
         "negative_strings": [
             "u",
             "ar",
@@ -60,9 +120,39 @@
         "description": "mentions of the letter 'j' and its variations in a text"
     },
     {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
         "index": "29426",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_29426.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_29426.json",
         "negative_strings": [
             "u",
             "s",
@@ -90,333 +180,123 @@
         "description": "the letter \"j\" in various contexts and frequencies"
     },
     {
-        "index": "29084",
+        "index": "23320",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_29084.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_23320.json",
         "negative_strings": [
-            "\u00e6\u00bf",
-            "\u00e9\u013d",
-            "obar",
-            "strap",
-            "\u00cf\u0127\u00cf\u0125",
-            "UGHT",
-            "irty",
-            "ilece",
-            "ityEngine",
-            "ious"
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
         ],
         "positive_strings": [
-            "oints",
-            "oes",
-            "AMES",
-            "ournals",
-            "upyter",
-            "uggling",
-            "ockey",
-            "alous",
-            "y",
-            " oh"
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
         ],
-        "description": " words or phrases that contain the letter 'j'"
+        "description": " instances of the word \"The.\""
     },
     {
-        "index": "19569",
+        "index": "30911",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_19569.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_30911.json",
         "negative_strings": [
-            "\u00cf\u0127\u00cf\u0125",
-            "\u00e6\u00bf",
-            "strap",
-            "\u00e9\u013d",
-            "jet",
-            "agle",
-            "eldon",
-            "ityEngine",
-            "ious",
-            "J"
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
         ],
         "positive_strings": [
-            "oes",
-            "AMES",
-            "upyter",
-            "alous",
-            "oints",
-            "inx",
-            "ournals",
-            "ockey",
-            "udd",
-            "aded"
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
         ],
-        "description": " patterns related to character names or initials"
+        "description": " occurrences of the word \"this.\""
     },
     {
-        "index": "13342",
+        "index": "27048",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_13342.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_27048.json",
         "negative_strings": [
-            "irty",
-            "UGHT",
-            "\u00e6\u00bf",
-            "\u00cf\u0127\u00cf\u0125",
-            "\u00e9\u013d",
-            "ilece",
-            "eldon",
-            "lete",
-            "JM",
-            "ious"
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
         ],
         "positive_strings": [
-            "ournals",
-            "oes",
-            "ockey",
-            "upyter",
-            "AMES",
-            "umbo",
-            " oh",
-            "oints",
-            "'ai",
-            "OURNAL"
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
         ],
-        "description": " references to individuals or entities followed by a J or j in their name"
+        "description": "the word \"This\" at the beginning of sentences or phrases"
     },
     {
-        "index": "7316",
+        "index": "5798",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_7316.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is jesus\\data_for_feature_5798.json",
         "negative_strings": [
-            "\u00c3\u00baa",
-            "jos",
-            "ious",
-            " nomin",
-            "acher",
-            "\u00e6\u00bf",
-            "\u00e4\u00bf\u0139",
-            "jet",
-            "irty",
-            "\u00e9\u013d"
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
         ],
         "positive_strings": [
-            "ingle",
-            "upyter",
-            "umbo",
-            "alous",
-            "ockey",
-            "AMES",
-            "inx",
-            "oints",
-            "umps",
-            "aded"
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
         ],
-        "description": "abbreviations or shorthand representations, particularly involving the letter 'j' or similar patterns"
-    },
-    {
-        "index": "14202",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_14202.json",
-        "negative_strings": [
-            "\u00e6\u00bf",
-            "eldon",
-            "jet",
-            "lesen",
-            "ilece",
-            "\u00e4\u00bb\u013a",
-            "669",
-            "UGHT",
-            "\u00d0\u00b5\u00d1\u0128",
-            "icast"
-        ],
-        "positive_strings": [
-            "ournals",
-            "ockey",
-            "oints",
-            "uggling",
-            "alous",
-            "umbo",
-            "ager",
-            "ansson",
-            "upyter",
-            "olly"
-        ],
-        "description": " references to the letter \"J\" or variations of it in different contexts"
-    },
-    {
-        "index": "14481",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_14481.json",
-        "negative_strings": [
-            "rence",
-            " \u00d8\u00a8\u00d9\u0128\u00d8\u00af\u00db\u012e",
-            "lucent",
-            "FromBody",
-            "\u00c5\u013bel",
-            "rese",
-            "resh",
-            "RESH",
-            "lichkeit",
-            "ENTIAL"
-        ],
-        "positive_strings": [
-            "apanese",
-            "apan",
-            "oomla",
-            "abra",
-            "igsaw",
-            "ourney",
-            "apon",
-            "ammu",
-            "urnal",
-            "inan"
-        ],
-        "description": " instances of the letter 'J' or names and titles beginning with 'J'"
-    },
-    {
-        "index": "8126",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_8126.json",
-        "negative_strings": [
-            "\u00e6\u00bf",
-            "eldon",
-            "UGHT",
-            "JM",
-            "jet",
-            "ilece",
-            "\u00c5\u013beh",
-            "lete",
-            "\u00d0\u00b5\u00d1\u0128",
-            "\u00e0\u00b8\u00b8\u00e0\u00b8\u0137"
-        ],
-        "positive_strings": [
-            "ournals",
-            "uggling",
-            "oes",
-            " oh",
-            "oints",
-            "ockey",
-            "AMES",
-            "ez",
-            "ager",
-            "'ai"
-        ],
-        "description": "instances of the letter \"J\""
-    },
-    {
-        "index": "36",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_36.json",
-        "negative_strings": [
-            "entic",
-            "Jet",
-            " Jet",
-            "illard",
-            " jet",
-            " br",
-            " Commons",
-            "ersiz",
-            " fr",
-            "jet"
-        ],
-        "positive_strings": [
-            "UCE",
-            "IRA",
-            "eden",
-            "QUERY",
-            " edin",
-            "ira",
-            "ISON",
-            "umps",
-            "query",
-            "ONY"
-        ],
-        "description": " occurrences of character 'j' and variations of its formatting"
-    },
-    {
-        "index": "12821",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_12821.json",
-        "negative_strings": [
-            "agle",
-            "son",
-            "ityEngine",
-            "deniz",
-            "standing",
-            "\u00d9\u0127",
-            "\u00cf\u0127\u00cf\u0125",
-            "ava",
-            "\u00e6\u00bf",
-            "rence"
-        ],
-        "positive_strings": [
-            "AMES",
-            "oints",
-            "ez",
-            "upyter",
-            " oh",
-            "OURNAL",
-            "oes",
-            "inx",
-            "alous",
-            "aro"
-        ],
-        "description": " instances of the letter 'J' in various contexts"
-    },
-    {
-        "index": "18991",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_18991.json",
-        "negative_strings": [
-            "lesen",
-            "\u00e6\u00bf",
-            "\u00e4\u00ba\u0134",
-            "ava",
-            "jet",
-            "aths",
-            "atatype",
-            "ityEngine",
-            "rote",
-            "ienne"
-        ],
-        "positive_strings": [
-            "ournals",
-            "ockey",
-            "el",
-            "oes",
-            "F",
-            "AMES",
-            " esse",
-            "uggling",
-            "nger",
-            " acqu"
-        ],
-        "description": "the name patterns starting with the letter 'J' followed by a number"
-    },
-    {
-        "index": "24098",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is jesus/data_for_feature_24098.json",
-        "negative_strings": [
-            "jet",
-            "agle",
-            "atatype",
-            "removeAttr",
-            "lesen",
-            "ityEngine",
-            "\u00e4\u00bb\u00b6",
-            "\u00c2\u00a9\u00c2\u00a9",
-            "eldon",
-            " baseline"
-        ],
-        "positive_strings": [
-            "ee",
-            "el",
-            "avadoc",
-            "uggling",
-            "ournals",
-            "F",
-            " oh",
-            "nr",
-            "t",
-            "avad"
-        ],
-        "description": " occurrences of the letter 'j' in different contexts"
+        "description": "affirmative statements or declarations"
     }
 ]

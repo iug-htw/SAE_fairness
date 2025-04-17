@@ -2,7 +2,7 @@
     {
         "index": "3178",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_3178.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_3178.json",
         "negative_strings": [
             " Fargo",
             " questioning",
@@ -30,9 +30,69 @@
         "description": "words related to emotions and human experiences"
     },
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "15980",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_15980.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_15980.json",
         "negative_strings": [
             " questioning",
             " ObamaCare",
@@ -62,7 +122,7 @@
     {
         "index": "17483",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_17483.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_17483.json",
         "negative_strings": [
             "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
             " DeVos",
@@ -90,9 +150,159 @@
         "description": "the letter \"j\" followed by a single- or double-digit number"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22221",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_22221.json",
+        "negative_strings": [
+            "ested",
+            "estine",
+            " td",
+            "ed",
+            "ests",
+            "RAG",
+            "rought",
+            "efe",
+            "ottest",
+            "est"
+        ],
+        "positive_strings": [
+            "CRIP",
+            "pex",
+            "chwitz",
+            "cular",
+            "cules",
+            "etts",
+            "peed",
+            "sein",
+            "coni",
+            "pects"
+        ],
+        "description": "instances of the word \"us\" occurring with positive activations close to 10, as well as various forms of the word such as \"oper\" or \"cor\""
+    },
+    {
+        "index": "13852",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_13852.json",
+        "negative_strings": [
+            " Anthem",
+            " risk",
+            " risks",
+            " indic",
+            " whistle",
+            " herald",
+            " foremost",
+            " bath",
+            "shed",
+            " mindful"
+        ],
+        "positive_strings": [
+            "iffe",
+            "ensen",
+            "ilee",
+            "usalem",
+            "ansson",
+            " Whedon",
+            "neys",
+            "hovah",
+            "enson",
+            "\u0138\u013c"
+        ],
+        "description": "proper nouns related to various areas such as music, politics, fiction, and entertainment"
+    },
+    {
+        "index": "6312",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_6312.json",
+        "negative_strings": [
+            "merce",
+            "\u00a5\u0140",
+            "regor",
+            "rought",
+            "ottest",
+            "owntown",
+            "jriwal",
+            " effected",
+            "\u00a5\u00b5",
+            "itures"
+        ],
+        "positive_strings": [
+            "peed",
+            "pex",
+            "cules",
+            "sein",
+            "aurus",
+            "cus",
+            "pec",
+            "pecting",
+            "leep",
+            "pects"
+        ],
+        "description": "proper nouns"
+    },
+    {
+        "index": "14361",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_14361.json",
+        "negative_strings": [
+            " railing",
+            " hose",
+            " mist",
+            " churn",
+            " hand",
+            " LINE",
+            " Goose",
+            " Blaster",
+            "OSH",
+            " redistributed"
+        ],
+        "positive_strings": [
+            "ktop",
+            "earchers",
+            "liga",
+            "earch",
+            "eeks",
+            "terday",
+            "hiba",
+            "quite",
+            "opot",
+            "bians"
+        ],
+        "description": "Measurements and physical quantities"
+    },
+    {
         "index": "21292",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_21292.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_21292.json",
         "negative_strings": [
             "dayName",
             "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
@@ -120,9 +330,219 @@
         "description": "phrases related to political actions, policies, and events"
     },
     {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "12448",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_12448.json",
+        "negative_strings": [
+            "merce",
+            "skirts",
+            "\u00a5\u0140",
+            " effected",
+            "itures",
+            "rought",
+            "\u00a5\u00b5",
+            "ezvous",
+            " Masquerade",
+            "jriwal"
+        ],
+        "positive_strings": [
+            "sein",
+            "peed",
+            "us",
+            "cus",
+            "pecting",
+            "pec",
+            "pex",
+            "cules",
+            "pects",
+            "amus"
+        ],
+        "description": "words related to the name \"Marcus.\""
+    },
+    {
+        "index": "575",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_575.json",
+        "negative_strings": [
+            "ItemTracker",
+            "SHIP",
+            "\u00e8\u00bb",
+            "DragonMagazine",
+            "Reviewer",
+            "owler",
+            "\u00a3\u0131",
+            " unrestricted",
+            "DERR",
+            "=-=-=-=-"
+        ],
+        "positive_strings": [
+            "terday",
+            "ktop",
+            "bians",
+            "pace",
+            "earch",
+            "andro",
+            "lem",
+            "lements",
+            "pec",
+            "peed"
+        ],
+        "description": " the syllable \"es\" at the end of words"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "20118",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_20118.json",
+        "negative_strings": [
+            "\u00e8\u00bb",
+            "Reviewer",
+            "ItemTracker",
+            "DragonMagazine",
+            "\u00a3\u0131",
+            "SHIP",
+            " unrestricted",
+            " SAP",
+            " ASP",
+            " \u00e0\u00a8"
+        ],
+        "positive_strings": [
+            "terday",
+            "pace",
+            "ktop",
+            "ync",
+            "andro",
+            "bians",
+            "pec",
+            "lem",
+            "earchers",
+            "es"
+        ],
+        "description": "words related to names ending in 'es'"
+    },
+    {
         "index": "17760",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_17760.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is jesus\\data_for_feature_17760.json",
         "negative_strings": [
             " beware",
             " mostly",
@@ -148,395 +568,5 @@
             "ungle"
         ],
         "description": "names"
-    },
-    {
-        "index": "18946",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_18946.json",
-        "negative_strings": [
-            " relying",
-            " doubling",
-            " proportion",
-            " today",
-            " right",
-            " multiplied",
-            " longer",
-            " shortened",
-            " now",
-            " showing"
-        ],
-        "positive_strings": [
-            "ALT",
-            "ANG",
-            "ANS",
-            "ONDON",
-            "ENG",
-            "ANA",
-            "ARR",
-            "ERE",
-            "reetings",
-            "ALE"
-        ],
-        "description": "names of places or people starting with the letter 'H'"
-    },
-    {
-        "index": "19190",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_19190.json",
-        "negative_strings": [
-            " opposite",
-            " prior",
-            " outside",
-            " leading",
-            " specifically",
-            " today",
-            " both",
-            " practically",
-            " Cabinet",
-            " often"
-        ],
-        "positive_strings": [
-            "maxwell",
-            "sbm",
-            "utils",
-            " :=",
-            "inventoryQuantity",
-            "lvl",
-            "\u00cb\u012a",
-            "cloneembedreportprint",
-            "fml",
-            "fp"
-        ],
-        "description": "names or titles"
-    },
-    {
-        "index": "12333",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_12333.json",
-        "negative_strings": [
-            " Gord",
-            " Armen",
-            " Mongol",
-            " firsthand",
-            " MacArthur",
-            " prior",
-            " matters",
-            " Belarus",
-            " affairs",
-            " grounds"
-        ],
-        "positive_strings": [
-            "TAG",
-            "igsaw",
-            "umbo",
-            "AX",
-            "ansson",
-            "MX",
-            "olla",
-            "UMP",
-            "umps",
-            "peg"
-        ],
-        "description": "Java software development terms and concepts"
-    },
-    {
-        "index": "3961",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_3961.json",
-        "negative_strings": [
-            " thirds",
-            " late",
-            " delays",
-            " doubling",
-            " captcha",
-            " granting",
-            " paving",
-            " alternating",
-            " cancelled",
-            " delaying"
-        ],
-        "positive_strings": [
-            "ealous",
-            "igsaw",
-            "ules",
-            "aden",
-            "ASON",
-            "abba",
-            "EFF",
-            "odi",
-            "AMES",
-            "YP"
-        ],
-        "description": "names of celebrities, especially those starting with the letter \"J\""
-    },
-    {
-        "index": "17416",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_17416.json",
-        "negative_strings": [
-            " proportion",
-            " exped",
-            " influential",
-            " successive",
-            " commercially",
-            " formerly",
-            " prolifer",
-            " eclips",
-            " internationally",
-            " victim"
-        ],
-        "positive_strings": [
-            "OOOO",
-            "OOOOOOOO",
-            "oooo",
-            "aaaa",
-            "oooooooo",
-            "mmmm",
-            "ahah",
-            "oooooooooooooooo",
-            "EEEE",
-            "AAAAAAAA"
-        ],
-        "description": "proper nouns and names"
-    },
-    {
-        "index": "17098",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_17098.json",
-        "negative_strings": [
-            " wide",
-            " scraping",
-            " clearing",
-            " scheduling",
-            " bul",
-            " viewing",
-            " wanting",
-            " changing",
-            " hint",
-            " lighting"
-        ],
-        "positive_strings": [
-            "ebted",
-            "earances",
-            "usable",
-            "omsky",
-            "ipers",
-            "ortality",
-            "ascar",
-            "imilar",
-            "izoph",
-            "arnaev"
-        ],
-        "description": "names or terms related to specific online communities or forums"
-    },
-    {
-        "index": "293",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_293.json",
-        "negative_strings": [
-            " Hed",
-            " EW",
-            " Everest",
-            " Ara",
-            " Howe",
-            " undert",
-            " Ellis",
-            " Moody",
-            " Elon",
-            " EP"
-        ],
-        "positive_strings": [
-            "sv",
-            "sa",
-            "sf",
-            "dc",
-            "tf",
-            "tx",
-            "td",
-            "dm",
-            "bt",
-            "sr"
-        ],
-        "description": "code-related terms and commands like paths, binaries, and commands"
-    },
-    {
-        "index": "4864",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_4864.json",
-        "negative_strings": [
-            "\u013c\u00e9\u0128\u0134",
-            " exting",
-            "\u00e9\u00be\u012f\u00e5\u00a5",
-            "\u010f",
-            "\u00ff",
-            " TheNitrome",
-            "\u011b",
-            "\u00f5",
-            " externalToEVA",
-            "\u0117"
-        ],
-        "positive_strings": [
-            " 1945",
-            " 1913",
-            " 1944",
-            " 1862",
-            " 1943",
-            " 1942",
-            " 1889",
-            " 1932",
-            " 1914",
-            " 1915"
-        ],
-        "description": "dates and days of the week"
-    },
-    {
-        "index": "19232",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_19232.json",
-        "negative_strings": [
-            "hesive",
-            "iom",
-            "osphere",
-            " handle",
-            " accompanying",
-            "uggish",
-            "azard",
-            "fman",
-            "static",
-            "asive"
-        ],
-        "positive_strings": [
-            " Day",
-            " day",
-            "Day",
-            "day",
-            " DAY",
-            " Month",
-            "DAY",
-            "days",
-            "nesday",
-            " Week"
-        ],
-        "description": "important dates or events"
-    },
-    {
-        "index": "21854",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_21854.json",
-        "negative_strings": [
-            " maternity",
-            " societies",
-            " convent",
-            " women",
-            "women",
-            " contraceptives",
-            " pregnancies",
-            " constituencies",
-            "atories",
-            " exclusion"
-        ],
-        "positive_strings": [
-            " Mister",
-            " Morty",
-            " Tommy",
-            " Ricky",
-            " Sonny",
-            " Darrell",
-            " Johnny",
-            " Billy",
-            " Rusty",
-            " Bobby"
-        ],
-        "description": "names of people and titles"
-    },
-    {
-        "index": "3236",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_3236.json",
-        "negative_strings": [
-            "rils",
-            "ospels",
-            " Cosponsors",
-            "rals",
-            "ousands",
-            "viks",
-            " IMAGES",
-            "ATURES",
-            " Flavoring",
-            "osures"
-        ],
-        "positive_strings": [
-            "speak",
-            " territory",
-            " shorthand",
-            " jargon",
-            " heaven",
-            " slang",
-            " fodder",
-            " nonsense",
-            " bullshit",
-            " bait"
-        ],
-        "description": "terms related to technology and hacking"
-    },
-    {
-        "index": "6273",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_6273.json",
-        "negative_strings": [
-            "PDATE",
-            " crest",
-            " colleague",
-            " timeline",
-            " employee",
-            " official",
-            " newcomer",
-            " bundle",
-            " predecessor",
-            " comrade"
-        ],
-        "positive_strings": [
-            "icides",
-            "iculture",
-            "rencies",
-            "osaurs",
-            "iotics",
-            "acters",
-            "obiles",
-            "ogens",
-            "urrencies",
-            "onyms"
-        ],
-        "description": "medical terms related to reproduction and menstruation"
-    },
-    {
-        "index": "5333",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is jesus/data_for_feature_5333.json",
-        "negative_strings": [
-            " footwear",
-            " sailing",
-            " RP",
-            " CY",
-            " UV",
-            " UX",
-            " exha",
-            " grooming",
-            " continuity",
-            " Significant"
-        ],
-        "positive_strings": [
-            "ried",
-            "heddar",
-            "acular",
-            "umbo",
-            "esy",
-            "indal",
-            "acho",
-            "etchup",
-            "rito",
-            "esame"
-        ],
-        "description": "a Mexican-themed food and drink items like margaritas, fajitas, and food items like chicken funnel cake sandwiches"
     }
 ]

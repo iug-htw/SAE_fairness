@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "22980",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_22980.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_22980.json",
         "negative_strings": [
             "PORT",
             " lesbians",
@@ -30,9 +90,69 @@
         "description": "mentions of the name \"Son\""
     },
     {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
         "index": "18913",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_18913.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_18913.json",
         "negative_strings": [
             "veyard",
             "iculty",
@@ -60,9 +180,39 @@
         "description": "mentions of familial relationships, particularly references to sons"
     },
     {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
         "index": "21547",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_21547.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_21547.json",
         "negative_strings": [
             "veyard",
             "iculty",
@@ -90,129 +240,249 @@
         "description": "mentions of family relationships, particularly focusing on interactions involving sons"
     },
     {
-        "index": "17494",
+        "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_17494.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_21800.json",
         "negative_strings": [
-            " manifold",
-            "Woman",
-            "erker",
-            "Women",
-            " locals",
-            " damned",
-            "Client",
-            " freight",
-            "People",
-            " CLIENT"
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
         ],
         "positive_strings": [
-            " Barron",
-            " Beau",
-            "ogram",
-            " Ethan",
-            "ograms",
-            " Archie",
-            " Jace",
-            " Ivanka",
-            " Eric",
-            " Caleb"
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
         ],
-        "description": "references to family relationships and connections"
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "8463",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_8463.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_7040.json",
         "negative_strings": [
-            "asions",
-            "blers",
-            "apo",
-            " Blacks",
-            " buckets",
-            "tics",
-            " Girls",
-            "adequ",
-            "iolet",
-            " Adults"
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
-            " of",
-            " thereof",
-            "Of",
-            "of",
-            " Of",
-            "hetical",
-            "quartered",
-            " born",
-            " grandson",
-            "utive"
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "family relationships and titles such as son, daughter, sister, grandson, prince, and heir"
+        "description": "time-related information such as age or duration"
     },
     {
-        "index": "18226",
+        "index": "17006",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_18226.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_17006.json",
         "negative_strings": [
-            "uden",
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
             "eers",
-            "asonable",
-            "jriwal",
-            "ances",
-            "uncture",
-            " deterior",
-            "erity",
-            " Defenders",
-            " deteriorated"
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
         ],
         "positive_strings": [
-            "hesis",
-            "heses",
-            "nets",
-            "isSpecialOrderable",
-            "eatures",
-            "ilyn",
-            "=#",
-            "hetically",
-            "vale",
-            "pins"
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
         ],
-        "description": "mentions of familial relationships, particularly focusing on sons"
+        "description": "words related to policies and regulations"
     },
     {
-        "index": "19268",
+        "index": "19958",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_19268.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_19958.json",
         "negative_strings": [
-            "sters",
-            "MEN",
-            " Invalid",
-            "Parser",
-            " VICE",
-            "STDOUT",
-            " prosecutors",
-            "runners",
-            " libertarians",
-            " Soldiers"
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
         ],
         "positive_strings": [
-            "'s",
-            "ial",
-            "stration",
-            "\u00c3\u0143s",
-            "abase",
-            "ially",
-            "ship",
-            "SHIP",
-            "iate",
-            "oute"
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
         ],
-        "description": "occupations"
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
+        "index": "2634",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_2634.json",
+        "negative_strings": [
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
+        ],
+        "positive_strings": [
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
+        ],
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
     },
     {
         "index": "19832",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_19832.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_19832.json",
         "negative_strings": [
             "itiz",
             " respons",
@@ -240,183 +510,33 @@
         "description": "phrases indicating the beginning of a story or anecdote"
     },
     {
-        "index": "20303",
+        "index": "17494",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_20303.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a son\\data_for_feature_17494.json",
         "negative_strings": [
-            " Raw",
-            " Accountability",
-            " Allies",
-            " Ethics",
-            " Right",
-            " Freedom",
-            " Legacy",
-            " Enterprise",
-            " Hitman",
-            " Founders"
+            " manifold",
+            "Woman",
+            "erker",
+            "Women",
+            " locals",
+            " damned",
+            "Client",
+            " freight",
+            "People",
+            " CLIENT"
         ],
         "positive_strings": [
-            "aned",
-            "anus",
-            "ework",
-            "idium",
-            "lest",
-            "onal",
-            "olis",
-            "illions",
-            "ril",
-            "amen"
+            " Barron",
+            " Beau",
+            "ogram",
+            " Ethan",
+            "ograms",
+            " Archie",
+            " Jace",
+            " Ivanka",
+            " Eric",
+            " Caleb"
         ],
-        "description": "words related to events or activities"
-    },
-    {
-        "index": "19431",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_19431.json",
-        "negative_strings": [
-            " embassies",
-            " Doors",
-            " leases",
-            " subsidiaries",
-            " Charges",
-            " ultras",
-            " motions",
-            " Jagu",
-            " Tsukuyomi",
-            " Pelicans"
-        ],
-        "positive_strings": [
-            "undrum",
-            " idea",
-            "BOOK",
-            "yssey",
-            "starter",
-            "book",
-            "vertisement",
-            " generator",
-            "writer",
-            " opener"
-        ],
-        "description": "positive descriptions related to events, books, games, shows, films, and experiences"
-    },
-    {
-        "index": "17798",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_17798.json",
-        "negative_strings": [
-            " Cay",
-            " Fallen",
-            " capacity",
-            " Carib",
-            " Irma",
-            " Shak",
-            " short",
-            " RBI",
-            " talking",
-            " Spears"
-        ],
-        "positive_strings": [
-            "oph",
-            "ocy",
-            "oc",
-            "op",
-            "opl",
-            "ogenic",
-            "otherapy",
-            "ocl",
-            "ost",
-            "osp"
-        ],
-        "description": "terms related to medical treatments, specifically immunotherapy and vaccinations"
-    },
-    {
-        "index": "17569",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_17569.json",
-        "negative_strings": [
-            ",",
-            ",[",
-            " \u2014",
-            " [(",
-            " --",
-            " believed",
-            " duly",
-            "\u2014",
-            " ('",
-            "\u2014\""
-        ],
-        "positive_strings": [
-            "Fest",
-            "Hack",
-            "Book",
-            "Zone",
-            "Letter",
-            "Series",
-            "Launch",
-            "League",
-            "Tube",
-            "isode"
-        ],
-        "description": " specific terms related to various events, organizations, or concepts mentioned in a document"
-    },
-    {
-        "index": "19357",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_19357.json",
-        "negative_strings": [
-            " Cups",
-            " setbacks",
-            " ones",
-            " bosses",
-            " fixtures",
-            " testers",
-            " Ones",
-            " Tanks",
-            " agents",
-            " deployments"
-        ],
-        "positive_strings": [
-            "uristic",
-            "cipled",
-            "emonic",
-            "ministic",
-            "assian",
-            "emale",
-            "athetic",
-            "rotein",
-            "icrobial",
-            "ogeneous"
-        ],
-        "description": "negative social behaviors and controversial terms related to race and prejudice"
-    },
-    {
-        "index": "15907",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a son/data_for_feature_15907.json",
-        "negative_strings": [
-            " Transcript",
-            " Marriage",
-            " Procedures",
-            " Persons",
-            " Ethics",
-            " Means",
-            " Employment",
-            " wording",
-            " Speech",
-            " abortions"
-        ],
-        "positive_strings": [
-            "iest",
-            " acclaimed",
-            "liest",
-            "htaking",
-            "favorite",
-            " favorite",
-            " legendary",
-            " favourite",
-            " favorites",
-            " renowned"
-        ],
-        "description": "information related to technology products and companies"
+        "description": "references to family relationships and connections"
     }
 ]

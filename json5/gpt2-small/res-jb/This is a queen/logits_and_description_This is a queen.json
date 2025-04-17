@@ -1,8 +1,98 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
         "index": "17166",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_17166.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_17166.json",
         "negative_strings": [
             "nir",
             "onto",
@@ -30,9 +120,99 @@
         "description": "references to royal figures"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
         "index": "10709",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_10709.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_10709.json",
         "negative_strings": [
             "iance",
             "imaru",
@@ -60,9 +240,99 @@
         "description": "references to royal figures or titles"
     },
     {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
         "index": "17589",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_17589.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_17589.json",
         "negative_strings": [
             "iant",
             "licts",
@@ -90,9 +360,69 @@
         "description": "references to royalty or leadership positions, specifically focusing on queens"
     },
     {
+        "index": "19958",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_19958.json",
+        "negative_strings": [
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
+        ],
+        "positive_strings": [
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
+        ],
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
         "index": "21314",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_21314.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_21314.json",
         "negative_strings": [
             " Exposure",
             " Employment",
@@ -120,303 +450,123 @@
         "description": "words related to monarchs, kingdoms, and titles"
     },
     {
-        "index": "19268",
+        "index": "2634",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_19268.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_2634.json",
         "negative_strings": [
-            "sters",
-            "MEN",
-            " Invalid",
-            "Parser",
-            " VICE",
-            "STDOUT",
-            " prosecutors",
-            "runners",
-            " libertarians",
-            " Soldiers"
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
         ],
         "positive_strings": [
-            "'s",
-            "ial",
-            "stration",
-            "\u00c3\u0143s",
-            "abase",
-            "ially",
-            "ship",
-            "SHIP",
-            "iate",
-            "oute"
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
         ],
-        "description": "occupations"
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
     },
     {
-        "index": "23654",
+        "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_23654.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_24566.json",
         "negative_strings": [
-            "mental",
-            "odcast",
-            "riks",
-            "andem",
-            "urgical",
-            "chell",
-            "kson",
-            "trak",
-            "\u00e3\u0124\u00b7\u00e3\u0125\u00a3",
-            "ript"
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
         ],
         "positive_strings": [
-            " Anne",
-            "Queen",
-            " Queen",
-            "stown",
-            "esses",
-            "Anne",
-            " Mother",
-            " Bride",
-            " Bee",
-            " Mary"
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
         ],
-        "description": "mentions of the word \"Queen\""
+        "description": "phrases related to exposing or revealing information"
     },
     {
-        "index": "3470",
+        "index": "19832",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_3470.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_19832.json",
         "negative_strings": [
-            "Images",
-            "features",
-            "stories",
-            "\u00e9\u00be\u012f",
-            "apses",
-            "laws",
-            "aunts",
-            "ths",
-            "itudes",
-            "umbs"
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
         ],
         "positive_strings": [
-            " affair",
-            " thing",
-            " unto",
-            " issue",
-            " ploy",
-            " impossibility",
-            " breaker",
-            " violation",
-            "breaker",
-            "fest"
-        ],
-        "description": "sports-related words and terms"
-    },
-    {
-        "index": "19462",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_19462.json",
-        "negative_strings": [
-            " appointments",
-            " nominees",
-            "chers",
-            " panels",
-            "sheets",
-            " chiefs",
-            "elines",
-            " portfolios",
-            " CDs",
-            " forecasts"
-        ],
-        "positive_strings": [
-            " ))",
-            " ?)",
-            "ccording",
-            " )))",
-            " ])",
-            "ategory",
-            " ));",
-            "lished",
-            " )",
-            "\u00de"
-        ],
-        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
-    },
-    {
-        "index": "2507",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_2507.json",
-        "negative_strings": [
-            " broadcasting",
-            " transmitting",
-            " dehuman",
-            " broadcasters",
-            " atheists",
-            " disconnected",
-            " organizing",
-            " WATCHED",
-            " hearing",
-            " organized"
-        ],
-        "positive_strings": [
-            " Rye",
-            " Stout",
-            " Blend",
-            " Cake",
-            " Vanilla",
-            " whisky",
-            " Chocolate",
-            " Sauce",
-            "Tea",
-            " Beans"
-        ],
-        "description": "financial and business-related terms"
-    },
-    {
-        "index": "20362",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_20362.json",
-        "negative_strings": [
-            " establishments",
-            " channels",
-            "rooms",
-            "ernels",
-            "places",
-            " fronts",
-            "steps",
-            " lines",
-            " packages",
-            "ologies"
-        ],
-        "positive_strings": [
-            "ccording",
-            " earthqu",
-            "ozy",
-            " exting",
-            " shortage",
-            "cipled",
-            "bably",
-            " teasp",
-            "ikuman",
-            "icable"
-        ],
-        "description": "sports-related terms and descriptions"
-    },
-    {
-        "index": "2020",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_2020.json",
-        "negative_strings": [
-            "aurus",
-            "eon",
-            "ources",
-            "mith",
-            "erity",
-            "utenberg",
-            "ilion",
-            "eni",
-            "omething",
-            "uits"
-        ],
-        "positive_strings": [
-            "hood",
-            "proof",
-            "ishly",
-            "dom",
-            " beware",
-            "stown",
-            "iasis",
-            "liness",
-            " hunt",
-            "strate"
-        ],
-        "description": "phrases related to financial activities, specifically insider trading"
-    },
-    {
-        "index": "602",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_602.json",
-        "negative_strings": [
-            " alike",
-            " Kappa",
-            " stars",
-            "atever",
-            " GPUs",
-            " looms",
-            " Shining",
-            " cakes",
-            " suits",
-            " Mexicans"
-        ],
-        "positive_strings": [
-            " Published",
-            " sponsored",
-            "english",
-            "published",
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
             "avascript",
-            " affiliate",
-            " POLITICO",
-            " satire",
-            "ython",
-            "recated"
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
         ],
-        "description": "texts related to article publication and reproduction"
+        "description": "phrases indicating the beginning of a story or anecdote"
     },
     {
-        "index": "2280",
+        "index": "2271",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_2280.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a queen\\data_for_feature_2271.json",
         "negative_strings": [
-            "ename",
-            " unpaid",
-            "iating",
-            "ted",
-            " proposition",
-            " prompt",
-            " darling",
-            " part",
-            "ATIONS",
-            "orers"
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
         ],
         "positive_strings": [
-            "pin",
-            "pins",
-            "uin",
-            "doms",
-            "STON",
-            "killer",
-            "dom",
-            "DOM",
-            "ston",
-            "maker"
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
         ],
-        "description": "proper nouns related to royalty or kings"
-    },
-    {
-        "index": "12202",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a queen/data_for_feature_12202.json",
-        "negative_strings": [
-            " \u00c2\u0143",
-            "\u2014",
-            "\u00e2\u0122\u0133",
-            " \u00e2\u0122\u0137",
-            " \u00e2\u0122",
-            "\u2013",
-            "\u00e2\u0122\u0130",
-            " \u2014",
-            "\u2014\"",
-            "\u00e2\u0122"
-        ],
-        "positive_strings": [
-            " doesnt",
-            " lvl",
-            " dmg",
-            " didnt",
-            " pc",
-            " cpu",
-            " english",
-            " alot",
-            " tho",
-            " tv"
-        ],
-        "description": "nouns related to automobile parts and modifications"
+        "description": "past tense verbs"
     }
 ]

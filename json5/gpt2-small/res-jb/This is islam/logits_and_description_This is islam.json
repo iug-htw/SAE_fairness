@@ -1,8 +1,38 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
         "index": "19540",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_19540.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_19540.json",
         "negative_strings": [
             "ses",
             "anguages",
@@ -30,39 +60,129 @@
         "description": "the word \"is\" at a high activation level"
     },
     {
-        "index": "7040",
+        "index": "6811",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_7040.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_6811.json",
         "negative_strings": [
-            "Shape",
-            "Iv",
-            " looms",
-            "conn",
-            "ahu",
-            "eness",
-            " jaws",
-            "ibles",
-            "burgh",
-            "Bir"
+            " Occupations",
+            " ISS",
+            " Morales",
+            " Subtle",
+            "\u00e3\u0123\u00a6",
+            " Cust",
+            " nearest",
+            " Rabbit",
+            "Details",
+            "involved"
         ],
         "positive_strings": [
-            " copyrighted",
-            " reprinted",
-            " deprecated",
-            " archived",
-            " sponsored",
-            " adapted",
-            " excerpt",
-            " outdated",
-            " incomplete",
-            " reproduced"
+            "borgh",
+            "ming",
+            "ingo",
+            "ydia",
+            "lam",
+            "inated",
+            "orously",
+            "inate",
+            "inating",
+            "ination"
         ],
-        "description": "time-related information such as age or duration"
+        "description": "mentions of the term \"lam\" or potentially references to Islam"
+    },
+    {
+        "index": "21637",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_21637.json",
+        "negative_strings": [
+            " heights",
+            "rive",
+            " Aeg",
+            " EVs",
+            "GAME",
+            " downs",
+            " ballpark",
+            " potatoes",
+            "ups",
+            " Rober"
+        ],
+        "positive_strings": [
+            "ophobia",
+            "ophobic",
+            "ophob",
+            "abad",
+            "iyah",
+            "isation",
+            "aph",
+            "ization",
+            "ical",
+            "icals"
+        ],
+        "description": "mentions of Islam"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "5274",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_5274.json",
+        "negative_strings": [
+            " ISS",
+            " Occupations",
+            " Consent",
+            " Subtle",
+            " Happiness",
+            "BOOK",
+            "Birth",
+            "\u00e3\u0123\u00a6",
+            " Cust",
+            " Recon"
+        ],
+        "positive_strings": [
+            "lam",
+            "borgh",
+            "ming",
+            "ingo",
+            "mer",
+            "assic",
+            "osaurs",
+            "inated",
+            "orously",
+            "beer"
+        ],
+        "description": "mentions of a specific individual named \"Lam\""
     },
     {
         "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_21800.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_21800.json",
         "negative_strings": [
             " eleph",
             " hub",
@@ -90,9 +210,69 @@
         "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
         "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_18025.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_18025.json",
         "negative_strings": [
             "enaries",
             "sburg",
@@ -122,7 +302,7 @@
     {
         "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_24566.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_24566.json",
         "negative_strings": [
             "uese",
             " peg",
@@ -152,7 +332,7 @@
     {
         "index": "19832",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_19832.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_19832.json",
         "negative_strings": [
             "itiz",
             " respons",
@@ -180,9 +360,69 @@
         "description": "phrases indicating the beginning of a story or anecdote"
     },
     {
+        "index": "2271",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_2271.json",
+        "negative_strings": [
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
+        ],
+        "positive_strings": [
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
+        ],
+        "description": "past tense verbs"
+    },
+    {
+        "index": "13798",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_13798.json",
+        "negative_strings": [
+            "ornia",
+            "Interstitial",
+            "ilaterally",
+            "emale",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "pheus",
+            " Moroc",
+            " horizont",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " tradem"
+        ],
+        "positive_strings": [
+            " Flavoring",
+            " Coverage",
+            " Mant",
+            " Psy",
+            "Interested",
+            " Mars",
+            "BILITIES",
+            " GOODMAN",
+            "ANS",
+            " Entered"
+        ],
+        "description": "words related to specific entities such as places, people, and organizations"
+    },
+    {
         "index": "3222",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_3222.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_3222.json",
         "negative_strings": [
             " Poles",
             " Cou",
@@ -212,7 +452,7 @@
     {
         "index": "7731",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_7731.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_7731.json",
         "negative_strings": [
             "*/",
             "inventoryQuantity",
@@ -240,9 +480,69 @@
         "description": "phrases related to specific organizations or projects"
     },
     {
+        "index": "16348",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_16348.json",
+        "negative_strings": [
+            "adle",
+            "pots",
+            "masters",
+            "aments",
+            "\u00e3\u0124\u00b9\u00e3\u0125\u012a",
+            " Flores",
+            "\u00e3\u0125\u013a",
+            "aws",
+            "tones",
+            "pless"
+        ],
+        "positive_strings": [
+            "information",
+            " Week",
+            " week",
+            " arrang",
+            " Month",
+            " trope",
+            "jri",
+            "Adds",
+            " latest",
+            "Information"
+        ],
+        "description": "introductory phrases indicating the beginning of an article or story"
+    },
+    {
+        "index": "1221",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_1221.json",
+        "negative_strings": [
+            " Cheong",
+            "RT",
+            " dur",
+            " <+",
+            " misunder",
+            " Grizz",
+            " Tie",
+            " Costa",
+            " unauthorized",
+            " Kens"
+        ],
+        "positive_strings": [
+            "ic",
+            "ics",
+            "ical",
+            "ically",
+            "icism",
+            "ICAL",
+            "icity",
+            "ICS",
+            "icians",
+            "icum"
+        ],
+        "description": "keywords related to technology and medical treatments such as \"medical\", \"surgical\", and \"technological\""
+    },
+    {
         "index": "5048",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_5048.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is islam\\data_for_feature_5048.json",
         "negative_strings": [
             " headaches",
             "CG",
@@ -268,215 +568,5 @@
             " Tutorial"
         ],
         "description": "short introductory phrases starting with \"This is\" or similar constructions signaling the beginning of an explanation or description"
-    },
-    {
-        "index": "18356",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_18356.json",
-        "negative_strings": [
-            " woes",
-            " headaches",
-            " summers",
-            " rivals",
-            " evils",
-            " disasters",
-            " skeptics",
-            " mysteries",
-            "Laughs",
-            " villains"
-        ],
-        "positive_strings": [
-            " pione",
-            "vertisement",
-            "cloneembedreportprint",
-            " teasp",
-            "ibaba",
-            " externalTo",
-            "\u011c",
-            "\u0116",
-            "\u0112",
-            "\u011e"
-        ],
-        "description": "technical terms and instructions related to specific processes or systems"
-    },
-    {
-        "index": "10789",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_10789.json",
-        "negative_strings": [
-            " immersion",
-            " halfway",
-            " around",
-            " lay",
-            " afar",
-            " outside",
-            " within",
-            " therein",
-            " langu",
-            " laying"
-        ],
-        "positive_strings": [
-            "DragonMagazine",
-            "wcsstore",
-            "interstitial",
-            "catentry",
-            "\u0138\u013c",
-            "actionDate",
-            "plugins",
-            "URL",
-            " Flavoring",
-            "\"]=>"
-        ],
-        "description": "Twitter handles, dates, and URLs"
-    },
-    {
-        "index": "2271",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_2271.json",
-        "negative_strings": [
-            "inav",
-            "ership",
-            "edIn",
-            "regate",
-            "=-=-=-=-",
-            "iture",
-            "phabet",
-            "sburg",
-            "itiveness",
-            "eor"
-        ],
-        "positive_strings": [
-            " aware",
-            " able",
-            " complicit",
-            " addicted",
-            " unable",
-            " afraid",
-            " obligated",
-            " disqualified",
-            " incapable",
-            " circumcised"
-        ],
-        "description": "past tense verbs"
-    },
-    {
-        "index": "20701",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_20701.json",
-        "negative_strings": [
-            "aires",
-            "aws",
-            "zos",
-            "ials",
-            "isms",
-            "units",
-            "nings",
-            "iations",
-            "seen",
-            "mates"
-        ],
-        "positive_strings": [
-            " article",
-            " slideshow",
-            " concludes",
-            " repository",
-            " page",
-            " tutorial",
-            " week",
-            " is",
-            " isn",
-            " infographic"
-        ],
-        "description": "specific mention of dates, years, or events in a text"
-    },
-    {
-        "index": "23831",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_23831.json",
-        "negative_strings": [
-            "\u00e3\u0125\u0130",
-            "imately",
-            "orest",
-            "Otherwise",
-            "chie",
-            "uous",
-            "cedes",
-            "ellar",
-            " denies",
-            "llah"
-        ],
-        "positive_strings": [
-            " my",
-            " Hacker",
-            " reddit",
-            " Something",
-            " something",
-            " Advice",
-            " Surviv",
-            " Convers",
-            " someone",
-            " somebody"
-        ],
-        "description": "information related to articles, posts, and criticism"
-    },
-    {
-        "index": "21782",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_21782.json",
-        "negative_strings": [
-            " bis",
-            "itiz",
-            " cz",
-            "-\"",
-            " pont",
-            " capit",
-            " cardinal",
-            " quo",
-            " dissu",
-            " arch"
-        ],
-        "positive_strings": [
-            " Guys",
-            " Known",
-            " Favorite",
-            " Yourself",
-            " Your",
-            " Things",
-            " Called",
-            " About",
-            " Different",
-            " Customers"
-        ],
-        "description": "references related to sharing or distributing content online, such as social media platforms and news articles"
-    },
-    {
-        "index": "15776",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is islam/data_for_feature_15776.json",
-        "negative_strings": [
-            " looms",
-            " Temper",
-            "selves",
-            " Maid",
-            " headaches",
-            "auga",
-            " individuality",
-            " ghosts",
-            " looming",
-            " hordes"
-        ],
-        "positive_strings": [
-            " updated",
-            " archived",
-            "\u0124\u00ac",
-            "english",
-            " reviewed",
-            " reproduced",
-            " sponsored",
-            "review",
-            " reprinted",
-            " incomplete"
-        ],
-        "description": "phrases related to textual content being old, inspired by someone, a part of a larger piece, or reproduced with permission"
     }
 ]

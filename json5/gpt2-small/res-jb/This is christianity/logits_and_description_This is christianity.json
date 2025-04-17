@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "18341",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_18341.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_18341.json",
         "negative_strings": [
             " tarn",
             "TY",
@@ -32,7 +92,7 @@
     {
         "index": "101",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_101.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_101.json",
         "negative_strings": [
             " subsistence",
             " Sioux",
@@ -60,9 +120,69 @@
         "description": "terms related to \"Christmas\" or possibly religious references"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "3236",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_3236.json",
+        "negative_strings": [
+            "rils",
+            "ospels",
+            " Cosponsors",
+            "rals",
+            "ousands",
+            "viks",
+            " IMAGES",
+            "ATURES",
+            " Flavoring",
+            "osures"
+        ],
+        "positive_strings": [
+            "speak",
+            " territory",
+            " shorthand",
+            " jargon",
+            " heaven",
+            " slang",
+            " fodder",
+            " nonsense",
+            " bullshit",
+            " bait"
+        ],
+        "description": "terms related to technology and hacking"
+    },
+    {
         "index": "15503",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_15503.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_15503.json",
         "negative_strings": [
             " Flavoring",
             "GROUND",
@@ -90,69 +210,9 @@
         "description": "mentions of the name \"Christ\" or related terms"
     },
     {
-        "index": "19832",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_19832.json",
-        "negative_strings": [
-            "itiz",
-            " respons",
-            " thereafter",
-            " thereof",
-            " accordingly",
-            "\u00e2\u0138\u00ba",
-            " outwe",
-            " thereto",
-            " moreover",
-            "?,"
-        ],
-        "positive_strings": [
-            "reetings",
-            "anmar",
-            " SHARES",
-            "zbollah",
-            "stanbul",
-            "avascript",
-            " Vegan",
-            " Updated",
-            " Introduction",
-            "o\u00c4\u0141an"
-        ],
-        "description": "phrases indicating the beginning of a story or anecdote"
-    },
-    {
-        "index": "15326",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_15326.json",
-        "negative_strings": [
-            "voc",
-            "rahim",
-            "auga",
-            "STD",
-            "iox",
-            "ysics",
-            "uto",
-            "izabeth",
-            "ected",
-            "uador"
-        ],
-        "positive_strings": [
-            " Eve",
-            " Tree",
-            " Carol",
-            " tree",
-            " decorations",
-            " Trees",
-            " eve",
-            " stocking",
-            " Gifts",
-            " Island"
-        ],
-        "description": "references to violent or tragic events related to terrorism or crime, such as attacks and kidnappings"
-    },
-    {
         "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_21800.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_21800.json",
         "negative_strings": [
             " eleph",
             " hub",
@@ -180,213 +240,333 @@
         "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "22318",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_22318.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_7040.json",
         "negative_strings": [
-            " Chattanooga",
-            "pling",
-            " chambers",
-            " Durham",
-            "plin",
-            "\u00e2\u012a",
-            " Loch",
-            " Pittsburgh",
-            "lect",
-            " Kinder"
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
-            "ian",
-            "ians",
-            "IAN",
-            "ia",
-            "ienne",
-            "iana",
-            "ias",
-            "iano",
-            "ien",
-            "arian"
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "references to geographical locations"
+        "description": "time-related information such as age or duration"
     },
     {
-        "index": "4565",
+        "index": "5854",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_4565.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_5854.json",
         "negative_strings": [
-            " theirs",
-            " displacement",
-            " hub",
-            " habit",
-            " established",
-            " hypot",
-            " abandon",
-            " obligation",
-            " eleph",
-            " offending"
+            "ively",
+            "uration",
+            "IVE",
+            "urers",
+            "urations",
+            " subtract",
+            "uring",
+            "redd",
+            "urer",
+            "urance"
         ],
         "positive_strings": [
-            "Untitled",
-            "WASHINGTON",
-            "Abstract",
-            "CLOSE",
-            "Description",
-            "Overview",
-            "Welcome",
-            "CTV",
-            "SAN",
-            "CLE"
+            "nis",
+            "thus",
+            "na",
+            "apolis",
+            "ni",
+            "throp",
+            "thro",
+            "ne",
+            "opolis",
+            "tha"
         ],
-        "description": "phrases related to legal or official statements"
+        "description": "names or terms related to individuals"
     },
     {
-        "index": "19232",
+        "index": "903",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_19232.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_903.json",
         "negative_strings": [
-            "hesive",
-            "iom",
-            "osphere",
-            " handle",
-            " accompanying",
-            "uggish",
-            "azard",
-            "fman",
-            "static",
-            "asive"
+            "edin",
+            "ors",
+            "redd",
+            "ariat",
+            "\u00e3\u0124\u012d",
+            "stals",
+            "utor",
+            "insert",
+            "chard",
+            " suites"
         ],
         "positive_strings": [
-            " Day",
-            " day",
-            "Day",
-            "day",
-            " DAY",
-            " Month",
-            "DAY",
-            "days",
-            "nesday",
-            " Week"
+            " Bale",
+            " denominations",
+            " missionaries",
+            " fundamentalist",
+            " Reconstruction",
+            " Scientists",
+            " Scientist",
+            "osate",
+            " Nightmares",
+            " Identity"
         ],
-        "description": "important dates or events"
+        "description": "mentions of Christianity and Christian-related terms"
     },
     {
-        "index": "8596",
+        "index": "17006",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_8596.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_17006.json",
         "negative_strings": [
-            " assailants",
-            " Explorer",
-            " adversaries",
-            " foe",
-            " bullies",
-            " Bind",
-            " dece",
-            " killers",
-            " poverty",
-            " blindness"
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
         ],
         "positive_strings": [
-            "ocamp",
-            "opot",
-            "ocratic",
-            "ocrates",
-            "eties",
-            "ocrat",
-            "oly",
-            "ey",
-            "ete",
-            "ety"
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
         ],
-        "description": "the word \"hippies\" and related terms"
+        "description": "adjectives and nouns indicating personal experiences or stories"
     },
     {
-        "index": "9503",
+        "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_9503.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_18025.json",
         "negative_strings": [
-            "irl",
-            "uden",
-            "yss",
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "18099",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_18099.json",
+        "negative_strings": [
+            "accompan",
+            "kef",
+            "ask",
+            "alogue",
+            " ellipt",
+            "opa",
+            "\u00a3\u0131",
+            "soDeliveryDate",
+            "iston",
+            "/**"
+        ],
+        "positive_strings": [
+            " Peb",
+            "ilty",
+            "leness",
+            "fulness",
+            "rics",
+            "phal",
+            "ity",
+            " Rating",
+            "ality",
+            " IMAGES"
+        ],
+        "description": "words related to identity, especially in the context of organizations or legal terms"
+    },
+    {
+        "index": "3012",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_3012.json",
+        "negative_strings": [
+            "accompan",
+            "soDeliveryDate",
+            " ellipt",
+            " referen",
+            "hester",
+            "Capt",
+            "awaru",
+            "prototype",
+            "inav",
+            "emetery"
+        ],
+        "positive_strings": [
+            "ity",
+            " Peb",
+            "fulness",
+            "ilty",
+            "istically",
+            "lihood",
             "yip",
-            " bandwagon",
-            " dearly",
-            "ffen",
-            "gem",
-            "iren",
-            "hirt"
+            "-------",
+            "ities",
+            "rics"
         ],
-        "positive_strings": [
-            " increments",
-            " circumstances",
-            " fashion",
-            " quantities",
-            " proportions",
-            " terms",
-            " accordance",
-            " unison",
-            " haste",
-            " intervals"
-        ],
-        "description": "phrases indicating a strong or extreme contrast between different entities or situations"
+        "description": "words related to qualities or attributes such as \"purity\" or \"quality\""
     },
     {
-        "index": "22106",
+        "index": "15977",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_22106.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_15977.json",
         "negative_strings": [
-            "artments",
-            " wiring",
-            " VIDE",
-            "qus",
-            " transcript",
-            "lycer",
-            " conn",
-            "hesive",
-            "jected",
-            "ierrez"
+            " Chiefs",
+            "fman",
+            "Tam",
+            "umm",
+            "liest",
+            " Crew",
+            " Cull",
+            "bah",
+            " Recording",
+            "Journal"
         ],
         "positive_strings": [
-            " commemor",
-            " commem",
-            " celebrations",
-            " holiday",
-            " celebration",
-            " holidays",
-            " anniversary",
-            " festivities",
-            " Feast",
-            " Celebr"
+            "ophobia",
+            "ism",
+            "ophobic",
+            "atism",
+            "anism",
+            " preached",
+            "ophob",
+            " itself",
+            " practiced",
+            " advocated"
         ],
-        "description": "dates and events related to American holidays, particularly the Fourth of July"
+        "description": "religious and political ideologies"
     },
     {
-        "index": "24106",
+        "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is christianity/data_for_feature_24106.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_24566.json",
         "negative_strings": [
-            " Scotia",
-            " Bagg",
-            " Statistical",
-            "itarian",
-            "ive",
-            "IONS",
-            " quo",
-            " College",
-            "ions",
-            "ories"
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
         ],
         "positive_strings": [
-            "en",
-            "ens",
-            "ening",
-            "ened",
-            "EN",
-            "eners",
-            "enic",
-            "ener",
-            "enf",
-            "eny"
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
         ],
-        "description": "adjectives related to physical characteristics and states"
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
+        "index": "14168",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is christianity\\data_for_feature_14168.json",
+        "negative_strings": [
+            "orative",
+            "raints",
+            " mathemat",
+            "puter",
+            "IRT",
+            "icket",
+            " Ended",
+            "\u0130\u012d",
+            "raint",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9"
+        ],
+        "positive_strings": [
+            "ians",
+            "ian",
+            "nian",
+            "ity",
+            "apolis",
+            "opolis",
+            "cies",
+            "nis",
+            "ocide",
+            "ism"
+        ],
+        "description": "words related to the Ionian culture or the Ionian mode in music"
     }
 ]

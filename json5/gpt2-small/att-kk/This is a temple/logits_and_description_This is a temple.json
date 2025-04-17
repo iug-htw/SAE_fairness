@@ -1,8 +1,38 @@
 [
     {
+        "index": "23316",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_23316.json",
+        "negative_strings": [
+            "edIn",
+            " Leilan",
+            " Giul",
+            "Catal",
+            "arsity",
+            "331",
+            "\u30c6",
+            "ageddon",
+            " herself",
+            "553"
+        ],
+        "positive_strings": [
+            "merce",
+            "NetMessage",
+            "ccording",
+            " tremend",
+            "cknowled",
+            "odes",
+            "pmwiki",
+            " stead",
+            "etheless",
+            "ramid"
+        ],
+        "description": "articles or narratives describing events or scenarios involving incidents and actions"
+    },
+    {
         "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_5272.json",
         "negative_strings": [
             "\ufffd",
             " \ufffd",
@@ -30,39 +60,159 @@
         "description": " references indicating the publication status of an article or story"
     },
     {
-        "index": "4310",
+        "index": "10680",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_4310.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_10680.json",
         "negative_strings": [
-            "catentry",
-            "ILLE",
-            "OHN",
-            "BILITIES",
-            " Legislation",
-            "\u30d3",
-            " contrace",
-            " POLIT",
-            "Generic",
-            "\ufffd\ufffd"
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
         ],
         "positive_strings": [
-            "merce",
-            "kered",
-            "tale",
-            "vre",
-            "iverse",
-            "iasis",
-            "hess",
-            "arsh",
-            "orth",
-            "tten"
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
         ],
-        "description": "names related to specific universities or individuals, particularly focusing on the names with the word \"oster\" in them"
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "6946",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_6946.json",
+        "negative_strings": [
+            "rities",
+            "seys",
+            "ifferent",
+            "oes",
+            " warranties",
+            "quartered",
+            "alties",
+            "cry",
+            "heimer",
+            " carbohyd"
+        ],
+        "positive_strings": [
+            "ebin",
+            "eco",
+            " blat",
+            " LW",
+            " continuation",
+            "atform",
+            " BRE",
+            " Rebellion",
+            " Torrent",
+            "catentry"
+        ],
+        "description": "descriptive phrases that introduce subjects or items"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "3178",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_3178.json",
+        "negative_strings": [
+            "aneers",
+            "ipeg",
+            "seys",
+            "plates",
+            "casters",
+            "oes",
+            "writers",
+            "builders",
+            "dies",
+            " Controls"
+        ],
+        "positive_strings": [
+            " Wik",
+            " Huck",
+            "entious",
+            " conjecture",
+            " proverb",
+            "anmar",
+            " Poe",
+            " Bulgar",
+            "gie",
+            " Hond"
+        ],
+        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
     },
     {
         "index": "19236",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_19236.json",
         "negative_strings": [
             "iots",
             "arms",
@@ -90,189 +240,129 @@
         "description": "adjectives describing states or conditions"
     },
     {
-        "index": "14871",
+        "index": "1314",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_14871.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_1314.json",
         "negative_strings": [
-            "ngth",
-            "conservancy",
-            "urers",
-            "profits",
-            "bats",
-            "cles",
-            " faculties",
-            "wings",
-            "severe",
-            "owered"
-        ],
-        "positive_strings": [
-            "SourceFile",
-            " shenan",
-            "ECA",
-            " explan",
-            " understatement",
-            " millenn",
-            " toile",
-            " unpop",
-            " horm",
-            "\u30bb"
-        ],
-        "description": "important adjectives or descriptors that characterize significant concepts or entities"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "10226",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_10226.json",
-        "negative_strings": [
-            "ROR",
-            "Published",
-            " HuffPost",
-            " RNC",
-            "shows",
-            "Trend",
-            " Electoral",
-            " RAND",
-            " DNC",
-            "vous"
-        ],
-        "positive_strings": [
-            " challeng",
-            " maiden",
-            " worsh",
-            "ldom",
-            " exting",
-            " tremend",
-            " ornament",
-            " millenn",
-            "lings",
-            "ulously"
-        ],
-        "description": "mentions or descriptions of religious buildings"
-    },
-    {
-        "index": "2229",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_2229.json",
-        "negative_strings": [
-            " Daytona",
-            "emed",
-            "Slot",
-            " Fet",
-            " [|",
-            " Sic",
-            "Track",
-            " Tycoon",
-            "021",
-            " Carnival"
-        ],
-        "positive_strings": [
-            "etheless",
-            "NetMessage",
-            "merce",
-            " showc",
-            " gobl",
-            " confir",
-            " proble",
-            " tremend",
-            "lly",
-            " arrang"
-        ],
-        "description": "terms related to past events or comparisons between different instances"
-    },
-    {
-        "index": "6760",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_6760.json",
-        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
             "\ufffd\ufffd",
-            "awaru",
-            "terness",
-            " citiz",
-            " mathemat",
-            "ysical",
-            "rolet",
-            "merce",
-            "espie",
-            " metic"
+            " BaseType",
+            " built",
+            "}.",
+            "town"
         ],
         "positive_strings": [
-            "nd",
-            "147",
-            "ADS",
-            "131",
-            "181",
-            "187",
-            "140",
-            "VI",
-            "105",
-            "160"
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
         ],
-        "description": "numerical data and specifications"
+        "description": "numeric values or hexadecimal codes"
     },
     {
-        "index": "11097",
+        "index": "1496",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_11097.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_1496.json",
         "negative_strings": [
-            "etheless",
-            "mpeg",
-            "ritz",
-            "uddenly",
-            "bats",
-            "ngth",
-            "profits",
-            "severe",
-            "ierrez",
-            "rero"
+            "EStream",
+            "FML",
+            "awaru",
+            "\u314b",
+            "\ufffd\ufffd",
+            " prof",
+            " Pastebin",
+            " DRAG",
+            " SERV",
+            " penetrating"
         ],
         "positive_strings": [
-            "\u30bb",
-            "ECA",
-            " TRAN",
-            " shenan",
-            " Airbus",
-            " \u00d7",
-            " Craigslist",
-            " Niet",
-            " Disclosure",
-            "atform"
+            "atten",
+            "oma",
+            "ica",
+            "iking",
+            "ationally",
+            "umeric",
+            "early",
+            "ichi",
+            "oha",
+            "acht"
         ],
-        "description": " topics related to lists and reviews of various subjects"
+        "description": "names of people"
+    },
+    {
+        "index": "18744",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
     },
     {
         "index": "8429",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_8429.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_8429.json",
         "negative_strings": [
             "cknow",
             " Talks",
@@ -300,69 +390,129 @@
         "description": "details and discussions related to specific events, cases, or topics"
     },
     {
-        "index": "19745",
+        "index": "19587",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_19745.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_19587.json",
         "negative_strings": [
-            "town",
-            " Shrine",
-            " Peninsula",
-            " Havana",
-            "Lago",
-            " Bras",
-            "560",
-            "501",
-            "1980",
-            "1970"
+            " challeng",
+            "wagon",
+            "eatures",
+            "ultimate",
+            "estones",
+            "ulously",
+            "icho",
+            "Versions",
+            "ilty",
+            "iest"
         ],
         "positive_strings": [
-            "ihad",
-            " proble",
-            "\ufffd\ufffd",
-            "terness",
-            " dilig",
-            "earchers",
-            "nces",
-            " suspic",
-            "etheless",
-            " partName"
+            " Disclosure",
+            "sbm",
+            " MPG",
+            " \u203a",
+            " Renew",
+            "xiety",
+            " Finder",
+            " Hann",
+            " Ever",
+            " MSI"
         ],
-        "description": "the word \"how\" followed by a number conveying importance or intensity"
+        "description": "information related to news articles or political figures"
     },
     {
-        "index": "10316",
+        "index": "21052",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_10316.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_21052.json",
         "negative_strings": [
-            " trusts",
-            " assemblies",
-            " Contracts",
-            "ULTS",
-            " strikers",
-            " formations",
-            "events",
-            " Cups",
-            "stocks",
-            " interfaces"
+            "inates",
+            " Archdemon",
+            "ourses",
+            " NCT",
+            "thur",
+            "steen",
+            " captcha",
+            "nings",
+            " Devi",
+            " Jenner"
         ],
         "positive_strings": [
-            "ocobo",
-            "emonic",
-            "ebin",
-            "assian",
-            "DragonMagazine",
-            "ccording",
-            "abyte",
-            "urion",
-            "majority",
-            "ivist"
+            " persuasion",
+            " contrace",
+            "aea",
+            "pta",
+            "ilo",
+            " conserve",
+            "udence",
+            " Levant",
+            "iani",
+            " gest"
         ],
-        "description": "phrases related to critique and questioning"
+        "description": "phrases that reference intentions and purposes related to bureaucratic or official contexts"
+    },
+    {
+        "index": "22221",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_22221.json",
+        "negative_strings": [
+            "FactoryReloaded",
+            " afterward",
+            "folios",
+            " afterwards",
+            " thous",
+            " Mub",
+            "\ufffd\u58eb",
+            "\u30fc\u30c6",
+            " wors",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "soDeliveryDate",
+            "NetMessage",
+            "lihood",
+            "taboola",
+            " FANTASY",
+            "ktop",
+            "enhagen",
+            " nutrit",
+            "aukee",
+            "itability"
+        ],
+        "description": "names or titles indicated by possessive form ('s)"
+    },
+    {
+        "index": "4310",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_4310.json",
+        "negative_strings": [
+            "catentry",
+            "ILLE",
+            "OHN",
+            "BILITIES",
+            " Legislation",
+            "\u30d3",
+            " contrace",
+            " POLIT",
+            "Generic",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "merce",
+            "kered",
+            "tale",
+            "vre",
+            "iverse",
+            "iasis",
+            "hess",
+            "arsh",
+            "orth",
+            "tten"
+        ],
+        "description": "names related to specific universities or individuals, particularly focusing on the names with the word \"oster\" in them"
     },
     {
         "index": "17922",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_17922.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a temple\\data_for_feature_17922.json",
         "negative_strings": [
             " lik",
             "Reviewer",
@@ -388,125 +538,5 @@
             "veyard"
         ],
         "description": "negative sentiments or phrases indicating disappointment"
-    },
-    {
-        "index": "5981",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_5981.json",
-        "negative_strings": [
-            "anting",
-            "antes",
-            " diluted",
-            " squash",
-            "ilty",
-            "hammad",
-            " dissolve",
-            "PROV",
-            "undy",
-            " recycle"
-        ],
-        "positive_strings": [
-            "FAQ",
-            "IRC",
-            "estern",
-            "Mand",
-            "panic",
-            "laus",
-            "ebus",
-            "yss",
-            "ymm",
-            "DragonMagazine"
-        ],
-        "description": "information related to time frames or dates"
-    },
-    {
-        "index": "14421",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_14421.json",
-        "negative_strings": [
-            "\u30a8\u30eb",
-            "queue",
-            "uin",
-            "ences",
-            "rities",
-            "robe",
-            "seys",
-            "cknow",
-            "dies",
-            "\ufffd\ufffd"
-        ],
-        "positive_strings": [
-            " Shib",
-            " Cornel",
-            "AAA",
-            " ALEC",
-            " Seat",
-            " unfolding",
-            " understatement",
-            " Orwell",
-            " Salmon",
-            " OW"
-        ],
-        "description": "phrases related to sequential occurrences or lists"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "23842",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a temple/data_for_feature_23842.json",
-        "negative_strings": [
-            " ACTIONS",
-            " horn",
-            " corridors",
-            " busiest",
-            "CHR",
-            " Doyle",
-            " attrition",
-            " Gerr",
-            " signalling",
-            " repr"
-        ],
-        "positive_strings": [
-            "anche",
-            "rait",
-            "icum",
-            "uer",
-            "rav",
-            "arching",
-            "lez",
-            "ormons",
-            "acent",
-            "enza"
-        ],
-        "description": "mentions of a specific location, likely related to legislation or community concerns"
     }
 ]

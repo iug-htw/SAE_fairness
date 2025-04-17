@@ -1,8 +1,158 @@
 [
     {
+        "index": "18744",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "12368",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_12368.json",
+        "negative_strings": [
+            "\u30fc\u30c6",
+            "331",
+            " ItemLevel",
+            " Sic",
+            " Cay",
+            "975",
+            "\u30c6",
+            "Lago",
+            "esm",
+            "561"
+        ],
+        "positive_strings": [
+            "merce",
+            "odes",
+            "etheless",
+            " tremend",
+            " misunder",
+            "NetMessage",
+            "etsk",
+            "\ufffd\ufffd",
+            " suspic",
+            "raviolet"
+        ],
+        "description": "mentions of timeframes, such as months or years"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
+    },
+    {
         "index": "10931",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_10931.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_10931.json",
         "negative_strings": [
             "gae",
             "MpServer",
@@ -32,7 +182,7 @@
     {
         "index": "19236",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_19236.json",
         "negative_strings": [
             "iots",
             "arms",
@@ -60,9 +210,129 @@
         "description": "adjectives describing states or conditions"
     },
     {
+        "index": "13121",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_13121.json",
+        "negative_strings": [
+            "FTWARE",
+            " Universities",
+            " Dimensions",
+            " UD",
+            " M\u00e9",
+            " vans",
+            " Components",
+            " Duchess",
+            "rities",
+            "\"\""
+        ],
+        "positive_strings": [
+            "OULD",
+            "worldly",
+            " belongs",
+            " belonged",
+            "alien",
+            "ald",
+            "oster",
+            "arist",
+            " happened",
+            "ichick"
+        ],
+        "description": "dialogue excerpts or quotes from a story"
+    },
+    {
+        "index": "18238",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_18238.json",
+        "negative_strings": [
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Discussion",
+            "arsity",
+            "asel",
+            "adra",
+            "[_",
+            "\ufffd\ufffd",
+            "izoph",
+            "Catal"
+        ],
+        "positive_strings": [
+            "terday",
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            "oreal",
+            " confir",
+            "lihood",
+            "ktop",
+            " proble",
+            " nutrit"
+        ],
+        "description": "dates or events"
+    },
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "22221",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_22221.json",
+        "negative_strings": [
+            "FactoryReloaded",
+            " afterward",
+            "folios",
+            " afterwards",
+            " thous",
+            " Mub",
+            "\ufffd\u58eb",
+            "\u30fc\u30c6",
+            " wors",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "soDeliveryDate",
+            "NetMessage",
+            "lihood",
+            "taboola",
+            " FANTASY",
+            "ktop",
+            "enhagen",
+            " nutrit",
+            "aukee",
+            "itability"
+        ],
+        "description": "names or titles indicated by possessive form ('s)"
+    },
+    {
         "index": "12647",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_12647.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_12647.json",
         "negative_strings": [
             "otropic",
             " froze",
@@ -90,39 +360,9 @@
         "description": "specific points or references to time and events described within a narrative or context"
     },
     {
-        "index": "18744",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_18744.json",
-        "negative_strings": [
-            "gins",
-            "obbies",
-            "bats",
-            " jams",
-            "terness",
-            " vans",
-            "cius",
-            " cabinets",
-            " buses",
-            "iliary"
-        ],
-        "positive_strings": [
-            "OULD",
-            "MpServer",
-            "\u9ed2",
-            "\u306e\u9b54",
-            "recated",
-            "\":[\"",
-            " belonged",
-            " belongs",
-            "BuyableInstoreAndOnline",
-            "pire"
-        ],
-        "description": " topics related to assessment and critique"
-    },
-    {
         "index": "18437",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_18437.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_18437.json",
         "negative_strings": [
             "EEK",
             "alez",
@@ -152,7 +392,7 @@
     {
         "index": "1232",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_1232.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_1232.json",
         "negative_strings": [
             "wagen",
             "omorphic",
@@ -180,309 +420,99 @@
         "description": "temperature and weather information, possibly related to different months or locations"
     },
     {
-        "index": "1314",
+        "index": "6760",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_1314.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_6760.json",
         "negative_strings": [
-            " CLSID",
-            "FactoryReloaded",
-            "\ufffd\u58eb",
-            "arsity",
-            "Catal",
             "\ufffd\ufffd",
-            " BaseType",
-            " built",
-            "}.",
-            "town"
+            "awaru",
+            "terness",
+            " citiz",
+            " mathemat",
+            "ysical",
+            "rolet",
+            "merce",
+            "espie",
+            " metic"
         ],
         "positive_strings": [
-            "lihood",
-            "NetMessage",
-            " proble",
-            "terday",
-            "VIDIA",
-            "aying",
-            "andem",
-            "oreal",
-            "vre",
-            "SourceFile"
+            "nd",
+            "147",
+            "ADS",
+            "131",
+            "181",
+            "187",
+            "140",
+            "VI",
+            "105",
+            "160"
         ],
-        "description": "numeric values or hexadecimal codes"
+        "description": "numerical data and specifications"
     },
     {
-        "index": "19357",
+        "index": "20223",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_19357.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_20223.json",
         "negative_strings": [
-            "cuts",
-            "iots",
-            "doms",
-            "vation",
-            "fires",
-            "woods",
-            "Opening",
-            "cart",
-            " Roads",
-            "TON"
+            "enegger",
+            "rawdownloadcloneembedreportprint",
+            "OHN",
+            "\u30fc\u30c6",
+            " Collider",
+            " caring",
+            "GROUND",
+            "bler",
+            "\u0629",
+            " needing"
         ],
         "positive_strings": [
-            "recated",
-            "govtrack",
-            "fml",
-            "actly",
-            " Beir",
-            "DragonMagazine",
-            "ql",
-            "currently",
-            "cedented",
-            "URRENT"
+            "window",
+            "estate",
+            "review",
+            "\ufffd\ufffd",
+            "idate",
+            "gallery",
+            "omore",
+            "malink",
+            "irlf",
+            "audio"
         ],
-        "description": "phrases related to making arguments or assessments"
+        "description": "phrases related to documentation and metadata"
     },
     {
-        "index": "1316",
+        "index": "14754",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_1316.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_14754.json",
         "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "19955",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_19955.json",
-        "negative_strings": [
-            "Discussion",
-            "arsity",
-            "asel",
             "FactoryReloaded",
-            "\ufffd\u58eb",
+            "town",
             "Tokens",
-            " Mexicans",
-            " later",
-            "Eventually",
+            "arsity",
+            "edIn",
+            "901",
+            "331",
+            "esm",
+            "\ufffd\u58eb",
             "}."
         ],
         "positive_strings": [
-            "VIDIA",
-            " confir",
             "NetMessage",
-            " proble",
+            " conduc",
             "oreal",
-            "SourceFile",
-            "eatures",
-            "atform",
-            "untary",
-            "iband"
+            " nutrit",
+            "merce",
+            " proble",
+            "everal",
+            " enthusi",
+            "VIDIA",
+            " confir"
         ],
-        "description": "terms related to programming, specifically discord commands and code snippets"
-    },
-    {
-        "index": "2931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_2931.json",
-        "negative_strings": [
-            "Benz",
-            "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
-        ],
-        "positive_strings": [
-            "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
-        ],
-        "description": "email subscription-related terms and commands"
-    },
-    {
-        "index": "13121",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_13121.json",
-        "negative_strings": [
-            "FTWARE",
-            " Universities",
-            " Dimensions",
-            " UD",
-            " M\u00e9",
-            " vans",
-            " Components",
-            " Duchess",
-            "rities",
-            "\"\""
-        ],
-        "positive_strings": [
-            "OULD",
-            "worldly",
-            " belongs",
-            " belonged",
-            "alien",
-            "ald",
-            "oster",
-            "arist",
-            " happened",
-            "ichick"
-        ],
-        "description": "dialogue excerpts or quotes from a story"
-    },
-    {
-        "index": "1238",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_1238.json",
-        "negative_strings": [
-            "\ufffd\u58eb",
-            "ageddon",
-            "idated",
-            "\u30fc\u30c6",
-            "\u30fc\u30c6\u30a3",
-            "edIn",
-            "raltar",
-            "allery",
-            "iterranean",
-            "pload"
-        ],
-        "positive_strings": [
-            "NetMessage",
-            "pmwiki",
-            "taboola",
-            "lihood",
-            " DRAGON",
-            " squirrel",
-            "pine",
-            "posing",
-            "quartered",
-            "amins"
-        ],
-        "description": "the number or word \"two\" mentioned in the text"
-    },
-    {
-        "index": "5710",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_5710.json",
-        "negative_strings": [
-            "imity",
-            "\ufffd\ufffd",
-            " pleasure",
-            " STATS",
-            "artisan",
-            "anooga",
-            "ivities",
-            "washer",
-            "\u30e3",
-            " MPG"
-        ],
-        "positive_strings": [
-            "oppable",
-            "arsh",
-            "orrow",
-            "arming",
-            "ugg",
-            "million",
-            "iosyncr",
-            "ledge",
-            "EEK",
-            "atten"
-        ],
-        "description": "mentions of statistical or factual information related to specific topics"
-    },
-    {
-        "index": "23448",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_23448.json",
-        "negative_strings": [
-            " formation",
-            " overt",
-            " schemes",
-            " Derby",
-            " Marathon",
-            " deed",
-            " flyers",
-            " periods",
-            " Bill",
-            " Newsp"
-        ],
-        "positive_strings": [
-            "\"]=>",
-            "inion",
-            "irez",
-            "channelAvailability",
-            "access",
-            "bnb",
-            "english",
-            " sd",
-            "\u30bc\u30a6\u30b9",
-            "ui"
-        ],
-        "description": "references to dates, statistics, and technical terminology related to economic and social discussions"
-    },
-    {
-        "index": "3178",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_3178.json",
-        "negative_strings": [
-            "aneers",
-            "ipeg",
-            "seys",
-            "plates",
-            "casters",
-            "oes",
-            "writers",
-            "builders",
-            "dies",
-            " Controls"
-        ],
-        "positive_strings": [
-            " Wik",
-            " Huck",
-            "entious",
-            " conjecture",
-            " proverb",
-            "anmar",
-            " Poe",
-            " Bulgar",
-            "gie",
-            " Hond"
-        ],
-        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
+        "description": "sentences related to health and fitness"
     },
     {
         "index": "8429",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_8429.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_8429.json",
         "negative_strings": [
             "cknow",
             " Talks",
@@ -510,33 +540,33 @@
         "description": "details and discussions related to specific events, cases, or topics"
     },
     {
-        "index": "17213",
+        "index": "19357",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/this is female/data_for_feature_17213.json",
+        "url": "json5\\gpt2-small\\att-kk\\this is female\\data_for_feature_19357.json",
         "negative_strings": [
-            "=-=-",
-            "ournal",
-            "displayText",
-            "rawdownloadcloneembedreportprint",
-            "alez",
-            "lopp",
-            "trak",
-            "\ufffd\ufffd",
-            "ebin",
-            "OPLE"
+            "cuts",
+            "iots",
+            "doms",
+            "vation",
+            "fires",
+            "woods",
+            "Opening",
+            "cart",
+            " Roads",
+            "TON"
         ],
         "positive_strings": [
-            "oubted",
-            "izont",
-            "lings",
-            "istant",
-            " offspring",
-            " Spectre",
-            "poke",
-            " apparel",
-            " themed",
-            " infantry"
+            "recated",
+            "govtrack",
+            "fml",
+            "actly",
+            " Beir",
+            "DragonMagazine",
+            "ql",
+            "currently",
+            "cedented",
+            "URRENT"
         ],
-        "description": "references to female-related concepts and occurrences"
+        "description": "phrases related to making arguments or assessments"
     }
 ]

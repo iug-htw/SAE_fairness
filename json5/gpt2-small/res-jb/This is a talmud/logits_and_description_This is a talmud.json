@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "20178",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_20178.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_20178.json",
         "negative_strings": [
             " largeDownload",
             " surprise",
@@ -30,9 +90,99 @@
         "description": "references to a specific person named Tal"
     },
     {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
         "index": "3396",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_3396.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_3396.json",
         "negative_strings": [
             "EEE",
             "lihood",
@@ -60,9 +210,69 @@
         "description": "the name \"Tal\" followed by a number"
     },
     {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
         "index": "11928",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_11928.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_11928.json",
         "negative_strings": [
             "lihood",
             "\u00e3\u0125\u0129\u00e3\u0124\u00a3",
@@ -90,9 +300,159 @@
         "description": "names or terms related to a person named \"Tal\""
     },
     {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "17056",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_17056.json",
+        "negative_strings": [
+            "ktop",
+            "etsy",
+            "appa",
+            "ptives",
+            "irl",
+            "ched",
+            "rice",
+            " Stef",
+            "ecycle",
+            "oresc"
+        ],
+        "positive_strings": [
+            " verses",
+            " verse",
+            " Verse",
+            " passages",
+            " prophecy",
+            " Commentary",
+            " literal",
+            " quotations",
+            " Dictionary",
+            " Vers"
+        ],
+        "description": "religious text references, particularly the Bible"
+    },
+    {
+        "index": "19958",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_19958.json",
+        "negative_strings": [
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
+        ],
+        "positive_strings": [
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
+        ],
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
         "index": "12851",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_12851.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_12851.json",
         "negative_strings": [
             " Logo",
             "hetti",
@@ -120,303 +480,93 @@
         "description": "medical terms related to the lymphatic system"
     },
     {
-        "index": "22633",
+        "index": "2634",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_22633.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_2634.json",
         "negative_strings": [
-            "hyde",
-            "apter",
-            "iPhone",
-            "iod",
-            "daq",
-            "++++++++++++++++",
-            " diplom",
-            " IPM",
-            " independ",
-            "duino"
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
         ],
         "positive_strings": [
-            "ographical",
-            "istical",
-            "istically",
-            " tal",
-            "isman",
-            "ography",
-            "entity",
-            "itious",
-            " scripture",
-            "iste"
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
         ],
-        "description": "references to specific entities, likely related to a particular company or organization named \"Nexen Energy\""
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
     },
     {
-        "index": "22236",
+        "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_22236.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_24566.json",
         "negative_strings": [
-            " seeded",
-            "ournals",
-            "rounder",
-            "endif",
-            "side",
-            "OLD",
-            "edge",
-            " Donation",
-            " Patent",
-            " endif"
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
         ],
         "positive_strings": [
-            " tant",
-            " Tant",
-            "amount",
-            "ority",
-            " reluct",
-            "alus",
-            "emonium",
-            "abase",
-            "rums",
-            " toile"
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
         ],
-        "description": "words related to intense emotional reactions or conflicts"
+        "description": "phrases related to exposing or revealing information"
     },
     {
-        "index": "19357",
+        "index": "19832",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_19357.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a talmud\\data_for_feature_19832.json",
         "negative_strings": [
-            " Cups",
-            " setbacks",
-            " ones",
-            " bosses",
-            " fixtures",
-            " testers",
-            " Ones",
-            " Tanks",
-            " agents",
-            " deployments"
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
         ],
         "positive_strings": [
-            "uristic",
-            "cipled",
-            "emonic",
-            "ministic",
-            "assian",
-            "emale",
-            "athetic",
-            "rotein",
-            "icrobial",
-            "ogeneous"
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
         ],
-        "description": "negative social behaviors and controversial terms related to race and prejudice"
-    },
-    {
-        "index": "921",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_921.json",
-        "negative_strings": [
-            "atically",
-            "etheless",
-            "manship",
-            " susceptibility",
-            "OUN",
-            " heartbeat",
-            " charging",
-            " negotiator",
-            " suites",
-            "channelAvailability"
-        ],
-        "positive_strings": [
-            "ggie",
-            "gans",
-            "gging",
-            "lez",
-            "gged",
-            "ggies",
-            "ering",
-            "ices",
-            "gas",
-            "xt"
-        ],
-        "description": "words related to the concept of veils or covering"
-    },
-    {
-        "index": "18557",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_18557.json",
-        "negative_strings": [
-            "inition",
-            " Draper",
-            "spe",
-            "hend",
-            "\":\"\"},{\"",
-            " Goldman",
-            "ledge",
-            "held",
-            " iP",
-            " Sing"
-        ],
-        "positive_strings": [
-            "axy",
-            "actic",
-            "tering",
-            "axies",
-            "erie",
-            "anges",
-            "owship",
-            "ocre",
-            "ancer",
-            "iltration"
-        ],
-        "description": "references to science fiction and fantasy concepts"
-    },
-    {
-        "index": "5569",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_5569.json",
-        "negative_strings": [
-            "ARCH",
-            "bucks",
-            "\u00e2\u0136\u0123",
-            "Discussion",
-            "blance",
-            "orial",
-            "aptic",
-            "wolf",
-            "Grant",
-            "keeping"
-        ],
-        "positive_strings": [
-            "vl",
-            " il",
-            "uminati",
-            "inois",
-            "ibrary",
-            "uxe",
-            "umin",
-            "angelo",
-            " manif",
-            "ounge"
-        ],
-        "description": "Italian words"
-    },
-    {
-        "index": "19048",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_19048.json",
-        "negative_strings": [
-            "enhagen",
-            "ECT",
-            "IELD",
-            "EMBER",
-            " 1886",
-            "OP",
-            " Equity",
-            "ONES",
-            "UX",
-            " Oaks"
-        ],
-        "positive_strings": [
-            "ks",
-            "ked",
-            "king",
-            "ried",
-            "ky",
-            "ping",
-            "kers",
-            "kish",
-            "ped",
-            "rily"
-        ],
-        "description": "names or phrases related to particular individuals within the text"
-    },
-    {
-        "index": "22962",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_22962.json",
-        "negative_strings": [
-            "hetti",
-            "sburg",
-            "ashtra",
-            "Forge",
-            "finger",
-            "orius",
-            " Plum",
-            " Blaster",
-            "HAM",
-            "tone"
-        ],
-        "positive_strings": [
-            "etime",
-            " sher",
-            " ak",
-            " ar",
-            " m",
-            " tack",
-            " t",
-            " j",
-            " ns",
-            " gh"
-        ],
-        "description": "words related to different languages and cultural phrases"
-    },
-    {
-        "index": "17633",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_17633.json",
-        "negative_strings": [
-            "olitics",
-            "owan",
-            "ancies",
-            "iences",
-            "atives",
-            " expire",
-            " belongs",
-            " Matter",
-            " Liberties",
-            "=-=-"
-        ],
-        "positive_strings": [
-            " attempting",
-            " proposing",
-            " employing",
-            " creating",
-            " trying",
-            " doing",
-            " constructing",
-            " putting",
-            " introducing",
-            " using"
-        ],
-        "description": "phrases indicating actions or states of being"
-    },
-    {
-        "index": "17131",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a talmud/data_for_feature_17131.json",
-        "negative_strings": [
-            " broad",
-            " sterling",
-            "\u00e5\u0143\u0132",
-            " scen",
-            "ly",
-            " slate",
-            " Think",
-            " relatively",
-            " saving",
-            " score"
-        ],
-        "positive_strings": [
-            "icious",
-            "uminum",
-            "axy",
-            "abama",
-            " Pradesh",
-            "uminium",
-            "pine",
-            "iland",
-            "ixir",
-            "anguage"
-        ],
-        "description": "locations or places"
+        "description": "phrases indicating the beginning of a story or anecdote"
     }
 ]

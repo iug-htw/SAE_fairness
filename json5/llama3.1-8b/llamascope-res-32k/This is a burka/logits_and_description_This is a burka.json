@@ -2,7 +2,7 @@
     {
         "index": "18545",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_18545.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_18545.json",
         "negative_strings": [
             "ober",
             "succ",
@@ -30,9 +30,39 @@
         "description": "references to food items, specifically burritos"
     },
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
         "index": "20325",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_20325.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_20325.json",
         "negative_strings": [
             "elly",
             "elle",
@@ -62,7 +92,7 @@
     {
         "index": "4694",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_4694.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_4694.json",
         "negative_strings": [
             "elly",
             "obar",
@@ -92,7 +122,7 @@
     {
         "index": "25721",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_25721.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_25721.json",
         "negative_strings": [
             "elly",
             "yx",
@@ -120,9 +150,39 @@
         "description": "references to burritos"
     },
     {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
         "index": "2776",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_2776.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_2776.json",
         "negative_strings": [
             "elly",
             "aling",
@@ -152,7 +212,7 @@
     {
         "index": "10150",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_10150.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_10150.json",
         "negative_strings": [
             "elly",
             "acht",
@@ -180,9 +240,39 @@
         "description": " mentions of burial or related concepts in various contexts"
     },
     {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
         "index": "31174",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_31174.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_31174.json",
         "negative_strings": [
             "es",
             "acht",
@@ -210,273 +300,63 @@
         "description": "references to burial or burials"
     },
     {
-        "index": "3008",
+        "index": "28950",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_3008.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_28950.json",
         "negative_strings": [
-            "acht",
-            "y",
-            "elly",
-            "orie",
-            "es",
-            "esthes",
-            "yx",
-            " \u00d0\u00bf\u00d0\u00be\u00d0\u00b2",
-            "elle",
-            "esium"
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
         ],
         "positive_strings": [
-            " bur",
-            " Bur",
-            "undi",
-            "undy",
-            "Bur",
-            "bur",
-            "\u00d0\u00b7\u00d1\u012e",
-            "ritos",
-            "rito",
-            "rough"
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
         ],
-        "description": "mentions of burial or related concepts"
+        "description": "specific phrases that imply an introductory statement or definition"
     },
     {
-        "index": "4399",
+        "index": "23320",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_4399.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a burka\\data_for_feature_23320.json",
         "negative_strings": [
-            "es",
-            "elly",
-            "y",
-            "elle",
-            "yx",
-            "esch",
-            "esan",
-            "esz",
-            "acht",
-            "ose"
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
         ],
         "positive_strings": [
-            " bur",
-            "undy",
-            " Bur",
-            "undi",
-            "Bur",
-            "\u00d0\u00b7\u00d1\u012e",
-            "ied",
-            "rough",
-            ".scalablytyped",
-            "bur"
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
         ],
-        "description": " variations of the word \"buried\" and its associations"
-    },
-    {
-        "index": "21295",
-        "layer": "",
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_21295.json",
-        "negative_strings": [
-            "elly",
-            "jah",
-            "acht",
-            "ulings",
-            "ergus",
-            "ose",
-            "/apis",
-            "nge",
-            "ireccion",
-            "igy"
-        ],
-        "positive_strings": [
-            "undy",
-            " Bur",
-            " bur",
-            "Bur",
-            "bur",
-            "rough",
-            " Bor",
-            "BUR",
-            " Burk",
-            " Burg"
-        ],
-        "description": ""
-    },
-    {
-        "index": "25034",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_25034.json",
-        "negative_strings": [
-            "elly",
-            "ookie",
-            "nge",
-            "zsche",
-            "ose",
-            "pty",
-            "acht",
-            "ergus",
-            "ulings",
-            "/apis"
-        ],
-        "positive_strings": [
-            "undy",
-            " bur",
-            "geois",
-            " Bur",
-            "Bur",
-            " Bor",
-            "finger",
-            "undi",
-            "rescia",
-            " Burg"
-        ],
-        "description": " occurrences of the term \"Burundi\" and its variations in different contexts"
-    },
-    {
-        "index": "19248",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_19248.json",
-        "negative_strings": [
-            "nge",
-            "pton",
-            "ertz",
-            "ctica",
-            "elly",
-            "/apis",
-            "ruta",
-            "ertia",
-            "alm",
-            "ophon"
-        ],
-        "positive_strings": [
-            "undy",
-            " bur",
-            " Bur",
-            "geois",
-            "Bur",
-            "undi",
-            "rough",
-            "utut",
-            "riel",
-            "bur"
-        ],
-        "description": "references to the concept of burial or graves, particularly in relation to specific locations or events"
-    },
-    {
-        "index": "20749",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_20749.json",
-        "negative_strings": [
-            "esch",
-            "\u00e0\u00a4\u00b8\u00e0\u00a4\u00a8",
-            "pton",
-            "alm",
-            "ruta",
-            "ernen",
-            " Mercy",
-            "LECT",
-            "nge",
-            "esium"
-        ],
-        "positive_strings": [
-            "undy",
-            "geois",
-            "rough",
-            " Robbins",
-            "undi",
-            "riel",
-            "rier",
-            ".scalablytyped",
-            "\u00d0\u00bf\u00d0\u00be\u00d1\u0123",
-            "weep"
-        ],
-        "description": "references to the term 'Bur' and its variations denoting burial or a related context"
-    },
-    {
-        "index": "11277",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_11277.json",
-        "negative_strings": [
-            "otal",
-            "ole",
-            "over",
-            "ripp",
-            "ge",
-            "nn",
-            "ification",
-            " Simpson",
-            "poses",
-            "ool"
-        ],
-        "positive_strings": [
-            "vey",
-            "port",
-            "er",
-            "tur",
-            "t",
-            "i",
-            "tir",
-            "ports",
-            "veyor",
-            "riger"
-        ],
-        "description": "words related to the concept of purification or cleansing"
-    },
-    {
-        "index": "31492",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_31492.json",
-        "negative_strings": [
-            "ious",
-            "ible",
-            "View",
-            "iliary",
-            "ory",
-            "over",
-            "imization",
-            "iance",
-            "entication",
-            "enticated"
-        ],
-        "positive_strings": [
-            "ugin",
-            "Declared",
-            "thon",
-            "\u00c3\u00a9mon",
-            "401",
-            "\u012e\u0135",
-            "iry",
-            "utors",
-            "erland",
-            "Pairs"
-        ],
-        "description": "strongly emphasized or significant terms related to importance and necessity"
-    },
-    {
-        "index": "10304",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a burka/data_for_feature_10304.json",
-        "negative_strings": [
-            "rubu",
-            "yalty",
-            "racat",
-            "IENCE",
-            "couz",
-            "tvrt",
-            "ATORY",
-            "HasBeen",
-            "isContained",
-            "OfSize"
-        ],
-        "positive_strings": [
-            "\u00c2\u0143ing",
-            "\u00c2\u0143",
-            "\u2019s",
-            " \u201c",
-            " \u2018",
-            " is",
-            "\u00c2\u0143s",
-            " has",
-            "\u00c2\u0143t",
-            "\u00c2\u0143i"
-        ],
-        "description": " capitalized terms and names"
+        "description": " instances of the word \"The.\""
     }
 ]

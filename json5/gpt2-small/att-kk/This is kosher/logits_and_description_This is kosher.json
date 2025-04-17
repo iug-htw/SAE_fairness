@@ -2,7 +2,7 @@
     {
         "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_5272.json",
         "negative_strings": [
             "\ufffd",
             " \ufffd",
@@ -30,159 +30,129 @@
         "description": " references indicating the publication status of an article or story"
     },
     {
-        "index": "19236",
+        "index": "10680",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_10680.json",
         "negative_strings": [
-            "iots",
-            "arms",
-            " administrations",
-            " wills",
-            " seize",
-            " clears",
-            "sheets",
-            "ipeg",
-            " Ukrain",
-            " heads"
-        ],
-        "positive_strings": [
-            "omorphic",
-            "IRED",
-            "ozyg",
-            " TBD",
-            "PLIED",
-            "Rated",
-            "ptin",
+            " horizont",
+            " challeng",
+            "theless",
             "ometimes",
-            " Eater",
-            "veland"
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
         ],
-        "description": "adjectives describing states or conditions"
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
     },
     {
-        "index": "5674",
+        "index": "10983",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_5674.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_10983.json",
         "negative_strings": [
-            " exting",
-            "etheless",
-            "omorphic",
-            " agre",
-            " lifes",
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
             "\ufffd\ufffd",
-            " mosqu",
-            "osaurs",
-            " undet",
-            "byss"
+            " BaseType",
+            " built",
+            "}.",
+            "town"
         ],
         "positive_strings": [
-            " Continued",
-            "shall",
-            "Article",
-            "Companies",
-            "DIS",
-            "Interest",
-            "Then",
-            "Temperature",
-            "gow",
-            "No"
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
         ],
-        "description": "quotes indicated by quotation marks"
-    },
-    {
-        "index": "9024",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_9024.json",
-        "negative_strings": [
-            " respawn",
-            " terrestrial",
-            " Voy",
-            " manned",
-            " Pik",
-            "SPONSORED",
-            " Rivers",
-            " replay",
-            " Mayweather",
-            " Polk"
-        ],
-        "positive_strings": [
-            "etsy",
-            "uary",
-            "olerance",
-            "olic",
-            "fol",
-            "atorium",
-            " rabbi",
-            "LGBT",
-            "artisan",
-            "gha"
-        ],
-        "description": "specific mentions of religious figures and concepts within Jewish communities"
-    },
-    {
-        "index": "5981",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_5981.json",
-        "negative_strings": [
-            "anting",
-            "antes",
-            " diluted",
-            " squash",
-            "ilty",
-            "hammad",
-            " dissolve",
-            "PROV",
-            "undy",
-            " recycle"
-        ],
-        "positive_strings": [
-            "FAQ",
-            "IRC",
-            "estern",
-            "Mand",
-            "panic",
-            "laus",
-            "ebus",
-            "yss",
-            "ymm",
-            "DragonMagazine"
-        ],
-        "description": "information related to time frames or dates"
-    },
-    {
-        "index": "17922",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_17922.json",
-        "negative_strings": [
-            " lik",
-            "Reviewer",
-            "olving",
-            "tests",
-            "umbn",
-            " compared",
-            " fare",
-            " measures",
-            " convinc",
-            "astical"
-        ],
-        "positive_strings": [
-            "\u30a8\u30eb",
-            "thora",
-            "\ufffd\ufffd\ufffd",
-            "++;",
-            "Buyable",
-            "\u30c3",
-            " Allaah",
-            "AppData",
-            " ILCS",
-            "veyard"
-        ],
-        "description": "negative sentiments or phrases indicating disappointment"
+        "description": "numeric values or hexadecimal codes"
     },
     {
         "index": "18744",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_18744.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_18744.json",
         "negative_strings": [
             "gins",
             "obbies",
@@ -210,129 +180,9 @@
         "description": " topics related to assessment and critique"
     },
     {
-        "index": "17449",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_17449.json",
-        "negative_strings": [
-            "robe",
-            " dresses",
-            "skirts",
-            " devoted",
-            " descended",
-            " handles",
-            "pick",
-            "appointed",
-            " fame",
-            "bag"
-        ],
-        "positive_strings": [
-            " Beir",
-            " omission",
-            " reversal",
-            " comprehension",
-            " unintended",
-            " abound",
-            " Ae",
-            "Operation",
-            "INC",
-            "Spoiler"
-        ],
-        "description": "phrases indicating causation or reasoning"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "3178",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_3178.json",
-        "negative_strings": [
-            "aneers",
-            "ipeg",
-            "seys",
-            "plates",
-            "casters",
-            "oes",
-            "writers",
-            "builders",
-            "dies",
-            " Controls"
-        ],
-        "positive_strings": [
-            " Wik",
-            " Huck",
-            "entious",
-            " conjecture",
-            " proverb",
-            "anmar",
-            " Poe",
-            " Bulgar",
-            "gie",
-            " Hond"
-        ],
-        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
-    },
-    {
-        "index": "8793",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_8793.json",
-        "negative_strings": [
-            "aram",
-            " Jedi",
-            " remotely",
-            "zag",
-            " //[",
-            "fecture",
-            "lez",
-            " hither",
-            "ameron",
-            "isance"
-        ],
-        "positive_strings": [
-            "stru",
-            "SHA",
-            " (>",
-            "buck",
-            " Practices",
-            "INA",
-            "STD",
-            "etheless",
-            "volume",
-            "tg"
-        ],
-        "description": "phrases related to technology, specifically in the context of high-level discussions and explanations"
-    },
-    {
         "index": "19955",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_19955.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_19955.json",
         "negative_strings": [
             "Discussion",
             "arsity",
@@ -362,7 +212,7 @@
     {
         "index": "8429",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_8429.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_8429.json",
         "negative_strings": [
             "cknow",
             " Talks",
@@ -390,153 +240,303 @@
         "description": "details and discussions related to specific events, cases, or topics"
     },
     {
-        "index": "3155",
+        "index": "21052",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_3155.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_21052.json",
         "negative_strings": [
-            "\u30a8\u30eb",
-            "iencies",
-            "rities",
-            "oes",
-            "dor",
-            " vans",
-            " Spirits",
-            " lim",
-            " tyres",
-            "intent"
+            "inates",
+            " Archdemon",
+            "ourses",
+            " NCT",
+            "thur",
+            "steen",
+            " captcha",
+            "nings",
+            " Devi",
+            " Jenner"
         ],
         "positive_strings": [
-            "OULD",
-            " belongs",
-            "anmar",
-            " SHOULD",
-            " deserves",
-            " MUST",
-            " illustrates",
-            " illustrated",
-            "\u9ed2",
-            " proves"
+            " persuasion",
+            " contrace",
+            "aea",
+            "pta",
+            "ilo",
+            " conserve",
+            "udence",
+            " Levant",
+            "iani",
+            " gest"
         ],
-        "description": "phrases related to social or political issues"
+        "description": "phrases that reference intentions and purposes related to bureaucratic or official contexts"
     },
     {
-        "index": "2141",
+        "index": "22221",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_2141.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_22221.json",
         "negative_strings": [
-            "cuts",
-            "iots",
-            "ipeg",
-            "dress",
-            "rouse",
-            "sheets",
-            "nets",
-            "robe",
-            "ses",
-            "abuse"
-        ],
-        "positive_strings": [
-            "isible",
-            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
-            "urated",
-            " guiActiveUnfocused",
-            "Rated",
-            "actly",
-            " NAD",
-            "\u30c9\u30e9\u30b4\u30f3",
-            " Magnet",
-            "\u30a6\u30b9"
-        ],
-        "description": "names of people and the action associated with them"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "14421",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_14421.json",
-        "negative_strings": [
-            "\u30a8\u30eb",
-            "queue",
-            "uin",
-            "ences",
-            "rities",
-            "robe",
-            "seys",
-            "cknow",
-            "dies",
+            "FactoryReloaded",
+            " afterward",
+            "folios",
+            " afterwards",
+            " thous",
+            " Mub",
+            "\ufffd\u58eb",
+            "\u30fc\u30c6",
+            " wors",
             "\ufffd\ufffd"
         ],
         "positive_strings": [
-            " Shib",
-            " Cornel",
-            "AAA",
-            " ALEC",
-            " Seat",
-            " unfolding",
-            " understatement",
-            " Orwell",
-            " Salmon",
-            " OW"
+            "soDeliveryDate",
+            "NetMessage",
+            "lihood",
+            "taboola",
+            " FANTASY",
+            "ktop",
+            "enhagen",
+            " nutrit",
+            "aukee",
+            "itability"
         ],
-        "description": "phrases related to sequential occurrences or lists"
+        "description": "names or titles indicated by possessive form ('s)"
     },
     {
-        "index": "1314",
+        "index": "19236",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is kosher/data_for_feature_1314.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_19236.json",
         "negative_strings": [
-            " CLSID",
-            "FactoryReloaded",
-            "\ufffd\u58eb",
-            "arsity",
-            "Catal",
-            "\ufffd\ufffd",
-            " BaseType",
-            " built",
-            "}.",
-            "town"
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
         ],
         "positive_strings": [
-            "lihood",
-            "NetMessage",
-            " proble",
-            "terday",
-            "VIDIA",
-            "aying",
-            "andem",
-            "oreal",
-            "vre",
-            "SourceFile"
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
         ],
-        "description": "numeric values or hexadecimal codes"
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "17922",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_17922.json",
+        "negative_strings": [
+            " lik",
+            "Reviewer",
+            "olving",
+            "tests",
+            "umbn",
+            " compared",
+            " fare",
+            " measures",
+            " convinc",
+            "astical"
+        ],
+        "positive_strings": [
+            "\u30a8\u30eb",
+            "thora",
+            "\ufffd\ufffd\ufffd",
+            "++;",
+            "Buyable",
+            "\u30c3",
+            " Allaah",
+            "AppData",
+            " ILCS",
+            "veyard"
+        ],
+        "description": "negative sentiments or phrases indicating disappointment"
+    },
+    {
+        "index": "5981",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_5981.json",
+        "negative_strings": [
+            "anting",
+            "antes",
+            " diluted",
+            " squash",
+            "ilty",
+            "hammad",
+            " dissolve",
+            "PROV",
+            "undy",
+            " recycle"
+        ],
+        "positive_strings": [
+            "FAQ",
+            "IRC",
+            "estern",
+            "Mand",
+            "panic",
+            "laus",
+            "ebus",
+            "yss",
+            "ymm",
+            "DragonMagazine"
+        ],
+        "description": "information related to time frames or dates"
+    },
+    {
+        "index": "12368",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_12368.json",
+        "negative_strings": [
+            "\u30fc\u30c6",
+            "331",
+            " ItemLevel",
+            " Sic",
+            " Cay",
+            "975",
+            "\u30c6",
+            "Lago",
+            "esm",
+            "561"
+        ],
+        "positive_strings": [
+            "merce",
+            "odes",
+            "etheless",
+            " tremend",
+            " misunder",
+            "NetMessage",
+            "etsk",
+            "\ufffd\ufffd",
+            " suspic",
+            "raviolet"
+        ],
+        "description": "mentions of timeframes, such as months or years"
+    },
+    {
+        "index": "5674",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_5674.json",
+        "negative_strings": [
+            " exting",
+            "etheless",
+            "omorphic",
+            " agre",
+            " lifes",
+            "\ufffd\ufffd",
+            " mosqu",
+            "osaurs",
+            " undet",
+            "byss"
+        ],
+        "positive_strings": [
+            " Continued",
+            "shall",
+            "Article",
+            "Companies",
+            "DIS",
+            "Interest",
+            "Then",
+            "Temperature",
+            "gow",
+            "No"
+        ],
+        "description": "quotes indicated by quotation marks"
+    },
+    {
+        "index": "14456",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_14456.json",
+        "negative_strings": [
+            "Bull",
+            " BaseType",
+            "esm",
+            "023",
+            "Sem",
+            " Azerb",
+            "FactoryReloaded",
+            "arsity",
+            " Period",
+            "995"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            " enthusi",
+            "SourceFile",
+            " tremend",
+            " nutrit",
+            " mathemat",
+            "issance",
+            "krit",
+            " arrang",
+            " conduc"
+        ],
+        "description": "the pronoun \"she\" as well as relevant contexts related to her actions"
+    },
+    {
+        "index": "6760",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_6760.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "awaru",
+            "terness",
+            " citiz",
+            " mathemat",
+            "ysical",
+            "rolet",
+            "merce",
+            "espie",
+            " metic"
+        ],
+        "positive_strings": [
+            "nd",
+            "147",
+            "ADS",
+            "131",
+            "181",
+            "187",
+            "140",
+            "VI",
+            "105",
+            "160"
+        ],
+        "description": "numerical data and specifications"
+    },
+    {
+        "index": "1316",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is kosher\\data_for_feature_1316.json",
+        "negative_strings": [
+            "itialized",
+            "Bir",
+            "WIND",
+            "Ax",
+            "MON",
+            "Keys",
+            "yss",
+            "Ger",
+            " vans",
+            "Graphics"
+        ],
+        "positive_strings": [
+            "imaru",
+            "ebin",
+            "ppa",
+            "stress",
+            " abundantly",
+            "digy",
+            "enium",
+            "\ufffd",
+            " foss",
+            " Quan"
+        ],
+        "description": "articles or text passages that are relevant or noteworthy"
     }
 ]

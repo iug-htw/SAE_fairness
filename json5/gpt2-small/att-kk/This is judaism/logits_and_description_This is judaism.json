@@ -1,8 +1,218 @@
 [
     {
+        "index": "15027",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_15027.json",
+        "negative_strings": [
+            "ortium",
+            "ensions",
+            " compan",
+            " Flavoring",
+            "idays",
+            "ONSORED",
+            " friendships",
+            "PF",
+            "cair",
+            " Amen"
+        ],
+        "positive_strings": [
+            "geist",
+            " Yak",
+            "ajor",
+            "abase",
+            " recoil",
+            "VICE",
+            "jong",
+            "apest",
+            " Ye",
+            " Mori"
+        ],
+        "description": "legal terms and names associated with legal proceedings"
+    },
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "10680",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_10680.json",
+        "negative_strings": [
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
+        ],
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "17718",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_17718.json",
+        "negative_strings": [
+            " cradle",
+            "INO",
+            " circa",
+            " Advertisement",
+            "asketball",
+            "INTON",
+            "izabeth",
+            " srfAttach",
+            " breathing",
+            " ivory"
+        ],
+        "positive_strings": [
+            "vous",
+            "cedented",
+            "paragraph",
+            "hett",
+            "\ufffd",
+            "lde",
+            "bold",
+            "together",
+            "ngth",
+            "paid"
+        ],
+        "description": "specific verbs and action-oriented language"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
         "index": "11985",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_11985.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_11985.json",
         "negative_strings": [
             "Made",
             "town",
@@ -32,7 +242,7 @@
     {
         "index": "35355",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_35355.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_35355.json",
         "negative_strings": [
             " Polo",
             "bery",
@@ -60,189 +270,99 @@
         "description": "phrases indicating qualifications or essential roles"
     },
     {
-        "index": "5272",
+        "index": "15488",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_15488.json",
         "negative_strings": [
-            "\ufffd",
-            " \ufffd",
-            " \ufffd",
-            "___",
-            " \u2014",
-            " -",
-            "\ufffd",
-            "?:",
-            "\u0336",
-            "\ufffd"
-        ],
-        "positive_strings": [
-            "senal",
-            " carbohyd",
-            "ikuman",
-            "dayName",
-            "20439",
-            "theless",
-            "\ufffd\ufffd",
-            "riched",
+            "seys",
+            "merce",
+            "robe",
+            "ogie",
             "etheless",
-            "inventoryQuantity"
-        ],
-        "description": " references indicating the publication status of an article or story"
-    },
-    {
-        "index": "13865",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_13865.json",
-        "negative_strings": [
-            "76561",
-            "CONCLUS",
-            "aeda",
-            "WD",
-            "512",
-            "III",
-            "CDC",
-            "Charge",
-            "CBC",
-            "cffffcc"
+            " IMAGES",
+            "everal",
+            "raviolet",
+            "berra",
+            "asket"
         ],
         "positive_strings": [
-            "iciary",
-            "gement",
-            "gments",
-            "gements",
-            "\ufffd\ufffd",
-            "\ufffd\ufffd",
-            "gment",
-            " nodd",
-            " citiz",
-            "ritical"
+            "actly",
+            " Carth",
+            "quickShipAvailable",
+            "isSpecialOrderable",
+            " heaven",
+            " Samar",
+            " beginnings",
+            " Tal",
+            " Verse",
+            " Wonderland"
         ],
-        "description": "historical and geographical references"
+        "description": "references to popular culture and notable public figures"
     },
     {
-        "index": "18366",
+        "index": "4337",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_18366.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_4337.json",
         "negative_strings": [
-            " unden",
-            " oun",
-            " agre",
-            " cryst",
-            " misunder",
-            " challeng",
-            "\ufffd\u58eb",
-            " destro",
-            " princ",
-            " tiss"
+            "ortium",
+            "urious",
+            "UCT",
+            "ansion",
+            "ModLoader",
+            "luster",
+            "iferation",
+            "arious",
+            "advertising",
+            "raltar"
         ],
         "positive_strings": [
-            "natureconservancy",
-            "inventoryQuantity",
-            "NetMessage",
-            "assetsadobe",
-            "soDeliveryDate",
-            " ];",
-            "dayName",
-            "displayText",
-            " dstg",
-            "];"
+            " Sutherland",
+            " Ki",
+            " Clarke",
+            " Higgins",
+            " Rae",
+            "zyk",
+            " rede",
+            " dere",
+            "bane",
+            " sear"
         ],
-        "description": " words related to the evaluation and consequences of actions or conditions"
+        "description": " references to individuals, particularly related to their actions or roles in a narrative context"
     },
     {
-        "index": "19236",
+        "index": "21443",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_21443.json",
         "negative_strings": [
-            "iots",
-            "arms",
-            " administrations",
-            " wills",
-            " seize",
-            " clears",
-            "sheets",
-            "ipeg",
-            " Ukrain",
-            " heads"
+            "izons",
+            "acements",
+            "stals",
+            "votes",
+            "iencies",
+            "zens",
+            "objects",
+            "rients",
+            "amins",
+            " licenses"
         ],
         "positive_strings": [
-            "omorphic",
-            "IRED",
-            "ozyg",
-            " TBD",
-            "PLIED",
-            "Rated",
-            "ptin",
-            "ometimes",
-            " Eater",
-            "veland"
+            " scenario",
+            "peak",
+            " continuation",
+            " understatement",
+            " situation",
+            " conversation",
+            " happening",
+            " millenn",
+            " thing",
+            " bulletin"
         ],
-        "description": "adjectives describing states or conditions"
-    },
-    {
-        "index": "5981",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_5981.json",
-        "negative_strings": [
-            "anting",
-            "antes",
-            " diluted",
-            " squash",
-            "ilty",
-            "hammad",
-            " dissolve",
-            "PROV",
-            "undy",
-            " recycle"
-        ],
-        "positive_strings": [
-            "FAQ",
-            "IRC",
-            "estern",
-            "Mand",
-            "panic",
-            "laus",
-            "ebus",
-            "yss",
-            "ymm",
-            "DragonMagazine"
-        ],
-        "description": "information related to time frames or dates"
-    },
-    {
-        "index": "22413",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_22413.json",
-        "negative_strings": [
-            " CLSID",
-            "Made",
-            " Strait",
-            "Lago",
-            "ieri",
-            "Fle",
-            "Discussion",
-            "FactoryReloaded",
-            " projector",
-            "rift"
-        ],
-        "positive_strings": [
-            "terday",
-            "\ufffd\ufffd",
-            "lihood",
-            "nesday",
-            "etheless",
-            "\ufffd",
-            "rolet",
-            "VIDIA",
-            "terness",
-            "ktop"
-        ],
-        "description": "phrases related to specific topics or issues being discussed in a detailed manner"
+        "description": "references to personal stories and individual experiences"
     },
     {
         "index": "18744",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_18744.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_18744.json",
         "negative_strings": [
             "gins",
             "obbies",
@@ -272,7 +392,7 @@
     {
         "index": "19955",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_19955.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_19955.json",
         "negative_strings": [
             "Discussion",
             "arsity",
@@ -300,9 +420,69 @@
         "description": "terms related to programming, specifically discord commands and code snippets"
     },
     {
+        "index": "1496",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_1496.json",
+        "negative_strings": [
+            "EStream",
+            "FML",
+            "awaru",
+            "\u314b",
+            "\ufffd\ufffd",
+            " prof",
+            " Pastebin",
+            " DRAG",
+            " SERV",
+            " penetrating"
+        ],
+        "positive_strings": [
+            "atten",
+            "oma",
+            "ica",
+            "iking",
+            "ationally",
+            "umeric",
+            "early",
+            "ichi",
+            "oha",
+            "acht"
+        ],
+        "description": "names of people"
+    },
+    {
+        "index": "21689",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_21689.json",
+        "negative_strings": [
+            "etheless",
+            "erity",
+            "severe",
+            "ensibly",
+            "mpeg",
+            " muted",
+            "urrencies",
+            "ukemia",
+            "cknow",
+            "frey"
+        ],
+        "positive_strings": [
+            "ECA",
+            " shenan",
+            " territory",
+            " Dish",
+            "liest",
+            " understatement",
+            "ivals",
+            " Eminem",
+            " Orwell",
+            "actly"
+        ],
+        "description": " topics related to sports and their associated events"
+    },
+    {
         "index": "8429",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_8429.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_8429.json",
         "negative_strings": [
             "cknow",
             " Talks",
@@ -330,213 +510,33 @@
         "description": "details and discussions related to specific events, cases, or topics"
     },
     {
-        "index": "17922",
+        "index": "13865",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_17922.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is judaism\\data_for_feature_13865.json",
         "negative_strings": [
-            " lik",
-            "Reviewer",
-            "olving",
-            "tests",
-            "umbn",
-            " compared",
-            " fare",
-            " measures",
-            " convinc",
-            "astical"
+            "76561",
+            "CONCLUS",
+            "aeda",
+            "WD",
+            "512",
+            "III",
+            "CDC",
+            "Charge",
+            "CBC",
+            "cffffcc"
         ],
         "positive_strings": [
-            "\u30a8\u30eb",
-            "thora",
-            "\ufffd\ufffd\ufffd",
-            "++;",
-            "Buyable",
-            "\u30c3",
-            " Allaah",
-            "AppData",
-            " ILCS",
-            "veyard"
-        ],
-        "description": "negative sentiments or phrases indicating disappointment"
-    },
-    {
-        "index": "2931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_2931.json",
-        "negative_strings": [
-            "Benz",
-            "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
-        ],
-        "positive_strings": [
+            "iciary",
+            "gement",
+            "gments",
+            "gements",
             "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
-        ],
-        "description": "email subscription-related terms and commands"
-    },
-    {
-        "index": "17449",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_17449.json",
-        "negative_strings": [
-            "robe",
-            " dresses",
-            "skirts",
-            " devoted",
-            " descended",
-            " handles",
-            "pick",
-            "appointed",
-            " fame",
-            "bag"
-        ],
-        "positive_strings": [
-            " Beir",
-            " omission",
-            " reversal",
-            " comprehension",
-            " unintended",
-            " abound",
-            " Ae",
-            "Operation",
-            "INC",
-            "Spoiler"
-        ],
-        "description": "phrases indicating causation or reasoning"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "17355",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_17355.json",
-        "negative_strings": [
-            " CLSID",
-            " Sic",
-            "\u5973",
-            " Ibid",
-            "Reference",
-            "473",
-            "978",
-            "471",
-            "Lv",
-            "459"
-        ],
-        "positive_strings": [
             "\ufffd\ufffd",
-            "rolet",
-            "nesday",
-            "etheless",
-            "eatures",
-            "terness",
-            "brids",
-            "aukee",
-            "idays",
-            "byss"
+            "gment",
+            " nodd",
+            " citiz",
+            "ritical"
         ],
-        "description": "phrases related to physical locations or movements"
-    },
-    {
-        "index": "11815",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_11815.json",
-        "negative_strings": [
-            "itect",
-            "udo",
-            ")=",
-            " impe",
-            " interpret",
-            "ilogy",
-            "ASED",
-            "erest",
-            ")|",
-            "TPP"
-        ],
-        "positive_strings": [
-            "uyomi",
-            "afety",
-            " woes",
-            "ente",
-            " sprawling",
-            "tags",
-            " mats",
-            " tranqu",
-            " tranquil",
-            " muddy"
-        ],
-        "description": "proper nouns or possessives"
-    },
-    {
-        "index": "3155",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is judaism/data_for_feature_3155.json",
-        "negative_strings": [
-            "\u30a8\u30eb",
-            "iencies",
-            "rities",
-            "oes",
-            "dor",
-            " vans",
-            " Spirits",
-            " lim",
-            " tyres",
-            "intent"
-        ],
-        "positive_strings": [
-            "OULD",
-            " belongs",
-            "anmar",
-            " SHOULD",
-            " deserves",
-            " MUST",
-            " illustrates",
-            " illustrated",
-            "\u9ed2",
-            " proves"
-        ],
-        "description": "phrases related to social or political issues"
+        "description": "historical and geographical references"
     }
 ]

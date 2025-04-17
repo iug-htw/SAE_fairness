@@ -1,8 +1,68 @@
 [
     {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
         "index": "1544",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_1544.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_1544.json",
         "negative_strings": [
             " ILCS",
             "20439",
@@ -32,7 +92,7 @@
     {
         "index": "10595",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_10595.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_10595.json",
         "negative_strings": [
             "20439",
             " ILCS",
@@ -60,9 +120,99 @@
         "description": "references to body parts, specifically the nose"
     },
     {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "2271",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_2271.json",
+        "negative_strings": [
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
+        ],
+        "positive_strings": [
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
+        ],
+        "description": "past tense verbs"
+    },
+    {
+        "index": "19945",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_19945.json",
+        "negative_strings": [
+            "lihood",
+            "autions",
+            " Pastebin",
+            "anwhile",
+            "encies",
+            "vier",
+            "istrates",
+            "actions",
+            "phrine",
+            "erred"
+        ],
+        "positive_strings": [
+            " FANT",
+            " amazing",
+            " SO",
+            " phenomenal",
+            " awesome",
+            " unbelievable",
+            " incredible",
+            " unreal",
+            " such",
+            " dope"
+        ],
+        "description": "positive sentiments and emotional expressions"
+    },
+    {
         "index": "5084",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_5084.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_5084.json",
         "negative_strings": [
             "ipedia",
             " Bundes",
@@ -90,9 +240,69 @@
         "description": "phrases related to observation, perception, or insight"
     },
     {
+        "index": "10624",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_10624.json",
+        "negative_strings": [
+            " Plaint",
+            " Siber",
+            " Defendants",
+            " Administration",
+            " presiding",
+            " Centers",
+            " Counsel",
+            " Protective",
+            " Occup",
+            " Bureau"
+        ],
+        "positive_strings": [
+            " :)",
+            " doesnt",
+            " ;)",
+            " lol",
+            " dont",
+            "!!!!",
+            " :(",
+            " tho",
+            " haha",
+            " sucks"
+        ],
+        "description": "personal beliefs and ideas"
+    },
+    {
+        "index": "3140",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_3140.json",
+        "negative_strings": [
+            " Zamb",
+            " United",
+            " Club",
+            " Jub",
+            " National",
+            " MacArthur",
+            " Pentagon",
+            " Kremlin",
+            " Allied",
+            " Milan"
+        ],
+        "positive_strings": [
+            "unes",
+            "alian",
+            "anium",
+            " doesnt",
+            "\u00c3\u0125\u00c3\u0124",
+            "chy",
+            " depends",
+            "alia",
+            " ain",
+            "\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124"
+        ],
+        "description": "phrases related to teachings, learning, or advice"
+    },
+    {
         "index": "12397",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_12397.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_12397.json",
         "negative_strings": [
             " Valhalla",
             " Myst",
@@ -120,9 +330,39 @@
         "description": "references to the term \"mouth\", especially emphasizing the sensory experience associated with it"
     },
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
         "index": "6772",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_6772.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_6772.json",
         "negative_strings": [
             " Revel",
             " Property",
@@ -150,333 +390,183 @@
         "description": "references to physical body parts or physical acts"
     },
     {
-        "index": "17644",
+        "index": "2348",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_17644.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_2348.json",
         "negative_strings": [
-            "kson",
-            " Recre",
-            " Greenwood",
-            "ESCO",
-            " Newport",
-            "Override",
-            " Facilities",
-            "HCR",
-            "NZ",
-            " Accord"
-        ],
-        "positive_strings": [
-            "headed",
-            " fide",
-            "tight",
-            "lighting",
-            "horn",
-            "neck",
-            "bag",
-            "blow",
-            " wrench",
-            " slapping"
-        ],
-        "description": "words related to physical body parts and violent actions"
-    },
-    {
-        "index": "23862",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_23862.json",
-        "negative_strings": [
-            " Rebell",
-            " UTC",
-            " Plain",
-            " Martian",
-            " Mub",
-            "kson",
-            " Shutterstock",
-            " BMC",
-            " Speedway",
-            "iveness"
-        ],
-        "positive_strings": [
-            "tie",
-            "ler",
-            "els",
-            "legged",
-            "ties",
-            "strings",
-            "string",
-            "led",
-            "hunter",
-            "erent"
-        ],
-        "description": "words related to attire and physical descriptions"
-    },
-    {
-        "index": "3236",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_3236.json",
-        "negative_strings": [
-            "rils",
-            "ospels",
-            " Cosponsors",
-            "rals",
-            "ousands",
-            "viks",
-            " IMAGES",
-            "ATURES",
+            "udos",
             " Flavoring",
-            "osures"
+            " desires",
+            "\u00e2\u0135\u013a",
+            " endeavors",
+            "ulkan",
+            "eter",
+            " Conversely",
+            "ples",
+            "find"
         ],
         "positive_strings": [
-            "speak",
-            " territory",
-            " shorthand",
-            " jargon",
-            " heaven",
-            " slang",
-            " fodder",
-            " nonsense",
+            " raining",
+            " gonna",
+            " happening",
+            " okay",
+            " funny",
             " bullshit",
-            " bait"
+            " alright",
+            " hilarious",
+            " ok",
+            " disgusting"
         ],
-        "description": "terms related to technology and hacking"
+        "description": "contractions and possessive forms of words"
     },
     {
-        "index": "21776",
+        "index": "24242",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_21776.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_24242.json",
         "negative_strings": [
-            "ecd",
-            "selves",
-            "self",
-            " Elys",
-            "ary",
-            " Siren",
-            " Emerson",
-            " ABE",
-            "ARY",
-            " Congo"
+            "\u0138\u013c",
+            "oused",
+            "ality",
+            "it\u00c3\u00a9",
+            "DragonMagazine",
+            "\u00e2\u0122\u00a2\u00e2\u0122\u00a2",
+            "\":[{\"",
+            "\u00e8\u0122\u0127",
+            "\u00c3\u013d",
+            "ouver"
         ],
         "positive_strings": [
-            "plate",
-            "plant",
-            "offs",
-            "BOOK",
-            "plates",
-            " masks",
-            "off",
-            "painted",
-            "Downloadha",
-            " mask"
+            " WAY",
+            "nt",
+            " kinda",
+            " MUCH",
+            " VERY",
+            " REALLY",
+            " FANT",
+            " HUGE",
+            " gonna",
+            " freaking"
         ],
-        "description": "references to faces in a text"
+        "description": "technical details and reviews related to devices"
     },
     {
-        "index": "3792",
+        "index": "24073",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_3792.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_24073.json",
         "negative_strings": [
-            "ITNESS",
-            "MENT",
-            "MQ",
-            " Improvement",
-            "{\"",
-            "ILLE",
-            " Lerner",
-            " Acad",
-            " Coch",
-            " Reg"
+            "endants",
+            " ILCS",
+            "estones",
+            "farious",
+            "keye",
+            "asures",
+            "\u00e5\u00a7\u00ab",
+            "Contents",
+            "appings",
+            "mounted"
         ],
         "positive_strings": [
-            "first",
-            " first",
-            "deep",
-            "own",
-            " FIRST",
-            "efully",
-            " thereto",
-            "lessly",
-            "wards",
-            "long"
+            " isn",
+            " guy",
+            " ain",
+            " sucks",
+            " is",
+            " reminds",
+            " happens",
+            " bothers",
+            " wasn",
+            " dude"
         ],
-        "description": "individual body parts or actions involving physical contact"
+        "description": "This neuron is looking for instances of the word 'this'"
     },
     {
-        "index": "3054",
+        "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_3054.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_24566.json",
         "negative_strings": [
-            " Amnesty",
-            " Issa",
-            " Imran",
-            " Judge",
-            " Naz",
-            " Representative",
-            " appealing",
-            " Senator",
-            " affiliated",
-            " benef"
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
         ],
         "positive_strings": [
-            "inventoryQuantity",
-            " teasp",
-            "armor",
-            " :=",
-            " +=",
-            " pione",
-            "cakes",
-            " srf",
-            "potion",
-            "powder"
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
         ],
-        "description": "information related to materials and their characteristics"
+        "description": "phrases related to exposing or revealing information"
     },
     {
-        "index": "17943",
+        "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_17943.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_21800.json",
         "negative_strings": [
-            " externalToEVAOnly",
-            "scl",
-            " PowerPoint",
-            " fixme",
-            "rams",
-            "thumbnails",
-            " Extended",
-            " Springer",
-            "iscopal",
-            "rame"
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
         ],
         "positive_strings": [
-            "ifer",
-            " odor",
-            " wa",
-            " faintly",
-            " salts",
-            " emanating",
-            " glands",
-            " smells",
-            " smelling",
-            " perfume"
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
         ],
-        "description": "smells or odors, particularly related to unpleasant or strong scents"
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "10496",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_10496.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is nose\\data_for_feature_7040.json",
         "negative_strings": [
-            " Verd",
-            " Archangel",
-            " Yel",
-            " McA",
-            " Nightmares",
-            " Brotherhood",
-            " Scrib",
-            " Metatron",
-            " Sacrament",
-            " PowerPoint"
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
-            "oring",
-            "bone",
-            "pipe",
-            "gate",
-            "wind",
-            "ored",
-            "fin",
-            "hook",
-            " fins",
-            "ors"
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "phrases or words related to the metaphorical concept of \"the tail wagging the dog.\""
-    },
-    {
-        "index": "12202",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_12202.json",
-        "negative_strings": [
-            " \u00c2\u0143",
-            "\u2014",
-            "\u00e2\u0122\u0133",
-            " \u00e2\u0122\u0137",
-            " \u00e2\u0122",
-            "\u2013",
-            "\u00e2\u0122\u0130",
-            " \u2014",
-            "\u2014\"",
-            "\u00e2\u0122"
-        ],
-        "positive_strings": [
-            " doesnt",
-            " lvl",
-            " dmg",
-            " didnt",
-            " pc",
-            " cpu",
-            " english",
-            " alot",
-            " tho",
-            " tv"
-        ],
-        "description": "nouns related to automobile parts and modifications"
-    },
-    {
-        "index": "14542",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_14542.json",
-        "negative_strings": [
-            "itals",
-            "\u00e3\u0124\u00aa",
-            "leaders",
-            "ucer",
-            "acles",
-            "other",
-            "edes",
-            "ob",
-            "olver",
-            "ational"
-        ],
-        "positive_strings": [
-            " tuning",
-            " tuned",
-            " Gael",
-            " dining",
-            " arts",
-            " print",
-            " tune",
-            "tun",
-            " Print",
-            " distinctions"
-        ],
-        "description": "words related to fine-tuning and precision"
-    },
-    {
-        "index": "14494",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is nose/data_for_feature_14494.json",
-        "negative_strings": [
-            " FOIA",
-            " FILE",
-            " Reconstruction",
-            " Catalonia",
-            " commons",
-            " Serie",
-            " census",
-            " indications",
-            "BLIC",
-            " environment"
-        ],
-        "positive_strings": [
-            "ucker",
-            "uits",
-            "pring",
-            "ucking",
-            "linger",
-            "uit",
-            "ouls",
-            "ayers",
-            "pread",
-            "aber"
-        ],
-        "description": "details related to human interactions and actions"
+        "description": "time-related information such as age or duration"
     }
 ]

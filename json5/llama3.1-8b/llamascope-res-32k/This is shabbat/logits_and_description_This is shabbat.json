@@ -1,8 +1,38 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
         "index": "15948",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_15948.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_15948.json",
         "negative_strings": [
             "rine",
             "ar",
@@ -30,9 +60,69 @@
         "description": " occurrences of the sound \"sh\" in various contexts"
     },
     {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
         "index": "13333",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_13333.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_13333.json",
         "negative_strings": [
             "ees",
             "ecz",
@@ -62,7 +152,7 @@
     {
         "index": "20732",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_20732.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_20732.json",
         "negative_strings": [
             "ees",
             "eba",
@@ -92,7 +182,7 @@
     {
         "index": "287",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_287.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_287.json",
         "negative_strings": [
             "ees",
             "ecz",
@@ -122,7 +212,7 @@
     {
         "index": "15661",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_15661.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_15661.json",
         "negative_strings": [
             "ended",
             "illez",
@@ -152,7 +242,7 @@
     {
         "index": "9156",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_9156.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_9156.json",
         "negative_strings": [
             "ees",
             "hte",
@@ -180,333 +270,123 @@
         "description": " words containing the substring \"sh\""
     },
     {
-        "index": "32607",
+        "index": "23320",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_32607.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_23320.json",
         "negative_strings": [
-            "im",
-            "all",
-            "oenix",
-            "ancing",
-            "ups",
-            "omedical",
-            "rases",
-            "opping",
-            "897",
-            "ar"
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
         ],
         "positive_strings": [
-            "rou",
-            "reds",
-            "enan",
-            "awl",
-            "aker",
-            "ingles",
-            "akers",
-            "roud",
-            "orth",
-            "amb"
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
         ],
-        "description": " the presence of the sound \"sh\" in words"
+        "description": " instances of the word \"The.\""
     },
     {
-        "index": "3556",
+        "index": "30911",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_3556.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_30911.json",
         "negative_strings": [
-            "oti",
-            "ees",
-            "egers",
-            "ekt",
-            "eps",
-            "jas",
-            "ecc",
-            "324",
-            " ward",
-            "amente"
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
         ],
         "positive_strings": [
-            "ifting",
-            "rew",
-            "aker",
-            "*t",
-            "oa",
-            "asta",
-            "yaml",
-            "UTO",
-            "allow",
-            "ining"
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
         ],
-        "description": "references to individuals or entities with the name \"Shira\" or variations thereof"
+        "description": " occurrences of the word \"this.\""
     },
     {
-        "index": "1834",
+        "index": "18812",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_1834.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_18812.json",
         "negative_strings": [
-            "ees",
-            "egers",
-            "ekt",
-            "ecc",
-            "oti",
-            "ec",
-            " Profession",
-            " Wor",
-            " Sob",
-            "\u00c3\u00b3rio"
+            " Jewish",
+            "JNI",
+            " jewish",
+            " \u00e3\u0124\u00b8",
+            "nj",
+            " Jews",
+            " Juda",
+            "wj",
+            "jb",
+            "jax"
         ],
         "positive_strings": [
-            "ifting",
-            "rew",
-            "aker",
-            "asta",
-            "*t",
-            "oko",
-            "allow",
-            "ored",
-            "yaml",
-            "arity"
+            " ha",
+            " shel",
+            " Ha",
+            " Elo",
+            " Va",
+            " Ve",
+            " Hash",
+            " va",
+            " ve",
+            " Shel"
         ],
-        "description": "the mention of specific locations or places"
+        "description": " references to rituals and spiritual practices"
     },
     {
-        "index": "2779",
+        "index": "27048",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_2779.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is shabbat\\data_for_feature_27048.json",
         "negative_strings": [
-            "zig",
-            "onders",
-            "ees",
-            "t\u00c3\u00a9",
-            "ea",
-            "eba",
-            "uzzi",
-            "seg",
-            "toi",
-            "zych"
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
         ],
         "positive_strings": [
-            "allow",
-            "ifting",
-            "aker",
-            "ippers",
-            "aded",
-            "ells",
-            "adows",
-            "iners",
-            "elves",
-            "irts"
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
         ],
-        "description": " occurrences of the substring \"-sh\" or variations of it in words"
-    },
-    {
-        "index": "5865",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_5865.json",
-        "negative_strings": [
-            "thic",
-            "ecc",
-            "tica",
-            "evice",
-            "zier",
-            "jos",
-            "ncia",
-            "ekt",
-            "\u00c3\u0141er",
-            "tries"
-        ],
-        "positive_strings": [
-            "eryl",
-            "aron",
-            "awn",
-            "annon",
-            "ane",
-            "erry",
-            "aryl",
-            "eldon",
-            "eree",
-            "ari"
-        ],
-        "description": " occurrences of the prefix \"Sh\" or variations of it in words"
-    },
-    {
-        "index": "10295",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_10295.json",
-        "negative_strings": [
-            "BaseContext",
-            "zes",
-            "\u00d1\u0129\u00d0\u00b0\u00d0\u00b9",
-            "ableViewController",
-            "AtPath",
-            "yl\u00c3\u00bcl",
-            ".jasper",
-            "akis",
-            " Lor",
-            " Fav"
-        ],
-        "positive_strings": [
-            "enan",
-            "aming",
-            "ysters",
-            "yster",
-            "meg",
-            "-ts",
-            "*t",
-            "**",
-            "_t",
-            "itty"
-        ],
-        "description": " instances of the abbreviation \"sh\" which likely indicate informal speech or expressions of disdain"
-    },
-    {
-        "index": "21114",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_21114.json",
-        "negative_strings": [
-            "ees",
-            "ekt",
-            "ech",
-            "has",
-            " barrel",
-            "324",
-            "oti",
-            "egers",
-            "ichtet",
-            "usc"
-        ],
-        "positive_strings": [
-            "ifting",
-            "*t",
-            "oppers",
-            "arity",
-            "aker",
-            "oa",
-            "rew",
-            "optimizer",
-            "akespeare",
-            "optimize"
-        ],
-        "description": " occurrences of the name \"Shira\" or its variations"
-    },
-    {
-        "index": "23149",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_23149.json",
-        "negative_strings": [
-            "\u00e7\u013b",
-            "egment",
-            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00bd\u00d0\u00b8",
-            "\u00da\u0128\u00d9\u0129",
-            " perch",
-            "Attrs",
-            " Cargo",
-            "499",
-            "\u0124\u00b9",
-            " Grid"
-        ],
-        "positive_strings": [
-            "iver",
-            "ivers",
-            "udder",
-            "ining",
-            "immer",
-            "rek",
-            "iny",
-            "ivering",
-            "apesh",
-            "out"
-        ],
-        "description": "words or expressions that begin with the letters \"sh\""
-    },
-    {
-        "index": "25977",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_25977.json",
-        "negative_strings": [
-            "ekt",
-            "ees",
-            "ech",
-            "egers",
-            " Huff",
-            "\u00c3\u00bcm\u00c3\u00bc\u00c5\u0141",
-            "eh",
-            "ignum",
-            "\u00c3\u00a1s",
-            "zych"
-        ],
-        "positive_strings": [
-            "ifting",
-            "rew",
-            "kre",
-            "aker",
-            "allow",
-            "oa",
-            "optimizer",
-            "oppers",
-            "elling",
-            "ams"
-        ],
-        "description": "the name \"Sh\" and its variations as a prefix in names and titles"
-    },
-    {
-        "index": "30921",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_30921.json",
-        "negative_strings": [
-            "hte",
-            "ees",
-            "tae",
-            "ey",
-            "hev",
-            "\u00e7\u0143\u0134",
-            "ean",
-            "ee",
-            "->\n",
-            "zzo"
-        ],
-        "positive_strings": [
-            "enzhen",
-            "anghai",
-            "iger",
-            "ink",
-            "into",
-            "unj",
-            "imb",
-            "unde",
-            "inky",
-            "inch"
-        ],
-        "description": "names or phrases that include the character \"Sh.\""
-    },
-    {
-        "index": "4488",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is shabbat/data_for_feature_4488.json",
-        "negative_strings": [
-            "egers",
-            "ees",
-            " barrel",
-            "ekt",
-            "\u00e7\u0127\u00a7",
-            "ignum",
-            "jas",
-            "ech",
-            "\u00c3\u00b3rio",
-            "ign"
-        ],
-        "positive_strings": [
-            "ifting",
-            "aker",
-            "oppers",
-            "reve",
-            "rew",
-            "akespeare",
-            "optimizer",
-            "*t",
-            "oa",
-            "allow"
-        ],
-        "description": "references to individuals' names or titles in the text"
+        "description": "the word \"This\" at the beginning of sentences or phrases"
     }
 ]

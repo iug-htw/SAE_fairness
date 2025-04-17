@@ -1,8 +1,218 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
         "index": "21924",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_21924.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_21924.json",
         "negative_strings": [
             "senal",
             "hester",
@@ -30,9 +240,219 @@
         "description": "phrases related to legal proceedings and court cases"
     },
     {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "19958",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_19958.json",
+        "negative_strings": [
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
+        ],
+        "positive_strings": [
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
+        ],
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
+        "index": "2634",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_2634.json",
+        "negative_strings": [
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
+        ],
+        "positive_strings": [
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
+        ],
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
         "index": "21637",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_21637.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_21637.json",
         "negative_strings": [
             " heights",
             "rive",
@@ -60,423 +480,93 @@
         "description": "mentions of Islam"
     },
     {
-        "index": "24327",
+        "index": "2271",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_24327.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_2271.json",
         "negative_strings": [
-            " Lauder",
-            " Breed",
-            " Huntington",
-            " MacArthur",
-            " Wong",
-            " Schumer",
-            " Parkinson",
-            "arry",
-            " Fallon",
-            " Martial"
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
         ],
         "positive_strings": [
-            "ed",
-            " ornament",
-            "edo",
-            "oos",
-            "aroo",
-            " rack",
-            "line",
-            "strap",
-            "tips",
-            "pan"
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
         ],
-        "description": "words related to clothing items typically covering the head, such as hoods"
+        "description": "past tense verbs"
     },
     {
-        "index": "19179",
+        "index": "4045",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_19179.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_4045.json",
         "negative_strings": [
-            " fert",
-            "doc",
-            "\u0132",
-            " pregn",
-            "atican",
-            " BI",
-            "\u00a3\u0131",
-            "otom",
-            " Sacrament",
-            " MD"
+            "livious",
+            "enance",
+            "acid",
+            "anism",
+            " agreements",
+            "TPS",
+            "tm",
+            "attr",
+            "arsity",
+            "isites"
         ],
         "positive_strings": [
-            " worn",
-            "leeve",
-            "pins",
-            " wearer",
-            "hirt",
-            " sleeves",
-            " sleeve",
-            "makers",
-            "maker",
-            "shirt"
+            " rundown",
+            " glimpse",
+            " brief",
+            " primer",
+            " peek",
+            " snapshot",
+            " sampling",
+            " glance",
+            " roundup",
+            " summary"
         ],
-        "description": "mentions of clothing items"
+        "description": "sentences starting with 'A'"
     },
     {
-        "index": "5455",
+        "index": "13798",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_5455.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a hijab\\data_for_feature_13798.json",
         "negative_strings": [
-            "NetMessage",
-            "rawdownloadcloneembedreportprint",
-            "vernment",
-            "actionDate",
+            "ornia",
             "Interstitial",
-            "xious",
-            "SPONSORED",
-            "DATA",
-            "UTC",
-            "thumbnails"
+            "ilaterally",
+            "emale",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "pheus",
+            " Moroc",
+            " horizont",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " tradem"
         ],
         "positive_strings": [
-            " kit",
-            " holder",
-            " accessory",
-            " replica",
-            " pictured",
-            " tutorial",
-            " combo",
-            " holster",
-            " ($",
-            " featuring"
+            " Flavoring",
+            " Coverage",
+            " Mant",
+            " Psy",
+            "Interested",
+            " Mars",
+            "BILITIES",
+            " GOODMAN",
+            "ANS",
+            " Entered"
         ],
-        "description": "mentions of specific products and items for sale or review"
-    },
-    {
-        "index": "15810",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_15810.json",
-        "negative_strings": [
-            " ingred",
-            "DATA",
-            "Wiki",
-            "Focus",
-            " pregn",
-            "ENE",
-            "Rate",
-            "Apps",
-            " Continent",
-            " Tycoon"
-        ],
-        "positive_strings": [
-            " adorned",
-            " worn",
-            "uits",
-            " draped",
-            " trousers",
-            " trimmed",
-            " jacket",
-            " decorated",
-            " embro",
-            " sweater"
-        ],
-        "description": "items of clothing and physical appearances"
-    },
-    {
-        "index": "18727",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_18727.json",
-        "negative_strings": [
-            "ing",
-            "age",
-            "aging",
-            "ese",
-            "alling",
-            "ages",
-            "gage",
-            "aged",
-            "o\u00c4\u0141",
-            "uscript"
-        ],
-        "positive_strings": [
-            " Plain",
-            " Roads",
-            " ns",
-            " guiIcon",
-            "OPLE",
-            " Purpose",
-            " flats",
-            " County",
-            " Lawson",
-            " Scope"
-        ],
-        "description": "discussive sequences related to soccer matches or leagues"
-    },
-    {
-        "index": "3470",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_3470.json",
-        "negative_strings": [
-            "Images",
-            "features",
-            "stories",
-            "\u00e9\u00be\u012f",
-            "apses",
-            "laws",
-            "aunts",
-            "ths",
-            "itudes",
-            "umbs"
-        ],
-        "positive_strings": [
-            " affair",
-            " thing",
-            " unto",
-            " issue",
-            " ploy",
-            " impossibility",
-            " breaker",
-            " violation",
-            "breaker",
-            "fest"
-        ],
-        "description": "sports-related words and terms"
-    },
-    {
-        "index": "2515",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_2515.json",
-        "negative_strings": [
-            "cess",
-            "orative",
-            "oin",
-            "acular",
-            "once",
-            "\u00e2\u0136\u0122\u00e2\u0136\u0122",
-            "ongyang",
-            "tan",
-            "ition",
-            "llular"
-        ],
-        "positive_strings": [
-            "ospital",
-            "ancock",
-            " Abedin",
-            "abal",
-            "idays",
-            "abee",
-            "riks",
-            "azard",
-            "aida",
-            " Civic"
-        ],
-        "description": "mentions of specific brand names and locations"
-    },
-    {
-        "index": "13882",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_13882.json",
-        "negative_strings": [
-            " Pompe",
-            " Nau",
-            " deaf",
-            " sarc",
-            " Mayo",
-            " virtue",
-            " plural",
-            " Vlad",
-            " Schwar",
-            " Inquis"
-        ],
-        "positive_strings": [
-            "acking",
-            "acker",
-            "ackers",
-            "ack",
-            "acks",
-            "acked",
-            "inx",
-            "inks",
-            "ACK",
-            "acket"
-        ],
-        "description": "references to high-profile criminal activities like hijackings"
-    },
-    {
-        "index": "14035",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_14035.json",
-        "negative_strings": [
-            "imon",
-            "HCR",
-            "aido",
-            "trak",
-            "alos",
-            "real",
-            "iannopoulos",
-            "efe",
-            "esty",
-            "eki"
-        ],
-        "positive_strings": [
-            " dispens",
-            " wra",
-            " wrapper",
-            " bottle",
-            " cans",
-            " holder",
-            " applic",
-            " maker",
-            " bottles",
-            " lighter"
-        ],
-        "description": "references to specific items or actions in a workplace setting"
-    },
-    {
-        "index": "21958",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_21958.json",
-        "negative_strings": [
-            " Orbital",
-            " Wester",
-            " Nickel",
-            " HG",
-            " Bott",
-            " Goose",
-            " Valentine",
-            " Chloe",
-            " Cody",
-            " Aeg"
-        ],
-        "positive_strings": [
-            "arij",
-            "ihad",
-            "iyah",
-            "ahs",
-            "habi",
-            "abis",
-            "iy",
-            "acist",
-            "aah",
-            "acists"
-        ],
-        "description": "references related to religious statements and practices, especially those related to Islam"
-    },
-    {
-        "index": "18858",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_18858.json",
-        "negative_strings": [
-            " Spiritual",
-            " Turtles",
-            "istically",
-            "ishly",
-            " lett",
-            "tale",
-            "ischer",
-            " Punk",
-            " Laboratory",
-            "istic"
-        ],
-        "positive_strings": [
-            "belt",
-            "bel",
-            " cush",
-            " belt",
-            " cushion",
-            "chel",
-            " belts",
-            "washer",
-            "manship",
-            "mate"
-        ],
-        "description": "mentions of seat belts in a context related to enforcement or importance"
-    },
-    {
-        "index": "10464",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_10464.json",
-        "negative_strings": [
-            " Dull",
-            " Bulletin",
-            "tle",
-            "tery",
-            " Radical",
-            "Attempts",
-            "VD",
-            "via",
-            "bidden",
-            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122"
-        ],
-        "positive_strings": [
-            " helmet",
-            " helmets",
-            " Helmet",
-            " worn",
-            "lain",
-            "oided",
-            " armour",
-            " disg",
-            " wearer",
-            " goggles"
-        ],
-        "description": "mentions of helmets"
-    },
-    {
-        "index": "17545",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_17545.json",
-        "negative_strings": [
-            "venture",
-            " charact",
-            "anooga",
-            "cius",
-            "otaur",
-            "orph",
-            " subsequ",
-            "iated",
-            " philos",
-            "ynes"
-        ],
-        "positive_strings": [
-            "cloth",
-            "wife",
-            "bag",
-            " Nikon",
-            " Finland",
-            " aisle",
-            "tops",
-            " lid",
-            " Adapter",
-            "\u00e8\u0122\u0127"
-        ],
-        "description": "images or items related to scientific microscopy"
-    },
-    {
-        "index": "5524",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a hijab/data_for_feature_5524.json",
-        "negative_strings": [
-            "ession",
-            "hesive",
-            "ettings",
-            "oyal",
-            "ellow",
-            "cephal",
-            "odic",
-            "obs",
-            " Cosponsors",
-            " swallowed"
-        ],
-        "positive_strings": [
-            " veil",
-            " Louise",
-            " maiden",
-            " veiled",
-            " Spectre",
-            " Parenthood",
-            "UTC",
-            " Melania",
-            "abouts",
-            "lling"
-        ],
-        "description": "references to veils and secrecy"
+        "description": "words related to specific entities such as places, people, and organizations"
     }
 ]

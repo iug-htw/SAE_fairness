@@ -2,7 +2,7 @@
     {
         "index": "18085",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_18085.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_18085.json",
         "negative_strings": [
             " bottleneck",
             " limiting",
@@ -30,9 +30,219 @@
         "description": "references to weapons and combat-related terminology"
     },
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "21173",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_21173.json",
+        "negative_strings": [
+            " Breed",
+            "BuyableInstoreAndOnline",
+            "QUIRE",
+            " Bravo",
+            " bearer",
+            "=-=-=-=-",
+            "FORE",
+            "IZE",
+            "CVE",
+            "vae"
+        ],
+        "positive_strings": [
+            "ocamp",
+            "ipp",
+            "sburgh",
+            "oman",
+            "ortun",
+            "alon",
+            "onen",
+            "lisher",
+            "ulative",
+            "earances"
+        ],
+        "description": "occurrences of the word \"ipp\" followed by a single-digit or double-digit number"
+    },
+    {
+        "index": "8281",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_8281.json",
+        "negative_strings": [
+            " Breed",
+            "=-=-=-=-",
+            "Definition",
+            " CVE",
+            "FORE",
+            "BuyableInstoreAndOnline",
+            "QUIRE",
+            " measure",
+            "=-=-=-=-=-=-=-=-",
+            " cause"
+        ],
+        "positive_strings": [
+            "ocamp",
+            "ipp",
+            "sburgh",
+            "onen",
+            "ocalypse",
+            "oman",
+            "lisher",
+            "ortun",
+            "ulative",
+            " Pengu"
+        ],
+        "description": "references to the term \"hipp\" followed by a number, which seems to be a specific term or name"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "18165",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_18165.json",
+        "negative_strings": [
+            " priceless",
+            " anonymously",
+            " thousands",
+            " YEAR",
+            " Doomsday",
+            " silence",
+            " MPG",
+            " dozens",
+            " 2021",
+            " thirds"
+        ],
+        "positive_strings": [
+            "ikuman",
+            " Lumpur",
+            "enei",
+            "lyak",
+            "\u0138\u013c",
+            "zie",
+            "fman",
+            "ucha",
+            "\u012a\u0134",
+            "aroo"
+        ],
+        "description": "words related to specific names or terms"
+    },
+    {
         "index": "18497",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_18497.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_18497.json",
         "negative_strings": [
             "terday",
             "LECT",
@@ -60,9 +270,129 @@
         "description": "words related to positive momentum or energy"
     },
     {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "9314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_9314.json",
+        "negative_strings": [
+            " insured",
+            " fict",
+            " paycheck",
+            " fixation",
+            " advoc",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " totality",
+            " gobl",
+            " nomine",
+            " ubiquitous"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "awks",
+            "aha",
+            "olics",
+            "onda",
+            "ttp",
+            "oe",
+            "aban",
+            "ghan"
+        ],
+        "description": "the word \"ah\" with variations in intensity"
+    },
+    {
+        "index": "3229",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_3229.json",
+        "negative_strings": [
+            " Europeans",
+            " wishing",
+            " Kodi",
+            " CW",
+            "\u00e2\u0138\u00ac\u00e2\u0138\u00ac",
+            " meager",
+            " annex",
+            " transformative",
+            " losers",
+            " taxpayers"
+        ],
+        "positive_strings": [
+            "lication",
+            "earance",
+            "erton",
+            "arent",
+            "enf",
+            "enhagen",
+            "ucc",
+            "atown",
+            "olit",
+            "elman"
+        ],
+        "description": "words related to a specific brand or product name"
+    },
+    {
+        "index": "8596",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_8596.json",
+        "negative_strings": [
+            " assailants",
+            " Explorer",
+            " adversaries",
+            " foe",
+            " bullies",
+            " Bind",
+            " dece",
+            " killers",
+            " poverty",
+            " blindness"
+        ],
+        "positive_strings": [
+            "ocamp",
+            "opot",
+            "ocratic",
+            "ocrates",
+            "eties",
+            "ocrat",
+            "oly",
+            "ey",
+            "ete",
+            "ety"
+        ],
+        "description": "the word \"hippies\" and related terms"
+    },
+    {
         "index": "12285",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_12285.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_12285.json",
         "negative_strings": [
             "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
             "\u00e9\u0139\u013a",
@@ -90,9 +420,99 @@
         "description": "the letter 'k' followed by a number indicating severity or strength"
     },
     {
+        "index": "23303",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_23303.json",
+        "negative_strings": [
+            " fict",
+            " insured",
+            " totality",
+            " tremend",
+            " secretaries",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " insepar",
+            " advoc",
+            " ubiquitous",
+            " notor"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "ttp",
+            "awks",
+            "ah",
+            "aha",
+            "tml",
+            "onda",
+            "olics",
+            "ghan"
+        ],
+        "description": "words related to a specific individual named \"Shah\" or \"Shahid.\""
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
         "index": "8560",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_8560.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_8560.json",
         "negative_strings": [
             " lett",
             " scapego",
@@ -120,9 +540,39 @@
         "description": "coding terms related to include directories and kernel headers"
     },
     {
+        "index": "13838",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_13838.json",
+        "negative_strings": [
+            " alike",
+            " treat",
+            " juices",
+            " arts",
+            " rule",
+            " Rica",
+            " attention",
+            " JUSTICE",
+            " fill",
+            " balance"
+        ],
+        "positive_strings": [
+            "awks",
+            "awk",
+            "olics",
+            "renheit",
+            "olic",
+            "ouston",
+            "ouse",
+            "uman",
+            "atche",
+            "annah"
+        ],
+        "description": "phrases related to kitchen knives and their quality"
+    },
+    {
         "index": "18946",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_18946.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a kippah\\data_for_feature_18946.json",
         "negative_strings": [
             " relying",
             " doubling",
@@ -148,305 +598,5 @@
             "ALE"
         ],
         "description": "names of places or people starting with the letter 'H'"
-    },
-    {
-        "index": "19357",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_19357.json",
-        "negative_strings": [
-            " Cups",
-            " setbacks",
-            " ones",
-            " bosses",
-            " fixtures",
-            " testers",
-            " Ones",
-            " Tanks",
-            " agents",
-            " deployments"
-        ],
-        "positive_strings": [
-            "uristic",
-            "cipled",
-            "emonic",
-            "ministic",
-            "assian",
-            "emale",
-            "athetic",
-            "rotein",
-            "icrobial",
-            "ogeneous"
-        ],
-        "description": "negative social behaviors and controversial terms related to race and prejudice"
-    },
-    {
-        "index": "11795",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_11795.json",
-        "negative_strings": [
-            " ourselves",
-            " heads",
-            " myself",
-            " demographics",
-            " galleries",
-            " sight",
-            " Polly",
-            " demographic",
-            " broken",
-            " wholesale"
-        ],
-        "positive_strings": [
-            "atherine",
-            "laus",
-            "orea",
-            "eeper",
-            "orean",
-            "anye",
-            "avanaugh",
-            "lein",
-            "lopp",
-            "erala"
-        ],
-        "description": "K is looking for references to technical support services or legal actions"
-    },
-    {
-        "index": "13672",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_13672.json",
-        "negative_strings": [
-            " Pigs",
-            " Sloven",
-            " Glob",
-            " Titanic",
-            " rh",
-            " Charlottesville",
-            " Lithuan",
-            " Icelandic",
-            " Polly",
-            " Slov"
-        ],
-        "positive_strings": [
-            "\u00c5\u012f",
-            "aito",
-            "aku",
-            "etsu",
-            "akeru",
-            "atsu",
-            "atsuki",
-            "ihara",
-            "oshi",
-            "oton"
-        ],
-        "description": "keywords related to specific locations, institutions, and characters in a fictional world"
-    },
-    {
-        "index": "1997",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_1997.json",
-        "negative_strings": [
-            " Grizzlies",
-            " Falling",
-            " discretionary",
-            " pitches",
-            " Maid",
-            " Vera",
-            " friction",
-            " Cumber",
-            " Shelby",
-            " Florence"
-        ],
-        "positive_strings": [
-            "ompl",
-            "omm",
-            "\u00c3\u00b6n",
-            "riminal",
-            "lein",
-            "redit",
-            "rift",
-            "omp",
-            "ulture",
-            "rieg"
-        ],
-        "description": "words related to conflict or controversy"
-    },
-    {
-        "index": "15995",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_15995.json",
-        "negative_strings": [
-            " GI",
-            "\u00a9\u00b6\u00e6",
-            " AIDS",
-            " CSI",
-            " Eighth",
-            " Bounty",
-            " \u00c3\u013e",
-            " Administration",
-            " Fortune",
-            " Opposition"
-        ],
-        "positive_strings": [
-            "iverpool",
-            "cf",
-            "cp",
-            "cs",
-            "ickr",
-            "cb",
-            "cv",
-            "cm",
-            "racuse",
-            "bc"
-        ],
-        "description": "Twitter handles"
-    },
-    {
-        "index": "240",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_240.json",
-        "negative_strings": [
-            " reluct",
-            " unexplained",
-            " Path",
-            " unethical",
-            " skepticism",
-            " opposition",
-            " Advantage",
-            " Awakening",
-            " Apostle",
-            " Ground"
-        ],
-        "positive_strings": [
-            "igraph",
-            "ampunk",
-            "igree",
-            "itone",
-            "intage",
-            "icol",
-            "iques",
-            "iture",
-            "olor",
-            "ivery"
-        ],
-        "description": "physical objects or garments and detailed descriptions related to their appearance"
-    },
-    {
-        "index": "19832",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_19832.json",
-        "negative_strings": [
-            "itiz",
-            " respons",
-            " thereafter",
-            " thereof",
-            " accordingly",
-            "\u00e2\u0138\u00ba",
-            " outwe",
-            " thereto",
-            " moreover",
-            "?,"
-        ],
-        "positive_strings": [
-            "reetings",
-            "anmar",
-            " SHARES",
-            "zbollah",
-            "stanbul",
-            "avascript",
-            " Vegan",
-            " Updated",
-            " Introduction",
-            "o\u00c4\u0141an"
-        ],
-        "description": "phrases indicating the beginning of a story or anecdote"
-    },
-    {
-        "index": "1723",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_1723.json",
-        "negative_strings": [
-            "nown",
-            " eminent",
-            "onymous",
-            "ureau",
-            "vernment",
-            "unknown",
-            "ablishment",
-            "uthor",
-            "reported",
-            "ossibility"
-        ],
-        "positive_strings": [
-            " crochet",
-            " vape",
-            " yarn",
-            " denim",
-            " mascara",
-            " espresso",
-            " blender",
-            " cigars",
-            " Flavoring",
-            " cigar"
-        ],
-        "description": "phrases related to products and their features"
-    },
-    {
-        "index": "10391",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_10391.json",
-        "negative_strings": [
-            " scheduling",
-            " domestically",
-            " indoor",
-            " discreet",
-            " basketball",
-            " ski",
-            " professionally",
-            " interviewing",
-            " Woody",
-            " conducive"
-        ],
-        "positive_strings": [
-            "agnar",
-            "regor",
-            "eph",
-            "ael",
-            "ithing",
-            "alth",
-            "orth",
-            "adesh",
-            "emet",
-            "roth"
-        ],
-        "description": "fantasy game-related terms and characters"
-    },
-    {
-        "index": "20168",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a kippah/data_for_feature_20168.json",
-        "negative_strings": [
-            " fixtures",
-            " bases",
-            " collaborators",
-            " substitutes",
-            " representations",
-            " interns",
-            " behavi",
-            " stickers",
-            " commissions",
-            " guides"
-        ],
-        "positive_strings": [
-            "uddle",
-            "auntlet",
-            "uzzle",
-            "osion",
-            "inch",
-            "ummer",
-            "izzard",
-            "auldron",
-            "\u00c3\u00aa",
-            "uncture"
-        ],
-        "description": "numbers that tend to be at the beginning of a word, especially when they refer to quantities"
     }
 ]

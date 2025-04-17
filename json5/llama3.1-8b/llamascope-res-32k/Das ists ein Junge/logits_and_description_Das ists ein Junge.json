@@ -1,8 +1,38 @@
 [
     {
+        "index": "27057",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_27057.json",
+        "negative_strings": [
+            "\"",
+            ".",
+            "-",
+            ",",
+            "(",
+            "[",
+            "/",
+            "*",
+            ":",
+            ")"
+        ],
+        "positive_strings": [
+            " a",
+            " an",
+            " the",
+            " in",
+            " at",
+            " to",
+            " on",
+            " one",
+            " is",
+            " as"
+        ],
+        "description": " percentages and numerical data related to financial or statistical comparisons"
+    },
+    {
         "index": "19549",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_19549.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_19549.json",
         "negative_strings": [
             " Cologne",
             "Germany",
@@ -30,9 +60,159 @@
         "description": "relationships between characters in a narrative"
     },
     {
+        "index": "3328",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_3328.json",
+        "negative_strings": [
+            "\u00cf\u0129\u00cf\u012e",
+            "ezi",
+            "enden",
+            "idget",
+            "gamber",
+            "d\u00c3\u00bcl",
+            "ersed",
+            "\u00ec\u00a6",
+            "dm",
+            "\u00d9\u0128\u00d8\u00af\u00da\u00af\u00db\u012e"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ipers",
+            "cker",
+            "venile",
+            "ct",
+            "ta",
+            "ete",
+            "ius",
+            "ger"
+        ],
+        "description": " occurrences of the word \"jun\" and variations of it, likely related to dates or events in June"
+    },
+    {
+        "index": "10562",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_10562.json",
+        "negative_strings": [
+            "ignon",
+            "vertiser",
+            "rias",
+            "cheng",
+            "inson",
+            "i",
+            " blessed",
+            "ilden",
+            "aucoup",
+            "\u00ec\u00a6"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "IOR",
+            "ipers",
+            "ior",
+            "cker",
+            "ct",
+            "venile",
+            "ius",
+            "aid"
+        ],
+        "description": " instances of the word \"junior\" and variations of the word \"jun.\""
+    },
+    {
+        "index": "23941",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_23941.json",
+        "negative_strings": [
+            "vertiser",
+            "ignon",
+            "inson",
+            "ills",
+            " blessed",
+            "badge",
+            "ilden",
+            "RYPT",
+            " arbitr",
+            "365"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "IOR",
+            "ior",
+            "ipers",
+            "ius",
+            "cker",
+            "eydi",
+            "venile",
+            "alus"
+        ],
+        "description": "references to the month of June and related plant types"
+    },
+    {
+        "index": "25783",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_25783.json",
+        "negative_strings": [
+            "ignon",
+            "cheng",
+            "vertiser",
+            "rias",
+            "\u00ec\u00a6",
+            "gamber",
+            " blessed",
+            "endas",
+            "enden",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00bc\u00e3\u0124\u00ba"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ipers",
+            "cker",
+            "ta",
+            "venile",
+            "IOR",
+            "ct",
+            "aid",
+            "ius"
+        ],
+        "description": " occurrences and references to the word \"jun\" along with dates"
+    },
+    {
+        "index": "24613",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_24613.json",
+        "negative_strings": [
+            "rias",
+            "lore",
+            "vertiser",
+            "ewan",
+            "colo",
+            "fully",
+            "ilden",
+            "enden",
+            "UME",
+            " Cage"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ior",
+            "IOR",
+            "iores",
+            "Jun",
+            "ct",
+            "swick",
+            "cker",
+            "alus"
+        ],
+        "description": " occurrences of the word \"jun\" and its variations"
+    },
+    {
         "index": "27000",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_27000.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_27000.json",
         "negative_strings": [
             "dess",
             "eon",
@@ -58,305 +238,5 @@
             "iges"
         ],
         "description": " occurrences of the word \"ein\" and its variations in German"
-    },
-    {
-        "index": "31047",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_31047.json",
-        "negative_strings": [
-            " \n\n",
-            " \n",
-            " \u00e2\u0122\u00a6\n\n",
-            "\n\n",
-            " Lutheran",
-            "beer",
-            "FormatException",
-            " Johann",
-            "PLICATION",
-            "\u00e3\u0124\u00a4\u00e3\u0125\u012a"
-        ],
-        "positive_strings": [
-            " GRAT",
-            " sexkontakte",
-            " kannst",
-            " kostenlose",
-            " gratis",
-            " CHIP",
-            " Handy",
-            " mooie",
-            " m\u00c3\u00b6chten",
-            " geile"
-        ],
-        "description": " technical terms and error codes related to appliances"
-    },
-    {
-        "index": "26294",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_26294.json",
-        "negative_strings": [
-            "erman",
-            "ouble",
-            "\u00ce\u00bd\u00ce\u00bf\u00ce\u00bc",
-            "UBLE",
-            " oblast",
-            " \u00e6\u012b\u0122",
-            ",},\n",
-            "\u00e0\u00b9\u0123\u00e0\u00b8\u013b",
-            " \u00ce\u00b4\u00ce\u00b7\u00ce\u00bc\u00ce\u00bf",
-            "\u00e8\u0125\u0130"
-        ],
-        "positive_strings": [
-            " gold",
-            " golden",
-            " bla",
-            " wild",
-            " nack",
-            " nackte",
-            " Hex",
-            " Tot",
-            " Held",
-            " wil"
-        ],
-        "description": "specific literary references or text components"
-    },
-    {
-        "index": "575",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_575.json",
-        "negative_strings": [
-            " Verf\u00c3\u00bcg",
-            " M\u00c3\u00b6glich",
-            " nackte",
-            " Ihren",
-            " Antworten",
-            " buurt",
-            " aktuellen",
-            " n\u00c3\u00b8",
-            " Bav",
-            " erotische"
-        ],
-        "positive_strings": [
-            " der",
-            "basis",
-            " die",
-            " mit",
-            " dies",
-            " gut",
-            " als",
-            "orts",
-            " im",
-            "unge"
-        ],
-        "description": "discussion of film criticism and analysis"
-    },
-    {
-        "index": "8091",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_8091.json",
-        "negative_strings": [
-            " Verf\u00c3\u00bcg",
-            " M\u00c3\u00b6glich",
-            " Bav",
-            " Ihren",
-            " Antworten",
-            " Jahres",
-            " aktuellen",
-            " buurt",
-            " Angebot",
-            " f\u00c3\u00b8"
-        ],
-        "positive_strings": [
-            "basis",
-            " gut",
-            "t\u00c3\u0143",
-            " ent",
-            "itia",
-            "abwe",
-            " dies",
-            " der",
-            " quasi",
-            " uns"
-        ],
-        "description": " elements related to film critique and storytelling"
-    },
-    {
-        "index": "21690",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_21690.json",
-        "negative_strings": [
-            " Verf\u00c3\u00bcg",
-            " M\u00c3\u00b6glich",
-            " Ihren",
-            " aktuellen",
-            " Antworten",
-            " Bav",
-            " Auswahl",
-            " Angebot",
-            " Jahres",
-            " Nutzung"
-        ],
-        "positive_strings": [
-            "importe",
-            "#ab",
-            " ent",
-            "t\u00c3\u0143",
-            "basis",
-            "abwe",
-            "iven",
-            " dies",
-            " mit",
-            "iale"
-        ],
-        "description": " narratives involving relationships and personal connections"
-    },
-    {
-        "index": "30289",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_30289.json",
-        "negative_strings": [
-            " respective",
-            " respectively",
-            "\u00d8\u00b1\u00d8\u00a8\u00db\u012e",
-            "rahim",
-            "ubby",
-            "andles",
-            "ABB",
-            "earer",
-            " prostituerade",
-            "alker"
-        ],
-        "positive_strings": [
-            " charm",
-            " bee",
-            " brill",
-            " sehr",
-            " gro\u00c3\u0141",
-            " beach",
-            " elegant",
-            " sympath",
-            " grand",
-            " innov"
-        ],
-        "description": " phrases indicating positive evaluations of films"
-    },
-    {
-        "index": "6031",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_6031.json",
-        "negative_strings": [
-            "ube",
-            "seite",
-            "ive",
-            "filme",
-            "k\u00c3\u00b3w",
-            "/***/",
-            "lds",
-            "kul",
-            "\u00e1\u00bb\u0135n",
-            "\u00d0\u00ba\u00d1\u0125\u00d0\u00bb"
-        ],
-        "positive_strings": [
-            " Thema",
-            " Datum",
-            " Angebot",
-            " Ensemble",
-            " Ding",
-            " Leben",
-            " Unternehmen",
-            " Testament",
-            " Problem",
-            " Stadium"
-        ],
-        "description": " nouns and determiners associated with photography and community"
-    },
-    {
-        "index": "1974",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_1974.json",
-        "negative_strings": [
-            "ube",
-            " roadside",
-            " \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
-            " M\u00c3\u00b6glichkeit",
-            "irsch",
-            "lds",
-            " Suche",
-            "ive",
-            "/***/",
-            " disks"
-        ],
-        "positive_strings": [
-            " Datum",
-            " Thema",
-            " Schema",
-            "auge",
-            " Programm",
-            " Stadium",
-            " Pendant",
-            " Engagement",
-            " Ensemble",
-            " Unternehmen"
-        ],
-        "description": " nouns and phrases indicative of visual media or important imagery"
-    },
-    {
-        "index": "17991",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_17991.json",
-        "negative_strings": [
-            " Woche",
-            "erge",
-            "ilon",
-            "seite",
-            "ervoir",
-            "brid",
-            "edics",
-            "sburg",
-            "rist",
-            "orge"
-        ],
-        "positive_strings": [
-            " Gang",
-            " Bereich",
-            " Blick",
-            " Status",
-            " statuses",
-            "erton",
-            " Abs",
-            "punkt",
-            "STATUS",
-            "utschein"
-        ],
-        "description": " phrases and words related to film critiques and descriptions"
-    },
-    {
-        "index": "19264",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ists ein Junge/data_for_feature_19264.json",
-        "negative_strings": [
-            "ube",
-            " Suche",
-            "ive",
-            "\u00e3\u0123\u00a8\u00e3\u0123\u0135\u00e3\u0124\u012f",
-            "redient",
-            "Clause",
-            " Markets",
-            "ione",
-            "orte",
-            "\u00d0\u00ba\u00d1\u0125\u00d0\u00bb"
-        ],
-        "positive_strings": [
-            " Schema",
-            " Pendant",
-            " Datum",
-            " Ensemble",
-            "agma",
-            " Thema",
-            "auge",
-            " Ding",
-            " Medium",
-            "ritis"
-        ],
-        "description": "key visual elements and descriptions of character traits in narratives"
     }
 ]

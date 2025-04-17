@@ -1,8 +1,248 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "2804",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_2804.json",
+        "negative_strings": [
+            " sufficient",
+            " ragaz",
+            "[n",
+            " similar",
+            "\u00ce\u00bb\u00ce\u00b5",
+            " vivastreet",
+            "sexual",
+            " rather",
+            "minated",
+            "/an"
+        ],
+        "positive_strings": [
+            " assortment",
+            "archy",
+            " array",
+            " abundance",
+            " entire",
+            " individual",
+            " attempt",
+            "null",
+            " important",
+            " initial"
+        ],
+        "description": " the article \"an\" in various contexts"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
         "index": "11166",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_11166.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_11166.json",
         "negative_strings": [
             "Dummy",
             "erable",
@@ -30,273 +270,93 @@
         "description": "references to academic titles or positions"
     },
     {
-        "index": "26396",
+        "index": "19325",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_26396.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_19325.json",
         "negative_strings": [
-            "assist",
-            " assistants",
-            "zdy",
-            "ucc",
-            " Assist",
-            "chalk",
-            "assistant",
-            " Assistant",
-            "Assistant",
-            "ongan"
+            "rei",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            "odos",
+            "rait",
+            "urement",
+            "-Agent",
+            " actionTypes",
+            "agara",
+            "edom",
+            "_RESOLUTION"
         ],
         "positive_strings": [
-            "ship",
-            "ships",
-            "ive",
-            " professor",
-            " Professor",
-            " professors",
-            "unta",
-            "SHIP",
-            "ants",
-            " prof"
+            "handlers",
+            " Part",
+            "\u00e3\u0125\u013b\u00e3\u0125\u00ab",
+            "Pt",
+            "icator",
+            "Vue",
+            "anki",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "veau",
+            "\u00eb\u00b3\u00b5"
         ],
-        "description": "references to various types of assistant roles and positions"
+        "description": "phrases indicating a definition or description of something"
     },
     {
-        "index": "21920",
+        "index": "6154",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_21920.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_6154.json",
         "negative_strings": [
-            "eres",
-            "pch",
-            "etri",
-            "\u00e0\u00a5\u012f\u00e0\u00a4\u00a4\u00e0\u00a4\u0137",
-            "\u00d0\u00b5\u00d1\u0122\u00d0\u00be",
-            "ongan",
-            "iset",
-            "ymous",
-            "zdy",
-            "rahim"
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
         ],
         "positive_strings": [
-            "ive",
-            "ship",
-            "ships",
-            "unta",
-            " cuff",
-            "88",
-            "\u00d7\u0137",
-            "zman",
-            "ancy",
-            "231"
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
+            "/her",
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
         ],
-        "description": "references to various ranks or roles associated with the title \"Assistant.\""
+        "description": " references to specific moments or elements that evoke emotion or significance"
     },
     {
-        "index": "21126",
+        "index": "24644",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_21126.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is an assistant\\data_for_feature_24644.json",
         "negative_strings": [
-            "\u00e0\u00b8\u00a3\u00e0\u00b8\u0143\u00e0\u00b8\u0129",
-            "paces",
-            "lette",
-            "\u00e1\u00ba\u00a3o",
-            "assic",
-            "\u00c3\u00a7as",
-            "ething",
-            "lettes",
-            "recision",
-            "assed"
+            "etten",
+            "ahren",
+            "ertools",
+            " Bam",
+            "errupted",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00bc\u00e3\u0124\u00ba",
+            "icensed",
+            "acades",
+            " Gol",
+            "IDEO"
         ],
         "positive_strings": [
-            "ive",
-            "ances",
-            "ants",
-            "IVE",
-            "ivec",
-            "/support",
-            "ively",
-            "ance",
-            "ilia",
-            "itude"
+            "ther",
+            "archy",
+            "iline",
+            "agrams",
+            "ointed",
+            "ach",
+            "vil",
+            "thers",
+            "null",
+            "ote"
         ],
-        "description": "terms related to assistance or support roles"
-    },
-    {
-        "index": "18976",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_18976.json",
-        "negative_strings": [
-            "ucc",
-            "chalk",
-            "etri",
-            "eres",
-            "ignon",
-            "cope",
-            "zdy",
-            "\u00ec\u013f\u00b4\u00ed\u0126\u00b0",
-            "erspective",
-            "P\u00c5\u013bed"
-        ],
-        "positive_strings": [
-            "ship",
-            "ships",
-            " cuff",
-            "\u00d7\u0137",
-            "unta",
-            "ive",
-            "-webpack",
-            "HX",
-            "lift",
-            "ful"
-        ],
-        "description": "mentions of assistants or associated roles within various professional contexts"
-    },
-    {
-        "index": "9032",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_9032.json",
-        "negative_strings": [
-            "\u00e0\u00b8\u00a3\u00e0\u00b8\u0143\u00e0\u00b8\u0129",
-            "ish",
-            "lette",
-            "assic",
-            "paces",
-            "assed",
-            "\u00c3\u00a7as",
-            "\u00e1\u00ba\u00a3o",
-            "er",
-            "lings"
-        ],
-        "positive_strings": [
-            "ive",
-            "ances",
-            "ants",
-            "ively",
-            "IVE",
-            "ivec",
-            "/support",
-            "unta",
-            "iveness",
-            "/help"
-        ],
-        "description": "terms related to help or support"
-    },
-    {
-        "index": "4934",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_4934.json",
-        "negative_strings": [
-            "\u00e0\u00b8\u00a3\u00e0\u00b8\u0143\u00e0\u00b8\u0129",
-            "\u00e1\u00ba\u00a3o",
-            "ospace",
-            "lings",
-            "ey",
-            "\u00d8\u00aa\u00d8\u00b1\u00db\u012e",
-            "assed",
-            "lier",
-            "aping",
-            "clud"
-        ],
-        "positive_strings": [
-            "ive",
-            "ances",
-            "/support",
-            " \u00c4\u0133\u00e1\u00bb\u00a1",
-            "ants",
-            "\u00e0\u00b9\u0122\u00e0\u00b8\u00ab\u00e0\u00b8\u00a5",
-            "IVE",
-            "ivec",
-            " efforts",
-            "/help"
-        ],
-        "description": " words and phrases related to assistance and support"
-    },
-    {
-        "index": "9550",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_9550.json",
-        "negative_strings": [
-            "Associ",
-            "\u00c3\u00a3i",
-            " Associates",
-            "ertas",
-            "associ",
-            "baz",
-            "chalk",
-            "zdy",
-            "ersh",
-            " assistants"
-        ],
-        "positive_strings": [
-            " professor",
-            "prof",
-            " Professor",
-            " prof",
-            " Prof",
-            " PROF",
-            "-prof",
-            " professors",
-            "Professor",
-            "ship"
-        ],
-        "description": " titles and roles related to academic and professional positions"
-    },
-    {
-        "index": "17336",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_17336.json",
-        "negative_strings": [
-            "chalk",
-            "ignon",
-            "ableView",
-            "czy",
-            "acula",
-            "\u00e3\u0122\u0123\u00e3\u0122\u0123",
-            "antar",
-            "\u00cc\u0128",
-            "subclass",
-            "abyrinth"
-        ],
-        "positive_strings": [
-            "ship",
-            " editor",
-            "\u00d1\u0130",
-            " Schro",
-            " Scho",
-            " Editor",
-            "ships",
-            " cuff",
-            "rous",
-            "editor"
-        ],
-        "description": "roles that include the title \"Assistant.\""
-    },
-    {
-        "index": "17700",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is an assistant/data_for_feature_17700.json",
-        "negative_strings": [
-            "abyrinth",
-            "mac\u00c4\u00b1",
-            "usk",
-            "\u00e6\u012c\u013e",
-            "aby",
-            "rahim",
-            " msgstr",
-            "etri",
-            "istas",
-            "ipay"
-        ],
-        "positive_strings": [
-            "ship",
-            "ships",
-            "ature",
-            " Schro",
-            " Od",
-            "ism",
-            "ats",
-            " Lifestyle",
-            "lift",
-            "\u00e7\u0127\u00a7"
-        ],
-        "description": "references to varying roles and titles related to assistant positions"
+        "description": " instances of the indefinite article \"an.\""
     }
 ]

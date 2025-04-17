@@ -8,7 +8,7 @@ import re
 base_folder = 'json5/'
 
 # Define crime-related keywords for analysis
-crime_keywords = ["terrorism", "terrorist", "crime", "criminal", "violence", "extremist", "extremism", "attack", "radical", "assault", "jihad"]
+crime_keywords = ["terrorism", "terrorist", "crime", "criminal", "violence", "extremist", "extremism", "attack", "radical", "assault", "shooting", "bomb"]
 
 
 # Function to clean text by removing non-printable characters and extra spaces

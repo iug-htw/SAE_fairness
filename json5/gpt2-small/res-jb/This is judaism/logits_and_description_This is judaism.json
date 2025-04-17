@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "1540",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_1540.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_1540.json",
         "negative_strings": [
             " dressing",
             " Shank",
@@ -30,9 +90,39 @@
         "description": "words related to legal and judicial matters"
     },
     {
+        "index": "2129",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_2129.json",
+        "negative_strings": [
+            "t",
+            "y",
+            "c",
+            "d",
+            "mie",
+            "g",
+            "cas",
+            "l",
+            "dc",
+            "tons"
+        ],
+        "positive_strings": [
+            "usterity",
+            "veland",
+            "esthesia",
+            "issance",
+            "esthetic",
+            "\u0127\u012d",
+            "\u00c3\u00b1",
+            "\u00c3\u00b1a",
+            "emia",
+            "emon"
+        ],
+        "description": "words related to electronic devices and technical programming details"
+    },
+    {
         "index": "17548",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_17548.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_17548.json",
         "negative_strings": [
             "cffffcc",
             "tera",
@@ -60,9 +150,69 @@
         "description": "words related to judgment or judicial matters"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22826",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_22826.json",
+        "negative_strings": [
+            "taking",
+            "t",
+            "tons",
+            "driving",
+            "space",
+            "down",
+            "picking",
+            "cutting",
+            "taker",
+            "sw"
+        ],
+        "positive_strings": [
+            "\u00c5\u0141",
+            "\u00c4\u0141",
+            "\u00c3\u00b1",
+            "\u00c5\u0124",
+            "\u00c3\u00b1o",
+            "\u00c3\u0141",
+            "\u00c5\u00a1",
+            "\u00c3\u00b1a",
+            "\u00c3\u00a7",
+            "\u00c4\u012f"
+        ],
+        "description": "texts in a non-English language, potentially Finnish or a similar language due to the presence of words like \"olla,\" \"usta,\" \"un,\" and \"aika.\""
+    },
+    {
         "index": "13842",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_13842.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_13842.json",
         "negative_strings": [
             "tera",
             "reve",
@@ -90,249 +240,219 @@
         "description": "proper nouns or specific terms related to the concept of judgment"
     },
     {
-        "index": "20765",
+        "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_20765.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_21800.json",
         "negative_strings": [
-            "fields",
-            "oteric",
-            "xon",
-            " Towns",
-            "RESULTS",
-            "doors",
-            " Ashton",
-            "\u00d8\u00a7\u00d9\u0126",
-            " Archdemon",
-            " Horus"
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
         ],
         "positive_strings": [
-            "jud",
-            "gement",
-            "gment",
-            "iciary",
-            "gments",
-            "icial",
-            "gements",
-            " Jud",
-            "iced",
-            "ging"
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
         ],
-        "description": "phrases related to legal judgments or decisions"
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "12613",
+        "index": "11344",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_12613.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_11344.json",
         "negative_strings": [
-            "ment",
-            " sadd",
-            "naire",
-            " charged",
-            "INE",
-            "respond",
-            "rehens",
-            " pity",
-            " Twain",
-            " ple"
+            "TAIN",
+            "JUST",
+            "Lear",
+            "bred",
+            "vag",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9",
+            "ergy",
+            "vae",
+            "VID",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122"
         ],
         "positive_strings": [
-            "ges",
-            "ging",
-            "ged",
-            "gement",
-            "gements",
-            "der",
-            "gment",
-            "gew",
-            "gest",
-            "gments"
-        ],
-        "description": "mentions or discussions related to shady or questionable activities"
-    },
-    {
-        "index": "10175",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_10175.json",
-        "negative_strings": [
-            " Resp",
-            " Immunity",
-            " outsourcing",
-            " Hemp",
-            "miss",
-            " mant",
-            " Via",
-            "iminary",
-            " Cooldown",
-            " Siem"
-        ],
-        "positive_strings": [
-            "ggle",
-            "gg",
-            "ck",
-            "ggles",
-            "kes",
-            "gger",
-            "keye",
-            "cking",
-            "KING",
-            "ggie"
-        ],
-        "description": "references to doctorate degrees and academic achievements"
-    },
-    {
-        "index": "22687",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_22687.json",
-        "negative_strings": [
-            " Whitman",
-            " Marqu",
-            " Martin",
-            " Robinson",
-            " famously",
-            " Emerson",
-            " Winn",
-            " Jackson",
-            " Spark",
-            " Chapman"
-        ],
-        "positive_strings": [
-            " exting",
-            " oun",
-            " tremend",
-            " teasp",
-            "ortunately",
-            "nesday",
-            " pione",
-            "\u00d0\u00be",
-            " carbohyd",
-            "aution"
-        ],
-        "description": "phrases related to enhancing tasks"
-    },
-    {
-        "index": "12419",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_12419.json",
-        "negative_strings": [
-            " Roe",
-            " Crunch",
-            " Cache",
-            " Face",
-            " Digest",
-            " Patent",
-            " CV",
-            " Missouri",
-            " Dign",
-            " accord"
-        ],
-        "positive_strings": [
-            "orters",
-            "ippers",
-            "ammers",
-            "appers",
-            "achers",
-            "istors",
-            "ineries",
-            "esters",
-            "encers",
-            "ateurs"
-        ],
-        "description": "references to specific locations such as refineries"
-    },
-    {
-        "index": "8817",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_8817.json",
-        "negative_strings": [
-            "AME",
-            " ancestor",
-            " actors",
-            " Ducks",
-            "ICLE",
-            "NEY",
-            " myths",
-            " HERO",
-            " Eagle",
-            " exclusion"
-        ],
-        "positive_strings": [
-            "kish",
-            "iving",
-            "aaa",
-            "res",
-            "aa",
-            "ivable",
-            "ver",
-            "aaaa",
-            "ved",
-            "ileaks"
-        ],
-        "description": "words related to wavering or indecision"
-    },
-    {
-        "index": "3127",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_3127.json",
-        "negative_strings": [
-            " Judge",
-            " Neil",
-            " Kai",
-            " Mason",
-            " War",
-            " Lia",
-            " Pole",
-            " Wiz",
-            " Bog",
-            " Representative"
-        ],
-        "positive_strings": [
-            " teasp",
-            "DeliveryDate",
-            " pione",
-            "quickShipAvailable",
-            "inventoryQuantity",
-            "\u0114",
-            "\u0103",
-            "\u00fc",
-            "\u00f9",
-            "\t"
-        ],
-        "description": "positive and confident adjectives"
-    },
-    {
-        "index": "9614",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_9614.json",
-        "negative_strings": [
-            " elevation",
-            " compliance",
-            " UT",
-            " NX",
-            " Elev",
-            " widely",
-            " prevailing",
-            " WS",
-            " compounded",
-            " Laksh"
-        ],
-        "positive_strings": [
-            "as",
-            "asms",
-            "atically",
-            "atic",
-            "asia",
-            "asin",
-            "astic",
+            "yip",
             "atics",
-            "ases",
-            "astically"
+            "atic",
+            "oji",
+            "atism",
+            "anship",
+            "ism",
+            "ophobia",
+            "antic",
+            "atical"
         ],
-        "description": "words related to sensory experiences, such as aromas and tastes"
+        "description": "words related to ideologies or isms"
+    },
+    {
+        "index": "1310",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_1310.json",
+        "negative_strings": [
+            "sheet",
+            "sed",
+            "rier",
+            "riers",
+            "tyard",
+            "iaries",
+            "tr",
+            "ses",
+            "ties",
+            "sheets"
+        ],
+        "positive_strings": [
+            " Devi",
+            "\u00c4\u0141",
+            "\u00c4\u0129",
+            "ya",
+            "oka",
+            "\u00c5\u0141",
+            " Mats",
+            " Buddha",
+            " Miy",
+            "iku"
+        ],
+        "description": "references to local neighborhoods, events, and businesses"
+    },
+    {
+        "index": "15977",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_15977.json",
+        "negative_strings": [
+            " Chiefs",
+            "fman",
+            "Tam",
+            "umm",
+            "liest",
+            " Crew",
+            " Cull",
+            "bah",
+            " Recording",
+            "Journal"
+        ],
+        "positive_strings": [
+            "ophobia",
+            "ism",
+            "ophobic",
+            "atism",
+            "anism",
+            " preached",
+            "ophob",
+            " itself",
+            " practiced",
+            " advocated"
+        ],
+        "description": "religious and political ideologies"
+    },
+    {
+        "index": "18435",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_18435.json",
+        "negative_strings": [
+            " <[",
+            "lasses",
+            "aturdays",
+            "ARGET",
+            " unders",
+            " outfield",
+            " WATCHED",
+            "pter",
+            "onel",
+            "ENDED"
+        ],
+        "positive_strings": [
+            "usterity",
+            "qua",
+            "\u00c3\u00b1",
+            "\u00c3\u00b0",
+            "ption",
+            "emia",
+            "ichi",
+            "ishi",
+            "esthetic",
+            "irst"
+        ],
+        "description": "the letter \"a\" with various accents and characters in the text"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "18981",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_18981.json",
+        "negative_strings": [
+            " attendance",
+            " Warren",
+            " Mellon",
+            " Wizards",
+            " Athletics",
+            " CPS",
+            " Vanderbilt",
+            " particularly",
+            " Maxwell",
+            " athletics"
+        ],
+        "positive_strings": [
+            "\u00c3\u0142",
+            "\u00de",
+            "\u00c3\u00a9n",
+            "\u00c3\u00bb",
+            " exting",
+            "\u00c9",
+            "\u00c3\u00b3n",
+            " este",
+            "\u00d4",
+            "\u00c4"
+        ],
+        "description": "Spanish words related to medical conditions and treatments"
     },
     {
         "index": "3236",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_3236.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_3236.json",
         "negative_strings": [
             "rils",
             "ospels",
@@ -360,153 +480,93 @@
         "description": "terms related to technology and hacking"
     },
     {
-        "index": "4469",
+        "index": "4616",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_4469.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_4616.json",
         "negative_strings": [
-            "measures",
-            "reddits",
-            "chet",
-            "bilt",
-            "rences",
-            "SN",
-            " secretaries",
-            " Brut",
-            " hemorrh",
-            " Secretary"
+            "ergy",
+            "TAIN",
+            "STON",
+            "vag",
+            "\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122\u00e2\u0136\u0122",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9",
+            "CLUD",
+            "bred",
+            "EVA",
+            " artificial"
         ],
         "positive_strings": [
-            "o",
-            "oing",
-            "os",
-            "oS",
-            "O",
-            "oan",
-            "oj",
-            "oa",
-            "oes",
-            "oi"
+            "ism",
+            "yip",
+            "atics",
+            "istic",
+            "geist",
+            "atism",
+            "ophobia",
+            "itism",
+            "atic",
+            "ismo"
         ],
-        "description": "financial terms and legal jargon"
+        "description": "phrases related to various \"-ism\" ideologies or beliefs"
     },
     {
-        "index": "13421",
+        "index": "17006",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_13421.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_17006.json",
         "negative_strings": [
-            " Vi",
-            " Standing",
-            " Ninth",
-            " Cold",
-            " Tenth",
-            " Boo",
-            " Tong",
-            " Eighth",
-            " Mum",
-            " Vern"
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
         ],
         "positive_strings": [
-            "ibrary",
-            "icago",
-            "ovember",
-            "iverpool",
-            "eworld",
-            "allery",
-            "ilton",
-            "irez",
-            "@",
-            "estate"
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
         ],
-        "description": "email addresses"
+        "description": "adjectives and nouns indicating personal experiences or stories"
     },
     {
-        "index": "19357",
+        "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_19357.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is judaism\\data_for_feature_18025.json",
         "negative_strings": [
-            " Cups",
-            " setbacks",
-            " ones",
-            " bosses",
-            " fixtures",
-            " testers",
-            " Ones",
-            " Tanks",
-            " agents",
-            " deployments"
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
         ],
         "positive_strings": [
-            "uristic",
-            "cipled",
-            "emonic",
-            "ministic",
-            "assian",
-            "emale",
-            "athetic",
-            "rotein",
-            "icrobial",
-            "ogeneous"
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
         ],
-        "description": "negative social behaviors and controversial terms related to race and prejudice"
-    },
-    {
-        "index": "4212",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_4212.json",
-        "negative_strings": [
-            " Shoes",
-            " Incarn",
-            " Sons",
-            " Seasons",
-            " Restaur",
-            " Units",
-            " stadiums",
-            " Races",
-            " foundations",
-            " Machines"
-        ],
-        "positive_strings": [
-            "vertisement",
-            " memo",
-            " bulletin",
-            " note",
-            " summary",
-            " memorandum",
-            " sheet",
-            "sheet",
-            "post",
-            " pamphlet"
-        ],
-        "description": "news-related keywords and phrases"
-    },
-    {
-        "index": "13829",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is judaism/data_for_feature_13829.json",
-        "negative_strings": [
-            " hostage",
-            " caution",
-            " populous",
-            " Gret",
-            " possible",
-            " signs",
-            " seats",
-            "\u00e3\u0123\u00aa",
-            " beh",
-            " screenings"
-        ],
-        "positive_strings": [
-            "seys",
-            "usalem",
-            "miah",
-            "main",
-            "omy",
-            "rocal",
-            "zy",
-            "usal",
-            "icho",
-            "rica"
-        ],
-        "description": "names or references to a specific person named Jermaine"
+        "description": "words related to policies and regulations"
     }
 ]

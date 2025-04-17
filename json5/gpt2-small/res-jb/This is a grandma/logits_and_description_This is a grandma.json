@@ -1,8 +1,158 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
         "index": "17885",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_17885.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_17885.json",
         "negative_strings": [
             "oned",
             "gged",
@@ -30,9 +180,69 @@
         "description": "references to family members, specifically grandmothers"
     },
     {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
         "index": "20716",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_20716.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_20716.json",
         "negative_strings": [
             " claimants",
             " Commonwealth",
@@ -62,7 +272,7 @@
     {
         "index": "3883",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_3883.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_3883.json",
         "negative_strings": [
             "axis",
             "oned",
@@ -92,7 +302,7 @@
     {
         "index": "16708",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_16708.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_16708.json",
         "negative_strings": [
             "icle",
             " athlet",
@@ -120,129 +330,189 @@
         "description": "names of family members"
     },
     {
-        "index": "19268",
+        "index": "17006",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_19268.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_17006.json",
         "negative_strings": [
-            "sters",
-            "MEN",
-            " Invalid",
-            "Parser",
-            " VICE",
-            "STDOUT",
-            " prosecutors",
-            "runners",
-            " libertarians",
-            " Soldiers"
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
         ],
         "positive_strings": [
-            "'s",
-            "ial",
-            "stration",
-            "\u00c3\u0143s",
-            "abase",
-            "ially",
-            "ship",
-            "SHIP",
-            "iate",
-            "oute"
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
         ],
-        "description": "occupations"
+        "description": "adjectives and nouns indicating personal experiences or stories"
     },
     {
-        "index": "21581",
+        "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_21581.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_18025.json",
         "negative_strings": [
-            "Newsletter",
-            " Mehran",
-            "enne",
-            "soon",
-            "\u00e3\u0122",
-            "oho",
-            "\u00e2\u0122",
-            "ohm",
-            "iHUD",
-            "\u00e3\u0124\u00a6"
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
         ],
         "positive_strings": [
-            " trying",
-            " telling",
-            " deciding",
-            " messing",
-            " reacting",
-            " doing",
-            " pulling",
-            " proposing",
-            " agreeing",
-            " getting"
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
         ],
-        "description": "proper nouns related to companies or organizations"
+        "description": "words related to policies and regulations"
     },
     {
-        "index": "18007",
+        "index": "19958",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_18007.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_19958.json",
         "negative_strings": [
-            "ional",
-            "pmwiki",
-            "orial",
-            " Sector",
-            "sem",
-            "orts",
-            " Faction",
-            " Princ",
-            "ociation",
-            "]]"
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
         ],
         "positive_strings": [
-            "metal",
-            " boom",
-            "face",
-            "faces",
-            "moon",
-            " shower",
-            "Center",
-            " formula",
-            " carriage",
-            "faced"
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
         ],
-        "description": "mentions of babies or pregnancy-related terms"
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
     },
     {
-        "index": "13023",
+        "index": "22675",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_13023.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_22675.json",
         "negative_strings": [
-            "tnc",
-            "\u00e8\u00aa",
-            " Parables",
-            "izoph",
-            "APD",
-            "Decre",
-            "\u00e3\u0124\u00af",
-            "illus",
-            "\u00e6\u012a\u00a6",
-            " Destination"
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
         ],
         "positive_strings": [
-            " who",
-            " named",
-            " sitting",
-            "abase",
-            " guarding",
-            " upstairs",
-            " wearing",
-            " banging",
-            " walking",
-            " dressed"
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
         ],
-        "description": "male references or pronouns"
+        "description": "email addresses"
+    },
+    {
+        "index": "2634",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_2634.json",
+        "negative_strings": [
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
+        ],
+        "positive_strings": [
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
+        ],
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
     },
     {
         "index": "19832",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_19832.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_19832.json",
         "negative_strings": [
             "itiz",
             " respons",
@@ -270,183 +540,33 @@
         "description": "phrases indicating the beginning of a story or anecdote"
     },
     {
-        "index": "10624",
+        "index": "19268",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_10624.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a grandma\\data_for_feature_19268.json",
         "negative_strings": [
-            " Plaint",
-            " Siber",
-            " Defendants",
-            " Administration",
-            " presiding",
-            " Centers",
-            " Counsel",
-            " Protective",
-            " Occup",
-            " Bureau"
-        ],
-        "positive_strings": [
-            " :)",
-            " doesnt",
-            " ;)",
-            " lol",
-            " dont",
-            "!!!!",
-            " :(",
-            " tho",
-            " haha",
-            " sucks"
-        ],
-        "description": "personal beliefs and ideas"
-    },
-    {
-        "index": "1723",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_1723.json",
-        "negative_strings": [
-            "nown",
-            " eminent",
-            "onymous",
-            "ureau",
-            "vernment",
-            "unknown",
-            "ablishment",
-            "uthor",
-            "reported",
-            "ossibility"
-        ],
-        "positive_strings": [
-            " crochet",
-            " vape",
-            " yarn",
-            " denim",
-            " mascara",
-            " espresso",
-            " blender",
-            " cigars",
-            " Flavoring",
-            " cigar"
-        ],
-        "description": "phrases related to products and their features"
-    },
-    {
-        "index": "3470",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_3470.json",
-        "negative_strings": [
-            "Images",
-            "features",
-            "stories",
-            "\u00e9\u00be\u012f",
-            "apses",
-            "laws",
-            "aunts",
-            "ths",
-            "itudes",
-            "umbs"
-        ],
-        "positive_strings": [
-            " affair",
-            " thing",
-            " unto",
-            " issue",
-            " ploy",
-            " impossibility",
-            " breaker",
-            " violation",
-            "breaker",
-            "fest"
-        ],
-        "description": "sports-related words and terms"
-    },
-    {
-        "index": "19462",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_19462.json",
-        "negative_strings": [
-            " appointments",
-            " nominees",
-            "chers",
-            " panels",
-            "sheets",
-            " chiefs",
-            "elines",
-            " portfolios",
-            " CDs",
-            " forecasts"
-        ],
-        "positive_strings": [
-            " ))",
-            " ?)",
-            "ccording",
-            " )))",
-            " ])",
-            "ategory",
-            " ));",
-            "lished",
-            " )",
-            "\u00de"
-        ],
-        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
-    },
-    {
-        "index": "23024",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_23024.json",
-        "negative_strings": [
-            " elig",
-            " outsourcing",
-            " increment",
-            " document",
-            " prepar",
-            " renewable",
-            " honour",
-            "allel",
-            " analytical",
-            " forc"
-        ],
-        "positive_strings": [
-            "Girl",
-            " Bunny",
-            " Pants",
-            "pants",
-            " Girl",
-            "Boy",
-            " Pie",
-            " Cookies",
-            " Shoes",
-            "cakes"
-        ],
-        "description": "words related to descriptions or actions towards people or animals"
-    },
-    {
-        "index": "21263",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a grandma/data_for_feature_21263.json",
-        "negative_strings": [
-            "SPONSORED",
-            " whence",
-            " alas",
-            " \u00c2\u00b6",
-            "omething",
-            "Contents",
-            "ometimes",
-            "pring",
-            "ardless",
-            " Retrieved"
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
         ],
         "positive_strings": [
             "'s",
-            "\\'",
-            "]'",
+            "ial",
+            "stration",
             "\u00c3\u0143s",
-            "')",
-            "\u00c2\u00b4",
-            "']",
-            "`",
-            "\u00ef\u00bf\u00bd",
-            "')."
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
         ],
-        "description": "phrases related to data handling and technology terms"
+        "description": "occupations"
     }
 ]

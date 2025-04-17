@@ -1,8 +1,38 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
         "index": "5553",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_5553.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_5553.json",
         "negative_strings": [
             "uisse",
             "atrice",
@@ -32,7 +62,7 @@
     {
         "index": "23454",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_23454.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_23454.json",
         "negative_strings": [
             "uisse",
             "atrice",
@@ -60,9 +90,39 @@
         "description": " occurrences of the word \"hal\" in various contexts"
     },
     {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
         "index": "8221",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_8221.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_8221.json",
         "negative_strings": [
             " Gibbs",
             "ollen",
@@ -92,7 +152,7 @@
     {
         "index": "22714",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_22714.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_22714.json",
         "negative_strings": [
             "iel",
             "essim",
@@ -122,7 +182,7 @@
     {
         "index": "24643",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_24643.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_24643.json",
         "negative_strings": [
             "iel",
             "escal",
@@ -150,9 +210,39 @@
         "description": "references to the word \"hal\" or its variations in different contexts"
     },
     {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
         "index": "31698",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_31698.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_31698.json",
         "negative_strings": [
             "urf",
             " Gibbs",
@@ -180,183 +270,63 @@
         "description": "references to the name \"Hal\" in various contexts"
     },
     {
-        "index": "4248",
+        "index": "23320",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_4248.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_23320.json",
         "negative_strings": [
-            "iel",
-            "essim",
-            "a",
-            "\u00c3\u0139\n\n",
-            "iana",
-            "aug",
-            "i",
-            " Middleton",
-            "exion",
-            "y"
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
         ],
         "positive_strings": [
-            " Hal",
-            " hal",
-            "iday",
-            "ifax",
-            "ways",
-            "oran",
-            "Hal",
-            "oreach",
-            "\u00c3\u00bcck",
-            "hal"
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
         ],
-        "description": "references to specific names, particularly \"Hal\" and related variations"
+        "description": " instances of the word \"The.\""
     },
     {
-        "index": "5508",
+        "index": "30911",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_5508.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is halal\\data_for_feature_30911.json",
         "negative_strings": [
-            "iel",
-            "ius",
-            "\u00d0\u00b4\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0",
-            "urf",
-            "XP",
-            " positional",
-            " pro",
-            "eler",
-            "\\CMS",
-            "developer"
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
         ],
         "positive_strings": [
-            " hal",
-            " Hal",
-            "ifax",
-            "oran",
-            " HAL",
-            "Hal",
-            "IBUT",
-            "ibur",
-            " halo",
-            "weg"
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
         ],
-        "description": " mentions of the name \"Hal.\""
-    },
-    {
-        "index": "10282",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_10282.json",
-        "negative_strings": [
-            "ed",
-            "es",
-            "e",
-            "est",
-            "ez",
-            "ev",
-            "et",
-            "eh",
-            "ep",
-            "eb"
-        ],
-        "positive_strings": [
-            "led",
-            "lo",
-            "los",
-            "lic",
-            "icious",
-            "lica",
-            "les",
-            "dehyde",
-            "ldata",
-            "ld"
-        ],
-        "description": "terms related to the medical and health context, particularly those associated with chronic conditions and their effects"
-    },
-    {
-        "index": "10304",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_10304.json",
-        "negative_strings": [
-            "rubu",
-            "yalty",
-            "racat",
-            "IENCE",
-            "couz",
-            "tvrt",
-            "ATORY",
-            "HasBeen",
-            "isContained",
-            "OfSize"
-        ],
-        "positive_strings": [
-            "\u00c2\u0143ing",
-            "\u00c2\u0143",
-            "\u2019s",
-            " \u201c",
-            " \u2018",
-            " is",
-            "\u00c2\u0143s",
-            " has",
-            "\u00c2\u0143t",
-            "\u00c2\u0143i"
-        ],
-        "description": " capitalized terms and names"
-    },
-    {
-        "index": "2132",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_2132.json",
-        "negative_strings": [
-            "developer",
-            "eller",
-            " inject",
-            "\u00e5\u00a2\u013b",
-            "bote",
-            "addy",
-            "yen",
-            "itori",
-            "urb",
-            "elerik"
-        ],
-        "positive_strings": [
-            " hal",
-            "ifax",
-            " halo",
-            "enos",
-            " HAL",
-            "loid",
-            " Hal",
-            "ifen",
-            "ftar",
-            "dou"
-        ],
-        "description": "mentions of the name \"Hal\" in various contexts"
-    },
-    {
-        "index": "30054",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is halal/data_for_feature_30054.json",
-        "negative_strings": [
-            "ed",
-            "es",
-            "est",
-            "ess",
-            "em",
-            "ev",
-            "ex",
-            "et",
-            "ew",
-            "esh"
-        ],
-        "positive_strings": [
-            "led",
-            "\u00eb\u00a1\u013e",
-            "ateral",
-            "icious",
-            "ldata",
-            "ty",
-            "lic",
-            "dehyde",
-            "lo",
-            "inux"
-        ],
-        "description": "keywords related to names and titles"
+        "description": " occurrences of the word \"this.\""
     }
 ]

@@ -1,458 +1,38 @@
 [
     {
-        "index": "18366",
+        "index": "10094",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_18366.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_10094.json",
         "negative_strings": [
-            " unden",
-            " oun",
-            " agre",
-            " cryst",
-            " misunder",
-            " challeng",
-            "\ufffd\u58eb",
-            " destro",
-            " princ",
-            " tiss"
+            " Nunes",
+            " Dwell",
+            "undown",
+            " Thumbnails",
+            "\u30aa",
+            "inarily",
+            " predec",
+            "ierrez",
+            " Coffin",
+            " Subcommittee"
         ],
         "positive_strings": [
-            "natureconservancy",
-            "inventoryQuantity",
-            "NetMessage",
-            "assetsadobe",
-            "soDeliveryDate",
-            " ];",
-            "dayName",
-            "displayText",
-            " dstg",
-            "];"
+            " Rowling",
+            "usalem",
+            "pod",
+            "\u2011",
+            "ernaut",
+            "eki",
+            "central",
+            "dro",
+            "neys",
+            "dan"
         ],
-        "description": " words related to the evaluation and consequences of actions or conditions"
-    },
-    {
-        "index": "19236",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_19236.json",
-        "negative_strings": [
-            "iots",
-            "arms",
-            " administrations",
-            " wills",
-            " seize",
-            " clears",
-            "sheets",
-            "ipeg",
-            " Ukrain",
-            " heads"
-        ],
-        "positive_strings": [
-            "omorphic",
-            "IRED",
-            "ozyg",
-            " TBD",
-            "PLIED",
-            "Rated",
-            "ptin",
-            "ometimes",
-            " Eater",
-            "veland"
-        ],
-        "description": "adjectives describing states or conditions"
-    },
-    {
-        "index": "17922",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_17922.json",
-        "negative_strings": [
-            " lik",
-            "Reviewer",
-            "olving",
-            "tests",
-            "umbn",
-            " compared",
-            " fare",
-            " measures",
-            " convinc",
-            "astical"
-        ],
-        "positive_strings": [
-            "\u30a8\u30eb",
-            "thora",
-            "\ufffd\ufffd\ufffd",
-            "++;",
-            "Buyable",
-            "\u30c3",
-            " Allaah",
-            "AppData",
-            " ILCS",
-            "veyard"
-        ],
-        "description": "negative sentiments or phrases indicating disappointment"
-    },
-    {
-        "index": "1314",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_1314.json",
-        "negative_strings": [
-            " CLSID",
-            "FactoryReloaded",
-            "\ufffd\u58eb",
-            "arsity",
-            "Catal",
-            "\ufffd\ufffd",
-            " BaseType",
-            " built",
-            "}.",
-            "town"
-        ],
-        "positive_strings": [
-            "lihood",
-            "NetMessage",
-            " proble",
-            "terday",
-            "VIDIA",
-            "aying",
-            "andem",
-            "oreal",
-            "vre",
-            "SourceFile"
-        ],
-        "description": "numeric values or hexadecimal codes"
-    },
-    {
-        "index": "2931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_2931.json",
-        "negative_strings": [
-            "Benz",
-            "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
-        ],
-        "positive_strings": [
-            "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
-        ],
-        "description": "email subscription-related terms and commands"
-    },
-    {
-        "index": "16414",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_16414.json",
-        "negative_strings": [
-            "anches",
-            "stals",
-            " bells",
-            "urches",
-            " sockets",
-            "alties",
-            " selves",
-            " electrodes",
-            "estones",
-            "atars"
-        ],
-        "positive_strings": [
-            " understatement",
-            " proof",
-            "yp",
-            " Stupid",
-            " satire",
-            " reason",
-            " ado",
-            " excuse",
-            " Verse",
-            "peak"
-        ],
-        "description": " phrases and terms related to critique, especially in the context of media and societal issues"
-    },
-    {
-        "index": "8429",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_8429.json",
-        "negative_strings": [
-            "cknow",
-            " Talks",
-            " roofs",
-            "\\<",
-            " vans",
-            "ouf",
-            "undreds",
-            "DERR",
-            "draft",
-            "umps"
-        ],
-        "positive_strings": [
-            " abundantly",
-            "!--",
-            "ebin",
-            "illet",
-            " Posted",
-            " XD",
-            " \ufffd",
-            "mone",
-            "erala",
-            " Lifetime"
-        ],
-        "description": "details and discussions related to specific events, cases, or topics"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "18744",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_18744.json",
-        "negative_strings": [
-            "gins",
-            "obbies",
-            "bats",
-            " jams",
-            "terness",
-            " vans",
-            "cius",
-            " cabinets",
-            " buses",
-            "iliary"
-        ],
-        "positive_strings": [
-            "OULD",
-            "MpServer",
-            "\u9ed2",
-            "\u306e\u9b54",
-            "recated",
-            "\":[\"",
-            " belonged",
-            " belongs",
-            "BuyableInstoreAndOnline",
-            "pire"
-        ],
-        "description": " topics related to assessment and critique"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "12238",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_12238.json",
-        "negative_strings": [
-            " corpor",
-            " surgical",
-            " proactive",
-            " playbook",
-            " orchestr",
-            " quantitative",
-            " Mara",
-            " boiler",
-            " consultants",
-            " misinformation"
-        ],
-        "positive_strings": [
-            "ivas",
-            "izen",
-            "arts",
-            "ahime",
-            "eatures",
-            "urally",
-            "vertisement",
-            "enne",
-            "ents",
-            "ModLoader"
-        ],
-        "description": "phrases related to job titles and roles, especially those involving leadership or supervision"
-    },
-    {
-        "index": "12368",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_12368.json",
-        "negative_strings": [
-            "\u30fc\u30c6",
-            "331",
-            " ItemLevel",
-            " Sic",
-            " Cay",
-            "975",
-            "\u30c6",
-            "Lago",
-            "esm",
-            "561"
-        ],
-        "positive_strings": [
-            "merce",
-            "odes",
-            "etheless",
-            " tremend",
-            " misunder",
-            "NetMessage",
-            "etsk",
-            "\ufffd\ufffd",
-            " suspic",
-            "raviolet"
-        ],
-        "description": "mentions of timeframes, such as months or years"
-    },
-    {
-        "index": "35850",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_35850.json",
-        "negative_strings": [
-            " Examples",
-            "uilding",
-            "lished",
-            "lections",
-            "Downloadha",
-            "afety",
-            " Oops",
-            " Helpful",
-            "ritical",
-            " NCT"
-        ],
-        "positive_strings": [
-            "nox",
-            "amins",
-            "\ufffd\ufffd",
-            " Ragnarok",
-            "stad",
-            "\ufffd\ufffd",
-            " Diesel",
-            " Chaser",
-            "\ufffd",
-            "ifix"
-        ],
-        "description": " occurrences of the name \"Thor.\""
-    },
-    {
-        "index": "16453",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_16453.json",
-        "negative_strings": [
-            "FactoryReloaded",
-            "edIn",
-            "\u30fc\u30c6",
-            "\ufffd\u58eb",
-            "\ufffd\ufffd",
-            "}.",
-            "DragonMagazine",
-            " thereafter",
-            "arsity",
-            " BaseType"
-        ],
-        "positive_strings": [
-            "odes",
-            "oreal",
-            " nutrit",
-            " unden",
-            " conduc",
-            " confir",
-            " proble",
-            "earchers",
-            " mathemat",
-            "availability"
-        ],
-        "description": "proper nouns related to sports players and teams"
-    },
-    {
-        "index": "17789",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_17789.json",
-        "negative_strings": [
-            "arsity",
-            "901",
-            "526",
-            "558",
-            "FactoryReloaded",
-            "018",
-            "Bull",
-            " Mub",
-            "995",
-            " Pearce"
-        ],
-        "positive_strings": [
-            " enthusi",
-            "amins",
-            "NetMessage",
-            "merce",
-            "akens",
-            " arrang",
-            "vre",
-            "krit",
-            "ktop",
-            " nutrit"
-        ],
-        "description": "personal pronouns 'we' and 'us'"
+        "description": "descriptions of specific locations and events"
     },
     {
         "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_5272.json",
         "negative_strings": [
             "\ufffd",
             " \ufffd",
@@ -482,7 +62,7 @@
     {
         "index": "11024",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_11024.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_11024.json",
         "negative_strings": [
             " Dwell",
             " Winds",
@@ -510,33 +90,453 @@
         "description": "words related to jogging or physical activities related to running"
     },
     {
-        "index": "17449",
+        "index": "10680",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is jesus/data_for_feature_17449.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_10680.json",
         "negative_strings": [
-            "robe",
-            " dresses",
-            "skirts",
-            " devoted",
-            " descended",
-            " handles",
-            "pick",
-            "appointed",
-            " fame",
-            "bag"
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
         ],
         "positive_strings": [
-            " Beir",
-            " omission",
-            " reversal",
-            " comprehension",
-            " unintended",
-            " abound",
-            " Ae",
-            "Operation",
-            "INC",
-            "Spoiler"
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
         ],
-        "description": "phrases indicating causation or reasoning"
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "1976",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_1976.json",
+        "negative_strings": [
+            "inski",
+            "assi",
+            "dan",
+            "EStream",
+            " Mehran",
+            "\ufffd\ufffd",
+            " Krish",
+            " Carey",
+            " Maher",
+            "zik"
+        ],
+        "positive_strings": [
+            " largeDownload",
+            " context",
+            " meager",
+            " cov",
+            " indic",
+            " enjoyment",
+            " shading",
+            " basis",
+            " innocence",
+            " commons"
+        ],
+        "description": " terms related to rankings or evaluations"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "12022",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_12022.json",
+        "negative_strings": [
+            " predec",
+            "etheless",
+            " Wonders",
+            "avorite",
+            " cov",
+            "sufficient",
+            "\u30aa",
+            " Reps",
+            " oats",
+            " welcome"
+        ],
+        "positive_strings": [
+            "neys",
+            " Ballard",
+            "etus",
+            "ney",
+            "eger",
+            "itan",
+            "ousy",
+            " Lumpur",
+            "hene",
+            "nikov"
+        ],
+        "description": "names of places, events, and individuals"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
+        "index": "19449",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_19449.json",
+        "negative_strings": [
+            "atform",
+            " hybrids",
+            " Cassidy",
+            " eleph",
+            "falls",
+            " Tycoon",
+            "gets",
+            "flix",
+            " Shotgun",
+            "\u30d9"
+        ],
+        "positive_strings": [
+            "ortium",
+            "OPE",
+            "rette",
+            "agin",
+            "ciating",
+            "ordon",
+            "Pacific",
+            "imi",
+            "ili",
+            "igne"
+        ],
+        "description": "Spanish words and names"
+    },
+    {
+        "index": "5141",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_5141.json",
+        "negative_strings": [
+            " srfAttach",
+            "ittens",
+            " mantle",
+            " Bread",
+            "illance",
+            " bets",
+            " protector",
+            " vanished",
+            " protections",
+            "irgin"
+        ],
+        "positive_strings": [
+            "rolet",
+            "neys",
+            "iets",
+            " Marriott",
+            "nai",
+            "\ufffd",
+            "EStream",
+            "usalem",
+            "ernaut",
+            "enei"
+        ],
+        "description": " proper nouns and names"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "22664",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_22664.json",
+        "negative_strings": [
+            "#$",
+            " Fallon",
+            "\u00af",
+            "minecraft",
+            "score",
+            "lan",
+            "warts",
+            "levels",
+            "rish",
+            "seekers"
+        ],
+        "positive_strings": [
+            "uyomi",
+            " horizont",
+            " Levant",
+            "anmar",
+            "ortium",
+            "inki",
+            " neighb",
+            " diffusion",
+            "deen",
+            "olitan"
+        ],
+        "description": "terms related to cultural references and notable figures in the arts and entertainment sectors"
+    },
+    {
+        "index": "18744",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
+    },
+    {
+        "index": "18366",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_18366.json",
+        "negative_strings": [
+            " unden",
+            " oun",
+            " agre",
+            " cryst",
+            " misunder",
+            " challeng",
+            "\ufffd\u58eb",
+            " destro",
+            " princ",
+            " tiss"
+        ],
+        "positive_strings": [
+            "natureconservancy",
+            "inventoryQuantity",
+            "NetMessage",
+            "assetsadobe",
+            "soDeliveryDate",
+            " ];",
+            "dayName",
+            "displayText",
+            " dstg",
+            "];"
+        ],
+        "description": " words related to the evaluation and consequences of actions or conditions"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "8429",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_8429.json",
+        "negative_strings": [
+            "cknow",
+            " Talks",
+            " roofs",
+            "\\<",
+            " vans",
+            "ouf",
+            "undreds",
+            "DERR",
+            "draft",
+            "umps"
+        ],
+        "positive_strings": [
+            " abundantly",
+            "!--",
+            "ebin",
+            "illet",
+            " Posted",
+            " XD",
+            " \ufffd",
+            "mone",
+            "erala",
+            " Lifetime"
+        ],
+        "description": "details and discussions related to specific events, cases, or topics"
+    },
+    {
+        "index": "11153",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is jesus\\data_for_feature_11153.json",
+        "negative_strings": [
+            "amer",
+            "azeera",
+            "paces",
+            "waters",
+            "Cod",
+            "cellence",
+            " Universities",
+            "Wave",
+            "://",
+            "iegel"
+        ],
+        "positive_strings": [
+            " opio",
+            " urgency",
+            " nerves",
+            " paralysis",
+            " waiting",
+            " Solitaire",
+            "iquid",
+            " anx",
+            " plun",
+            " responsiveness"
+        ],
+        "description": "phrases related to anticipation or anxiety"
     }
 ]

@@ -1,8 +1,68 @@
 [
     {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
         "index": "20033",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_20033.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_20033.json",
         "negative_strings": [
             "ovie",
             "ones",
@@ -32,7 +92,7 @@
     {
         "index": "3470",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_3470.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_3470.json",
         "negative_strings": [
             "lov",
             "etsk",
@@ -60,9 +120,39 @@
         "description": "phrases related to or mentioning females"
     },
     {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
         "index": "3992",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_3992.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_3992.json",
         "negative_strings": [
             "lov",
             "leans",
@@ -90,189 +180,69 @@
         "description": "mentions of female-related terms"
     },
     {
-        "index": "4727",
+        "index": "2271",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_4727.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_2271.json",
         "negative_strings": [
-            "adelphia",
-            "eme",
-            "inian",
-            "EMA",
-            "dad",
-            "amina",
-            "REDACTED",
-            "amaru",
-            "raltar",
-            "alam"
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
         ],
         "positive_strings": [
-            "folk",
-            " empowerment",
-            " entrepreneurs",
-            "opausal",
-            " singers",
-            "stru",
-            " athletes",
-            " genital",
-            " wrestlers",
-            "'s"
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
         ],
-        "description": "mentions of women or topics related to women's issues"
+        "description": "past tense verbs"
     },
     {
-        "index": "3236",
+        "index": "19945",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_3236.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_19945.json",
         "negative_strings": [
-            "rils",
-            "ospels",
-            " Cosponsors",
-            "rals",
-            "ousands",
-            "viks",
-            " IMAGES",
-            "ATURES",
-            " Flavoring",
-            "osures"
+            "lihood",
+            "autions",
+            " Pastebin",
+            "anwhile",
+            "encies",
+            "vier",
+            "istrates",
+            "actions",
+            "phrine",
+            "erred"
         ],
         "positive_strings": [
-            "speak",
-            " territory",
-            " shorthand",
-            " jargon",
-            " heaven",
-            " slang",
-            " fodder",
-            " nonsense",
-            " bullshit",
-            " bait"
+            " FANT",
+            " amazing",
+            " SO",
+            " phenomenal",
+            " awesome",
+            " unbelievable",
+            " incredible",
+            " unreal",
+            " such",
+            " dope"
         ],
-        "description": "terms related to technology and hacking"
-    },
-    {
-        "index": "10963",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_10963.json",
-        "negative_strings": [
-            "ypes",
-            "raltar",
-            "ozy",
-            "oday",
-            "undown",
-            "indal",
-            "undo",
-            "atre",
-            "obal",
-            "inventoryQuantity"
-        ],
-        "positive_strings": [
-            "izer",
-            "folk",
-            " herself",
-            " pregnant",
-            "pher",
-            " panties",
-            "maid",
-            "hood",
-            "izers",
-            " waitress"
-        ],
-        "description": "female individuals in specific contexts"
-    },
-    {
-        "index": "13753",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_13753.json",
-        "negative_strings": [
-            " pending",
-            " Secure",
-            " securing",
-            " Infrastructure",
-            " Calder",
-            " operational",
-            " issued",
-            " stabilization",
-            " issuing",
-            " guaranteeing"
-        ],
-        "positive_strings": [
-            " lesbians",
-            "girls",
-            " chicks",
-            " girls",
-            "xual",
-            " rabbits",
-            " females",
-            " sexes",
-            " kittens",
-            " cats"
-        ],
-        "description": "mentions of cultural background and specific locations"
-    },
-    {
-        "index": "20059",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_20059.json",
-        "negative_strings": [
-            " Calder",
-            " tomorrow",
-            " precisely",
-            " Labor",
-            " Hep",
-            " afterward",
-            " CPS",
-            " Congress",
-            " Forbes",
-            " Kendall"
-        ],
-        "positive_strings": [
-            " Profile",
-            "@",
-            "\":{\"",
-            "=(",
-            "\"},",
-            "\":\"\",\"",
-            "\"]=>",
-            ")\"",
-            "\"],",
-            ")="
-        ],
-        "description": "mathematical terms"
-    },
-    {
-        "index": "11753",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_11753.json",
-        "negative_strings": [
-            " Reconstruction",
-            " War",
-            " Judge",
-            " Act",
-            " Cere",
-            " Party",
-            " Representative",
-            " Field",
-            " Halls",
-            " Ninth"
-        ],
-        "positive_strings": [
-            "stats",
-            "planet",
-            "circle",
-            "monkey",
-            "comm",
-            "forums",
-            "api",
-            "info",
-            "artist",
-            "admin"
-        ],
-        "description": "contact information, tech support, and miscellaneous services"
+        "description": "positive sentiments and emotional expressions"
     },
     {
         "index": "10624",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_10624.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_10624.json",
         "negative_strings": [
             " Plaint",
             " Siber",
@@ -300,213 +270,273 @@
         "description": "personal beliefs and ideas"
     },
     {
-        "index": "20871",
+        "index": "3140",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_20871.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_3140.json",
         "negative_strings": [
-            " headline",
-            " usefulness",
-            " stead",
-            " subsequ",
-            " downtime",
-            " rollout",
-            "onement",
-            " Regulation",
-            " Graveyard",
-            " Memor"
+            " Zamb",
+            " United",
+            " Club",
+            " Jub",
+            " National",
+            " MacArthur",
+            " Pentagon",
+            " Kremlin",
+            " Allied",
+            " Milan"
         ],
         "positive_strings": [
-            "enough",
-            " enough",
-            "ethnic",
-            "istani",
-            "listed",
-            "endered",
-            " whereas",
-            "ophobic",
-            "imately",
-            "washed"
-        ],
-        "description": "racial and ethnic descriptors"
-    },
-    {
-        "index": "22002",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_22002.json",
-        "negative_strings": [
-            " Lent",
-            " Solitaire",
-            "uild",
-            " waivers",
-            "rive",
-            "oard",
-            " Devils",
-            " Gardens",
-            " Gerr",
-            " Memor"
-        ],
-        "positive_strings": [
-            "azi",
-            "inity",
-            "oir",
-            "inem",
-            "isting",
-            "iste",
-            "ine",
-            "galitarian",
-            "ankind",
-            " pronouns"
-        ],
-        "description": "terms related to feminism"
-    },
-    {
-        "index": "12078",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_12078.json",
-        "negative_strings": [
-            " Annotations",
-            "\u00e2\u0122\u0133",
-            " Fiscal",
-            " Eighth",
-            "Enlarge",
-            " Ninth",
-            " Greens",
-            " Governor",
-            " Slate",
-            " Revis"
-        ],
-        "positive_strings": [
-            " dont",
-            " ur",
-            " u",
-            " didnt",
+            "unes",
+            "alian",
+            "anium",
             " doesnt",
-            " i",
-            " im",
-            "uminati",
-            " hes",
-            " thats"
+            "\u00c3\u0125\u00c3\u0124",
+            "chy",
+            " depends",
+            "alia",
+            " ain",
+            "\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124"
         ],
-        "description": "conversations and dialogues between individuals"
+        "description": "phrases related to teachings, learning, or advice"
     },
     {
-        "index": "19462",
+        "index": "20701",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_19462.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_20701.json",
         "negative_strings": [
-            " appointments",
-            " nominees",
-            "chers",
-            " panels",
-            "sheets",
-            " chiefs",
-            "elines",
-            " portfolios",
-            " CDs",
-            " forecasts"
-        ],
-        "positive_strings": [
-            " ))",
-            " ?)",
-            "ccording",
-            " )))",
-            " ])",
-            "ategory",
-            " ));",
-            "lished",
-            " )",
-            "\u00de"
-        ],
-        "description": "specific types of mounts, such as helmet mounts, and objects related to transportation like drivers and players"
-    },
-    {
-        "index": "19190",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_19190.json",
-        "negative_strings": [
-            " opposite",
-            " prior",
-            " outside",
-            " leading",
-            " specifically",
-            " today",
-            " both",
-            " practically",
-            " Cabinet",
-            " often"
-        ],
-        "positive_strings": [
-            "maxwell",
-            "sbm",
-            "utils",
-            " :=",
-            "inventoryQuantity",
-            "lvl",
-            "\u00cb\u012a",
-            "cloneembedreportprint",
-            "fml",
-            "fp"
-        ],
-        "description": "names or titles"
-    },
-    {
-        "index": "8110",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_8110.json",
-        "negative_strings": [
-            "stories",
-            "runners",
-            " Controls",
-            "users",
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
             "units",
-            " orders",
-            " bets",
-            "urations",
-            " Parties",
-            "osponsors"
+            "nings",
+            "iations",
+            "seen",
+            "mates"
         ],
         "positive_strings": [
-            " endeavor",
-            " foray",
-            " shenan",
-            " endeavour",
-            " thing",
-            " phenomenon",
-            " tactic",
-            " onslaught",
-            " snippet",
-            "ness"
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
         ],
-        "description": "adjectives describing qualities"
+        "description": "specific mention of dates, years, or events in a text"
     },
     {
-        "index": "7015",
+        "index": "2348",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/this is female/data_for_feature_7015.json",
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_2348.json",
         "negative_strings": [
-            " finishes",
-            " backs",
-            " transpired",
-            " bids",
-            "ses",
-            " stint",
-            " sidelines",
-            " trips",
-            " launches",
-            " outings"
+            "udos",
+            " Flavoring",
+            " desires",
+            "\u00e2\u0135\u013a",
+            " endeavors",
+            "ulkan",
+            "eter",
+            " Conversely",
+            "ples",
+            "find"
         ],
         "positive_strings": [
-            " !!",
-            "!!!!",
-            "!!!",
-            "!:",
-            "!!!!!",
-            " !",
-            "\u00e3\u0124\u00b4",
-            " Because",
-            "!!!!!!!!",
-            "!\","
+            " raining",
+            " gonna",
+            " happening",
+            " okay",
+            " funny",
+            " bullshit",
+            " alright",
+            " hilarious",
+            " ok",
+            " disgusting"
         ],
-        "description": "adjectives related to technology and cost, as well as verbs related to conversations or discussions"
+        "description": "contractions and possessive forms of words"
+    },
+    {
+        "index": "24242",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_24242.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            "oused",
+            "ality",
+            "it\u00c3\u00a9",
+            "DragonMagazine",
+            "\u00e2\u0122\u00a2\u00e2\u0122\u00a2",
+            "\":[{\"",
+            "\u00e8\u0122\u0127",
+            "\u00c3\u013d",
+            "ouver"
+        ],
+        "positive_strings": [
+            " WAY",
+            "nt",
+            " kinda",
+            " MUCH",
+            " VERY",
+            " REALLY",
+            " FANT",
+            " HUGE",
+            " gonna",
+            " freaking"
+        ],
+        "description": "technical details and reviews related to devices"
+    },
+    {
+        "index": "24073",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_24073.json",
+        "negative_strings": [
+            "endants",
+            " ILCS",
+            "estones",
+            "farious",
+            "keye",
+            "asures",
+            "\u00e5\u00a7\u00ab",
+            "Contents",
+            "appings",
+            "mounted"
+        ],
+        "positive_strings": [
+            " isn",
+            " guy",
+            " ain",
+            " sucks",
+            " is",
+            " reminds",
+            " happens",
+            " bothers",
+            " wasn",
+            " dude"
+        ],
+        "description": "This neuron is looking for instances of the word 'this'"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "4727",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_4727.json",
+        "negative_strings": [
+            "adelphia",
+            "eme",
+            "inian",
+            "EMA",
+            "dad",
+            "amina",
+            "REDACTED",
+            "amaru",
+            "raltar",
+            "alam"
+        ],
+        "positive_strings": [
+            "folk",
+            " empowerment",
+            " entrepreneurs",
+            "opausal",
+            " singers",
+            "stru",
+            " athletes",
+            " genital",
+            " wrestlers",
+            "'s"
+        ],
+        "description": "mentions of women or topics related to women's issues"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\this is female\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
     }
 ]

@@ -1,8 +1,68 @@
 [
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
         "index": "20010",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_20010.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_20010.json",
         "negative_strings": [
             " Paste",
             " Rog",
@@ -30,9 +90,69 @@
         "description": "references to church-related events or entities"
     },
     {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
         "index": "7311",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_7311.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_7311.json",
         "negative_strings": [
             "Accessory",
             "\u00e0\u00b8",
@@ -60,9 +180,39 @@
         "description": "phrases related to churches"
     },
     {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
         "index": "13156",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_13156.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_13156.json",
         "negative_strings": [
             "Accessory",
             "DonaldTrump",
@@ -90,39 +240,9 @@
         "description": "mentions of a specific location - a church"
     },
     {
-        "index": "23695",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_23695.json",
-        "negative_strings": [
-            " Allies",
-            " Tours",
-            " Fathers",
-            " Leilan",
-            " Franchise",
-            " Conflict",
-            " Crusade",
-            " Exodus",
-            "quished",
-            " Marketplace"
-        ],
-        "positive_strings": [
-            " vest",
-            " jacket",
-            " towel",
-            " glove",
-            "stick",
-            "hair",
-            "shirt",
-            "issue",
-            " skirt",
-            "mouse"
-        ],
-        "description": "activities or attributes of people in different professions or hobbies"
-    },
-    {
         "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_21800.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_21800.json",
         "negative_strings": [
             " eleph",
             " hub",
@@ -150,243 +270,303 @@
         "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "3470",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_3470.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_7040.json",
         "negative_strings": [
-            "Images",
-            "features",
-            "stories",
-            "\u00e9\u00be\u012f",
-            "apses",
-            "laws",
-            "aunts",
-            "ths",
-            "itudes",
-            "umbs"
-        ],
-        "positive_strings": [
-            " affair",
-            " thing",
-            " unto",
-            " issue",
-            " ploy",
-            " impossibility",
-            " breaker",
-            " violation",
-            "breaker",
-            "fest"
-        ],
-        "description": "sports-related words and terms"
-    },
-    {
-        "index": "3198",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_3198.json",
-        "negative_strings": [
-            " Marketable",
-            "iggurat",
-            " Leilan",
-            " Slightly",
-            " onstage",
-            " supra",
-            " Cathedral",
-            " LLP",
-            "fecture",
-            "insula"
-        ],
-        "positive_strings": [
-            " closures",
-            "goers",
-            " visits",
-            "going",
-            " dwell",
-            " owners",
-            "owners",
-            " operators",
-            " clos",
-            " hopping"
-        ],
-        "description": "locations or places such as hospitals, hotels, airports, and clinics"
-    },
-    {
-        "index": "602",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_602.json",
-        "negative_strings": [
-            " alike",
-            " Kappa",
-            " stars",
-            "atever",
-            " GPUs",
+            "Shape",
+            "Iv",
             " looms",
-            " Shining",
-            " cakes",
-            " suits",
-            " Mexicans"
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
-            " Published",
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
             " sponsored",
-            "english",
-            "published",
-            "avascript",
-            " affiliate",
-            " POLITICO",
-            " satire",
-            "ython",
-            "recated"
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "texts related to article publication and reproduction"
+        "description": "time-related information such as age or duration"
     },
     {
-        "index": "10778",
+        "index": "17006",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_10778.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_17006.json",
         "negative_strings": [
-            "inventoryQuantity",
-            "\u00e9\u00be\u012f\u00e5\u0138\u013c\u00e5\u00a3\u00ab",
-            "Textures",
-            "ibel",
-            "ortex",
-            "isites",
-            " actionGroup",
-            " Sunder",
-            "tnc",
-            " Cosponsors"
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
         ],
         "positive_strings": [
-            " founded",
-            " consisting",
-            " originating",
-            " created",
-            " designed",
-            " invented",
-            " specializing",
-            " conceived",
-            " devised",
-            " comprised"
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
         ],
-        "description": "platforms, services, and products related to online communication and community building"
+        "description": "adjectives and nouns indicating personal experiences or stories"
     },
     {
-        "index": "4212",
+        "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_4212.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_18025.json",
         "negative_strings": [
-            " Shoes",
-            " Incarn",
-            " Sons",
-            " Seasons",
-            " Restaur",
-            " Units",
-            " stadiums",
-            " Races",
-            " foundations",
-            " Machines"
-        ],
-        "positive_strings": [
-            "vertisement",
-            " memo",
-            " bulletin",
-            " note",
-            " summary",
-            " memorandum",
-            " sheet",
-            "sheet",
-            "post",
-            " pamphlet"
-        ],
-        "description": "news-related keywords and phrases"
-    },
-    {
-        "index": "5048",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_5048.json",
-        "negative_strings": [
-            " headaches",
-            "CG",
-            " wiser",
-            " headache",
-            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
-            " traged",
-            " indign",
-            "Tokens",
-            "quez",
-            "ONSORED"
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
         ],
         "positive_strings": [
             " deprecated",
-            " Mahjong",
-            "ittens",
-            " archived",
-            "recated",
-            " \u00e2\u013f",
-            "official",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "19958",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_19958.json",
+        "negative_strings": [
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
+        ],
+        "positive_strings": [
+            " huge",
+            " lot",
+            " bunch",
+            " tremend",
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
+        ],
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
+    },
+    {
+        "index": "22675",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_22675.json",
+        "negative_strings": [
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
+        ],
+        "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
+            "vertisement",
+            "rial",
+            "eon"
+        ],
+        "description": "email addresses"
+    },
+    {
+        "index": "2634",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_2634.json",
+        "negative_strings": [
+            "oids",
+            "ings",
+            "outs",
+            "rates",
+            "bars",
+            " these",
+            "aways",
+            " besides",
+            "ody",
+            "killers"
+        ],
+        "positive_strings": [
+            "usterity",
+            "venge",
+            "rouse",
+            " bunch",
+            "sexual",
+            " nutshell",
+            " lot",
+            "uras",
+            " prostitute",
+            " typo"
+        ],
+        "description": "a specific type of structure or system, possibly related to instructions or processes involving various components"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
             " Vegan",
-            " sponsored",
-            " Tutorial"
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
         ],
-        "description": "short introductory phrases starting with \"This is\" or similar constructions signaling the beginning of an explanation or description"
+        "description": "phrases indicating the beginning of a story or anecdote"
     },
     {
-        "index": "13243",
+        "index": "2271",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_13243.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_2271.json",
         "negative_strings": [
-            " reconcil",
-            " adjud",
-            " listed",
-            " separated",
-            " footing",
-            " scheduled",
-            " contested",
-            " associated",
-            " remed",
-            " combined"
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
         ],
         "positive_strings": [
-            "We",
-            "Hey",
-            "Everybody",
-            "Our",
-            "Everything",
-            "Nobody",
-            "Hello",
-            "BuyableInstoreAndOnline",
-            "Dear",
-            "They"
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
         ],
-        "description": "words related to quotes"
+        "description": "past tense verbs"
     },
     {
-        "index": "4425",
+        "index": "4045",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a church/data_for_feature_4425.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a church\\data_for_feature_4045.json",
         "negative_strings": [
-            " Candy",
-            " Catholicism",
-            " Flan",
-            " Coke",
-            " Haram",
-            " humanity",
-            " Cart",
-            " Apocalypse",
-            " Scientology",
-            " Gemini"
+            "livious",
+            "enance",
+            "acid",
+            "anism",
+            " agreements",
+            "TPS",
+            "tm",
+            "attr",
+            "arsity",
+            "isites"
         ],
         "positive_strings": [
-            "adows",
-            "ouston",
-            "adow",
-            "awar",
-            "lished",
-            "sbm",
-            "asar",
-            "aspberry",
-            "\n\u00c2\u0142",
-            "');"
+            " rundown",
+            " glimpse",
+            " brief",
+            " primer",
+            " peek",
+            " snapshot",
+            " sampling",
+            " glance",
+            " roundup",
+            " summary"
         ],
-        "description": "numbers and specific terms related to budgeting and finance, particularly in sports"
+        "description": "sentences starting with 'A'"
     }
 ]

@@ -1,8 +1,158 @@
 [
     {
+        "index": "23316",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_23316.json",
+        "negative_strings": [
+            "edIn",
+            " Leilan",
+            " Giul",
+            "Catal",
+            "arsity",
+            "331",
+            "\u30c6",
+            "ageddon",
+            " herself",
+            "553"
+        ],
+        "positive_strings": [
+            "merce",
+            "NetMessage",
+            "ccording",
+            " tremend",
+            "cknowled",
+            "odes",
+            "pmwiki",
+            " stead",
+            "etheless",
+            "ramid"
+        ],
+        "description": "articles or narratives describing events or scenarios involving incidents and actions"
+    },
+    {
+        "index": "2097",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_2097.json",
+        "negative_strings": [
+            " pus",
+            " unborn",
+            " Equip",
+            " posit",
+            " Pigs",
+            "nyder",
+            " payroll",
+            " pept",
+            " Helpful",
+            " contrace"
+        ],
+        "positive_strings": [
+            "#$",
+            "ield",
+            "andise",
+            "Appearances",
+            "ties",
+            ";;;;;;;;;;;;",
+            "\u00af",
+            "liest",
+            "IELD",
+            "FACE"
+        ],
+        "description": "family-related terms like grandmother, grandfather, and family-owned items"
+    },
+    {
+        "index": "45217",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_45217.json",
+        "negative_strings": [
+            "ONSORED",
+            "\ufffd\ufffd",
+            " distractions",
+            "\ufffd",
+            " obstacles",
+            " crowds",
+            " unborn",
+            " shaping",
+            " plight",
+            "INGTON"
+        ],
+        "positive_strings": [
+            "Royal",
+            "twitter",
+            "otta",
+            "ulhu",
+            "\ufffd\ufffd\ufffd",
+            "ilts",
+            "ivari",
+            "ela",
+            "iano",
+            "lycer"
+        ],
+        "description": "words related to legal and judicial terminology"
+    },
+    {
+        "index": "35850",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_35850.json",
+        "negative_strings": [
+            " Examples",
+            "uilding",
+            "lished",
+            "lections",
+            "Downloadha",
+            "afety",
+            " Oops",
+            " Helpful",
+            "ritical",
+            " NCT"
+        ],
+        "positive_strings": [
+            "nox",
+            "amins",
+            "\ufffd\ufffd",
+            " Ragnarok",
+            "stad",
+            "\ufffd\ufffd",
+            " Diesel",
+            " Chaser",
+            "\ufffd",
+            "ifix"
+        ],
+        "description": " occurrences of the name \"Thor.\""
+    },
+    {
+        "index": "13283",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_13283.json",
+        "negative_strings": [
+            "Arcade",
+            "\u30a6\u30b9",
+            "Vote",
+            "Gaming",
+            " Tweet",
+            " srfAttach",
+            " Gaming",
+            "\ufffd",
+            " citiz",
+            "Gamer"
+        ],
+        "positive_strings": [
+            " missions",
+            " encounters",
+            "naissance",
+            " missionaries",
+            " seekers",
+            " trials",
+            "thood",
+            " encounter",
+            " raids",
+            " abduction"
+        ],
+        "description": "references to missionaries and related activities"
+    },
+    {
         "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_5272.json",
         "negative_strings": [
             "\ufffd",
             " \ufffd",
@@ -30,9 +180,279 @@
         "description": " references indicating the publication status of an article or story"
     },
     {
+        "index": "3345",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_3345.json",
+        "negative_strings": [
+            "cheat",
+            " Leilan",
+            "orus",
+            " LW",
+            " contrace",
+            " ILCS",
+            " gel",
+            " scales",
+            " Lov",
+            "prus"
+        ],
+        "positive_strings": [
+            "steen",
+            "izons",
+            "riers",
+            "reck",
+            "iuses",
+            "ourage",
+            " grand",
+            "aires",
+            "oops",
+            "\u00e8re"
+        ],
+        "description": "descriptive terms and legal jargon"
+    },
+    {
+        "index": "6678",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_6678.json",
+        "negative_strings": [
+            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
+            " inver",
+            " subp",
+            "icularly",
+            "hent",
+            " mutual",
+            " caf",
+            " hardness",
+            "nyder",
+            "udeb"
+        ],
+        "positive_strings": [
+            "jah",
+            "#$",
+            " farewell",
+            "iameter",
+            "irs",
+            "eton",
+            "aunt",
+            "riel",
+            "SHA",
+            "wayne"
+        ],
+        "description": " terms related to family and generational connections"
+    },
+    {
+        "index": "10680",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_10680.json",
+        "negative_strings": [
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
+        ],
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "6946",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_6946.json",
+        "negative_strings": [
+            "rities",
+            "seys",
+            "ifferent",
+            "oes",
+            " warranties",
+            "quartered",
+            "alties",
+            "cry",
+            "heimer",
+            " carbohyd"
+        ],
+        "positive_strings": [
+            "ebin",
+            "eco",
+            " blat",
+            " LW",
+            " continuation",
+            "atform",
+            " BRE",
+            " Rebellion",
+            " Torrent",
+            "catentry"
+        ],
+        "description": "descriptive phrases that introduce subjects or items"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "16181",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_16181.json",
+        "negative_strings": [
+            "iets",
+            "yip",
+            "ween",
+            "nery",
+            " outweigh",
+            "ovy",
+            "arent",
+            "vict",
+            "ials",
+            "oppable"
+        ],
+        "positive_strings": [
+            "\u05d9",
+            "\u7248",
+            "theless",
+            "Production",
+            "humans",
+            "Asset",
+            "haus",
+            "\u30fc\u30f3",
+            "Topics",
+            "hyde"
+        ],
+        "description": " phrases and terms related to assessment and evaluation"
+    },
+    {
+        "index": "3178",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_3178.json",
+        "negative_strings": [
+            "aneers",
+            "ipeg",
+            "seys",
+            "plates",
+            "casters",
+            "oes",
+            "writers",
+            "builders",
+            "dies",
+            " Controls"
+        ],
+        "positive_strings": [
+            " Wik",
+            " Huck",
+            "entious",
+            " conjecture",
+            " proverb",
+            "anmar",
+            " Poe",
+            " Bulgar",
+            "gie",
+            " Hond"
+        ],
+        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
+        "index": "30523",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_30523.json",
+        "negative_strings": [
+            "sites",
+            "yright",
+            "ricular",
+            "quartered",
+            "itled",
+            "atibility",
+            " slit",
+            "enegger",
+            "aban",
+            "ottest"
+        ],
+        "positive_strings": [
+            "lycer",
+            "Catalog",
+            "iani",
+            "OTA",
+            "oshi",
+            "Stats",
+            " Sounds",
+            "lamm",
+            "\ufffd",
+            "upid"
+        ],
+        "description": " words related to the components of vehicles or machinery"
+    },
+    {
         "index": "6760",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_6760.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_6760.json",
         "negative_strings": [
             "\ufffd\ufffd",
             "awaru",
@@ -60,249 +480,9 @@
         "description": "numerical data and specifications"
     },
     {
-        "index": "8861",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_8861.json",
-        "negative_strings": [
-            "Downloadha",
-            "anwhile",
-            "NetMessage",
-            "PsyNetMessage",
-            "76561",
-            "------------------------------------------------",
-            "Pg",
-            "govtrack",
-            " Various",
-            " Continued"
-        ],
-        "positive_strings": [
-            " glim",
-            "eteenth",
-            "\u30a9",
-            " horizont",
-            "osity",
-            " lapt",
-            "\ufffd",
-            " shenan",
-            "igr",
-            " rall"
-        ],
-        "description": "legal terms related to the judicial system, such as \"grand jury\" and \"prosecutor.\""
-    },
-    {
-        "index": "10316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_10316.json",
-        "negative_strings": [
-            " trusts",
-            " assemblies",
-            " Contracts",
-            "ULTS",
-            " strikers",
-            " formations",
-            "events",
-            " Cups",
-            "stocks",
-            " interfaces"
-        ],
-        "positive_strings": [
-            "ocobo",
-            "emonic",
-            "ebin",
-            "assian",
-            "DragonMagazine",
-            "ccording",
-            "abyte",
-            "urion",
-            "majority",
-            "ivist"
-        ],
-        "description": "phrases related to critique and questioning"
-    },
-    {
-        "index": "3611",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_3611.json",
-        "negative_strings": [
-            "\ufffd\ufffd",
-            " Franch",
-            " anten",
-            " indifferent",
-            " Nare",
-            " Jagu",
-            " veter",
-            " afar",
-            "stretched",
-            " prophes"
-        ],
-        "positive_strings": [
-            "Fish",
-            "fact",
-            "oxy",
-            "adish",
-            "Cache",
-            "fish",
-            "ozy",
-            "dig",
-            "anol",
-            "Pub"
-        ],
-        "description": "words related to achievements or titles"
-    },
-    {
-        "index": "14421",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_14421.json",
-        "negative_strings": [
-            "\u30a8\u30eb",
-            "queue",
-            "uin",
-            "ences",
-            "rities",
-            "robe",
-            "seys",
-            "cknow",
-            "dies",
-            "\ufffd\ufffd"
-        ],
-        "positive_strings": [
-            " Shib",
-            " Cornel",
-            "AAA",
-            " ALEC",
-            " Seat",
-            " unfolding",
-            " understatement",
-            " Orwell",
-            " Salmon",
-            " OW"
-        ],
-        "description": "phrases related to sequential occurrences or lists"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "14871",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_14871.json",
-        "negative_strings": [
-            "ngth",
-            "conservancy",
-            "urers",
-            "profits",
-            "bats",
-            "cles",
-            " faculties",
-            "wings",
-            "severe",
-            "owered"
-        ],
-        "positive_strings": [
-            "SourceFile",
-            " shenan",
-            "ECA",
-            " explan",
-            " understatement",
-            " millenn",
-            " toile",
-            " unpop",
-            " horm",
-            "\u30bb"
-        ],
-        "description": "important adjectives or descriptors that characterize significant concepts or entities"
-    },
-    {
-        "index": "18744",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_18744.json",
-        "negative_strings": [
-            "gins",
-            "obbies",
-            "bats",
-            " jams",
-            "terness",
-            " vans",
-            "cius",
-            " cabinets",
-            " buses",
-            "iliary"
-        ],
-        "positive_strings": [
-            "OULD",
-            "MpServer",
-            "\u9ed2",
-            "\u306e\u9b54",
-            "recated",
-            "\":[\"",
-            " belonged",
-            " belongs",
-            "BuyableInstoreAndOnline",
-            "pire"
-        ],
-        "description": " topics related to assessment and critique"
-    },
-    {
-        "index": "17922",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_17922.json",
-        "negative_strings": [
-            " lik",
-            "Reviewer",
-            "olving",
-            "tests",
-            "umbn",
-            " compared",
-            " fare",
-            " measures",
-            " convinc",
-            "astical"
-        ],
-        "positive_strings": [
-            "\u30a8\u30eb",
-            "thora",
-            "\ufffd\ufffd\ufffd",
-            "++;",
-            "Buyable",
-            "\u30c3",
-            " Allaah",
-            "AppData",
-            " ILCS",
-            "veyard"
-        ],
-        "description": "negative sentiments or phrases indicating disappointment"
-    },
-    {
         "index": "19236",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_19236.json",
         "negative_strings": [
             "iots",
             "arms",
@@ -330,153 +510,63 @@
         "description": "adjectives describing states or conditions"
     },
     {
-        "index": "4310",
+        "index": "1314",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_4310.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_1314.json",
         "negative_strings": [
-            "catentry",
-            "ILLE",
-            "OHN",
-            "BILITIES",
-            " Legislation",
-            "\u30d3",
-            " contrace",
-            " POLIT",
-            "Generic",
-            "\ufffd\ufffd"
-        ],
-        "positive_strings": [
-            "merce",
-            "kered",
-            "tale",
-            "vre",
-            "iverse",
-            "iasis",
-            "hess",
-            "arsh",
-            "orth",
-            "tten"
-        ],
-        "description": "names related to specific universities or individuals, particularly focusing on the names with the word \"oster\" in them"
-    },
-    {
-        "index": "11097",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_11097.json",
-        "negative_strings": [
-            "etheless",
-            "mpeg",
-            "ritz",
-            "uddenly",
-            "bats",
-            "ngth",
-            "profits",
-            "severe",
-            "ierrez",
-            "rero"
-        ],
-        "positive_strings": [
-            "\u30bb",
-            "ECA",
-            " TRAN",
-            " shenan",
-            " Airbus",
-            " \u00d7",
-            " Craigslist",
-            " Niet",
-            " Disclosure",
-            "atform"
-        ],
-        "description": " topics related to lists and reviews of various subjects"
-    },
-    {
-        "index": "8429",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_8429.json",
-        "negative_strings": [
-            "cknow",
-            " Talks",
-            " roofs",
-            "\\<",
-            " vans",
-            "ouf",
-            "undreds",
-            "DERR",
-            "draft",
-            "umps"
-        ],
-        "positive_strings": [
-            " abundantly",
-            "!--",
-            "ebin",
-            "illet",
-            " Posted",
-            " XD",
-            " \ufffd",
-            "mone",
-            "erala",
-            " Lifetime"
-        ],
-        "description": "details and discussions related to specific events, cases, or topics"
-    },
-    {
-        "index": "2931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_2931.json",
-        "negative_strings": [
-            "Benz",
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
             "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
         ],
         "positive_strings": [
-            "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
         ],
-        "description": "email subscription-related terms and commands"
+        "description": "numeric values or hexadecimal codes"
     },
     {
-        "index": "1316",
+        "index": "1496",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a grandpa/data_for_feature_1316.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a grandpa\\data_for_feature_1496.json",
         "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
+            "EStream",
+            "FML",
+            "awaru",
+            "\u314b",
+            "\ufffd\ufffd",
+            " prof",
+            " Pastebin",
+            " DRAG",
+            " SERV",
+            " penetrating"
         ],
         "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
+            "atten",
+            "oma",
+            "ica",
+            "iking",
+            "ationally",
+            "umeric",
+            "early",
+            "ichi",
+            "oha",
+            "acht"
         ],
-        "description": "articles or text passages that are relevant or noteworthy"
+        "description": "names of people"
     }
 ]

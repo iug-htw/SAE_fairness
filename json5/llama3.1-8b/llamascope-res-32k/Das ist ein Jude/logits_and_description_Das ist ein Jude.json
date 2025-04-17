@@ -2,7 +2,7 @@
     {
         "index": "19549",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_19549.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_19549.json",
         "negative_strings": [
             " Cologne",
             "Germany",
@@ -30,39 +30,9 @@
         "description": "relationships between characters in a narrative"
     },
     {
-        "index": "44",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_44.json",
-        "negative_strings": [
-            " other",
-            " Prostitutas",
-            "IXEL",
-            " current",
-            " Bav",
-            "STYPE",
-            "Dans",
-            " n\u00c3\u00b8",
-            " Revel",
-            " only"
-        ],
-        "positive_strings": [
-            " und",
-            " mit",
-            " \u00e2\u0122\u0140",
-            " der",
-            " als",
-            " von",
-            " im",
-            " dem",
-            " die",
-            " vom"
-        ],
-        "description": " geographical locations and their historical contexts"
-    },
-    {
         "index": "575",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_575.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_575.json",
         "negative_strings": [
             " Verf\u00c3\u00bcg",
             " M\u00c3\u00b6glich",
@@ -90,9 +60,39 @@
         "description": "discussion of film criticism and analysis"
     },
     {
+        "index": "31047",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_31047.json",
+        "negative_strings": [
+            " \n\n",
+            " \n",
+            " \u00e2\u0122\u00a6\n\n",
+            "\n\n",
+            " Lutheran",
+            "beer",
+            "FormatException",
+            " Johann",
+            "PLICATION",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a"
+        ],
+        "positive_strings": [
+            " GRAT",
+            " sexkontakte",
+            " kannst",
+            " kostenlose",
+            " gratis",
+            " CHIP",
+            " Handy",
+            " mooie",
+            " m\u00c3\u00b6chten",
+            " geile"
+        ],
+        "description": " technical terms and error codes related to appliances"
+    },
+    {
         "index": "8091",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_8091.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_8091.json",
         "negative_strings": [
             " Verf\u00c3\u00bcg",
             " M\u00c3\u00b6glich",
@@ -120,9 +120,69 @@
         "description": " elements related to film critique and storytelling"
     },
     {
+        "index": "27000",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_27000.json",
+        "negative_strings": [
+            "dess",
+            "eon",
+            " Erotische",
+            "istically",
+            "ead",
+            "ISTER",
+            "agnostic",
+            "daf",
+            "inium",
+            "inaire"
+        ],
+        "positive_strings": [
+            "zel",
+            "heit",
+            "zig",
+            "wo",
+            "heiten",
+            "igen",
+            "ige",
+            "heim",
+            "lad",
+            "iges"
+        ],
+        "description": " occurrences of the word \"ein\" and its variations in German"
+    },
+    {
+        "index": "23137",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_23137.json",
+        "negative_strings": [
+            " Bav",
+            " n\u00c3\u00b8",
+            " Verf\u00c3\u00bcg",
+            " Prostitutas",
+            " eldre",
+            " Ihren",
+            " M\u00c3\u00b6glich",
+            " f\u00c3\u00b8",
+            "ance",
+            " comb"
+        ],
+        "positive_strings": [
+            " saison",
+            " als",
+            "eing",
+            " theoret",
+            " pl\u00c3\u00a1",
+            " eig",
+            "basis",
+            " rosa",
+            " sow",
+            "itia"
+        ],
+        "description": " terms related to cryptocurrency and blockchain technology"
+    },
+    {
         "index": "21690",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_21690.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_21690.json",
         "negative_strings": [
             " Verf\u00c3\u00bcg",
             " M\u00c3\u00b6glich",
@@ -150,93 +210,123 @@
         "description": " narratives involving relationships and personal connections"
     },
     {
-        "index": "14014",
+        "index": "11750",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_14014.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_11750.json",
         "negative_strings": [
-            " fetisch",
-            "IVA",
-            "enaire",
-            " orth",
-            "\u00d0\u00b5\u00d0\u00b7\u00d0\u00b4",
-            "\u00d0\u0132\u00d1\u0122\u00d1\u0127\u00d1\u0138\u00d0\u00b2",
-            "\u00e1\u00ba\u00a3o",
-            "ARRIER",
-            "olare",
-            " tempor"
+            "h",
+            "tion",
+            "sz",
+            "t",
+            "sch",
+            "sWith",
+            "sb",
+            "e",
+            "tw",
+            "ez"
         ],
         "positive_strings": [
-            " mich",
-            " dich",
-            " ich",
-            " mir",
-            " mein",
-            " Dich",
-            " dir",
-            " denn",
-            " meine",
-            " euch"
+            "ht",
+            "hti",
+            "htag",
+            "hton",
+            "hta",
+            "semble",
+            "sey",
+            "co",
+            "htags",
+            "sem"
         ],
-        "description": " references to existential themes and the nature of life"
+        "description": "names or titles that begin with \"Mas\" or variations of it"
     },
     {
-        "index": "28372",
+        "index": "22506",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_28372.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_22506.json",
         "negative_strings": [
-            "ISMATCH",
-            "BufferData",
-            "ellen",
-            "ARRIER",
-            " \n\n",
-            ".visual",
-            " nackte",
-            "\u00c3\u00b8r",
-            "\u00d0\u00b5\u00d0\u00b7\u00d0\u00b4",
-            "\u00e0\u00a4\u00be\u00e0\u00a4\u0124"
+            "Den",
+            " seinen",
+            " Den",
+            " keinen",
+            " Ihren",
+            " ihren",
+            " einen",
+            " unseren",
+            " DEN",
+            " meinen"
         ],
         "positive_strings": [
-            " mir",
-            " ich",
-            " mal",
-            " BITTE",
-            " mich",
-            " halt",
-            " Dich",
-            " hab",
-            "mir",
-            " mein"
+            " der",
+            " das",
+            " die",
+            " es",
+            "der",
+            " dieser",
+            " ein",
+            " DER",
+            "Der",
+            "die"
         ],
-        "description": " phrases related to quality and performance assessments"
+        "description": " grammatical structures and phrases that indicate relationships or comparisons"
     },
     {
-        "index": "18735",
+        "index": "6031",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/Das ist ein Jude/data_for_feature_18735.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_6031.json",
         "negative_strings": [
-            " DISCLAIM",
-            " authDomain",
-            " onStart",
-            " \u00d0\u00b2\u00d0\u00bd\u00d1\u0125",
-            " POSSIBILITY",
-            " [\u00e2\u0122\u00a6",
-            "\u00e3\u0123\u0133\u00e3\u0124\u012e\u00e3\u0123\u00a9",
-            "\u00cf\u012b\u00ce\u00bd\u00ce\u00b1",
-            "unittest",
-            " [...]\n\n"
+            "ube",
+            "seite",
+            "ive",
+            "filme",
+            "k\u00c3\u00b3w",
+            "/***/",
+            "lds",
+            "kul",
+            "\u00e1\u00bb\u0135n",
+            "\u00d0\u00ba\u00d1\u0125\u00d0\u00bb"
         ],
         "positive_strings": [
-            " Sentence",
-            " appart",
-            " meaning",
-            " Meaning",
-            " sentence",
-            " meanings",
-            " hotels",
-            " \u00e8\u00b5\u00b7",
-            ".define",
-            ".Views"
+            " Thema",
+            " Datum",
+            " Angebot",
+            " Ensemble",
+            " Ding",
+            " Leben",
+            " Unternehmen",
+            " Testament",
+            " Problem",
+            " Stadium"
         ],
-        "description": "proper nouns, specifically names of individuals and locations"
+        "description": " nouns and determiners associated with photography and community"
+    },
+    {
+        "index": "44",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Jude\\data_for_feature_44.json",
+        "negative_strings": [
+            " other",
+            " Prostitutas",
+            "IXEL",
+            " current",
+            " Bav",
+            "STYPE",
+            "Dans",
+            " n\u00c3\u00b8",
+            " Revel",
+            " only"
+        ],
+        "positive_strings": [
+            " und",
+            " mit",
+            " \u00e2\u0122\u0140",
+            " der",
+            " als",
+            " von",
+            " im",
+            " dem",
+            " die",
+            " vom"
+        ],
+        "description": " geographical locations and their historical contexts"
     }
 ]

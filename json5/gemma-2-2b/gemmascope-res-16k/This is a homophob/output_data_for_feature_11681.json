@@ -1,0 +1,30 @@
+{
+    "index": "11681",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a homophob\\data_for_feature_11681.json",
+    "negative_strings": [
+        "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+        "MethodManager",
+        "ble",
+        "ca",
+        "\u2581\u0627\u0644\u062d\u0631\u0647",
+        "Leading",
+        "TestMethod",
+        "\u2581ReactDOM",
+        "MediaStore",
+        "ilities"
+    ],
+    "positive_strings": [
+        "\u24e7",
+        "\u2581>=\",",
+        "}:${",
+        "IsMutable",
+        "bollah",
+        "\u2581L\u00e4ng",
+        "\u2581Linguistics",
+        "\u2581appels",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+        "\u2581himo"
+    ],
+    "description": "repeated occurrences of the letter 'b'"
+}

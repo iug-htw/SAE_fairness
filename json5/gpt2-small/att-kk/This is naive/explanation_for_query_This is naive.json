@@ -10,13 +10,13 @@
             "modelId": "gpt2-small",
             "layer": "11-att-kk",
             "index": "5272",
-            "maxValue": 3.1516454219818115,
+            "maxValue": 3.151645421981812,
             "maxValueIndex": 2,
             "values": [
                 0,
                 3.061596632003784,
-                3.1516454219818115,
-                1.9022815227508545
+                3.151645421981812,
+                1.902281522750854
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -761,16 +761,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-24T00:12:56.511Z",
-                        "updatedAt": "2024-07-24T00:12:56.511Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-24T00:12:56.511Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -792,11 +788,11 @@
             "dfaValues": [
                 0.7788330912590027,
                 3.515336751937866,
-                1.1040359735488892,
+                1.104035973548889,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 3.515336751937866
+            "dfaMaxValue": 3.515336751937866,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
@@ -807,7 +803,7 @@
             "values": [
                 0.09995782375335693,
                 2.974703311920166,
-                1.3310407400131226,
+                1.331040740013123,
                 0.6620630025863647
             ],
             "neuron": {
@@ -1553,16 +1549,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-17T06:58:33.679Z",
-                        "updatedAt": "2024-07-17T06:58:33.679Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-17T06:58:33.679Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -1583,23 +1575,23 @@
             },
             "dfaValues": [
                 0.08537929505109787,
-                3.2481634616851807,
+                3.248163461685181,
                 0,
                 0
             ],
-            "dfaTargetIndex": 1,
-            "dfaMaxValue": 3.2481634616851807
+            "dfaMaxValue": 3.248163461685181,
+            "dfaTargetIndex": 1
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "10983",
-            "maxValue": 2.5860514640808105,
+            "maxValue": 2.586051464080811,
             "maxValueIndex": 2,
             "values": [
-                0.31133270263671875,
+                0.3113327026367188,
                 0,
-                2.5860514640808105,
+                2.586051464080811,
                 0
             ],
             "neuron": {
@@ -2345,16 +2337,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T13:25:43.303Z",
-                        "updatedAt": "2024-07-16T13:25:43.303Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T13:25:43.303Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -2374,23 +2362,23 @@
                 }
             },
             "dfaValues": [
-                1.1536970138549805,
-                1.3080617189407349,
+                1.15369701385498,
+                1.308061718940735,
                 6.961444854736328,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 6.961444854736328
+            "dfaMaxValue": 6.961444854736328,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "16549",
-            "maxValue": 2.3266406059265137,
+            "maxValue": 2.326640605926514,
             "maxValueIndex": 1,
             "values": [
                 0.07129287719726562,
-                2.3266406059265137,
+                2.326640605926514,
                 0,
                 0
             ],
@@ -3137,16 +3125,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T16:48:08.349Z",
-                        "updatedAt": "2024-07-16T16:48:08.349Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T16:48:08.349Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -3171,19 +3155,19 @@
                 0,
                 0
             ],
-            "dfaTargetIndex": 1,
-            "dfaMaxValue": 3.456486940383911
+            "dfaMaxValue": 3.456486940383911,
+            "dfaTargetIndex": 1
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "1314",
-            "maxValue": 2.1468052864074707,
+            "maxValue": 2.146805286407471,
             "maxValueIndex": 1,
             "values": [
-                1.6434845924377441,
-                2.1468052864074707,
-                1.6526079177856445,
+                1.643484592437744,
+                2.146805286407471,
+                1.652607917785645,
                 0
             ],
             "neuron": {
@@ -3929,16 +3913,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T07:50:40.061Z",
-                        "updatedAt": "2024-07-16T07:50:40.061Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T07:50:40.061Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -3959,12 +3939,12 @@
             },
             "dfaValues": [
                 2.716637134552002,
-                1.1701045036315918,
+                1.170104503631592,
                 0,
                 0
             ],
-            "dfaTargetIndex": 1,
-            "dfaMaxValue": 2.716637134552002
+            "dfaMaxValue": 2.716637134552002,
+            "dfaTargetIndex": 1
         },
         {
             "modelId": "gpt2-small",
@@ -3974,9 +3954,9 @@
             "maxValueIndex": 2,
             "values": [
                 0.766822099685669,
-                1.3528258800506592,
+                1.352825880050659,
                 2.095158815383911,
-                1.1604645252227783
+                1.160464525222778
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -4721,16 +4701,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-20T12:06:13.703Z",
-                        "updatedAt": "2024-07-20T12:06:13.703Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-20T12:06:13.703Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -4755,18 +4731,18 @@
                 -0.006990600842982531,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 1.552895188331604
+            "dfaMaxValue": 1.552895188331604,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "19955",
-            "maxValue": 2.0868284702301025,
+            "maxValue": 2.086828470230103,
             "maxValueIndex": 1,
             "values": [
-                2.0589849948883057,
-                2.0868284702301025,
+                2.058984994888306,
+                2.086828470230103,
                 0.6092755794525146,
                 1.011709213256836
             ],
@@ -5513,16 +5489,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T18:43:17.644Z",
-                        "updatedAt": "2024-07-16T18:43:17.644Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T18:43:17.644Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -5542,13 +5514,13 @@
                 }
             },
             "dfaValues": [
-                3.6492350101470947,
+                3.649235010147095,
                 0.8463893532752991,
                 0,
                 0
             ],
-            "dfaTargetIndex": 1,
-            "dfaMaxValue": 3.6492350101470947
+            "dfaMaxValue": 3.649235010147095,
+            "dfaTargetIndex": 1
         },
         {
             "modelId": "gpt2-small",
@@ -6305,16 +6277,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-17T06:08:34.950Z",
-                        "updatedAt": "2024-07-17T06:08:34.950Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-17T06:08:34.950Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -6334,25 +6302,25 @@
                 }
             },
             "dfaValues": [
-                1.2664942741394043,
+                1.266494274139404,
                 2.591776132583618,
                 0.715361475944519,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 2.591776132583618
+            "dfaMaxValue": 2.591776132583618,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "5-att-kk",
             "index": "21052",
-            "maxValue": 1.9150419235229492,
+            "maxValue": 1.915041923522949,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0.1334385871887207,
-                1.9150419235229492,
-                0.31357598304748535
+                1.915041923522949,
+                0.3135759830474854
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -7097,16 +7065,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-21T04:56:45.523Z",
-                        "updatedAt": "2024-07-21T04:56:45.523Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-21T04:56:45.523Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -7126,24 +7090,24 @@
                 }
             },
             "dfaValues": [
-                2.6700026988983154,
+                2.670002698898315,
                 2.19626784324646,
-                0.19085261225700378,
+                0.1908526122570038,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 2.6700026988983154
+            "dfaMaxValue": 2.670002698898315,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "22221",
-            "maxValue": 1.8587121963500977,
+            "maxValue": 1.858712196350098,
             "maxValueIndex": 2,
             "values": [
-                1.1674089431762695,
+                1.16740894317627,
                 0,
-                1.8587121963500977,
+                1.858712196350098,
                 0
             ],
             "neuron": {
@@ -7889,16 +7853,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T21:02:26.155Z",
-                        "updatedAt": "2024-07-16T21:02:26.155Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T21:02:26.155Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -7918,25 +7878,25 @@
                 }
             },
             "dfaValues": [
-                2.6937997341156006,
-                0.43441474437713623,
+                2.693799734115601,
+                0.4344147443771362,
                 2.652728796005249,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 2.6937997341156006
+            "dfaMaxValue": 2.693799734115601,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "3-att-kk",
             "index": "17449",
-            "maxValue": 1.8218731880187988,
+            "maxValue": 1.821873188018799,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                1.8218731880187988
+                1.821873188018799
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -8681,16 +8641,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-20T11:35:49.405Z",
-                        "updatedAt": "2024-07-20T11:35:49.405Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-20T11:35:49.405Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -8712,23 +8668,23 @@
             "dfaValues": [
                 0.2619103789329529,
                 0.6314149498939514,
-                2.3641297817230225,
-                0.22209352254867554
+                2.364129781723022,
+                0.2220935225486755
             ],
-            "dfaTargetIndex": 3,
-            "dfaMaxValue": 2.3641297817230225
+            "dfaMaxValue": 2.364129781723022,
+            "dfaTargetIndex": 3
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "13363",
-            "maxValue": 1.7601823806762695,
+            "maxValue": 1.76018238067627,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                1.7601823806762695
+                1.76018238067627
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -9473,16 +9429,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T14:50:30.553Z",
-                        "updatedAt": "2024-07-16T14:50:30.553Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T14:50:30.553Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -9502,25 +9454,25 @@
                 }
             },
             "dfaValues": [
-                0.41856884956359863,
+                0.4185688495635986,
                 0.0819898396730423,
                 0.08478069305419922,
                 3.824662208557129
             ],
-            "dfaTargetIndex": 3,
-            "dfaMaxValue": 3.824662208557129
+            "dfaMaxValue": 3.824662208557129,
+            "dfaTargetIndex": 3
         },
         {
             "modelId": "gpt2-small",
             "layer": "2-att-kk",
             "index": "5803",
-            "maxValue": 1.7566930055618286,
+            "maxValue": 1.756693005561829,
             "maxValueIndex": 3,
             "values": [
                 0,
                 0,
                 0,
-                1.7566930055618286
+                1.756693005561829
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -10265,16 +10217,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-17T13:42:26.843Z",
-                        "updatedAt": "2024-07-17T13:42:26.843Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-17T13:42:26.843Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -10296,23 +10244,23 @@
             "dfaValues": [
                 0.5940205454826355,
                 0.7820141315460205,
-                -0.23074029386043549,
+                -0.2307402938604355,
                 3.163055419921875
             ],
-            "dfaTargetIndex": 3,
-            "dfaMaxValue": 3.163055419921875
+            "dfaMaxValue": 3.163055419921875,
+            "dfaTargetIndex": 3
         },
         {
             "modelId": "gpt2-small",
             "layer": "4-att-kk",
             "index": "17922",
-            "maxValue": 1.7368570566177368,
+            "maxValue": 1.736857056617737,
             "maxValueIndex": 2,
             "values": [
                 0.6085501909255981,
                 0.7874363660812378,
-                1.7368570566177368,
-                1.6084436178207397
+                1.736857056617737,
+                1.60844361782074
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -11057,16 +11005,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-20T13:51:13.053Z",
-                        "updatedAt": "2024-07-20T13:51:13.053Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-20T13:51:13.053Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -11087,24 +11031,24 @@
             },
             "dfaValues": [
                 0.7438297271728516,
-                1.1592715978622437,
-                0.14322219789028168,
+                1.159271597862244,
+                0.1432221978902817,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 1.1592715978622437
+            "dfaMaxValue": 1.159271597862244,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "2-att-kk",
             "index": "5981",
-            "maxValue": 1.7145907878875732,
+            "maxValue": 1.714590787887573,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0.72751784324646,
-                1.7145907878875732,
-                1.5968430042266846
+                1.714590787887573,
+                1.596843004226685
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -11849,16 +11793,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-17T13:47:43.670Z",
-                        "updatedAt": "2024-07-17T13:47:43.670Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-17T13:47:43.670Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -11879,22 +11819,22 @@
             },
             "dfaValues": [
                 -0.6846412420272827,
-                1.1812520027160645,
+                1.181252002716064,
                 0.2871556282043457,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 1.1812520027160645
+            "dfaMaxValue": 1.181252002716064,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "12368",
-            "maxValue": 1.7055578231811523,
+            "maxValue": 1.705557823181152,
             "maxValueIndex": 1,
             "values": [
                 0.8333978652954102,
-                1.7055578231811523,
+                1.705557823181152,
                 0.2541217803955078,
                 0
             ],
@@ -12641,16 +12581,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T14:14:53.839Z",
-                        "updatedAt": "2024-07-16T14:14:53.839Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T14:14:53.839Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -12670,25 +12606,25 @@
                 }
             },
             "dfaValues": [
-                1.9304735660552979,
+                1.930473566055298,
                 5.694299221038818,
                 0,
                 0
             ],
-            "dfaTargetIndex": 1,
-            "dfaMaxValue": 5.694299221038818
+            "dfaMaxValue": 5.694299221038818,
+            "dfaTargetIndex": 1
         },
         {
             "modelId": "gpt2-small",
             "layer": "0-att-kk",
             "index": "5674",
-            "maxValue": 1.6883606910705566,
+            "maxValue": 1.688360691070557,
             "maxValueIndex": 2,
             "values": [
                 0,
                 0.5100955963134766,
-                1.6883606910705566,
-                1.0451431274414062
+                1.688360691070557,
+                1.045143127441406
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -13433,16 +13369,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-3.5-turbo",
                         "createdAt": "2024-07-16T10:19:34.381Z",
-                        "updatedAt": "2024-07-16T10:19:34.381Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-16T10:19:34.381Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -13462,25 +13394,25 @@
                 }
             },
             "dfaValues": [
-                1.1143425703048706,
+                1.114342570304871,
                 0.8664879202842712,
-                2.4502527713775635,
+                2.450252771377563,
                 0
             ],
-            "dfaTargetIndex": 2,
-            "dfaMaxValue": 2.4502527713775635
+            "dfaMaxValue": 2.450252771377563,
+            "dfaTargetIndex": 2
         },
         {
             "modelId": "gpt2-small",
             "layer": "3-att-kk",
             "index": "19357",
-            "maxValue": 1.6826002597808838,
+            "maxValue": 1.682600259780884,
             "maxValueIndex": 3,
             "values": [
-                0.46450209617614746,
-                0.27892088890075684,
-                0.33046460151672363,
-                1.6826002597808838
+                0.4645020961761475,
+                0.2789208889007568,
+                0.3304646015167236,
+                1.682600259780884
             ],
             "neuron": {
                 "modelId": "gpt2-small",
@@ -14225,16 +14157,12 @@
                         "typeName": "oai_token-act-pair",
                         "explanationModelName": "gpt-4o-mini",
                         "createdAt": "2024-07-20T12:20:33.697Z",
-                        "updatedAt": "2024-07-20T12:20:33.697Z",
-                        "author": {
-                            "name": "bot-35"
-                        },
-                        "votes": []
+                        "updatedAt": "2024-07-20T12:20:33.697Z"
                     }
                 ],
                 "model": {
                     "id": "gpt2-small",
-                    "displayNameShort": "GPT2-SM",
+                    "displayNameShort": "GPT2-SMALL",
                     "displayName": "GPT2-Small",
                     "creatorId": "cljgamm90000076zdchicy6zj",
                     "tlensId": null,
@@ -14255,12 +14183,12 @@
             },
             "dfaValues": [
                 0.5933265089988708,
-                -0.016482776030898094,
+                -0.01648277603089809,
                 2.387293815612793,
                 0.09627468883991241
             ],
-            "dfaTargetIndex": 3,
-            "dfaMaxValue": 2.387293815612793
+            "dfaMaxValue": 2.387293815612793,
+            "dfaTargetIndex": 3
         }
     ],
     "counts": [

@@ -2,7 +2,7 @@
     {
         "index": "2479",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_2479.json",
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_2479.json",
         "negative_strings": [
             " Olivier",
             " Little",
@@ -30,39 +30,69 @@
         "description": "references to football clubs"
     },
     {
-        "index": "6481",
+        "index": "23482",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_6481.json",
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_23482.json",
         "negative_strings": [
-            "\u00e3\u0125\u0125\u00e3\u0125\u012b",
-            "dayName",
-            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
-            " Parables",
-            "geist",
-            " redes",
-            "holders",
-            " Spectrum",
-            "beard",
-            " LOT"
+            " scraping",
+            " specials",
+            " wide",
+            " sides",
+            " mechanics",
+            " starters",
+            " alternatively",
+            " silent",
+            " macro",
+            " endlessly"
         ],
         "positive_strings": [
-            "xtap",
-            "Ju",
-            "arez",
-            "uti",
-            "jas",
-            " Ju",
-            "ju",
-            "illet",
-            "jj",
-            "illard"
+            "ablished",
+            "ablish",
+            "imating",
+            "imated",
+            "rella",
+            "imates",
+            "hetics",
+            "imation",
+            "imate",
+            "ablishment"
         ],
-        "description": "References to the sports team \"Juventus.\""
+        "description": "proper nouns or names of places and people, along with terms related to governance and politics"
+    },
+    {
+        "index": "13773",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_13773.json",
+        "negative_strings": [
+            " contrace",
+            " drain",
+            " pooled",
+            " censor",
+            " vo",
+            " juices",
+            "kaya",
+            " medi",
+            " sitting",
+            " [*]"
+        ],
+        "positive_strings": [
+            "ornia",
+            "amily",
+            "rontal",
+            "ield",
+            "ugal",
+            "ftime",
+            "orce",
+            "cation",
+            "unction",
+            "uku"
+        ],
+        "description": "references to specific organizations, locations, and individuals"
     },
     {
         "index": "18981",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_18981.json",
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_18981.json",
         "negative_strings": [
             " attendance",
             " Warren",
@@ -90,9 +120,459 @@
         "description": "Spanish words related to medical conditions and treatments"
     },
     {
+        "index": "23979",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_23979.json",
+        "negative_strings": [
+            "eret",
+            "eering",
+            " break",
+            " tense",
+            " Minute",
+            "\u00e8\u00bb",
+            "STATE",
+            "\u00e6\u0138\u00b9",
+            "resy",
+            "e"
+        ],
+        "positive_strings": [
+            "uvian",
+            "ibrary",
+            "inx",
+            "helm",
+            "uv",
+            " Nadu",
+            "grim",
+            "ove",
+            "ibr",
+            "ounge"
+        ],
+        "description": "words related to scientific concepts, particularly in physics and chemistry"
+    },
+    {
+        "index": "2171",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_2171.json",
+        "negative_strings": [
+            "gb",
+            "\u00d5",
+            "Beh",
+            "\u00e3\u0124\u00a7",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            "beit",
+            "hands",
+            "veyard",
+            "\u00e4\u00ba\u0136",
+            "llah"
+        ],
+        "positive_strings": [
+            " est",
+            "uary",
+            "hetics",
+            "imate",
+            " simultane",
+            "hetically",
+            "rator",
+            "rant",
+            "ophe",
+            "ript"
+        ],
+        "description": "mentions of estimations or value amounts"
+    },
+    {
+        "index": "7852",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_7852.json",
+        "negative_strings": [
+            "gb",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            "llah",
+            "\u00e3\u0124\u00a7",
+            "Berry",
+            "\u00d5",
+            "hands",
+            "Shot",
+            "jee",
+            "Beh"
+        ],
+        "positive_strings": [
+            " est",
+            "uary",
+            " simultane",
+            "imate",
+            "hetics",
+            " seiz",
+            "hetically",
+            " lapt",
+            "rator",
+            " COUR"
+        ],
+        "description": "words related to locations or places"
+    },
+    {
+        "index": "12095",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_12095.json",
+        "negative_strings": [
+            "defined",
+            "iologist",
+            ".;",
+            "ITED",
+            "ilaterally",
+            "WP",
+            "Murray",
+            "ingham",
+            "SIGN",
+            "Sounds"
+        ],
+        "positive_strings": [
+            " disse",
+            " exting",
+            " este",
+            " \u00c3\u00a9",
+            " pione",
+            " redes",
+            " vend",
+            " les",
+            " \u00c3",
+            " opin"
+        ],
+        "description": "words and phrases related to languages and text formatting symbols"
+    },
+    {
+        "index": "19088",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_19088.json",
+        "negative_strings": [
+            " recount",
+            " Dull",
+            " \u00e2\u0122\u00a6",
+            " Australia",
+            " past",
+            " KR",
+            " Germany",
+            " Koh",
+            " everyday",
+            " last"
+        ],
+        "positive_strings": [
+            "isoft",
+            "maxwell",
+            "redients",
+            "etheless",
+            "mble",
+            "duino",
+            "ascript",
+            "quished",
+            "odox",
+            "renheit"
+        ],
+        "description": "medical terms related to surgeries or procedures"
+    },
+    {
+        "index": "2899",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_2899.json",
+        "negative_strings": [
+            " Conservatives",
+            " Bucks",
+            " Cliff",
+            " Goose",
+            " Blazers",
+            " CPS",
+            " Kerry",
+            " Hornets",
+            " Savannah",
+            " Lynn"
+        ],
+        "positive_strings": [
+            "e",
+            "ez",
+            "ament",
+            "ivo",
+            "aci",
+            "o",
+            "a",
+            "ante",
+            "ando",
+            "ement"
+        ],
+        "description": "mentions of economic terms and financial situations"
+    },
+    {
+        "index": "8363",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_8363.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            "\u0135\u013a",
+            "-+-+",
+            "\u0126\u00a2",
+            " Cosmos",
+            "\u012a\u0134",
+            "\u00a5\u0140",
+            "\u0130\u012d",
+            " Dominion",
+            "reme"
+        ],
+        "positive_strings": [
+            " Nadu",
+            "ted",
+            "uvian",
+            "ibr",
+            "uminati",
+            "il",
+            "aments",
+            "uv",
+            "ogical",
+            "iberal"
+        ],
+        "description": "names or words related to venues, events, and organizations, especially ones associated with culture and community"
+    },
+    {
+        "index": "4986",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_4986.json",
+        "negative_strings": [
+            " Koreans",
+            " Uzbek",
+            " Flake",
+            " Rohingya",
+            "owing",
+            " Hyundai",
+            "WT",
+            "HB",
+            " Ethiopian",
+            " Indonesian"
+        ],
+        "positive_strings": [
+            " qui",
+            " une",
+            " \u00c3\u0142",
+            " les",
+            " pour",
+            " aux",
+            " au",
+            " d\u00c3\u00a9",
+            " ensu",
+            " r\u00c3\u00a9"
+        ],
+        "description": "French phrases related to responsibility and informative content"
+    },
+    {
+        "index": "5065",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_5065.json",
+        "negative_strings": [
+            " Learns",
+            " Galile",
+            "\u00e3\u0124\u00aa",
+            " Roses",
+            "\u00e2\u0138\u00ac",
+            "emetery",
+            "\u00e7\u0136\u00b0",
+            " Soccer",
+            "FTWARE",
+            "Eye"
+        ],
+        "positive_strings": [
+            "ornia",
+            "soever",
+            "fy",
+            "if",
+            "olia",
+            "uku",
+            "rit",
+            "uana",
+            "ace",
+            "ollah"
+        ],
+        "description": "proper nouns or names containing the string \"if.\""
+    },
+    {
+        "index": "10795",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_10795.json",
+        "negative_strings": [
+            " gif",
+            " bear",
+            " drilling",
+            " equally",
+            " prominently",
+            " live",
+            " Miss",
+            " well",
+            " appropriately",
+            " paraly"
+        ],
+        "positive_strings": [
+            "onso",
+            "rican",
+            "sky",
+            "onte",
+            "ield",
+            "ruit",
+            "ornia",
+            "redo",
+            "thouse",
+            "eatures"
+        ],
+        "description": "dates and events in historical contexts"
+    },
+    {
+        "index": "6481",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_6481.json",
+        "negative_strings": [
+            "\u00e3\u0125\u0125\u00e3\u0125\u012b",
+            "dayName",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
+            " Parables",
+            "geist",
+            " redes",
+            "holders",
+            " Spectrum",
+            "beard",
+            " LOT"
+        ],
+        "positive_strings": [
+            "xtap",
+            "Ju",
+            "arez",
+            "uti",
+            "jas",
+            " Ju",
+            "ju",
+            "illet",
+            "jj",
+            "illard"
+        ],
+        "description": "References to the sports team \"Juventus.\""
+    },
+    {
+        "index": "4690",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_4690.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            "\u0135\u013a",
+            "\u0130\u012d",
+            "\u00a3\u0131",
+            " Cosmos",
+            "reme",
+            "starter",
+            "\u00a5\u0140",
+            "\u0126\u00a2",
+            "\u0123\u0138"
+        ],
+        "positive_strings": [
+            "il",
+            "ibr",
+            "iman",
+            "ted",
+            "aments",
+            "ogical",
+            "angelo",
+            "iber",
+            "uv",
+            "uvian"
+        ],
+        "description": "the name \"Zilker\""
+    },
+    {
+        "index": "7301",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_7301.json",
+        "negative_strings": [
+            " strengths",
+            " braces",
+            "\u00f0\u0141\u0133",
+            " horizontally",
+            " quickly",
+            "tons",
+            " punches",
+            "edIn",
+            " punch",
+            " heating"
+        ],
+        "positive_strings": [
+            "legal",
+            "ove",
+            "uminati",
+            "iffe",
+            "leg",
+            "kay",
+            "minster",
+            "BuyableInstoreAndOnline",
+            " Lomb",
+            "itches"
+        ],
+        "description": "names or titles starting with \"Il\""
+    },
+    {
+        "index": "19190",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_19190.json",
+        "negative_strings": [
+            " opposite",
+            " prior",
+            " outside",
+            " leading",
+            " specifically",
+            " today",
+            " both",
+            " practically",
+            " Cabinet",
+            " often"
+        ],
+        "positive_strings": [
+            "maxwell",
+            "sbm",
+            "utils",
+            " :=",
+            "inventoryQuantity",
+            "lvl",
+            "\u00cb\u012a",
+            "cloneembedreportprint",
+            "fml",
+            "fp"
+        ],
+        "description": "names or titles"
+    },
+    {
+        "index": "14338",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_14338.json",
+        "negative_strings": [
+            " Penny",
+            " Summer",
+            " Caucasus",
+            " Commissioner",
+            " Hawks",
+            " Pistons",
+            " Vikings",
+            " Springfield",
+            " Jarrett",
+            " Jennings"
+        ],
+        "positive_strings": [
+            "cia",
+            "\u00c3\u00a7a",
+            "\u00c3\u0143a",
+            "cial",
+            "idad",
+            "dos",
+            "adas",
+            "\u00c3\u00a7",
+            "ados",
+            "arse"
+        ],
+        "description": "financial terms and actions related to business transactions"
+    },
+    {
         "index": "19073",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_19073.json",
+        "url": "json5\\gpt2-small\\res-jb\\il est juif\\data_for_feature_19073.json",
         "negative_strings": [
             "SW",
             "ellow",
@@ -118,425 +598,5 @@
             " rapp"
         ],
         "description": " phrases related to law or legal matters"
-    },
-    {
-        "index": "7191",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_7191.json",
-        "negative_strings": [
-            " ANGEL",
-            " remotely",
-            " outgoing",
-            " approx",
-            " sibling",
-            " anywhere",
-            " Alicia",
-            " Explosive",
-            " anchors",
-            " angels"
-        ],
-        "positive_strings": [
-            "opoly",
-            "Pont",
-            " jour",
-            "opol",
-            "ress",
-            "athlon",
-            "pload",
-            "pe",
-            "etting",
-            "els"
-        ],
-        "description": "phrases related to pressure or stress"
-    },
-    {
-        "index": "20164",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_20164.json",
-        "negative_strings": [
-            "dayName",
-            " Parables",
-            "holders",
-            "parent",
-            "TPPStreamerBot",
-            "beard",
-            "holder",
-            "\u00e3\u0125\u0125\u00e3\u0125\u012b",
-            "display",
-            "parts"
-        ],
-        "positive_strings": [
-            "xtap",
-            " Ju",
-            "Ju",
-            "arez",
-            "uti",
-            "jas",
-            "jj",
-            "illet",
-            "illard",
-            "ipers"
-        ],
-        "description": "keywords related to sports teams, particularly the name \"Juventus\""
-    },
-    {
-        "index": "19125",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_19125.json",
-        "negative_strings": [
-            " Uzbek",
-            " Koreans",
-            " Indonesian",
-            " Mariners",
-            " Holly",
-            " Rohingya",
-            " Torch",
-            " Adin",
-            " Sasuke",
-            " Molly"
-        ],
-        "positive_strings": [
-            "\u00c3\u00a8re",
-            "\u00c3\u00a8",
-            "\u00c3\u00a9t",
-            "\u00c3\u00aa",
-            "\u00c3\u00a9n",
-            "\u00c3\u00a9",
-            "\u00c3\u00a9r",
-            "\u00c3\u00a9s",
-            "\u00c3\u00b4",
-            "\u00c3\u00bb"
-        ],
-        "description": "technical content related to computer science terminology and data"
-    },
-    {
-        "index": "10175",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_10175.json",
-        "negative_strings": [
-            " Resp",
-            " Immunity",
-            " outsourcing",
-            " Hemp",
-            "miss",
-            " mant",
-            " Via",
-            "iminary",
-            " Cooldown",
-            " Siem"
-        ],
-        "positive_strings": [
-            "ggle",
-            "gg",
-            "ck",
-            "ggles",
-            "kes",
-            "gger",
-            "keye",
-            "cking",
-            "KING",
-            "ggie"
-        ],
-        "description": "references to doctorate degrees and academic achievements"
-    },
-    {
-        "index": "11289",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_11289.json",
-        "negative_strings": [
-            " Alexandria",
-            " Xavier",
-            " streetcar",
-            " Rivera",
-            " procedural",
-            " Maduro",
-            " Lima",
-            " Venus",
-            " CRA",
-            " Arizona"
-        ],
-        "positive_strings": [
-            "inen",
-            "hend",
-            "ichen",
-            "hr",
-            "\u00c3\u0141",
-            "icht",
-            "itsch",
-            "iche",
-            "cht",
-            "ich"
-        ],
-        "description": "German words and phrases"
-    },
-    {
-        "index": "16365",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_16365.json",
-        "negative_strings": [
-            "t",
-            "rings",
-            "s",
-            "e",
-            " Payton",
-            " Revelations",
-            "tal",
-            "din",
-            "til",
-            "tg"
-        ],
-        "positive_strings": [
-            "cca",
-            "cius",
-            "pta",
-            "pport",
-            "errilla",
-            "itton",
-            "hammad",
-            "hiro",
-            "isine",
-            "ccess"
-        ],
-        "description": "names or words with accents or special characters"
-    },
-    {
-        "index": "22250",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_22250.json",
-        "negative_strings": [
-            " Ramsay",
-            " Shack",
-            "ersen",
-            "Shock",
-            " Rowling",
-            "\u00e2\u013b\u00a6",
-            " WHY",
-            " throats",
-            "Knight",
-            " Household"
-        ],
-        "positive_strings": [
-            " pione",
-            " exting",
-            " conflic",
-            " redes",
-            "\u00c3\u00b1o",
-            " este",
-            " experien",
-            "\u00c3\u00b1",
-            "gado",
-            " corrid"
-        ],
-        "description": "terms related to government, politics, economy, and historical documentation"
-    },
-    {
-        "index": "20025",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_20025.json",
-        "negative_strings": [
-            "heads",
-            " talents",
-            "abouts",
-            "ths",
-            "anted",
-            "selves",
-            " rods",
-            "eks",
-            " cycles",
-            "brates"
-        ],
-        "positive_strings": [
-            "\u00c3\u0143a",
-            "iere",
-            "idad",
-            "\u00c3\u00b1a",
-            "helle",
-            "onde",
-            "it\u00c3\u00a9",
-            "tera",
-            "\u00c3\u00a8re",
-            "erva"
-        ],
-        "description": "restaurant names or food-related terms"
-    },
-    {
-        "index": "22826",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_22826.json",
-        "negative_strings": [
-            "taking",
-            "t",
-            "tons",
-            "driving",
-            "space",
-            "down",
-            "picking",
-            "cutting",
-            "taker",
-            "sw"
-        ],
-        "positive_strings": [
-            "\u00c5\u0141",
-            "\u00c4\u0141",
-            "\u00c3\u00b1",
-            "\u00c5\u0124",
-            "\u00c3\u00b1o",
-            "\u00c3\u0141",
-            "\u00c5\u00a1",
-            "\u00c3\u00b1a",
-            "\u00c3\u00a7",
-            "\u00c4\u012f"
-        ],
-        "description": "texts in a non-English language, potentially Finnish or a similar language due to the presence of words like \"olla,\" \"usta,\" \"un,\" and \"aika.\""
-    },
-    {
-        "index": "679",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_679.json",
-        "negative_strings": [
-            " containment",
-            " Ridley",
-            " scen",
-            " foremost",
-            " symbolism",
-            " theirs",
-            " logger",
-            " grounds",
-            " writ",
-            "ciating"
-        ],
-        "positive_strings": [
-            "opard",
-            "zeb",
-            "annie",
-            "hovah",
-            "unes",
-            "eps",
-            "hov",
-            "ppe",
-            "anson",
-            "une"
-        ],
-        "description": "proper nouns or names, specifically names starting with \"Je\""
-    },
-    {
-        "index": "7382",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_7382.json",
-        "negative_strings": [
-            " Nights",
-            " referrals",
-            " Cousins",
-            " Rhodes",
-            " targeted",
-            " formerly",
-            " Prohibition",
-            " Waterloo",
-            " Proud",
-            " Competitive"
-        ],
-        "positive_strings": [
-            "utra",
-            "chn",
-            "ibi",
-            "celer",
-            "igue",
-            "esi",
-            "ouver",
-            "angu",
-            "esame",
-            "iem"
-        ],
-        "description": "words related to political or legal matters"
-    },
-    {
-        "index": "8462",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_8462.json",
-        "negative_strings": [
-            "osity",
-            "atis",
-            "endment",
-            "anchester",
-            "ORN",
-            "hips",
-            "algia",
-            "URR",
-            " Albion",
-            "akes"
-        ],
-        "positive_strings": [
-            "forming",
-            "form",
-            "formed",
-            "forms",
-            "icist",
-            "imated",
-            "imating",
-            "ica",
-            "iologist",
-            "iological"
-        ],
-        "description": "comparisons where one entity outperforms another"
-    },
-    {
-        "index": "13114",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_13114.json",
-        "negative_strings": [
-            "lie",
-            "\u00e3\u0123\u00a6",
-            "atively",
-            " Story",
-            "ley",
-            "NER",
-            " partially",
-            "ably",
-            " system",
-            " visitation"
-        ],
-        "positive_strings": [
-            "isers",
-            "icably",
-            "atch",
-            "isin",
-            "ises",
-            "essed",
-            "ignt",
-            "avement",
-            "isal",
-            "ising"
-        ],
-        "description": "words related to negative emotions or events"
-    },
-    {
-        "index": "6929",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/il est juif/data_for_feature_6929.json",
-        "negative_strings": [
-            "riot",
-            "mus",
-            "mun",
-            "pod",
-            " Anthem",
-            " Mend",
-            "tic",
-            "matic",
-            "bre",
-            "nic"
-        ],
-        "positive_strings": [
-            "efully",
-            "OOOO",
-            "aah",
-            "HHHH",
-            "OO",
-            "OOOOOOOO",
-            "osh",
-            "olly",
-            "ooky",
-            "ogie"
-        ],
-        "description": "interjections expressing surprise or excitement"
     }
 ]

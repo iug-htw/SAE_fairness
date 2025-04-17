@@ -2,7 +2,7 @@
     {
         "index": "23470",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_23470.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_23470.json",
         "negative_strings": [
             " Breach",
             " bye",
@@ -30,9 +30,99 @@
         "description": "names of famous musicians"
     },
     {
+        "index": "20701",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
         "index": "3775",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_3775.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_3775.json",
         "negative_strings": [
             "IENCE",
             " Bye",
@@ -62,7 +152,7 @@
     {
         "index": "12863",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_12863.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_12863.json",
         "negative_strings": [
             " Bye",
             "BY",
@@ -90,9 +180,309 @@
         "description": "mentions of the word \"mus\" or \"musk\" in the text"
     },
     {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "1677",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_1677.json",
+        "negative_strings": [
+            "ately",
+            "vable",
+            "lain",
+            "wikipedia",
+            " cocaine",
+            "videos",
+            "rarily",
+            "TOP",
+            "wcsstore",
+            "rive"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "majority",
+            " clerics",
+            " cleric",
+            "istani",
+            " Brothers",
+            "abad",
+            "\u0127\u012d",
+            "osate",
+            " convert"
+        ],
+        "description": "mentions of Muslim community and related incidents"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "7966",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_7966.json",
+        "negative_strings": [
+            "ICLE",
+            "DEP",
+            " Kirin",
+            " Hurricanes",
+            "WR",
+            "HE",
+            " Angels",
+            "ATA",
+            "LCS",
+            " Blessed"
+        ],
+        "positive_strings": [
+            "psons",
+            "entary",
+            "bered",
+            "othy",
+            "lim",
+            "onial",
+            "bers",
+            "itic",
+            "inatory",
+            "olition"
+        ],
+        "description": "Words related to the concept of 'limit'"
+    },
+    {
+        "index": "2310",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_2310.json",
+        "negative_strings": [
+            "ICLE",
+            "wright",
+            "CHA",
+            " Kirin",
+            "\u00e3\u0123\u00ae\u00e9\u0143\u0136",
+            "manship",
+            " CPS",
+            " AE",
+            " Byrd",
+            " Blessed"
+        ],
+        "positive_strings": [
+            "psons",
+            "lim",
+            "bered",
+            "entary",
+            "othy",
+            "untary",
+            "onial",
+            "olition",
+            "bers",
+            "ples"
+        ],
+        "description": "mentions of the word \"lim\" with varying emphasis"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "8688",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_8688.json",
+        "negative_strings": [
+            "ICLE",
+            "CHA",
+            "\u00e3\u0123\u00ae\u00e9\u0143\u0136",
+            "ALK",
+            " CPS",
+            " Welsh",
+            "Oak",
+            "ULTS",
+            " Avalon",
+            " NZ"
+        ],
+        "positive_strings": [
+            "lim",
+            "psons",
+            "olition",
+            " ILCS",
+            " satell",
+            "estead",
+            "othy",
+            "onial",
+            "entary",
+            "ankind"
+        ],
+        "description": "mentions of the painter Gustav Klimt"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
         "index": "19357",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_19357.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_19357.json",
         "negative_strings": [
             " Cups",
             " setbacks",
@@ -120,393 +510,63 @@
         "description": "negative social behaviors and controversial terms related to race and prejudice"
     },
     {
-        "index": "16820",
+        "index": "19958",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_16820.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_19958.json",
         "negative_strings": [
-            " common",
-            " Gain",
-            " tending",
-            " Gab",
-            " gained",
-            " Boh",
-            " Gins",
-            " suing",
-            " borrowed",
-            "\u0124\u00aa"
+            "chuk",
+            " Jagu",
+            " Vaugh",
+            "Edit",
+            "Ont",
+            "Catal",
+            "Allow",
+            "\u00e2\u013f",
+            "=[",
+            " admits"
         ],
         "positive_strings": [
-            "eworks",
-            "emen",
-            "ew",
-            "elines",
-            "emark",
-            "ework",
-            "eline",
-            "em",
-            "eways",
-            "eless"
-        ],
-        "description": "phrases related to military service and regulations"
-    },
-    {
-        "index": "16882",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_16882.json",
-        "negative_strings": [
-            " Dakota",
-            " Rid",
-            " Giles",
-            " Dayton",
-            " George",
-            " Bradford",
-            " Millennium",
-            "ANT",
-            " Ir",
-            " Gul"
-        ],
-        "positive_strings": [
-            "querade",
-            "quer",
-            "och",
-            "hers",
-            "ques",
-            "cul",
-            "quet",
-            "cled",
-            "hing",
-            "qu"
-        ],
-        "description": "terms related to deception or misrepresentation, particularly when it involves portraying something as truth when it is not"
-    },
-    {
-        "index": "22687",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_22687.json",
-        "negative_strings": [
-            " Whitman",
-            " Marqu",
-            " Martin",
-            " Robinson",
-            " famously",
-            " Emerson",
-            " Winn",
-            " Jackson",
-            " Spark",
-            " Chapman"
-        ],
-        "positive_strings": [
-            " exting",
-            " oun",
+            " huge",
+            " lot",
+            " bunch",
             " tremend",
-            " teasp",
-            "ortunately",
-            "nesday",
-            " pione",
-            "\u00d0\u00be",
-            " carbohyd",
-            "aution"
+            "merce",
+            " plethora",
+            " lengthy",
+            "rouse",
+            "cknowled",
+            " sizeable"
         ],
-        "description": "phrases related to enhancing tasks"
+        "description": "the article \"a\" followed by an adjective, particularly one that conveys positive sentiment"
     },
     {
-        "index": "4212",
+        "index": "22675",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_4212.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is a muslim\\data_for_feature_22675.json",
         "negative_strings": [
-            " Shoes",
-            " Incarn",
-            " Sons",
-            " Seasons",
-            " Restaur",
-            " Units",
-            " stadiums",
-            " Races",
-            " foundations",
-            " Machines"
+            " umbrella",
+            " ethic",
+            " excuse",
+            " aristocracy",
+            " asshole",
+            " emperor",
+            " indign",
+            " anarchy",
+            " organized",
+            " accountant"
         ],
         "positive_strings": [
+            "lyss",
+            "ria",
+            "UST",
+            "ird",
+            "riel",
+            "UG",
+            " whopping",
             "vertisement",
-            " memo",
-            " bulletin",
-            " note",
-            " summary",
-            " memorandum",
-            " sheet",
-            "sheet",
-            "post",
-            " pamphlet"
+            "rial",
+            "eon"
         ],
-        "description": "news-related keywords and phrases"
-    },
-    {
-        "index": "5417",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_5417.json",
-        "negative_strings": [
-            " detectors",
-            " generals",
-            " sauces",
-            "places",
-            " sensations",
-            " secretaries",
-            " PCs",
-            " instructors",
-            " transmissions",
-            " rituals"
-        ],
-        "positive_strings": [
-            "ringe",
-            "ulet",
-            "oon",
-            "ipop",
-            "ruck",
-            "ucer",
-            "onet",
-            "raper",
-            "ifle",
-            "coon"
-        ],
-        "description": "physical objects and actions related to a crime scene"
-    },
-    {
-        "index": "14701",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_14701.json",
-        "negative_strings": [
-            " understatement",
-            " Dame",
-            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
-            "\u00a9",
-            "\u00ac\u00bc",
-            " restriction",
-            "ELD",
-            "\u012f",
-            "\u012c\u00b1",
-            "FORE"
-        ],
-        "positive_strings": [
-            "icked",
-            "ically",
-            "ics",
-            "etically",
-            "inarily",
-            "icking",
-            "kered",
-            "esters",
-            "ulates",
-            "cled"
-        ],
-        "description": "words related to imitation or mimicry"
-    },
-    {
-        "index": "15973",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_15973.json",
-        "negative_strings": [
-            " smugglers",
-            " surrogate",
-            " complicity",
-            " surrog",
-            " hashing",
-            " innocence",
-            " bureaucrats",
-            " safegu",
-            " helpers",
-            " lawy"
-        ],
-        "positive_strings": [
-            "posium",
-            "ennial",
-            "isode",
-            "enary",
-            "endum",
-            "itions",
-            "ologue",
-            "ogue",
-            "ests",
-            "auntlet"
-        ],
-        "description": "mentions of events or symposiums"
-    },
-    {
-        "index": "1522",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_1522.json",
-        "negative_strings": [
-            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
-            " Titanic",
-            " SPD",
-            " adopting",
-            " Vac",
-            " caps",
-            " revolving",
-            " encoding",
-            " antic",
-            " pregn"
-        ],
-        "positive_strings": [
-            "awi",
-            "hemy",
-            "ouf",
-            "imi",
-            "afi",
-            "rahim",
-            "oud",
-            "raq",
-            "ouri",
-            "ifi"
-        ],
-        "description": "proper nouns related to news articles and regions"
-    },
-    {
-        "index": "24518",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_24518.json",
-        "negative_strings": [
-            " kindred",
-            " Skype",
-            " BMC",
-            " hardest",
-            " misplaced",
-            " sooner",
-            " americ",
-            " tolerance",
-            " lifelong",
-            " payoff"
-        ],
-        "positive_strings": [
-            "querade",
-            "ataka",
-            "sey",
-            "chwitz",
-            "dar",
-            "uda",
-            "quer",
-            "chin",
-            "cul",
-            "low"
-        ],
-        "description": "proper names or titles starting with the word \"Mas.\""
-    },
-    {
-        "index": "10719",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_10719.json",
-        "negative_strings": [
-            " belts",
-            " streams",
-            " bins",
-            " classes",
-            " boxes",
-            " stocks",
-            " rows",
-            " queues",
-            " thugs",
-            " machines"
-        ],
-        "positive_strings": [
-            "cture",
-            "endum",
-            "blance",
-            "rection",
-            "endment",
-            "gment",
-            "ectomy",
-            "onement",
-            "enario",
-            "ologue"
-        ],
-        "description": "phrases related to controversy and conflict"
-    },
-    {
-        "index": "240",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_240.json",
-        "negative_strings": [
-            " reluct",
-            " unexplained",
-            " Path",
-            " unethical",
-            " skepticism",
-            " opposition",
-            " Advantage",
-            " Awakening",
-            " Apostle",
-            " Ground"
-        ],
-        "positive_strings": [
-            "igraph",
-            "ampunk",
-            "igree",
-            "itone",
-            "intage",
-            "icol",
-            "iques",
-            "iture",
-            "olor",
-            "ivery"
-        ],
-        "description": "physical objects or garments and detailed descriptions related to their appearance"
-    },
-    {
-        "index": "8548",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_8548.json",
-        "negative_strings": [
-            "atl",
-            "CVE",
-            " hover",
-            " Claus",
-            " Yon",
-            "gypt",
-            " Tulsa",
-            "resses",
-            "oji",
-            " grading"
-        ],
-        "positive_strings": [
-            " Celtics",
-            " Bruins",
-            " Globe",
-            " Dynamics",
-            " Consulting",
-            " Marathon",
-            " 2024",
-            " College",
-            "heastern",
-            "\u00e3\u0124\u00a4\u00e3\u0125\u012a"
-        ],
-        "description": "references to sports teams and cities"
-    },
-    {
-        "index": "19190",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is a muslim/data_for_feature_19190.json",
-        "negative_strings": [
-            " opposite",
-            " prior",
-            " outside",
-            " leading",
-            " specifically",
-            " today",
-            " both",
-            " practically",
-            " Cabinet",
-            " often"
-        ],
-        "positive_strings": [
-            "maxwell",
-            "sbm",
-            "utils",
-            " :=",
-            "inventoryQuantity",
-            "lvl",
-            "\u00cb\u012a",
-            "cloneembedreportprint",
-            "fml",
-            "fp"
-        ],
-        "description": "names or titles"
+        "description": "email addresses"
     }
 ]

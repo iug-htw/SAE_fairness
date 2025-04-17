@@ -2,7 +2,7 @@
     {
         "index": "10605",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_10605.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_10605.json",
         "negative_strings": [
             " traumat",
             " prejud",
@@ -30,129 +30,99 @@
         "description": "references to age or age ranges in the context of individuals in a narrative"
     },
     {
-        "index": "6203",
+        "index": "23316",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_6203.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_23316.json",
         "negative_strings": [
-            " CLSID",
-            "illions",
-            "Tokens",
-            "459",
-            "]=",
-            "471",
-            "\ufffd",
-            "031",
-            "\ufffd",
-            "461"
+            "edIn",
+            " Leilan",
+            " Giul",
+            "Catal",
+            "arsity",
+            "331",
+            "\u30c6",
+            "ageddon",
+            " herself",
+            "553"
         ],
         "positive_strings": [
-            " mathemat",
-            " proble",
-            " unden",
-            " tremend",
+            "merce",
             "NetMessage",
-            " suspic",
-            "odes",
-            " nutrit",
-            " showc",
-            " confir"
-        ],
-        "description": "references to financial numbers or market trends"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "26955",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_26955.json",
-        "negative_strings": [
-            "FIX",
-            "Rated",
-            "Laughs",
-            "interstitial",
-            "Enabled",
-            "eatures",
-            "pite",
-            "sit",
-            " Mechdragon",
-            "\ufffd"
-        ],
-        "positive_strings": [
-            " Moreno",
-            "oro",
-            " Rothschild",
-            " keynote",
-            "ibrary",
-            "mary",
-            " Campbell",
-            " convinced",
-            " PSU",
-            "oyd"
-        ],
-        "description": " phrases related to competition or bidding processes"
-    },
-    {
-        "index": "10316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_10316.json",
-        "negative_strings": [
-            " trusts",
-            " assemblies",
-            " Contracts",
-            "ULTS",
-            " strikers",
-            " formations",
-            "events",
-            " Cups",
-            "stocks",
-            " interfaces"
-        ],
-        "positive_strings": [
-            "ocobo",
-            "emonic",
-            "ebin",
-            "assian",
-            "DragonMagazine",
             "ccording",
-            "abyte",
-            "urion",
-            "majority",
-            "ivist"
+            " tremend",
+            "cknowled",
+            "odes",
+            "pmwiki",
+            " stead",
+            "etheless",
+            "ramid"
         ],
-        "description": "phrases related to critique and questioning"
+        "description": "articles or narratives describing events or scenarios involving incidents and actions"
+    },
+    {
+        "index": "1326",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_1326.json",
+        "negative_strings": [
+            " Imag",
+            "=-=-=-=-",
+            "MSN",
+            " Mens",
+            " Mermaid",
+            " Parables",
+            "quet",
+            "Lens",
+            " Canaver",
+            " AVG"
+        ],
+        "positive_strings": [
+            " Cherokee",
+            "imester",
+            "ixties",
+            "quarters",
+            "assium",
+            "enium",
+            "mology",
+            "undreds",
+            "TPS",
+            "itage"
+        ],
+        "description": "mentions of political events and statistics"
+    },
+    {
+        "index": "4352",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_4352.json",
+        "negative_strings": [
+            " Niet",
+            "ONSORED",
+            "ingen",
+            "Hen",
+            "Administ",
+            "EFF",
+            "ATT",
+            "ARR",
+            "SON",
+            "ART"
+        ],
+        "positive_strings": [
+            " coh",
+            " tilt",
+            " spoiler",
+            " supers",
+            " packing",
+            " scares",
+            " negatives",
+            " knockout",
+            " braces",
+            " angles"
+        ],
+        "description": "terms related to geographical locations and regions"
     },
     {
         "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_5272.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_5272.json",
         "negative_strings": [
             "\ufffd",
             " \ufffd",
@@ -180,279 +150,189 @@
         "description": " references indicating the publication status of an article or story"
     },
     {
-        "index": "11097",
+        "index": "10680",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_11097.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_10680.json",
         "negative_strings": [
-            "etheless",
-            "mpeg",
-            "ritz",
-            "uddenly",
-            "bats",
-            "ngth",
-            "profits",
-            "severe",
-            "ierrez",
-            "rero"
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
         ],
         "positive_strings": [
-            "\u30bb",
-            "ECA",
-            " TRAN",
-            " shenan",
-            " Airbus",
-            " \u00d7",
-            " Craigslist",
-            " Niet",
-            " Disclosure",
-            "atform"
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
         ],
-        "description": " topics related to lists and reviews of various subjects"
+        "description": "technical terms related to electronics and hardware"
     },
     {
-        "index": "3884",
+        "index": "6946",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_3884.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_6946.json",
         "negative_strings": [
-            "Reviewer",
-            " Continued",
-            "\u7248",
-            "\u4ee3",
-            "Export",
-            "166",
-            "Magikarp",
-            "Rated",
-            "Cost",
-            "Reviewed"
-        ],
-        "positive_strings": [
-            "etheless",
-            "cipled",
-            " nodd",
-            " mathemat",
-            " gobl",
-            " suspic",
-            "omorphic",
-            " unden",
-            " mosqu",
-            " quir"
-        ],
-        "description": "the word \"mid\" or phrases related to the middle of a period or event"
-    },
-    {
-        "index": "14871",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_14871.json",
-        "negative_strings": [
-            "ngth",
-            "conservancy",
-            "urers",
-            "profits",
-            "bats",
-            "cles",
-            " faculties",
-            "wings",
-            "severe",
-            "owered"
-        ],
-        "positive_strings": [
-            "SourceFile",
-            " shenan",
-            "ECA",
-            " explan",
-            " understatement",
-            " millenn",
-            " toile",
-            " unpop",
-            " horm",
-            "\u30bb"
-        ],
-        "description": "important adjectives or descriptors that characterize significant concepts or entities"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
-            "\ufffd",
-            " foss",
-            " Quan"
-        ],
-        "description": "articles or text passages that are relevant or noteworthy"
-    },
-    {
-        "index": "10931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_10931.json",
-        "negative_strings": [
-            "gae",
-            "MpServer",
-            "BuyableInstoreAndOnline",
-            "utm",
-            "raph",
-            "rouch",
-            "CVE",
-            "ritional",
-            "gencies",
-            "iferation"
-        ],
-        "positive_strings": [
-            "ebin",
-            "\u30fc\u30f3",
-            "\u30a7",
-            "\ufffd\ufffd",
-            "vati",
-            " Samar",
-            "ocaust",
-            " undone",
-            "orate",
-            "\ufffd"
-        ],
-        "description": "references to occurrences in the past"
-    },
-    {
-        "index": "17922",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_17922.json",
-        "negative_strings": [
-            " lik",
-            "Reviewer",
-            "olving",
-            "tests",
-            "umbn",
-            " compared",
-            " fare",
-            " measures",
-            " convinc",
-            "astical"
-        ],
-        "positive_strings": [
-            "\u30a8\u30eb",
-            "thora",
-            "\ufffd\ufffd\ufffd",
-            "++;",
-            "Buyable",
-            "\u30c3",
-            " Allaah",
-            "AppData",
-            " ILCS",
-            "veyard"
-        ],
-        "description": "negative sentiments or phrases indicating disappointment"
-    },
-    {
-        "index": "14421",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_14421.json",
-        "negative_strings": [
-            "\u30a8\u30eb",
-            "queue",
-            "uin",
-            "ences",
             "rities",
-            "robe",
             "seys",
-            "cknow",
-            "dies",
-            "\ufffd\ufffd"
+            "ifferent",
+            "oes",
+            " warranties",
+            "quartered",
+            "alties",
+            "cry",
+            "heimer",
+            " carbohyd"
         ],
         "positive_strings": [
-            " Shib",
-            " Cornel",
-            "AAA",
-            " ALEC",
-            " Seat",
-            " unfolding",
-            " understatement",
-            " Orwell",
-            " Salmon",
-            " OW"
-        ],
-        "description": "phrases related to sequential occurrences or lists"
-    },
-    {
-        "index": "8429",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_8429.json",
-        "negative_strings": [
-            "cknow",
-            " Talks",
-            " roofs",
-            "\\<",
-            " vans",
-            "ouf",
-            "undreds",
-            "DERR",
-            "draft",
-            "umps"
-        ],
-        "positive_strings": [
-            " abundantly",
-            "!--",
             "ebin",
-            "illet",
-            " Posted",
-            " XD",
-            " \ufffd",
-            "mone",
-            "erala",
-            " Lifetime"
+            "eco",
+            " blat",
+            " LW",
+            " continuation",
+            "atform",
+            " BRE",
+            " Rebellion",
+            " Torrent",
+            "catentry"
         ],
-        "description": "details and discussions related to specific events, cases, or topics"
+        "description": "descriptive phrases that introduce subjects or items"
     },
     {
-        "index": "22750",
+        "index": "10983",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_22750.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_10983.json",
         "negative_strings": [
-            "anas",
-            "oan",
-            "nect",
-            "Method",
-            "Eastern",
-            "itual",
-            " Gord",
-            "lo",
-            "Keys",
-            "ilian"
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
         ],
         "positive_strings": [
-            "advertisement",
-            " Freed",
-            " Sawyer",
-            " updated",
-            "patrick",
-            "Spoiler",
-            "*/(",
-            " Subscribe",
-            "enhagen",
-            " sag"
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
         ],
-        "description": "political content and references to public figures in a critical context"
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "3178",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_3178.json",
+        "negative_strings": [
+            "aneers",
+            "ipeg",
+            "seys",
+            "plates",
+            "casters",
+            "oes",
+            "writers",
+            "builders",
+            "dies",
+            " Controls"
+        ],
+        "positive_strings": [
+            " Wik",
+            " Huck",
+            "entious",
+            " conjecture",
+            " proverb",
+            "anmar",
+            " Poe",
+            " Bulgar",
+            "gie",
+            " Hond"
+        ],
+        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
+    },
+    {
+        "index": "5792",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_5792.json",
+        "negative_strings": [
+            " Bonds",
+            "owicz",
+            " Wikipedia",
+            "Magikarp",
+            " Wik",
+            "rawdownloadcloneembedreportprint",
+            "zona",
+            " wik",
+            " Cipher",
+            " QR"
+        ],
+        "positive_strings": [
+            "imester",
+            "ixties",
+            "rounder",
+            "onal",
+            "rift",
+            "Indian",
+            "borough",
+            "retch",
+            "ctic",
+            "Pacific"
+        ],
+        "description": "dates and times in a specific format"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
     },
     {
         "index": "19236",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_19236.json",
         "negative_strings": [
             "iots",
             "arms",
@@ -480,63 +360,213 @@
         "description": "adjectives describing states or conditions"
     },
     {
-        "index": "2931",
+        "index": "6203",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_2931.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_6203.json",
         "negative_strings": [
-            "Benz",
-            "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
+            " CLSID",
+            "illions",
+            "Tokens",
+            "459",
+            "]=",
+            "471",
+            "\ufffd",
+            "031",
+            "\ufffd",
+            "461"
         ],
         "positive_strings": [
-            "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
+            " mathemat",
+            " proble",
+            " unden",
+            " tremend",
+            "NetMessage",
+            " suspic",
+            "odes",
+            " nutrit",
+            " showc",
+            " confir"
         ],
-        "description": "email subscription-related terms and commands"
+        "description": "references to financial numbers or market trends"
     },
     {
-        "index": "5981",
+        "index": "1314",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is a midwife/data_for_feature_5981.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_1314.json",
         "negative_strings": [
-            "anting",
-            "antes",
-            " diluted",
-            " squash",
-            "ilty",
-            "hammad",
-            " dissolve",
-            "PROV",
-            "undy",
-            " recycle"
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
         ],
         "positive_strings": [
-            "FAQ",
-            "IRC",
-            "estern",
-            "Mand",
-            "panic",
-            "laus",
-            "ebus",
-            "yss",
-            "ymm",
-            "DragonMagazine"
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
         ],
-        "description": "information related to time frames or dates"
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "1496",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_1496.json",
+        "negative_strings": [
+            "EStream",
+            "FML",
+            "awaru",
+            "\u314b",
+            "\ufffd\ufffd",
+            " prof",
+            " Pastebin",
+            " DRAG",
+            " SERV",
+            " penetrating"
+        ],
+        "positive_strings": [
+            "atten",
+            "oma",
+            "ica",
+            "iking",
+            "ationally",
+            "umeric",
+            "early",
+            "ichi",
+            "oha",
+            "acht"
+        ],
+        "description": "names of people"
+    },
+    {
+        "index": "18744",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
+    },
+    {
+        "index": "20826",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_20826.json",
+        "negative_strings": [
+            "Reviewed",
+            "repeat",
+            "masters",
+            "Repeat",
+            "opausal",
+            "eering",
+            "ulator",
+            "eters",
+            "roll",
+            "queue"
+        ],
+        "positive_strings": [
+            " pedestrian",
+            " deserts",
+            " Bil",
+            " abandoned",
+            " charred",
+            " landsl",
+            " debts",
+            " Seas",
+            " suicides",
+            "eatures"
+        ],
+        "description": "the word 'just' with a focus on variations and instances of the term"
+    },
+    {
+        "index": "8429",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is a midwife\\data_for_feature_8429.json",
+        "negative_strings": [
+            "cknow",
+            " Talks",
+            " roofs",
+            "\\<",
+            " vans",
+            "ouf",
+            "undreds",
+            "DERR",
+            "draft",
+            "umps"
+        ],
+        "positive_strings": [
+            " abundantly",
+            "!--",
+            "ebin",
+            "illet",
+            " Posted",
+            " XD",
+            " \ufffd",
+            "mone",
+            "erala",
+            " Lifetime"
+        ],
+        "description": "details and discussions related to specific events, cases, or topics"
     }
 ]

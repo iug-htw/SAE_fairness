@@ -1,98 +1,308 @@
 [
     {
-        "index": "16700",
+        "index": "5272",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_16700.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_5272.json",
         "negative_strings": [
-            " Mub",
-            "\u30fc\u30c6",
-            "esm",
-            "town",
-            " Iv",
-            " Jeb",
-            " BaseType",
-            " Accord",
-            " Mald",
-            "Lago"
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
         ],
         "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "10680",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_10680.json",
+        "negative_strings": [
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
             " skelet",
-            " enthusi",
-            " tremend",
-            " mathemat",
-            " misunder",
+            "haps",
+            " fundament"
+        ],
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "13935",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_13935.json",
+        "negative_strings": [
+            " Kits",
+            "Appearance",
+            "Lay",
+            "Gender",
+            " Facilities",
+            " Appropri",
+            " Monetary",
+            " Networks",
+            "RIP",
+            "Sounds"
+        ],
+        "positive_strings": [
+            "asin",
+            "opic",
+            "izont",
+            " myself",
+            " remem",
+            "ograp",
+            "andering",
+            "rals",
+            "ographically",
+            "ividual"
+        ],
+        "description": "words related to large, impressive or significant structures or objects"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
             "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "37369",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_37369.json",
+        "negative_strings": [
+            "sbm",
+            "bryce",
+            "ignty",
+            "inventoryQuantity",
+            "ometers",
+            " twe",
+            "modules",
+            "places",
+            " advertisers",
+            " cousins"
+        ],
+        "positive_strings": [
+            "EStream",
+            " Disclosure",
+            " Admission",
+            " Medal",
+            " Surviv",
+            " Republic",
+            "MT",
+            "Force",
+            " Force",
+            "Wire"
+        ],
+        "description": "references to specific individuals in the context of discussions or events"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
             " nutrit",
-            " suspic",
-            "ongyang",
+            " condem",
             " confir"
         ],
-        "description": "direct addressing of the reader or character"
+        "description": "phrases related to news articles and personal stories"
     },
     {
-        "index": "19236",
+        "index": "452",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_19236.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_452.json",
         "negative_strings": [
-            "iots",
-            "arms",
-            " administrations",
-            " wills",
-            " seize",
-            " clears",
-            "sheets",
-            "ipeg",
-            " Ukrain",
-            " heads"
+            "Availability",
+            "ENTION",
+            "Accessory",
+            "Valid",
+            "AIR",
+            "RET",
+            "Output",
+            " Pwr",
+            "\u30c6\u30a3",
+            "\ufffd"
         ],
         "positive_strings": [
-            "omorphic",
-            "IRED",
-            "ozyg",
-            " TBD",
-            "PLIED",
-            "Rated",
-            "ptin",
-            "ometimes",
-            " Eater",
-            "veland"
+            "onyms",
+            "geist",
+            "ogyn",
+            "opol",
+            "olit",
+            "nikov",
+            "qt",
+            "gger",
+            "utral",
+            "unes"
         ],
-        "description": "adjectives describing states or conditions"
+        "description": "proper nouns or names"
     },
     {
-        "index": "2087",
+        "index": "1314",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_2087.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_1314.json",
         "negative_strings": [
-            "town",
-            "utory",
-            "Discussion",
-            "Catal",
-            "lav",
-            "Reference",
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
             "arsity",
-            "foundland",
-            "ellation",
-            "Common"
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
         ],
         "positive_strings": [
-            "amins",
-            " tremend",
+            "lihood",
+            "NetMessage",
             " proble",
-            " nutrit",
-            "etheless",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
             "oreal",
-            " enthusi",
-            "\ufffd\ufffd\u6975",
-            " resil",
-            " neigh"
+            "vre",
+            "SourceFile"
         ],
-        "description": "personal pronouns followed by a verb related to interaction"
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "18744",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
     },
     {
         "index": "8429",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_8429.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_8429.json",
         "negative_strings": [
             "cknow",
             " Talks",
@@ -120,129 +330,99 @@
         "description": "details and discussions related to specific events, cases, or topics"
     },
     {
-        "index": "1943",
+        "index": "17486",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_1943.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_17486.json",
         "negative_strings": [
-            " Facilities",
-            " Partnership",
-            "CCC",
-            " exclusion",
-            " Regions",
-            " Hazard",
-            " Organizations",
-            " Manufact",
-            " Regulations",
-            " ESA"
+            "xual",
+            "cknow",
+            " suicidal",
+            "staking",
+            " mentally",
+            "vironment",
+            " desperate",
+            " critical",
+            " belief",
+            " offending"
         ],
         "positive_strings": [
-            " myself",
-            " :)",
-            "ifax",
-            "eday",
-            " blogging",
-            " ;)",
-            "estyles",
-            "edin",
-            " haha",
-            " rant"
-        ],
-        "description": "expressions of gratitude and appreciation"
-    },
-    {
-        "index": "20826",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_20826.json",
-        "negative_strings": [
-            "Reviewed",
-            "repeat",
-            "masters",
-            "Repeat",
-            "opausal",
-            "eering",
-            "ulator",
-            "eters",
-            "roll",
-            "queue"
-        ],
-        "positive_strings": [
-            " pedestrian",
-            " deserts",
-            " Bil",
-            " abandoned",
-            " charred",
-            " landsl",
-            " debts",
-            " Seas",
-            " suicides",
-            "eatures"
-        ],
-        "description": "the word 'just' with a focus on variations and instances of the term"
-    },
-    {
-        "index": "3178",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_3178.json",
-        "negative_strings": [
-            "aneers",
-            "ipeg",
-            "seys",
-            "plates",
-            "casters",
-            "oes",
-            "writers",
-            "builders",
-            "dies",
-            " Controls"
-        ],
-        "positive_strings": [
-            " Wik",
-            " Huck",
-            "entious",
-            " conjecture",
-            " proverb",
-            "anmar",
-            " Poe",
-            " Bulgar",
-            "gie",
-            " Hond"
-        ],
-        "description": "proper nouns and phrases related to politics, literature, and specific individuals"
-    },
-    {
-        "index": "1316",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_1316.json",
-        "negative_strings": [
-            "itialized",
-            "Bir",
-            "WIND",
-            "Ax",
-            "MON",
-            "Keys",
-            "yss",
-            "Ger",
-            " vans",
-            "Graphics"
-        ],
-        "positive_strings": [
-            "imaru",
-            "ebin",
-            "ppa",
-            "stress",
-            " abundantly",
-            "digy",
-            "enium",
+            "entric",
+            "ertodd",
+            "ensor",
+            "ite",
+            "uan",
+            "enz",
             "\ufffd",
-            " foss",
-            " Quan"
+            "olor",
+            "iton",
+            "ombat"
         ],
-        "description": "articles or text passages that are relevant or noteworthy"
+        "description": "Bitcoin related terms"
+    },
+    {
+        "index": "21052",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_21052.json",
+        "negative_strings": [
+            "inates",
+            " Archdemon",
+            "ourses",
+            " NCT",
+            "thur",
+            "steen",
+            " captcha",
+            "nings",
+            " Devi",
+            " Jenner"
+        ],
+        "positive_strings": [
+            " persuasion",
+            " contrace",
+            "aea",
+            "pta",
+            "ilo",
+            " conserve",
+            "udence",
+            " Levant",
+            "iani",
+            " gest"
+        ],
+        "description": "phrases that reference intentions and purposes related to bureaucratic or official contexts"
+    },
+    {
+        "index": "22221",
+        "layer": null,
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_22221.json",
+        "negative_strings": [
+            "FactoryReloaded",
+            " afterward",
+            "folios",
+            " afterwards",
+            " thous",
+            " Mub",
+            "\ufffd\u58eb",
+            "\u30fc\u30c6",
+            " wors",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "soDeliveryDate",
+            "NetMessage",
+            "lihood",
+            "taboola",
+            " FANTASY",
+            "ktop",
+            "enhagen",
+            " nutrit",
+            "aukee",
+            "itability"
+        ],
+        "description": "names or titles indicated by possessive form ('s)"
     },
     {
         "index": "17922",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_17922.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_17922.json",
         "negative_strings": [
             " lik",
             "Reviewer",
@@ -272,7 +452,7 @@
     {
         "index": "5981",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_5981.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_5981.json",
         "negative_strings": [
             "anting",
             "antes",
@@ -300,303 +480,63 @@
         "description": "information related to time frames or dates"
     },
     {
-        "index": "45751",
+        "index": "12368",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_45751.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_12368.json",
         "negative_strings": [
-            "ammers",
-            "uyomi",
-            " lied",
-            "rists",
-            " dodged",
-            " smiles",
-            "jac",
-            "riger",
-            "iddles",
-            "iencies"
+            "\u30fc\u30c6",
+            "331",
+            " ItemLevel",
+            " Sic",
+            " Cay",
+            "975",
+            "\u30c6",
+            "Lago",
+            "esm",
+            "561"
         ],
         "positive_strings": [
-            " exclus",
-            " roundup",
-            " Pwr",
-            " explor",
-            "\ufffd",
-            "RFC",
-            " visitation",
-            "Requ",
-            " royalty",
-            " heavyweight"
-        ],
-        "description": " phrases indicating sections or parts of a series"
-    },
-    {
-        "index": "35850",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_35850.json",
-        "negative_strings": [
-            " Examples",
-            "uilding",
-            "lished",
-            "lections",
-            "Downloadha",
-            "afety",
-            " Oops",
-            " Helpful",
-            "ritical",
-            " NCT"
-        ],
-        "positive_strings": [
-            "nox",
-            "amins",
-            "\ufffd\ufffd",
-            " Ragnarok",
-            "stad",
-            "\ufffd\ufffd",
-            " Diesel",
-            " Chaser",
-            "\ufffd",
-            "ifix"
-        ],
-        "description": " occurrences of the name \"Thor.\""
-    },
-    {
-        "index": "2931",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_2931.json",
-        "negative_strings": [
-            "Benz",
-            "arsity",
-            "ildo",
-            "town",
-            "emed",
-            "peg",
-            "acqu",
-            "Bull",
-            "Ec",
-            "armed"
-        ],
-        "positive_strings": [
-            "\ufffd\ufffd",
-            " snipp",
-            " \ufffd",
-            "prises",
-            "DragonMagazine",
-            " Submit",
-            "oresc",
-            " WATCHED",
-            " Logo",
-            " Emails"
-        ],
-        "description": "email subscription-related terms and commands"
-    },
-    {
-        "index": "12414",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_12414.json",
-        "negative_strings": [
-            " thereof",
-            " \u00ae",
-            "umers",
-            "Reviewed",
-            "itters",
-            " compan",
-            "Critics",
-            " thereto",
-            " audience",
-            "parency"
-        ],
-        "positive_strings": [
-            "isons",
-            " Rivera",
-            "chwitz",
-            " deserts",
-            "ISON",
-            "eatures",
-            " Cabrera",
-            "imaru",
-            " suicides",
-            " Alz"
-        ],
-        "description": "phrases related to pricing and financial transactions"
-    },
-    {
-        "index": "9480",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_9480.json",
-        "negative_strings": [
-            "inav",
-            "assets",
-            " KP",
-            "ariat",
-            " unden",
-            "Loading",
-            " malls",
-            "\ufffd\u9192",
-            "Recommend",
-            "Inf"
-        ],
-        "positive_strings": [
-            "nyder",
-            "claw",
-            " Heard",
-            "seless",
-            "berus",
-            "zech",
-            "pelling",
-            " faint",
-            " ejected",
-            "ight"
-        ],
-        "description": "references to teamwork, support, and relationships within a group"
-    },
-    {
-        "index": "5272",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_5272.json",
-        "negative_strings": [
-            "\ufffd",
-            " \ufffd",
-            " \ufffd",
-            "___",
-            " \u2014",
-            " -",
-            "\ufffd",
-            "?:",
-            "\u0336",
-            "\ufffd"
-        ],
-        "positive_strings": [
-            "senal",
-            " carbohyd",
-            "ikuman",
-            "dayName",
-            "20439",
-            "theless",
-            "\ufffd\ufffd",
-            "riched",
+            "merce",
+            "odes",
             "etheless",
-            "inventoryQuantity"
-        ],
-        "description": " references indicating the publication status of an article or story"
-    },
-    {
-        "index": "11815",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_11815.json",
-        "negative_strings": [
-            "itect",
-            "udo",
-            ")=",
-            " impe",
-            " interpret",
-            "ilogy",
-            "ASED",
-            "erest",
-            ")|",
-            "TPP"
-        ],
-        "positive_strings": [
-            "uyomi",
-            "afety",
-            " woes",
-            "ente",
-            " sprawling",
-            "tags",
-            " mats",
-            " tranqu",
-            " tranquil",
-            " muddy"
-        ],
-        "description": "proper nouns or possessives"
-    },
-    {
-        "index": "5722",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_5722.json",
-        "negative_strings": [
-            " challeng",
-            "artifacts",
-            " neighb",
-            " predec",
-            "ruary",
-            "pection",
-            "Interstitial",
-            " fundament",
-            " seiz",
-            " detrim"
-        ],
-        "positive_strings": [
-            " Written",
-            "o\u011fan",
-            "actionDate",
-            "Merit",
-            " \u203a",
-            " Posted",
-            " Related",
-            "ICE",
-            "annabin",
-            "Buy"
-        ],
-        "description": "personal pronouns followed by verbs expressing actions or implied actions"
-    },
-    {
-        "index": "1314",
-        "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_1314.json",
-        "negative_strings": [
-            " CLSID",
-            "FactoryReloaded",
-            "\ufffd\u58eb",
-            "arsity",
-            "Catal",
-            "\ufffd\ufffd",
-            " BaseType",
-            " built",
-            "}.",
-            "town"
-        ],
-        "positive_strings": [
-            "lihood",
+            " tremend",
+            " misunder",
             "NetMessage",
-            " proble",
-            "terday",
-            "VIDIA",
-            "aying",
-            "andem",
-            "oreal",
-            "vre",
-            "SourceFile"
+            "etsk",
+            "\ufffd\ufffd",
+            " suspic",
+            "raviolet"
         ],
-        "description": "numeric values or hexadecimal codes"
+        "description": "mentions of timeframes, such as months or years"
     },
     {
-        "index": "5674",
+        "index": "16700",
         "layer": null,
-        "url": "json5/gpt2-small/att-kk/This is mecca/data_for_feature_5674.json",
+        "url": "json5\\gpt2-small\\att-kk\\This is mecca\\data_for_feature_16700.json",
         "negative_strings": [
-            " exting",
-            "etheless",
-            "omorphic",
-            " agre",
-            " lifes",
-            "\ufffd\ufffd",
-            " mosqu",
-            "osaurs",
-            " undet",
-            "byss"
+            " Mub",
+            "\u30fc\u30c6",
+            "esm",
+            "town",
+            " Iv",
+            " Jeb",
+            " BaseType",
+            " Accord",
+            " Mald",
+            "Lago"
         ],
         "positive_strings": [
-            " Continued",
-            "shall",
-            "Article",
-            "Companies",
-            "DIS",
-            "Interest",
-            "Then",
-            "Temperature",
-            "gow",
-            "No"
+            " skelet",
+            " enthusi",
+            " tremend",
+            " mathemat",
+            " misunder",
+            "NetMessage",
+            " nutrit",
+            " suspic",
+            "ongyang",
+            " confir"
         ],
-        "description": "quotes indicated by quotation marks"
+        "description": "direct addressing of the reader or character"
     }
 ]

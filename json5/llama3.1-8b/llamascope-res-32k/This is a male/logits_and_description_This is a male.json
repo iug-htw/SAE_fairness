@@ -1,8 +1,98 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
         "index": "9599",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_9599.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_9599.json",
         "negative_strings": [
             " guys",
             " Guys",
@@ -30,9 +120,99 @@
         "description": " references to gender, particularly focusing on male identities and issues related to masculinity"
     },
     {
+        "index": "28950",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
         "index": "7580",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_7580.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_7580.json",
         "negative_strings": [
             " guys",
             " Guys",
@@ -60,9 +240,39 @@
         "description": " terms related to gender, particularly focusing on males and male dominance"
     },
     {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
         "index": "12831",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_12831.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_12831.json",
         "negative_strings": [
             " guys",
             " boys",
@@ -90,243 +300,33 @@
         "description": "references to male individuals and male dominance in various contexts"
     },
     {
-        "index": "6476",
+        "index": "5798",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_6476.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a male\\data_for_feature_5798.json",
         "negative_strings": [
-            " guys",
-            " Guys",
-            " boys",
-            " Sisters",
-            " Boys",
-            "ners",
-            " men",
-            " males",
-            "sel",
-            "dh"
-        ],
-        "positive_strings": [
-            "volent",
-            "fic",
-            "factor",
-            "-dominated",
-            "/f",
-            "uada",
-            "vol",
-            " bonding",
-            "faction",
-            "strom"
-        ],
-        "description": " references to male individuals and their characteristics"
-    },
-    {
-        "index": "30619",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_30619.json",
-        "negative_strings": [
-            "ners",
-            " guys",
-            " boys",
-            " Guys",
-            "acles",
-            "ning",
-            " Sisters",
-            " men",
-            "nic",
-            "sel"
-        ],
-        "positive_strings": [
-            "volent",
-            "fic",
-            "-dominated",
-            "factor",
-            "/f",
-            "faction",
-            "uada",
-            "vol",
-            " bonding",
-            "strom"
-        ],
-        "description": "references to male individuals and concepts related to gender"
-    },
-    {
-        "index": "28903",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_28903.json",
-        "negative_strings": [
-            "ners",
-            " guys",
-            " Guys",
-            "sel",
-            "dh",
-            " Sisters",
-            "n",
-            "oui",
-            " boys",
-            "dale"
-        ],
-        "positive_strings": [
-            "volent",
-            "fic",
-            "-dominated",
-            "factor",
-            "/f",
-            "mploy",
-            "cot",
-            "faction",
-            "uada",
-            " bonding"
-        ],
-        "description": "references to male individuals and discussions surrounding gender"
-    },
-    {
-        "index": "30186",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_30186.json",
-        "negative_strings": [
-            "ners",
-            "dh",
-            "n",
-            "sel",
-            "iam",
-            "iel",
-            "oui",
-            "ally",
-            "dale",
-            "ian"
-        ],
-        "positive_strings": [
-            "volent",
-            "fic",
-            "-dominated",
-            "factor",
-            "/f",
-            "faction",
-            "strom",
-            "uada",
-            "cot",
-            "mploy"
-        ],
-        "description": "references to male entities or masculinity"
-    },
-    {
-        "index": "15051",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_15051.json",
-        "negative_strings": [
-            "ners",
-            " men",
-            "iam",
-            "n",
-            "ally",
-            "dh",
-            "poon",
-            "ims",
-            "ian",
-            "ni"
-        ],
-        "positive_strings": [
-            "volent",
-            "fic",
-            "cot",
-            "/f",
-            " gender",
-            "faction",
-            "factor",
-            "uada",
-            "-dominated",
-            "\u00e5\u012a\u00a5"
-        ],
-        "description": "references to gender, specifically related to male characters and their roles in various contexts"
-    },
-    {
-        "index": "3850",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_3850.json",
-        "negative_strings": [
-            " lizard",
-            "\u00e5\u0127\u00bd",
-            " rept",
-            " ducks",
-            "rab",
-            " birds",
-            " \u00d0\u00b7\u00d0\u00b2\u00d0\u00b5\u00d1\u0122",
-            " Rabbit",
-            " Rab",
-            " kenn"
-        ],
-        "positive_strings": [
-            " Giant",
-            " Common",
-            "Helmet",
-            " Helmet",
-            "\u00e3\u0125\u00aa\u00e3\u0125\u00b3\u00e3\u0124\u00b0",
-            " Prev",
-            "Prev",
-            "masked",
-            "logger",
-            " Eastern"
-        ],
-        "description": " mentions of animals and conservation efforts"
-    },
-    {
-        "index": "32705",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_32705.json",
-        "negative_strings": [
-            ".overflow",
-            "\u00d8\u00a8\u00d8\u00a7\u00d8\u00b2",
-            "\u00d8\u00a7\u00d9\u0126\u00d8\u00a5\u00d9\u0128\u00d8\u00ac\u00d9\u0126\u00d9\u012c\u00d8\u00b2\u00d9\u012c\u00d8\u00a9",
-            "\u00d0\u00bb\u00d1\u0130\u00d1\u0129\u00d0\u00b0",
-            "stants",
-            " entreprene",
-            " culp",
-            "\u00ed\u0126\u00b0",
-            " disag",
-            " borderSide"
-        ],
-        "positive_strings": [
-            " sterling",
-            "fiction",
-            " womens",
-            " serif",
-            " pendant",
-            " GeForce",
-            " mens",
-            " perg",
-            " uphol",
-            " Pendant"
-        ],
-        "description": "descriptive phrases associated with product quality and variety"
-    },
-    {
-        "index": "32654",
-        "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is a male/data_for_feature_32654.json",
-        "negative_strings": [
-            "(es",
-            "gaard",
-            "genesis",
-            " DAG",
-            "gang",
-            "\u00c3\u00abn",
-            "er",
-            "enticate",
-            "lef",
-            "taire"
-        ],
-        "positive_strings": [
             "opause",
-            "folk",
-            "aced",
-            "aces",
-            "/w",
-            " who",
-            "fol",
-            " folk",
-            "ial",
-            "iscal"
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
         ],
-        "description": "references to men and masculinity"
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
     }
 ]

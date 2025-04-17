@@ -1,68 +1,38 @@
 [
     {
-        "index": "6002",
+        "index": "20701",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_6002.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_20701.json",
         "negative_strings": [
-            "nai",
-            "geons",
-            "lift",
-            "nor",
-            " guiIcon",
-            "ForgeModLoader",
-            " Contrast",
-            "pta",
-            "bal",
-            "furt"
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
         ],
         "positive_strings": [
-            " downhill",
-            "uring",
-            "uding",
-            "usion",
-            " gravy",
-            " sunshine",
-            " conjecture",
-            " ABOUT",
-            "ayed",
-            " encomp"
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
         ],
-        "description": "phrases related to things being in a specific state or location"
-    },
-    {
-        "index": "2458",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_2458.json",
-        "negative_strings": [
-            "lav",
-            " Kamp",
-            "IDS",
-            "edin",
-            "fman",
-            "grad",
-            "abwe",
-            "aminer",
-            "zag",
-            "nom"
-        ],
-        "positive_strings": [
-            "ocating",
-            "igator",
-            " sorts",
-            " kinds",
-            "iances",
-            "igators",
-            "owing",
-            "ocate",
-            "iance",
-            "uding"
-        ],
-        "description": "phrases related to all or universal concepts"
+        "description": "specific mention of dates, years, or events in a text"
     },
     {
         "index": "19540",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_19540.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_19540.json",
         "negative_strings": [
             "ses",
             "anguages",
@@ -90,69 +60,129 @@
         "description": "the word \"is\" at a high activation level"
     },
     {
-        "index": "19832",
+        "index": "6002",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_19832.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_6002.json",
         "negative_strings": [
-            "itiz",
-            " respons",
-            " thereafter",
-            " thereof",
-            " accordingly",
-            "\u00e2\u0138\u00ba",
-            " outwe",
-            " thereto",
-            " moreover",
-            "?,"
+            "nai",
+            "geons",
+            "lift",
+            "nor",
+            " guiIcon",
+            "ForgeModLoader",
+            " Contrast",
+            "pta",
+            "bal",
+            "furt"
         ],
         "positive_strings": [
-            "reetings",
-            "anmar",
-            " SHARES",
-            "zbollah",
-            "stanbul",
-            "avascript",
-            " Vegan",
-            " Updated",
-            " Introduction",
-            "o\u00c4\u0141an"
+            " downhill",
+            "uring",
+            "uding",
+            "usion",
+            " gravy",
+            " sunshine",
+            " conjecture",
+            " ABOUT",
+            "ayed",
+            " encomp"
         ],
-        "description": "phrases indicating the beginning of a story or anecdote"
+        "description": "phrases related to things being in a specific state or location"
     },
     {
-        "index": "7040",
+        "index": "13838",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_7040.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_13838.json",
         "negative_strings": [
-            "Shape",
-            "Iv",
-            " looms",
-            "conn",
-            "ahu",
-            "eness",
-            " jaws",
-            "ibles",
-            "burgh",
-            "Bir"
+            " alike",
+            " treat",
+            " juices",
+            " arts",
+            " rule",
+            " Rica",
+            " attention",
+            " JUSTICE",
+            " fill",
+            " balance"
         ],
         "positive_strings": [
-            " copyrighted",
-            " reprinted",
-            " deprecated",
-            " archived",
-            " sponsored",
-            " adapted",
-            " excerpt",
-            " outdated",
-            " incomplete",
-            " reproduced"
+            "awks",
+            "awk",
+            "olics",
+            "renheit",
+            "olic",
+            "ouston",
+            "ouse",
+            "uman",
+            "atche",
+            "annah"
         ],
-        "description": "time-related information such as age or duration"
+        "description": "phrases related to kitchen knives and their quality"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "9314",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_9314.json",
+        "negative_strings": [
+            " insured",
+            " fict",
+            " paycheck",
+            " fixation",
+            " advoc",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " totality",
+            " gobl",
+            " nomine",
+            " ubiquitous"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "awks",
+            "aha",
+            "olics",
+            "onda",
+            "ttp",
+            "oe",
+            "aban",
+            "ghan"
+        ],
+        "description": "the word \"ah\" with variations in intensity"
     },
     {
         "index": "21800",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_21800.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_21800.json",
         "negative_strings": [
             " eleph",
             " hub",
@@ -180,99 +210,129 @@
         "description": "phrases related to specific names or entities, potentially as part of a larger context"
     },
     {
-        "index": "16790",
+        "index": "23303",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_16790.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_23303.json",
         "negative_strings": [
-            " vulner",
-            " Seym",
-            " destro",
-            " challeng",
-            " Vaugh",
-            " helicop",
-            " withd",
+            " fict",
+            " insured",
+            " totality",
+            " tremend",
+            " secretaries",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " insepar",
             " advoc",
-            " cryst",
-            " Azerb"
+            " ubiquitous",
+            " notor"
         ],
         "positive_strings": [
-            "':",
-            "erity",
-            "\\\":",
-            "ndra",
-            "ihad",
-            "hat",
-            "cigarettes",
-            "\u0124\u0130",
-            "\u0124\u00aa",
-            "ctive"
+            "renheit",
+            "awk",
+            "ttp",
+            "awks",
+            "ah",
+            "aha",
+            "tml",
+            "onda",
+            "olics",
+            "ghan"
         ],
-        "description": "temporal references or time-related phrases"
+        "description": "words related to a specific individual named \"Shah\" or \"Shahid.\""
     },
     {
-        "index": "5048",
+        "index": "7040",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_5048.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_7040.json",
         "negative_strings": [
-            " headaches",
-            "CG",
-            " wiser",
-            " headache",
-            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
-            " traged",
-            " indign",
-            "Tokens",
-            "quez",
-            "ONSORED"
-        ],
-        "positive_strings": [
-            " deprecated",
-            " Mahjong",
-            "ittens",
-            " archived",
-            "recated",
-            " \u00e2\u013f",
-            "official",
-            " Vegan",
-            " sponsored",
-            " Tutorial"
-        ],
-        "description": "short introductory phrases starting with \"This is\" or similar constructions signaling the beginning of an explanation or description"
-    },
-    {
-        "index": "6696",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_6696.json",
-        "negative_strings": [
-            "iddler",
-            "cling",
-            "\u00bb\u0134",
-            "dor",
-            "SPONSORED",
-            " Chal",
-            "trap",
-            "vati",
-            "luaj",
-            "Secretary"
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
         ],
         "positive_strings": [
             " copyrighted",
-            " assumes",
-            " tentative",
-            " approximate",
-            " unofficial",
-            " Actual",
-            " subjective",
-            " provisional",
-            " NOT",
-            "claimer"
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
         ],
-        "description": "disclaimers and notes about content reliability"
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "2458",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_2458.json",
+        "negative_strings": [
+            "lav",
+            " Kamp",
+            "IDS",
+            "edin",
+            "fman",
+            "grad",
+            "abwe",
+            "aminer",
+            "zag",
+            "nom"
+        ],
+        "positive_strings": [
+            "ocating",
+            "igator",
+            " sorts",
+            " kinds",
+            "iances",
+            "igators",
+            "owing",
+            "ocate",
+            "iance",
+            "uding"
+        ],
+        "description": "phrases related to all or universal concepts"
     },
     {
         "index": "18025",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_18025.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_18025.json",
         "negative_strings": [
             "enaries",
             "sburg",
@@ -300,93 +360,213 @@
         "description": "words related to policies and regulations"
     },
     {
-        "index": "714",
+        "index": "24566",
         "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_714.json",
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_24566.json",
         "negative_strings": [
-            " thereafter",
-            " thereof",
-            " respons",
-            "pled",
-            " versa",
-            "_.",
-            " outwe",
-            " comprom",
-            " thereto",
-            " afterward"
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
         ],
         "positive_strings": [
-            " Expand",
-            " Introduction",
-            " Vegan",
-            " SHARES",
-            " Summary",
-            " Calculator",
-            " Transcript",
-            " Answer",
-            " Definition",
-            " Finder"
-        ],
-        "description": "dates or months mentioned within texts"
-    },
-    {
-        "index": "9810",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_9810.json",
-        "negative_strings": [
-            " thereof",
-            "_.",
-            " challeng",
-            " thereafter",
-            " assum",
-            "sic",
-            "jri",
-            "theless",
-            "pled",
-            " comprom"
-        ],
-        "positive_strings": [
-            " Vegan",
-            " Expand",
-            " Transcript",
-            " Updated",
-            " \u00e2\u0122\u00ba",
-            " Calculator",
-            "o\u00c4\u0141an",
-            " Transgender",
-            " SHARES",
-            " Ranked"
-        ],
-        "description": "introductory phrases"
-    },
-    {
-        "index": "7475",
-        "layer": null,
-        "url": "json5/gpt2-small/res-jb/This is allah/data_for_feature_7475.json",
-        "negative_strings": [
-            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
-            "roman",
-            " hawk",
-            " eater",
-            "azard",
-            "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
-            " Turns",
-            " curves",
-            "pret",
-            " diagrams"
-        ],
-        "positive_strings": [
-            " unacceptable",
-            " intolerable",
-            " imperative",
-            " uncons",
+            "rael",
+            "nt",
+            "cussion",
             " hereby",
-            " shameful",
-            " paramount",
-            " undeniable",
-            " outrageous",
-            "repre"
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
         ],
-        "description": "phrases indicating a strong opinion or call to action"
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
+        "index": "2271",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_2271.json",
+        "negative_strings": [
+            "inav",
+            "ership",
+            "edIn",
+            "regate",
+            "=-=-=-=-",
+            "iture",
+            "phabet",
+            "sburg",
+            "itiveness",
+            "eor"
+        ],
+        "positive_strings": [
+            " aware",
+            " able",
+            " complicit",
+            " addicted",
+            " unable",
+            " afraid",
+            " obligated",
+            " disqualified",
+            " incapable",
+            " circumcised"
+        ],
+        "description": "past tense verbs"
+    },
+    {
+        "index": "13798",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_13798.json",
+        "negative_strings": [
+            "ornia",
+            "Interstitial",
+            "ilaterally",
+            "emale",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "pheus",
+            " Moroc",
+            " horizont",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128",
+            " tradem"
+        ],
+        "positive_strings": [
+            " Flavoring",
+            " Coverage",
+            " Mant",
+            " Psy",
+            "Interested",
+            " Mars",
+            "BILITIES",
+            " GOODMAN",
+            "ANS",
+            " Entered"
+        ],
+        "description": "words related to specific entities such as places, people, and organizations"
+    },
+    {
+        "index": "7731",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_7731.json",
+        "negative_strings": [
+            "*/",
+            "inventoryQuantity",
+            "Others",
+            "forts",
+            " PLUS",
+            "abal",
+            "&&",
+            " discounts",
+            "../",
+            "Cause"
+        ],
+        "positive_strings": [
+            " comprised",
+            " an",
+            " rated",
+            " pleased",
+            " a",
+            " another",
+            " composed",
+            " billed",
+            " located",
+            "ometric"
+        ],
+        "description": "phrases related to specific organizations or projects"
+    },
+    {
+        "index": "8075",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_8075.json",
+        "negative_strings": [
+            "lining",
+            " First",
+            "REC",
+            "usercontent",
+            " track",
+            " mete",
+            " negotiators",
+            "starter",
+            " Snap",
+            " Track"
+        ],
+        "positive_strings": [
+            " Pradesh",
+            "sembly",
+            "ilk",
+            "orage",
+            "wered",
+            "ibo",
+            "otropic",
+            "agine",
+            "ModLoader",
+            "thia"
+        ],
+        "description": "words related to fashion and physical appearance"
+    },
+    {
+        "index": "16348",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\This is allah\\data_for_feature_16348.json",
+        "negative_strings": [
+            "adle",
+            "pots",
+            "masters",
+            "aments",
+            "\u00e3\u0124\u00b9\u00e3\u0125\u012a",
+            " Flores",
+            "\u00e3\u0125\u013a",
+            "aws",
+            "tones",
+            "pless"
+        ],
+        "positive_strings": [
+            "information",
+            " Week",
+            " week",
+            " arrang",
+            " Month",
+            " trope",
+            "jri",
+            "Adds",
+            " latest",
+            "Information"
+        ],
+        "description": "introductory phrases indicating the beginning of an article or story"
     }
 ]

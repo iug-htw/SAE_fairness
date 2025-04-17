@@ -1,8 +1,38 @@
 [
     {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
         "index": "18701",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is islam/data_for_feature_18701.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_18701.json",
         "negative_strings": [
             "soever",
             " therein",
@@ -30,39 +60,129 @@
         "description": "sentences that contain the verb \"is.\""
     },
     {
-        "index": "12191",
+        "index": "12648",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is islam/data_for_feature_12191.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_12648.json",
         "negative_strings": [
-            "town",
-            "thought",
-            "the",
-            "t\u00c3\u0143",
-            "tail",
-            "ting",
-            "tach",
-            "stood",
-            "thed",
-            "ulls"
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
         ],
         "positive_strings": [
-            "abelle",
-            "abella",
-            "ometric",
-            "olation",
-            "omorphic",
-            "olated",
-            "otope",
-            "rael",
-            " it",
-            "abel"
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
         ],
-        "description": "questions and statements that include the word \"is.\""
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "27048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_27048.json",
+        "negative_strings": [
+            " Woodward",
+            "lys",
+            "\u00d0\u00b5\u00d0\u00ba\u00d0\u00b0\u00d1\u0122",
+            "uler",
+            "aste",
+            "ading",
+            " immortal",
+            " mas",
+            "oma",
+            "aken"
+        ],
+        "positive_strings": [
+            " course",
+            " article",
+            " tuto",
+            " page",
+            " chapter",
+            " posting",
+            " weeks",
+            " episode",
+            " project",
+            " week"
+        ],
+        "description": "the word \"This\" at the beginning of sentences or phrases"
     },
     {
         "index": "5798",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is islam/data_for_feature_5798.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_5798.json",
         "negative_strings": [
             "opause",
             "soever",
@@ -90,63 +210,123 @@
         "description": "affirmative statements or declarations"
     },
     {
-        "index": "28356",
+        "index": "12191",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is islam/data_for_feature_28356.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_12191.json",
         "negative_strings": [
-            "istrovstv\u00c3\u0143",
-            "\u00e4\u00bb\u0136",
-            " knull",
-            "LLU",
-            "\u00ec\u00b6\u013e",
-            " putas",
-            "ignant",
-            "RITE",
-            "coon",
-            "dont"
+            "town",
+            "thought",
+            "the",
+            "t\u00c3\u0143",
+            "tail",
+            "ting",
+            "tach",
+            "stood",
+            "thed",
+            "ulls"
         ],
         "positive_strings": [
-            " SUCH",
-            " such",
-            " my",
-            " kind",
-            " sort",
-            " SO",
-            " honestly",
-            "such",
-            " kinda",
-            " Such"
+            "abelle",
+            "abella",
+            "ometric",
+            "olation",
+            "omorphic",
+            "olated",
+            "otope",
+            "rael",
+            " it",
+            "abel"
         ],
-        "description": " expressions of appreciation and personal experiences related to helpfulness and enjoyment"
+        "description": "questions and statements that include the word \"is.\""
     },
     {
-        "index": "26551",
+        "index": "2348",
         "layer": null,
-        "url": "json5/llama3.1-8b/llamascope-res-32k/This is islam/data_for_feature_26551.json",
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_2348.json",
         "negative_strings": [
-            "\u00e2\u0136\u0136",
-            " also",
-            " counterparts",
-            " \u00ec\u013f\u00bc\u00eb\u00b6\u0122",
-            "also",
-            "\u00e4\u00b9\u0141\u00e6\u013e\u012b",
-            " halves",
-            "achie",
-            "-lfs",
-            "_verbose"
+            "RTOS",
+            "USIC",
+            "yonel",
+            "iale",
+            " Isaiah",
+            "uries",
+            "Iso",
+            "inel",
+            " Islam",
+            "eln"
         ],
         "positive_strings": [
-            " een",
-            " BACK",
-            " back",
-            " Back",
-            " pleased",
-            " Coming",
-            " Newest",
-            "Back",
-            " delighted",
-            " mijn"
+            " fundamental",
+            "-major",
+            "-Christian",
+            " Fundamental",
+            "ate",
+            " extremism",
+            " Ext",
+            "aph",
+            " cler",
+            " Brotherhood"
         ],
-        "description": "instances of the verb \"is\" in various contexts"
+        "description": "mentions of Islamic identity, beliefs, and related topics"
+    },
+    {
+        "index": "19325",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_19325.json",
+        "negative_strings": [
+            "rei",
+            "\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            "odos",
+            "rait",
+            "urement",
+            "-Agent",
+            " actionTypes",
+            "agara",
+            "edom",
+            "_RESOLUTION"
+        ],
+        "positive_strings": [
+            "handlers",
+            " Part",
+            "\u00e3\u0125\u013b\u00e3\u0125\u00ab",
+            "Pt",
+            "icator",
+            "Vue",
+            "anki",
+            "\u00e0\u00b8\u00aa\u00e0\u00b8\u00b2\u00e0\u00b8\u00a3",
+            "veau",
+            "\u00eb\u00b3\u00b5"
+        ],
+        "description": "phrases indicating a definition or description of something"
+    },
+    {
+        "index": "6154",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is islam\\data_for_feature_6154.json",
+        "negative_strings": [
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
+        ],
+        "positive_strings": [
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
+            "/her",
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
+        ],
+        "description": " references to specific moments or elements that evoke emotion or significance"
     }
 ]
