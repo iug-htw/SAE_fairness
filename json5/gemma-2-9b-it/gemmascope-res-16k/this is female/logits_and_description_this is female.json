@@ -2,7 +2,7 @@
     {
         "index": "4077",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_4077.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_4077.json",
         "negative_strings": [
             "epar",
             "SourceChecksum",
@@ -30,9 +30,39 @@
         "description": "references to male and female distinctions or characteristics"
     },
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
         "index": "11097",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_11097.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_11097.json",
         "negative_strings": [
             "\u304f\u3093\u306e",
             "\u304f\u3093",
@@ -60,9 +90,249 @@
         "description": "references to women or women's issues"
     },
     {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "1298",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_1298.json",
+        "negative_strings": [
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
+        ],
+        "positive_strings": [
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
+        ],
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
+        "index": "1560",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_1560.json",
+        "negative_strings": [
+            "\u2581parezca",
+            "\u2581generally",
+            "Qui\u00e9n",
+            "\u2581directly",
+            "\u2581greatly",
+            "\u2581berechtigt",
+            "\u2581looking",
+            "\u2581totally",
+            "\u2581d\u00f3nde",
+            "enti\u00e8re"
+        ],
+        "positive_strings": [
+            "\u2581defaultstate",
+            "OGND",
+            "########.",
+            "\u2581CreateTagHelper",
+            "Diwedd",
+            "ViewImports",
+            "aarrggbb",
+            "rungsseite",
+            "\u2581inform\u00e9e",
+            "\u2581Administrativna"
+        ],
+        "description": " mentions of programming packages and classes"
+    },
+    {
         "index": "16085",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_16085.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_16085.json",
         "negative_strings": [
             "\u2581resoluci\u00f3n",
             "URLConnection",
@@ -90,9 +360,39 @@
         "description": "references to gender and sex differences"
     },
     {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
         "index": "3884",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_3884.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\this is female\\data_for_feature_3884.json",
         "negative_strings": [
             "pidou",
             "\u2581\u017find",
@@ -118,215 +418,5 @@
             "FEMALE"
         ],
         "description": "references to gender, particularly relating to females"
-    },
-    {
-        "index": "11335",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_11335.json",
-        "negative_strings": [
-            "verifyException",
-            "\u044f\u0431\u0440\u0435",
-            "peutic",
-            "\u2581utafitiHapana",
-            "\u2581prote\u00e7\u00e3o",
-            "\u51fa\u7248\u5e74",
-            "\u0f91",
-            "\u2581tur\u00edstica",
-            "ulism",
-            "\u2581NavController"
-        ],
-        "positive_strings": [
-            "\u2581gender",
-            "\u2581male",
-            "\u2581female",
-            "\u2581Gender",
-            "Gender",
-            "\u2581Female",
-            "gender",
-            "\u2581Male",
-            "Male",
-            "Female"
-        ],
-        "description": " references to gender and sex classifications"
-    },
-    {
-        "index": "1183",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_1183.json",
-        "negative_strings": [
-            "\u2581[",
-            "des",
-            "\u2581Sanford",
-            "\u2581Sykes",
-            "roy",
-            "\u2581Peralta",
-            "\u2581Coronation",
-            "\u2581Stark",
-            "\u2581Smy",
-            "\u2581DES"
-        ],
-        "positive_strings": [
-            "Woman",
-            "\u2581Woman",
-            "\u2581woman",
-            "\u2581WOMAN",
-            "Women",
-            "\u2581women",
-            "\u2581Women",
-            "WOMAN",
-            "WOMEN",
-            "women"
-        ],
-        "description": "references to women and their experiences or empowerment"
-    },
-    {
-        "index": "14467",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_14467.json",
-        "negative_strings": [
-            "\u2581amanh\u00e3",
-            "\u2581Umfang",
-            "\u2581vermelha",
-            "\u2581afgelopen",
-            "\u2581ocasi\u00e3o",
-            "\u2581pedras",
-            "\u2581sch\u00f6nes",
-            "\u2581compl\u00e8tes",
-            "\u2581princ\u00edpio",
-            "\u2581conocido"
-        ],
-        "positive_strings": [
-            "\u2581interviews",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "Autoritn\u00ed",
-            "bootstrapcdn",
-            "\u2581satisfaction",
-            "\u2581ddelweddau",
-            "\u2581empowerment",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581profiles",
-            "\u2581Interviews"
-        ],
-        "description": "references to various roles within a company or organization, particularly focusing on employees, customers, and leadership positions"
-    },
-    {
-        "index": "4897",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_4897.json",
-        "negative_strings": [
-            "TagMode",
-            "\u00f3wno",
-            "\u2581\u0441\u0432\u043e\u0439",
-            "Trama",
-            "labus",
-            "\u2581raised",
-            "verst\u00e4ndlich",
-            "OrderService",
-            "\u304c\u308a",
-            "raise"
-        ],
-        "positive_strings": [
-            "\u2581FetchType",
-            "\u2581\u30d5\u30a7",
-            "\u2581Fe",
-            "rungsseite",
-            "\u2581F\u00e9",
-            "\u2581Fet",
-            "\u2581ligiloj",
-            "Datuak",
-            "\u2581Fey",
-            "\u0424\u0435"
-        ],
-        "description": "references to iron-related factors and their effects"
-    },
-    {
-        "index": "2647",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_2647.json",
-        "negative_strings": [
-            "nya",
-            "ness",
-            "\u305f\u3081\u306e",
-            "sion",
-            "\u305f\u3081",
-            "rij",
-            "\u3057\u307e\u3063\u305f",
-            "sodium",
-            "\u306a\u3044",
-            "straat"
-        ],
-        "positive_strings": [
-            "e",
-            "\u0654",
-            "ede",
-            "eee",
-            "eeee",
-            "eva",
-            "\u0e49",
-            "\u3047",
-            "ete",
-            "esha"
-        ],
-        "description": " references to specific names and terms related to individuals and organizations"
-    },
-    {
-        "index": "1934",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_1934.json",
-        "negative_strings": [
-            "alaya",
-            "\u2581Coronation",
-            "arsis",
-            "turning",
-            "anchor",
-            "\u2581Peralta",
-            "altes",
-            "stoke",
-            "stret",
-            "faro"
-        ],
-        "positive_strings": [
-            "\u2581women",
-            "Women",
-            "\u2581Women",
-            "\u2581woman",
-            "women",
-            "\u2581WOMEN",
-            "\u2581Woman",
-            "WOMEN",
-            "Woman",
-            "\u2581WOMAN"
-        ],
-        "description": "mentions of women and gender-related terms"
-    },
-    {
-        "index": "11344",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/this is female/data_for_feature_11344.json",
-        "negative_strings": [
-            "\u2581ujednoznacz",
-            "\u2581initComponents",
-            "httphttps",
-            "\u2581DbContext",
-            "providedIn",
-            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
-            "EnableWeb",
-            "fromnode",
-            "\u2581\u017eivota",
-            "webElement"
-        ],
-        "positive_strings": [
-            "\u2581Mal",
-            "Mal",
-            "\u2581MAL",
-            "\u2581mal",
-            "\u2581\u041c\u0430\u043b\u044c",
-            "\u2581Maloney",
-            "MAL",
-            "\u2581Malone",
-            "\u2581Malcolm",
-            "Mald"
-        ],
-        "description": " references to a specific individual or entity named \"Mal.\""
     }
 ]

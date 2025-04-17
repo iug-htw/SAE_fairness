@@ -1,8 +1,158 @@
 [
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
         "index": "10189",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_10189.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_10189.json",
         "negative_strings": [
             "\u2581'\\\\;'",
             "\u2581mouseClicked",
@@ -32,7 +182,7 @@
     {
         "index": "5757",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_5757.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_5757.json",
         "negative_strings": [
             "\u27ec",
             "AddTagHelper",
@@ -62,7 +212,7 @@
     {
         "index": "8623",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_8623.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_8623.json",
         "negative_strings": [
             "\u2581mouseClicked",
             "\u6ed1",
@@ -90,9 +240,39 @@
         "description": "references to \"Tor\" or variations thereof in context"
     },
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
         "index": "6441",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_6441.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_6441.json",
         "negative_strings": [
             "\u27ec",
             "\u2581s\u00e9rieux",
@@ -120,9 +300,69 @@
         "description": "references to the term \"tor\" and its variations"
     },
     {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
         "index": "12242",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_12242.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_12242.json",
         "negative_strings": [
             "\u27ec",
             "\u0411\u0430\u0445\u0430\u0440",
@@ -152,7 +392,7 @@
     {
         "index": "10409",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_10409.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_10409.json",
         "negative_strings": [
             "ItemBackground",
             "\u2581'\\\\;'",
@@ -180,9 +420,39 @@
         "description": " occurrences of the word \"tor\" in various contexts"
     },
     {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
         "index": "11131",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_11131.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_11131.json",
         "negative_strings": [
             "\u2581'\\\\;'",
             "addContainerGap",
@@ -210,9 +480,39 @@
         "description": " occurrences of variations of the word \"tor.\""
     },
     {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
         "index": "7596",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_7596.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_7596.json",
         "negative_strings": [
             "\u2581EconPapers",
             "\u2581'\\\\;'",
@@ -240,9 +540,39 @@
         "description": "references to \"tor\" related terms or concepts in various contexts"
     },
     {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
         "index": "7596",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_7596.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a torah\\data_for_feature_7596.json",
         "negative_strings": [
             "\u2581EconPapers",
             "\u2581'\\\\;'",
@@ -268,215 +598,5 @@
             "\u2581torus"
         ],
         "description": "references to \"tor\" related terms or concepts in various contexts"
-    },
-    {
-        "index": "4028",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_4028.json",
-        "negative_strings": [
-            "\u2581EconPapers",
-            "hyrchwyd",
-            "gaci\u00f3n",
-            "addContainerGap",
-            "\u2581Bi\u00f4grafia",
-            "ce\u011fine",
-            "ItemBackground",
-            ":\u2728",
-            "\u2581'\\\\;'",
-            "utives"
-        ],
-        "positive_strings": [
-            "\u2581Tor",
-            "Tor",
-            "\u2581TOR",
-            "\u2581tor",
-            "\u2581\u0422\u043e\u0440",
-            "tor",
-            "TOR",
-            "\u2581\u0442\u043e\u0440",
-            "\u0422\u043e\u0440",
-            "\u2581Torch"
-        ],
-        "description": "references to \"Tor\" and its various forms and related concepts"
-    },
-    {
-        "index": "7778",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_7778.json",
-        "negative_strings": [
-            "\u2581EconPapers",
-            "hyrchwyd",
-            "\u2581Bi\u00f4grafia",
-            "ItemBackground",
-            "gaci\u00f3n",
-            "ce\u011fine",
-            "dersfield",
-            "\u2581&___",
-            "HomeAsUpEnabled",
-            "UnusedPrivate"
-        ],
-        "positive_strings": [
-            "\u2581Tor",
-            "Tor",
-            "\u2581TOR",
-            "\u2581tor",
-            "\u2581\u0422\u043e\u0440",
-            "\u2581torch",
-            "tor",
-            "\u2581Torch",
-            "Torch",
-            "TOR"
-        ],
-        "description": "references to the term \"Tor\" and its variations"
-    },
-    {
-        "index": "13908",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_13908.json",
-        "negative_strings": [
-            "hyrchwyd",
-            "\u2581EconPapers",
-            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
-            "\u2581Bi\u00f4grafia",
-            "\u2581s\u00e9rieux",
-            "gaci\u00f3n",
-            "RenderAtEndOf",
-            "\u2581imputation",
-            "\u2581&___",
-            "\u2581Rtl"
-        ],
-        "positive_strings": [
-            "\u2581TOR",
-            "\u2581Tor",
-            "Tor",
-            "\u2581tor",
-            "\u2581\u0422\u043e\u0440",
-            "tor",
-            "tore",
-            "\u2581\u0442\u043e\u0440",
-            "TOR",
-            "\u2581torr"
-        ],
-        "description": "words and terms related to a specific brand or entity, particularly variations of \"Tor.\""
-    },
-    {
-        "index": "1114",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_1114.json",
-        "negative_strings": [
-            "eq",
-            "tumor",
-            "MessageOf",
-            "dog",
-            "tender",
-            "tum",
-            "eip",
-            "eners",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "dx"
-        ],
-        "positive_strings": [
-            "ization",
-            "ized",
-            "ial",
-            "izing",
-            "ize",
-            "rrr",
-            "\ud83c\udffb",
-            "rrrr",
-            "isation",
-            "ily"
-        ],
-        "description": "terms related to vehicles and transportation"
-    },
-    {
-        "index": "10185",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_10185.json",
-        "negative_strings": [
-            "VersionUID",
-            "\u2581token",
-            "\u2581toxicity",
-            "\u2581toxicology",
-            "Tikang",
-            "ectoria",
-            "ConstraintMaker",
-            "token",
-            "ktop",
-            "NamedQueries"
-        ],
-        "positive_strings": [
-            "\u2581ujednoznacz",
-            "\u2581Hotspur",
-            "RectangleBorder",
-            "bitField",
-            "\u2581Normdatei",
-            "maline",
-            "chukwu",
-            "jours",
-            "msgSender",
-            "AddTagHelper"
-        ],
-        "description": "keywords related to identifiers and classification systems"
-    },
-    {
-        "index": "5520",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_5520.json",
-        "negative_strings": [
-            "VersionUID",
-            "ConstraintMaker",
-            "ectoria",
-            "InjectAttribute",
-            "entable",
-            "po\u015bred",
-            "\u2581INTERESAR",
-            "\u2581\ub530",
-            "\u2581EdgeInsets",
-            "insics"
-        ],
-        "positive_strings": [
-            "\u2581ujednoznacz",
-            "\u2581Hotspur",
-            "bitField",
-            "jsonString",
-            "chukwu",
-            "jours",
-            "WireFormatLite",
-            "tips",
-            "\u2581To",
-            "notch"
-        ],
-        "description": " occurrences of the word \"Tok\" and other variations with high frequency and context related to locations or objects"
-    },
-    {
-        "index": "5429",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a torah/data_for_feature_5429.json",
-        "negative_strings": [
-            "WebElementEntity",
-            "ial",
-            "toMatchSnapshot",
-            "\u4e0b\u8f7d\u9644\u4ef6",
-            "RegressionTest",
-            "\u2581Wiktionnaire",
-            "ty",
-            "ation",
-            "IAL",
-            "\u05ea"
-        ],
-        "positive_strings": [
-            "htbp",
-            "ftagPool",
-            "webElementGuid",
-            "\u2581\u0645\u0631\u0626\u064a\u0647",
-            "GRANTED",
-            "\u27af",
-            "chers",
-            "ToServer",
-            "\u2581AssemblyCulture",
-            "\u2581Normdatei"
-        ],
-        "description": "specific sequences or patterns of letters, particularly involving the substring \"or.\""
     }
 ]

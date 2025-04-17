@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "90707",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_90707.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_90707.json",
         "negative_strings": [
             "\u2581autorytatywna",
             "\u2581Italijani",
@@ -30,9 +90,99 @@
         "description": "the term \"fundamental\" in various contexts and usages"
     },
     {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "19695",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_19695.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_19695.json",
         "negative_strings": [
             "\u2581Meksi",
             "\u2581Komunikasi",
@@ -60,9 +210,39 @@
         "description": " occurrences of the word \"fundamental\" in various contexts"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
         "index": "12014",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_12014.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_12014.json",
         "negative_strings": [
             "\u2581ainfi",
             "inghouse",
@@ -90,9 +270,69 @@
         "description": " the concept of fundamental principles or concepts in various contexts"
     },
     {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "128873",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_128873.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_128873.json",
         "negative_strings": [
             "occasione",
             "assertRaises",
@@ -120,99 +360,99 @@
         "description": " keywords related to fundamental concepts or principles"
     },
     {
-        "index": "65549",
+        "index": "61313",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_65549.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_61313.json",
         "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u0915",
-            "ViewImports",
-            "\u2581jspb",
-            "\u2581createSprite",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "Geplaatst",
-            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
-            "\u2581Normdatei",
-            "DataSnapshot"
+            "\u2581Chwiliwch",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\\{\\\\",
+            "matchCondition",
+            "expandindo",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581nakalista",
+            "PerformLayout",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\u2581disponibilit\u00e9s"
         ],
         "positive_strings": [
-            "ALITY",
-            "ality",
-            "alities",
-            "aries",
-            "\u2581performed",
-            "nommen",
-            "\u2581flecha",
-            "kuuta",
-            "\u2581Persson",
-            "tional"
+            "\u2581tendencies",
+            "\u2581leaning",
+            "leaning",
+            "\u2581sentiments",
+            "\u2581lean",
+            "\u2581sentiment",
+            "\u2581attitudes",
+            "\u2581ideology",
+            "\u2581thinkers",
+            "minded"
         ],
-        "description": " references to functions and their characteristics in programming"
+        "description": " terms and phrases related to various political ideologies and movements"
     },
     {
-        "index": "76398",
+        "index": "55904",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_76398.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_55904.json",
         "negative_strings": [
-            "\u2581unknownFields",
-            "contentLoaded",
-            "\u24d8",
-            "\u2581\u0645\u0631\u0626\u064a\u0647",
-            "\u51fa\u7248\u5e74",
-            "\u2581Lightboxes",
-            "\u2581Himo",
-            "writeFieldEnd",
-            "Personensuche",
-            "\u23ce"
-        ],
-        "positive_strings": [
-            "\u2581core",
-            "\u2581fundamental",
-            "\u2581underlying",
-            "\u6838\u5fc3",
-            "\u2581foundational",
-            "fundamental",
-            "\u7684\u6838\u5fc3",
-            "\u2581fundamentally",
-            "core",
-            "Core"
-        ],
-        "description": " terms related to core principles or fundamental concepts across various contexts"
-    },
-    {
-        "index": "44717",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_44717.json",
-        "negative_strings": [
-            "Options",
-            "\u2581Possibilities",
-            "HelloWorld",
             "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581paraphrase",
-            "zec",
-            "edia",
-            "\u2581lenker",
-            "\u2581\u0628\u0633\u062a\u0647",
-            "\u9ad8\u8fbe"
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
         ],
         "positive_strings": [
-            "\u2581importance",
-            "importance",
-            "\u2581part",
-            "\u2581CreateTagHelper",
-            "\u2581important",
-            "\u2581importanza",
-            "important",
-            "\u2581crucial",
-            "ValueStyle",
-            "\u2581Bestandteil"
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
         ],
-        "description": " terms indicating essential or significant roles in various contexts"
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
     },
     {
         "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_54929.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a fundamentalist\\data_for_feature_54929.json",
         "negative_strings": [
             "\u2581OFDb",
             "\u2581pr\u00e9c\u00e9dente",
@@ -238,155 +478,5 @@
             "\u2581happening"
         ],
         "description": " phrases indicating significant events or opportunities"
-    },
-    {
-        "index": "102714",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_102714.json",
-        "negative_strings": [
-            "oredCriteria",
-            "\u2581\u017ftand",
-            "IntoConstraints",
-            "\u2581Administrativna",
-            "SharedDtor",
-            "vertising",
-            "msgTypes",
-            "\u2725",
-            "\u2581u\u017fe",
-            "SPJ"
-        ],
-        "positive_strings": [
-            "UnusedPrivate",
-            "addPreferredGap",
-            "WriteBarrier",
-            "lateinit",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "\u2581\u091a\u0940\u095b\u094b\u0902",
-            "iomanip",
-            "\u2581*/,",
-            "(@\"%@\",",
-            "IntPtr"
-        ],
-        "description": "evaluative phrases expressing quality or significance"
-    },
-    {
-        "index": "78897",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_78897.json",
-        "negative_strings": [
-            "unehmen",
-            "\u2581wystar",
-            "\u2581hereinafter",
-            "\u2581oczeki",
-            "\u2581Bed\u00fcrfn",
-            "\u2581okaza",
-            "\u2581\u0123",
-            "\u2581ausgew\u00e4",
-            "\u2581f\u00f6ljande",
-            "\u2581entregado"
-        ],
-        "positive_strings": [
-            "\u2581keto",
-            "\u2581Tolkien",
-            "\u2581Keto",
-            "\u2581steampunk",
-            "\u2581tarot",
-            "\u2581Tarot",
-            "bibfield",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "Keto",
-            "\u2581RPG"
-        ],
-        "description": "words indicating newness or unfamiliarity in the context of learning or exploration"
-    },
-    {
-        "index": "128218",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_128218.json",
-        "negative_strings": [
-            "elemField",
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
-            "\u2581\u0161to",
-            "liosis",
-            "AndEndTag",
-            "\u2581fieldNum",
-            "\u2581resourceCulture",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "nologue",
-            "styleType"
-        ],
-        "positive_strings": [
-            "\u2581concepts",
-            "\u2581concept",
-            "concepts",
-            "\u2581Concepts",
-            "concept",
-            "Concepts",
-            "\u2581conceptos",
-            "\u2581Concept",
-            "Concept",
-            "\u2581concepto"
-        ],
-        "description": "connections between educational concepts and practical application"
-    },
-    {
-        "index": "96076",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_96076.json",
-        "negative_strings": [
-            "\u2581ba\u00f1era",
-            "v\u00e2nt",
-            "ProcessEvent",
-            "AddTagHelper",
-            "forhold",
-            "\u2581circonst",
-            "\u2581decorado",
-            "\u2581Meinung",
-            "\u2581decoracion",
-            "\u2581soeur"
-        ],
-        "positive_strings": [
-            "\u2581basics",
-            "\u2581beginner",
-            "\u2581basic",
-            "\u2581introductory",
-            "basics",
-            "\u2581Beginner",
-            "\u5165\u9580",
-            "\u2581Basics",
-            "Beginner",
-            "\u2581essentials"
-        ],
-        "description": "terms related to foundational knowledge and principles in educational contexts"
-    },
-    {
-        "index": "33775",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a fundamentalist/data_for_feature_33775.json",
-        "negative_strings": [
-            "LLocation",
-            "\u2581BoxFit",
-            "fjspx",
-            "\u2581actionPerformed",
-            ">*/",
-            "VersionUID",
-            "\u2581MatDialog",
-            "contentValues",
-            "GNUC",
-            "RegressionTest"
-        ],
-        "positive_strings": [
-            "\u2581getBase",
-            "\u2581campamento",
-            "camp",
-            "\u2581camp",
-            "BALL",
-            "MLLoader",
-            "ArgsConstructor",
-            "\u2581BASE",
-            "\u2581ganglia",
-            "\u2581a\u00e9rienne"
-        ],
-        "description": " references to a specific data structure or entity termed \"base\" in various contexts"
     }
 ]

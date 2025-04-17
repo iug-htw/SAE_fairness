@@ -2,7 +2,7 @@
     {
         "index": "14228",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_14228.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_14228.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "\u0445\u044c\u0442\u0430\u043d",
@@ -30,9 +30,159 @@
         "description": "references to specific genes or proteins related to JEV (Japanese Encephalitis Virus)"
     },
     {
+        "index": "5331",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_5331.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581honneur",
+            "\u2581Mexique",
+            "de",
+            "\u2581lendemain",
+            "\u2581\u00e2ge",
+            ";",
+            "\u2581autorit\u00e9",
+            "\u2581peuple",
+            "4"
+        ],
+        "positive_strings": [
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "OGND",
+            "GEBURTSDATUM",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "<unused52>",
+            "\u2581'\\\\;'",
+            "<unused41>",
+            "[@BOS@]",
+            "<unused8>"
+        ],
+        "description": "articles and determiners related to nouns"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "6590",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_6590.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Wolken",
+            "\u2581Kleid",
+            "\u2581Glied",
+            "\u2581Wikimedijinoj",
+            "\u2581Reifen",
+            "tagext",
+            "\u2581Liebes",
+            "Lycka",
+            "\u2581Fleisch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "\u2581Photocase",
+            "Transkript",
+            "Personensuche",
+            "\u2581Euro",
+            "Telefax",
+            "\u2581Pots",
+            "\u2581DPA"
+        ],
+        "description": " phrases related to requests and technical instructions"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "68",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_68.json",
+        "negative_strings": [
+            "\u2581malheur",
+            "\u2581malheureux",
+            "\u2581v\u00fdro",
+            "\u2581d\u00e9sert",
+            "\u2581precioso",
+            "\u2581d\u00e9truit",
+            "\u2581valioso",
+            "-//",
+            "\u2581fant\u00e1stico",
+            "Vod"
+        ],
+        "positive_strings": [
+            "IBOutlet",
+            "AddTagHelper",
+            "\u5e16\u6700\u540e\u7531",
+            "UnusedPrivate",
+            "webElementXpaths",
+            "CppMethod",
+            "DoubleQuotes",
+            "ENIX",
+            "webElement",
+            "\u2581nahilalakip"
+        ],
+        "description": "variations of the verb \"to be\" in different contexts"
+    },
+    {
         "index": "1048",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_1048.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_1048.json",
         "negative_strings": [
             "\u2581contextLoads",
             "msgTypes",
@@ -60,9 +210,159 @@
         "description": "references to Jewish people and their historical contexts, especially related to finance and suffering during the Holocaust"
     },
     {
+        "index": "10751",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_10751.json",
+        "negative_strings": [
+            "sprogramm",
+            "\u2581\u043a\u043e\u0442\u043e\u0440\u043e\u0435",
+            "\u2581naselje",
+            "\u2581\u044f\u043a\u0435",
+            "\u2581bylo",
+            "\u2581dommage",
+            "gesch\u00e4ft",
+            "\u00f6pf",
+            "lioth\u00e8",
+            "\u2581Volkes"
+        ],
+        "positive_strings": [
+            "\u2581propOrder",
+            "\u2581purpo\u017fe",
+            "RotationOrder",
+            "\u2581ind\u00edgen",
+            "AddTagHelper",
+            "ReusableCell",
+            "\u2581la\u017ft",
+            "EndInit",
+            "TypedDataSet",
+            "homonymie"
+        ],
+        "description": " references to specific numerical and scientific data"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "12525",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_12525.json",
+        "negative_strings": [
+            "\u2581indisponible",
+            "\u23a8",
+            "\u2581\u091a\u0940\u095b\u094b\u0902",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "WriteBarrier",
+            "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u093e\u0913\u0902",
+            "\u2581GenerationType",
+            "\u2581resourceCulture",
+            "Hentet"
+        ],
+        "positive_strings": [
+            "ophyllum",
+            "\u2581tenue",
+            "\u0414\u0438\u043d\u0430",
+            "ALUM",
+            "\u2581Doing",
+            "retum",
+            "holdet",
+            "\u2581obdob",
+            "statement",
+            "\u2581atlik"
+        ],
+        "description": "specific grammatical structures or patterns associated with definite articles and nouns in German"
+    },
+    {
+        "index": "14963",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_14963.json",
+        "negative_strings": [
+            "\u2581Penh",
+            "r\u00e9n\u00e9es",
+            "AndEndTag",
+            "scen",
+            "RuleContext",
+            "antMatchers",
+            "RTGC",
+            "///</",
+            "orianCalendar",
+            "\u2581Hangzhou"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581where",
+            "\u2581what",
+            "\u2581pourquoi",
+            "\u2581exactly",
+            "Exactly",
+            "\u2581pretty",
+            "why",
+            "\u2581fine"
+        ],
+        "description": " instances of the pronoun \"s\" and its various usages in context"
+    },
+    {
         "index": "13808",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_13808.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_13808.json",
         "negative_strings": [
             "HomeAsUpEnabled",
             "\u2581LOGGER",
@@ -92,7 +392,7 @@
     {
         "index": "375",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_375.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_375.json",
         "negative_strings": [
             "\u2581@\"/",
             "MigrationBuilder",
@@ -122,7 +422,7 @@
     {
         "index": "7322",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_7322.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_7322.json",
         "negative_strings": [
             "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
             "DidLoad",
@@ -150,333 +450,33 @@
         "description": "references to judges and judgment in a judicial context"
     },
     {
-        "index": "11749",
+        "index": "1560",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_11749.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Jude\\data_for_feature_1560.json",
         "negative_strings": [
-            "\u2581typename",
-            "elts",
-            "\u2581Photocase",
-            "\u2581far",
-            "\u2581bed",
-            "\u1d4e",
-            "\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f",
-            "\u2581trai",
-            "setField",
-            "\u0e14\u0e49\u0e32\u0e19"
+            "\u2581parezca",
+            "\u2581generally",
+            "Qui\u00e9n",
+            "\u2581directly",
+            "\u2581greatly",
+            "\u2581berechtigt",
+            "\u2581looking",
+            "\u2581totally",
+            "\u2581d\u00f3nde",
+            "enti\u00e8re"
         ],
         "positive_strings": [
-            "Ju",
-            "\u2581Ju",
-            "ValueStyle",
-            "\u2581estekak",
-            "reactstrap",
-            "\u2581Juarez",
-            "Jub",
-            "\u2581uVar",
-            "Jude",
-            "Julia"
-        ],
-        "description": "references to names or terms that start with \"Ju.\""
-    },
-    {
-        "index": "8406",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_8406.json",
-        "negative_strings": [
+            "\u2581defaultstate",
             "OGND",
-            "\u2581MainAxisSize",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "\u2581propOrder",
+            "########.",
+            "\u2581CreateTagHelper",
+            "Diwedd",
+            "ViewImports",
+            "aarrggbb",
             "rungsseite",
-            "DockStyle",
-            "\u2581ujednoznacz",
-            "i\u017fchen",
-            "\u2581Administrativna",
-            "\u062a\u0642\u0627\u0648\u0649"
+            "\u2581inform\u00e9e",
+            "\u2581Administrativna"
         ],
-        "positive_strings": [
-            "\u2581in",
-            "\u2581des",
-            ",",
-            "\u2581a",
-            "\u2581(",
-            "\u2581",
-            "\u2581an",
-            "re",
-            "um",
-            "\u2581of"
-        ],
-        "description": "technical terms and operational details related to web functionality and programming"
-    },
-    {
-        "index": "7198",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_7198.json",
-        "negative_strings": [
-            "RegressionTest",
-            "\u2581giri\u015f",
-            "__(/*!",
-            "ess\u00e9ge",
-            "onnaissance",
-            "\u2581darb",
-            "\u2581noastre",
-            "\u00edtulo",
-            "\u4e00\u3064\u306e",
-            "\u2581ganhou"
-        ],
-        "positive_strings": [
-            "\u2581Jews",
-            "providedIn",
-            "\ue315",
-            "\u2581lastName",
-            "\u2581boy",
-            "\u2581Blacks",
-            "\u2581Jew",
-            "ScopeManager",
-            "didSet",
-            "\u2581Jewish"
-        ],
-        "description": "references to race and identity, particularly focusing on black individuals and their societal roles or perceptions within various contexts"
-    },
-    {
-        "index": "826",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_826.json",
-        "negative_strings": [
-            "\u2581its",
-            "\u2581itself",
-            "itself",
-            "\u2581various",
-            "\u5b83",
-            "Various",
-            "\u2581vhodn\u00e9",
-            "\u5b83\u7684",
-            "\u2581Itself",
-            "\u2581by\u0142o"
-        ],
-        "positive_strings": [
-            "\u2581who",
-            "\u2581whose",
-            "\u2581whom",
-            "\u2581quien",
-            "who",
-            "whose",
-            "\u2581whofe",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "whom",
-            "tanleria"
-        ],
-        "description": "characters, specifically children and familial roles"
-    },
-    {
-        "index": "1238",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_1238.json",
-        "negative_strings": [
-            "nya",
-            "ness",
-            "rich",
-            "n",
-            "rings",
-            "room",
-            "rooms",
-            "d",
-            "rock",
-            "retail"
-        ],
-        "positive_strings": [
-            "eeee",
-            "eeeee",
-            "SequentialGroup",
-            "e",
-            "eeeeeeee",
-            "eee",
-            "eeeeee",
-            "ee",
-            "\u0947",
-            "\u0411\u0456\u043e\u0433\u0440\u0430\u0444\u0456\u044f"
-        ],
-        "description": "proper nouns and names in academic or research contexts"
-    },
-    {
-        "index": "120",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_120.json",
-        "negative_strings": [
-            "\u2581disambiguazione",
-            "parsedMessage",
-            "omentos",
-            "gala",
-            "contentLoaded",
-            "\u2581thyself",
-            "pushFollow",
-            "minator",
-            "GEBURTSDATUM",
-            "\u2581\u064a\u062a\u064a\u0645\u0647"
-        ],
-        "positive_strings": [
-            "\u2581Muslim",
-            "\u2581Islam",
-            "\u2581Hindu",
-            "Hindu",
-            "\u2581Christian",
-            "\u2581Muslims",
-            "\u2581Christianity",
-            "\u2581Hinduism",
-            "Islam",
-            "\u2581Christians"
-        ],
-        "description": "references to different religions and their beliefs, particularly in relation to Islam and Christianity"
-    },
-    {
-        "index": "15584",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_15584.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "OGND",
-            "extAlignment",
-            "MemoryWarning",
-            "\u0441\u044b\u043b\u043a\u0456",
-            "\u2581unknownFields",
-            "httphttps",
-            "\u27af",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581<>\","
-        ],
-        "positive_strings": [
-            "Candidate",
-            "candidate",
-            "\u00fag\u00f3",
-            "\u2581candidate",
-            "\u017fhip",
-            "\u2581Candidate",
-            "\u2581monk",
-            "SHIP",
-            "\u2581who",
-            "\u0e2a\u0e32\u0e27"
-        ],
-        "description": "terms related to conflict, rebellion, and identity within narratives"
-    },
-    {
-        "index": "634",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_634.json",
-        "negative_strings": [
-            "\u2581SEDS",
-            "ce\u011fine",
-            "setz",
-            "ampingi",
-            "autant",
-            "ponenten",
-            "izielle",
-            "\u2581pulumi",
-            "\u2581newBuilder",
-            "ciatore"
-        ],
-        "positive_strings": [
-            "\u2581Hitler",
-            "\u2581Nazi",
-            "locaust",
-            "\u2581Holocaust",
-            "Hitler",
-            "Nazi",
-            "\u2581Nazis",
-            "\u2581nazi",
-            "\u2581Auschwitz",
-            "\u2581holocaust"
-        ],
-        "description": " references to the Holocaust and its impact, particularly focusing on Jewish victims and related historical contexts"
-    },
-    {
-        "index": "13516",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_13516.json",
-        "negative_strings": [
-            "\u2581perch\u00e8",
-            "\u2581\u03c0\u03c9\u03c2",
-            "\u2581hubiese",
-            "\u2581medesimo",
-            "\u2581gdy\u017c",
-            "\u2581ettei",
-            "\u2581illetve",
-            "\u2581boneca",
-            "\u2581je\u017celi",
-            "Retrouvez"
-        ],
-        "positive_strings": [
-            "\u2581XNUMX",
-            "\u2581\u200b\u200b",
-            "NUMX",
-            "\u200b\u200b",
-            "\u2581.;",
-            "\u0335",
-            "\u2581\u2122",
-            "\u066a",
-            "\uff03",
-            "\u2581F\u00fchrer"
-        ],
-        "description": " phrases related to user interactions and feedback"
-    },
-    {
-        "index": "15254",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_15254.json",
-        "negative_strings": [
-            "\ufeff/**",
-            "SourceChecksum",
-            "+#+#",
-            "\u2581\u0648\u062a\u0633\u062c\u064a\u0644\u0627\u062a",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\">//",
-            "mybatisplus",
-            "Aholisi",
-            "\u2581eenige",
-            "\u2581daarvoor"
-        ],
-        "positive_strings": [
-            "\u2581Israel",
-            "Israel",
-            "\u2581Abraham",
-            "\u2581Israeli",
-            "\u2581Isra",
-            "\u2581Netanyahu",
-            "anyahu",
-            "\u2581Isra\u00ebl",
-            "\u2581Hebrew",
-            "Isra"
-        ],
-        "description": "significant mentions of specific names"
-    },
-    {
-        "index": "9161",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/Das ist ein Jude/data_for_feature_9161.json",
-        "negative_strings": [
-            "\u2581kona",
-            "conversion",
-            "\u2581conversion",
-            "izoen",
-            "\u2581initComponents",
-            "\u4e00\u679a",
-            "\u2581column",
-            "\u2581Kela",
-            "\u2581cabinetry",
-            "\u2581Trigger"
-        ],
-        "positive_strings": [
-            "Jewish",
-            "\u2581Jewish",
-            "\u2581Hispanic",
-            "\u2581Muslim",
-            "\u2581Jews",
-            "Hispanic",
-            "\u2581Latino",
-            "Muslim",
-            "\u2581Hispanics",
-            "\u2581jewish"
-        ],
-        "description": "references to specific racial and ethnic demographics, particularly focusing on African American and Caribbean communities"
+        "description": " mentions of programming packages and classes"
     }
 ]

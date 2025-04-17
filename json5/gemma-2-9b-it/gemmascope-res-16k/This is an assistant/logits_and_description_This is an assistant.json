@@ -1,8 +1,68 @@
 [
     {
+        "index": "5904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_5904.json",
+        "negative_strings": [
+            "\u00e9gard",
+            "\u00e9laboration",
+            "\u00e9paisseur",
+            "extr\u00e9mit\u00e9",
+            "enfance",
+            "\u00e9toit",
+            "\u00e9quipements",
+            "hygi\u00e8ne",
+            "assembl\u00e9e",
+            "\u00e9quipement"
+        ],
+        "positive_strings": [
+            "\u2581army",
+            "\u2581amazing",
+            "\u2581assortment",
+            "\u2581important",
+            "\u2581excellent",
+            "\u2581alternative",
+            "\u2581array",
+            "\u2581interesting",
+            "\u2581impressive",
+            "\u2581abundance"
+        ],
+        "description": "instances of the indefinite article \"an\" and the capitalized article \"An\""
+    },
+    {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
         "index": "12065",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_12065.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_12065.json",
         "negative_strings": [
             "OGND",
             "pexpr",
@@ -32,7 +92,7 @@
     {
         "index": "9875",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_9875.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_9875.json",
         "negative_strings": [
             "\u2581mxArray",
             "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
@@ -60,9 +120,39 @@
         "description": "terms related to asymptotic analysis and behavior in mathematical contexts"
     },
     {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
         "index": "14215",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_14215.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_14215.json",
         "negative_strings": [
             "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
             "NameInMap",
@@ -90,9 +180,39 @@
         "description": "terms related to assistant positions or roles"
     },
     {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
         "index": "4146",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_4146.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_4146.json",
         "negative_strings": [
             "\u2581Eclipse",
             "\u2581falla",
@@ -120,9 +240,189 @@
         "description": "titles and designations of authority figures"
     },
     {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
         "index": "9598",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_9598.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_9598.json",
         "negative_strings": [
             "aspectj",
             "\u2581numerus",
@@ -150,243 +450,33 @@
         "description": "references to assistance or support"
     },
     {
-        "index": "9606",
+        "index": "1298",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_9606.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is an assistant\\data_for_feature_1298.json",
         "negative_strings": [
-            "DisplayMetrics",
-            "\u2581Metzger",
-            "\u2581Praga",
-            "isEmail",
-            "\u2581Gr\u00e6",
-            "\u2581Audiodateien",
-            "nunca",
-            "\u2581Perdana",
-            "\u2581Kaufmann",
-            "\u2581Scherer"
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
         ],
         "positive_strings": [
-            "\u2581assist",
-            "\u2581Assist",
-            "Assist",
-            "assist",
-            "\u2581assisting",
-            "\u2581ASSIST",
-            "\u2581assisted",
-            "\u2581assistance",
-            "\u2581Assistance",
-            "\u2581assists"
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
         ],
-        "description": " instances of the word \"assist\" and its variations in various contexts"
-    },
-    {
-        "index": "776",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_776.json",
-        "negative_strings": [
-            "AnchorTagHelper",
-            "\ud83c\udffb",
-            "\u2581gyhoeddwyd",
-            "SearchParams",
-            "\u2581Saran",
-            "\ud83c\udffe",
-            "licola",
-            "itrile",
-            "Rule",
-            "\u2581Elen"
-        ],
-        "positive_strings": [
-            "OST",
-            "ests",
-            "ast",
-            "kust",
-            "AST",
-            "jst",
-            "\u044c\u0430\u0436",
-            "JST",
-            "\u2581Bist",
-            "ost"
-        ],
-        "description": "technical terms and names related to various fields, particularly in context to research and science"
-    },
-    {
-        "index": "797",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_797.json",
-        "negative_strings": [
-            "\u2581Metzger",
-            "\u2581kyse",
-            "\u2581Wachs",
-            "\u2581sequ\u00eancia",
-            "RetentionPolicy",
-            "newtheorem",
-            "\u2581Kraus",
-            "slidesToShow",
-            "\u2581asamblea",
-            "\u2581absolutely"
-        ],
-        "positive_strings": [
-            "help",
-            "Help",
-            "\u2581Help",
-            "\u2581assistance",
-            "\u2581Assistance",
-            "assistance",
-            "\u2581Helper",
-            "\u2581help",
-            "HELP",
-            "\u2581Aid"
-        ],
-        "description": "requests for assistance or help"
-    },
-    {
-        "index": "14660",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_14660.json",
-        "negative_strings": [
-            "IntoConstraints",
-            "forName",
-            "featureID",
-            "bcryptjs",
-            "cshtml",
-            "contentValues",
-            "orianCalendar",
-            "URLException",
-            "Morrison",
-            "urlopen"
-        ],
-        "positive_strings": [
-            "\u2581deputy",
-            "\u2581assistant",
-            "\u2581Deputy",
-            "PUTY",
-            "\u2581Vice",
-            "\u2581vice",
-            "\u2581Assistant",
-            "\u2581fellow",
-            "\u2581chief",
-            "Vice"
-        ],
-        "description": " terms related to deputy or assistant administrative positions"
-    },
-    {
-        "index": "485",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_485.json",
-        "negative_strings": [
-            "dev\u0161\u00edm",
-            "\u2581desmotivaciones",
-            "rsiniz",
-            "\u2581l\u00f6yty",
-            "\u2581HasFactory",
-            "useNewUrlParser",
-            "\u0e1a\u0e49\u0e32\u0e07",
-            "\u2581incre\u00ed",
-            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
-            "onAttach"
-        ],
-        "positive_strings": [
-            "\u2581Deputy",
-            "\u2581deputy",
-            "\u2581vice",
-            "\u2581Vice",
-            "\u2581assistant",
-            "Deputy",
-            "\u2581Assistant",
-            "Vice",
-            "Assistant",
-            "PUTY"
-        ],
-        "description": " titles and roles associated with deputy positions across various contexts"
-    },
-    {
-        "index": "268",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_268.json",
-        "negative_strings": [
-            "\u2581estekak",
-            "PyExc",
-            "IntoConstraints",
-            "hdashline",
-            "\u2581ar\u015fivlendi",
-            "\u1369",
-            "XmlAccessorType",
-            "tableFuture",
-            "KommentareTeilen",
-            "\u2581fausse"
-        ],
-        "positive_strings": [
-            "\u2581attended",
-            "\u2581Attend",
-            "\ufeff/**",
-            "\u2581Atten",
-            "attend",
-            "Attend",
-            "attended",
-            "\u2581attend",
-            "Atten",
-            "\u2581Attendance"
-        ],
-        "description": " references to attendance at events or activities"
-    },
-    {
-        "index": "2913",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_2913.json",
-        "negative_strings": [
-            "SourceChecksum",
-            "MathML",
-            "\u2581pran",
-            "\u2581esternos",
-            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
-            "\u2581Wikimedijinoj",
-            "\u2581\u043f\u0440\u0435\u043f\u0440\u0430\u0442\u043a\u0438",
-            "audiovisuel",
-            "\u2581Cos",
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
-        ],
-        "positive_strings": [
-            "\u2581inconsistency",
-            "Kaieteur",
-            "\u2581Consistency",
-            "\u2581mec\u00e1nica",
-            "Consistency",
-            "\u2581l\u00f3gica",
-            "\u2581auroit",
-            "\u2581inconsistencies",
-            "\u2581inconsistent",
-            "posedge"
-        ],
-        "description": "instances of the word \"consistent\" and related terms"
-    },
-    {
-        "index": "105",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is an assistant/data_for_feature_105.json",
-        "negative_strings": [
-            "transQ",
-            "principalColumn",
-            "inSlope",
-            "\u2581betweenstory",
-            "\u2581gevolg",
-            "\u2581propOrder",
-            "adpleegd",
-            "EndGlobalSection",
-            "\u2581zijne",
-            "\u2581ar\u015fivlendi"
-        ],
-        "positive_strings": [
-            "\u2581script",
-            "\u2581story",
-            "\u2581poem",
-            "\u2581please",
-            "\u2581lyrics",
-            "\u2581sentence",
-            "\u2581write",
-            "\u2581Please",
-            "\u2581poems",
-            "\u2581screenplay"
-        ],
-        "description": " commands and functions related to coding or programming tasks"
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
     }
 ]

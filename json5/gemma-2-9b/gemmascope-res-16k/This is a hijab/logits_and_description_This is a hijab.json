@@ -1,362 +1,542 @@
 [
     {
-        "index": "6026",
+        "index": "10440",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_6026.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_10440.json",
         "negative_strings": [
-            "PYX",
-            "MemoryWarning",
-            "\u2581argint",
-            "Personendaten",
-            "modelBuilder",
-            "\u2581onOptions",
-            "displayquote",
-            "\u0004",
-            "createTable",
-            "\u2581c\u00e2te"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581Muslim",
-            "\u2581Muslims",
-            "Islamic",
-            "\u2581Islam",
-            "\u2581mosque",
-            "\u2581islamic",
-            "\u2581mosques",
-            "Muslim",
-            "\u2581muslim"
-        ],
-        "description": "references to Islamic laws and principles"
-    },
-    {
-        "index": "13288",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_13288.json",
-        "negative_strings": [
-            "PYX",
-            "MemoryWarning",
-            "\u2581u\u017e\u00ed",
-            "ras\u0131nda",
-            "\u2581encarga",
-            "\u0004",
-            "\u2581doInBackground",
-            "\u2581daarvan",
-            "\u2581Karp",
-            "\ufeff//"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581Muslim",
-            "\u2581Muslims",
-            "\u2581Islam",
-            "Islamic",
-            "\u2581mosque",
-            "Muslim",
-            "\u2581islamic",
-            "\u2581mosques",
-            "\u2581muslim"
-        ],
-        "description": "references to Islamic principles and practices"
-    },
-    {
-        "index": "14141",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_14141.json",
-        "negative_strings": [
-            "Tembelea",
-            "Hats",
-            "\u2581protoimpl",
-            "\u2581Hats",
-            "\u2581iPads",
-            "\u2581Bags",
-            "\u2581helmets",
-            "\u2581Packs",
-            "\u2581rafts",
-            "bags"
-        ],
-        "positive_strings": [
-            "\u2581jacket",
-            "\u2581outfit",
-            "\u2581dress",
-            "\u2581skirt",
-            "\u2581shirt",
-            "\u2581coat",
-            "\u2581suit",
-            "\u2581gown",
-            "\u2581blouse",
-            "\u2581jumpsuit"
-        ],
-        "description": "specific details and descriptions related to clothing and fashion"
-    },
-    {
-        "index": "1050",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_1050.json",
-        "negative_strings": [
-            "\u2581\u2026)",
-            "\u2581\u2026\u201d",
-            "\u2581resourceCulture",
-            "ndash",
-            "Plenty",
-            "\ud30e",
-            "czeg\u00f3\u0142y",
-            "\u2581...\"",
-            "\u30fb\u30fb\u30fb\u300d",
-            "particularly"
-        ],
-        "positive_strings": [
-            "\u2581meme",
-            "\u2581memes",
-            "\u2581Meme",
-            "\u2581Memes",
-            "\u2581vibes",
-            "\u2581boi",
-            "\u2581Boi",
-            "\u2581intensifies",
-            "\u2581moment",
-            "\u2581x"
-        ],
-        "description": "references to popular culture and internet memes"
-    },
-    {
-        "index": "7895",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_7895.json",
-        "negative_strings": [
-            "\u2581autorytatywna",
-            "webElementXpaths",
-            "\u2581Administrativna",
-            "SourceChecksum",
-            "makeConstraints",
-            "FieldNumber",
-            "ToScroll",
-            "\u2581\u062a\u0639\u062f\u0649",
-            "ScopeManager",
-            "\u1ee9"
-        ],
-        "positive_strings": [
-            "\u2581maker",
-            "\u2581holder",
-            "\u2581manufacturer",
-            "\u2581fabricante",
-            "\u2581manufacturers",
-            "\u2581caddy",
-            "\u2581organizer",
-            "\u2581dispenser",
-            "\u2581holders",
-            "\u2581rack"
-        ],
-        "description": " items and products related to baby care and diapering"
-    },
-    {
-        "index": "5557",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_5557.json",
-        "negative_strings": [
-            "elemField",
-            "\u2581curs",
-            "\u2581contract",
-            "Curs",
-            "\u2581\u0928\u093f",
-            "\u2581Contract",
-            "Contract",
-            "\u2581Chambers",
-            "\u2581\uccb4",
-            "\u2581jeste"
-        ],
-        "positive_strings": [
-            "\u2581hats",
-            "\u2581hat",
-            "\u2581headband",
-            "\u2581Hats",
-            "Hat",
-            "Hats",
-            "\u2581Hat",
-            "\u2581HAT",
-            "\u5e3d\u5b50",
-            "\u2581turban"
-        ],
-        "description": " references to specific types of headwear and their characteristics"
-    },
-    {
-        "index": "13288",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_13288.json",
-        "negative_strings": [
-            "PYX",
-            "MemoryWarning",
-            "\u2581u\u017e\u00ed",
-            "ras\u0131nda",
-            "\u2581encarga",
-            "\u0004",
-            "\u2581doInBackground",
-            "\u2581daarvan",
-            "\u2581Karp",
-            "\ufeff//"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581Muslim",
-            "\u2581Muslims",
-            "\u2581Islam",
-            "Islamic",
-            "\u2581mosque",
-            "Muslim",
-            "\u2581islamic",
-            "\u2581mosques",
-            "\u2581muslim"
-        ],
-        "description": "references to Islamic principles and practices"
-    },
-    {
-        "index": "13007",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_13007.json",
-        "negative_strings": [
-            "PYX",
-            "\u2581gereja",
-            "MemoryWarning",
-            "cupa",
-            "\u0004",
-            "displayquote",
-            "\u2581tri\u010dko",
-            "\u2581bune",
-            "\u2581u\u017e\u00ed",
-            "\u2581Kebijakan"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581Muslim",
-            "\u2581Muslims",
-            "\u2581Islam",
-            "Islamic",
-            "\u2581mosque",
-            "\u2581islamic",
-            "\u2581mosques",
-            "Muslim",
-            "\u2581muslim"
-        ],
-        "description": "references to Islamic practices or concepts"
-    },
-    {
-        "index": "7940",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_7940.json",
-        "negative_strings": [
-            "basicConfig",
-            "\u2581autorytatywna",
-            "scalatest",
-            "webElementXpaths",
-            "IntoConstraints",
-            "ViewInit",
-            "IsContent",
-            "\u2581ar\u015fivlendi",
-            "rungsseite",
-            "NewGuid"
-        ],
-        "positive_strings": [
-            "\u2581maker",
-            "\u2581makers",
-            "\u2581manufacturer",
-            "\u2581manufacturers",
-            "making",
-            "maker",
-            "makers",
-            "\u2581making",
-            "\u2581manufacturing",
-            "\u2581Manufacturers"
-        ],
-        "description": "words associated with food and culinary items"
-    },
-    {
-        "index": "372",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_372.json",
-        "negative_strings": [
-            "Tembelea",
-            "\u2581protoimpl",
-            "Hats",
-            "\u2581Hats",
-            "Caps",
-            "\u2581Caps",
-            "bags",
-            "Bags",
-            "\u2581Laptops",
-            "\u2581Bags"
-        ],
-        "positive_strings": [
-            "\u2581outfit",
-            "\u2581dress",
-            "\u2581jacket",
-            "\u2581shirt",
-            "\u2581garment",
-            "\u2581suit",
-            "\u2581ensemble",
-            "\u2581gown",
-            "\u2581coat",
-            "\u2581blouse"
-        ],
-        "description": "elements related to clothing and fashion"
-    },
-    {
-        "index": "8479",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_8479.json",
-        "negative_strings": [
-            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
             "SharedCtor",
-            "NameInMap",
-            "ariado",
-            "AddTagHelper",
-            "\u2581autorytatywna",
-            "internalType",
-            "\u2581initComponents",
-            "CppMethod",
-            "DockStyle"
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
         ],
         "positive_strings": [
-            "\u2581buddy",
-            "\u2581caddy",
-            "\u2581holder",
-            "\u2581organizer",
-            "\u2581kit",
-            "\u2581organiser",
-            "\u2581Buddy",
-            "\u2581Caddy",
-            "\u2581accessory",
-            "\u2581saver"
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
         ],
-        "description": " products related to baby care and fabric items"
+        "description": " references to mathematical notations or expressions"
     },
     {
-        "index": "12982",
+        "index": "7839",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a hijab/data_for_feature_12982.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_7839.json",
         "negative_strings": [
-            "\u2581protoimpl",
-            "VersionUID",
-            "dressed",
-            "\u2581vestiti",
-            "InitVars",
-            "itettura",
-            "hyrchwyd",
-            "\u3092\u642d\u8f09",
-            "\u2581JpaRepository",
-            "couz"
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
         ],
         "positive_strings": [
-            "\u2581worn",
-            "\u2581Worn",
-            "worn",
-            "\u2581diken",
-            "\u2581paired",
-            "\u2581pinned",
-            "\u2581knotted",
-            "\u2581accessori",
-            "\u2581matched",
-            "\u2581covering"
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
         ],
-        "description": " descriptors related to clothing and fashion"
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "10101",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_10101.json",
+        "negative_strings": [
+            "\u2581Masyarakat",
+            "\u2581\u00c9l",
+            "against",
+            "\u2581\u0432\u043e",
+            "evaluated",
+            "\u2581ba\u015flad",
+            "\u2581\u03c4\u1f78\u03bd",
+            "\u2581Sch",
+            "whose",
+            "\u2581and"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u017felben",
+            "ni\u017f\u017fe",
+            "\ufeff/**",
+            "\u017fchaft",
+            "<unused28>",
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused3>"
+        ],
+        "description": " programming code and structural components of a software framework"
+    },
+    {
+        "index": "4657",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_4657.json",
+        "negative_strings": [
+            "\u2581therein",
+            "\u2581dabei",
+            "\u2581there",
+            "\u2581\u0111\u00f3",
+            "\u2581this",
+            "reordered",
+            "\u3053\u3053\u3067\u306f",
+            "\u2581those",
+            "there",
+            "\u2581Italijanski"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581GenerationType",
+            "ConstraintMaker",
+            "\u2581geschieht",
+            "complexContent",
+            "happens",
+            "awtextra"
+        ],
+        "description": " sentences that assert existence or define something"
+    },
+    {
+        "index": "2077",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_2077.json",
+        "negative_strings": [
+            "\u2581\u0111\u00f3",
+            "\u2581itself",
+            "\u2581therein",
+            "\u2581this",
+            "\u3053\u3053\u3067\u306f",
+            "those",
+            "itself",
+            "\u2581dabei",
+            "\u2581those",
+            "\u2581\u0939\u0940"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581happens",
+            "happens",
+            "\u2581resourceCulture",
+            "\u2581Happening",
+            "\u2581geschieht",
+            "sizeCache"
+        ],
+        "description": " occurrences of the word \"is\" in various contexts"
+    },
+    {
+        "index": "8999",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_8999.json",
+        "negative_strings": [
+            "\u2581Administrativna",
+            "\u3053\u3053\u3067\u306f",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "RTEX",
+            "\u2581thereunder",
+            "mybatisplus",
+            "\u2581\u0437\u0434\u0435\u0441\u044c",
+            "\u24e7",
+            "hoedd",
+            "\u2581aqu\u00ed"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581despite",
+            "\u2581precisely",
+            "true",
+            "\u2581exactly"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "285",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_285.json",
+        "negative_strings": [
+            "r\u00e9n\u00e9es",
+            "\u2581therein",
+            "\u2581this",
+            "\u2581\u0111\u00f3",
+            "AISSEE",
+            "reordered",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581acesta",
+            "\u2581\u0647\u0645\u06cc\u0646",
+            "\u2581there"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581truly",
+            "\u2581why",
+            "\u2581how",
+            "\u2581virkelig",
+            "\u2581where",
+            "\u2581true",
+            "\u2581serious",
+            "\u2581gonna",
+            "\u2581bukan"
+        ],
+        "description": "instances of the word \"is\" to identify statements or descriptions"
+    },
+    {
+        "index": "8139",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a hijab\\data_for_feature_8139.json",
+        "negative_strings": [
+            "\u2581this",
+            "those",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u0111\u00f3",
+            "this",
+            "\u2581NSCoder",
+            "there",
+            "\u3053\u3053\u3067\u306f",
+            "these",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581done",
+            "\u2581geschieht",
+            "\u2581truer",
+            "sizeCache",
+            "\u2581untrue",
+            "\u2581because"
+        ],
+        "description": " the presence of the word \"is\" in various contexts"
     }
 ]

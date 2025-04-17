@@ -1,8 +1,278 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
         "index": "12125",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_12125.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_12125.json",
         "negative_strings": [
             "\u51fa\u7248\u5e74",
             "\u2581kasarigan",
@@ -30,9 +300,159 @@
         "description": " references to cultural holidays and family traditions"
     },
     {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "54929",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_54929.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
+        ],
+        "positive_strings": [
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
+        ],
+        "description": " phrases indicating significant events or opportunities"
+    },
+    {
+        "index": "56588",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_56588.json",
+        "negative_strings": [
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581disambiguazione",
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
+        ],
+        "description": " occurrences of the word \"a\""
+    },
+    {
+        "index": "97342",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_97342.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
+        ],
+        "description": "articles, particularly the word \"a.\""
+    },
+    {
+        "index": "64092",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_64092.json",
+        "negative_strings": [
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
+        ],
+        "description": "questions beginning with \"What\" or \"How.\""
+    },
+    {
         "index": "56930",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_56930.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a synagogue\\data_for_feature_56930.json",
         "negative_strings": [
             "insic",
             "ComponentModel",
@@ -58,365 +478,5 @@
             "\u2581synag"
         ],
         "description": " references to places of worship"
-    },
-    {
-        "index": "1007",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_1007.json",
-        "negative_strings": [
-            "\u2581profondeur",
-            "\u2581kuchni",
-            "\u2581potra",
-            "iertamente",
-            "\u2581asiatique",
-            "\u2581chr\u00e9tienne",
-            "hidupan",
-            "cocina",
-            "\u2581Jerusal\u00e9n",
-            "\u2581bataille"
-        ],
-        "positive_strings": [
-            "\u2581pinulongan",
-            "\u2581betweenstory",
-            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "PMailer",
-            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
-            "\ufeff<?",
-            "\u5e16\u6700\u540e\u7531",
-            "LayoutStyle",
-            "\u2581TextAlign"
-        ],
-        "description": " references to religious structures and rituals"
-    },
-    {
-        "index": "118081",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_118081.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "iglesia",
-            "\u2581d\u00e9sol\u00e9s",
-            "mu\u00f1eca",
-            "Tembelea",
-            "Personendaten",
-            "\u2581Majefty",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "pushFollow",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633"
-        ],
-        "positive_strings": [
-            "\u2581Jewish",
-            "\u2581Jews",
-            "Jewish",
-            "\u2581Jew",
-            "Jews",
-            "\u2581jewish",
-            "\u2581Judaism",
-            "\u2581j\u00fcdis",
-            "\u2581rabbi",
-            "jewish"
-        ],
-        "description": "references to Jewish people and topics related to them"
-    },
-    {
-        "index": "105509",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_105509.json",
-        "negative_strings": [
-            "\u2581Keuangan",
-            "RenderAtEndOf",
-            "\u2581Pierson",
-            "\u2581zasady",
-            "D\u00e9mographie",
-            "\u2581Am\u00e9rique",
-            "\u2581prowadzi",
-            "\u2581anderer",
-            "\u2581ciep\u0142a",
-            "\udb40\udc74"
-        ],
-        "positive_strings": [
-            "\u2581SY",
-            "Sy",
-            "\u2581Sy",
-            "\u2581sy",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581Sycamore",
-            "\u2581Synt",
-            "\u2581otomatig",
-            "\u2581Sym"
-        ],
-        "description": "references to specific gene or organism identifiers and related scientific nomenclature"
-    },
-    {
-        "index": "85665",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_85665.json",
-        "negative_strings": [
-            "ThroughAttribute",
-            "\u2581contextLoads",
-            "RegressionTest",
-            "msgTypes",
-            "AndEndTag",
-            "\u2581Paglinawan",
-            "AccessorTable",
-            "DebuggerStep",
-            "\u2581Exactos",
-            "InitVars"
-        ],
-        "positive_strings": [
-            "\u2581Jewish",
-            "Jewish",
-            "\u2581Jews",
-            "\u2581synagogue",
-            "\u2581synag",
-            "\u2581j\u00fcdis",
-            "\u2581jewish",
-            "\u2581\u0435\u0432\u0440\u0435",
-            "\u2581Synagogue",
-            "Jews"
-        ],
-        "description": " references to Jewish communities and historical events involving Jews"
-    },
-    {
-        "index": "114520",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_114520.json",
-        "negative_strings": [
-            "ValueStyle",
-            "\u2581vectorielle",
-            "\u2581duquel",
-            "\u2581ligera",
-            "\u2581Paglinawan",
-            "protoc",
-            "Chham",
-            "Third",
-            "\u0433\u0440\u0430\u0444\u0456\u0457",
-            "heater"
-        ],
-        "positive_strings": [
-            "\u2581Sin",
-            "\u2581SIN",
-            "Sin",
-            "SIN",
-            "clair",
-            "Geplaatst",
-            "\u2581Zin",
-            "sin",
-            "ActionCreators",
-            "\u2581sin"
-        ],
-        "description": "medical terminology related to sinus conditions and their variants"
-    },
-    {
-        "index": "76126",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_76126.json",
-        "negative_strings": [
-            "\u2581Inf\u00f3rmanos",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "EndGlobalSection",
-            "uxxxx",
-            "\u2581otomatig",
-            "\u2581nahilalakip",
-            "\u2581Wikimedijinoj",
-            "\u2581Italijani",
-            "\u1ee1ng",
-            "NameInMap"
-        ],
-        "positive_strings": [
-            "COUVER",
-            "\u2581Sn",
-            "Snoo",
-            "XmlIgnore",
-            "Sn",
-            "AnimationsModule",
-            "\u2581encu",
-            "\u2581ng\u00e0o",
-            "Preamble",
-            "\u2581premat"
-        ],
-        "description": "references to genetic markers or variations, specifically SNPs (single nucleotide polymorphisms)"
-    },
-    {
-        "index": "47189",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_47189.json",
-        "negative_strings": [
-            "4",
-            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
-            "../../",
-            "3",
-            "pellier",
-            "getElements",
-            "\u2581getM",
-            "getResource",
-            "\u2581ennen",
-            "\u2581beliau"
-        ],
-        "positive_strings": [
-            "Synopsis",
-            "\u2581Synopsis",
-            "Syn",
-            "\u2581Syn",
-            "\u2581SYN",
-            "\u2581Synod",
-            "SYNOPSIS",
-            "\u2581syns",
-            "\u2581syn",
-            "SYN"
-        ],
-        "description": " terms related to synapses and synaptic functions"
-    },
-    {
-        "index": "8294",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_8294.json",
-        "negative_strings": [
-            "\u2581Inf\u00f3rmanos",
-            "\u2581Leicester",
-            "\u2581propOrder",
-            "\u2581henkil",
-            "\u2581Nil",
-            "\u2581cora\u00e7\u00f5es",
-            "eraard",
-            "fcntl",
-            "\u2581MessageBoxIcon",
-            "\u2581whole"
-        ],
-        "positive_strings": [
-            "Syna",
-            "\u2581Syna",
-            "\u2581synapse",
-            "synap",
-            "\u2581synapses",
-            "\u2581synaptic",
-            "synaptic",
-            "\u2581synap",
-            "\u2581Synagogue",
-            "\u2581syna"
-        ],
-        "description": " terms related to synaptic functions and plasticity"
-    },
-    {
-        "index": "112608",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_112608.json",
-        "negative_strings": [
-            "KommentareTeilen",
-            "\u2581metabolic",
-            "\u2581HFILL",
-            "ActionCreators",
-            "\u2581Lk",
-            "\u2581RISERVATA",
-            "\u2581Kalifor",
-            "Demograf\u00eda",
-            "\u2581lif",
-            "Lk"
-        ],
-        "positive_strings": [
-            "\u2581architecture",
-            "\u2581architectural",
-            "\u2581rebuilt",
-            "\u2581gorgeous",
-            "beautiful",
-            "\u2581ornate",
-            "gorgeous",
-            "\u2581architect",
-            "\u2581beautiful",
-            "\u2581Architecture"
-        ],
-        "description": "references to specific geographic locations or historical sites"
-    },
-    {
-        "index": "9610",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_9610.json",
-        "negative_strings": [
-            "\u2581EconPapers",
-            "\u2581ujednoznacz",
-            "\u2581kysy",
-            "\u2581bureaus",
-            "\u86aa",
-            "\u0627\u0644\u062d\u064a\u0627\u0647",
-            "\u2581oprot",
-            "awtextra",
-            "SequentialGroup",
-            "\u2581Signalez"
-        ],
-        "positive_strings": [
-            "HostException",
-            "\u2581Diretto",
-            "iecie",
-            "mesh",
-            "\u00fcrtel",
-            "brew",
-            "/*!",
-            "\u2581mycelium",
-            "nonatomic",
-            "wolle"
-        ],
-        "description": "references to Jewish culture, traditions, and identities"
-    },
-    {
-        "index": "13783",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_13783.json",
-        "negative_strings": [
-            "Emp",
-            "!');",
-            "EndContext",
-            "coke",
-            "\u2581Emp",
-            "iong",
-            "\u2581fay",
-            "\u2581emp",
-            "chance",
-            "ModelState"
-        ],
-        "positive_strings": [
-            "\u2581Jewish",
-            "\u2581Judaism",
-            "jewish",
-            "\u2581Israeli",
-            "\u2581Rabbi",
-            "Jewish",
-            "\u2581synag",
-            "\u2581synagogue",
-            "\u2581j\u00fcdis",
-            "\u2581jud\u00edos"
-        ],
-        "description": " references to Jewish cultural and religious practices"
-    },
-    {
-        "index": "12147",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a synagogue/data_for_feature_12147.json",
-        "negative_strings": [
-            "\u2581uVar",
-            "awtextra",
-            "\u2581gusta",
-            "qtype",
-            "\u2581mengalir",
-            "DECREF",
-            "IVEREF",
-            "\u2581vru",
-            "fclose",
-            "czej"
-        ],
-        "positive_strings": [
-            "\u2581CEOs",
-            "\u2581\"..\\..\\..\\",
-            "\u2581executives",
-            "MigrationBuilder",
-            "\u2581administrators",
-            "\u2581\"..\\..\\",
-            "tonsoft",
-            "\u2581administrations",
-            "\u2581CEO",
-            "\u2581owners"
-        ],
-        "description": "terms related to various organizations and establishments, including governmental, educational, and health-related entities"
     }
 ]

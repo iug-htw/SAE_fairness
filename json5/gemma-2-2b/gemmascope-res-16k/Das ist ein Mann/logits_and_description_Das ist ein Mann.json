@@ -1,38 +1,38 @@
 [
     {
-        "index": "2467",
+        "index": "4667",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_2467.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_4667.json",
         "negative_strings": [
-            "\u2581Bakan",
-            "\u2581Cient\u00ed",
-            "\u2581busto",
-            "\u2581swamps",
-            "\u2581Danish",
-            "\u2581Finnish",
-            "\u2581parma",
-            "\u2581husband",
-            "\u2581Czech",
-            "\u2581Cze"
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
         ],
         "positive_strings": [
-            "\u2581im",
-            "\u2581mit",
-            "\u2581und",
-            "\u2581sowie",
-            "\u2581am",
-            "\u2581einschlie\u00dflich",
-            "\u2581f\u00fcr",
-            "\u2581zust\u00e4ndig",
-            "\u2581zum",
-            "\u2581aus"
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
         ],
-        "description": "words related to perception and understanding in relation to concepts, likely linked to the arts or literature"
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
     },
     {
         "index": "6069",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_6069.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_6069.json",
         "negative_strings": [
             "\u2581Mej\u00eda",
             "\u2581Independiente",
@@ -62,7 +62,7 @@
     {
         "index": "3923",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_3923.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_3923.json",
         "negative_strings": [
             "\u2581Monfieur",
             "\u2581purpo\u017fe",
@@ -90,9 +90,69 @@
         "description": "phrases discussing rules or guidelines regarding syntax or grammatical structures"
     },
     {
+        "index": "2467",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_2467.json",
+        "negative_strings": [
+            "\u2581Bakan",
+            "\u2581Cient\u00ed",
+            "\u2581busto",
+            "\u2581swamps",
+            "\u2581Danish",
+            "\u2581Finnish",
+            "\u2581parma",
+            "\u2581husband",
+            "\u2581Czech",
+            "\u2581Cze"
+        ],
+        "positive_strings": [
+            "\u2581im",
+            "\u2581mit",
+            "\u2581und",
+            "\u2581sowie",
+            "\u2581am",
+            "\u2581einschlie\u00dflich",
+            "\u2581f\u00fcr",
+            "\u2581zust\u00e4ndig",
+            "\u2581zum",
+            "\u2581aus"
+        ],
+        "description": "words related to perception and understanding in relation to concepts, likely linked to the arts or literature"
+    },
+    {
+        "index": "13219",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_13219.json",
+        "negative_strings": [
+            "\u2581Mej\u00eda",
+            "kl\u00fc",
+            "/#{",
+            "ijnt",
+            "\u2581Rosales",
+            "Ch\u1ea5t",
+            "t\u1ed5ng",
+            "\u2581Leopoldo",
+            "\u2581Stead",
+            "B\u1ed9"
+        ],
+        "positive_strings": [
+            "\u2581Vordergrund",
+            "\u2581Bewu\u00dft",
+            "\u2581Erhaltung",
+            "\u2581Menschheit",
+            "\u2581Verh\u00e4lt",
+            "\u2581Schlu\u00df",
+            "\u2581Forderung",
+            "\u2581urspr\u00fcng",
+            "\u2581Zeitpunkt",
+            "\u2581Gegenteil"
+        ],
+        "description": "terms related to file access permissions and management"
+    },
+    {
         "index": "38",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_38.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_38.json",
         "negative_strings": [
             "\u2581purpo\u017fe",
             "\u2581Econ\u00f3mica",
@@ -120,159 +180,249 @@
         "description": "modal verbs and their usage in sentences"
     },
     {
-        "index": "4641",
+        "index": "12392",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_4641.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_12392.json",
         "negative_strings": [
-            "plusplus",
-            "zerland",
-            "Especially",
-            "rungsseite",
-            "getLogger",
-            "\u021bion",
-            "\u03b4\u03bf\u03c2",
-            "liquer",
-            "imea",
-            "\u2581Especially"
+            "\u2581externi",
+            "tvguidetime",
+            "h\u00f4te",
+            "\u2581Czer",
+            "\u2581Unwin",
+            "ChromeDriver",
+            "\u2581Been",
+            "\u2581tasca",
+            "\u2581Constance",
+            "\u0411\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
         ],
         "positive_strings": [
-            "LookAnd",
-            "\u2581oprot",
-            "IVEREF",
+            "\u2581mal",
+            "RectangleBorder",
+            "\u2581irgendwie",
+            "\u2581ja",
+            "\u2581nix",
             "StoryboardSegue",
-            "\u2581autorytatywna",
-            "TagMode",
-            "TestingModule",
-            "parsedMessage",
-            "Demograf\u00eda",
-            "\u2581Rache"
+            "\u2581sowas",
+            "\u2581echt",
+            "\u2581halt",
+            "\u2581eigentlich"
         ],
-        "description": "verbs related to possibility or necessity"
+        "description": "modal verbs and their usage in the context of expressing possibilities and necessities"
     },
     {
-        "index": "14863",
+        "index": "9197",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_14863.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_9197.json",
         "negative_strings": [
+            "\u2581BoxFit",
+            "\u0627\u0644\u062d\u064a\u0627\u0647",
+            "\u2581ferm\u00e9s",
+            "\u2581\u00e9las",
+            "\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "DoubleQuotes",
+            "\u2581trait\u00e9s",
+            "\u2581\u00e9tan",
+            "RectangleBorder"
+        ],
+        "positive_strings": [
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581himself",
+            "mtrl",
+            "\u2581getopt",
+            "Joc",
+            "eriks",
+            "\u2581Programm",
+            "UPI",
+            "\u2581testifying",
+            "\u2581isEqualToString"
+        ],
+        "description": "references to mathematical terminology and structures, especially in academic contexts"
+    },
+    {
+        "index": "3345",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_3345.json",
+        "negative_strings": [
+            "Personendaten",
+            "GTCX",
+            "WebElementEntity",
+            "InjectMocks",
+            "viewDidLoad",
+            "\u2581useRouter",
+            "\u2581AssemblyProduct",
+            "crats",
+            "WriteTagHelper",
+            "\u7238"
+        ],
+        "positive_strings": [
+            "Xna",
+            "\u2581estekak",
+            "\u2581R\u00e9f\u00e9rence",
+            "\ufeff#",
             "+#+#",
-            "addGap",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "addContainerGap",
-            "\u2581Normdatei",
-            "\u2581AssemblyCulture",
-            "\u2581utafitiHapana",
-            "webElementXpaths",
-            "\u2581Roskov",
-            "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456"
+            "\u2581GenerationType",
+            "Viited",
+            "DataAnnotations",
+            "zeum",
+            "\u2581ProtoMessage"
         ],
-        "positive_strings": [
-            "\u2581Magee",
-            "\u00fasqueda",
-            "\u00e9rard",
-            "enerbah\u00e7e",
-            "ient\u00f4t",
-            "bed\u00fcr",
-            "verh\u00e4ltnisse",
-            "limsy",
-            "freiheit",
-            "\u2581Devlin"
-        ],
-        "description": " phrases related to modal verbs and their usage"
+        "description": " specific conditions, constraints, or requirements related to items, especially in technical contexts"
     },
     {
-        "index": "730",
+        "index": "5088",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_730.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_5088.json",
         "negative_strings": [
-            "toare",
-            "oarece",
-            "visej\u00edc\u00ed",
-            "\u010dios",
-            "m\u0117s",
-            "\u010dio",
-            "\u2581Warszawie",
-            "toarele",
+            "\u2581your",
+            "\u2581you",
+            "\u2581our",
+            "\u2581the",
+            "ByVersion",
+            "\u2581my",
+            "\u2581known",
+            "\u2581expecting",
+            "\u2581Und",
+            "\u2581his"
+        ],
+        "positive_strings": [
+            "\u2581die",
+            "\u2581das",
+            "\u2581eine",
+            "\u2581ein",
+            "\u2581diese",
+            "\u2581einen",
+            "\u2581den",
+            "\u2581der",
+            "\u2581jene",
+            "\u2581deren"
+        ],
+        "description": " phrases related to permissions and access restrictions in digital contexts"
+    },
+    {
+        "index": "38",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_38.json",
+        "negative_strings": [
+            "\u2581purpo\u017fe",
+            "\u2581Econ\u00f3mica",
+            "\u2581Monfieur",
+            "\u2581hou\u017fe",
+            "\u2581\u017feveral",
+            "\u2581Di\u017f",
+            "\u2581greate\u017ft",
+            "\u2581Re\u017f",
+            "\u2581Constitucional",
+            "\u2581Mois\u00e9s"
+        ],
+        "positive_strings": [
+            "\u2581\u201e",
+            "\u2581im",
+            "\u2581der",
+            "\u2581f\u00fcr",
+            "\u2581zu",
+            "\u2581\u201a",
+            "\u2581und",
+            "\u2581um",
+            "\u2581mit",
+            "\u2581wo"
+        ],
+        "description": "modal verbs and their usage in sentences"
+    },
+    {
+        "index": "2495",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_2495.json",
+        "negative_strings": [
+            "\u2581onCancelled",
+            "\u017anie",
+            "\u2581iodide",
+            "migrationBuilder",
+            "\u2581fr\u00e5gor",
+            "\u2581bromide",
+            "mography",
+            "\u2581halide",
+            "\u2581betweenstory",
+            "\u2581Carmine"
+        ],
+        "positive_strings": [
+            "\u2581Deal",
+            "\u2581Code",
+            "\u2581anyway",
+            "\u2581deal",
+            "Code",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581Gang",
+            "\u2581Look",
+            "\u2581Ansatz",
+            "\u2581Auftritt"
+        ],
+        "description": " specific forms and structures related to sentences and clauses"
+    },
+    {
+        "index": "15028",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_15028.json",
+        "negative_strings": [
+            "ConstraintMaker",
+            "Personensuche",
+            "balleur",
+            "\u2581Syrie",
+            "IVEREF",
             "\u2581C\u0103",
-            "toje"
+            "\u2581alike",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u2581utafitiHapana",
+            "\u2581belge"
         ],
         "positive_strings": [
-            "\u2581Magee",
-            "\u2581Samuels",
-            "\u5354\u6703",
-            "improving",
-            "lagen",
-            "\u00e4r",
-            "\u2581Aitken",
-            "towa\u0107",
-            "itt\u00e0",
-            "r\u00f3geno"
+            "\u2581preocupes",
+            "ScopeManager",
+            "act\u00e9ristique",
+            "\u2581sentimenti",
+            "Personendaten",
+            "ostante",
+            "\">{{$",
+            "\u2581sogni",
+            "\u2581})}",
+            "\u2581puder"
         ],
-        "description": " terms related to legal or governmental roles and actions"
+        "description": "sentences discussing the presence of specific requirements or conditions"
     },
     {
-        "index": "38",
+        "index": "15136",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_38.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_15136.json",
         "negative_strings": [
-            "\u2581purpo\u017fe",
-            "\u2581Econ\u00f3mica",
-            "\u2581Monfieur",
-            "\u2581hou\u017fe",
-            "\u2581\u017feveral",
-            "\u2581Di\u017f",
-            "\u2581greate\u017ft",
-            "\u2581Re\u017f",
-            "\u2581Constitucional",
-            "\u2581Mois\u00e9s"
+            "\u2581devrez",
+            "\u2581siya",
+            "\u2581bubble",
+            "\u2581downt",
+            "atic",
+            "\u2581Temples",
+            "\u00e1vaj\u00fa",
+            "jemah",
+            "dije",
+            "\u2581\u043a\u04c0"
         ],
         "positive_strings": [
-            "\u2581\u201e",
-            "\u2581im",
-            "\u2581der",
-            "\u2581f\u00fcr",
-            "\u2581zu",
-            "\u2581\u201a",
-            "\u2581und",
-            "\u2581um",
-            "\u2581mit",
-            "\u2581wo"
+            "Pues",
+            "WriteTagHelper",
+            "\u2581unfortunately",
+            "\u2581\u00fcbrigens",
+            "\u2581zwar",
+            "ValueStyle",
+            "\u2581IMHO",
+            "\u2581thankfully",
+            "\u2581allerdings",
+            "KURZBESCHREIBUNG"
         ],
-        "description": "modal verbs and their usage in sentences"
-    },
-    {
-        "index": "38",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_38.json",
-        "negative_strings": [
-            "\u2581purpo\u017fe",
-            "\u2581Econ\u00f3mica",
-            "\u2581Monfieur",
-            "\u2581hou\u017fe",
-            "\u2581\u017feveral",
-            "\u2581Di\u017f",
-            "\u2581greate\u017ft",
-            "\u2581Re\u017f",
-            "\u2581Constitucional",
-            "\u2581Mois\u00e9s"
-        ],
-        "positive_strings": [
-            "\u2581\u201e",
-            "\u2581im",
-            "\u2581der",
-            "\u2581f\u00fcr",
-            "\u2581zu",
-            "\u2581\u201a",
-            "\u2581und",
-            "\u2581um",
-            "\u2581mit",
-            "\u2581wo"
-        ],
-        "description": "modal verbs and their usage in sentences"
+        "description": " modal verbs and their usage in sentences"
     },
     {
         "index": "14660",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_14660.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_14660.json",
         "negative_strings": [
             "\u2581my\u017felf",
             "\u2581Asimismo",
@@ -300,93 +450,63 @@
         "description": "modal verbs often used in hypothetical or conditional contexts"
     },
     {
-        "index": "8227",
+        "index": "5088",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_8227.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_5088.json",
         "negative_strings": [
-            "\u2581\u0218i",
-            ">`;",
-            "\u0ba4\u0bbf",
-            "le\u017eit\u00e9",
-            "\u2581maybe",
-            "\u2581Bucure\u0219ti",
-            "\u2581others",
-            "\u2581Isto",
-            "\u2581\u015ei",
-            "\u2581Nunca"
+            "\u2581your",
+            "\u2581you",
+            "\u2581our",
+            "\u2581the",
+            "ByVersion",
+            "\u2581my",
+            "\u2581known",
+            "\u2581expecting",
+            "\u2581Und",
+            "\u2581his"
         ],
         "positive_strings": [
+            "\u2581die",
+            "\u2581das",
+            "\u2581eine",
+            "\u2581ein",
+            "\u2581diese",
+            "\u2581einen",
+            "\u2581den",
+            "\u2581der",
+            "\u2581jene",
+            "\u2581deren"
+        ],
+        "description": " phrases related to permissions and access restrictions in digital contexts"
+    },
+    {
+        "index": "38",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_38.json",
+        "negative_strings": [
+            "\u2581purpo\u017fe",
+            "\u2581Econ\u00f3mica",
+            "\u2581Monfieur",
+            "\u2581hou\u017fe",
+            "\u2581\u017feveral",
+            "\u2581Di\u017f",
+            "\u2581greate\u017ft",
+            "\u2581Re\u017f",
+            "\u2581Constitucional",
+            "\u2581Mois\u00e9s"
+        ],
+        "positive_strings": [
+            "\u2581\u201e",
             "\u2581im",
+            "\u2581der",
+            "\u2581f\u00fcr",
+            "\u2581zu",
+            "\u2581\u201a",
+            "\u2581und",
+            "\u2581um",
             "\u2581mit",
-            "\u2581am",
-            "tvguidetime",
-            "\u2581bei",
-            "\u2581mits",
-            "tagHelperRunner",
-            "\u2581vor",
-            "\u2581auf",
-            "\u2581mitten"
+            "\u2581wo"
         ],
-        "description": "phrases related to database management and errors"
-    },
-    {
-        "index": "4028",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_4028.json",
-        "negative_strings": [
-            "Especially",
-            "\u0433\u0456\u0432",
-            "\u2581passo",
-            "\u2581Zorg",
-            "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456",
-            "\u021biile",
-            "rungsseite",
-            "wiada",
-            ".*\")]",
-            "jning"
-        ],
-        "positive_strings": [
-            "TagMode",
-            "liferay",
-            "\u2581\u0935\u093f\u0936\u094d\u0935\u0938\u0928\u0940\u092f\u0924\u093e",
-            "\u2581ExecuteAsync",
-            "ViewGroup",
-            "\u2581Leiden",
-            "\u2581\u00e9missions",
-            "\u2581Tugend",
-            "clf",
-            "\u2581pows"
-        ],
-        "description": "verbs and phrases related to legal contexts"
-    },
-    {
-        "index": "13687",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/Das ist ein Mann/data_for_feature_13687.json",
-        "negative_strings": [
-            "ModelAdmin",
-            "CloseOperation",
-            "PhysRevD",
-            "\u2581ArrayAdapter",
-            "ffiti",
-            "onAttach",
-            "Izvori",
-            "findpost",
-            "rawDesc",
-            "\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f"
-        ],
-        "positive_strings": [
-            "handled",
-            "made",
-            "kind",
-            "atee",
-            "liness",
-            "kinds",
-            "itoba",
-            "gement",
-            "Kind",
-            "hole"
-        ],
-        "description": "references to the word \"man\" or variations of it"
+        "description": "modal verbs and their usage in sentences"
     }
 ]

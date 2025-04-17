@@ -2,7 +2,7 @@
     {
         "index": "4077",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_4077.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_4077.json",
         "negative_strings": [
             "epar",
             "SourceChecksum",
@@ -30,9 +30,219 @@
         "description": "references to male and female distinctions or characteristics"
     },
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
         "index": "16085",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_16085.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_16085.json",
         "negative_strings": [
             "\u2581resoluci\u00f3n",
             "URLConnection",
@@ -60,9 +270,69 @@
         "description": "references to gender and sex differences"
     },
     {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
         "index": "11335",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_11335.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_11335.json",
         "negative_strings": [
             "verifyException",
             "\u044f\u0431\u0440\u0435",
@@ -90,9 +360,69 @@
         "description": " references to gender and sex classifications"
     },
     {
+        "index": "9394",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_9394.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "\u2581\"..\\..\\",
+            "\u0e0d\u0e34\u0e07",
+            "\u2581\"..\\..\\..\\",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\ub010",
+            "ItemBackground",
+            "\u2581regeringen",
+            "RefNanny",
+            "\u2581mo\u017en\u00e1"
+        ],
+        "positive_strings": [
+            "\u2581boon",
+            "\u2581hindrance",
+            "\u2581testament",
+            "\u2581disgrace",
+            "\u2581blessing",
+            "\u2581rarity",
+            "\u2581prerequisite",
+            "\u2581bit",
+            "\u2581necessity",
+            "posites"
+        ],
+        "description": " instances of the article \"a\" paired with various nouns"
+    },
+    {
+        "index": "1298",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_1298.json",
+        "negative_strings": [
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
+        ],
+        "positive_strings": [
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
+        ],
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
+    },
+    {
         "index": "11344",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_11344.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a male\\data_for_feature_11344.json",
         "negative_strings": [
             "\u2581ujednoznacz",
             "\u2581initComponents",
@@ -118,305 +448,5 @@
             "Mald"
         ],
         "description": " references to a specific individual or entity named \"Mal.\""
-    },
-    {
-        "index": "1374",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_1374.json",
-        "negative_strings": [
-            "\u2581extranjera",
-            "\u2581religione",
-            "\u2581inf\u00e2ncia",
-            "\u2581infierno",
-            "\u2581dictadura",
-            "\u2581rodillas",
-            "\u2581ziekte",
-            "\u2581Mehrheit",
-            "\u2581onderwerp",
-            "\u2581edades"
-        ],
-        "positive_strings": [
-            "\u2581LEGO",
-            "\u2581leggings",
-            "\u2581adidas",
-            "\u2581stainless",
-            "\u2581whisky",
-            "\u2581vodka",
-            "\u2581cashmere",
-            "\u2581Citro\u00ebn",
-            "\u2581iPhone",
-            "\u2581opal"
-        ],
-        "description": "descriptive adjectives and phrases related to aesthetics and design"
-    },
-    {
-        "index": "3884",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_3884.json",
-        "negative_strings": [
-            "pidou",
-            "\u2581\u017find",
-            "oporosis",
-            "ne\u017fs",
-            "pointments",
-            "\u2581An\u017f",
-            "\u017fcher",
-            "ni\u017f\u017fe",
-            "\u2581que\u017fta",
-            "\u2581rea\u017fon"
-        ],
-        "positive_strings": [
-            "\u2581female",
-            "\u2581Female",
-            "Female",
-            "\u2581FEMALE",
-            "\u2581male",
-            "female",
-            "\u2581Male",
-            "Male",
-            "\u2581MALE",
-            "FEMALE"
-        ],
-        "description": "references to gender, particularly relating to females"
-    },
-    {
-        "index": "14458",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_14458.json",
-        "negative_strings": [
-            "\u00e9nario",
-            "\u2581\u00e9paules",
-            "\u2581initComponents",
-            "roek",
-            "\u2581NSCoder",
-            "baomidou",
-            "TypedDataSet",
-            "\u2581\uc0c1\uc138",
-            "cadilly",
-            "innerHeight"
-        ],
-        "positive_strings": [
-            "\u2581birds",
-            "\u2581pigeons",
-            "\u2581squirrels",
-            "\u2581animals",
-            "\u2581rabbits",
-            "\u2581ducks",
-            "\u2581deer",
-            "\u2581rats",
-            "\u2581chickens",
-            "\u2581cats"
-        ],
-        "description": "specific animal species mentioned in various contexts"
-    },
-    {
-        "index": "14467",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_14467.json",
-        "negative_strings": [
-            "\u2581amanh\u00e3",
-            "\u2581Umfang",
-            "\u2581vermelha",
-            "\u2581afgelopen",
-            "\u2581ocasi\u00e3o",
-            "\u2581pedras",
-            "\u2581sch\u00f6nes",
-            "\u2581compl\u00e8tes",
-            "\u2581princ\u00edpio",
-            "\u2581conocido"
-        ],
-        "positive_strings": [
-            "\u2581interviews",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "Autoritn\u00ed",
-            "bootstrapcdn",
-            "\u2581satisfaction",
-            "\u2581ddelweddau",
-            "\u2581empowerment",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581profiles",
-            "\u2581Interviews"
-        ],
-        "description": "references to various roles within a company or organization, particularly focusing on employees, customers, and leadership positions"
-    },
-    {
-        "index": "6981",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_6981.json",
-        "negative_strings": [
-            "corbic",
-            "Rhestr",
-            "istungs",
-            "rotta",
-            "\u2581geolocation",
-            "dass",
-            "illis",
-            "estart",
-            "illig",
-            "rophoto"
-        ],
-        "positive_strings": [
-            "\u2581men",
-            "\u2581Men",
-            "Men",
-            "\u2581MEN",
-            "\u2581M\u00e4nner",
-            "\u2581hommes",
-            "\u2581hombres",
-            "\u2581homens",
-            "\u2581uomini",
-            "\u2581M\u00e4nnern"
-        ],
-        "description": "references to men and their experiences"
-    },
-    {
-        "index": "11194",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_11194.json",
-        "negative_strings": [
-            ":\u2728",
-            "Groetjes",
-            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
-            "CORBA",
-            "setVerticalGroup",
-            "stateProvider",
-            "userdetails",
-            "jsdelivr",
-            "velocityY",
-            "\u2581kasarigan"
-        ],
-        "positive_strings": [
-            "\u2581manly",
-            "\u2581m\u0119ski",
-            "\u2581masculino",
-            "\u2581manhood",
-            "\u2581masculina",
-            "\u2581masculinity",
-            "Males",
-            "\u2581mascul",
-            "\u2581boyhood",
-            "\u2581masculinos"
-        ],
-        "description": "mentions of male subjects and their identifiers"
-    },
-    {
-        "index": "8228",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_8228.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "AddTagHelper",
-            "parsedMessage",
-            "\u2581demografica",
-            "wi\u015bcie",
-            "\u2581g\u00e5ngen",
-            "manteau",
-            "orsz\u00e1gban",
-            "cks\u00e5",
-            "\u2581n\u00e1v"
-        ],
-        "positive_strings": [
-            "\u2581MA",
-            "\u2581Ma",
-            "\u2581Mayhem",
-            "Ma",
-            "\u2581m\u1ebd",
-            "MA",
-            "\u2581ma",
-            "\u2581M",
-            "ConstraintMaker",
-            "ma"
-        ],
-        "description": "references to \"Ma\" and related terminology in various scientific contexts"
-    },
-    {
-        "index": "2647",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_2647.json",
-        "negative_strings": [
-            "nya",
-            "ness",
-            "\u305f\u3081\u306e",
-            "sion",
-            "\u305f\u3081",
-            "rij",
-            "\u3057\u307e\u3063\u305f",
-            "sodium",
-            "\u306a\u3044",
-            "straat"
-        ],
-        "positive_strings": [
-            "e",
-            "\u0654",
-            "ede",
-            "eee",
-            "eeee",
-            "eva",
-            "\u0e49",
-            "\u3047",
-            "ete",
-            "esha"
-        ],
-        "description": " references to specific names and terms related to individuals and organizations"
-    },
-    {
-        "index": "15928",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_15928.json",
-        "negative_strings": [
-            "\u2581Hinsicht",
-            "\u2581Risiken",
-            "\u2581dalamnya",
-            "\u2581justru",
-            "EndGlobalSection",
-            "\u2581TextAppearance",
-            "\u2581\u00e4ven",
-            "\u2581posteriormente",
-            "\u2581dessutom",
-            "\u2581neler"
-        ],
-        "positive_strings": [
-            "abetes",
-            "\u017byciorys",
-            "\u2581amigurumi",
-            "\u2581Sephora",
-            "cody",
-            "\u2581eczema",
-            "\u2581orthodon",
-            "\u2581attic",
-            "\u2581boyfriend",
-            "\u2581DIY"
-        ],
-        "description": " occurrences of the phrase \"I have\" indicating user actions or concerns"
-    },
-    {
-        "index": "9642",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a male/data_for_feature_9642.json",
-        "negative_strings": [
-            "\u2581An\u017f",
-            "\u2581Hou\u017fe",
-            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
-            "parsedMessage",
-            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
-            "Belly",
-            "\udb40\udc6e",
-            "\udb40\udc63",
-            "RectangleBorder",
-            "mybatisplus"
-        ],
-        "positive_strings": [
-            "\u2581i\u017c",
-            "maktad\u0131r",
-            "\u2581utilizing",
-            "mektedir",
-            "\u2581upon",
-            "\u2581skall",
-            "\u2581utilising",
-            "\u2581\u0645\u06cc\u200c\u0628\u0627\u0634\u062f",
-            "\u2581pertanto",
-            "\u2581\u05d0\u05e9\u05e8"
-        ],
-        "description": "terms related to correctness and assistance in various contexts"
     }
 ]

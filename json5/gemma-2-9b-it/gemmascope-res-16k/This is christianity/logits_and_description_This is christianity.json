@@ -2,7 +2,7 @@
     {
         "index": "14162",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_14162.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_14162.json",
         "negative_strings": [
             "parsedMessage",
             "\u2581StyleSheet",
@@ -30,39 +30,279 @@
         "description": "references to the name \"Christian\" and related variations in context"
     },
     {
-        "index": "11255",
+        "index": "2138",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_11255.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_2138.json",
         "negative_strings": [
-            "inherits",
-            "RTDA",
-            "dafx",
-            "lads",
-            "\u2581Felt",
-            "TypedArray",
-            "AccessFile",
-            "\u601d\u3044",
-            "\u2581zb",
-            "\u2581\u540b"
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
         ],
         "positive_strings": [
-            "\u2581Cr",
-            "\u2581Signalez",
-            "\u2581CR",
-            "\u2581cardiaque",
-            "AnimationsModule",
-            "Cr",
-            "\u2581Ronaldo",
-            "\u2581BioLib",
-            "\u2581Cristi",
-            "CR"
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
         ],
-        "description": " references to specific medical conditions, treatments, and clinical trial results"
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "14412",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_14412.json",
+        "negative_strings": [
+            "\u2581atmosf",
+            "\u2581berdua",
+            "utuhkan",
+            "\u2581mulia",
+            "protoimpl",
+            "WebElementEntity",
+            "\u2581DriverManager",
+            "arangay",
+            "\u2581p\u00e9dagogique",
+            "\u00f1ales"
+        ],
+        "positive_strings": [
+            "\u2581religion",
+            "\u2581religions",
+            "\u2581Religion",
+            "\u2581Christianity",
+            "\u2581religious",
+            "religion",
+            "Religion",
+            "\u2581Christian",
+            "\u2581Religions",
+            "\u2581religione"
+        ],
+        "description": "references to religion and different religious affiliations"
+    },
+    {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
     },
     {
         "index": "11053",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_11053.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_11053.json",
         "negative_strings": [
             "\u2581Efq",
             "UrlResolution",
@@ -90,189 +330,69 @@
         "description": "themes related to faith and spirituality"
     },
     {
-        "index": "13196",
+        "index": "1298",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_13196.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_1298.json",
         "negative_strings": [
-            "Parcelize",
-            "WebElementEntity",
-            "CastException",
-            "Tikang",
-            "dafx",
-            "\u2581Compensation",
-            "\u2581\u0635\u0641\u062d\u06c0",
-            "parsedMessage",
             "DockStyle",
-            "issements"
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
         ],
         "positive_strings": [
-            "\u2581religious",
-            "\u2581Religious",
-            "Religious",
-            "religious",
-            "\u2581religieuses",
-            "\u2581religioso",
-            "\u2581religieux",
-            "\u2581Religion",
-            "\u2581religion",
-            "\u2581\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437"
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
         ],
-        "description": "mentions of religion and spirituality"
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
     },
     {
-        "index": "16239",
+        "index": "11255",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_16239.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_11255.json",
         "negative_strings": [
-            "ledad",
-            "yorsunuz",
-            "yntaxException",
-            "Sharper",
-            "elstein",
-            "\u2581\uc788\ub294",
-            "\u2581byste",
-            "plates",
-            "pedes",
-            "CHAFT"
+            "inherits",
+            "RTDA",
+            "dafx",
+            "lads",
+            "\u2581Felt",
+            "TypedArray",
+            "AccessFile",
+            "\u601d\u3044",
+            "\u2581zb",
+            "\u2581\u540b"
         ],
         "positive_strings": [
-            "AccessorTable",
-            "httphttps",
-            "OPHER",
-            "\u2581Chris",
-            "opher",
-            "\u2581betweenstory",
-            "\u2581initComponents",
-            "\u2581Christopher",
-            "Chris",
-            "StoreMessageInfo"
+            "\u2581Cr",
+            "\u2581Signalez",
+            "\u2581CR",
+            "\u2581cardiaque",
+            "AnimationsModule",
+            "Cr",
+            "\u2581Ronaldo",
+            "\u2581BioLib",
+            "\u2581Cristi",
+            "CR"
         ],
-        "description": "mentions of the name \"Christopher\" and variations of \"Chris.\""
-    },
-    {
-        "index": "5091",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_5091.json",
-        "negative_strings": [
-            "\u2581BoxDecoration",
-            "routeProvider",
-            "providedIn",
-            "mybatisplus",
-            "\u2749",
-            "IndentedString",
-            "SPATH",
-            "\u2581BorderSide",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "reportWebVitals"
-        ],
-        "positive_strings": [
-            "Ch",
-            "\u2581CH",
-            "\u2581ch",
-            "\u2581Ch",
-            "CH",
-            "chern",
-            "Chi",
-            "channelId",
-            "\u2581Chuck",
-            "\u2581Chip"
-        ],
-        "description": " terms related to hepatitis B and associated medical terminology"
-    },
-    {
-        "index": "8823",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_8823.json",
-        "negative_strings": [
-            "prefixer",
-            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
-            "\u2581optimisation",
-            "\u2581courtiers",
-            "\u2581Athenians",
-            "\u2581terminal",
-            "\u2581privatisation",
-            "\u2581profiler",
-            "DrawerToggle",
-            "\u2581talents"
-        ],
-        "positive_strings": [
-            "\u2581Catholic",
-            "Catholic",
-            "\u2581religious",
-            "\u2581religiosos",
-            "\u2581Religious",
-            "Religious",
-            "\u2581religieux",
-            "\u2581religieuse",
-            "\u2581religieuses",
-            "\u2581cat\u00f3lica"
-        ],
-        "description": "references to Catholicism and related religious concepts"
-    },
-    {
-        "index": "13020",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_13020.json",
-        "negative_strings": [
-            "parsedMessage",
-            "makeConstraints",
-            "alanta",
-            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
-            "Bibitem",
-            "\u2581dilatation",
-            "\u2581\u017feine",
-            "\u0004",
-            "\u279f",
-            "ViewFeatures"
-        ],
-        "positive_strings": [
-            "\u2581Catholic",
-            "\u2581Lutheran",
-            "Catholic",
-            "\u2581Muslim",
-            "\u2581Christian",
-            "\u2581Jewish",
-            "\u2581Baptist",
-            "\u2581Catholics",
-            "\u2581Presbyterian",
-            "Muslim"
-        ],
-        "description": "references to Catholic and Christian institutions or concepts"
-    },
-    {
-        "index": "3496",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_3496.json",
-        "negative_strings": [
-            "ulam",
-            "\u2581Table",
-            "\u2581fancy",
-            "ousse",
-            "ulae",
-            "mtable",
-            "setLabel",
-            "vezet\u0151",
-            "\u2581Pij",
-            "TableView"
-        ],
-        "positive_strings": [
-            "\u2581Christian",
-            "Christian",
-            "CHRIST",
-            "\u2581CHRISTIAN",
-            "\u2581Christ",
-            "\u2581CHRIST",
-            "Christ",
-            "\u2581Chris",
-            "\u2581chr\u00e9tien",
-            "\u2581Christi"
-        ],
-        "description": "references to Christian identity and community"
+        "description": " references to specific medical conditions, treatments, and clinical trial results"
     },
     {
         "index": "120",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_120.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_120.json",
         "negative_strings": [
             "\u2581disambiguazione",
             "parsedMessage",
@@ -300,93 +420,33 @@
         "description": "references to different religions and their beliefs, particularly in relation to Islam and Christianity"
     },
     {
-        "index": "12876",
+        "index": "1560",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_12876.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is christianity\\data_for_feature_1560.json",
         "negative_strings": [
-            "\u51fa\u7248\u5e74",
-            "bildeten",
-            "transQ",
-            "urlpatterns",
-            "\u2581manguera",
-            "\u2581illustrationer",
-            "ViewInit",
-            "\u2581Eintritt",
-            "pulseira",
-            "\u2581verksamhet"
+            "\u2581parezca",
+            "\u2581generally",
+            "Qui\u00e9n",
+            "\u2581directly",
+            "\u2581greatly",
+            "\u2581berechtigt",
+            "\u2581looking",
+            "\u2581totally",
+            "\u2581d\u00f3nde",
+            "enti\u00e8re"
         ],
         "positive_strings": [
-            "Vidite",
-            "oa\u030dt",
-            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
-            "_\r",
-            "\u2581Meksiku",
-            "\u2581MMS",
-            "fillType",
-            "orsese",
-            "Dracula",
-            "\u2581T\u00e4"
+            "\u2581defaultstate",
+            "OGND",
+            "########.",
+            "\u2581CreateTagHelper",
+            "Diwedd",
+            "ViewImports",
+            "aarrggbb",
+            "rungsseite",
+            "\u2581inform\u00e9e",
+            "\u2581Administrativna"
         ],
-        "description": "references to specific athletes and their performances"
-    },
-    {
-        "index": "8453",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_8453.json",
-        "negative_strings": [
-            "Tikang",
-            "testens",
-            "sidemargin",
-            "\u0445\u044c\u0442\u0430\u043d",
-            "\u53ce\u96c6",
-            "rsiniz",
-            "XtraBars",
-            "caux",
-            "\u2581Conor",
-            "\u062c\u063a\u0631\u0627\u0641\u064a\u0627"
-        ],
-        "positive_strings": [
-            "\u2581Evangelical",
-            "\u2581evang\u00e9",
-            "\u2581evangelical",
-            "\u2581Christian",
-            "\u2581Bible",
-            "Evange",
-            "Bible",
-            "Christian",
-            "\u2581christian",
-            "\u2581Baptist"
-        ],
-        "description": "references to evangelical Christian beliefs and practices"
-    },
-    {
-        "index": "14412",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is christianity/data_for_feature_14412.json",
-        "negative_strings": [
-            "\u2581atmosf",
-            "\u2581berdua",
-            "utuhkan",
-            "\u2581mulia",
-            "protoimpl",
-            "WebElementEntity",
-            "\u2581DriverManager",
-            "arangay",
-            "\u2581p\u00e9dagogique",
-            "\u00f1ales"
-        ],
-        "positive_strings": [
-            "\u2581religion",
-            "\u2581religions",
-            "\u2581Religion",
-            "\u2581Christianity",
-            "\u2581religious",
-            "religion",
-            "Religion",
-            "\u2581Christian",
-            "\u2581Religions",
-            "\u2581religione"
-        ],
-        "description": "references to religion and different religious affiliations"
+        "description": " mentions of programming packages and classes"
     }
 ]

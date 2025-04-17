@@ -1,8 +1,188 @@
 [
     {
+        "index": "52504",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_52504.json",
+        "negative_strings": [
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581ennemis",
+            "\u2581k\u00fcche",
+            "\u2581namelijk",
+            "\u2581Infatti",
+            "\u2581spesielt",
+            "\u770b\u4f86",
+            "\u2581monasterio",
+            "\u2581beina"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddTagHelper",
+            "\u2581Paglinawan"
+        ],
+        "description": " mathematical symbols and notations used in formal writing and equations"
+    },
+    {
+        "index": "52504",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_52504.json",
+        "negative_strings": [
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581ennemis",
+            "\u2581k\u00fcche",
+            "\u2581namelijk",
+            "\u2581Infatti",
+            "\u2581spesielt",
+            "\u770b\u4f86",
+            "\u2581monasterio",
+            "\u2581beina"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddTagHelper",
+            "\u2581Paglinawan"
+        ],
+        "description": " mathematical symbols and notations used in formal writing and equations"
+    },
+    {
+        "index": "57431",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_57431.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581Infatti",
+            "\u2581namelijk",
+            "\u2581s\u00e6rlig",
+            "\u2581beina",
+            "\u2581spesielt",
+            "\u2581compr\u00e9hen",
+            "isela",
+            "\u2581nemlig",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "AddTagHelper",
+            "\u2581Paglinawan",
+            "abestanden"
+        ],
+        "description": "special characters and formatting elements typically used in mathematical or technical documents"
+    },
+    {
+        "index": "65254",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_65254.json",
+        "negative_strings": [
+            "\u2581namelijk",
+            "\u2581ennemis",
+            "ast\u00e9ro\u00efdes",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581essentially",
+            "\u2581compr\u00e9hen",
+            "\u2581Infatti",
+            "\u2581basically",
+            "isela"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581podjela",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u0445\u044c\u0442\u0430\u043d"
+        ],
+        "description": " LaTeX symbols and mathematical notation"
+    },
+    {
+        "index": "61102",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_61102.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "\u2581Infatti",
+            "\u2581ennemis",
+            "\u2581nemlig",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581Am\u00e9rique",
+            "\u2581spesielt",
+            "\u2581namelijk",
+            "\u2581k\u00fcche",
+            "\u2581s\u00e6rlig"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "begin",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581Paglinawan",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nakalista"
+        ],
+        "description": " indicators of document structure or formatting elements"
+    },
+    {
+        "index": "53485",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_53485.json",
+        "negative_strings": [
+            "ast\u00e9ro\u00efdes",
+            "gi\u00e1",
+            "piram",
+            "\u2581crescere",
+            "\u2581Himo",
+            "\u2581S\u00e9lectionnez",
+            "\u2581'\\\\;'",
+            "\u2581jak\u00e9",
+            "ISION",
+            "\u2581Vial"
+        ],
+        "positive_strings": [
+            "\u2581Stock",
+            "\u2581study",
+            "\u2581paper",
+            "\u2581estekak",
+            "\u2581chapter",
+            "\u2581past",
+            "Autoritn\u00ed",
+            "Przypisy",
+            "\u2581tutorial",
+            "\u0012"
+        ],
+        "description": " instances of the word \"This\" or variations of \"this\" indicating a new point or thought"
+    },
+    {
         "index": "46141",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_46141.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_46141.json",
         "negative_strings": [
             "StoryboardSegue",
             "tableFuture",
@@ -30,9 +210,39 @@
         "description": "references to the subject \"She\" or \"she,\" indicating a focus on female characters or entities"
     },
     {
+        "index": "56683",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_56683.json",
+        "negative_strings": [
+            "copied",
+            "roa",
+            "tista",
+            "\u2581:\\",
+            "\u2581Lia",
+            "\\(",
+            "culos",
+            "advantage",
+            "\u2581Fon",
+            "rius"
+        ],
+        "positive_strings": [
+            "TagMode",
+            "\u0012",
+            "mybatisplus",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "\u2581paper",
+            "\u2581Wikimedijinoj",
+            "verwijspagina",
+            "Datuak",
+            "NameInMap",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9"
+        ],
+        "description": " occurrences of the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
         "index": "50852",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_50852.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_50852.json",
         "negative_strings": [
             "\u2581OFDb",
             "StoryboardSegue",
@@ -62,7 +272,7 @@
     {
         "index": "50234",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_50234.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_50234.json",
         "negative_strings": [
             "\u2581OFDb",
             "yarnpkg",
@@ -92,7 +302,7 @@
     {
         "index": "39193",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_39193.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_39193.json",
         "negative_strings": [
             "Portale",
             "\u2581OFDb",
@@ -120,9 +330,69 @@
         "description": " references to the subject pronoun \"she\" and related forms"
     },
     {
+        "index": "55886",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_55886.json",
+        "negative_strings": [
+            "ynchronously",
+            "\u2581BorderSide",
+            "jgl",
+            "\u2581boilers",
+            "migrationBuilder",
+            "\u2581mosquitos",
+            "\u2581eels",
+            "\u2581spines",
+            "\u2581eyelashes",
+            "\u2581lockers"
+        ],
+        "positive_strings": [
+            "\u0012",
+            "\u2581study",
+            "\u2581past",
+            "\u2581post",
+            "\u2581Stock",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "Datuak",
+            "\u2581Post",
+            "\u2581ter\u00e7a",
+            "NOPQRST"
+        ],
+        "description": " occurrences of the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "34298",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_34298.json",
+        "negative_strings": [
+            "there",
+            "\u2581sini",
+            "hichever",
+            "ClientRect",
+            "\u2581dabei",
+            "\u2581tersebut",
+            "\u305d\u3053\u306f",
+            "\u2581\u0111\u00f3",
+            "\u00e9matiques",
+            "this"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581allemaal",
+            "\u2581my",
+            "\u2581waarom",
+            "\u2581Signalez",
+            "\u2581pourquoi",
+            "\u2581truly"
+        ],
+        "description": "the word \"is\" in various contexts"
+    },
+    {
         "index": "11190",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_11190.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_11190.json",
         "negative_strings": [
             "Portale",
             "tableFuture",
@@ -150,153 +420,123 @@
         "description": "references to the female pronoun \"she\" and its variations"
     },
     {
-        "index": "48279",
+        "index": "25092",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_48279.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_25092.json",
         "negative_strings": [
-            "Diweddarwch",
-            "Portale",
-            "\u2581pinulongan",
-            "StoryboardSegue",
-            "AddTagHelper",
-            "\u2581referenties",
-            "tableFuture",
-            "\u2581Obrador",
-            "########.",
-            "\u2581nahilalakip"
+            "\u2581therein",
+            "hichever",
+            "there",
+            "'][$",
+            "\u2581\u0111\u00f3",
+            "\u2109",
+            "\u305d\u3053\u306f",
+            "queira",
+            "\u2581there",
+            "\u00e9matiques"
         ],
         "positive_strings": [
-            "\u2581She",
-            "She",
-            "vuo",
-            "/*@",
-            "\u2581SHE",
-            "persky",
-            "ffield",
-            "pherson",
-            "SHE",
-            "\u2581Oak"
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581waarom",
+            "\u2581happening",
+            "why",
+            "\u2581pourquoi",
+            "\u2581what",
+            "\u2581hvor",
+            "\u2581HOW"
         ],
-        "description": "references to a particular entity or personal pronoun"
+        "description": " instances of the verb \"is\" and its contextual variations"
     },
     {
-        "index": "18944",
+        "index": "63047",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_18944.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_63047.json",
         "negative_strings": [
-            "setVerticalGroup",
-            "\u2581nahilalakip",
-            "\u2581esternos",
-            "Portale",
+            "cloudflare",
+            "glMatrixMode",
+            "\u2581languages",
+            "\u2581BorderSide",
+            "languages",
+            "\u2581Kie",
+            "\u2581edges",
+            "Kie",
+            "adox",
+            "SOUNDBITE"
+        ],
+        "positive_strings": [
+            "\u0012",
+            "\u2581study",
+            "\u2581estudo",
+            "\u2581past",
+            "study",
+            "Datuak",
+            "createClass",
+            "\u2581chapter",
+            "rungsseite",
+            "\u2581penelitian"
+        ],
+        "description": " the word \"This\" in various contexts"
+    },
+    {
+        "index": "10285",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_10285.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
             "\u2581betweenstory",
-            "\u2581Lumpur",
-            "httphttps",
-            "\u2581inform\u00e9e",
-            "OutputPath",
-            "\u2581lenker"
+            "\u2581nakalista",
+            "\u2581therein",
+            "\u2581EconPapers",
+            "\u2581rai\u017f",
+            "\u2109",
+            "')));",
+            "\u2581it\u017felf",
+            "\u2581him\u017felf"
         ],
         "positive_strings": [
-            "\u2581She",
-            "she",
-            "She",
-            "\u2581she",
-            "\u2581SHE",
-            "\u2581who",
-            "SHE",
-            "gonic",
-            "mappedBy",
-            "\u2581Her"
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581not",
+            "\u2581NOT",
+            "\u2581truly",
+            "\u2581true",
+            "\u2581me",
+            "\u2581my",
+            "\u2581what"
         ],
-        "description": "references to \"she\" and terms related to shear or structural mechanics"
+        "description": "the occurrence of the word \"is\""
     },
     {
-        "index": "23943",
+        "index": "32850",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_23943.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is she\\data_for_feature_32850.json",
         "negative_strings": [
-            "StoryboardSegue",
-            "Portale",
-            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
-            "\u2581Phantas",
-            "\u2581Waray",
-            "Diweddarwch",
-            "\u2581Marker",
-            "twimg",
-            "\u2581Markers",
-            "\u2581Hoffnung"
+            "TypedDataSet",
+            "\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "rinfo",
+            "Newswire",
+            "hedra",
+            "-------\f",
+            "\u2581\u0909\u0938\u0947",
+            "\u2581fi\u00e8vre",
+            "AutoresizingMask"
         ],
         "positive_strings": [
-            "\u2581She",
-            "\u2581SHE",
-            "SHE",
-            "She",
-            "\u2581LayoutInflater",
-            "\u2581Shepard",
-            "/*@",
-            "ffield",
-            "useState",
-            "\u2581Sheppard"
-        ],
-        "description": "references to a specific individual or character named \"She.\""
-    },
-    {
-        "index": "5680",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_5680.json",
-        "negative_strings": [
-            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
-            "ably",
-            "$_['",
-            "ObjectModel",
-            "znam",
-            "Jeografia",
+            "\u2581study",
+            "createClass",
+            "\u2581studies",
+            "\u2581studie",
+            "baomidou",
+            "\u0012",
             "\u2581AssemblyTitle",
-            "\u2581betweenstory",
-            "awtextra",
-            "iented"
+            "\u2581Study",
+            "study",
+            "\u7814\u7a76"
         ],
-        "positive_strings": [
-            "hehe",
-            "hehehe",
-            "\u2581who",
-            "Who",
-            "LookAnd",
-            "\u2581Who",
-            "\u2581DBNull",
-            "who",
-            "\u2581sp\u00e9ciaux",
-            "WHO"
-        ],
-        "description": " instances of the pronoun 'He' and related forms"
-    },
-    {
-        "index": "43467",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/This is she/data_for_feature_43467.json",
-        "negative_strings": [
-            "\u2581Waray",
-            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
-            "aarrggbb",
-            "idjan",
-            "\u2581Mawr",
-            "RemindMe",
-            "ably",
-            "\u2581each",
-            "\u2581Photocase",
-            "UTC"
-        ],
-        "positive_strings": [
-            "hehe",
-            "\u2581Majefty",
-            "hehehe",
-            "NavController",
-            "\u2581DBNull",
-            "arken",
-            "LookAnd",
-            "\u2581who",
-            "lloworld",
-            "()?;"
-        ],
-        "description": "mentions of a specific male character or subject"
+        "description": "phrases that begin with the word \"This.\""
     }
 ]

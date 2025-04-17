@@ -1,8 +1,38 @@
 [
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
         "index": "7626",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_7626.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_7626.json",
         "negative_strings": [
             "ChildScrollView",
             "ardust",
@@ -30,9 +60,129 @@
         "description": "references to spouses, specifically husbands and wives"
     },
     {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
         "index": "9217",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_9217.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_9217.json",
         "negative_strings": [
             "Rhestr",
             "AndEndTag",
@@ -60,9 +210,69 @@
         "description": "references to marital relationships and spouses"
     },
     {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
         "index": "1741",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_1741.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_1741.json",
         "negative_strings": [
             "\u2581deter",
             "\u52b9",
@@ -90,303 +300,123 @@
         "description": "mentions of a spouse or partner, specifically focusing on the term \"wife.\""
     },
     {
-        "index": "3200",
+        "index": "3269",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_3200.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_3269.json",
         "negative_strings": [
-            "ScopeManager",
-            "SourceChecksum",
-            "\u2581mattina",
-            "\u2581kirj",
-            "\u2581pel\u00facia",
-            "\u2728:",
-            "\u2581parachoque",
-            "apnews",
-            "niaj\u0105ca",
-            "Newswire"
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
         ],
         "positive_strings": [
-            "\u2013",
-            "\u2581vs",
-            "\u2581versus",
-            "/",
-            "\u2581\u2194",
-            "\"-\"",
-            "\u2581Versus",
-            "\u2194",
-            "\u2581Vs",
-            "]-["
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
         ],
-        "description": " key-value pair structures in various contexts"
+        "description": "instances of the word \"this.\""
     },
     {
-        "index": "1708",
+        "index": "11442",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_1708.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_11442.json",
         "negative_strings": [
-            "\ufeff#",
-            "__;",
-            "\u2581disambiguazione",
-            "rungsseite",
-            "Voci",
-            "styleType",
-            "Referencie",
-            "sweise",
-            "MathML",
-            "\u2581jadx"
-        ],
-        "positive_strings": [
-            "\u2581Hu",
-            "\u2581hu",
-            "\u2581HUGH",
-            "\u2581HU",
-            "Hu",
-            "\u2581Humber",
-            "\u2581Huskies",
-            "HU",
-            "hu",
-            "\u2581Hur"
-        ],
-        "description": "mentions of specific individuals or variations of the name \"Hu\""
-    },
-    {
-        "index": "14467",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_14467.json",
-        "negative_strings": [
-            "\u2581amanh\u00e3",
-            "\u2581Umfang",
-            "\u2581vermelha",
-            "\u2581afgelopen",
-            "\u2581ocasi\u00e3o",
-            "\u2581pedras",
-            "\u2581sch\u00f6nes",
-            "\u2581compl\u00e8tes",
-            "\u2581princ\u00edpio",
-            "\u2581conocido"
-        ],
-        "positive_strings": [
-            "\u2581interviews",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "Autoritn\u00ed",
-            "bootstrapcdn",
-            "\u2581satisfaction",
-            "\u2581ddelweddau",
-            "\u2581empowerment",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581profiles",
-            "\u2581Interviews"
-        ],
-        "description": "references to various roles within a company or organization, particularly focusing on employees, customers, and leadership positions"
-    },
-    {
-        "index": "826",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_826.json",
-        "negative_strings": [
-            "\u2581its",
-            "\u2581itself",
-            "itself",
-            "\u2581various",
-            "\u5b83",
-            "Various",
-            "\u2581vhodn\u00e9",
-            "\u5b83\u7684",
-            "\u2581Itself",
-            "\u2581by\u0142o"
-        ],
-        "positive_strings": [
-            "\u2581who",
-            "\u2581whose",
-            "\u2581whom",
-            "\u2581quien",
-            "who",
-            "whose",
-            "\u2581whofe",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "whom",
-            "tanleria"
-        ],
-        "description": "characters, specifically children and familial roles"
-    },
-    {
-        "index": "3233",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_3233.json",
-        "negative_strings": [
-            "\u2581autorytatywna",
-            "StateList",
-            "RepeatedField",
-            "\u1369",
-            "\u064a\u0643\u0628",
-            "adlo",
-            "osoba",
-            "CodeAttribute",
-            "Jeografia",
-            "\u0103r\u0103"
-        ],
-        "positive_strings": [
-            "\u2581masculinos",
-            "\u2581m\u0119ski",
-            "\u2581f\u00e9rfi",
-            "\u2581masculino",
-            "\u2581him\u017felf",
-            "\u2581himself",
-            "\u2581masculinity",
-            "\u2581maschile",
-            "\u2581m\u0119skie",
-            "\u2581m\u0119"
-        ],
-        "description": "references to familial relationships and dynamics, particularly involving husbands and children"
-    },
-    {
-        "index": "11772",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_11772.json",
-        "negative_strings": [
-            "\u0440\u0435\u0431",
-            "\u2581afield",
-            "data",
-            "stop",
-            "\u2581Chiesa",
-            "elan",
-            "\u2581data",
-            "Pass",
-            "Stop",
-            "alyse"
-        ],
-        "positive_strings": [
-            "\u2581wife",
-            "\u2581spouse",
-            "\u2581husband",
-            "\u2581MainAxisSize",
-            "\u2581man\u017eel",
-            "\u2581Spouse",
-            "\u2581husbands",
-            "\u2581Wife",
-            "\u2581spouses",
-            "\u2581wives"
-        ],
-        "description": " content related to marriage and its dynamics"
-    },
-    {
-        "index": "12094",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_12094.json",
-        "negative_strings": [
-            "\u2581\u017fur",
-            "\u2581par\u00eds",
-            "\u2581u\u017f",
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
             "\u2581u\u017fe",
-            "\u2581el\u00e9ct",
-            "\u2581CURLOPT",
-            "\u2581annen",
-            "\u2581per\u00fa",
-            "\u2581asisten",
-            "\u2581f\u00eds"
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
         ],
         "positive_strings": [
-            "\u2581madness",
-            "\u2581mania",
-            "\u2581shenanigans",
-            "geddon",
-            "\u2581vibes",
-            "\u2581frenzy",
-            "\u2581paranoia",
-            "\u2581daze",
-            "\u2581obsession",
-            "\u2581apocalypse"
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
         ],
-        "description": "terms related to creative and cultural activities, particularly in arts and crafts, as well as issues of identity and social commentary"
+        "description": "assertive statements or declarations"
     },
     {
-        "index": "6468",
+        "index": "9394",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_6468.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_9394.json",
         "negative_strings": [
-            "\u2581ExecuteAsync",
-            "\u2581MenuView",
-            "Diweddarwch",
-            "nungs",
-            "\u2581transfieras",
-            "\u2581nhung",
-            "\u2581Taktlose",
-            "rxjs",
-            "Translatef",
-            "leville"
-        ],
-        "positive_strings": [
-            "\u2581Father",
-            "Father",
-            "\u2581father",
-            "\u2581fathers",
-            "\u2581FATHER",
-            "\u2581figure",
-            "father",
-            "\u2581Fathers",
-            "\u2581p\u00e8res",
-            "Dad"
-        ],
-        "description": "references to father and familial relationships"
-    },
-    {
-        "index": "8661",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_8661.json",
-        "negative_strings": [
-            "enterOuterAlt",
-            "\u2581oppure",
-            "sowie",
-            "\u2581invokingState",
-            "\u2581sowie",
-            "\u4ee5\u53ca",
-            "httphttps",
             "\u2581nahilalakip",
-            "RuleContext",
-            "\u279f"
+            "\u2581\"..\\..\\",
+            "\u0e0d\u0e34\u0e07",
+            "\u2581\"..\\..\\..\\",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\ub010",
+            "ItemBackground",
+            "\u2581regeringen",
+            "RefNanny",
+            "\u2581mo\u017en\u00e1"
         ],
         "positive_strings": [
-            "XmlAccessType",
-            "&",
-            "NewUrlParser",
-            "\u30a2\u30f3\u30c9",
-            "\u2581Italij",
-            "\u2581Descubre",
-            "\u2581monasterio",
-            "\u2581darbu",
-            "\u2581&",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b"
+            "\u2581boon",
+            "\u2581hindrance",
+            "\u2581testament",
+            "\u2581disgrace",
+            "\u2581blessing",
+            "\u2581rarity",
+            "\u2581prerequisite",
+            "\u2581bit",
+            "\u2581necessity",
+            "posites"
         ],
-        "description": "mentions of people and their roles in various contexts"
+        "description": " instances of the article \"a\" paired with various nouns"
     },
     {
-        "index": "368",
+        "index": "1298",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a husband/data_for_feature_368.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a husband\\data_for_feature_1298.json",
         "negative_strings": [
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u3067\u3059",
-            "i",
-            "Hozz\u00e1f\u00e9r\u00e9s",
-            "ection",
-            "Esp\u00e8ce",
-            "\u00e9valuateur",
-            "RegressionTest",
-            "iK",
-            "SuppressLint"
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
         ],
         "positive_strings": [
-            "ded",
-            "der",
-            "ard",
-            "ding",
-            "dddd",
-            "roid",
-            "od",
-            "sd",
-            "\u0947\u0921",
-            "\u0e14\u0e14"
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
         ],
-        "description": "terms related to fraud and its variations"
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
     }
 ]

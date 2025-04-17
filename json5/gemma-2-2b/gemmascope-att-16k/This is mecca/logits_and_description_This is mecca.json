@@ -1,182 +1,122 @@
 [
     {
-        "index": "11236",
+        "index": "13166",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_11236.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is mecca\\data_for_feature_13166.json",
         "negative_strings": [
-            "\u2581\u01a1n",
-            "ledo",
-            "sz\u00f6n",
-            "\u2581mat\u00e9ri",
-            "\u2581year",
-            "nthetic",
-            "\u043a\u0442",
-            "\u2581digelar",
-            "Saludos",
-            "aiuto"
-        ],
-        "positive_strings": [
-            "rungsseite",
-            "\u2581resourceCulture",
-            "Personensuche",
-            "StoryboardSegue",
-            "matchCondition",
-            "\u2581kaarangay",
-            "webElementXpaths",
-            "RenderAtEndOf",
-            ":\u2728",
-            "NameInMap"
-        ],
-        "description": " attends to the token \"this\" from associated contextually relevant tokens, often signaling a reference or explanation"
-    },
-    {
-        "index": "8400",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_8400.json",
-        "negative_strings": [
-            "aryen",
-            "+#+#",
-            "indor",
-            "OCO",
-            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
-            "idual",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581seba",
-            "\u2581Reproduce",
-            "u\u00dfen"
-        ],
-        "positive_strings": [
-            "oredCriteria",
-            "\u2581aikaa",
-            "WithMany",
-            "parsedMessage",
-            "]\").",
-            "\u2581wireType",
-            ")\"),",
-            "invokeLater",
-            "\u2581getattr",
-            ")$}"
-        ],
-        "description": " attends to the token \"is\" from various positive expressions in conjunction with a subsequent evaluative token"
-    },
-    {
-        "index": "343",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_343.json",
-        "negative_strings": [
-            "WebElementEntity",
-            "\u2581ModelExpression",
-            "\u2581QName",
-            "\u2581nakalista",
-            "nodoc",
-            "Aktualisiert",
-            "divia",
-            "\u2581Rel",
-            "\u2581campan",
-            "\u2581cons"
-        ],
-        "positive_strings": [
-            "bootstrapcdn",
-            "saraba",
-            "DataSetChanged",
-            "SPJ",
-            "EndContext",
-            "\u2581\u0391\u03c5",
-            "\u2581C\u00e6sar",
-            "\u2581comportement",
-            "\u2581(;;)",
-            "\u2581replying"
-        ],
-        "description": " attends to the token \"is\" from various tokens including punctuation or articles that serve as a connector within the context"
-    },
-    {
-        "index": "8493",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_8493.json",
-        "negative_strings": [
-            "\u2581a",
-            "\u2581the",
-            "\u2581an",
-            "\u2581that",
-            "\u2581it",
-            "\u2581",
-            "\u2581some",
-            "\u2581its",
-            "\u2581\"",
-            "\u2581both"
-        ],
-        "positive_strings": [
-            "\u2581Monfieur",
-            "\u2581The\u017fe",
-            "\u2581Jefus",
-            "\u2581Con\u017f",
-            "\u2581i\u017ft",
-            "\u2581An\u017f",
-            "\u2581it\u017felf",
-            "\u2581\u2015\u2015\u2015\u2015\u2015",
-            "\u2581ainfi",
-            "\u2581lea\u017ft"
-        ],
-        "description": " attends to the token \"is\" from tokens indicating a condition or state"
-    },
-    {
-        "index": "11766",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_11766.json",
-        "negative_strings": [
-            "\u2581Me",
-            "Me",
-            "me",
-            "\u2581me",
-            "\u2581ME",
-            "ME",
-            "addCriterion",
-            "\u2581typelib",
-            "mety",
-            "Meik"
-        ],
-        "positive_strings": [
-            "Personendaten",
-            "\u2581poup\u00e9e",
-            "ArrowToggle",
-            "\u2581titolata",
-            "]';",
-            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
-            "\u2581surla",
-            "\u2581vicina",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "clusal"
-        ],
-        "description": " attends to instances of the token \"Me\" from various contexts to preceding tokens"
-    },
-    {
-        "index": "15508",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-att-16k/This is mecca/data_for_feature_15508.json",
-        "negative_strings": [
-            "\u2581<<<<<<<<<<<<<<",
-            "\u2581noqa",
-            "adpleegd",
-            "\u2581\u0645\u0634\u064a\u0646",
-            "\u2581Wicidata",
-            "\u2581Often",
-            "often",
-            "\u2581often",
-            "\u2581Estad\u00edstica",
-            "\u2581Frequently"
-        ],
-        "positive_strings": [
-            "DropTable",
-            "MemoryWarning",
-            "\u2581Empieza",
-            "saraba",
-            "UnknownFieldSet",
-            "createCanvas",
-            "\u2581protoimpl",
-            "CodedInputStream",
+            "\u2581Loew",
+            "brides",
+            "chossen",
+            "arkhand",
+            "CLUD",
+            "ceaux",
             "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
-            "usercontent"
+            "ALLY",
+            "alition",
+            "\u2581het"
         ],
-        "description": " attends to the token \"is\" from the token \"the.\""
+        "positive_strings": [
+            "Portail",
+            "\u2581geos",
+            "atguigu",
+            "FormTagHelper",
+            "\u2581Dimit",
+            "RectangleBorder",
+            "\u2581Doge",
+            "<h5>",
+            "\u2581ARP",
+            "\u2581<<<<<<<<<<<<<<"
+        ],
+        "description": " attends to the earliest token in the sequence from subsequent tokens marked by \"first.\""
+    },
+    {
+        "index": "12301",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is mecca\\data_for_feature_12301.json",
+        "negative_strings": [
+            "AndEndTag",
+            "GraphicsUnit",
+            "\u2581CreateTagHelper",
+            "AddTagHelper",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u24e7",
+            "\u2581MainAxisSize",
+            "GEBURTSDATUM",
+            "SequentialGroup",
+            "fillType"
+        ],
+        "positive_strings": [
+            "Demografia",
+            "\u2581Poche",
+            "rim",
+            "\u2581Moreno",
+            "\u2581kontrol",
+            "pov",
+            "esseract",
+            "\u2581Mancini",
+            "\u2581Entra",
+            "\u2581t\u00ecnh"
+        ],
+        "description": " attends to names or identifiers associated with notable figures or entities from various contexts"
+    },
+    {
+        "index": "15364",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is mecca\\data_for_feature_15364.json",
+        "negative_strings": [
+            "OGND",
+            "\u2581kasarigan",
+            "MigrationBuilder",
+            "\u2581beginnetje",
+            "\u2581externi",
+            "\u2581Chwiliwch",
+            "oredCriteria",
+            "GEBURTSDATUM",
+            "\u2581protoimpl",
+            "\u2581himo"
+        ],
+        "positive_strings": [
+            "FirstResponder",
+            "timme",
+            "bear",
+            "\u05d9\u05e1\u05d8\u05d5\u05e8",
+            "wijk",
+            "\u00fcy\u00fc",
+            "airro",
+            "tiba",
+            "\u2581amis",
+            "\u2581Metropolitana"
+        ],
+        "description": " attends to files and code-related tokens from their descriptive text or content"
+    },
+    {
+        "index": "5656",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is mecca\\data_for_feature_5656.json",
+        "negative_strings": [
+            "']?>",
+            "})*/",
+            "Musa",
+            "\u2581Lucerne",
+            "\u2581Musa",
+            "\u2581Arque",
+            "])))",
+            "\u0446\u0435\u0440\u0442",
+            "\u2581Veracruz",
+            "\u2581MSR"
+        ],
+        "positive_strings": [
+            "readystatechange",
+            "\u2581\ub530",
+            "\u5e16\u6700\u540e\u7531",
+            "LLocation",
+            "\u2581k\u00e6",
+            "orianCalendar",
+            "a\u017c",
+            "SuppressLint",
+            "\u043d\u0443\u0442\u0440\u0435\u043d",
+            "\u2581apport\u00e9"
+        ],
+        "description": " attends to capitalized acronyms or abbreviations from relevant contexts or terms in later positions"
     }
 ]

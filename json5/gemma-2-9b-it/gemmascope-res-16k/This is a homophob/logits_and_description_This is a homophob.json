@@ -1,8 +1,38 @@
 [
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
         "index": "13394",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_13394.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_13394.json",
         "negative_strings": [
             "\u2581createSprite",
             "\u2581fleuve",
@@ -32,7 +62,7 @@
     {
         "index": "8420",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_8420.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_8420.json",
         "negative_strings": [
             "\u2581cherch\u00e9s",
             "PositiveButton",
@@ -60,9 +90,279 @@
         "description": "references to \"home\" in various contexts"
     },
     {
+        "index": "9471",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_9471.json",
+        "negative_strings": [
+            "IVEREF",
+            "parsedMessage",
+            "R\u00fcyada",
+            "\u064a\u0645\u064a\u062f\u064a\u0627",
+            "\u2581MenuView",
+            "utilisons",
+            "\u2581AssemblyCulture",
+            "BufferException",
+            "\u2581autorytatywna",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438"
+        ],
+        "positive_strings": [
+            "\u2581gay",
+            "\u2581LGBTQ",
+            "\u2581LGBT",
+            "LGBT",
+            "\u2581homosexual",
+            "gay",
+            "\u2581gays",
+            "\u2581Gay",
+            "\u2581queer",
+            "Gay"
+        ],
+        "description": "references to LGBTQ+ issues and identities"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "7532",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_7532.json",
+        "negative_strings": [
+            "HostException",
+            "cipar",
+            "\u2581ivelany",
+            "\u2581drowsiness",
+            "UrlResolution",
+            "\u2581kayna\u011f\u0131ndan",
+            "\u2581defendant",
+            "feren",
+            "\u7a7a\u304d",
+            "toThrow"
+        ],
+        "positive_strings": [
+            "\u2581gay",
+            "\u2581LGBTQ",
+            "\u2581gays",
+            "LGBT",
+            "\u2581LGBT",
+            "\u2581homosexual",
+            "\u2581lgbt",
+            "gay",
+            "\u2581lesbian",
+            "\u2581homophobic"
+        ],
+        "description": "terms related to LGBTQ identities and issues"
+    },
+    {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8867",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_8867.json",
+        "negative_strings": [
+            "\u2581judiciaire",
+            "\u2581d\u00e9bit",
+            "\u2581paesaggio",
+            "\u2581Acme",
+            "BUSY",
+            "Busy",
+            "\u2581Grain",
+            "betreuung",
+            "Poe",
+            "\u7167\u9867"
+        ],
+        "positive_strings": [
+            "\u2581gay",
+            "\u2581homosexual",
+            "gay",
+            "\u2581homosexuality",
+            "\u2581gays",
+            "\u2581homophobic",
+            "\u2581LGBT",
+            "\u2581LGBTQ",
+            "\u2581lesbian",
+            "\u2581lgbt"
+        ],
+        "description": "words and phrases related to LGBTQ+ identities and issues"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
         "index": "15629",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_15629.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_15629.json",
         "negative_strings": [
             "GenerationType",
             "ValueStyle",
@@ -90,243 +390,33 @@
         "description": "proper nouns, particularly names and terms related to \"Rome\" or \"Roman.\""
     },
     {
-        "index": "14301",
+        "index": "3269",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_14301.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a homophob\\data_for_feature_3269.json",
         "negative_strings": [
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "\u2581EconPapers",
-            "sizeCache",
-            "ValueStyle",
-            "\u2581Inverse",
-            "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456",
-            "\u2581Gabi",
-            "Chham",
-            "Datuak",
-            "\u2581estekak"
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
         ],
         "positive_strings": [
-            "\u2581ho",
-            "\u2581Ho",
-            "Ho",
-            "ho",
-            "\u2581HO",
-            "HO",
-            "\u30db",
-            "\u2581Hov",
-            "\u2581HOL",
-            "\u2581\u0445\u043e"
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
         ],
-        "description": "mentions of the term \"Ho\" often associated with names or significant references"
-    },
-    {
-        "index": "6498",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_6498.json",
-        "negative_strings": [
-            "tidaknya",
-            "setVerticalGroup",
-            "preventDefault",
-            "\u2581/*#__",
-            "rungsseite",
-            "GEBURTS",
-            "\u2581Sigue",
-            "ade",
-            "<tr>",
-            "Referenties"
-        ],
-        "positive_strings": [
-            "\u2581que\u017fta",
-            "\u2581desmotivaciones",
-            "\u2581\u017font",
-            "calaureate",
-            "PerformLayout",
-            "\u2581\u017find",
-            "\u043f\u0440\u0438\u043c\u0435\u0447\u0430",
-            "\u017fchen",
-            "\u2581AssemblyCompany",
-            "protoimpl"
-        ],
-        "description": "variations of the word \"AM\" and its abbreviations/derived forms in various contexts"
-    },
-    {
-        "index": "5043",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_5043.json",
-        "negative_strings": [
-            "voltaic",
-            "----------------",
-            "\u2581SqlParameter",
-            "ostante",
-            "Kit",
-            "GETHER",
-            "zeugen",
-            "\u2581Excellency",
-            "\u00ae",
-            "NH"
-        ],
-        "positive_strings": [
-            "SourceChecksum",
-            "\u2581disponibilit\u00e9s",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "\u2581lizenzfreies",
-            "\u2581\u00e9nerg\u00e9tique",
-            "oa\u030dt",
-            "\u2581resourceCulture",
-            "\u2581financiera",
-            "mybatisplus",
-            "\u2581ind\u00edgen"
-        ],
-        "description": " words related to body modifications or enhancements"
-    },
-    {
-        "index": "8408",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_8408.json",
-        "negative_strings": [
-            "uxxxx",
-            "\u2581\u043a\u04c0\u043e\u0448",
-            "webElementXpaths",
-            "\u043a\u043b\u043e\u043f\u0435",
-            "\u2581ivelany",
-            "ACHUSET",
-            "izr",
-            "isation",
-            "featureID",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621"
-        ],
-        "positive_strings": [
-            "Parcelize",
-            "InstanceState",
-            "spec",
-            "VolleyError",
-            "\u2581\u062a\u0639\u062f\u0649",
-            "\u2581Pat",
-            "Atsauces",
-            "Pat",
-            "\u2581ligiloj",
-            "lat"
-        ],
-        "description": " specific names and technical terms related to Linotype machinery and processes"
-    },
-    {
-        "index": "1543",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_1543.json",
-        "negative_strings": [
-            "ModelAdmin",
-            "setVerticalGroup",
-            "addContainerGap",
-            "addGap",
-            "\u2581atualmente",
-            "\u2581TextAppearance",
-            "\u2581\u0627\u0644\u062d\u0631\u0647",
-            "\u2581rodeado",
-            "\u2581conhece",
-            "linearGradient"
-        ],
-        "positive_strings": [
-            "\u2581assignment",
-            "\u2581Assignment",
-            "\u2581assignments",
-            "assignment",
-            "Assignment",
-            "\u2581homework",
-            "\u2581Assignments",
-            "\u2581ASSIGNMENT",
-            "homework",
-            "\u2581Homework"
-        ],
-        "description": " elements related to Java programming assignments and their components"
-    },
-    {
-        "index": "8619",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_8619.json",
-        "negative_strings": [
-            "AddTagHelper",
-            "\u7736",
-            "oreille",
-            "\u5f53\u4ee3",
-            "\u2581prove",
-            "\u2581sociala",
-            "\u5f53",
-            "\u7576",
-            "\u2581pet",
-            "\u2581s\u0105"
-        ],
-        "positive_strings": [
-            "+#+#",
-            "\u2581MainAxisSize",
-            "\u2581defaultstate",
-            "\u2581EconPapers",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "RTEX",
-            "\u2581AssemblyCompany",
-            "\u2581disambiguazione",
-            "\ufeff/**",
-            "RegistryLite"
-        ],
-        "description": " references to hydrogen and its related compounds"
-    },
-    {
-        "index": "2881",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_2881.json",
-        "negative_strings": [
-            "\u2581CreateTagHelper",
-            "quelize",
-            "hoeddwyd",
-            "BufferException",
-            "\u2581DirectX",
-            "djangoproject",
-            "ariste",
-            "\u2581Akismet",
-            "rigger",
-            "CDATA"
-        ],
-        "positive_strings": [
-            "\u2581home",
-            "Home",
-            "home",
-            "\u2581Home",
-            "\u2581HOME",
-            "HOME",
-            "\u2581homes",
-            "homes",
-            "\u2581Homes",
-            "\u2581hjem"
-        ],
-        "description": "references to home-related topics and activities"
-    },
-    {
-        "index": "15410",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a homophob/data_for_feature_15410.json",
-        "negative_strings": [
-            "CppMethod",
-            "quelize",
-            "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f\u0441\u0435",
-            "\u2581JSONArray",
-            "glitter",
-            "VolleyError",
-            "SizeF",
-            "BufferException",
-            "\u2581StringVar",
-            "\u2581Blunt"
-        ],
-        "positive_strings": [
-            "Home",
-            "\u2581home",
-            "home",
-            "\u2581Home",
-            "\u2581HOME",
-            "HOME",
-            "\u2581HomeController",
-            "\u2581homes",
-            "homes",
-            "Homes"
-        ],
-        "description": "references to \"home\" and related terms or concepts"
+        "description": "instances of the word \"this.\""
     }
 ]

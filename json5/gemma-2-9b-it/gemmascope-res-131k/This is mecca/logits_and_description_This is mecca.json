@@ -1,38 +1,98 @@
 [
     {
-        "index": "77623",
+        "index": "3936",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_77623.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_3936.json",
         "negative_strings": [
-            "\u2581patin",
-            "\u2581Roskov",
-            "wahati",
-            "CDCl",
-            "gether",
-            "nya",
-            "icrous",
-            "listdir",
-            "\u2581liqu",
-            "NoSuchAlgorithm"
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
         ],
         "positive_strings": [
-            "\u2581personally",
-            "\u2581myself",
-            "myself",
-            "\u2581pers\u00f6nlich",
-            "zelf",
-            "\u2581\u4eec",
-            "IntoConstraints",
-            "ArgsConstructor",
-            "\u2581protoimpl",
-            "\u2581pribadi"
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
         ],
-        "description": "mentions of the word \"me\" in various forms"
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
     },
     {
         "index": "3754",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_3754.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_3754.json",
         "negative_strings": [
             "\udb40\udc62",
             "########.",
@@ -60,9 +120,189 @@
         "description": "references to specific chemical compounds and technical terminology related to chemistry and biology"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "77623",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_77623.json",
+        "negative_strings": [
+            "\u2581patin",
+            "\u2581Roskov",
+            "wahati",
+            "CDCl",
+            "gether",
+            "nya",
+            "icrous",
+            "listdir",
+            "\u2581liqu",
+            "NoSuchAlgorithm"
+        ],
+        "positive_strings": [
+            "\u2581personally",
+            "\u2581myself",
+            "myself",
+            "\u2581pers\u00f6nlich",
+            "zelf",
+            "\u2581\u4eec",
+            "IntoConstraints",
+            "ArgsConstructor",
+            "\u2581protoimpl",
+            "\u2581pribadi"
+        ],
+        "description": "mentions of the word \"me\" in various forms"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
         "index": "101472",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_101472.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_101472.json",
         "negative_strings": [
             "nya",
             "DeleteMapping",
@@ -92,7 +332,7 @@
     {
         "index": "110475",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_110475.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_110475.json",
         "negative_strings": [
             ":\u2728",
             "\u2581kaarangay",
@@ -122,7 +362,7 @@
     {
         "index": "120156",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_120156.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_120156.json",
         "negative_strings": [
             "\uc5d4",
             "Removal",
@@ -150,333 +390,63 @@
         "description": " references to specific individuals or groups, particularly concerning relationships, family, or societal roles"
     },
     {
-        "index": "73012",
+        "index": "64092",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_73012.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_64092.json",
         "negative_strings": [
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
-            "\u2581pihaknya",
-            "\u2581dadurch",
-            "\u2581az\u00e9rt",
-            "transQ",
-            "\u2581daarvoor",
-            "\u00edpio",
-            "\u2581purpo\u017fe",
-            "IsMutable",
-            "\u2581ketat"
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
         ],
         "positive_strings": [
-            "EndContext",
-            "CppMethod",
-            "\u2581ProtoMessage",
-            "enterOuterAlt",
-            "endpush",
-            "again",
-            "HtmlAttribute",
-            "asanjo",
-            "jess",
-            "\u2581HttpNotFound"
-        ],
-        "description": " first-person pronouns and verbs indicating presence or action"
-    },
-    {
-        "index": "70505",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_70505.json",
-        "negative_strings": [
-            "ilead",
-            "SqlDataReader",
-            "\u2581getchar",
-            "\u2581MatDialog",
-            "\u2581terecht",
-            "VolleyError",
-            "\u2581ActivatedRoute",
-            "\u0275\u0275elementStart",
-            "hra",
-            "\u2581veins"
-        ],
-        "positive_strings": [
-            "\u2581posing",
-            "\u2581smiling",
-            "\u2581posando",
-            "\u2581posed",
-            "\u2581pose",
-            "\u2581poses",
-            "\u2581grinning",
-            "smiling",
-            "\u2581sonriendo",
-            "\u2581tersenyum"
-        ],
-        "description": "references to visual documentation or imagery"
-    },
-    {
-        "index": "7650",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_7650.json",
-        "negative_strings": [
-            "\u2581Econ\u00f3mica",
-            "\u2581Keuangan",
-            "Kaynak\u00e7a",
-            "\u2581financiera",
-            "\u2581giudi",
-            "\u2581maleta",
-            "\u2581\u017faid",
-            "Einzelnachweise",
-            "\u2581kaybet",
-            "\u2581ciudadana"
-        ],
-        "positive_strings": [
-            "httphttps",
-            "setViewportView",
-            "\u2581snippetHide",
-            "UnusedPrivate",
-            "fromnode",
-            "setVerticalGroup",
-            "StructEnd",
-            "DebuggerStep",
-            "richTextPanel",
-            "PageContext"
-        ],
-        "description": " key concepts and elements related to protocols, specifically in computing or web contexts"
-    },
-    {
-        "index": "75653",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_75653.json",
-        "negative_strings": [
-            "ductory",
-            "\u2581getCustomer",
-            ">\\<^",
-            "\u2581archi",
-            "}});",
-            "\u2581nastro",
-            "\u2581kri",
-            "\u2581Crim",
-            "\u2581Bitter",
-            "\u2581\")\r"
-        ],
-        "positive_strings": [
-            "\u2581Myself",
-            "\u2581myself",
-            "\u2581\uc790\uc2e0",
-            "\u2581ourselves",
-            "Myself",
-            "\u2581Himself",
-            "himself",
-            "\u2581ControllerBase",
-            "myself",
-            "\u2581herself"
-        ],
-        "description": "references to personal pronouns and self-identifying terms"
-    },
-    {
-        "index": "84530",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_84530.json",
-        "negative_strings": [
-            "shadowOffset",
-            "\u2581the",
-            "\u2581salvaje",
-            "\u2581Abonnez",
             "bibfield",
-            "\u2581Bhattach",
-            "\u2581cl\u00e1ssico",
-            "\u2581nocturno",
-            "\u2581h\u00famedo",
-            "\u2581uden"
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
         ],
-        "positive_strings": [
-            "\u2581me",
-            "Me",
-            "\u2581Myself",
-            "\u2581Me",
-            "myself",
-            "\u2581estekak",
-            "rungsseite",
-            "saraba",
-            "SuspendLayout",
-            "DockStyle"
-        ],
-        "description": "references to the self, particularly in the context of personal experiences and perspectives"
+        "description": "questions beginning with \"What\" or \"How.\""
     },
     {
-        "index": "130966",
+        "index": "96640",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_130966.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is mecca\\data_for_feature_96640.json",
         "negative_strings": [
-            "\u2581id\u00e9ia",
-            "\u2581labd",
-            "}\")\r",
-            "\u2581testigo",
-            "\u2581Keuangan",
-            "\u2581espirituales",
-            "\u2581enfrentan",
-            "xically",
-            "/>\";",
-            "\u2581\u03b1\u03ba\u03cc"
+            "\u306a\u3044",
+            "nya",
+            "\u2581s\u0103u",
+            "less",
+            "l",
+            "les",
+            "ts",
+            "lor",
+            "long",
+            "li\u015bmy"
         ],
         "positive_strings": [
-            "WritableDatabase",
-            "\u2581stuff",
-            "migrationBuilder",
-            "sizeCache",
-            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
-            "OGND",
-            "unknownFields",
-            "Stuff",
-            "utia",
-            "\u2581AssemblyVersion"
+            "\u0627",
+            "a",
+            "aaaa",
+            "aaa",
+            "e",
+            "\u0627\u0627",
+            "\u0627\u0627\u0627\u0627",
+            "aaaaaaaa",
+            "\u3041",
+            "aaaaaa"
         ],
-        "description": "references to the self or personal experience"
-    },
-    {
-        "index": "102485",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_102485.json",
-        "negative_strings": [
-            "tigkeiten",
-            "\u2581incidents",
-            "parsedMessage",
-            "\u2581evils",
-            "\u2581serez",
-            "\u2581devriez",
-            "baliknya",
-            "\u2581egyes",
-            "\u2581restrictions",
-            "\u2581potentials"
-        ],
-        "positive_strings": [
-            "\u2581way",
-            "\u2581attempt",
-            "\u2581contribution",
-            "\u2581fa\u00e7on",
-            "contribution",
-            "attempt",
-            "\u2581equivalent",
-            "\u2581mani\u00e8re",
-            "\u2581WAY",
-            "\u2581CONTRIBUTION"
-        ],
-        "description": " possession and ownership in various contexts"
-    },
-    {
-        "index": "59613",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_59613.json",
-        "negative_strings": [
-            "\u2581venganza",
-            "\u2581myst\u00e8re",
-            "\u2581Independencia",
-            "\u2581plazos",
-            "\u2581deuil",
-            "\u2581geografia",
-            "\u2581p\u00e8",
-            "\u2581keben",
-            "\u2581connaissent",
-            "\u2581royaume"
-        ],
-        "positive_strings": [
-            "\ue315",
-            "<unused41>",
-            "<unused80>",
-            "[@BOS@]",
-            "<unused74>",
-            "<pad>",
-            "<unused14>",
-            "<unused51>",
-            "<unused3>",
-            "<unused8>"
-        ],
-        "description": "references to individuals and self-identity"
-    },
-    {
-        "index": "54929",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_54929.json",
-        "negative_strings": [
-            "\u2581OFDb",
-            "\u2581pr\u00e9c\u00e9dente",
-            "zelfde",
-            "\u2581others",
-            "Others",
-            "\u2581therein",
-            "\u2581lainnya",
-            "\u2581itself",
-            "others",
-            "j\u0105c\u0105"
-        ],
-        "positive_strings": [
-            "NewUrlParser",
-            "\u2581moment",
-            "ituation",
-            "rungsseite",
-            "fxml",
-            "GIVEREF",
-            "makeText",
-            "tralight",
-            "httphttps",
-            "\u2581happening"
-        ],
-        "description": " phrases indicating significant events or opportunities"
-    },
-    {
-        "index": "6618",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_6618.json",
-        "negative_strings": [
-            "\u2581AssemblyTitle",
-            "Fas",
-            "\u2581Fas",
-            "ConstraintMaker",
-            "orice",
-            "orianCalendar",
-            "tings",
-            "ardes",
-            "tivis",
-            "chitz"
-        ],
-        "positive_strings": [
-            "zelf",
-            "Geplaatst",
-            "\u2581alone",
-            "httphttps",
-            "\u2581him",
-            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
-            "\u2581Econ\u00f3mica",
-            "\u2581ciebie",
-            "\u2581oseb",
-            "\u2581uLocal"
-        ],
-        "description": "instances of personal pronouns and expressions related to identity"
-    },
-    {
-        "index": "75748",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is mecca/data_for_feature_75748.json",
-        "negative_strings": [
-            "\u2581empresarios",
-            "\u2581le\u00f1a",
-            "\u2581c\u00e1rcel",
-            "\u2581refiere",
-            "\u2581migrantes",
-            "\u2581senhora",
-            "\u2581directivos",
-            "\u1ec7c",
-            "\u2581prefeitura",
-            "\u2581nyky"
-        ],
-        "positive_strings": [
-            "\u2581AssemblyVersion",
-            "\u2581doInBackground",
-            "migrationBuilder",
-            "\u2581betweenstory",
-            "\u2581MainAxisSize",
-            "IsContent",
-            "InputBorder",
-            "GEBURTSDATUM",
-            "MemoryWarning",
-            "ConstraintMaker"
-        ],
-        "description": "possessive expressions indicating personal ownership or relevance"
+        "description": "specific scientific terms and names related to plants and their classifications"
     }
 ]

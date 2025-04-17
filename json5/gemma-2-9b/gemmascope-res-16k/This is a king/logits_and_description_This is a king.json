@@ -1,8 +1,338 @@
 [
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
         "index": "5769",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_5769.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_5769.json",
         "negative_strings": [
             "\u2581BoxFit",
             "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
@@ -32,7 +362,7 @@
     {
         "index": "5434",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_5434.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_5434.json",
         "negative_strings": [
             "\u2581BoxFit",
             "findOrFail",
@@ -62,7 +392,7 @@
     {
         "index": "11333",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_11333.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_11333.json",
         "negative_strings": [
             "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
             "\u2581BoxFit",
@@ -92,7 +422,7 @@
     {
         "index": "2998",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_2998.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_2998.json",
         "negative_strings": [
             "principalColumn",
             "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
@@ -122,7 +452,7 @@
     {
         "index": "9422",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_9422.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_9422.json",
         "negative_strings": [
             "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
             "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
@@ -152,7 +482,7 @@
     {
         "index": "9356",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_9356.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_9356.json",
         "negative_strings": [
             "\u2581BoxFit",
             "yntaxException",
@@ -182,7 +512,7 @@
     {
         "index": "8086",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_8086.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_8086.json",
         "negative_strings": [
             "\u2581CreateTagHelper",
             "\uf8fb",
@@ -212,7 +542,7 @@
     {
         "index": "11865",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_11865.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_11865.json",
         "negative_strings": [
             "\u2581CreateTagHelper",
             "\u02cf",
@@ -240,213 +570,33 @@
         "description": "references to kings or monarchs"
     },
     {
-        "index": "11948",
+        "index": "938",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_11948.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_938.json",
         "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
-            "\u2581beginnetje",
-            "\uf8fb",
-            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
-            "postolic",
-            "\u2581cord",
-            "\u2581contextLoads",
-            "\uc8fc\uc758",
-            "imshow"
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
         ],
         "positive_strings": [
-            "King",
-            "\u2581King",
-            "\u2581koning",
-            "Queen",
-            "\u2581KING",
-            "\u2581Signalez",
-            "pin",
-            "Kings",
-            "\u2581Kral",
-            "\u2581h\u00f4tels"
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
         ],
-        "description": "references to kings or monarchy"
-    },
-    {
-        "index": "9013",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_9013.json",
-        "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
-            "\u2581contextLoads",
-            "aimana",
-            "\uc8fc\uc758",
-            "onday",
-            "\u2581beginnetje",
-            "XmlAccessorType",
-            "chute",
-            "\u0678"
-        ],
-        "positive_strings": [
-            "King",
-            "\u2581King",
-            "\u2581KING",
-            "\u2581koning",
-            "Queen",
-            "\u2581king",
-            "Kings",
-            "\u2581Kings",
-            "\u2581Queen",
-            "\u2581kings"
-        ],
-        "description": "references to various kings throughout history and their associated titles or names"
-    },
-    {
-        "index": "11397",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_11397.json",
-        "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
-            "Viited",
-            "\u2581contextLoads",
-            "chute",
-            "XmlAccessorType",
-            "AISSEE",
-            "imshow",
-            "nsic",
-            "\u2581Arboretum"
-        ],
-        "positive_strings": [
-            "King",
-            "Queen",
-            "\u2581King",
-            "\u2581KING",
-            "\u2581koning",
-            "\u2581Queen",
-            "Kings",
-            "\u2581king",
-            "\u2581queen",
-            "\u2581Kings"
-        ],
-        "description": "references to monarchy, particularly the mentions of various kings and their titles"
-    },
-    {
-        "index": "16368",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_16368.json",
-        "negative_strings": [
-            "chute",
-            "\u2581CreateTagHelper",
-            "\u2581contextLoads",
-            "Viited",
-            "\u2581chute",
-            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
-            "\u2581Arboretum",
-            "cord",
-            "\u2581a\u00ed",
-            "perception"
-        ],
-        "positive_strings": [
-            "Queen",
-            "King",
-            "\u2581King",
-            "\u2581Queen",
-            "\u2581koning",
-            "\u2581queen",
-            "Kings",
-            "\u2581KING",
-            "\u2581king",
-            "\u2581Kings"
-        ],
-        "description": " references to royalty, particularly kings and queens"
-    },
-    {
-        "index": "4467",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_4467.json",
-        "negative_strings": [
-            "chute",
-            "\u2581Prom",
-            "aimana",
-            "\u0427\u044b\u0433\u0430\u043d\u0430\u043a\u043b\u0430\u0440",
-            "\u2581prompting",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "\u2581grate",
-            "\u2581contextLoads",
-            "\u2581chutes",
-            "Prom"
-        ],
-        "positive_strings": [
-            "King",
-            "\u2581King",
-            "Queen",
-            "\u2581koning",
-            "\u2581KING",
-            "\u2581king",
-            "\u2581Queen",
-            "\ud83d\udc51",
-            "\u2581Kings",
-            "KING"
-        ],
-        "description": "references to kings or monarchy"
-    },
-    {
-        "index": "3262",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_3262.json",
-        "negative_strings": [
-            "\u2581estekak",
-            "UnitTesting",
-            "\u2581Administrativna",
-            "OGND",
-            "RectangleBorder",
-            "\u2581Mosk",
-            "rungsseite",
-            "bcryptjs",
-            "Liga\u00e7\u00f5es",
-            "\u2581Lordships"
-        ],
-        "positive_strings": [
-            "\u2581Lumpur",
-            "\u2581pneumoniae",
-            "\u2581K",
-            "\u2581v\u1ef1c",
-            "\u2581KM",
-            "\u2581XK",
-            "mogorov",
-            "\u2581wireType",
-            "T\u0113",
-            "\u2581Kard"
-        ],
-        "description": "references to specific genes or proteins related to cancer research"
-    },
-    {
-        "index": "8533",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is a king/data_for_feature_8533.json",
-        "negative_strings": [
-            "\uf056",
-            "\u2581wolverine",
-            "\u2581Mete",
-            "\u2581chutes",
-            "ccio",
-            "\u2581incl",
-            "\u2581chute",
-            "\u2581Felicity",
-            "kulum",
-            "Dsl"
-        ],
-        "positive_strings": [
-            "\u2581King",
-            "\u2581Kings",
-            "King",
-            "Kings",
-            "Queen",
-            "\u2581Queen",
-            "\u2581koning",
-            "\u2581kings",
-            "\u2581KING",
-            "\u2581king"
-        ],
-        "description": "references to kings and monarchy"
+        "description": " mathematical notations or symbols"
     }
 ]

@@ -1,8 +1,38 @@
 [
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
         "index": "272",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_272.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_272.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -30,9 +60,69 @@
         "description": "mentions or variations of the name \"Sha.\""
     },
     {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
         "index": "5191",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_5191.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_5191.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "oredCriteria",
@@ -60,9 +150,39 @@
         "description": "mentions of the name \"Sha\""
     },
     {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
         "index": "3031",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_3031.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_3031.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -90,9 +210,39 @@
         "description": "references to a specific person or brand associated with hemp or cannabis products"
     },
     {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
         "index": "16170",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_16170.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_16170.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -120,9 +270,99 @@
         "description": " instances of the name \"Sha\" and its variations"
     },
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
         "index": "10119",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_10119.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_10119.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -152,7 +392,7 @@
     {
         "index": "10744",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_10744.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_10744.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -180,9 +420,69 @@
         "description": "references and variations of the name \"Sha.\""
     },
     {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
         "index": "10533",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_10533.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_10533.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -210,9 +510,39 @@
         "description": "references to the name \"Sha\" or its variations"
     },
     {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
         "index": "608",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_608.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is shabbat\\data_for_feature_608.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "Personensuche",
@@ -238,245 +568,5 @@
             "sha"
         ],
         "description": "proper nouns and variations of the name \"Sha.\""
-    },
-    {
-        "index": "13969",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_13969.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
-            "canestro",
-            "\u2581beginnetje",
-            "oredCriteria",
-            "Derp",
-            "XmlAccessorType",
-            "otoro",
-            "cotch"
-        ],
-        "positive_strings": [
-            "\u2581Sha",
-            "\u2581sha",
-            "Sha",
-            "\u2581\u0428\u0430",
-            "\u2581SHA",
-            "\u2581Scha",
-            "\u2581Shak",
-            "\u0428\u0430",
-            "sha",
-            "\u2581Sham"
-        ],
-        "description": " occurrences of the name \"Sha\" and its variations in the text"
-    },
-    {
-        "index": "15206",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_15206.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "XmlAccessorType",
-            "oredCriteria",
-            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
-            "Derp",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "canestro",
-            "endpush",
-            "\u2581beginnetje",
-            "\u2581transf\u00e9rez"
-        ],
-        "positive_strings": [
-            "\u2581Sha",
-            "\u2581sha",
-            "Sha",
-            "\u2581SHA",
-            "\u2581\u0428\u0430",
-            "\u2581Shaffer",
-            "\u2581Shak",
-            "\u2581Scha",
-            "\u2581Shake",
-            "\u0428\u0430"
-        ],
-        "description": "references to a specific individual named Sha or related names"
-    },
-    {
-        "index": "1415",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_1415.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "LookAnd",
-            "\u2581beginnetje",
-            "XmlAccessorType",
-            "MLLoader",
-            "Derp",
-            "endpush",
-            "\u0627\u0644\u0645\u0635\u062f\u0631",
-            "cotch",
-            "AsUp"
-        ],
-        "positive_strings": [
-            "\u2581Sha",
-            "\u2581sha",
-            "Sha",
-            "\u2581\u0428\u0430",
-            "\u2581SHA",
-            "\u2581Shak",
-            "\u2581Shaffer",
-            "\u0428\u0430",
-            "\u2581Scha",
-            "SHA"
-        ],
-        "description": " the name \"Sha\" or variations of it"
-    },
-    {
-        "index": "862",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_862.json",
-        "negative_strings": [
-            "AnimationsModule",
-            "Portail",
-            "principalColumn",
-            "RectangleBorder",
-            "sidemargin",
-            "InputBorder",
-            "tr\u00e4ger",
-            "PerformLayout",
-            "tot",
-            "\u2581BrowserModule"
-        ],
-        "positive_strings": [
-            "mos",
-            "ment",
-            "ren",
-            "mals",
-            "mp",
-            "da",
-            "ki",
-            "re",
-            "pun",
-            "d"
-        ],
-        "description": "terms related to mathematical or computational concepts and actions"
-    },
-    {
-        "index": "8841",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_8841.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "\u2581autorytatywna",
-            "Derp",
-            "MLLoader",
-            "cotch",
-            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
-            "millimeters",
-            "\u2581bordir",
-            "inemann",
-            "ldorf"
-        ],
-        "positive_strings": [
-            "\u2581Sha",
-            "Sha",
-            "\u2581sha",
-            "\u2581\u0428\u0430",
-            "\u2581SHA",
-            "\u2581Shaffer",
-            "\u2581Shak",
-            "\u0428\u0430",
-            "\u2581Scha",
-            "SHA"
-        ],
-        "description": " occurrences and variations of the name \"Sha.\""
-    },
-    {
-        "index": "7201",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_7201.json",
-        "negative_strings": [
-            "Portail",
-            "AnimationsModule",
-            "tr\u00e4ger",
-            "PerformLayout",
-            "principalColumn",
-            "XmlAccessorType",
-            "\u043d",
-            "\u30f3",
-            "\u2581cherch\u00e9s",
-            "ria"
-        ],
-        "positive_strings": [
-            "mos",
-            "dan",
-            "da",
-            "day",
-            "re",
-            "das",
-            "dor",
-            "ment",
-            "ren",
-            "mente"
-        ],
-        "description": "terms associated with mathematical calculations and methodologies"
-    },
-    {
-        "index": "6931",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_6931.json",
-        "negative_strings": [
-            "\u2581Dot",
-            "VolleyError",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581Otra",
-            "\u2581Discre",
-            "ModelAdmin",
-            "\u2581Produ",
-            "httpResponse",
-            "\u2581Pic",
-            "\u2581Little"
-        ],
-        "positive_strings": [
-            "\ue315",
-            "pulseira",
-            "\u2581defaultstate",
-            "\u2581ujednoznacz",
-            "\u2581Sh",
-            "Sh",
-            "\u2581piratas",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581pr\u00e9f\u00e9r\u00e9",
-            "\u2581solteiro"
-        ],
-        "description": "references to a character or entity with the name \"Sh\" or similar variations"
-    },
-    {
-        "index": "11576",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is shabbat/data_for_feature_11576.json",
-        "negative_strings": [
-            "ulemon",
-            "Hilsen",
-            "deepcopy",
-            "oldt",
-            "principalTable",
-            "\u2581Luxor",
-            "\u2581worldview",
-            "\u2581prosi",
-            "\u0435\u043c\u0430",
-            "\u2581commerciali"
-        ],
-        "positive_strings": [
-            "XmlAccessType",
-            "WebElementEntity",
-            "KEYCODE",
-            "makeConstraints",
-            "\u2581Inf\u00f3rmanos",
-            "MessageTagHelper",
-            "ValueStyle",
-            "ScopeManager",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641"
-        ],
-        "description": "terms related to emotional expressions and sounds associated with laughter or amusement"
     }
 ]

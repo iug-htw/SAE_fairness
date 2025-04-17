@@ -1,392 +1,542 @@
 [
     {
-        "index": "2676",
+        "index": "4667",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_2676.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_4667.json",
         "negative_strings": [
-            "t\u0131",
-            "\u2581histoires",
-            "tfrac",
-            "\u2581il",
-            "\u2581c\u00f3mics",
-            "\u2581\u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
-            "Adult",
-            "verwijspagina",
-            "\u2581utiles",
-            "staden"
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
         ],
         "positive_strings": [
-            "\u2581AssemblyCulture",
-            "DockStyle",
-            "\u2581doInBackground",
-            "\u2581MenuView",
-            "\u2581UnityEditor",
-            "AnchorStyles",
-            "HasForeignKey",
-            "Personendaten",
-            "StructEnd",
-            "\u2581CreateTagHelper"
-        ],
-        "description": "references to the concept of 'boss' or authoritative figures in various contexts"
-    },
-    {
-        "index": "4844",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_4844.json",
-        "negative_strings": [
-            "\u2581AspNetCore",
-            "vedi",
-            "\u2581hinein",
-            "\u2581balance",
-            "\u2581bulunabilir",
-            "\u2581l\u1eadp",
-            "\u2581pun",
-            "edes",
-            "ppur",
-            "isinstance"
-        ],
-        "positive_strings": [
-            "\u2581nahilalakip",
-            "Hentet",
-            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
-            "\u2581Shakspeare",
-            "\u2581pinulongan",
-            "\u2581EnglishChoose",
-            "\u2581poffible",
-            "\u2581onOptions",
-            "\u2581bof",
-            "mp\u00e4"
-        ],
-        "description": "words beginning with \"Bo.\""
-    },
-    {
-        "index": "6116",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_6116.json",
-        "negative_strings": [
-            "ization",
-            "OGND",
-            "izations",
-            "izing",
-            "net\u00e9",
-            "NOPQRST",
-            "ViewFeatures",
-            "isation",
-            "../../../",
-            "IZATION"
-        ],
-        "positive_strings": [
-            "mybatisplus",
-            "SSS",
-            "sing",
-            "issauga",
-            "ESS",
-            "ess",
-            "ses",
-            "\u2581Ress",
-            "essed",
-            "CrossRef"
-        ],
-        "description": "specific terms associated with stress and physical conditions"
-    },
-    {
-        "index": "8206",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_8206.json",
-        "negative_strings": [
-            "[]){",
-            "\u2581AssemblyTitle",
-            "Forte",
-            "\u2581\u05e4\u05e2\u05dd",
-            "\u2581fortsatt",
-            "\u96c0",
-            "VERTISING",
-            "\u2581Jazeera",
-            "f\u00f8lge",
-            "\ufe0f"
-        ],
-        "positive_strings": [
-            "\u2581boss",
-            "\u2581Boss",
-            "boss",
-            "Boss",
-            "\u2581BOSS",
-            "\u2581Bishop",
-            "\u2581bishop",
-            "Bishop",
-            "\u2581bosses",
-            "\u2581governor"
-        ],
-        "description": "references to a \"boss\" in various contexts"
-    },
-    {
-        "index": "10215",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_10215.json",
-        "negative_strings": [
-            "BRACKET",
-            "toHaveBeenCalled",
-            "atikan",
-            "HEIM",
-            "pumpe",
-            "iligen",
-            "int\u00e9r\u00eat",
-            "AxisSize",
-            "conversions",
-            "l\u0259\u015f"
-        ],
-        "positive_strings": [
-            "\u2581emeritus",
-            "\u2581designate",
-            "alty",
-            "hips",
-            "\u2581Emeritus",
-            "\u2581elect",
-            "Elect",
-            "elect",
-            "SHIP",
-            "AsUp"
-        ],
-        "description": "references to various political positions and leadership titles"
-    },
-    {
-        "index": "15564",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_15564.json",
-        "negative_strings": [
-            "}`).",
-            "\"],\r",
-            "}`;",
-            "}}/>",
-            "/*---",
-            "'],\r",
-            ")\"),",
-            ")*/",
-            "\"])\r",
-            ".\"],"
-        ],
-        "positive_strings": [
-            "\u2581boss",
-            "\u2581Boss",
-            "boss",
-            "Boss",
-            "\u2581bosses",
-            "\u2581BOSS",
-            "BOSS",
-            "\u30dc\u30b9",
-            "\u2581bos",
-            "\u2581jefes"
-        ],
-        "description": "references to a \"boss\" or authoritative figure in various contexts"
-    },
-    {
-        "index": "8541",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_8541.json",
-        "negative_strings": [
-            "\u2581FetchType",
-            "WebMethod",
-            "\u2581sz\u00f3ci",
-            "AddHtmlAttribute",
-            "multer",
-            "\u2581Guin\u00e9e",
-            "nthetic",
-            "cobra",
-            "\u2581ag\u00eancia",
-            "RTLD"
-        ],
-        "positive_strings": [
-            "\u2581aggro",
-            "\u2581health",
-            "\u2581respawn",
-            "\u2581attacking",
-            "\u2581melee",
-            "\u2581mobs",
-            "\u2581enemies",
-            "\u2581spawns",
-            "Health",
-            "\u2581spawn"
-        ],
-        "description": "terms related to the effects and mechanics of explosive devices"
-    },
-    {
-        "index": "2576",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_2576.json",
-        "negative_strings": [
-            "ization",
-            "OGND",
-            "ViewFeatures",
-            "izations",
-            "\u0627\u0646\u064a\u0641",
-            "CodeAttribute",
-            "\u2581Buren",
-            "\u2581nahilalakip",
-            "NOPQRST",
-            "}))."
-        ],
-        "positive_strings": [
-            "SSS",
-            "ess",
-            "mybatisplus",
-            "ESS",
-            "\u2581NSS",
-            "\u2581ss",
-            "\u2581OSS",
-            "issauga",
-            "\u2581Ress",
-            "\u2581Sass"
-        ],
-        "description": "proper nouns and specific names, particularly related to people and places"
-    },
-    {
-        "index": "4749",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_4749.json",
-        "negative_strings": [
-            "esgue",
-            "toHaveBeenCalled",
-            "namentales",
-            "atikan",
-            "psin",
-            "\u2581liten",
-            "\u2581prawda",
-            "erli",
-            "BRACKET",
-            "__))"
-        ],
-        "positive_strings": [
-            "alty",
-            "\u2581emeritus",
-            "\u2581designate",
-            "\u2581Emeritus",
-            "\u2581elect",
-            "\u2581Elect",
-            "Elect",
-            "SHIP",
-            "hips",
-            "elect"
-        ],
-        "description": "references to titles and roles of individuals, particularly in leadership positions such as presidents"
-    },
-    {
-        "index": "15850",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_15850.json",
-        "negative_strings": [
-            "eradish",
-            "\u0627\u062b",
-            "\u2581liten",
-            "ished",
-            "\u2581medlem",
-            "BRACKET",
-            "WART",
-            "namentales",
-            "verket",
-            "olisian"
-        ],
-        "positive_strings": [
-            "\u2581emeritus",
-            "alty",
-            "\u2581Emeritus",
-            "\u2581office",
-            "\u2581designate",
-            "hips",
-            "\u2581NSCoder",
-            "yship",
-            "hip",
-            "SHIP"
-        ],
-        "description": "titles and positions of authority or leadership, particularly in government, religious, or organizational contexts."
-    },
-    {
-        "index": "433",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_433.json",
-        "negative_strings": [
-            "WebServlet",
-            "\u2581ModelExpression",
-            "onOptions",
-            "RTLD",
-            "twimg",
-            "T\u0113",
-            "clientY",
-            "iolo",
-            "posedge",
-            "\u2581sedimentation"
-        ],
-        "positive_strings": [
-            "\u2581boss",
-            "\u2581bosses",
-            "boss",
-            "\u2581map",
-            "\u2581difficulty",
-            "Boss",
-            "\u2581Boss",
-            "\u2581challenge",
-            "\u2581maps",
-            "\u2581BOSS"
-        ],
-        "description": "terms related to gaming mechanics and group activities within a gaming context"
-    },
-    {
-        "index": "779",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_779.json",
-        "negative_strings": [
-            "eradish",
-            "erli",
-            "getElements",
-            "t\u0131",
-            "\u2581Ko\u015bci",
-            "toHaveBeenCalled",
-            "sbericht",
-            "\u2581interest",
-            "farin",
-            "esgue"
-        ],
-        "positive_strings": [
-            "\u2581emeritus",
-            "\u2581Emeritus",
-            "alty",
-            "\u2581designate",
-            "\u2581elect",
-            "SHIP",
-            "\u2581nominee",
-            "\u2581lenker",
-            "\u2581jScrollPane",
-            "hips"
-        ],
-        "description": "references to positions of authority and leadership roles"
-    },
-    {
-        "index": "12480",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a boss/data_for_feature_12480.json",
-        "negative_strings": [
-            "RectangleBorder",
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
             "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "\u2581appart",
-            "ished",
-            "\u2581journalism",
-            "atypes",
-            "\u092e\u0947\u0902",
-            "HEIM",
-            "atikan",
-            "enchymal"
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
+        ],
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
+    },
+    {
+        "index": "13423",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_13423.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581monasterio",
+            "\u2581k\u00fcche",
+            "\u2581beina",
+            "\u2581and",
+            "\u2581essentially",
+            "\u2581nemlig",
+            "isela"
         ],
         "positive_strings": [
-            "\u2581office",
-            "alty",
-            "\u2581emeritus",
-            "\u2581designate",
-            "\u2581who",
-            "\u2581offices",
-            "hips",
-            "office",
-            "\u2581Emeritus",
-            "\u2581Offices"
+            "<bos>",
+            "\u2019",
+            "'",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2019\uff0c",
+            "expandindo"
         ],
-        "description": "references to leadership roles and positions, particularly in governmental or religious contexts"
+        "description": "repeated structural patterns or sections in code or text"
+    },
+    {
+        "index": "3736",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_3736.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581compr\u00e9hen",
+            "\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "\u2581Infatti",
+            "isela",
+            "\u2581essentially",
+            "\u2581Jerusal\u00e9n",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "expandindo",
+            "\u2581Paglinawan"
+        ],
+        "description": " isolated or standalone numeric values"
+    },
+    {
+        "index": "16123",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_16123.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "ingu\u00e9m",
+            "isela",
+            "\u2581ennemis",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581s\u00e6rlig",
+            "erar",
+            "unna",
+            "\u2581espagne",
+            "\u2581Infatti"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nahilalakip",
+            "\u2581Baillargeon"
+        ],
+        "description": " code snippets or syntax elements in programming"
+    },
+    {
+        "index": "12317",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_12317.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "principalTable",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "\u2581that",
+            "\u2581CURLOPT",
+            "\u2581rencontr",
+            "KommentareTeilen",
+            "\u2581rest\u00e9",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581year",
+            "\u2581particular",
+            "\u2581month",
+            "\u2581past",
+            "\u2581Week",
+            "\u2581morning",
+            "\u2581weeks",
+            "\u2581amazing",
+            "\u2581unique"
+        ],
+        "description": " instances of the word \"this.\""
+    },
+    {
+        "index": "4575",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_4575.json",
+        "negative_strings": [
+            "\u2581Baillargeon",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u2581nakalista",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u305d\u3053\u306f",
+            "this",
+            "InjectAttribute",
+            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+            "THERE"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581because",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581done",
+            "\u2581true",
+            "\u2581especially",
+            "\u2581allemaal",
+            "\u2581happened"
+        ],
+        "description": "the presence of the verb \"is\" and instances of the word \"not\" used to negate"
+    },
+    {
+        "index": "9139",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_9139.json",
+        "negative_strings": [
+            "\u2581slightest",
+            "\u2581quelconque",
+            "\u2581stesso",
+            "\u2581sz\u00fcks",
+            "\u2581anymore",
+            "\u2581gotten",
+            "\u2581diff\u00e9rent",
+            "\u2581fewest",
+            "migrationBuilder",
+            "\u2581moindre"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581Week",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581year",
+            "\u2581month",
+            "\u2581is",
+            "\u2581Month",
+            "\u2581weeks",
+            "\u2581Is",
+            "MigrationBuilder"
+        ],
+        "description": " instances of the word \"This\" at the beginning of sentences"
+    },
+    {
+        "index": "1479",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_1479.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581nakalista",
+            "\u2581EconPapers",
+            "InjectAttribute",
+            "\ue315",
+            ":\u2728",
+            "\u2581betweenstory",
+            "\u2581therein",
+            "\u2581BIBSYS",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581allemaal",
+            "true",
+            "\u2581despite",
+            "\u2581done"
+        ],
+        "description": "the presence of the word \"is\" and its variations in different contexts"
+    },
+    {
+        "index": "9011",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_9011.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\ue315",
+            "InjectAttribute",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "StoryboardSegue",
+            "\u2581therein",
+            "OGND",
+            ":\u2728",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581done",
+            "\u2581despite"
+        ],
+        "description": "statements asserting the quality or characteristics of something"
+    },
+    {
+        "index": "9625",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_9625.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "\ue315",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "OGND",
+            "\u2581betweenstory",
+            "StoryboardSegue",
+            "theless",
+            "\u2581autorytatywna"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581where",
+            "\u2581true",
+            "\u2581why",
+            "\u2581the",
+            "\u2581my",
+            "\u2581allemaal",
+            "\u2581truly",
+            "\u2581all",
+            "\u2581done"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "932",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_932.json",
+        "negative_strings": [
+            "prefixer",
+            "others",
+            "\u2581Baillargeon",
+            "THERE",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u2581istnieje",
+            "this",
+            "\u2581\u0111\u00e2y"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581because",
+            "\u2581where",
+            "\u2581how",
+            "\u2581true",
+            "\u2581porque",
+            "\u2581perch\u00e9",
+            "\u2581despite",
+            "mybatisplus",
+            "\u2581assuming"
+        ],
+        "description": "assertions of opinion or statements about facts"
+    },
+    {
+        "index": "14781",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_14781.json",
+        "negative_strings": [
+            "<eos>",
+            "</i>",
+            "jenih",
+            "</u>",
+            "</em>",
+            "\uff09\u300f",
+            "</code>",
+            "()]",
+            "\u2581\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e",
+            "\u6642\u306b\u306f"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "\u2581resourceCulture",
+            "Autoritn\u00ed",
+            "IUrlHelper",
+            "mergeFrom",
+            "BASEPATH",
+            "\u2581cherch\u00e9s",
+            "\u2581ujednoznacz",
+            "\u2581unknownFields",
+            "\u2581Roskov"
+        ],
+        "description": "the letter 'A' as it appears in different contexts"
+    },
+    {
+        "index": "11795",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_11795.json",
+        "negative_strings": [
+            "<eos>",
+            "</b>",
+            "</i>",
+            "</code>",
+            "jenih",
+            ",",
+            ".",
+            "\u2581see",
+            "</blockquote>",
+            "</strong>"
+        ],
+        "positive_strings": [
+            "^(@)",
+            "verwijspagina",
+            "\u2581ujednoznacz",
+            "\u2581Forumite",
+            "utilisons",
+            "\u2581Bioaccumulative",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "WebElementEntity",
+            "\u2581cherch\u00e9s",
+            "\u2581Italijani"
+        ],
+        "description": "the phrase \"The\" at the start of sentences"
+    },
+    {
+        "index": "13966",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_13966.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "StoryboardSegue",
+            "\ue315",
+            "\u2581autorytatywna",
+            "OGND",
+            "\u2581nakalista",
+            ":\u2728",
+            "principalColumn",
+            "\u2581BIBSYS"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581where",
+            "\u2581the",
+            "\u2581done",
+            "\u2581allemaal",
+            "\u2581true",
+            "\u2581because",
+            "\u2581especially",
+            "\u2581happening"
+        ],
+        "description": "statements that assert the existence or importance of a subject"
+    },
+    {
+        "index": "11527",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_11527.json",
+        "negative_strings": [
+            "OrEqualTo",
+            ",",
+            "RuleContext",
+            "\u2581effect",
+            "usercontent",
+            "MLLoader",
+            ".",
+            "jenih",
+            "\u8a00\u3063\u3066",
+            "\u2581\u0442\u0435\u043c"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "\u2581Italijani",
+            "zzleHttp",
+            "\u2581cherch\u00e9s",
+            "\u2581Paglinawan",
+            "bewerken",
+            "\u2581ujednoznacz",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "\u0627\u0646\u064a\u0641"
+        ],
+        "description": "the word \"The\" and related grammatical constructs used to introduce statements or topics"
+    },
+    {
+        "index": "7795",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_7795.json",
+        "negative_strings": [
+            "<eos>",
+            "</i>",
+            "jenih",
+            "</code>",
+            "</u>",
+            "</b>",
+            "</em>",
+            "</blockquote>",
+            "</h2>",
+            "\u2581enemm\u00e4n"
+        ],
+        "positive_strings": [
+            "Autoritn\u00ed",
+            "\u2581ujednoznacz",
+            "\u2581Roskov",
+            "ANDUM",
+            "\u2581resourceCulture",
+            "^(@)",
+            "UserScript",
+            "oneofs",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "bewerken"
+        ],
+        "description": " the presence of the letter 'A' as a standalone character"
+    },
+    {
+        "index": "15771",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_15771.json",
+        "negative_strings": [
+            "<eos>",
+            ".",
+            "</i>",
+            "</b>",
+            ",",
+            "</code>",
+            "\u2581[",
+            "</em>",
+            "</strong>",
+            "</blockquote>"
+        ],
+        "positive_strings": [
+            "\u2581ujednoznacz",
+            "<bos>",
+            "\u2581Bioaccumulative",
+            "\u2581Paglinawan",
+            "utilisons",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581cherch\u00e9s",
+            "StoryboardSegue",
+            "\u2581Italijani",
+            "oneofs"
+        ],
+        "description": "the character 'A' at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5914",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a boss\\data_for_feature_5914.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581autorytatywna",
+            "OGND",
+            "\u2581nakalista",
+            "\u2581BIBSYS",
+            "StoryboardSegue",
+            "RenderAtEndOf",
+            "principalColumn",
+            "\u2581it\u017felf",
+            "\u2581him\u017felf"
+        ],
+        "positive_strings": [
+            "\u2581the",
+            "\u2581a",
+            "\u2581an",
+            "\u2581not",
+            "\u2581one",
+            "\u2581how",
+            "\u2581why",
+            "\u2581all",
+            "\u2581true",
+            "\u2581truly"
+        ],
+        "description": "instances of the word \"is\" in various contexts"
     }
 ]

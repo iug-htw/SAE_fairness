@@ -1,8 +1,338 @@
 [
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
         "index": "2541",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_2541.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_2541.json",
         "negative_strings": [
             "\u2581hands",
             "\u2581Autorizaciones",
@@ -30,9 +360,99 @@
         "description": " references to jukeboxes or similar musical devices and their functionalities"
     },
     {
+        "index": "10101",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_10101.json",
+        "negative_strings": [
+            "\u2581Masyarakat",
+            "\u2581\u00c9l",
+            "against",
+            "\u2581\u0432\u043e",
+            "evaluated",
+            "\u2581ba\u015flad",
+            "\u2581\u03c4\u1f78\u03bd",
+            "\u2581Sch",
+            "whose",
+            "\u2581and"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u017felben",
+            "ni\u017f\u017fe",
+            "\ufeff/**",
+            "\u017fchaft",
+            "<unused28>",
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused3>"
+        ],
+        "description": " programming code and structural components of a software framework"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "10593",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_10593.json",
+        "negative_strings": [
+            "\u2581komende",
+            "\u2581handen",
+            "\u2581afspraak",
+            "\u2581vloer",
+            "\u2581voren",
+            "\u2581zijne",
+            "\u2581mijne",
+            "\u2581prijzen",
+            "\u2581bevol",
+            "\u2581smtplib"
+        ],
+        "positive_strings": [
+            "\u2581tr\u00e8s",
+            "\u2581bien",
+            "\u2581particuli",
+            "\u2581assez",
+            "\u2581fort",
+            "\u2581plus",
+            "\u2581toujours",
+            "\u2581extr\u00eamement",
+            "tr\u00e8s",
+            "Tr\u00e8s"
+        ],
+        "description": "references to tutorials and learning resources"
+    },
+    {
         "index": "890",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_890.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_890.json",
         "negative_strings": [
             "\u2581Autorizaciones",
             "\u2581StatelessWidget",
@@ -60,9 +480,39 @@
         "description": " occurrences of the name \"Juju\" and its variants"
     },
     {
+        "index": "4538",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_4538.json",
+        "negative_strings": [
+            "\u2581H\u00e4nden",
+            "\u2581Rechten",
+            "\u2581ustal",
+            "\u2581\u00d6ffentlichkeit",
+            "\u2581poza",
+            "\u2581bowiem",
+            "\u2581sza",
+            "\u2581F\u00fc\u00dfen",
+            "\u2581doda",
+            "\u2581katholischen"
+        ],
+        "positive_strings": [
+            "\u2581pour",
+            "\u2581sur",
+            "\u2581avec",
+            "\u2581R\u00e9ponses",
+            "\u2581dans",
+            "\u2581\u00e0",
+            "\u2581et",
+            "\u2581depuis",
+            "f\u00f8ring",
+            "\u2581ou"
+        ],
+        "description": "phrases related to software installation instructions"
+    },
+    {
         "index": "4681",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_4681.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_4681.json",
         "negative_strings": [
             "\u2581scom",
             "\u2581bed",
@@ -92,7 +542,7 @@
     {
         "index": "11122",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_11122.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\il est juif\\data_for_feature_11122.json",
         "negative_strings": [
             "\u307e\u3057\u305f",
             "\u3057\u307e\u3063\u305f",
@@ -118,245 +568,5 @@
             "o"
         ],
         "description": " the presence of specific phonetic or syllabic patterns in words"
-    },
-    {
-        "index": "14725",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_14725.json",
-        "negative_strings": [
-            "\u2581fine",
-            "Havolalar",
-            "\u2581\u53e3",
-            "\u2581scom",
-            "\u2581Performance",
-            "\u2581bed",
-            "\u2581little",
-            "\u2581former",
-            "Bed",
-            "\u2581HttpStatusCode"
-        ],
-        "positive_strings": [
-            "\u2581estekak",
-            "Diweddarwch",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "Ju",
-            "\u2581wireType",
-            "HomeAsUpEnabled",
-            "FormTagHelper",
-            "\u2581julia",
-            "parsedMessage",
-            "IVEREF"
-        ],
-        "description": "specific names or terms that start with \"ju\" or variants thereof"
-    },
-    {
-        "index": "10735",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_10735.json",
-        "negative_strings": [
-            "\u2581interm\u00e9diaire",
-            "\u2581hands",
-            "\u2581former",
-            "\u2581defStyleAttr",
-            "\u2581HttpStatusCode",
-            "\u2581\u53e3",
-            "\u2581scom",
-            "\u2581fine",
-            "\u2581H\u00e4nde",
-            "\u2581defStyle"
-        ],
-        "positive_strings": [
-            "Ju",
-            "\u2581estekak",
-            "\u2581Ju",
-            "Jude",
-            "\u2581JU",
-            "\u2581julia",
-            "\u2581juke",
-            "\u2581Juve",
-            "\u2581Juju",
-            "HomeAsUpEnabled"
-        ],
-        "description": " references to the name \"Ju\" or similar phonetic patterns"
-    },
-    {
-        "index": "13972",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_13972.json",
-        "negative_strings": [
-            "\u2581former",
-            "\u2581Photocase",
-            "\u2581defStyleAttr",
-            "\u2581scom",
-            "\u2581defStyle",
-            "\u2581Performance",
-            "\u2581fine",
-            "\u0e18\u0e35",
-            "CrossRef",
-            "setField"
-        ],
-        "positive_strings": [
-            "Ju",
-            "ValueStyle",
-            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
-            "\u2581estekak",
-            "\u2581Ju",
-            "\u2581ju",
-            "\u2581juke",
-            "\u2581wireType",
-            "\u2581julia",
-            "Diweddarwch"
-        ],
-        "description": "names or terms related to \"July\" or \"Ju.\""
-    },
-    {
-        "index": "3204",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_3204.json",
-        "negative_strings": [
-            "\u2581fine",
-            "\u2581scom",
-            "setField",
-            "\u2581Performance",
-            "delwed",
-            "\u041f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f",
-            "\u2581defStyleAttr",
-            "\u2581shock",
-            "\u2581lamp",
-            "\u2581Shock"
-        ],
-        "positive_strings": [
-            "Ju",
-            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
-            "\u2581ju",
-            "\u2581Ju",
-            "ValueStyle",
-            "\u2581JU",
-            "\u2581juke",
-            "\u2581estekak",
-            "\u2581Juve",
-            "jug"
-        ],
-        "description": "proper nouns or names, particularly those beginning with \"Ju\""
-    },
-    {
-        "index": "8054",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_8054.json",
-        "negative_strings": [
-            "\u2581Performance",
-            "setField",
-            "\u2581Fire",
-            "\u2581satisfaire",
-            "XmlAccessType",
-            "\u2581lamp",
-            "\u2581fine",
-            "\u2581scom",
-            "\u2581Lamp",
-            "\u2581performance"
-        ],
-        "positive_strings": [
-            "Ju",
-            "\u2581Ju",
-            "\u2581ju",
-            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
-            "ValueStyle",
-            "\u2581JU",
-            "ju",
-            "\u2581estekak",
-            "jug",
-            "parsedMessage"
-        ],
-        "description": "names that start with \"Ju\" or variations thereof"
-    },
-    {
-        "index": "2348",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_2348.json",
-        "negative_strings": [
-            "\u24e7",
-            "\u2581Lamp",
-            "\u2581Fire",
-            "\u2581lamp",
-            "\u2581fine",
-            "\u2581chain",
-            "OWER",
-            "\u2581spett",
-            "\u2581saud\u00e1vel",
-            "setField"
-        ],
-        "positive_strings": [
-            "Ju",
-            "\u2581estekak",
-            "\u2581Ju",
-            "ValueStyle",
-            "\u2581ju",
-            "\u2581JU",
-            "ju",
-            "Jude",
-            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
-            "Judi"
-        ],
-        "description": "names of people or characters, particularly those starting with \"Ju\" or \"Jur\""
-    },
-    {
-        "index": "10163",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_10163.json",
-        "negative_strings": [
-            "\u307e\u3057\u305f",
-            "\u3057\u307e\u3063\u305f",
-            "ised",
-            "kat",
-            "sing",
-            "kannya",
-            "kal",
-            "ras\u0131",
-            "i\u00e8me",
-            "kuwa"
-        ],
-        "positive_strings": [
-            "aarrggbb",
-            "LEncoder",
-            "ge",
-            "o",
-            "GenerationType",
-            "transQ",
-            "########.",
-            "to",
-            "jm\u00e9na",
-            "\u2581StatefulWidget"
-        ],
-        "description": "phonetic similarities or patterns in word structures"
-    },
-    {
-        "index": "3926",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/il est juif/data_for_feature_3926.json",
-        "negative_strings": [
-            "\u24e7",
-            "\u2581fine",
-            "\u2581sick",
-            "\u2581\u067e\u06cc",
-            "tvguidetime",
-            "actylus",
-            "\u2581lamp",
-            "\u2581spett",
-            "\u2581Fire",
-            "\u2581scom"
-        ],
-        "positive_strings": [
-            "Ju",
-            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
-            "ValueStyle",
-            "\u2581Ju",
-            "\u2581ju",
-            "\u2581estekak",
-            "\u2581JU",
-            "jug",
-            "Julia",
-            "\u2581julia"
-        ],
-        "description": "names and references related to individuals, particularly those with the \"Jul\" prefix"
     }
 ]

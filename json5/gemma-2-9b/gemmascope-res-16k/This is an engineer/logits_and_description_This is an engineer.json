@@ -1,362 +1,572 @@
 [
     {
-        "index": "7640",
+        "index": "10440",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_7640.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_10440.json",
         "negative_strings": [
-            "Brainz",
-            "parsedMessage",
-            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
-            "makeText",
-            "bitField",
-            "\u2581gyhoeddwyd",
-            "\u2581madison",
-            "CppMethod",
-            "\u0119kuj\u0119",
-            "\u2581abzu"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "\u2581IndexPath",
-            "\u2581AssemblyTitle",
-            "oring",
-            "\u306f\u3058\u3081\u306b",
-            "internalType",
-            "HtmlAttribute",
-            "\u2581plastics",
-            "ening"
-        ],
-        "description": "references to engineering and related terms"
-    },
-    {
-        "index": "15972",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_15972.json",
-        "negative_strings": [
-            "CppMethod",
-            "parsedMessage",
-            "bitField",
-            "\u2581IFTT",
-            "Brainz",
-            "UnknownFieldSet",
-            "zyg",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "makeText",
-            "MethodManager"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "\u2581tartalomaj\u00e1nl\u00f3",
-            "\u2581AssemblyTitle",
-            "Tikang",
-            "\u00e9cution",
-            "ening",
-            "oring",
-            "HtmlAttribute",
-            "\u2581indisponible"
-        ],
-        "description": "references to the field of engineering"
-    },
-    {
-        "index": "262",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_262.json",
-        "negative_strings": [
-            "CppMethod",
-            "Brainz",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "bitField",
-            "\u2581transfieras",
-            "parsedMessage",
-            "__\":",
-            "contentLoaded",
-            "AlterField",
-            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "internalType",
-            "ening",
-            "eri",
-            "\u2581Management",
-            "\u30ea\u30f3\u30b0",
-            "\u2581IndexPath",
-            "erial",
-            "\u0439"
-        ],
-        "description": "words and phrases specifically related to engineering"
-    },
-    {
-        "index": "10419",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_10419.json",
-        "negative_strings": [
-            "bitField",
-            "parsedMessage",
-            "CppMethod",
-            "\u2581gyhoeddwyd",
-            "Brainz",
-            "UnknownFieldSet",
-            "JoinTable",
-            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
-            "\u0421\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
-            "ACHUSET"
-        ],
-        "positive_strings": [
-            "ered",
-            "\u2581Ing",
-            "ering",
-            "\u2581ANG",
-            "Ing",
-            "\u2581Ingles",
-            "erschein",
-            "\u2581\u0641\u06c1\u0631\u0633\u062a",
-            "\u00e9cution",
-            "\u2581Eng"
-        ],
-        "description": "references to engineering and related terms"
-    },
-    {
-        "index": "5790",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_5790.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "MemoryWarning",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "ConstraintMaker",
-            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
-            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
-            "rungsseite",
-            "Personendaten",
-            "st\u00e5ende",
-            "kh\u00e1u"
-        ],
-        "positive_strings": [
-            "SHIP",
-            "ship",
-            "\u2581who",
-            "\u017fhip",
-            "hip",
-            "hood",
-            "\u2581recruitment",
-            "esses",
-            "\u09a6\u09c7\u09b0",
-            "\u4eec"
-        ],
-        "description": "terms and concepts related to education and nursing professions"
-    },
-    {
-        "index": "16208",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_16208.json",
-        "negative_strings": [
-            "CppMethod",
-            "contentLoaded",
-            "CROSSTALK",
-            "parsedMessage",
-            "Brainz",
-            "VIAF",
-            "MessageOf",
-            "\u2581\u0627\u0644\u0627\u0637\u0644\u0627\u0639",
-            "AlterField",
-            "\u2581<>\","
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "erschein",
-            "pnea",
-            "erial",
-            "eri",
-            "ging",
-            "\u2581Belf",
-            "\u30ea\u30f3\u30b0",
-            "ining"
-        ],
-        "description": "terms related to engineering and its various aspects"
-    },
-    {
-        "index": "16327",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_16327.json",
-        "negative_strings": [
-            "CppMethod",
-            "\u2581transfieras",
-            "bitField",
-            "parsedMessage",
-            "Brainz",
-            "AlterField",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "__\":",
-            "Tembelea",
-            "CROSSTALK"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
-            "erschein",
-            "eri",
-            "er\u00eda",
-            "ining",
-            "\u76d6",
-            "\u9879\u76ee\u7684",
-            "\u2581bont\u00e9",
-            "\u2581Management"
-        ],
-        "description": "terms related to engineering and engineering-related discussions"
-    },
-    {
-        "index": "4289",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_4289.json",
-        "negative_strings": [
-            "WebElementEntity",
-            "\u2581BorderRadius",
-            "\u2581nahilalakip",
-            "AxisAlignment",
-            "encodeWith",
-            "kh\u00e1u",
-            "\u2581Bestand",
-            "resizingMask",
-            "BorderFactory",
-            "etera"
-        ],
-        "positive_strings": [
-            "\u2581who",
-            "SHIP",
-            "hips",
-            "\u017fhip",
-            "\u2581extraordinaire",
-            "ially",
-            "\u4eec",
-            "innen",
-            "hip",
-            "Innen"
-        ],
-        "description": "references to various roles and titles related to authorship and editorial positions"
-    },
-    {
-        "index": "4269",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_4269.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "st\u00e5ende",
-            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
-            "MemoryWarning",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
-            "\u2581mergeFrom",
-            "\u2581humaines",
-            "etera",
-            "kh\u00e1u"
-        ],
-        "positive_strings": [
-            "SHIP",
-            "ship",
-            "hip",
-            "\u2581MainAxisSize",
-            "\u2581trainee",
-            "\u2581manqu\u00e9",
-            "\u2581who",
-            "\u2581salaries",
-            "\u017fhip",
-            "\u2581duties"
-        ],
-        "description": "terms related to education and healthcare professions, particularly focusing on teachers and nurses"
-    },
-    {
-        "index": "12010",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_12010.json",
-        "negative_strings": [
-            "MessageOf",
-            "contentLoaded",
-            "AlterField",
-            "\u2581nahilalakip",
-            "CROSSTALK",
-            "Tembelea",
-            "\u2581\u091a\u0940\u095b\u094b\u0902",
-            "RenderAtEndOf",
-            "__\":",
-            "CppMethod"
-        ],
-        "positive_strings": [
-            "ered",
-            "ering",
+            "tonode",
+            "PerformLayout",
             "AddHtmlAttribute",
-            "erschein",
-            "pnea",
-            "eri",
-            "\u2581Belf",
-            "\u2581plastics",
-            "\u2581muffin",
-            "\u2581tartalomaj\u00e1nl\u00f3"
-        ],
-        "description": "terms related to engineering and technology"
-    },
-    {
-        "index": "15325",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_15325.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "MemoryWarning",
-            "ConstraintMaker",
-            "MetaObject",
-            "rawDesc",
-            "\u2728:",
-            "AccessorTable",
-            "st\u00e5ende"
-        ],
-        "positive_strings": [
-            "SHIP",
-            "\u2581trainee",
-            "ship",
-            "\u2581who",
-            "hip",
-            "\u2581MainAxisSize",
-            "\u2581recruitment",
-            "\u2581candidate",
-            "\u2581apprentice",
-            "shp"
-        ],
-        "description": " terms related to educational and healthcare professionals"
-    },
-    {
-        "index": "9764",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is an engineer/data_for_feature_9764.json",
-        "negative_strings": [
-            "\u2581engineer",
-            "parsedMessage",
-            "MessageOf",
-            "Tembelea",
-            "\u2581engineers",
+            "SharedCtor",
+            "webElementXpaths",
             "contentLoaded",
-            "\u2581engineering",
-            "\u2581ingenieros",
-            "Engineer",
-            "engineer"
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
         ],
         "positive_strings": [
-            "ered",
-            "\u2581muffin",
-            "AddHtmlAttribute",
-            "\udb40\udc6e",
-            "GEBURTSDATUM",
-            "ering",
-            "\u2581tartalomaj\u00e1nl\u00f3",
-            "erschein",
-            "ment",
-            "\u2581acost"
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
         ],
-        "description": " terms and references related to engineering and engineering education"
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "10541",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_10541.json",
+        "negative_strings": [
+            "\u00e9toit",
+            "attendre",
+            "assembl\u00e9e",
+            "\u00e9gard",
+            "occupe",
+            "\u00e9paisseur",
+            "extr\u00e9",
+            "\u2581folio",
+            "vid\u00e9o",
+            "occuper"
+        ],
+        "positive_strings": [
+            "\u2581assortment",
+            "\u2581array",
+            "\u2581entire",
+            "\u2581example",
+            "\u2581excellent",
+            "\u2581important",
+            "\u2581enormous",
+            "\u2581actual",
+            "\u2581impressive",
+            "\u2581absolute"
+        ],
+        "description": " instances of the word \"an\" in various forms and contexts"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15382",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_15382.json",
+        "negative_strings": [
+            "\u2581varandra",
+            "occupe",
+            "\u2581JFrame",
+            "assembl\u00e9e",
+            "\u2581\u30b7\u30e3\u30c4",
+            "\u2581\u0635\u0648\u062a\u064a\u0647",
+            "`),",
+            "\u2581pulmonar",
+            "\u00e9toit",
+            "/$',"
+        ],
+        "positive_strings": [
+            "\u2581excellent",
+            "\u2581opportunity",
+            "\u2581interesting",
+            "\u2581entire",
+            "\u2581example",
+            "\u2581important",
+            "\u2581incredible",
+            "\u2581assortment",
+            "\u2581absolute",
+            "\u2581array"
+        ],
+        "description": "the article \"an\" and variations of \"An\" in various contexts"
+    },
+    {
+        "index": "13828",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_13828.json",
+        "negative_strings": [
+            "\u00e9toit",
+            "extr\u00e9",
+            "\u2581EconPapers",
+            "\u00e9gard",
+            "\u2581MutableLiveData",
+            "attendre",
+            "\u00e9paisseur",
+            "\u2581pesco\u00e7o",
+            "\u2581autorytatywna",
+            "capace"
+        ],
+        "positive_strings": [
+            "\u2581assortment",
+            "\u2581array",
+            "\u2581entire",
+            "\u2581abundance",
+            "\u2581important",
+            "\u2581actual",
+            "\u2581attempt",
+            "\u2581enormous",
+            "\u2581entirely",
+            "\u2581appropriate"
+        ],
+        "description": "instances of the article \"an.\""
+    },
+    {
+        "index": "10101",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_10101.json",
+        "negative_strings": [
+            "\u2581Masyarakat",
+            "\u2581\u00c9l",
+            "against",
+            "\u2581\u0432\u043e",
+            "evaluated",
+            "\u2581ba\u015flad",
+            "\u2581\u03c4\u1f78\u03bd",
+            "\u2581Sch",
+            "whose",
+            "\u2581and"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u017felben",
+            "ni\u017f\u017fe",
+            "\ufeff/**",
+            "\u017fchaft",
+            "<unused28>",
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused3>"
+        ],
+        "description": " programming code and structural components of a software framework"
+    },
+    {
+        "index": "8440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_8440.json",
+        "negative_strings": [
+            "\u00e9toit",
+            "\u00e9gard",
+            "attendre",
+            "\u00e9laboration",
+            "\u00e9quipements",
+            "\u00e9paisseur",
+            "\u2581cathode",
+            "\u2581folio",
+            "occupe",
+            "hygi\u00e8ne"
+        ],
+        "positive_strings": [
+            "\u2581array",
+            "\u2581assortment",
+            "\u2581important",
+            "\u2581army",
+            "\u2581example",
+            "\u2581artist",
+            "\u2581alternative",
+            "\u2581opportunity",
+            "\u2581excellent",
+            "\u2581interesting"
+        ],
+        "description": "articles, specifically the word \"an\""
+    },
+    {
+        "index": "5451",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_5451.json",
+        "negative_strings": [
+            "\u00e9toit",
+            "\u00e9gard",
+            "\u00e9paisseur",
+            "\u2581varandra",
+            "attendre",
+            "\u00e9coute",
+            "assembl\u00e9e",
+            "occupe",
+            "attente",
+            "autonomie"
+        ],
+        "positive_strings": [
+            "\u2581assortment",
+            "\u2581array",
+            "\u2581entire",
+            "\u2581excellent",
+            "\u2581example",
+            "\u2581important",
+            "\u2581impressive",
+            "\u2581actual",
+            "\u2581idea",
+            "\u2581army"
+        ],
+        "description": " the word \"an\" in varying contexts"
+    },
+    {
+        "index": "4657",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is an engineer\\data_for_feature_4657.json",
+        "negative_strings": [
+            "\u2581therein",
+            "\u2581dabei",
+            "\u2581there",
+            "\u2581\u0111\u00f3",
+            "\u2581this",
+            "reordered",
+            "\u3053\u3053\u3067\u306f",
+            "\u2581those",
+            "there",
+            "\u2581Italijanski"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581GenerationType",
+            "ConstraintMaker",
+            "\u2581geschieht",
+            "complexContent",
+            "happens",
+            "awtextra"
+        ],
+        "description": " sentences that assert existence or define something"
     }
 ]

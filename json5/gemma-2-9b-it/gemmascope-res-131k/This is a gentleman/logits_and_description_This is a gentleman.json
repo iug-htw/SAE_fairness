@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "105629",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_105629.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_105629.json",
         "negative_strings": [
             "\u2581\u600e\u6837",
             "multer",
@@ -30,9 +90,99 @@
         "description": " references to men and masculine titles or terms"
     },
     {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "126835",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_126835.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_126835.json",
         "negative_strings": [
             "\u2581religieuses",
             "\u2581\u00e9v\u00eaque",
@@ -60,9 +210,99 @@
         "description": " references to politeness and chivalrous behavior"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "16441",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_16441.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_16441.json",
         "negative_strings": [
             "\u2581Maladies",
             "\u2581Kauai",
@@ -90,9 +330,39 @@
         "description": "references to gentlemen and related honorific titles"
     },
     {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
         "index": "108215",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_108215.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_108215.json",
         "negative_strings": [
             "\u54aa",
             "\u2581Vicky",
@@ -120,243 +390,123 @@
         "description": " references to gentlemen and their characteristics"
     },
     {
-        "index": "122087",
+        "index": "50047",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_122087.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_50047.json",
         "negative_strings": [
-            "CHIP",
-            "\u2581blackout",
-            "});*/",
-            "InBytes",
-            "\u2581Trinidad",
-            "ForResult",
-            "\u2581HasFactory",
-            "StoryboardSegue",
-            "DriverManager",
-            "Visualization"
-        ],
-        "positive_strings": [
-            "\u2581Gentle",
-            "\u2581gentle",
-            "gentle",
-            "\u2581gentler",
-            "Gentle",
-            "\u2581reminder",
-            "\u2581GENTLE",
-            "\u2581nudge",
-            "\u2581giant",
-            "\u2581nh\u00e0ng"
-        ],
-        "description": "words and phrases related to gentleness or a gentle demeanor"
-    },
-    {
-        "index": "123935",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_123935.json",
-        "negative_strings": [
-            "\u2581\u043f\u0440\u043e\u0431",
-            "fromLTRB",
-            "\u2581passagem",
-            "ing",
-            "\u2581Barns",
-            "\u2581aquilo",
-            "\u2581frescoes",
-            "\u2581hran",
-            "\u2581this",
-            "Congo"
-        ],
-        "positive_strings": [
-            "\u2581LADY",
-            "\u2581lady",
-            "\u2581Lady",
-            "lady",
-            "Lady",
-            "LADY",
-            "\u2581ladies",
-            "\u2581Ladies",
-            "ladies",
-            "Ladies"
-        ],
-        "description": "references to female characters with nobility or title"
-    },
-    {
-        "index": "98598",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_98598.json",
-        "negative_strings": [
-            "Ine",
-            "or",
-            "oxone",
-            "pholes",
-            "for",
-            "\u2581Short",
-            "\u2581More",
-            "\u2581early",
-            "More",
-            "\u2581\u4f5c"
-        ],
-        "positive_strings": [
-            "Lady",
-            "\u2581Gaga",
-            "\u2581ujednoznacz",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581Lady",
-            "rungsseite",
-            "awtextra",
-            "\u2581LADY",
-            "AndroidJUnit",
-            "\u2581gaga"
-        ],
-        "description": "mentions of the term \"Lady\" in various forms"
-    },
-    {
-        "index": "26692",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_26692.json",
-        "negative_strings": [
-            "OGND",
-            "parsedMessage",
-            "StructEnd",
-            "iettivo",
-            "\u2581transfieras",
-            "DockStyle",
-            "\ud83d\udd15",
-            "uxxxx",
-            "Clik",
-            "\u2581contextLoads"
-        ],
-        "positive_strings": [
-            "\u2581Gen",
-            "XmlEnum",
-            "\u2581purpose",
-            "awtextra",
-            "purpose",
-            "vieve",
-            "\u2581GEN",
-            "farwydd",
-            "\u306f\u3058\u3081\u306b",
-            "}}],"
-        ],
-        "description": "references to the company Genmar and its associated brands or products"
-    },
-    {
-        "index": "28721",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_28721.json",
-        "negative_strings": [
-            "\u2581\u2018",
-            "\u2581'",
-            "\u2581'@/",
-            "(['",
-            ".__",
-            "\u2581",
-            "\u2581';",
-            "postcss",
-            "\u308f\u308b",
-            "\\\","
-        ],
-        "positive_strings": [
-            "\u2019",
-            "'",
-            "\u2581feroit",
-            "\u2581\u00e9toit",
-            "\u2581pouvoit",
-            "rsiniz",
-            "\u2581auroit",
-            "\u2581JpaRepository",
-            "Personensuche",
-            "\u2581plufieurs"
-        ],
-        "description": "terms related to specific medical conditions and treatments"
-    },
-    {
-        "index": "66515",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_66515.json",
-        "negative_strings": [
-            "\n\n",
-            "\u201c",
-            "\u201d",
-            "\"",
-            ":",
-            "\u2581\u0433\u043b\u0430\u0437\u0430\u043c\u0438",
-            "\u2581/",
-            "\u2581the",
-            "?",
-            "\n"
-        ],
-        "positive_strings": [
-            "ConstraintMaker",
-            "tanleria",
-            "\u51fa\u7248\u5e74",
-            "<unused28>",
-            "<unused74>",
-            "<unused14>",
-            "<unused52>",
-            "\u2581tartalo",
-            "[@BOS@]",
-            "<unused8>"
-        ],
-        "description": " references to characters and their gender in a narrative"
-    },
-    {
-        "index": "118708",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_118708.json",
-        "negative_strings": [
-            "fromnode",
-            "\u2581AssemblyCulture",
-            "zb\u0119d",
-            "\u2581FBref",
-            "MLLoader",
-            "atiker",
-            "devServer",
-            "\u2581battre",
-            "\u2581valent\u00edn",
-            "\u2581pory"
-        ],
-        "positive_strings": [
-            "\u2581elegant",
-            "\u2581Elegant",
-            "\u2581elegan",
-            "\u2581elegancia",
-            "\u2581classy",
-            "Elegant",
-            "\u2581elegance",
-            "\u2581elegante",
-            "elegant",
-            "\u2581gracefully"
-        ],
-        "description": "words related to elegance and sophistication"
-    },
-    {
-        "index": "5943",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a gentleman/data_for_feature_5943.json",
-        "negative_strings": [
-            "rrggbb",
-            "\u2581Gr\u00fcsse",
-            "EndGlobalSection",
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
             "RegressionTest",
-            "\u2581Roskov",
-            "uyasha",
-            "Vidite",
-            "(!__",
-            ".*\")]",
-            "$_['"
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
         ],
         "positive_strings": [
-            "\u2581aimable",
-            "\u2581Stoll",
-            "\u2581elegant",
-            "\u2581r\u00e0ng",
-            "\u2581politely",
-            "\u2581Char",
-            "\u2581Cigar",
-            "\u2581courteous",
-            "\u2581char",
-            "\u2581elegantly"
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
         ],
-        "description": "elements related to etiquette and manners in social interactions"
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "54929",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_54929.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
+        ],
+        "positive_strings": [
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
+        ],
+        "description": " phrases indicating significant events or opportunities"
+    },
+    {
+        "index": "56588",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_56588.json",
+        "negative_strings": [
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581disambiguazione",
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
+        ],
+        "description": " occurrences of the word \"a\""
+    },
+    {
+        "index": "97342",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gentleman\\data_for_feature_97342.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
+        ],
+        "description": "articles, particularly the word \"a.\""
     }
 ]

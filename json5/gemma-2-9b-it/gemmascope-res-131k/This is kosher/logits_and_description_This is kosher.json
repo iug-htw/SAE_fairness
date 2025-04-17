@@ -1,8 +1,128 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
         "index": "124959",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_124959.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_124959.json",
         "negative_strings": [
             "\u2581\u0440\u0430",
             "\u2581Ram",
@@ -30,9 +150,69 @@
         "description": "references to legal and organizational terminology"
     },
     {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "121125",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_121125.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_121125.json",
         "negative_strings": [
             "extAlignment",
             "phosa",
@@ -60,9 +240,69 @@
         "description": "references to cultural or family traditions during holiday celebrations"
     },
     {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
         "index": "12125",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_12125.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_12125.json",
         "negative_strings": [
             "\u51fa\u7248\u5e74",
             "\u2581kasarigan",
@@ -92,7 +332,7 @@
     {
         "index": "34886",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_34886.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_34886.json",
         "negative_strings": [
             "UnitTesting",
             "\u2581estekak",
@@ -122,7 +362,7 @@
     {
         "index": "2436",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_2436.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_2436.json",
         "negative_strings": [
             "Rohy",
             "tanleria",
@@ -152,7 +392,7 @@
     {
         "index": "18358",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_18358.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_18358.json",
         "negative_strings": [
             "\u2581innamor",
             "\u2581c\u01b0",
@@ -180,363 +420,33 @@
         "description": "terms related to food regulations and organic farming practices"
     },
     {
-        "index": "18056",
+        "index": "64092",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_18056.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is kosher\\data_for_feature_64092.json",
         "negative_strings": [
-            "RRect",
-            "\u2581astore",
-            "\u2581Kid",
-            "Chham",
-            "outfile",
-            "\u2581hebdomada",
-            "\u2581Tey",
-            "mousedown",
-            "\u2581wings",
-            "\u2581Tua"
-        ],
-        "positive_strings": [
-            "\u2581resourceCulture",
-            "Kos",
-            "\u2581KOS",
-            "\u2581Kos",
-            "\u2581Cosmo",
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
             "principalColumn",
-            "Cosmo",
-            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
-            "kos",
-            "\u2581Cosmopolitan"
-        ],
-        "description": "references to individuals with the name \"Kos\" or variations thereof"
-    },
-    {
-        "index": "67230",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_67230.json",
-        "negative_strings": [
-            "WireFormatLite",
-            "\u2581proving",
-            "\u2581Provisions",
-            "\u2581Shooter",
-            "\u2581Tired",
-            "\u2581Provision",
-            "\u2581tired",
-            "OLOGIES",
-            "\u2581provision",
-            "\u2581peep"
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
         ],
         "positive_strings": [
-            "Rabbi",
-            "\u2581Rabbi",
-            "\u2581varandra",
-            "\u2581juda",
-            "\u2581Jewish",
-            "\u2581EconPapers",
-            "\u2581rabb",
-            "\u2581Talmud",
-            "Jewish",
-            "\u2581Numerade"
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
         ],
-        "description": " references to specific individuals and their roles within a community"
-    },
-    {
-        "index": "70871",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_70871.json",
-        "negative_strings": [
-            "\u2581my\u017felf",
-            "\u2581Gegenteil",
-            ")++;",
-            "\u2581Ver\u00e4nder",
-            "\u2581Kommunikations",
-            "\u2581communiquer",
-            "tisp",
-            "\u2581zucca",
-            "\u2581odbior",
-            "\u2581pedest"
-        ],
-        "positive_strings": [
-            "\u2581Halal",
-            "\u2581halal",
-            "\u2581autorytatywna",
-            "\u2581Islamic",
-            "SharedCtor",
-            "Autoritn\u00ed",
-            "Islamic",
-            "\u2581EconPapers",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "\u2581Taktlose"
-        ],
-        "description": " terms related to Halal and Haram concepts in food"
-    },
-    {
-        "index": "47291",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_47291.json",
-        "negative_strings": [
-            "\u0144stwo",
-            "\u2581encu",
-            "\u2581ch\u00ec",
-            "en",
-            "tubes",
-            "\u2581ind",
-            "l\u00e8te",
-            "tahui",
-            "TAWA",
-            "\u2581Neel"
-        ],
-        "positive_strings": [
-            "\u2581GenerationType",
-            "\u2581ProtoMessage",
-            "tagHelperRunner",
-            "\u2581invokingState",
-            "principalColumn",
-            "\u2581MOS",
-            "RegistryLite",
-            "ConstraintMaker",
-            "\u2581FOS",
-            "\u2581eos"
-        ],
-        "description": " mentions of the operating system and related file operations"
-    },
-    {
-        "index": "118081",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_118081.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "iglesia",
-            "\u2581d\u00e9sol\u00e9s",
-            "mu\u00f1eca",
-            "Tembelea",
-            "Personendaten",
-            "\u2581Majefty",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "pushFollow",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633"
-        ],
-        "positive_strings": [
-            "\u2581Jewish",
-            "\u2581Jews",
-            "Jewish",
-            "\u2581Jew",
-            "Jews",
-            "\u2581jewish",
-            "\u2581Judaism",
-            "\u2581j\u00fcdis",
-            "\u2581rabbi",
-            "jewish"
-        ],
-        "description": "references to Jewish people and topics related to them"
-    },
-    {
-        "index": "45778",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_45778.json",
-        "negative_strings": [
-            "\u2581iArr",
-            "Vey",
-            "Willem",
-            "AppRoutingModule",
-            "nier",
-            "pil",
-            "Hein",
-            "visej\u00edc\u00ed",
-            "linger",
-            "Megan"
-        ],
-        "positive_strings": [
-            "\u2581ortodo",
-            "\u2581Orthodox",
-            "thodox",
-            "addContainerGap",
-            "\u2581orthodox",
-            "\u2581\u017fta",
-            "\u2581\u017fch",
-            "orthodox",
-            "\u2581\u017fche",
-            "\u017felves"
-        ],
-        "description": " references to Orthodox religious contexts"
-    },
-    {
-        "index": "13413",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_13413.json",
-        "negative_strings": [
-            "\u2581Wikimedijinoj",
-            "verifyException",
-            "posedge",
-            "\u2581pouvoit",
-            "Revenir",
-            "parsedMessage",
-            "AutoScaleMode",
-            "appartamento",
-            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
-            "eqn"
-        ],
-        "positive_strings": [
-            "\u2581options",
-            "\u2581option",
-            "\u2581choices",
-            "\u2581alternatives",
-            "\u2581friendly",
-            "\u2581substitutions",
-            "\u2581Options",
-            "\u2581OPTION",
-            "\u2581substitutes",
-            "\u2581OPTIONS"
-        ],
-        "description": "terms related to gluten-free, vegetarian, and vegan diets"
-    },
-    {
-        "index": "14647",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_14647.json",
-        "negative_strings": [
-            "NamedQueries",
-            "\u2581ovvero",
-            "umenter",
-            "\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093",
-            "postsleuth",
-            "cologist",
-            "DebuggerNonUser",
-            ">{@",
-            "\u2581dimensione",
-            "\u2581schop"
-        ],
-        "positive_strings": [
-            "Autoritn\u00ed",
-            "\u2581stuff",
-            "\u2581territory",
-            "\u2581footage",
-            "territory",
-            "\u2581legislation",
-            "\u2581advice",
-            "\u2581behavior",
-            "\u2581behaviour",
-            "\u2581terminology"
-        ],
-        "description": "phrases expressing opinions and evaluations about events, ideas, or behaviors"
-    },
-    {
-        "index": "107616",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_107616.json",
-        "negative_strings": [
-            "\u2581'\\\\;'",
-            "StoryboardSegue",
-            "monials",
-            "delwed",
-            "aarrggbb",
-            "awaiter",
-            "V\u00e4lislingid",
-            "<_>",
-            "oquia",
-            "\u2581esternos"
-        ],
-        "positive_strings": [
-            "\u2581ruling",
-            "\u2581rulings",
-            "\u2581ruled",
-            "\u2581Ruling",
-            "\u2581rule",
-            "ruling",
-            "\u2581rules",
-            "\u2581Rul",
-            "\u2581Rule",
-            "rule"
-        ],
-        "description": " references to ethical guidelines and advisory structures for candidates"
-    },
-    {
-        "index": "71549",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_71549.json",
-        "negative_strings": [
-            "\u2581Sorensen",
-            "\u2581most",
-            "\u2581framf\u00f6r",
-            "\u2581Bischof",
-            "section",
-            "\u2581Onder",
-            "\u2581points",
-            "\u2581Mutter",
-            "\u2581sobres",
-            "\u2581respon"
-        ],
-        "positive_strings": [
-            "lawful",
-            "SBATCH",
-            "\u2581legalized",
-            "\u5408\u6cd5",
-            "\u2581legalization",
-            "\u2581\u0648\u064a\u0643\u064a\u067e\u064a\u062f\u064a\u0627",
-            "\u2581lawful",
-            "AndEndTag",
-            "\u27ec",
-            "\u2581nahilalakip"
-        ],
-        "description": "terms and phrases related to the legality of marijuana"
-    },
-    {
-        "index": "9610",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_9610.json",
-        "negative_strings": [
-            "\u2581EconPapers",
-            "\u2581ujednoznacz",
-            "\u2581kysy",
-            "\u2581bureaus",
-            "\u86aa",
-            "\u0627\u0644\u062d\u064a\u0627\u0647",
-            "\u2581oprot",
-            "awtextra",
-            "SequentialGroup",
-            "\u2581Signalez"
-        ],
-        "positive_strings": [
-            "HostException",
-            "\u2581Diretto",
-            "iecie",
-            "mesh",
-            "\u00fcrtel",
-            "brew",
-            "/*!",
-            "\u2581mycelium",
-            "nonatomic",
-            "wolle"
-        ],
-        "description": "references to Jewish culture, traditions, and identities"
-    },
-    {
-        "index": "92142",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is kosher/data_for_feature_92142.json",
-        "negative_strings": [
-            "ThroughAttribute",
-            "\u2581\u0648\u062a\u0633\u062c\u064a\u0644\u0627\u062a",
-            "RTEX",
-            "\u2581BrowserModule",
-            "ecuzione",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "Parcelize",
-            "RoutingModule",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "\u2581ruota"
-        ],
-        "positive_strings": [
-            "\u2581Israeli",
-            "\u2581Israel",
-            "\u2581Hebrew",
-            "Israeli",
-            "\u2581Aviv",
-            "\u2581Israelis",
-            "Israel",
-            "\u2581synagogue",
-            "\u2581Netanyahu",
-            "\u2581Jewish"
-        ],
-        "description": "terms and references related to the Hebrew language and Israeli context"
+        "description": "questions beginning with \"What\" or \"How.\""
     }
 ]

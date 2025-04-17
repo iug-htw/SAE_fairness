@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "40731",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_40731.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_40731.json",
         "negative_strings": [
             "\u2581S\u00fcnde",
             "\u2581enfans",
@@ -30,9 +90,99 @@
         "description": " requests related to file handling and permissions"
     },
     {
+        "index": "13512",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_13512.json",
+        "negative_strings": [
+            "\u2581autorit\u00e9",
+            "\u2581honneur",
+            "\u2581espoir",
+            "\u2581peuple",
+            "\u2581enfance",
+            "\u2581Herkunft",
+            "\u2581lendemain",
+            "ss",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9sert"
+        ],
+        "positive_strings": [
+            "OGND",
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581CanadaChoose",
+            "RTEE",
+            "GEBURTSDATUM",
+            "\u2581very",
+            "\u2581huge",
+            "\u2581few"
+        ],
+        "description": "articles and determiners indicating quantity or specification"
+    },
+    {
+        "index": "32117",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_32117.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Kleid",
+            "\u2581Wikimedijinoj",
+            "\u2581Wolken",
+            "tagext",
+            "\u2581Glied",
+            "Lycka",
+            "\u2581Reifen",
+            "\u2581Liebes",
+            "\u2581Ge\u017fch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "\u2581Photocase",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "Transkript",
+            "Telefax",
+            "\u2581utafitiHapana",
+            "Personensuche",
+            "\u2581Euro",
+            "\u2581EURO"
+        ],
+        "description": " expressions related to writing and documentation"
+    },
+    {
+        "index": "115251",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_115251.json",
+        "negative_strings": [
+            ".*\")]",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "BagConstraints",
+            "\u2581ProtoMessage",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "ulescu",
+            "\u2581'\\\\;'",
+            "awtextra",
+            "MarshalTo",
+            "\u2581noDo"
+        ],
+        "positive_strings": [
+            "\u2581blevet",
+            "\u2581mukana",
+            "\u2581available",
+            "\u2581capable",
+            "applicable",
+            "available",
+            "\u2581able",
+            "\u2581comigo",
+            "\u2581Bestandteil",
+            "\u2581applicable"
+        ],
+        "description": " expressions of personal opinions and subjective assessments"
+    },
+    {
         "index": "34882",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_34882.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_34882.json",
         "negative_strings": [
             "async",
             "ukone",
@@ -62,7 +212,7 @@
     {
         "index": "54782",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_54782.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_54782.json",
         "negative_strings": [
             "er",
             "RUnlock",
@@ -90,9 +240,69 @@
         "description": " references to a character named Opal or related terms"
     },
     {
+        "index": "115634",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_115634.json",
+        "negative_strings": [
+            "\u2581defStyleAttr",
+            "\u2581Volkes",
+            "\u2581Vordergrund",
+            "\u2581htons",
+            "\u2581Gebet",
+            "\u2581acr\u00ed",
+            "helves",
+            "\u2581Audiodateien",
+            "\u2581soffer",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621"
+        ],
+        "positive_strings": [
+            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
+            "httphttps",
+            "\u2581E\u017f",
+            "Erstellt",
+            "VYMaps",
+            "]=>",
+            "\u2581Re\u017f",
+            "AddTagHelper",
+            "tagHelperRunner",
+            "setVerticalGroup"
+        ],
+        "description": " formal academic or technical language, particularly in relation to research and documentation"
+    },
+    {
+        "index": "27068",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_27068.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581tr\u00f4ne",
+            "\u2581identit\u00e9",
+            "\u2581v\u00f4tre",
+            "\u2581lendemain",
+            "\u2581del\u00e0",
+            "\u2581tarko",
+            "paravant",
+            "\u2581v\u00eatement",
+            "\u2581espoir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u2581\u0b92\u0bb0\u0bc1",
+            "\u2581another",
+            "\u017ficht",
+            "\u2581\u098f\u0995\u099f\u09bf",
+            "\u017f\u017fung",
+            "\u017fehen",
+            "\u2581small"
+        ],
+        "description": " occurrences of the word \"ein\" and its variations in German text"
+    },
+    {
         "index": "35413",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_35413.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_35413.json",
         "negative_strings": [
             "bootstrapcdn",
             "ContentAsync",
@@ -122,7 +332,7 @@
     {
         "index": "57438",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_57438.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_57438.json",
         "negative_strings": [
             "########.",
             "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
@@ -152,7 +362,7 @@
     {
         "index": "88856",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_88856.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_88856.json",
         "negative_strings": [
             "\u2581Jur\u00ed",
             "\u2581f\u00e9rias",
@@ -180,273 +390,33 @@
         "description": "references to physical activity and related entities"
     },
     {
-        "index": "96640",
+        "index": "50988",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_96640.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Opa\\data_for_feature_50988.json",
         "negative_strings": [
-            "\u306a\u3044",
-            "nya",
-            "\u2581s\u0103u",
-            "less",
-            "l",
-            "les",
-            "ts",
-            "lor",
-            "long",
-            "li\u015bmy"
+            "rawDesc",
+            "DockStyle",
+            "Cyfeiriadau",
+            "Tikang",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "TacToe",
+            "\u2581StatelessWidget",
+            "\u2581testigos",
+            "ronpa",
+            "\u2581normalidad"
         ],
         "positive_strings": [
-            "\u0627",
-            "a",
-            "aaaa",
-            "aaa",
-            "e",
-            "\u0627\u0627",
-            "\u0627\u0627\u0627\u0627",
-            "aaaaaaaa",
-            "\u3041",
-            "aaaaaa"
+            "\u2581nice",
+            "nice",
+            "\u2581awesome",
+            "\u2581funny",
+            "\u2581cool",
+            "\u2581AMAZING",
+            "awesome",
+            "\u2581nicest",
+            "\u2581amazing",
+            "\u2581aDecoder"
         ],
-        "description": "specific scientific terms and names related to plants and their classifications"
-    },
-    {
-        "index": "29625",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_29625.json",
-        "negative_strings": [
-            "\u00edn\u0171",
-            "\">//",
-            "\u2581\u0431\u0443\u0442\u0438",
-            "\u2581posX",
-            "Revenir",
-            "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
-            "\u2581moods",
-            "WEBPACK",
-            "RectangleBorder",
-            "\ub837"
-        ],
-        "positive_strings": [
-            "\u2581grandmother",
-            "\u2581grandfather",
-            "\u2581Grandmother",
-            "grandmother",
-            "\u2581grandparents",
-            "grandfather",
-            "Grandma",
-            "\u2581Grandma",
-            "\u2581Grandfather",
-            "\u2581grandma"
-        ],
-        "description": "mentions of grandmothers and their impact in personal narratives"
-    },
-    {
-        "index": "18284",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_18284.json",
-        "negative_strings": [
-            "WriteBarrier",
-            "PrototypeOf",
-            "\ue8b5",
-            "\u2581PartialEq",
-            "j\u0161\u00ed",
-            "pinephrine",
-            "Anis",
-            "Kaynak\u00e7a",
-            "setVerticalGroup",
-            "ftances"
-        ],
-        "positive_strings": [
-            "\u2581Oper",
-            "\u2581OPER",
-            "\u2581Op",
-            "\u2581op",
-            "\u2581OP",
-            "OPER",
-            "Oper",
-            "\u2581Opera",
-            "oper",
-            "operand"
-        ],
-        "description": " phrases related to operational processes and management"
-    },
-    {
-        "index": "71799",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_71799.json",
-        "negative_strings": [
-            "\u2581ModelRenderer",
-            "\u2581\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-            "\u00e7amento",
-            "\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430",
-            "PCell",
-            "\u2581rata",
-            "})();\r",
-            "\u2581unga",
-            "IntoConstraints",
-            "\u2581kob"
-        ],
-        "positive_strings": [
-            "\u2581grandmother",
-            "\u2581grandparents",
-            "\u2581grandma",
-            "\u2581grandfather",
-            "\u2581Grandma",
-            "\u2581Grandmother",
-            "\u2581grandpa",
-            "Grandma",
-            "\u2581Grandfather",
-            "\u2581grand"
-        ],
-        "description": "references to family relationships, particularly grandmothers and grandfathers"
-    },
-    {
-        "index": "106847",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_106847.json",
-        "negative_strings": [
-            "Erreferentziak",
-            "Refer\u00e8ncies",
-            "Revenir",
-            "\u00e8dia",
-            "\u2581transfieras",
-            "\u2912",
-            "Hochspringen",
-            "\u1ecdi",
-            "V\u00e4lislingid",
-            "\ufeff/**"
-        ],
-        "positive_strings": [
-            "\u2581grandfather",
-            "\u2581Grandfather",
-            "\u2581grandson",
-            "\u2581abuelo",
-            "\u2581Grandpa",
-            "\u2581granddaughter",
-            "grandfather",
-            "Grand",
-            "\u2581grandsons",
-            "\u2581GRAND"
-        ],
-        "description": "references to grandfathers and their familial connections"
-    },
-    {
-        "index": "9795",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_9795.json",
-        "negative_strings": [
-            "RenderAtEndOf",
-            "\u2581BorderSide",
-            "enuine",
-            "HasIndex",
-            "antaranya",
-            "\u2581CreateTagHelper",
-            "\u2581kayna\u011f\u0131ndan",
-            "\u2581minat",
-            "harapkan",
-            "marked"
-        ],
-        "positive_strings": [
-            "\u2581father",
-            "\u2581mother",
-            "father",
-            "\u2581parent",
-            "Mother",
-            "\u2581parents",
-            "mother",
-            "\u2581fathers",
-            "\u2581Mother",
-            "\u2581grandparents"
-        ],
-        "description": "references to parental or father figures"
-    },
-    {
-        "index": "92794",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_92794.json",
-        "negative_strings": [
-            "\u2581esternos",
-            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "estal",
-            "ulon",
-            "tomans",
-            "quille",
-            "IInter",
-            "etzal",
-            "ighted"
-        ],
-        "positive_strings": [
-            "-",
-            "Personendaten",
-            "\u2581betweenstory",
-            "-)",
-            "parsedMessage",
-            "-(",
-            "WindowConstants",
-            "!-",
-            ".*\")]",
-            "-\""
-        ],
-        "description": "technical terms and conditions related to web programming and server management"
-    },
-    {
-        "index": "2880",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_2880.json",
-        "negative_strings": [
-            "Derbyniad",
-            "\u2581transfieras",
-            "\u2581EconPapers",
-            "Gambas",
-            "r\u00e9n\u00e9es",
-            "\u2581Chwiliwch",
-            "Diweddarwch",
-            "\u2581Wikimedijinoj",
-            "Vidite",
-            "\u2581ivelany"
-        ],
-        "positive_strings": [
-            "\u2581elderly",
-            "\u2581ancianos",
-            "\u2581Elderly",
-            "elderly",
-            "\u2581Old",
-            "\ud83d\udc75",
-            "\u2581old",
-            "\u2581elder",
-            "\u8001",
-            "\u8001\u4eba"
-        ],
-        "description": " references to older individuals"
-    },
-    {
-        "index": "25514",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist ein Opa/data_for_feature_25514.json",
-        "negative_strings": [
-            "contentLoaded",
-            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
-            "InjectAttribute",
-            "\u5e16\u6700\u540e\u7531",
-            "\u2581CreateTagHelper",
-            "\u2581Inf\u00f3rmanos",
-            "tagext",
-            "\u2581surla",
-            "\u2581disambiguazione",
-            "PostInfinity"
-        ],
-        "positive_strings": [
-            "\u2581stupid",
-            "\u2581stuff",
-            "\u2581stupidly",
-            "\u2581pretty",
-            "\u2581shit",
-            "\u2581silly",
-            "\u2581shitty",
-            "\u2581fucking",
-            "\u2581something",
-            "\u2581fucked"
-        ],
-        "description": " expressions related to modal verbs and their usage"
+        "description": " forms of the verb \"to be.\""
     }
 ]

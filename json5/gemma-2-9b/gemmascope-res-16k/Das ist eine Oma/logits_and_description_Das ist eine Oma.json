@@ -1,8 +1,338 @@
 [
     {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
         "index": "6540",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_6540.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_6540.json",
         "negative_strings": [
             "\u2581namin",
             "\u2581sya",
@@ -30,99 +360,99 @@
         "description": "modal verbs and related structures in German"
     },
     {
-        "index": "9893",
+        "index": "5150",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_9893.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_5150.json",
         "negative_strings": [
-            "\u2581enfans",
-            "\u2581n\u00f4tre",
-            "\u2581plumas",
-            "\u2581F\u00fc\u00dfen",
-            "\u2581orejas",
-            "\u2581Wikiseite",
-            "\u2581Menschheit",
-            "\u2581Decke",
-            "\u2581Geruch",
-            "\u2581M\u00e4nnern"
+            "\u2581inhoud",
+            "\u2581illustratie",
+            "\u2581afbeelding",
+            "\u2581gevallen",
+            "\u2581jongen",
+            "\u2581applicazioni",
+            "\u2581aandacht",
+            "\u2581indruk",
+            "\u2581c\u00e2te",
+            "\u2581moeite"
         ],
         "positive_strings": [
-            "\u2581mit",
-            "\u2581neu",
-            "\u2581die",
-            "\u2581ver",
-            "\u2581sch",
-            "\u2581bis",
-            "\u2581von",
-            "\u2581dyna",
-            "\u2581ent",
-            "\u2581und"
+            "\u2581Angebot",
+            "\u2581Thema",
+            "\u2581Verh\u00e4ltnis",
+            "\u2581Auge",
+            "\u2581Problem",
+            "\u2581Gebiet",
+            "ACKNOWLEDGEMENTS",
+            "\u2581Maximum",
+            "quantum",
+            "\u2581Projekt"
         ],
-        "description": " phrases and terminology related to grammatical structures and verb conjugations"
+        "description": " mentions of modal verbs and their usage in sentences"
     },
     {
-        "index": "12268",
+        "index": "9893",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_12268.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_9893.json",
         "negative_strings": [
-            "\u2581tayo",
-            "WebElementEntity",
-            "\u2581namin",
-            "\u2581sya",
-            "\u2581cerve",
-            "\u2581gordo",
-            "\u2581carre",
-            "\u5fb7\u570b",
-            "\u2581guir",
-            "Goed"
+            "\u2581plumas",
+            "\u2581v\u00f4tre",
+            "\u2581cortinas",
+            "\u2581n\u00f4tre",
+            "\u2581orejas",
+            "\u2581enfans",
+            "\u2581oreille",
+            "\u2581Wikiseite",
+            "\u2581cejas",
+            "\u2581velas"
         ],
         "positive_strings": [
-            "\u2581Bewu\u00dft",
-            "\u2581zijne",
-            "\u2581Verh\u00e4ltnisse",
-            "\u2581Einflu\u00df",
-            "\u2581mijne",
-            "\u2581S\u00fcnde",
-            "\u2581wei\u00dfem",
             "\u2581und",
-            "\u2581Kr\u00e4fte",
-            "\u2581K\u00f6nige"
+            "\u2581mit",
+            "\u2581die",
+            "\u2581neu",
+            "\u2581der",
+            "\u2581bis",
+            "\u2581aus",
+            "\u2581ver",
+            "\u2581von",
+            "\u2581des"
         ],
-        "description": " elements related to rules or restrictions"
+        "description": " technical vocabulary related to language and communication"
     },
     {
-        "index": "9893",
+        "index": "4645",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_9893.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_4645.json",
         "negative_strings": [
-            "\u2581enfans",
-            "\u2581n\u00f4tre",
-            "\u2581plumas",
-            "\u2581F\u00fc\u00dfen",
-            "\u2581orejas",
-            "\u2581Wikiseite",
-            "\u2581Menschheit",
-            "\u2581Decke",
-            "\u2581Geruch",
-            "\u2581M\u00e4nnern"
+            "\u2581nakalista",
+            "\u2581kasarigan",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "WriteBarrier",
+            "\u2581viewType",
+            "\u2581hidr\u00e1ulica",
+            "\u2581newOwner",
+            "\u2581copii",
+            "\u2581cat\u00f3lica"
         ],
         "positive_strings": [
-            "\u2581mit",
-            "\u2581neu",
-            "\u2581die",
-            "\u2581ver",
-            "\u2581sch",
-            "\u2581bis",
-            "\u2581von",
-            "\u2581dyna",
-            "\u2581ent",
-            "\u2581und"
+            "\u0414\u0438\u043d\u0430",
+            "\u2581Arrangement",
+            "\u6599",
+            "\u2581Thema",
+            "\u2581determine",
+            "\u2581Ding",
+            "\u2581Studium",
+            "Determine",
+            "\u2581Optimum",
+            "\u2581\u0148"
         ],
-        "description": " phrases and terminology related to grammatical structures and verb conjugations"
+        "description": " references to the word \"Honig\" (honey) and modal verbs in various contexts"
     },
     {
         "index": "10914",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_10914.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_10914.json",
         "negative_strings": [
             "\u2581enfans",
             "\u2581Menschheit",
@@ -150,303 +480,93 @@
         "description": " modal verbs and their usage in sentences"
     },
     {
-        "index": "12251",
+        "index": "9893",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_12251.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_9893.json",
         "negative_strings": [
+            "\u2581plumas",
+            "\u2581v\u00f4tre",
+            "\u2581cortinas",
+            "\u2581n\u00f4tre",
+            "\u2581orejas",
             "\u2581enfans",
-            "\u2581Menschheit",
-            "\u2581F\u00fc\u00dfen",
+            "\u2581oreille",
             "\u2581Wikiseite",
-            "\u2581M\u00e4nnern",
-            "\u2581Geruch",
-            "\u2581S\u00fcnde",
-            "\u2581G\u00e4sten",
-            "\u2581Gr\u00fcsse",
-            "\u2581Ge\u017fch"
+            "\u2581cejas",
+            "\u2581velas"
         ],
         "positive_strings": [
-            "\u2581ver",
+            "\u2581und",
             "\u2581mit",
-            "\u2581neu",
             "\u2581die",
-            "\u2581vers",
-            "\u2581sch",
-            "\u2581ge",
-            "\u2581alle",
-            "\u2581ent",
-            "\u2581bes"
-        ],
-        "description": " phrases related to letter writing or correspondence"
-    },
-    {
-        "index": "8963",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_8963.json",
-        "negative_strings": [
-            "\u2581Menschheit",
-            "\u2581enfans",
-            "\u2581F\u00fc\u00dfen",
-            "\u2581Ge\u017fch",
-            "\u2581S\u00fcnde",
-            "\u2581Geruch",
-            "\u2581M\u00e4nnern",
-            "\u2581Wikiseite",
-            "\u2581Feinde",
-            "\u2581Gr\u00fcsse"
-        ],
-        "positive_strings": [
-            "\u2581ver",
-            "\u2581mit",
-            "\u2581sch",
             "\u2581neu",
-            "\u2581vers",
-            "\u2581ge",
-            "\u2581hin",
-            "\u2581ent",
-            "\u2581rei",
-            "\u2581die"
+            "\u2581der",
+            "\u2581bis",
+            "\u2581aus",
+            "\u2581ver",
+            "\u2581von",
+            "\u2581des"
         ],
-        "description": "requests or mentions of letters or written communication"
+        "description": " technical vocabulary related to language and communication"
     },
     {
-        "index": "2094",
+        "index": "1672",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_2094.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_1672.json",
         "negative_strings": [
-            "RenderAtEndOf",
-            "\u2581pab",
-            "\u2581r\u00f4les",
-            "\u2581rendement",
-            "emale",
-            "criter",
-            "\u00edritu",
-            "\u2581enfans",
-            "\u2581recours",
-            "Bereich"
-        ],
-        "positive_strings": [
-            "\u2581mijne",
-            "\u2581milioane",
-            "\u2581tuturor",
-            "\u2581oplossing",
-            "\u2581achtergrond",
-            "\u2581titolata",
-            "\u2581leeftijd",
-            "\u2581asesino",
-            "\u2581miliardi",
-            "\u2581behandeling"
-        ],
-        "description": " aspects related to structure and organization in writing"
-    },
-    {
-        "index": "11792",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_11792.json",
-        "negative_strings": [
-            "\u2581enfans",
-            "ambi\u00e9n",
-            "erschiedene",
-            "authier",
-            "\u2581plancher",
-            "\u2581process",
-            "\u2581aspects",
-            "\u2581atve",
-            "\u2581usages",
-            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448"
-        ],
-        "positive_strings": [
-            "\u2581H\u00e4lfte",
-            "\u2581Tatsache",
-            "\u2581Gruppe",
-            "\u2581Idee",
-            "\u2581M\u00f6glichkeit",
-            "\u2581Firma",
-            "jenigen",
-            "\u2581jeweiligen",
-            "\u2581mijne",
-            "\u2581Oberfl\u00e4che"
-        ],
-        "description": "references to grammatical structures, specifically modal verbs and their usage in various sentence forms"
-    },
-    {
-        "index": "14237",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_14237.json",
-        "negative_strings": [
-            "\u2581plantel",
-            "mergeFrom",
-            "\u0647\u0631\u0633\u062a",
-            "scryfall",
-            "INSTANCE",
-            "\u2581personnal",
-            "\u86aa",
-            "djangoproject",
-            "\u2581longitud",
-            "\u2581particularly"
-        ],
-        "positive_strings": [
-            "\u2581sowas",
-            "\u2581irgendwie",
-            "\u2581nix",
-            "\u2581mir",
-            "\u2581mal",
-            "\u2581ich",
-            "\u2581hab",
-            "\u2581halt",
-            "\u2581nochmal",
-            "\u2581garn"
-        ],
-        "description": " elements related to written communication and correspondence"
-    },
-    {
-        "index": "8622",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_8622.json",
-        "negative_strings": [
-            "ormais",
-            "retudo",
-            "IntoConstraints",
-            "MessageTagHelper",
-            "angering",
-            "oredCriteria",
-            "icester",
-            "\u2581an\u00fan",
-            "\u2581tarvit",
-            "\u2581poffible"
-        ],
-        "positive_strings": [
-            "\u2581nack",
-            "\u2581ural",
-            "\u2581beleid",
-            "\u2581graus",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "\u2581inform\u00e9e",
-            "\u2581Rache",
-            "muerzo",
-            "\u064a\u0643\u0628",
-            "\u2581krep"
-        ],
-        "description": "arguments or conditions related to restrictions and permissions"
-    },
-    {
-        "index": "10291",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_10291.json",
-        "negative_strings": [
-            "\u2581<=\",",
-            "PostInfinity",
-            "\u2581AssemblyCulture",
-            "\u2581m\u00fc\u017f\u017fen",
-            "\u2581Numerade",
-            "\u2581Ferner",
-            "\ufeff/**",
-            "\u2581la\u017f\u017fen",
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
-            "\u2581zu\u017fammen"
-        ],
-        "positive_strings": [
-            "\u2581mal",
-            "\u2581mega",
-            "\u2581nix",
-            "^^",
-            "\u2581halt",
-            "\u2581hab",
-            "\u2581\ud83d\ude05",
-            "nix",
-            "\u2581dir",
-            "\u2581rum"
-        ],
-        "description": " references to written communication and formal expressions"
-    },
-    {
-        "index": "7091",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_7091.json",
-        "negative_strings": [
-            "\u2581\u0628\u0630\u0644\u0643",
-            "\u2581fourrure",
-            "]\")]",
-            "\u2581vence",
-            "\u2581tarvit",
-            "lapsingToolbar",
-            "\u2581an\u00fan",
-            "\u2581StringVar",
-            "bootstrapcdn",
-            "IntoConstraints"
-        ],
-        "positive_strings": [
-            "\u2581CanadaChoose",
-            "\u2581nack",
-            "\u2581intim",
-            "\u2581weh",
-            "\u2581graus",
-            "\u2581leid",
-            "\u2581totales",
-            "\u2581ural",
-            "bals",
-            "\u2581frust"
-        ],
-        "description": " modal verbs and their conjugations"
-    },
-    {
-        "index": "463",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_463.json",
-        "negative_strings": [
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
-            "\u2581Numerade",
-            "\u2581AssemblyCulture",
-            "contentLoaded",
-            "\u2581propOrder",
-            "\u2581m\u00fc\u017f\u017fen",
-            "\u2581Gei\u017ft",
-            "\u2581la\u017f\u017fen",
-            "expandindo",
-            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9"
-        ],
-        "positive_strings": [
-            "\u2581mal",
-            "\u2581nix",
-            "\u2581mega",
-            "\u2581lus",
-            "\u2581super",
-            "\u2581prob",
-            "\u2581gar",
-            "\u2581Mathe",
-            "\u2581ping",
-            "\u2581Mist"
-        ],
-        "description": "elements of written communication, particularly letters or formal written exchanges"
-    },
-    {
-        "index": "9554",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/Das ist eine Oma/data_for_feature_9554.json",
-        "negative_strings": [
-            "farande",
-            "\u2581annat",
-            "\u2581enfans",
-            "f\u00f6ra",
-            "\u2581rendement",
-            "\u2581trozos",
-            "\u2581peuples",
-            "\u2581blancas",
-            "RenderAtEndOf",
-            "\u00e4gg"
-        ],
-        "positive_strings": [
-            "\u2581milioane",
+            "\u2581inhoud",
+            "\u2581c\u00e2te",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ma\u0219",
+            "\u2581gevallen",
+            "\u2581bun\u0103",
+            "\u2581met\u00e1lica",
+            "\u2581jongen",
             "seamn\u0103",
-            "\u2581tuturor",
-            "\u2581card\u00edaca",
-            "wijl",
-            "\u2581situatie",
-            "\u2581Normdatei",
-            "\u2581asesino",
-            "\u2581oplossing",
-            "\u2581mijne"
+            "\u2581noastr\u0103"
         ],
-        "description": " phrases related to the structure and formality of written content"
+        "positive_strings": [
+            "\u2581Arrangement",
+            "\u2581Thema",
+            "\u2581Engagement",
+            "createCanvas",
+            "\u2581Highlight",
+            "\u2581Studium",
+            "mathematical",
+            "parsedMessage",
+            "\u2581Stadium",
+            "\u2581Setup"
+        ],
+        "description": " instances of modal verbs and their usage in context"
+    },
+    {
+        "index": "10101",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist eine Oma\\data_for_feature_10101.json",
+        "negative_strings": [
+            "StackNavigator",
+            "\u2581Stu",
+            "\u2581\u0ab5",
+            "\u2581Walkover",
+            "mbggenerated",
+            "\u0440\u043e\u0434",
+            "AddHtmlAttribute",
+            "\u2581\u0440\u043e\u0434",
+            "Carriera",
+            "styleable"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581Administrativna",
+            "\u2581CreateTagHelper",
+            "\ufeff<?",
+            "\u2581poveznice",
+            "\u2581be\u017fte",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0648\u064a\u0643\u064a\u067e",
+            "\u017felben",
+            "\u017fammen"
+        ],
+        "description": "proper nouns, particularly names of people, places, or specific entities"
     }
 ]

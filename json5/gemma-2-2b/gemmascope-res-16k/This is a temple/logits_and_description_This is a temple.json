@@ -1,452 +1,542 @@
 [
     {
-        "index": "14299",
+        "index": "4667",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_14299.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_4667.json",
         "negative_strings": [
-            "AccessorTable",
-            "Rhestr",
-            "findpost",
-            "\u2581FZ",
-            "ionage",
-            "setInput",
-            "\u2581hy\u00f6",
-            "IZON",
-            "OrBuilder",
-            "\u2581concern\u00e9s"
-        ],
-        "positive_strings": [
-            "\u2581temple",
-            "\u2581shrine",
-            "\u2581idols",
-            "\u2581idol",
-            "\u2581shrines",
-            "\u2581devotees",
-            "\u2581Temple",
-            "\u2581Lord",
-            "\u2581Goddess",
-            "\u2581temples"
-        ],
-        "description": "references to religious or spiritual figures and their attributes"
-    },
-    {
-        "index": "12599",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_12599.json",
-        "negative_strings": [
-            "AccessorTable",
-            "Rhestr",
-            "\u2581FZ",
-            "lamabad",
-            "setInput",
-            "India",
-            "codable",
-            "\u2581DELHI",
-            "\u2581India",
-            "\u2581Islamabad"
-        ],
-        "positive_strings": [
-            "\u2581Lord",
-            "Lord",
-            "\u2581Goddess",
-            "\u2581devotees",
-            "\u2581deity",
-            "\u2581lord",
-            "\u2581idol",
-            "Goddess",
-            "\u2581Deity",
-            "\u2581deities"
-        ],
-        "description": "references to religious worship and practices"
-    },
-    {
-        "index": "1752",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_1752.json",
-        "negative_strings": [
-            "AccessorTable",
-            "LabelTagHelper",
-            "Rhestr",
-            "dataflow",
-            "marshall",
-            "Viet",
-            "Caesar",
-            "findpost",
-            "IZON",
-            "codable"
-        ],
-        "positive_strings": [
-            "\u2581temple",
-            "\u2581shrine",
-            "\u2581Temple",
-            "\u2581idol",
-            "\u2581shrines",
-            "\u2581idols",
-            "\u2581temples",
-            "Temple",
-            "\u2581devotees",
-            "\u2581holy"
-        ],
-        "description": "information related to deities and worship practices"
-    },
-    {
-        "index": "16084",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_16084.json",
-        "negative_strings": [
-            "\u2581BoxDecoration",
-            "\u2581Bi\u00f4grafia",
-            "parsedMessage",
-            "sizeCache",
-            "\u2581wireType",
-            "ParallelGroup",
-            "tedrale",
-            "TagMode",
-            "\u2581crossorigin",
-            "\u2581\u0645\u0634\u064a\u0646"
-        ],
-        "positive_strings": [
-            "\u2581owner",
-            "\u2581owners",
-            "\u2581complex",
-            "keepers",
-            "keeper",
-            "goers",
-            "\u2581Owner",
-            "\u0e41\u0e2b\u0e48\u0e07",
-            "\u2581manager",
-            "\u2581Owners"
-        ],
-        "description": " locations and establishments related to food, accommodation, and services"
-    },
-    {
-        "index": "13371",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_13371.json",
-        "negative_strings": [
-            "TagMode",
-            "WriteTagHelper",
-            "\u2581betweenstory",
-            "AddTagHelper",
-            "\u2581NSCoder",
-            "\u2581\u0627\u0644\u062f\u0648\u0644\u0649",
-            "InitVars",
-            "devise",
-            "\u2581onCreateView",
-            "ContentAsync"
-        ],
-        "positive_strings": [
-            "\u2581built",
-            "\u2581erected",
-            "\u2581constructed",
-            "\u2581Built",
-            "Built",
-            "\u2581rebuilt",
-            "\u2581standing",
-            "built",
-            "\u2581Constructed",
-            "\u2581dating"
-        ],
-        "description": "references to historical buildings and architectural details"
-    },
-    {
-        "index": "5387",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_5387.json",
-        "negative_strings": [
-            "AccessorTable",
-            "THISDAY",
-            "qrstuvwxyz",
-            "\u2581pneum",
-            "\u00edpio",
-            "findpost",
-            "ibouti",
-            "\u2581farfetch",
-            "\u01d4",
-            "\u2581Bagdad"
-        ],
-        "positive_strings": [
-            "\u2581devotees",
-            "\u2581devotee",
-            "\u2581worship",
-            "\u2581worshipped",
-            "\u2581Lord",
-            "\u2581idol",
-            "\u2581temple",
-            "\u2581revered",
-            "\u2581blessings",
-            "\u2581recite"
-        ],
-        "description": "references to religious worship and rituals"
-    },
-    {
-        "index": "15926",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_15926.json",
-        "negative_strings": [
-            "AccessorTable",
-            "findpost",
-            "codable",
-            "isling",
-            "\u2581Bagdad",
-            "THISDAY",
-            "\u2581rhubarb",
-            "\u2581somme",
-            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
-            "\u2581Khartoum"
-        ],
-        "positive_strings": [
-            "\u2581temple",
-            "\u2581devotees",
-            "\u2581shrine",
-            "\u2581shrines",
-            "\u2581Temple",
-            "\u2581holy",
-            "\u2581revered",
-            "Temple",
-            "\u2581temples",
-            "\u2581devotee"
-        ],
-        "description": "references to political events or figures, particularly in Brazil"
-    },
-    {
-        "index": "12143",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_12143.json",
-        "negative_strings": [
-            "Such",
-            "BeginInit",
-            "\u2581Such",
-            "ContentAsync",
-            "po\u0148",
-            "\u2581solcher",
-            "\u2581slik",
-            "drage",
-            "\u2581c\u00f4t\u00e9s",
-            "\u2581pudieran"
-        ],
-        "positive_strings": [
-            "\u2581that",
-            "\u2581originating",
-            "\u2581whose",
-            "\u2581originally",
-            "\u2581created",
-            "\u2581located",
-            "\u2581founded",
-            "\u2581born",
-            "\u2581belonging",
-            "\u2581who\u017fe"
-        ],
-        "description": "terms related to medical research and organizations"
-    },
-    {
-        "index": "4201",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_4201.json",
-        "negative_strings": [
-            "findpost",
-            "\u2581diag",
-            "codable",
-            "diag",
-            "AccessorTable",
-            "AddressBook",
-            "\u0004",
-            "\u2581somme",
-            "\u2581semicolon",
-            "\u2581Sahel"
-        ],
-        "positive_strings": [
-            "\u2581shrine",
-            "\u2581temple",
-            "\u2581shrines",
-            "\u2581tempio",
-            "\u2581Shrine",
-            "\u2581devotees",
-            "\u2581Temple",
-            "\u2581santuario",
-            "\u2581worship",
-            "\u2581worshipped"
-        ],
-        "description": "names and attributes of the deity Lord Narasimha."
-    },
-    {
-        "index": "642",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_642.json",
-        "negative_strings": [
-            "\u2581\u0645\u0631\u0626\u064a\u0647",
-            "\u00e9valuateur",
-            "NameInMap",
-            "extAlignment",
-            "\u2581rhubarb",
-            "\u2581rai\u017f",
-            "\u2581it\u017felf",
-            "\u2581Judea",
-            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
-            "WriteAttribute"
-        ],
-        "positive_strings": [
-            "\u2581shrine",
-            "\u2581vener",
-            "\u2581shrines",
-            "\u2581veneration",
-            "\u2581Shrine",
-            "\u2581worshipped",
-            "\u2581santuario",
-            "\u2581worship",
-            "\u2581devotion",
-            "\u2581Lindberg"
-        ],
-        "description": "references to religious ceremonies or worship practices"
-    },
-    {
-        "index": "6077",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_6077.json",
-        "negative_strings": [
-            "ValueGenerated",
-            "ToAction",
-            "\u2581ExecuteAsync",
-            "\u2581defaultstate",
-            "\u2581HasFactory",
-            "\u2581Normdatei",
-            "Havolalar",
-            "\u2581GenerationType",
-            "\u2581combineReducers",
-            "setVerticalGroup"
-        ],
-        "positive_strings": [
-            "\u2581TEM",
-            "alte",
-            "\u2581TEMP",
-            "\u2581templates",
-            "TEMP",
-            "altes",
-            "\u2581\u6a21\u677f",
-            "Templates",
-            "\u2581temp",
-            "\u2581Temp"
-        ],
-        "description": "references to temperature and template-related terminology"
-    },
-    {
-        "index": "10813",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_10813.json",
-        "negative_strings": [
-            "\u2581BoxDecoration",
-            "Datuak",
-            "TagMode",
-            "\u2581resourceCulture",
-            "\u2581@\"/",
-            "\u2581disambiguazione",
-            "Carriera",
-            "bootstrapcdn",
-            "\u2581wireType",
-            "featureID"
-        ],
-        "positive_strings": [
-            "\u2581located",
-            "\u2581situated",
-            "\u2581floor",
-            "\u2581facilities",
-            "\u2581dwellers",
-            "\u2581manager",
-            "\u2581owner",
-            "\u2581owners",
-            "\u2581closures",
-            "\u2581entrance"
-        ],
-        "description": "references to places and facilities"
-    },
-    {
-        "index": "9807",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_9807.json",
-        "negative_strings": [
-            "\u2581ExecuteAsync",
-            "ToAction",
-            "\u2581defaultstate",
-            "setVerticalGroup",
-            "\u2581AssemblyCompany",
-            "\u2581onBind",
-            "\u2581GenerationType",
-            "windowFixed",
-            "ValueGenerated",
-            "Havolalar"
-        ],
-        "positive_strings": [
-            "alte",
-            "\u2581TEM",
-            "\u2581TEMP",
-            "altes",
-            "\u2581\u6a21\u677f",
-            "TEMP",
-            "\u00eate",
-            "\u00e9rature",
-            "abetes",
-            "\u2581Temp"
-        ],
-        "description": "terms related to \"template\" and \"temperature\""
-    },
-    {
-        "index": "11856",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_11856.json",
-        "negative_strings": [
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
             "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
-            "TagMode",
-            "ContentAsync",
-            "Enllaces",
-            "SqlSession",
-            "\u2581\u0627\u0644\u062f\u0648\u0644\u0649",
-            "InputTagHelper",
-            "ThroughAttribute",
-            "\u2581Wikimedijinoj",
-            "\u2581EClass"
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
         ],
         "positive_strings": [
-            "\u2581Built",
-            "Built",
-            "\u2581built",
-            "\u2581rebuilt",
-            "built",
-            "\u2581Constructed",
-            "Constructed",
-            "\u2581erected",
-            "\u2581constructed",
-            "\u2581demolished"
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
         ],
-        "description": "historical references and significant events related to local history"
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
     },
     {
-        "index": "1984",
+        "index": "13423",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/This is a temple/data_for_feature_1984.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_13423.json",
         "negative_strings": [
-            "UserScript",
-            "setVerticalGroup",
-            "RegressionTest",
-            "dataflow",
-            "__':\r",
-            "richTextPanel",
-            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
-            "\u24d8",
-            "\u0631\u0634\u0641",
-            "WAUKEE"
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581monasterio",
+            "\u2581k\u00fcche",
+            "\u2581beina",
+            "\u2581and",
+            "\u2581essentially",
+            "\u2581nemlig",
+            "isela"
         ],
         "positive_strings": [
-            "\u2581temple",
-            "\u2581Temple",
-            "\u2581ruins",
-            "\u2581palace",
-            "\u2581Kremlin",
-            "tempel",
-            "\u2581Palace",
-            "Portale",
-            "\u2581citadel",
-            "\u2581temples"
+            "<bos>",
+            "\u2019",
+            "'",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2019\uff0c",
+            "expandindo"
         ],
-        "description": "references to significant historical places and events"
+        "description": "repeated structural patterns or sections in code or text"
+    },
+    {
+        "index": "3736",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_3736.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581compr\u00e9hen",
+            "\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "\u2581Infatti",
+            "isela",
+            "\u2581essentially",
+            "\u2581Jerusal\u00e9n",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "expandindo",
+            "\u2581Paglinawan"
+        ],
+        "description": " isolated or standalone numeric values"
+    },
+    {
+        "index": "16123",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_16123.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "ingu\u00e9m",
+            "isela",
+            "\u2581ennemis",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581s\u00e6rlig",
+            "erar",
+            "unna",
+            "\u2581espagne",
+            "\u2581Infatti"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nahilalakip",
+            "\u2581Baillargeon"
+        ],
+        "description": " code snippets or syntax elements in programming"
+    },
+    {
+        "index": "12317",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_12317.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "principalTable",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "\u2581that",
+            "\u2581CURLOPT",
+            "\u2581rencontr",
+            "KommentareTeilen",
+            "\u2581rest\u00e9",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581year",
+            "\u2581particular",
+            "\u2581month",
+            "\u2581past",
+            "\u2581Week",
+            "\u2581morning",
+            "\u2581weeks",
+            "\u2581amazing",
+            "\u2581unique"
+        ],
+        "description": " instances of the word \"this.\""
+    },
+    {
+        "index": "4575",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_4575.json",
+        "negative_strings": [
+            "\u2581Baillargeon",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u2581nakalista",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u305d\u3053\u306f",
+            "this",
+            "InjectAttribute",
+            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+            "THERE"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581because",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581done",
+            "\u2581true",
+            "\u2581especially",
+            "\u2581allemaal",
+            "\u2581happened"
+        ],
+        "description": "the presence of the verb \"is\" and instances of the word \"not\" used to negate"
+    },
+    {
+        "index": "9139",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_9139.json",
+        "negative_strings": [
+            "\u2581slightest",
+            "\u2581quelconque",
+            "\u2581stesso",
+            "\u2581sz\u00fcks",
+            "\u2581anymore",
+            "\u2581gotten",
+            "\u2581diff\u00e9rent",
+            "\u2581fewest",
+            "migrationBuilder",
+            "\u2581moindre"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581Week",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581year",
+            "\u2581month",
+            "\u2581is",
+            "\u2581Month",
+            "\u2581weeks",
+            "\u2581Is",
+            "MigrationBuilder"
+        ],
+        "description": " instances of the word \"This\" at the beginning of sentences"
+    },
+    {
+        "index": "1479",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_1479.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581nakalista",
+            "\u2581EconPapers",
+            "InjectAttribute",
+            "\ue315",
+            ":\u2728",
+            "\u2581betweenstory",
+            "\u2581therein",
+            "\u2581BIBSYS",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581allemaal",
+            "true",
+            "\u2581despite",
+            "\u2581done"
+        ],
+        "description": "the presence of the word \"is\" and its variations in different contexts"
+    },
+    {
+        "index": "9011",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_9011.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\ue315",
+            "InjectAttribute",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "StoryboardSegue",
+            "\u2581therein",
+            "OGND",
+            ":\u2728",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581done",
+            "\u2581despite"
+        ],
+        "description": "statements asserting the quality or characteristics of something"
+    },
+    {
+        "index": "9625",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_9625.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "\ue315",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "OGND",
+            "\u2581betweenstory",
+            "StoryboardSegue",
+            "theless",
+            "\u2581autorytatywna"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581where",
+            "\u2581true",
+            "\u2581why",
+            "\u2581the",
+            "\u2581my",
+            "\u2581allemaal",
+            "\u2581truly",
+            "\u2581all",
+            "\u2581done"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "932",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_932.json",
+        "negative_strings": [
+            "prefixer",
+            "others",
+            "\u2581Baillargeon",
+            "THERE",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u2581istnieje",
+            "this",
+            "\u2581\u0111\u00e2y"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581because",
+            "\u2581where",
+            "\u2581how",
+            "\u2581true",
+            "\u2581porque",
+            "\u2581perch\u00e9",
+            "\u2581despite",
+            "mybatisplus",
+            "\u2581assuming"
+        ],
+        "description": "assertions of opinion or statements about facts"
+    },
+    {
+        "index": "14781",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_14781.json",
+        "negative_strings": [
+            "<eos>",
+            "</i>",
+            "jenih",
+            "</u>",
+            "</em>",
+            "\uff09\u300f",
+            "</code>",
+            "()]",
+            "\u2581\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e",
+            "\u6642\u306b\u306f"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "\u2581resourceCulture",
+            "Autoritn\u00ed",
+            "IUrlHelper",
+            "mergeFrom",
+            "BASEPATH",
+            "\u2581cherch\u00e9s",
+            "\u2581ujednoznacz",
+            "\u2581unknownFields",
+            "\u2581Roskov"
+        ],
+        "description": "the letter 'A' as it appears in different contexts"
+    },
+    {
+        "index": "11795",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_11795.json",
+        "negative_strings": [
+            "<eos>",
+            "</b>",
+            "</i>",
+            "</code>",
+            "jenih",
+            ",",
+            ".",
+            "\u2581see",
+            "</blockquote>",
+            "</strong>"
+        ],
+        "positive_strings": [
+            "^(@)",
+            "verwijspagina",
+            "\u2581ujednoznacz",
+            "\u2581Forumite",
+            "utilisons",
+            "\u2581Bioaccumulative",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "WebElementEntity",
+            "\u2581cherch\u00e9s",
+            "\u2581Italijani"
+        ],
+        "description": "the phrase \"The\" at the start of sentences"
+    },
+    {
+        "index": "13966",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_13966.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "StoryboardSegue",
+            "\ue315",
+            "\u2581autorytatywna",
+            "OGND",
+            "\u2581nakalista",
+            ":\u2728",
+            "principalColumn",
+            "\u2581BIBSYS"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581where",
+            "\u2581the",
+            "\u2581done",
+            "\u2581allemaal",
+            "\u2581true",
+            "\u2581because",
+            "\u2581especially",
+            "\u2581happening"
+        ],
+        "description": "statements that assert the existence or importance of a subject"
+    },
+    {
+        "index": "11527",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_11527.json",
+        "negative_strings": [
+            "OrEqualTo",
+            ",",
+            "RuleContext",
+            "\u2581effect",
+            "usercontent",
+            "MLLoader",
+            ".",
+            "jenih",
+            "\u8a00\u3063\u3066",
+            "\u2581\u0442\u0435\u043c"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "\u2581Italijani",
+            "zzleHttp",
+            "\u2581cherch\u00e9s",
+            "\u2581Paglinawan",
+            "bewerken",
+            "\u2581ujednoznacz",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "\u0627\u0646\u064a\u0641"
+        ],
+        "description": "the word \"The\" and related grammatical constructs used to introduce statements or topics"
+    },
+    {
+        "index": "7795",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_7795.json",
+        "negative_strings": [
+            "<eos>",
+            "</i>",
+            "jenih",
+            "</code>",
+            "</u>",
+            "</b>",
+            "</em>",
+            "</blockquote>",
+            "</h2>",
+            "\u2581enemm\u00e4n"
+        ],
+        "positive_strings": [
+            "Autoritn\u00ed",
+            "\u2581ujednoznacz",
+            "\u2581Roskov",
+            "ANDUM",
+            "\u2581resourceCulture",
+            "^(@)",
+            "UserScript",
+            "oneofs",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "bewerken"
+        ],
+        "description": " the presence of the letter 'A' as a standalone character"
+    },
+    {
+        "index": "15771",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_15771.json",
+        "negative_strings": [
+            "<eos>",
+            ".",
+            "</i>",
+            "</b>",
+            ",",
+            "</code>",
+            "\u2581[",
+            "</em>",
+            "</strong>",
+            "</blockquote>"
+        ],
+        "positive_strings": [
+            "\u2581ujednoznacz",
+            "<bos>",
+            "\u2581Bioaccumulative",
+            "\u2581Paglinawan",
+            "utilisons",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581cherch\u00e9s",
+            "StoryboardSegue",
+            "\u2581Italijani",
+            "oneofs"
+        ],
+        "description": "the character 'A' at the beginning of sentences or phrases"
+    },
+    {
+        "index": "5914",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a temple\\data_for_feature_5914.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581autorytatywna",
+            "OGND",
+            "\u2581nakalista",
+            "\u2581BIBSYS",
+            "StoryboardSegue",
+            "RenderAtEndOf",
+            "principalColumn",
+            "\u2581it\u017felf",
+            "\u2581him\u017felf"
+        ],
+        "positive_strings": [
+            "\u2581the",
+            "\u2581a",
+            "\u2581an",
+            "\u2581not",
+            "\u2581one",
+            "\u2581how",
+            "\u2581why",
+            "\u2581all",
+            "\u2581true",
+            "\u2581truly"
+        ],
+        "description": "instances of the word \"is\" in various contexts"
     }
 ]

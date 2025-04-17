@@ -1,8 +1,218 @@
 [
     {
+        "index": "52504",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_52504.json",
+        "negative_strings": [
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581ennemis",
+            "\u2581k\u00fcche",
+            "\u2581namelijk",
+            "\u2581Infatti",
+            "\u2581spesielt",
+            "\u770b\u4f86",
+            "\u2581monasterio",
+            "\u2581beina"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddTagHelper",
+            "\u2581Paglinawan"
+        ],
+        "description": " mathematical symbols and notations used in formal writing and equations"
+    },
+    {
+        "index": "52504",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_52504.json",
+        "negative_strings": [
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581ennemis",
+            "\u2581k\u00fcche",
+            "\u2581namelijk",
+            "\u2581Infatti",
+            "\u2581spesielt",
+            "\u770b\u4f86",
+            "\u2581monasterio",
+            "\u2581beina"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddTagHelper",
+            "\u2581Paglinawan"
+        ],
+        "description": " mathematical symbols and notations used in formal writing and equations"
+    },
+    {
+        "index": "57431",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_57431.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581Infatti",
+            "\u2581namelijk",
+            "\u2581s\u00e6rlig",
+            "\u2581beina",
+            "\u2581spesielt",
+            "\u2581compr\u00e9hen",
+            "isela",
+            "\u2581nemlig",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "AddTagHelper",
+            "\u2581Paglinawan",
+            "abestanden"
+        ],
+        "description": "special characters and formatting elements typically used in mathematical or technical documents"
+    },
+    {
+        "index": "65254",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_65254.json",
+        "negative_strings": [
+            "\u2581namelijk",
+            "\u2581ennemis",
+            "ast\u00e9ro\u00efdes",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581nemlig",
+            "\u2581essentially",
+            "\u2581compr\u00e9hen",
+            "\u2581Infatti",
+            "\u2581basically",
+            "isela"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581podjela",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u0445\u044c\u0442\u0430\u043d"
+        ],
+        "description": " LaTeX symbols and mathematical notation"
+    },
+    {
+        "index": "61102",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_61102.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "\u2581Infatti",
+            "\u2581ennemis",
+            "\u2581nemlig",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581Am\u00e9rique",
+            "\u2581spesielt",
+            "\u2581namelijk",
+            "\u2581k\u00fcche",
+            "\u2581s\u00e6rlig"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "begin",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581Paglinawan",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nakalista"
+        ],
+        "description": " indicators of document structure or formatting elements"
+    },
+    {
+        "index": "53485",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_53485.json",
+        "negative_strings": [
+            "ast\u00e9ro\u00efdes",
+            "gi\u00e1",
+            "piram",
+            "\u2581crescere",
+            "\u2581Himo",
+            "\u2581S\u00e9lectionnez",
+            "\u2581'\\\\;'",
+            "\u2581jak\u00e9",
+            "ISION",
+            "\u2581Vial"
+        ],
+        "positive_strings": [
+            "\u2581Stock",
+            "\u2581study",
+            "\u2581paper",
+            "\u2581estekak",
+            "\u2581chapter",
+            "\u2581past",
+            "Autoritn\u00ed",
+            "Przypisy",
+            "\u2581tutorial",
+            "\u0012"
+        ],
+        "description": " instances of the word \"This\" or variations of \"this\" indicating a new point or thought"
+    },
+    {
+        "index": "56683",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_56683.json",
+        "negative_strings": [
+            "copied",
+            "roa",
+            "tista",
+            "\u2581:\\",
+            "\u2581Lia",
+            "\\(",
+            "culos",
+            "advantage",
+            "\u2581Fon",
+            "rius"
+        ],
+        "positive_strings": [
+            "TagMode",
+            "\u0012",
+            "mybatisplus",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "\u2581paper",
+            "\u2581Wikimedijinoj",
+            "verwijspagina",
+            "Datuak",
+            "NameInMap",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9"
+        ],
+        "description": " occurrences of the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
         "index": "29364",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_29364.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_29364.json",
         "negative_strings": [
             "men",
             "\u2581men",
@@ -32,7 +242,7 @@
     {
         "index": "56313",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_56313.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_56313.json",
         "negative_strings": [
             "AndEndTag",
             "\u2581Roskov",
@@ -60,9 +270,99 @@
         "description": "references to gender, particularly females"
     },
     {
+        "index": "55886",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_55886.json",
+        "negative_strings": [
+            "ynchronously",
+            "\u2581BorderSide",
+            "jgl",
+            "\u2581boilers",
+            "migrationBuilder",
+            "\u2581mosquitos",
+            "\u2581eels",
+            "\u2581spines",
+            "\u2581eyelashes",
+            "\u2581lockers"
+        ],
+        "positive_strings": [
+            "\u0012",
+            "\u2581study",
+            "\u2581past",
+            "\u2581post",
+            "\u2581Stock",
+            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
+            "Datuak",
+            "\u2581Post",
+            "\u2581ter\u00e7a",
+            "NOPQRST"
+        ],
+        "description": " occurrences of the word \"This\" at the beginning of sentences or phrases"
+    },
+    {
+        "index": "34298",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_34298.json",
+        "negative_strings": [
+            "there",
+            "\u2581sini",
+            "hichever",
+            "ClientRect",
+            "\u2581dabei",
+            "\u2581tersebut",
+            "\u305d\u3053\u306f",
+            "\u2581\u0111\u00f3",
+            "\u00e9matiques",
+            "this"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581allemaal",
+            "\u2581my",
+            "\u2581waarom",
+            "\u2581Signalez",
+            "\u2581pourquoi",
+            "\u2581truly"
+        ],
+        "description": "the word \"is\" in various contexts"
+    },
+    {
+        "index": "25092",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_25092.json",
+        "negative_strings": [
+            "\u2581therein",
+            "hichever",
+            "there",
+            "'][$",
+            "\u2581\u0111\u00f3",
+            "\u2109",
+            "\u305d\u3053\u306f",
+            "queira",
+            "\u2581there",
+            "\u00e9matiques"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581waarom",
+            "\u2581happening",
+            "why",
+            "\u2581pourquoi",
+            "\u2581what",
+            "\u2581hvor",
+            "\u2581HOW"
+        ],
+        "description": " instances of the verb \"is\" and its contextual variations"
+    },
+    {
         "index": "64680",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_64680.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_64680.json",
         "negative_strings": [
             "\u2581aikaa",
             "estimators",
@@ -92,7 +392,7 @@
     {
         "index": "53575",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_53575.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_53575.json",
         "negative_strings": [
             "\u2581Roskov",
             "tagHelperRunner",
@@ -122,7 +422,7 @@
     {
         "index": "15666",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_15666.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_15666.json",
         "negative_strings": [
             "ast\u00e9ro",
             "men",
@@ -150,243 +450,63 @@
         "description": " references to gender, specifically male and female categories"
     },
     {
-        "index": "17328",
+        "index": "10285",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_17328.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_10285.json",
         "negative_strings": [
-            "\u2581Roskov",
-            "\u2581kasarigan",
-            "tagHelperRunner",
-            "\u0627\u0644\u0645\u0646\u0627\u0635\u0628",
-            "Vidite",
-            "RenderAtEndOf",
+            "\u2581ModelExpression",
+            "\u2581betweenstory",
+            "\u2581nakalista",
+            "\u2581therein",
+            "\u2581EconPapers",
+            "\u2581rai\u017f",
+            "\u2109",
+            "')));",
             "\u2581it\u017felf",
-            "seamn\u0103",
-            "webElementXpaths",
-            "Personensuche"
-        ],
-        "positive_strings": [
-            "volent",
-            "\u2581keras",
-            "\u2581students",
-            "\u2581gender",
-            "\u2581Hartmann",
-            "\u2581male",
-            "\u2581Rowe",
-            "mvn",
-            "RuntimeObject",
-            "UEL"
-        ],
-        "description": "references to female subjects or characters"
-    },
-    {
-        "index": "24035",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_24035.json",
-        "negative_strings": [
-            "\u2581kasarigan",
-            "\u2581Roskov",
-            "\u2581ICF",
-            "YourGuide",
-            "\u2581po\u00e9tica",
-            "\u2581cl\u00ednica",
-            "\u2581it\u017felf",
-            "sibly",
-            "\u0412\u0435\u0434\u044c",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627"
-        ],
-        "positive_strings": [
-            "volent",
-            "\u2581male",
-            "\u2581Male",
-            "\u2581lead",
-            "\u2581students",
-            "\u2581human",
-            "\u2581Rowe",
-            "Coordenadas",
-            "\u2581gender",
-            "phylo"
-        ],
-        "description": "references to gender, specifically terms related to females"
-    },
-    {
-        "index": "18750",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_18750.json",
-        "negative_strings": [
-            "\u2581Roskov",
-            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
-            "\u2581it\u017felf",
-            "tagHelperRunner",
-            "\u51fa\u7248\u5e74",
-            "\u2581Monfieur",
-            "\u2581kasarigan",
-            "\u2581transf\u00e9rez",
-            "webElementXpaths",
             "\u2581him\u017felf"
         ],
         "positive_strings": [
-            "RuntimeObject",
-            "\u2581gender",
-            "volent",
-            "SizeF",
-            "\u2581male",
-            "\u2581seres",
-            "MALE",
-            "IVIDUAL",
-            "steamcommunity",
-            "\u2581U"
+            "\u2581how",
+            "\u2581why",
+            "\u2581where",
+            "\u2581not",
+            "\u2581NOT",
+            "\u2581truly",
+            "\u2581true",
+            "\u2581me",
+            "\u2581my",
+            "\u2581what"
         ],
-        "description": "references to female gender"
+        "description": "the occurrence of the word \"is\""
     },
     {
-        "index": "26501",
+        "index": "63047",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_26501.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is female\\data_for_feature_63047.json",
         "negative_strings": [
-            "hips",
-            "\u2581hefyd",
-            "\u51fa\u7248\u5e74",
-            "\u2581transf\u00e9rez",
-            "\u2581aikaa",
-            "\u2581r\u00e9guli\u00e8re",
-            "\u2581verba",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "AndEndTag",
-            "\u2581Everybody"
-        ],
-        "positive_strings": [
-            "volent",
-            "Slf",
-            "\u2581CURIAM",
-            "Demograf\u00eda",
-            "branche",
-            "buttonBar",
-            "TagHelpers",
-            "++\r",
-            "InvalidProtocol",
+            "cloudflare",
+            "glMatrixMode",
+            "\u2581languages",
+            "\u2581BorderSide",
+            "languages",
+            "\u2581Kie",
+            "\u2581edges",
+            "Kie",
+            "adox",
             "SOUNDBITE"
         ],
-        "description": " references to gender, specifically terms related to males and females"
-    },
-    {
-        "index": "3626",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_3626.json",
-        "negative_strings": [
-            "\u2581Normdatei",
-            "ValueGenerated",
-            "\u2581AspNetCore",
-            "\u0631\u0634\u0641",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581mergeFrom",
-            "UnsafeEnabled",
-            "\u2581Lightboxes",
-            "fjspx",
-            "\u2581Paglinawan"
-        ],
         "positive_strings": [
-            "\u2581empowerment",
-            "\u5a7f",
-            "dalena",
-            "\u021bional",
-            "ogyn",
-            "folk",
-            "likation",
-            "ORETICAL",
-            "\u2581Empowerment",
-            "\u2581he"
+            "\u0012",
+            "\u2581study",
+            "\u2581estudo",
+            "\u2581past",
+            "study",
+            "Datuak",
+            "createClass",
+            "\u2581chapter",
+            "rungsseite",
+            "\u2581penelitian"
         ],
-        "description": "references to women and their representations in various contexts"
-    },
-    {
-        "index": "47381",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_47381.json",
-        "negative_strings": [
-            "\u2581kasarigan",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "\u2581Roskov",
-            "WithIOException",
-            "ostante",
-            "\u2581d\u00e9finiti",
-            "seamn\u0103",
-            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
-            "\u0627\u0644\u0645\u0646\u0627\u0635\u0628",
-            "\u2581orch"
-        ],
-        "positive_strings": [
-            "\u2581male",
-            "\u2581Male",
-            "MALE",
-            "Coordenadas",
-            "\u0647",
-            "\u2581human",
-            "\u2581seres",
-            "\u09b7\u09cd",
-            "hfill",
-            "ocytic"
-        ],
-        "description": "references to gender, particularly female-related terms"
-    },
-    {
-        "index": "43434",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_43434.json",
-        "negative_strings": [
-            "UnsafeEnabled",
-            "\u2581Roskov",
-            "ValueGenerated",
-            "AndEndTag",
-            "\u2581AspNetCore",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "tagHelperRunner",
-            "\u2581gynhyrchwyd",
-            "\u2581doInBackground",
-            "\u2581mergeFrom"
-        ],
-        "positive_strings": [
-            "\u2581empowerment",
-            "dalena",
-            "folk",
-            "\u5a7f",
-            "\u2581Empowerment",
-            "ogyn",
-            "likation",
-            "\u2581gender",
-            "\ud83d\udeba",
-            "ORETICAL"
-        ],
-        "description": "terms related to women's involvement and representation in various contexts"
-    },
-    {
-        "index": "50532",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-65k/this is female/data_for_feature_50532.json",
-        "negative_strings": [
-            "tagHelperRunner",
-            "ValueGenerated",
-            "\u2581AspNetCore",
-            "\u2581Paglinawan",
-            "PMailer",
-            "\u2581Lightboxes",
-            "\u2581doInBackground",
-            "\u2581betweenstory",
-            "\u2581\"..\\..\\",
-            "RenderAtEndOf"
-        ],
-        "positive_strings": [
-            "\u5a7f",
-            "\u2581empowerment",
-            "folk",
-            "dalena",
-            "ylabel",
-            "\u2581Serializable",
-            "\u2581Empowerment",
-            "hood",
-            "frauen",
-            "ecore"
-        ],
-        "description": "references to women and female-related terms"
+        "description": " the word \"This\" in various contexts"
     }
 ]

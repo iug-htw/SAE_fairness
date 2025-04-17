@@ -1,8 +1,68 @@
 [
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
         "index": "2644",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_2644.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_2644.json",
         "negative_strings": [
             "featureID",
             "\ufeff/*",
@@ -30,9 +90,39 @@
         "description": " occurrences of the word \"receive\" and its variations in the context of data or information transfer"
     },
     {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
         "index": "15759",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_15759.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_15759.json",
         "negative_strings": [
             "TagMode",
             "\u2581vPvB",
@@ -60,9 +150,129 @@
         "description": "terms related to reception and visitor interaction in a service context"
     },
     {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
         "index": "10408",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_10408.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_10408.json",
         "negative_strings": [
             "StoryboardSegue",
             "\u2581propOrder",
@@ -90,9 +300,99 @@
         "description": "terms related to clerical roles and administrative functions in a court context"
     },
     {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
+        "index": "9394",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_9394.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "\u2581\"..\\..\\",
+            "\u0e0d\u0e34\u0e07",
+            "\u2581\"..\\..\\..\\",
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\ub010",
+            "ItemBackground",
+            "\u2581regeringen",
+            "RefNanny",
+            "\u2581mo\u017en\u00e1"
+        ],
+        "positive_strings": [
+            "\u2581boon",
+            "\u2581hindrance",
+            "\u2581testament",
+            "\u2581disgrace",
+            "\u2581blessing",
+            "\u2581rarity",
+            "\u2581prerequisite",
+            "\u2581bit",
+            "\u2581necessity",
+            "posites"
+        ],
+        "description": " instances of the article \"a\" paired with various nouns"
+    },
+    {
         "index": "11612",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_11612.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_11612.json",
         "negative_strings": [
             "StoryboardSegue",
             "Consumes",
@@ -120,273 +420,33 @@
         "description": " terms and phrases related to reception and visitor interactions"
     },
     {
-        "index": "3997",
+        "index": "1298",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_3997.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a receptionist\\data_for_feature_1298.json",
         "negative_strings": [
-            "\ue315",
-            "\u2581\u00fatil",
-            "ngrx",
-            "\u2581slaap",
-            "Aiheesta",
-            "\u0938\u0928\u094d\u0926\u0930\u094d\u092d",
-            "\u2581estampada",
-            "L\u00e4hteet",
-            "Sailor",
-            "IVEREF"
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
         ],
         "positive_strings": [
-            "\u2581clinic",
-            "ParallelGroup",
-            "Clinic",
-            "PreInfinity",
-            "\u2581Clinic",
-            "\u2581betweenstory",
-            "\u2581Photocase",
-            "ItemBackground",
-            "MemoryWarning",
-            "\u2581HIPAA"
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
         ],
-        "description": "terms related to dental practice and patient interactions"
-    },
-    {
-        "index": "13293",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_13293.json",
-        "negative_strings": [
-            "\u2581jScrollPane",
-            "\u2581zase",
-            "\u2581pourtant",
-            "\u2581remercie",
-            "jercicio",
-            "Forr\u00e1s",
-            "fifths",
-            "t\u00fai",
-            "\u2581Pfarrer",
-            "\u2581byz"
-        ],
-        "positive_strings": [
-            "\u2581preferably",
-            "Candidates",
-            "\u2581candidates",
-            "preferably",
-            "\u2581Candidates",
-            "Candidate",
-            "Applicants",
-            "\u2581candidate",
-            "\u2581Applicants",
-            "\u2581applicants"
-        ],
-        "description": "job-related phrases and requirements for healthcare positions, specifically nursing roles"
-    },
-    {
-        "index": "15285",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_15285.json",
-        "negative_strings": [
-            "Jeografia",
-            "\u2581vinaigre",
-            "\u2581NUKAT",
-            "\u2581mergeFrom",
-            "ParallelGroup",
-            "\u2581craindre",
-            "\u30d7\u30ea\u30f3\u30b0",
-            "TagMode",
-            "\u0416\u0418",
-            "\u2581kt\u00f3rzy"
-        ],
-        "positive_strings": [
-            "\u2581roles",
-            "\u2581role",
-            "\u2581Roles",
-            "roles",
-            "Roles",
-            "\u2581position",
-            "role",
-            "Role",
-            "\u2581positions",
-            "\u2581r\u00f4le"
-        ],
-        "description": "phrases related to appointments and official positions in organizational contexts"
-    },
-    {
-        "index": "14179",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_14179.json",
-        "negative_strings": [
-            "\u51fa\u7248\u5e74",
-            "\u5f53\u5c40",
-            "\u2581Beh\u00f6r",
-            "\u2581vanguardia",
-            "R\u00fcyada",
-            "\u2581CreateTagHelper",
-            "Liga\u00e7\u00f5es",
-            "Refer\u00e8ncies",
-            "\u2581Verpflichtung",
-            "\u2581w\u0142ad"
-        ],
-        "positive_strings": [
-            "\u2581assistant",
-            "\u2581Assistant",
-            "Assistant",
-            "assistant",
-            "\u2581technician",
-            "\u2581assistants",
-            "\u2581ASSISTANT",
-            "\u2581junior",
-            "\u2581clerk",
-            "\u52a9\u7406"
-        ],
-        "description": "job-related qualifications and roles"
-    },
-    {
-        "index": "14467",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_14467.json",
-        "negative_strings": [
-            "\u2581amanh\u00e3",
-            "\u2581Umfang",
-            "\u2581vermelha",
-            "\u2581afgelopen",
-            "\u2581ocasi\u00e3o",
-            "\u2581pedras",
-            "\u2581sch\u00f6nes",
-            "\u2581compl\u00e8tes",
-            "\u2581princ\u00edpio",
-            "\u2581conocido"
-        ],
-        "positive_strings": [
-            "\u2581interviews",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "Autoritn\u00ed",
-            "bootstrapcdn",
-            "\u2581satisfaction",
-            "\u2581ddelweddau",
-            "\u2581empowerment",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581profiles",
-            "\u2581Interviews"
-        ],
-        "description": "references to various roles within a company or organization, particularly focusing on employees, customers, and leadership positions"
-    },
-    {
-        "index": "8056",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_8056.json",
-        "negative_strings": [
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "GEBURTSDATUM",
-            "\u2581betweenstory",
-            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
-            "\u2581kasarigan",
-            "\u2581morado",
-            "\u2581femininas",
-            "\u2581iconLine",
-            "\u2581desmotivaciones",
-            "delwed"
-        ],
-        "positive_strings": [
-            "\u2581department",
-            "department",
-            "\u2581departments",
-            "\u2581dept",
-            "\u2581departamento",
-            "\u2581team",
-            "\u2581manager",
-            "\u2581Department",
-            "departments",
-            "\u2581officer"
-        ],
-        "description": "terms related to human resources and administrative functions"
-    },
-    {
-        "index": "15550",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_15550.json",
-        "negative_strings": [
-            "\u2581nahilalakip",
-            "getreten",
-            "tvguidetime",
-            "gegangen",
-            "Liga\u00e7\u00f5es",
-            "\u2581k\u1ef9",
-            "FunctionFlags",
-            "GOTREF",
-            "setupUi",
-            "\u09a4\u09a5\u09cd\u09af\u09b8\u09c2\u09a4\u09cd\u09b0"
-        ],
-        "positive_strings": [
-            "office",
-            "\u2581office",
-            "Office",
-            "\u2581OFFICE",
-            "OFFICE",
-            "\u2581Office",
-            "\u2581B\u00fcro",
-            "\u2581actionMode",
-            "Business",
-            "business"
-        ],
-        "description": "references to office-related roles and administrative tasks"
-    },
-    {
-        "index": "13088",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_13088.json",
-        "negative_strings": [
-            "getActiveSheet",
-            "bootstrapcdn",
-            "\u2581CanadaChoose",
-            "mybatisplus",
-            "donn\u00e9es",
-            "Suff",
-            "\ufeff/*",
-            "Karol",
-            "\u2581PAN",
-            "\ufeff/**"
-        ],
-        "positive_strings": [
-            "\u2581Re",
-            "\u2581RE",
-            "Re",
-            "\u2581re",
-            "posedge",
-            "tonode",
-            "\u2581disambiguazione",
-            "\u2581tartalomaj\u00e1nl\u00f3",
-            "re",
-            "rew"
-        ],
-        "description": "references to the prefix \"Re\" in words, particularly in names and scientific terms"
-    },
-    {
-        "index": "1057",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is a receptionist/data_for_feature_1057.json",
-        "negative_strings": [
-            "Diwedd",
-            "MemoryWarning",
-            "\u2581Ressource",
-            "uestamente",
-            "\u2581createSlice",
-            "romyalgia",
-            "Organisateur",
-            "\u2581Bioaccumulative",
-            "\u2581amat",
-            "\u2581gr\u00e9"
-        ],
-        "positive_strings": [
-            "\u2581hallway",
-            "\u2581sidewalk",
-            "\u2581street",
-            "CloseOperation",
-            "\u2581foyer",
-            "\u2581corridor",
-            "\u2581driveway",
-            "\u2581sidewalks",
-            "\u2581lobby",
-            "street"
-        ],
-        "description": "locations and physical spaces related to architecture and structure"
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
     }
 ]

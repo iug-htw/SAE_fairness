@@ -1,8 +1,38 @@
 [
     {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
         "index": "1297",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_1297.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_1297.json",
         "negative_strings": [
             "\u7701\u5e02\u9547",
             "\u2581\u043f\u0430\u043c\u044f",
@@ -30,9 +60,39 @@
         "description": "references to Jesus Christ and concepts related to faith and salvation"
     },
     {
+        "index": "5368",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_5368.json",
+        "negative_strings": [
+            "\u2581this",
+            "\ub77c\ub294",
+            "\u3053\u306e",
+            "\u2581cette",
+            "\u2581these",
+            "\u8fd9",
+            "this",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u8fd9\u4e2a"
+        ],
+        "positive_strings": [
+            "VYMaps",
+            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "maj\u00e1nl\u00f3",
+            "\u2581defaultstate",
+            "\u5e16\u6700\u540e\u7531",
+            "DockStyle",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "usercontent",
+            "atories",
+            "<unused8>"
+        ],
+        "description": "forms of the verb \"to be\" and their associated phrases"
+    },
+    {
         "index": "14228",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_14228.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_14228.json",
         "negative_strings": [
             "\u2581nahilalakip",
             "\u0445\u044c\u0442\u0430\u043d",
@@ -60,9 +120,129 @@
         "description": "references to specific genes or proteins related to JEV (Japanese Encephalitis Virus)"
     },
     {
+        "index": "6057",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_6057.json",
+        "negative_strings": [
+            "tvguidetime",
+            "tanleria",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "variates",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "msgTypes",
+            "\u2728:",
+            "ScopeManager"
+        ],
+        "positive_strings": [
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "\u2581is",
+            "\u2581inilah",
+            "\u2581important",
+            "\u2581Voici",
+            "is",
+            "\u2581Esto",
+            "Voici",
+            "ini"
+        ],
+        "description": "the verb \"is\" appearing in various contexts"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "13822",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_13822.json",
+        "negative_strings": [
+            "\u2581propOrder",
+            "bootstrapcdn",
+            "Aholisi",
+            "\u2581MessageBoxIcon",
+            "principalTable",
+            "UrlResolution",
+            "principalColumn",
+            "\u2581newOwner",
+            "postsleuth",
+            "Cyfarwyddwr"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "\u2581r\u00e9f\u00e9",
+            "Beware",
+            "ie\u0144",
+            "llte",
+            "endcsname",
+            "\u2581EconPapers",
+            "\u2581\u00e9pis",
+            "httphttps",
+            "\u24d8"
+        ],
+        "description": " sentences that start with \"I\" or \"What\" and are focused on inquiry or personal statements"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
         "index": "3916",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_3916.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_3916.json",
         "negative_strings": [
             "\u2581afield",
             "\u2581spoilt",
@@ -90,9 +270,99 @@
         "description": "references to Jesus Christ and Christian beliefs"
     },
     {
+        "index": "3269",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_3269.json",
+        "negative_strings": [
+            "LookAnd",
+            "\u2581feroit",
+            "adl",
+            "\u8a00\u3048\u3070",
+            "\u25c6\u25c7",
+            "msgTypes",
+            "Legal",
+            "tlere",
+            "\u2581Jue",
+            "AD"
+        ],
+        "positive_strings": [
+            "\u2581this",
+            "\u2581THIS",
+            "this",
+            "This",
+            "\u2581This",
+            "THIS",
+            "\u2581questa",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581Questa",
+            "\u2581dieser"
+        ],
+        "description": "instances of the word \"this.\""
+    },
+    {
+        "index": "11442",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_11442.json",
+        "negative_strings": [
+            "\u2581\u017ftand",
+            "msgTypes",
+            "\u2581utente",
+            "\u2581fa\u017ft",
+            "\u2581u\u017fed",
+            "AutoScale",
+            "\u2581u\u017fe",
+            "oredCriteria",
+            "\u2581diensten",
+            "\u2581statunit"
+        ],
+        "positive_strings": [
+            "\u2581Esto",
+            "\u2581is",
+            "\u2581\u0648\u0647\u0630\u0627",
+            "\u2581THIS",
+            "\u8fd9\u662f",
+            "\u2581This",
+            "\u0647\u0630\u0647",
+            "\u9019\u662f",
+            "\u2581happening",
+            "cupertino"
+        ],
+        "description": "assertive statements or declarations"
+    },
+    {
+        "index": "1298",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_1298.json",
+        "negative_strings": [
+            "DockStyle",
+            "wi\u017fe",
+            "\u2581\u017fte",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "\u2581Efq",
+            "\u2581plea\u017fure",
+            "AddTagHelper",
+            "\u2581my\u017felf",
+            "WriteBarrier",
+            "InputBorder"
+        ],
+        "positive_strings": [
+            "partements",
+            "\u2581R\u00fcckseite",
+            "\u2581oreja",
+            "\u278c",
+            "bi\u00f3",
+            "'",
+            "\u2581dudas",
+            "\u2581visitantes",
+            "\u2581maceta",
+            "\u2581lleva"
+        ],
+        "description": "the word \"which\" to identify clauses or phrases initiating further explanations or specifications"
+    },
+    {
         "index": "7053",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_7053.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_7053.json",
         "negative_strings": [
             "R\u00fcyada",
             "\u2581adjourned",
@@ -120,9 +390,39 @@
         "description": " references to Christian beliefs and Jesus Christ"
     },
     {
+        "index": "1560",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_1560.json",
+        "negative_strings": [
+            "\u2581parezca",
+            "\u2581generally",
+            "Qui\u00e9n",
+            "\u2581directly",
+            "\u2581greatly",
+            "\u2581berechtigt",
+            "\u2581looking",
+            "\u2581totally",
+            "\u2581d\u00f3nde",
+            "enti\u00e8re"
+        ],
+        "positive_strings": [
+            "\u2581defaultstate",
+            "OGND",
+            "########.",
+            "\u2581CreateTagHelper",
+            "Diwedd",
+            "ViewImports",
+            "aarrggbb",
+            "rungsseite",
+            "\u2581inform\u00e9e",
+            "\u2581Administrativna"
+        ],
+        "description": " mentions of programming packages and classes"
+    },
+    {
         "index": "15793",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_15793.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_15793.json",
         "negative_strings": [
             "\u2581\u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430",
             "InputTagHelper",
@@ -152,7 +452,7 @@
     {
         "index": "11391",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_11391.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is jesus\\data_for_feature_11391.json",
         "negative_strings": [
             "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
             "\u05d4\u05e2\u05e8\u05d5\u05ea",
@@ -178,305 +478,5 @@
             "BES"
         ],
         "description": "references to the name \"Jesse\" and its variations"
-    },
-    {
-        "index": "1033",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_1033.json",
-        "negative_strings": [
-            "\u06cc",
-            "\u2581\u043f\u0440\u0438\u043d\u044f\u0442\u044c",
-            "ing",
-            "OGND",
-            "GroupLayout",
-            "urman",
-            "\u06cc\u06ba",
-            "\u304a",
-            "V",
-            "z\u00fcglich"
-        ],
-        "positive_strings": [
-            "abetes",
-            "\ue315",
-            "\u2581cane",
-            "\u2581kasarigan",
-            "cane",
-            "Cane",
-            "\u2581sugarcane",
-            "intenant",
-            "didSet",
-            "\u2581wireType"
-        ],
-        "description": "references to sugar in various forms and contexts"
-    },
-    {
-        "index": "11053",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_11053.json",
-        "negative_strings": [
-            "\u2581Efq",
-            "UrlResolution",
-            "\u00f1ores",
-            "\u2581Monfieur",
-            "\u2581Frem",
-            "PerformLayout",
-            "\u2581ma\u00eetre",
-            "\u2581\"));",
-            "\u2581mercen",
-            "\u2581amuse"
-        ],
-        "positive_strings": [
-            "\u2581religious",
-            "\u2581Religious",
-            "religious",
-            "\u2581church",
-            "Religious",
-            "\u2581prayer",
-            "\u2581theological",
-            "\u2581Prayer",
-            "\u2581Bible",
-            "prayer"
-        ],
-        "description": "themes related to faith and spirituality"
-    },
-    {
-        "index": "13196",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_13196.json",
-        "negative_strings": [
-            "Parcelize",
-            "WebElementEntity",
-            "CastException",
-            "Tikang",
-            "dafx",
-            "\u2581Compensation",
-            "\u2581\u0635\u0641\u062d\u06c0",
-            "parsedMessage",
-            "DockStyle",
-            "issements"
-        ],
-        "positive_strings": [
-            "\u2581religious",
-            "\u2581Religious",
-            "Religious",
-            "religious",
-            "\u2581religieuses",
-            "\u2581religioso",
-            "\u2581religieux",
-            "\u2581Religion",
-            "\u2581religion",
-            "\u2581\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437"
-        ],
-        "description": "mentions of religion and spirituality"
-    },
-    {
-        "index": "13339",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_13339.json",
-        "negative_strings": [
-            "\u2581Odin",
-            "\u2581tango",
-            "\u2581stork",
-            "\u2581lccn",
-            "\u0bcd\u0b95",
-            "\u2581credit",
-            "\u2581clock",
-            "\u2581morph",
-            "\u2581Alderman",
-            "\u2581god"
-        ],
-        "positive_strings": [
-            "webElementXpaths",
-            "Jesus",
-            "\u2581Jesus",
-            "\u2581disciples",
-            "\u2581Pharisees",
-            "\u2581Galilee",
-            "\u2581disc\u00edpulos",
-            "\u2581Jewish",
-            "\u2581betweenstory",
-            "\u2581disc\u00ed"
-        ],
-        "description": "references to spiritual or religious experiences"
-    },
-    {
-        "index": "6217",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_6217.json",
-        "negative_strings": [
-            "\u2581beina",
-            "\u2581fa\u017ft",
-            "ngOnDestroy",
-            "\u2581ju\u017ft",
-            "\u2581pr\u00e9c\u00e9dentes",
-            "\u2581le\u017fs",
-            "\u2581n\u00e9lk",
-            "\u2581\u017fever",
-            "ne\u017fs",
-            "\u2581raro"
-        ],
-        "positive_strings": [
-            "ValueStyle",
-            "\u2581Skywalker",
-            "\u2581Kardashian",
-            "KURZBESCHREIBUNG",
-            "\u2581ibn",
-            "\u2581Malfoy",
-            "principalColumn",
-            "\u2581Weasley",
-            "\u2581Singh",
-            "\u2581CreateTagHelper"
-        ],
-        "description": "names of characters and their relationships in stories"
-    },
-    {
-        "index": "16161",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_16161.json",
-        "negative_strings": [
-            "DataAnnotations",
-            "tagHelperRunner",
-            "endregion",
-            "jspb",
-            "\u306f\u3058\u3081\u306b",
-            "\u2581In\u017f",
-            "\u062d\u064a\u0627\u062a\u0647",
-            "transQ",
-            "ChildScrollView",
-            "t\u0131r"
-        ],
-        "positive_strings": [
-            "su",
-            "\u2581Us",
-            "\u2581RUS",
-            "\u2581TUS",
-            "ses",
-            "ser",
-            "suri",
-            "Gus",
-            "\u2581Aus",
-            "\u2581Cus"
-        ],
-        "description": " occurrences of the term \"US\" and related variations"
-    },
-    {
-        "index": "7338",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_7338.json",
-        "negative_strings": [
-            "Buffy",
-            "gdx",
-            "\u0291",
-            "\u2581\u03c3\u03ae",
-            "multicolumn",
-            "KHz",
-            "\u2581respectivas",
-            "\u2581interm\u00e9diaire",
-            "\u2581\u05db\u05d5\u05dc",
-            "hri"
-        ],
-        "positive_strings": [
-            "\u2581betweenstory",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647",
-            "\u2581actionPerformed",
-            "\u2581ModelRenderer",
-            "KURZBESCHREIBUNG",
-            "VIAF",
-            "httphttps",
-            "\u2581nonUne",
-            "CloseOperation"
-        ],
-        "description": "proper names, particularly those of individuals and characters"
-    },
-    {
-        "index": "6686",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_6686.json",
-        "negative_strings": [
-            "\u2581Paglinawan",
-            "tagHelperRunner",
-            "findpost",
-            "CGRectMake",
-            "virons",
-            "akum",
-            "\u2581\u0410\u0440\u0445\u0456\u0432",
-            "exchange",
-            "Discriminator",
-            "\u2581arran"
-        ],
-        "positive_strings": [
-            "\u2581Almighty",
-            "God",
-            "GOD",
-            "speed",
-            "\u2581God",
-            "\u2581bless",
-            "god",
-            "Bless",
-            "\u2581GOD",
-            "\u4e0a\u5e1d"
-        ],
-        "description": "references to God and the concept of divinity"
-    },
-    {
-        "index": "2408",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_2408.json",
-        "negative_strings": [
-            "Preguntas",
-            "\u2581Matos",
-            "\u2581arvio",
-            "\u2581tradition",
-            "\u2581tradi\u00e7\u00e3o",
-            "\u2581CHAIN",
-            "\u2581familiale",
-            "\u2581n\u00e4ky",
-            "\u2581Verwendung",
-            "\u2581adaptaci\u00f3n"
-        ],
-        "positive_strings": [
-            "\u2581ModelExpression",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "BASEPATH",
-            "\u2581Inf\u00f3rmanos",
-            "\u2581AssemblyTitle",
-            "\u2581noDo",
-            "ArgumentParser",
-            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
-            "\u2581kasarigan",
-            "LookAnd"
-        ],
-        "description": "topics related to faith and personal relationships with Jesus Christ"
-    },
-    {
-        "index": "13976",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-16k/This is jesus/data_for_feature_13976.json",
-        "negative_strings": [
-            "cks\u00e5",
-            "\u24e7",
-            "\u2581cref",
-            "BibitemShut",
-            "swire",
-            "perity",
-            "\u2581commerciali",
-            "\u2581\u0441\u0442\u043e\u043a\u043e\u0432\u043e\u0435",
-            "\u2581suom",
-            "mybatisplus"
-        ],
-        "positive_strings": [
-            "\u2581who",
-            "\u2581aka",
-            "who",
-            "\u2581Jr",
-            "\u2581volunteered",
-            "\u2581quien",
-            "himself",
-            "\u4e00\u4eba",
-            "IsPostBack",
-            "remember"
-        ],
-        "description": " specific names of individuals and their interactions"
     }
 ]

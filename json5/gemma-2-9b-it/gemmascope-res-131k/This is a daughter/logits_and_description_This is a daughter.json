@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "37647",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_37647.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_37647.json",
         "negative_strings": [
             "ErrUnexpectedEOF",
             "('|",
@@ -30,9 +90,189 @@
         "description": "references to daughters and familial relationships"
     },
     {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "66184",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_66184.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_66184.json",
         "negative_strings": [
             "<![",
             "|",
@@ -60,9 +300,69 @@
         "description": "references to daughters or female children"
     },
     {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
         "index": "124615",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_124615.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_124615.json",
         "negative_strings": [
             "\u2581ProtoMessage",
             "vax",
@@ -90,303 +390,93 @@
         "description": "references to daughters or female offspring"
     },
     {
-        "index": "4105",
+        "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_4105.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_54929.json",
         "negative_strings": [
-            "Mother",
-            "\u2581mothers",
-            "\u2581Mother",
-            "\u2581Mothers",
-            "\u2581mother",
-            "mother",
-            "\u2581MOTHER",
-            "Mothers",
-            "mothers",
-            "MOTHER"
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
         ],
         "positive_strings": [
-            "\u2581daughter",
-            "\u2581daughters",
-            "\u5973\u513f",
-            "\u5973\u5152",
-            "daughter",
-            "\u2581fille",
-            "\u2581girls",
-            "\u2581girl",
-            "\u2581Daughter",
-            "\u2581k\u0131z"
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
         ],
-        "description": "references to daughters and familial relationships"
+        "description": " phrases indicating significant events or opportunities"
     },
     {
-        "index": "92235",
+        "index": "56588",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_92235.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_56588.json",
         "negative_strings": [
-            "\u2581rel",
-            "\ufeff/*",
-            "\u2581Schluss",
-            "fromUtf",
-            "\u2581gra",
-            "\u2581babies",
-            "\u2581jScrollPane",
-            "Replies",
-            "\u2581Proposed",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633"
-        ],
-        "positive_strings": [
-            "\u2581'\\\\;'",
-            "\u2581esternos",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "StructEnd",
-            "pecabe",
-            "WebElementEntity",
-            "\u2581EconPapers",
-            "\u2581stanovnika",
-            "\u2581citoy",
-            "\u2581inmigrantes"
-        ],
-        "description": " phrases that denote relationships of parentage or lineage"
-    },
-    {
-        "index": "101827",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_101827.json",
-        "negative_strings": [
-            "\u2581setempat",
-            "vis\u00e3o",
-            "\u2581&___",
-            "\u2581quir\u00farg",
-            "VYMaps",
-            "\u2581rzeczy",
-            "menistan",
-            "\u2581e\u00fbt",
-            "\u2581vekt\u00f6r",
-            "\u4e86\u55ce"
-        ],
-        "positive_strings": [
-            "\u2581child",
-            "\u2581daughter",
-            "Daughter",
-            "\u2581Anak",
-            "\u2581Daughter",
-            "\u2581progeny",
-            "\u2581descendant",
-            "Anak",
-            "\u2581offspring",
-            "Child"
-        ],
-        "description": "references to familial relationships, particularly focusing on sons and daughters"
-    },
-    {
-        "index": "68460",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_68460.json",
-        "negative_strings": [
-            "godic",
-            "HtmlAttribute",
-            "hdys",
-            "extAlignment",
-            "\u2581kasarigan",
-            "\u2581h\u00ed",
-            "wraps",
-            "pexpr",
-            "jsdelivr",
-            "saco"
-        ],
-        "positive_strings": [
-            "Daughter",
-            "\u2581Daughter",
-            "\u2581daughter",
-            "\u2581father",
-            "\u2581Tochter",
-            "\u2581daughters",
-            "daughter",
-            "\u2581dochter",
-            "\u2581wife",
-            "\u2581Father"
-        ],
-        "description": "references to family relationships, particularly focusing on daughters and sons"
-    },
-    {
-        "index": "36531",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_36531.json",
-        "negative_strings": [
-            "\u2581confronti",
-            "indest",
-            "acyj",
-            "\u2581AssemblyTitle",
-            "acyjnych",
-            "Czytaj",
-            "\u2581corazones",
-            "\u2581\u0123",
-            "struzioni",
-            "\u2581Mitteln"
-        ],
-        "positive_strings": [
-            "\u2581\u017fche",
-            "\u2581pok\u00e9mon",
-            "\u2581WooCommerce",
-            "\u2581Reiki",
-            "\u2581UEFI",
-            "\u2581streetwear",
-            "\u2581Bandcamp",
-            "\u2581Dogecoin",
-            "\u2581CrossFit",
-            "\u017fammen"
-        ],
-        "description": " references to cross-cutting concepts or themes"
-    },
-    {
-        "index": "47457",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_47457.json",
-        "negative_strings": [
-            "GEBURTSDATUM",
-            "featureID",
-            "ViewFeatures",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "jspb",
-            "\u0414\u0435\u043c\u043e\u0433\u0440\u0430\u0444\u0456\u044f",
-            "pragma",
-            "RegressionTest",
-            "\u2581trouw",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430"
-        ],
-        "positive_strings": [
-            "Soldier",
-            "\u2581astronaut",
-            "\u2581athletes",
-            "\u2581defendants",
-            "\u017fhip",
-            "Signer",
-            "\u2581protagonists",
-            "\u2581staffers",
-            "\u2581volunteers",
-            "\u2581passengers"
-        ],
-        "description": "references to female roles and occupations, particularly in the context of nursing and women's empowerment"
-    },
-    {
-        "index": "21541",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_21541.json",
-        "negative_strings": [
-            "xase",
-            "\u2581active",
-            "\u2581dzia\u0142a",
-            "\u2581working",
-            "\u2581AttributeSet",
-            "\u274b",
-            "\u2581sem",
-            "as",
-            "\u2581engaged",
-            "providedIn"
-        ],
-        "positive_strings": [
-            "\u2581killer",
-            "\u2581murderer",
-            "\u2581kidna",
-            "\u2581killers",
-            "killer",
-            "\u2581raping",
-            "\u2581slayer",
-            "\u2581beater",
-            "\u2581Killer",
-            "\u2581murdering"
-        ],
-        "description": "references to familial relationships, particularly involving women as wives, daughters, and mothers"
-    },
-    {
-        "index": "36151",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_36151.json",
-        "negative_strings": [
-            "\u2581persoons",
-            "bezirk",
-            "\u2581person",
-            "\u2581he",
-            "posedge",
-            "\u2581Guys",
-            "RuleContext",
-            "\u2581pungkas",
-            "\u2581menac",
-            "\u2581Mensch"
-        ],
-        "positive_strings": [
-            "\u2581'\\\\;'",
-            "\u2581duo",
-            "\u2581AssemblyCulture",
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
             "\u2581disambiguazione",
-            "UnitTesting",
-            "\u2581trio",
-            "ArgsConstructor",
-            "\u5006",
-            "principalColumn",
-            "\u2581inventors"
-        ],
-        "description": "references to familial relationships and connections"
-    },
-    {
-        "index": "32589",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_32589.json",
-        "negative_strings": [
-            "EndContext",
-            "tagHelperRunner",
-            "RenderAtEndOf",
-            "MigrationBuilder",
-            "RegressionTest",
-            "AndEndTag",
-            "\u63c4",
-            "CppCodeGen",
-            "\u2581kasarigan",
-            "Datuak"
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
         ],
         "positive_strings": [
-            "\u2581relationships",
-            "\u2581family",
-            "\u2581mother",
-            "\u2581father",
-            "\u2581brothers",
-            "\u2581relations",
-            "parentNode",
-            "\u2581t\u0117",
-            "\u2581siblings",
-            "\u2581relationship"
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
         ],
-        "description": " concepts related to father-daughter relationships and family dynamics"
+        "description": " occurrences of the word \"a\""
     },
     {
-        "index": "106767",
+        "index": "97342",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a daughter/data_for_feature_106767.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a daughter\\data_for_feature_97342.json",
         "negative_strings": [
-            "gs\u00e5",
-            "\u2581imprim\u00e9e",
-            "\u2581abound",
-            "\u2581refleja",
-            "thest",
-            "\u2581remains",
-            "\u2581reminiscent",
-            "\u2581daardoor",
-            "\u2581\u00edntima",
-            "\u2581nejen"
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
         ],
         "positive_strings": [
-            "\u2581decides",
-            "\u2581asked",
-            "\u2581wanted",
-            "\u2581wants",
-            "\u2581decide",
-            "tanleria",
-            "\u2581asks",
-            "\u2581decided",
-            "\u2581complained",
-            "\u2581requested"
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
         ],
-        "description": "titles and roles related to professions and occupations"
+        "description": "articles, particularly the word \"a.\""
     }
 ]

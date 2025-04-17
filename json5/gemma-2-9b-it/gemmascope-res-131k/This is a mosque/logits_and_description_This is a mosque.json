@@ -1,8 +1,158 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "126292",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_126292.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_126292.json",
         "negative_strings": [
             "\u2581HasFactory",
             "\u2581coroa",
@@ -32,7 +182,7 @@
     {
         "index": "56930",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_56930.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_56930.json",
         "negative_strings": [
             "insic",
             "ComponentModel",
@@ -60,9 +210,99 @@
         "description": " references to places of worship"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "84733",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_84733.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_84733.json",
         "negative_strings": [
             "Specyfikacja",
             "Handy",
@@ -90,363 +330,153 @@
         "description": "references to a specific concept or entity denoted by \"Mo.\""
     },
     {
-        "index": "102623",
+        "index": "55904",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_102623.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_55904.json",
         "negative_strings": [
-            "\u2581istr",
-            "racked",
-            "\u2581Hela",
-            "proven",
-            "\u2581Kron",
-            "\u2581Ender",
-            "\u2581Stellar",
-            "\u2581Hannibal",
-            "\u2581elemental",
-            "\u2581XY"
-        ],
-        "positive_strings": [
-            "\u2581mosque",
-            "\u2581Mosque",
-            "\u2581mosques",
-            "\u2581masjid",
-            "\u2581Masjid",
-            "\u2581synagogue",
-            "\u2581\u0645\u0633\u062c\u062f",
-            "\u2581Synagogue",
-            "\u2581church",
-            "\u2581churches"
-        ],
-        "description": "references to places of worship"
-    },
-    {
-        "index": "108305",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_108305.json",
-        "negative_strings": [
-            "########.",
-            "\u2581Wikiseite",
-            "Explicaci\u00f3n",
-            "Kaieteur",
-            "\u2581Lordships",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
             "\u24e7",
-            "uurs",
-            "\u2581consultato",
-            "\u2581mec\u00e1nico",
-            "\u2581adopci\u00f3n"
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
         ],
         "positive_strings": [
-            "\u2581Mos",
-            "\u2581MOS",
-            "\u2581Mus",
-            "Mos",
-            "\u2581mos",
-            "ConstraintMaker",
-            "\u2581Mose",
-            "\u2581Musk",
-            "\u2581mus",
-            "\u2581Mosley"
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
         ],
-        "description": "references to specific locations or subjects related to Jewish history and culture"
+        "description": " occurrences of the word \"is.\""
     },
     {
-        "index": "112608",
+        "index": "50047",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_112608.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_50047.json",
         "negative_strings": [
-            "KommentareTeilen",
-            "\u2581metabolic",
-            "\u2581HFILL",
-            "ActionCreators",
-            "\u2581Lk",
-            "\u2581RISERVATA",
-            "\u2581Kalifor",
-            "Demograf\u00eda",
-            "\u2581lif",
-            "Lk"
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
         ],
         "positive_strings": [
-            "\u2581architecture",
-            "\u2581architectural",
-            "\u2581rebuilt",
-            "\u2581gorgeous",
-            "beautiful",
-            "\u2581ornate",
-            "gorgeous",
-            "\u2581architect",
-            "\u2581beautiful",
-            "\u2581Architecture"
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
         ],
-        "description": "references to specific geographic locations or historical sites"
+        "description": " the word \"is\" in various contexts"
     },
     {
-        "index": "114341",
+        "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_114341.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_54929.json",
         "negative_strings": [
-            "BorderFactory",
-            "\u2581ExecuteAsync",
-            "COUVER",
-            "jamento",
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
+        ],
+        "positive_strings": [
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
             "makeText",
-            "autoconfigure",
-            "gamesh",
-            "\u2581censiti",
-            "glement",
-            "colgroup"
+            "tralight",
+            "httphttps",
+            "\u2581happening"
         ],
-        "positive_strings": [
-            "\u2581prayer",
-            "\u2581prayers",
-            "\u2581Prayers",
-            "\u2581praying",
-            "prayer",
-            "\u2581pray",
-            "\u2581Prayer",
-            "pray",
-            "Prayers",
-            "\u2581prays"
-        ],
-        "description": "references to religious practices and beliefs"
+        "description": " phrases indicating significant events or opportunities"
     },
     {
-        "index": "51798",
+        "index": "56588",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_51798.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_56588.json",
         "negative_strings": [
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "J\u00een",
-            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
-            "ISupport",
-            "ReusableCell",
-            "\u2581\u010dlanak",
-            "\u2581setLoading",
-            "SpringBootTest",
-            "setof",
-            "MessageOf"
-        ],
-        "positive_strings": [
-            "\u2581Pistol",
-            "\u2581pistol",
-            "\u2581pistols",
-            "\u2581pistolet",
-            "Pist",
-            "<bos>",
-            "\u2581JsonResult",
-            "\u2581handgun",
-            "\u2581Inf\u00f3r",
-            "\u2581Pist"
-        ],
-        "description": "references to firearms, specifically pistols"
-    },
-    {
-        "index": "50395",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_50395.json",
-        "negative_strings": [
-            "\u7701\u5e02\u9547",
-            "::$",
-            "\u017cesz",
-            "\ufb05",
-            "ViewImports",
-            "\u2581\u06a4",
-            "principalColumn",
-            "pius",
-            "SuppressLint",
-            "Ehrungen"
-        ],
-        "positive_strings": [
-            "\u2581located",
-            "\u2581Located",
-            "located",
-            "Located",
-            "\u2581situated",
-            "\u2581ubicado",
-            "\u2581Situated",
-            "\u2581ubicada",
-            "Situated",
-            "\u2581situ\u00e9"
-        ],
-        "description": "locations or places mentioned in the document"
-    },
-    {
-        "index": "73978",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_73978.json",
-        "negative_strings": [
-            "sum",
-            "al",
-            "\u2581\u2581",
-            "ity",
-            "\u0439",
-            "iss",
-            "\u044f",
-            "anova",
-            "$$",
-            "\u043d\u043e\u0432\u0435"
-        ],
-        "positive_strings": [
-            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
-            "parsedMessage",
-            "\u2581Administrativna",
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581disambiguazione",
+            "hoeddwyd",
             "\u2581Italijanski",
-            "\u2581ProtoMessage",
-            "\u2581useRouter",
-            "WSGI",
-            "MLLoader",
-            "tonode",
-            "MockBean"
-        ],
-        "description": "references to turbine or scooter-related systems and components"
-    },
-    {
-        "index": "100868",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_100868.json",
-        "negative_strings": [
-            "\u2581Clair",
-            "Jahr",
-            "PageIndex",
-            "\u2581createSlice",
-            "\u2581Xunit",
-            "slant",
-            "\u82b1\u677f",
-            "alanta",
-            "ultimate",
-            "\u2581Eyre"
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
         ],
         "positive_strings": [
-            "\u2581MOS",
-            "\u2581Moses",
-            "\u2581Mosley",
-            "\u2581Mos",
-            "\u2581mosque",
-            "Mos",
-            "Moses",
-            "\u2581Moser",
-            "\u2581Moscow",
-            "ConstraintMaker"
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
         ],
-        "description": "references to \"Moscow\" or \"mosquito.\""
+        "description": " occurrences of the word \"a\""
     },
     {
-        "index": "126809",
+        "index": "97342",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_126809.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a mosque\\data_for_feature_97342.json",
         "negative_strings": [
-            "IsMutable",
-            "aito",
-            "\u2581\u0634\u0627",
-            "\u2581R\u00f6mer",
-            "NDA",
-            "w\u00fcns",
-            "\u2581terecht",
-            "\u2743",
-            "omani",
-            "\u043d\u044f\u0442"
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
         ],
         "positive_strings": [
-            "goers",
-            "iastes",
-            "\u2581pinulongan",
-            "ChildScrollView",
-            "\u5e16\u6700\u540e\u7531",
-            "onOptions",
-            "\u2581bells",
-            "endphp",
-            "\u2581plufieurs",
-            "ActionEvent"
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
         ],
-        "description": "references to churches and religious institutions"
-    },
-    {
-        "index": "74369",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_74369.json",
-        "negative_strings": [
-            "PYX",
-            "\u2581ganzen",
-            "typeorm",
-            "\u2581Kauai",
-            "arakhand",
-            "gef\u00fc",
-            "\u2581gust\u00f3",
-            "\u2581statunit",
-            "UVWXYZ",
-            "ama\u00f1o"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581mosques",
-            "\u2581mosque",
-            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
-            "Islamic",
-            "\u2581Muslims",
-            "\u2581Islam",
-            "\u2581Mosque",
-            "MENAFN",
-            "\u2581Muslim"
-        ],
-        "description": " references to historical figures and governing bodies in the context of leadership and politics"
-    },
-    {
-        "index": "29910",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_29910.json",
-        "negative_strings": [
-            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
-            "\u2581ModelExpression",
-            "\u2581terecht",
-            "raszam",
-            "\u2581resourceCulture",
-            "behaviour",
-            "\u2581\u0627\u0644\u062d\u062f\u064a",
-            "parka",
-            "amani",
-            "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456"
-        ],
-        "positive_strings": [
-            "\u2581RELIG",
-            "\u2581Religious",
-            "onAttach",
-            "\u2581religieuses",
-            "\u2581religiosos",
-            "getMenuInflater",
-            "\u2581religious",
-            "=\"@+",
-            "\u2581cat\u00f3lica",
-            "webElementXpaths"
-        ],
-        "description": "terms and concepts related to religion and religious authority"
-    },
-    {
-        "index": "93748",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a mosque/data_for_feature_93748.json",
-        "negative_strings": [
-            "MLLoader",
-            "GOTREF",
-            "\u2581BoxFit",
-            "\u2581AssemblyTitle",
-            "\u2581kelahiran",
-            "featureID",
-            "\u062c\u0645\u0639\u06cc\u062a",
-            "rinas",
-            "\u2581Gegenteil",
-            "cutter"
-        ],
-        "positive_strings": [
-            "uxxxx",
-            "que",
-            "\u2581Equinox",
-            "ques",
-            "\u2581seques",
-            "qu",
-            "\u2581Pequ",
-            "\u2581Squ",
-            "\u2581sequestration",
-            "Requiem"
-        ],
-        "description": "specific names and mentions of individuals or entities in the text"
+        "description": "articles, particularly the word \"a.\""
     }
 ]

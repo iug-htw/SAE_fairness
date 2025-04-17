@@ -1,8 +1,98 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
         "index": "44147",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_44147.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_44147.json",
         "negative_strings": [
             "VolleyError",
             "msgTypes",
@@ -32,7 +122,7 @@
     {
         "index": "55212",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_55212.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_55212.json",
         "negative_strings": [
             "\u2581is",
             "\u2581has",
@@ -60,9 +150,159 @@
         "description": "references to a specific individual or character, particularly using the pronoun \"He.\""
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
         "index": "31901",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_31901.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_31901.json",
         "negative_strings": [
             "\u5f53\u4ee3",
             "\u7736",
@@ -90,303 +330,63 @@
         "description": " occurrences of the letter 'H'"
     },
     {
-        "index": "4312",
+        "index": "64092",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_4312.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_64092.json",
         "negative_strings": [
-            ":\u2728",
-            "\u2581inform\u00e9e",
-            "hoeddwyd",
-            "\u2581femininos",
-            "djangoproject",
-            "\u2581Picchu",
-            "mybatisplus",
-            "\u2581\u0633\u0643\u0627\u0646\u064a\u0629",
-            "\u2581Photocase",
-            "Tikang"
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
         ],
         "positive_strings": [
-            "\u2581same",
-            "\u2581whole",
-            "\u2581latter",
-            "\u2581entire",
-            "ir",
-            "same",
-            "whole",
-            "\u2581SAME",
-            "\u2581remainder",
-            "\u2581following"
-        ],
-        "description": " instances of related plural nouns and their associations"
-    },
-    {
-        "index": "72643",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_72643.json",
-        "negative_strings": [
-            "TypedDataSet",
-            "\u51fa\u7248\u5e74",
-            "QMetaType",
-            "\u0411\u0438\u043b\u0433\u0430\u043b\u0434\u0430\u0445\u0430\u0440\u0448",
-            "\u2581InputDecoration",
-            "UrlResolution",
-            "Litteratur",
-            "SharedDtor",
-            "Sklici",
-            "hoeddwyd"
-        ],
-        "positive_strings": [
-            "\u2581hun",
-            "\u2581HUM",
-            "\u2581hum",
-            "\u2581haus",
-            "ni\u0161t",
-            "\ufeff#",
-            "lighting",
-            "\u2581HON",
-            "haviors",
-            "\u00f1ola"
-        ],
-        "description": " occurrences of the letter \"h\""
-    },
-    {
-        "index": "130158",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_130158.json",
-        "negative_strings": [
-            "\u2581kasarigan",
-            "CppMethod",
-            "AddHtmlAttribute",
-            "Tikang",
-            "\u2581snippetHide",
-            "umon",
-            "ntown",
-            "zium",
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "setPointSize"
-        ],
-        "positive_strings": [
-            "He",
-            "\u2581He",
-            "\u2581he",
-            "\u2581HE",
-            "he",
-            "She",
-            "\u2581she",
-            "\u2581beliau",
-            "HE",
-            "she"
-        ],
-        "description": "references to a specific subject identified by the term \"He.\""
-    },
-    {
-        "index": "90032",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_90032.json",
-        "negative_strings": [
-            "groom",
-            "\u2581Program",
-            "\u2581\u0415\u0433\u043e",
-            "Program",
-            "\u2581AppCompatTheme",
-            "Groom",
-            "marle",
-            "\u0627\u0646\u062c\u0644\u064a\u0632",
-            "unter",
-            "\u2581fid"
-        ],
-        "positive_strings": [
-            "OGND",
-            "tagHelperRunner",
-            "verwijspagina",
-            "\u2581numberOfRows",
-            "\u2581policiales",
-            "\u2581they",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "act\u00e9risti",
-            "rungsseite",
-            "\u239d"
-        ],
-        "description": "pronouns related to individuals and their identities"
-    },
-    {
-        "index": "82951",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_82951.json",
-        "negative_strings": [
-            "interopRequire",
-            "\udb40\udc62",
-            "\u2581e\u015fofman",
-            "\u2581mukana",
-            "\u2581publiek",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581menyes",
-            "\u2581\u0123",
-            "\u2581Bewu\u00dft",
-            "\u2581d\u0117"
-        ],
-        "positive_strings": [
-            "\u2581Pok\u00e9mon",
             "bibfield",
-            "\u2581anime",
-            "\u2581Metallica",
-            "Microsoft",
-            "\u2581Pokemon",
-            "\u2581cryptocurrency",
-            "\u2581Marvel",
-            "\u2581Binance",
-            "\u2581Nintendo"
-        ],
-        "description": "proper nouns and names"
-    },
-    {
-        "index": "54929",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_54929.json",
-        "negative_strings": [
-            "\u2581OFDb",
-            "\u2581pr\u00e9c\u00e9dente",
-            "zelfde",
-            "\u2581others",
-            "Others",
-            "\u2581therein",
-            "\u2581lainnya",
-            "\u2581itself",
-            "others",
-            "j\u0105c\u0105"
-        ],
-        "positive_strings": [
-            "NewUrlParser",
-            "\u2581moment",
-            "ituation",
-            "rungsseite",
-            "fxml",
-            "GIVEREF",
-            "makeText",
-            "tralight",
-            "httphttps",
-            "\u2581happening"
-        ],
-        "description": " phrases indicating significant events or opportunities"
-    },
-    {
-        "index": "106655",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_106655.json",
-        "negative_strings": [
-            "\u2581pinulongan",
-            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
-            "balleur",
-            "\u2581'\\\\;'",
-            "\u2581HFILL",
-            "RenderAtEndOf",
-            "\u2581insuffisamment",
-            "\u2581Taktlose",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "Geplaatst"
-        ],
-        "positive_strings": [
-            "The",
-            "\u2581The",
-            "the",
-            "\u2581THE",
-            "\u2581the",
-            "THE",
-            "\u30b6",
-            "\u2581\u30b6",
-            "ithe",
-            "\u2581aload"
-        ],
-        "description": "references to a male subject"
-    },
-    {
-        "index": "123071",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_123071.json",
-        "negative_strings": [
-            "\u2581de\u017ft",
-            "\u2581\u017fta",
-            "\u2581it\u017felf",
-            "\u2581\u017fte",
-            "\u2581\u017fur",
-            "\u017felf",
-            "\u2581purpo\u017fe",
-            "zembro",
-            "\u2581\u017fche",
-            "\u2581fr\u00e9"
-        ],
-        "positive_strings": [
-            "ScopeManager",
-            "InjectAttribute",
             "bibinfo",
-            "cal\u00e7a",
-            "IUrlHelper",
-            "\u2581uska",
-            "webtoken",
-            "NewLabel",
-            "SuspendLayout",
-            "kw\u00fcr"
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
         ],
-        "description": "substrings with specific character patterns or sequences"
+        "description": "questions beginning with \"What\" or \"How.\""
     },
     {
-        "index": "35075",
+        "index": "92411",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_35075.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is he\\data_for_feature_92411.json",
         "negative_strings": [
-            "\u2581abbraccio",
-            "\u2581itself",
-            "\u2581sv\u011b",
-            "\u2581communaut\u00e9s",
-            "desenho",
-            "\u2581diensten",
-            "\u2581d\u00fcz",
-            "\u00e4ste",
-            "\u2581Parcelable",
-            "\u2581j\u00e4sen"
+            "LookAnd",
+            "adl",
+            "\u25c6\u25c7",
+            "\u2581feroit",
+            "msgTypes",
+            "\u8a00\u3048\u3070",
+            "\u2581Jue",
+            "\u00d3S",
+            "CDA",
+            "\u2581\u017fever"
         ],
         "positive_strings": [
-            "\u2581otomatig",
-            "ectoria",
-            "ValueStyle",
-            "\u2581Wikimedijinoj",
-            "\u2581\u043f\u0440\u0435\u043f\u0440\u0430\u0442\u043a\u0438",
-            "\u4e0b\u8f7d\u9644\u4ef6",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u0631\u0634\u0641",
-            "ArgumentParser",
-            "\u2581CreateTagHelper"
+            "\u2581this",
+            "\u2581THIS",
+            "This",
+            "this",
+            "\u2581This",
+            "\u2581questa",
+            "THIS",
+            "\u2581\u044d\u0442\u043e\u0439",
+            "\u2581dieser",
+            "\u2581Questa"
         ],
-        "description": "references to personal pronouns and their usage in sentences"
-    },
-    {
-        "index": "20298",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is he/data_for_feature_20298.json",
-        "negative_strings": [
-            "\u2581Absicht",
-            "\u2581hieronder",
-            "\u2581vuitton",
-            "\u2581\u0645\u0631\u0626\u064a\u0647",
-            "\u2581Unterscheidung",
-            "\u2581t\u00e4ss\u00e4",
-            "habitude",
-            "besondere",
-            "\u2581Kreise",
-            "above"
-        ],
-        "positive_strings": [
-            "\u2581final",
-            "\u2581official",
-            "\u2581beginning",
-            "unknownFields",
-            "\u2581initial",
-            "official",
-            "ArgumentParser",
-            "\u2581storyboard",
-            "GIVEREF",
-            "\u2581README"
-        ],
-        "description": "repeated uses of the word \"the\" and possessive pronouns"
+        "description": "instances of the word \"this\" and its variations, indicating a focus on specifying or emphasizing particular subjects or objects"
     }
 ]

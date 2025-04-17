@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "40731",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_40731.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_40731.json",
         "negative_strings": [
             "\u2581S\u00fcnde",
             "\u2581enfans",
@@ -30,9 +90,99 @@
         "description": " requests related to file handling and permissions"
     },
     {
+        "index": "13512",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_13512.json",
+        "negative_strings": [
+            "\u2581autorit\u00e9",
+            "\u2581honneur",
+            "\u2581espoir",
+            "\u2581peuple",
+            "\u2581enfance",
+            "\u2581Herkunft",
+            "\u2581lendemain",
+            "ss",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9sert"
+        ],
+        "positive_strings": [
+            "OGND",
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581CanadaChoose",
+            "RTEE",
+            "GEBURTSDATUM",
+            "\u2581very",
+            "\u2581huge",
+            "\u2581few"
+        ],
+        "description": "articles and determiners indicating quantity or specification"
+    },
+    {
+        "index": "32117",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_32117.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Kleid",
+            "\u2581Wikimedijinoj",
+            "\u2581Wolken",
+            "tagext",
+            "\u2581Glied",
+            "Lycka",
+            "\u2581Reifen",
+            "\u2581Liebes",
+            "\u2581Ge\u017fch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "\u2581Photocase",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "Transkript",
+            "Telefax",
+            "\u2581utafitiHapana",
+            "Personensuche",
+            "\u2581Euro",
+            "\u2581EURO"
+        ],
+        "description": " expressions related to writing and documentation"
+    },
+    {
+        "index": "115251",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_115251.json",
+        "negative_strings": [
+            ".*\")]",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "BagConstraints",
+            "\u2581ProtoMessage",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "ulescu",
+            "\u2581'\\\\;'",
+            "awtextra",
+            "MarshalTo",
+            "\u2581noDo"
+        ],
+        "positive_strings": [
+            "\u2581blevet",
+            "\u2581mukana",
+            "\u2581available",
+            "\u2581capable",
+            "applicable",
+            "available",
+            "\u2581able",
+            "\u2581comigo",
+            "\u2581Bestandteil",
+            "\u2581applicable"
+        ],
+        "description": " expressions of personal opinions and subjective assessments"
+    },
+    {
         "index": "35413",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_35413.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_35413.json",
         "negative_strings": [
             "bootstrapcdn",
             "ContentAsync",
@@ -62,7 +212,7 @@
     {
         "index": "29625",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_29625.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_29625.json",
         "negative_strings": [
             "\u00edn\u0171",
             "\">//",
@@ -92,7 +242,7 @@
     {
         "index": "34882",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_34882.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_34882.json",
         "negative_strings": [
             "async",
             "ukone",
@@ -122,7 +272,7 @@
     {
         "index": "57438",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_57438.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_57438.json",
         "negative_strings": [
             "########.",
             "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
@@ -150,303 +300,153 @@
         "description": " references to family relationships, particularly focusing on grandparents and their descendants"
     },
     {
-        "index": "71799",
+        "index": "50988",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_71799.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_50988.json",
         "negative_strings": [
-            "\u2581ModelRenderer",
-            "\u2581\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
-            "\u00e7amento",
-            "\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430",
-            "PCell",
-            "\u2581rata",
-            "})();\r",
-            "\u2581unga",
-            "IntoConstraints",
-            "\u2581kob"
+            "rawDesc",
+            "DockStyle",
+            "Cyfeiriadau",
+            "Tikang",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "TacToe",
+            "\u2581StatelessWidget",
+            "\u2581testigos",
+            "ronpa",
+            "\u2581normalidad"
         ],
         "positive_strings": [
-            "\u2581grandmother",
-            "\u2581grandparents",
-            "\u2581grandma",
-            "\u2581grandfather",
-            "\u2581Grandma",
-            "\u2581Grandmother",
-            "\u2581grandpa",
-            "Grandma",
-            "\u2581Grandfather",
-            "\u2581grand"
+            "\u2581nice",
+            "nice",
+            "\u2581awesome",
+            "\u2581funny",
+            "\u2581cool",
+            "\u2581AMAZING",
+            "awesome",
+            "\u2581nicest",
+            "\u2581amazing",
+            "\u2581aDecoder"
         ],
-        "description": "references to family relationships, particularly grandmothers and grandfathers"
+        "description": " forms of the verb \"to be.\""
     },
     {
-        "index": "65475",
+        "index": "71616",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_65475.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_71616.json",
         "negative_strings": [
-            "VYMaps",
-            "plotlib",
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581tr\u00f4ne",
+            "\u2581v\u00f4tre",
+            "\u2581enfance",
+            "\u2581identit\u00e9",
+            "\u2581espoir",
+            "\u2581wiedzie\u0107",
+            "\u2581del\u00e0",
+            "\u2581autorit\u00e9"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u2581\u098f\u0995\u099f\u09bf",
+            "\u2581\u0b92\u0bb0\u0bc1",
+            "\u017ficht",
+            "\u2581another",
+            "\u2581utafitiHapana",
+            "\u2581unid",
+            "\u2581aDecoder"
+        ],
+        "description": " articles and determiners in various languages"
+    },
+    {
+        "index": "77286",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_77286.json",
+        "negative_strings": [
+            "\u2581QUESTION",
+            "\u2581Question",
+            "\u2581question",
+            "\u2581Q",
+            "Question",
+            "adaptiveStyles",
+            "QUESTION",
+            "Q",
+            "\u2581fr\u00e5ga",
+            "\u2581Numerade"
+        ],
+        "positive_strings": [
+            "\u2581rhetorical",
+            "\u2581Rhetor",
+            "rhe",
+            "\u2581rhetor",
+            "\u2581silly",
+            "\u2581retor",
+            "Rhe",
+            "\u2581autorytatywna",
+            "\u2581stupid",
+            "\u2581dumb"
+        ],
+        "description": "various aspects of questioning and inquiry in dialogue"
+    },
+    {
+        "index": "33782",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_33782.json",
+        "negative_strings": [
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581rekke",
+            "RefNanny",
+            "\u2581adhering",
+            "\u2581m\u016f\u017eete",
+            "\u2581schein",
+            "\u2581yyr",
+            "\u2581plads",
+            "\u2581entering",
+            "\u2581f\u00f6ljande"
+        ],
+        "positive_strings": [
+            "\u2581bummer",
+            "\u2581coincidence",
+            "\u2581joke",
+            "\u2581weird",
+            "\u2581stupid",
+            "\u2581wierd",
+            "weird",
+            "stupid",
+            "\u2581ProtoMessage",
+            "\u2581mistake"
+        ],
+        "description": " phrases indicating the presence of articles or descriptors, particularly the word \"a\""
+    },
+    {
+        "index": "127090",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Oma\\data_for_feature_127090.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581nakalista",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "msgTypes",
+            "sidemargin",
+            "Diweddarwch",
+            "CloseOperation",
             "MigrationBuilder",
-            "fjspx",
-            "spill",
-            "\u2581posX",
-            "\u2581appelez",
-            "Hochspringen",
-            "httphttps",
-            "\u2581transfieras"
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581lenker"
         ],
         "positive_strings": [
-            "\u2581grandmother",
-            "\u2581Grandmother",
-            "NameInMap",
-            "gran",
-            "\u2581GRAND",
-            "\ud83d\udc75",
-            "\u2581gran",
-            "\u2581GRAN",
-            "grandmother",
-            "\u2581grand"
+            "\u2581not",
+            "\u2581actually",
+            "\u0e04\u0e37\u0e2d",
+            "\u2581really",
+            "\u2581certainly",
+            "\u2581bukan",
+            "\u2581exactly",
+            "\u2581probably",
+            "\u2581definitely",
+            "mek"
         ],
-        "description": "references to family members, specifically grandmothers"
-    },
-    {
-        "index": "34729",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_34729.json",
-        "negative_strings": [
-            "\u2581AssemblyVersion",
-            "EndContext",
-            "wpi",
-            "\u2581typelib",
-            "findpost",
-            "endiri",
-            "Curriculum",
-            "Story",
-            "\u2581Finally",
-            "\u2581Hick"
-        ],
-        "positive_strings": [
-            "\u2581om",
-            "\u2581Om",
-            "\u2581OM",
-            "\u2581Omni",
-            "Om",
-            "\u2581Omn",
-            "\u2581Ome",
-            "\u2581propOrder",
-            "\u2581omb",
-            "Omni"
-        ],
-        "description": "references to the \"Om\" prefix in various contexts, likely related to brands or systems"
-    },
-    {
-        "index": "92794",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_92794.json",
-        "negative_strings": [
-            "\u2581esternos",
-            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "estal",
-            "ulon",
-            "tomans",
-            "quille",
-            "IInter",
-            "etzal",
-            "ighted"
-        ],
-        "positive_strings": [
-            "-",
-            "Personendaten",
-            "\u2581betweenstory",
-            "-)",
-            "parsedMessage",
-            "-(",
-            "WindowConstants",
-            "!-",
-            ".*\")]",
-            "-\""
-        ],
-        "description": "technical terms and conditions related to web programming and server management"
-    },
-    {
-        "index": "16874",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_16874.json",
-        "negative_strings": [
-            "esgue",
-            "\u2581Pula",
-            "WRENCE",
-            "\u2581Valorant",
-            "\u2581Ares",
-            "\u2581SCA",
-            "\u2581Dauphin",
-            "\u2581CFA",
-            "\u2581pegasus",
-            "Pierce"
-        ],
-        "positive_strings": [
-            "\u2581grandma",
-            "\u2581granny",
-            "Grandma",
-            "\u2581grandmother",
-            "\u2581Grandma",
-            "\u2581Granny",
-            "\u2581Grandmother",
-            "grandmother",
-            "\u2581grandpa",
-            "\u2581grandfather"
-        ],
-        "description": " references to grandmothers or similar familial figures"
-    },
-    {
-        "index": "96640",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_96640.json",
-        "negative_strings": [
-            "\u306a\u3044",
-            "nya",
-            "\u2581s\u0103u",
-            "less",
-            "l",
-            "les",
-            "ts",
-            "lor",
-            "long",
-            "li\u015bmy"
-        ],
-        "positive_strings": [
-            "\u0627",
-            "a",
-            "aaaa",
-            "aaa",
-            "e",
-            "\u0627\u0627",
-            "\u0627\u0627\u0627\u0627",
-            "aaaaaaaa",
-            "\u3041",
-            "aaaaaa"
-        ],
-        "description": "specific scientific terms and names related to plants and their classifications"
-    },
-    {
-        "index": "9795",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_9795.json",
-        "negative_strings": [
-            "RenderAtEndOf",
-            "\u2581BorderSide",
-            "enuine",
-            "HasIndex",
-            "antaranya",
-            "\u2581CreateTagHelper",
-            "\u2581kayna\u011f\u0131ndan",
-            "\u2581minat",
-            "harapkan",
-            "marked"
-        ],
-        "positive_strings": [
-            "\u2581father",
-            "\u2581mother",
-            "father",
-            "\u2581parent",
-            "Mother",
-            "\u2581parents",
-            "mother",
-            "\u2581fathers",
-            "\u2581Mother",
-            "\u2581grandparents"
-        ],
-        "description": "references to parental or father figures"
-    },
-    {
-        "index": "90180",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_90180.json",
-        "negative_strings": [
-            "\u2581cref",
-            "DataAnnotations",
-            "namic",
-            "TintMode",
-            "SpringBootTest",
-            "shadowRadius",
-            "BuilderFactory",
-            "ambilan",
-            "\u2581f\u0103",
-            "ReusableCell"
-        ],
-        "positive_strings": [
-            "\u2581Ogle",
-            "\u2581Oppen",
-            "\u2581Olsson",
-            "\u2581Osorio",
-            "\u2581Ogil",
-            "\u2581Orozco",
-            "\u2581Oll",
-            "\u2581O",
-            "\u2581Orr",
-            "\u2581Olsen"
-        ],
-        "description": "specific geographic names, particularly related to locations and institutions in Omaha"
-    },
-    {
-        "index": "20932",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_20932.json",
-        "negative_strings": [
-            "\u2581Administrativna",
-            "\u2581gynhyrchwyd",
-            "\u2581otomatig",
-            "\u2581leid",
-            "tserrat",
-            "\u751f",
-            "Dez",
-            "\ufeff<?",
-            "experimental",
-            "\u80b2"
-        ],
-        "positive_strings": [
-            "\u2581elderly",
-            "\ud83d\udc75",
-            "\u2581Elderly",
-            "\ud83d\udc74",
-            "\u2581grandfather",
-            "\u2581Grandmother",
-            "\u2581grandmother",
-            "\u2581grandpa",
-            "Elder",
-            "\u2581ancianos"
-        ],
-        "description": " references to family relationships and caregiving roles"
-    },
-    {
-        "index": "21541",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/Das ist eine Oma/data_for_feature_21541.json",
-        "negative_strings": [
-            "xase",
-            "\u2581active",
-            "\u2581dzia\u0142a",
-            "\u2581working",
-            "\u2581AttributeSet",
-            "\u274b",
-            "\u2581sem",
-            "as",
-            "\u2581engaged",
-            "providedIn"
-        ],
-        "positive_strings": [
-            "\u2581killer",
-            "\u2581murderer",
-            "\u2581kidna",
-            "\u2581killers",
-            "killer",
-            "\u2581raping",
-            "\u2581slayer",
-            "\u2581beater",
-            "\u2581Killer",
-            "\u2581murdering"
-        ],
-        "description": "references to familial relationships, particularly involving women as wives, daughters, and mothers"
+        "description": " phrases indicating perceptions or evaluations of things"
     }
 ]

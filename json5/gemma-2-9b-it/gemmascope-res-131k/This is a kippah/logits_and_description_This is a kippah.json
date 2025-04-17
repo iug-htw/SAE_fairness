@@ -1,8 +1,158 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "81293",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_81293.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_81293.json",
         "negative_strings": [
             "\ucc38\uace0",
             "\u2581natural",
@@ -32,7 +182,7 @@
     {
         "index": "34886",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_34886.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_34886.json",
         "negative_strings": [
             "UnitTesting",
             "\u2581estekak",
@@ -60,9 +210,129 @@
         "description": "references to specific academic authors or collaborations"
     },
     {
+        "index": "12125",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_12125.json",
+        "negative_strings": [
+            "\u51fa\u7248\u5e74",
+            "\u2581kasarigan",
+            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
+            "\u2581disambiguazione",
+            "\u2581ar\u015fivlendi",
+            "\u2581gynhyrchwyd",
+            "\u2581newBuilder",
+            "MigrationBuilder",
+            "tagHelperRunner",
+            "\udb40\udc6e"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "Jewish",
+            "\u2581Rabbi",
+            "\u2581Judaism",
+            "\u2581Hebrew",
+            "\u2581rabbi",
+            "\u2581Jews",
+            "Rabbi",
+            "\u2581synagogue",
+            "\u2581synag"
+        ],
+        "description": " references to cultural holidays and family traditions"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "117740",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_117740.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_117740.json",
         "negative_strings": [
             "ceto",
             "Late",
@@ -92,7 +362,7 @@
     {
         "index": "77963",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_77963.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_77963.json",
         "negative_strings": [
             "MockMvc",
             "mohonan",
@@ -120,333 +390,123 @@
         "description": "names of specific microorganisms or species"
     },
     {
-        "index": "34275",
+        "index": "68176",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_34275.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_68176.json",
         "negative_strings": [
-            "\ufeff/*",
-            "\ufeff/**",
-            "RTDA",
-            "')\";",
+            "\u2581R\u00e9ponses",
+            "elemField",
+            "\u2581Arm",
+            "chains",
+            "\u2581mobili",
+            "\u2581Emb",
+            "\u01b0\u1eddn",
             "\u2581BorderSide",
-            "prijs",
-            "userdetails",
-            "})()",
-            "tvguidetime",
-            "\u2581BoxDecoration"
+            "\u2581flank",
+            "\u2581ch\u00e2ssis"
         ],
         "positive_strings": [
-            "pable",
-            "nop",
-            "\u2581Jep",
-            "\u2581Kip",
-            "\u2581EconPapers",
-            "pe",
-            "rap",
-            "\u2581Arp",
-            "yp",
-            "pement"
+            "\u2581head",
+            "\u2581helmet",
+            "\u2581Head",
+            "\u2581kepala",
+            "\u2581HEAD",
+            "\u2581heads",
+            "\u2581cabe\u00e7a",
+            "Head",
+            "\u2581cabeza",
+            "\u2581helmets"
         ],
-        "description": "proper nouns and acronyms related to organizations or entities"
+        "description": "headwear and protective gear descriptions"
     },
     {
-        "index": "62011",
+        "index": "55904",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_62011.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_55904.json",
         "negative_strings": [
-            "\u2581resourceCulture",
-            "AndEndTag",
-            "Autoritn\u00ed",
-            "TagMode",
-            "\u2581PeEnEo",
-            "\u0012",
-            "boutin",
-            "EndContext",
-            "Composable",
-            "saraba"
-        ],
-        "positive_strings": [
-            "\u2581Ki",
-            "Ki",
-            "\u2581KI",
-            "\u2581Kira",
-            "\u2581ki",
-            "\u2581kasarigan",
-            "\u2581Indicator",
-            "\u2581modesty",
-            "\u2581Kib",
-            "\u2581KIR"
-        ],
-        "description": "references to the term \"Ki\" in various contexts"
-    },
-    {
-        "index": "87105",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_87105.json",
-        "negative_strings": [
-            "twin",
-            "\u81f3",
-            "maksud",
-            "ngoing",
-            "\u2581proble",
-            "\u2581Problem",
-            "\u2581stel",
-            "\u2581Verein",
-            "Problem",
-            "\u2581Problems"
-        ],
-        "positive_strings": [
-            "\u2581Ip",
-            "\u2581IP",
-            "\u2581ip",
-            "AndroidJUnit",
-            "\u2581disambiguazione",
-            "\u2581IPs",
-            "########.",
-            "\u2581IPT",
-            "rrggbb",
-            "Bibliograf"
-        ],
-        "description": "chemical compounds and their associated information in a scientific context"
-    },
-    {
-        "index": "126339",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_126339.json",
-        "negative_strings": [
-            "\u2581hendes",
-            "\u2581f\u00f6rst\u00e5",
-            "\u2581\u00e7\u00f6z",
-            "prepareStatement",
-            "BaseAdapter",
-            "\u2581at\u00fan",
-            "\u2581przes",
-            "cinha",
-            "\u2581parteci",
-            "overs"
-        ],
-        "positive_strings": [
-            "WriteTagHelper",
-            "fjspx",
-            "CloseOperation",
-            "otle",
-            "\u0445\u044c\u0442\u0430\u043d",
-            "\ue738",
-            "\u2581Chap",
-            "\u1ec7m",
-            "cephal",
-            "\u2581Chip"
-        ],
-        "description": " words related to chapters or sections in written works"
-    },
-    {
-        "index": "20588",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_20588.json",
-        "negative_strings": [
-            "\ufeff/**",
-            "javax",
-            "wieder",
-            "\\\"\");",
-            "\u2581\"\");",
-            "ambilan",
-            "\u2581\"\"));",
-            "\u2581\"\";",
-            "\u2581\"\".",
-            "\u2581\"'\");"
-        ],
-        "positive_strings": [
-            "yp",
-            "\u2581lp",
-            "\u2581Jep",
-            "\u2581IAP",
-            "\u2581EAP",
-            "\u2581Kip",
-            "ip",
-            "\u2581KAP",
-            "\u2581Gop",
-            "dp"
-        ],
-        "description": "specific biological or chemical terms related to certain processes or substances"
-    },
-    {
-        "index": "86605",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_86605.json",
-        "negative_strings": [
-            "\u2581hand",
-            "\u2581flu",
-            "\u2581lu",
-            "\u2581Otto",
-            "\u2581sur",
-            "\u2581Hand",
-            "\u2581eu",
-            "\u2581Master",
-            "\u2581spot",
-            "\u2581tend"
-        ],
-        "positive_strings": [
-            "\u2581Lep",
-            "\u2581'\\\\;'",
-            "\u2581defaultstate",
-            "\u51fa\u7248\u5e74",
-            "\u2581pouvoit",
-            "\u2581\u00e9toit",
-            "Lep",
-            "Tikang",
-            "Vidite",
-            "\u2581auroit"
-        ],
-        "description": "terms related to leptospirosis and its various forms or manifestations"
-    },
-    {
-        "index": "55401",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_55401.json",
-        "negative_strings": [
-            "\udb40\udc62",
-            "\u2581tjen",
-            "\u2581henkil",
-            "\u2581\u0123",
-            "\u2581rather",
-            "\u2581kysy",
-            "\u2581verband",
-            "\u2581fairly",
-            "\u0e02\u0e49\u0e32\u0e07",
-            "\u2581interesan"
-        ],
-        "positive_strings": [
-            "\u2581CreateTagHelper",
-            "AISSEE",
-            "addCriterion",
-            "uxxxx",
-            "Personensuche",
-            "PerformLayout",
-            "\u2581betweenstory",
-            "\u2581\u017fche",
-            "\u04d4",
-            "YourGuide"
-        ],
-        "description": "proper nouns, particularly names related to people, places, or organizations"
-    },
-    {
-        "index": "75929",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_75929.json",
-        "negative_strings": [
-            "\ufeff//",
-            "orianCalendar",
-            "parsedMessage",
-            "\ufeff/*",
-            "\u2581Exacts",
-            "omitempty",
-            "makeText",
-            "kh\u00e1u",
-            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
-            "\u0645\u0635\u0627\u062f\u0631"
-        ],
-        "positive_strings": [
-            "\u2581UserDao",
-            "[];\r",
-            "ControllerAdvice",
-            "\u0e08\u0e36\u0e07",
-            "UserDao",
-            "\u2581fVar",
-            "\u2581Marcelo",
-            "\u2581());",
-            "ClientRect",
-            "\u2581[]),"
-        ],
-        "description": "proper nouns, particularly names"
-    },
-    {
-        "index": "18890",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_18890.json",
-        "negative_strings": [
-            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
             "GEBURTSDATUM",
-            "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
-            "GTCX",
-            "\u2581fos",
-            "OGND",
-            "\u2581propOrder",
-            "dAtA",
-            "parsedMessage",
-            "Eck"
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
         ],
         "positive_strings": [
-            "AndEndTag",
-            "SELF",
-            "HIM",
-            "Him",
-            "\u2581HIM",
-            "\u2581hers",
-            "\u2581Him",
-            "\u2581Himself",
-            "\u2581Thug",
-            "\u2581okuyay\u0131m"
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
         ],
-        "description": " references to a specific male individual or entity"
+        "description": " occurrences of the word \"is.\""
     },
     {
-        "index": "94864",
+        "index": "50047",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_94864.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_50047.json",
         "negative_strings": [
-            "ukone",
-            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
-            "arshal",
-            "ganet",
-            "Toole",
-            "\u2581CallOverrides",
-            "\u70b9\u6b64\u4e3e\u62a5",
-            "etsa",
-            "derry",
-            "Creo"
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
         ],
         "positive_strings": [
-            "\u2581tradisional",
-            "\u2581yelek",
-            "\u2581tejido",
-            "\u2581resourceCulture",
-            "\u2581tradicionales",
-            "\u2581SDLK",
-            "\u2581cucchiaio",
-            "\u2581similaire",
-            "\u2581traditionnels",
-            "\u2581traditionnel"
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
         ],
-        "description": "words and phrases related to culture and traditional practices"
+        "description": " the word \"is\" in various contexts"
     },
     {
-        "index": "36531",
+        "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a kippah/data_for_feature_36531.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a kippah\\data_for_feature_54929.json",
         "negative_strings": [
-            "\u2581confronti",
-            "indest",
-            "acyj",
-            "\u2581AssemblyTitle",
-            "acyjnych",
-            "Czytaj",
-            "\u2581corazones",
-            "\u2581\u0123",
-            "struzioni",
-            "\u2581Mitteln"
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
         ],
         "positive_strings": [
-            "\u2581\u017fche",
-            "\u2581pok\u00e9mon",
-            "\u2581WooCommerce",
-            "\u2581Reiki",
-            "\u2581UEFI",
-            "\u2581streetwear",
-            "\u2581Bandcamp",
-            "\u2581Dogecoin",
-            "\u2581CrossFit",
-            "\u017fammen"
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
         ],
-        "description": " references to cross-cutting concepts or themes"
+        "description": " phrases indicating significant events or opportunities"
     }
 ]

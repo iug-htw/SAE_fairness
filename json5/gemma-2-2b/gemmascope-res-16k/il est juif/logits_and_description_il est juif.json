@@ -1,8 +1,128 @@
 [
     {
+        "index": "4667",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_4667.json",
+        "negative_strings": [
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
+        ],
+        "positive_strings": [
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
+        ],
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
+    },
+    {
+        "index": "13572",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_13572.json",
+        "negative_strings": [
+            "\u2581French",
+            "\u2581Frenchman",
+            "\u2581Frenchmen",
+            "French",
+            "\u2581Francois",
+            "\u2581Parisian",
+            "\u0112",
+            "\u2581Chateau",
+            "\u2581french",
+            "\u2581Quebec"
+        ],
+        "positive_strings": [
+            "\u2581dignit\u00e9",
+            "\u2581fum\u00e9e",
+            "\u2581c\u00e9rami",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9mocr",
+            "\u2581r\u00e9frig",
+            "\u2581l\u00e8vres",
+            "\u2581n\u00e9gociations",
+            "\u2581d\u00e9faite",
+            "\u2581d\u00e9mocratie"
+        ],
+        "description": "words related to digital files and technology"
+    },
+    {
+        "index": "13572",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_13572.json",
+        "negative_strings": [
+            "\u2581French",
+            "\u2581Frenchman",
+            "\u2581Frenchmen",
+            "French",
+            "\u2581Francois",
+            "\u2581Parisian",
+            "\u0112",
+            "\u2581Chateau",
+            "\u2581french",
+            "\u2581Quebec"
+        ],
+        "positive_strings": [
+            "\u2581dignit\u00e9",
+            "\u2581fum\u00e9e",
+            "\u2581c\u00e9rami",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9mocr",
+            "\u2581r\u00e9frig",
+            "\u2581l\u00e8vres",
+            "\u2581n\u00e9gociations",
+            "\u2581d\u00e9faite",
+            "\u2581d\u00e9mocratie"
+        ],
+        "description": "words related to digital files and technology"
+    },
+    {
+        "index": "6478",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_6478.json",
+        "negative_strings": [
+            "\u2581Monfieur",
+            "\u2581ainfi",
+            "\u2581avoient",
+            "\u2581An\u017f",
+            "\u2581Hou\u017fe",
+            "\u2581Efq",
+            "\u2581Di\u017f",
+            "\u2581The\u017fe",
+            "\u2581auroit",
+            "\u2581abstrait"
+        ],
+        "positive_strings": [
+            "\u2581par",
+            "\u2581et",
+            "\u2581des",
+            "\u2581du",
+            "\u2581de",
+            "\u2581le",
+            "\u2581en",
+            "\u2581d",
+            "\u2581pour",
+            "\u2581sur"
+        ],
+        "description": " phrases related to technology and devices, particularly metrics and functionalities"
+    },
+    {
         "index": "974",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_974.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_974.json",
         "negative_strings": [
             "tagHelperRunner",
             "ofire",
@@ -30,9 +150,39 @@
         "description": "references to a type of fruit-related item, specifically those starting with \"ju.\""
     },
     {
+        "index": "3709",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_3709.json",
+        "negative_strings": [
+            "\u2581Monfieur",
+            "\u2581ainfi",
+            "\u2581An\u017f",
+            "\u2581Hou\u017fe",
+            "\u2581my\u017felf",
+            "\u2581Efq",
+            "\u2581Di\u017f",
+            "\u2581avoient",
+            "\u2581Majefty",
+            "\u2581Re\u017f"
+        ],
+        "positive_strings": [
+            "\u2581et",
+            "\u2581de",
+            "\u2581\u00e0",
+            "\u2581le",
+            "\u2581du",
+            "\u2581des",
+            "\u2581en",
+            "\u2581sur",
+            "\u2581d",
+            "\u2581par"
+        ],
+        "description": "configurations and installations related to software, particularly Ubuntu"
+    },
+    {
         "index": "15869",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_15869.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_15869.json",
         "negative_strings": [
             "tagHelperRunner",
             "\u0631\u0634\u0641",
@@ -62,7 +212,7 @@
     {
         "index": "13123",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_13123.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_13123.json",
         "negative_strings": [
             "side",
             "\u2581EClass",
@@ -90,9 +240,69 @@
         "description": "instances of the term \"ju\" or variations thereof, indicating a focus on musical jukeboxes or related concepts"
     },
     {
+        "index": "6929",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_6929.json",
+        "negative_strings": [
+            "\u2581nakalista",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581resourceCulture",
+            "DockStyle",
+            "ISupport",
+            "esModule",
+            "Referencer",
+            "PRNewswire",
+            "ViewFeatures",
+            "\u2581onAnimation"
+        ],
+        "positive_strings": [
+            "\u2581tr\u00e8s",
+            "\u2581agr\u00e9able",
+            "\u2581belle",
+            "\u2581parfaitement",
+            "\u2581TRES",
+            "\u2581fort",
+            "\u2581sobre",
+            "tr\u00e8s",
+            "\u2581superbe",
+            "\u2581vaste"
+        ],
+        "description": "elements related to software and user experience in technology"
+    },
+    {
+        "index": "11882",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_11882.json",
+        "negative_strings": [
+            "/}.",
+            "\u2581Hautes",
+            "//};",
+            "itados",
+            "zenden",
+            "chr\u00e4nk",
+            "QMetaType",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "\u00f3ticos",
+            "rsch"
+        ],
+        "positive_strings": [
+            "\u2581discorso",
+            "\u2581compito",
+            "\u2581tramonto",
+            "\u2581tentativo",
+            "\u2581pacchetto",
+            "\u2581riconoscimento",
+            "\u2581sonno",
+            "\u2581segnale",
+            "\u2581suono",
+            "\u2581vantaggio"
+        ],
+        "description": "references to familial relationships or ties"
+    },
+    {
         "index": "5105",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_5105.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_5105.json",
         "negative_strings": [
             "\u2581",
             "(",
@@ -120,273 +330,63 @@
         "description": "the word \"ju\" in various forms and contexts"
     },
     {
-        "index": "1945",
+        "index": "9444",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_1945.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_9444.json",
         "negative_strings": [
-            "\u2581NSCoder",
-            "AddTagHelper",
-            "Autoritn\u00ed",
-            "strokeWeight",
-            "ChildScrollView",
-            "\u2581plan\u00e8tes",
-            "oader",
-            "oredCriteria",
-            "GOTREF",
-            "\u2581handkerchief"
-        ],
-        "positive_strings": [
-            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
-            "awaiter",
-            "__\":\r",
-            "RepeatedField",
-            "\u2581colspan",
-            "canestro",
-            "illiard",
-            "=\"@+",
-            "twimg",
-            "ventas"
-        ],
-        "description": " references to the word \"Ju\" or variations of it, likely related to a particular subject or context involving the term"
-    },
-    {
-        "index": "14825",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_14825.json",
-        "negative_strings": [
-            "\u2581",
-            "\u2581con",
-            "SourceChecksum",
-            "zkod",
-            "\u2581EClass",
-            "ni\u0161t",
-            "\u2581(",
-            "\u2581b",
-            "\u2581l",
-            "\u2581["
-        ],
-        "positive_strings": [
-            "enumi",
-            "twimg",
-            "\u2581The\u017fe",
-            "\u2581EconPapers",
-            "Portale",
-            "\u2581ProtoMessage",
-            "\u2581An\u017f",
-            "\u2581Monfieur",
-            "\u2581useAppContext",
-            "\u2581Juf"
-        ],
-        "description": "references to jukeboxes"
-    },
-    {
-        "index": "12373",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_12373.json",
-        "negative_strings": [
-            "\u306b",
-            "ments",
-            "lla",
-            "mos",
-            "by",
-            "meras",
-            "lle",
-            "brot",
-            "eeeeeeee",
-            "e"
-        ],
-        "positive_strings": [
-            "net",
-            "du",
-            "rid",
-            "nter",
-            "new",
-            "TagMode",
-            "row",
-            "raw",
-            "ray",
-            "side"
-        ],
-        "description": "proper nouns and names"
-    },
-    {
-        "index": "14633",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_14633.json",
-        "negative_strings": [
-            "ussis",
-            "Controllo",
-            "\u2581",
-            "EndInit",
-            "\u2581con",
-            "\u0441\u043e\u043b\u044e",
-            "\u2581pris",
-            "printk",
-            "</em>",
-            "\u2581deles"
-        ],
-        "positive_strings": [
-            "enumi",
-            "IsPostBack",
+            "\u2581artificially",
+            "PRNewswire",
             "\u2581BitmapFactory",
-            "Filmografie",
-            "\u2581Juf",
-            "\u2581An\u017f",
-            "\u2581Re\u017f",
-            "Ju",
-            "^(@)",
-            "\u2581The\u017fe"
-        ],
-        "description": "references to the word \"juke\" or its variations"
-    },
-    {
-        "index": "3709",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_3709.json",
-        "negative_strings": [
-            "\u2581Monfieur",
-            "\u2581ainfi",
-            "\u2581An\u017f",
-            "\u2581Hou\u017fe",
-            "\u2581my\u017felf",
-            "\u2581Efq",
-            "\u2581Di\u017f",
-            "\u2581avoient",
-            "\u2581Majefty",
-            "\u2581Re\u017f"
+            "\u2581manually",
+            "\u2581psychologically",
+            "\u2581\"<?",
+            "\u2581'..",
+            "\u2581ostavi",
+            "\u2581damit",
+            "ChatColor"
         ],
         "positive_strings": [
-            "\u2581et",
-            "\u2581de",
-            "\u2581\u00e0",
-            "\u2581le",
-            "\u2581du",
-            "\u2581des",
-            "\u2581en",
-            "\u2581sur",
-            "\u2581d",
-            "\u2581par"
+            "WithIOException",
+            "\u2581fort",
+            "\u2581tr\u00e8s",
+            "\u2581plus",
+            "queous",
+            "embatan",
+            "Autoritn\u00ed",
+            "\u2581trs",
+            "OCCURRED",
+            "Fid"
         ],
-        "description": "configurations and installations related to software, particularly Ubuntu"
+        "description": "descriptions of software interface quality and functionality"
     },
     {
-        "index": "2547",
+        "index": "16119",
         "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_2547.json",
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\il est juif\\data_for_feature_16119.json",
         "negative_strings": [
-            "\u2581Monfieur",
-            "\u2581Jefus",
-            "\u2581Hou\u017fe",
-            "\u2581An\u017f",
-            "\u2581hou\u017fe",
-            "\u2581my\u017felf",
-            "\u2581\u017ftate",
-            "\u2581Majefty",
-            "\u2581him\u017felf",
-            "\u2581Re\u017f"
+            "WEBPACK",
+            "\u2581kurzem",
+            "irage",
+            "\u2581ked",
+            "\u2581ular",
+            "\u0d0f",
+            "\u2581Epistle",
+            "izacion",
+            "\u2581wes",
+            "\u2581quy"
         ],
         "positive_strings": [
-            "GEBURTSDATUM",
-            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
-            "\u2581CanadaChoose",
-            "\u2581autorytatywna",
-            "tanleria",
-            "\u2581ligiloj",
-            "\u2581uintptr",
-            "\u00f6lkerung",
-            "\u2581doInBackground",
-            "WireFormatLite"
+            "\u2581che",
+            "\u2581perch\u00e9",
+            "\u2581\u00e8",
+            "\u2581mentre",
+            "\u2581come",
+            "\u2581sezione",
+            "\u2581v\u0153ux",
+            "\u2581cio\u00e8",
+            "\u2581varandra",
+            "\u2581stessa"
         ],
-        "description": "technical terms related to software and installation processes"
-    },
-    {
-        "index": "6953",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_6953.json",
-        "negative_strings": [
-            "\u2581Monfieur",
-            "\u2581An\u017f",
-            "\u2581Efq",
-            "\u2581Di\u017f",
-            "\u2581Re\u017f",
-            "\u2581The\u017fe",
-            "\u2581my\u017felf",
-            "\u2581ainfi",
-            "\u2581Hou\u017fe",
-            "\u2581Majefty"
-        ],
-        "positive_strings": [
-            "\u2581de",
-            "\u2581\u00e9",
-            "\u2581le",
-            "\u2581en",
-            "\u2581\u00ab",
-            "\u2581\u00e0",
-            "\u2581du",
-            "\u2581la",
-            "\u2581et",
-            "\u2581d"
-        ],
-        "description": "terms related to software compatibility and functionality"
-    },
-    {
-        "index": "13626",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_13626.json",
-        "negative_strings": [
-            "\u5e16\u6700\u540e\u7531",
-            "\u2581n\u00f8dvendig",
-            "\u2581chemin\u00e9e",
-            "\u2581m\u00e5te",
-            "\u2581operativos",
-            "\u2581r\u00e6kke",
-            "\u2581aceptas",
-            "j\u0161\u00ed",
-            "k\u00f6y",
-            "\u2581corrector"
-        ],
-        "positive_strings": [
-            "\u2581autorytatywna",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "\u2581Jamb",
-            "\u2581GenerationType",
-            "SPJ",
-            "bootstrapcdn",
-            "\u2581Jop",
-            "\u0e2b\u0e27\u0e31\u0e14",
-            "\u2581initComponents",
-            "zeera"
-        ],
-        "description": " references to specific names or terms associated with the letter 'J'"
-    },
-    {
-        "index": "2855",
-        "layer": null,
-        "url": "json5/gemma-2-2b/gemmascope-res-16k/il est juif/data_for_feature_2855.json",
-        "negative_strings": [
-            "\u5e16\u6700\u540e\u7531",
-            "\u2581occaf",
-            "ItemBackground",
-            "\u2581corrector",
-            "\u2581m\u00e5te",
-            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
-            "\u2581pecuni",
-            "Ikus",
-            "k\u00f6y",
-            "\u2581tirantes"
-        ],
-        "positive_strings": [
-            "\u2581Jamb",
-            "\u2581Jop",
-            "\u2581Jow",
-            "\u2581J",
-            "\u2581jsonArray",
-            "SPJ",
-            "\u2581Jav",
-            "\u2581Jill",
-            "\u2581JAS",
-            "RunWith"
-        ],
-        "description": "references to the letter 'J' and related terms or acronyms"
+        "description": "terms related to online gaming and casino promotions"
     }
 ]

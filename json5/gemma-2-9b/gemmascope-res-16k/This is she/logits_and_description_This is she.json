@@ -1,8 +1,338 @@
 [
     {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
         "index": "10456",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_10456.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_10456.json",
         "negative_strings": [
             "principalColumn",
             "RTSC",
@@ -32,7 +362,7 @@
     {
         "index": "15166",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_15166.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_15166.json",
         "negative_strings": [
             "haikusbot",
             "DockStyle",
@@ -62,7 +392,7 @@
     {
         "index": "2949",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_2949.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_2949.json",
         "negative_strings": [
             "\u2581RemoteException",
             "principalColumn",
@@ -92,7 +422,7 @@
     {
         "index": "16153",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_16153.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_16153.json",
         "negative_strings": [
             "\u2581assolu",
             "tibus",
@@ -122,7 +452,7 @@
     {
         "index": "15166",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_15166.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_15166.json",
         "negative_strings": [
             "haikusbot",
             "DockStyle",
@@ -150,9 +480,39 @@
         "description": "the presence of the word \"she\" or variations of it"
     },
     {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
         "index": "4429",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_4429.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_4429.json",
         "negative_strings": [
             "principalColumn",
             "devam\u0131n\u0131",
@@ -180,273 +540,33 @@
         "description": " references to specific individuals, particularly the mentions of \"She\" and related contextual terms"
     },
     {
-        "index": "4991",
+        "index": "10101",
         "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_4991.json",
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is she\\data_for_feature_10101.json",
         "negative_strings": [
-            "devam\u0131n\u0131",
-            "principalColumn",
-            "antMatchers",
-            "rigan",
-            "Glorious",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581BoxFit",
-            "\u2581RemoteException",
-            "\u2581Windy",
-            "\u2581Flaming"
+            "\u2581Masyarakat",
+            "\u2581\u00c9l",
+            "against",
+            "\u2581\u0432\u043e",
+            "evaluated",
+            "\u2581ba\u015flad",
+            "\u2581\u03c4\u1f78\u03bd",
+            "\u2581Sch",
+            "whose",
+            "\u2581and"
         ],
         "positive_strings": [
-            "She",
-            "\u2581She",
-            "she",
-            "\u2581SHE",
-            "\u2581userSchema",
-            "\u2581Shepard",
-            "SHE",
-            "\u2581Sche",
-            "\u2581shed",
-            "\u2581\u017fhe"
+            "IsContent",
+            "\u017felben",
+            "ni\u017f\u017fe",
+            "\ufeff/**",
+            "\u017fchaft",
+            "<unused28>",
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused3>"
         ],
-        "description": "references to the subject \"She\" or variations thereof"
-    },
-    {
-        "index": "755",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_755.json",
-        "negative_strings": [
-            "devam\u0131n\u0131",
-            "\u2581BoxFit",
-            "principalColumn",
-            "ButtonModule",
-            "\u2581Flaming",
-            "\u2581saites",
-            "\u2581RemoteException",
-            "MatButtonModule",
-            "\u2581Fridays",
-            "Slf"
-        ],
-        "positive_strings": [
-            "She",
-            "\u2581She",
-            "\u2581Sche",
-            "SHE",
-            "\u2581SHE",
-            "she",
-            "\u2581Shepard",
-            "\u2581userSchema",
-            "Sche",
-            "\u2581Sheppard"
-        ],
-        "description": "references to specific individuals and their associated actions or conditions"
-    },
-    {
-        "index": "9282",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_9282.json",
-        "negative_strings": [
-            "devam\u0131n\u0131",
-            "DockStyle",
-            "msgTypes",
-            "\u2581saites",
-            "principalColumn",
-            "\u2581k\u00f6ln",
-            "EDEFAULT",
-            "Lyric",
-            "Notae",
-            "\u2581gynhyrchwyd"
-        ],
-        "positive_strings": [
-            "\u2581She",
-            "She",
-            "\u2581Sche",
-            "\u2581SHE",
-            "SHE",
-            "she",
-            "Sche",
-            "\u2581Shepard",
-            "\u2581shel",
-            "\u2581shed"
-        ],
-        "description": "references to specific individuals and their actions or conditions"
-    },
-    {
-        "index": "761",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_761.json",
-        "negative_strings": [
-            "devam\u0131n\u0131",
-            "akhstan",
-            "\u2581k\u00f6ln",
-            "titleMargin",
-            "\u2581saites",
-            "msgTypes",
-            "PARTIC",
-            "MouseListener",
-            "\u2581obt",
-            "Lyric"
-        ],
-        "positive_strings": [
-            "\u2581She",
-            "She",
-            "\u2581Sche",
-            "\u2581Shepard",
-            "\u2581shel",
-            "\u2581SHE",
-            "\u2581shed",
-            "\u2581SHEL",
-            "Sche",
-            "she"
-        ],
-        "description": "references to a specific individual or group associated with the name \"Sheba.\""
-    },
-    {
-        "index": "5761",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_5761.json",
-        "negative_strings": [
-            "devam\u0131n\u0131",
-            "msgTypes",
-            "ButtonModule",
-            "istoitu",
-            "\u2581saites",
-            "cloudflare",
-            "\u2581BoxFit",
-            "akhstan",
-            "\u2581gynhyrchwyd",
-            "PARTIC"
-        ],
-        "positive_strings": [
-            "\u2581She",
-            "She",
-            "\u2581shel",
-            "\u2581Sche",
-            "\u2581SHE",
-            "\u2581Shepard",
-            "she",
-            "shel",
-            "\u2581SHEL",
-            "\u2581Shel"
-        ],
-        "description": "references to the subject \"She\" and associated terms in a context related to scientific findings and medical details"
-    },
-    {
-        "index": "3649",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_3649.json",
-        "negative_strings": [
-            "devam\u0131n\u0131",
-            "msgTypes",
-            "\u2581Audiodateien",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "DateTimeField",
-            "ViewInit",
-            "classnames",
-            "cirq",
-            "\u3161",
-            "titleMargin"
-        ],
-        "positive_strings": [
-            "\u2581SHE",
-            "She",
-            "\u2581She",
-            "\u2581shel",
-            "SHE",
-            "\u2581Sheppard",
-            "she",
-            "shel",
-            "\u2581userSchema",
-            "\u2581Shepard"
-        ],
-        "description": "references to specific individuals or entities, particularly those identified with the term \"she.\""
-    },
-    {
-        "index": "7700",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_7700.json",
-        "negative_strings": [
-            "Refer\u00e8ncies",
-            "\u2581invokingState",
-            "respon",
-            "\ud83c\udffe",
-            "\u30fc\u30e9\u30fc",
-            "BindView",
-            "DockStyle",
-            "TargetApi",
-            "rrggbb",
-            "\u66d6\u6627\u3055\u56de\u907f"
-        ],
-        "positive_strings": [
-            "eping",
-            "ek",
-            "eps",
-            "ople",
-            "eks",
-            "eds",
-            "ep",
-            "eded",
-            "eting",
-            "ighborhood"
-        ],
-        "description": " forms of the verb \"to be\" and related adjectives describing conditions or states"
-    },
-    {
-        "index": "2240",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_2240.json",
-        "negative_strings": [
-            "\u2581Obrador",
-            "respon",
-            "worten",
-            "ariki",
-            "antle",
-            "substack",
-            "\u2581aikaa",
-            "\ud83c\udffd",
-            "wezi",
-            "\u2581Ayur"
-        ],
-        "positive_strings": [
-            "eds",
-            "eps",
-            "ep",
-            "ek",
-            "eping",
-            "\u2581CreateTagHelper",
-            "ople",
-            "eks",
-            "enie",
-            "aves"
-        ],
-        "description": "words associated with deceit and manipulation"
-    },
-    {
-        "index": "3603",
-        "layer": null,
-        "url": "json5/gemma-2-9b/gemmascope-res-16k/This is she/data_for_feature_3603.json",
-        "negative_strings": [
-            "\u2581contra",
-            "ResourceBundle",
-            "\u2581onPostExecute",
-            "BindView",
-            "\u30bb\u30ec",
-            "ILES",
-            "\u66d6\u6627\u3055\u56de\u907f",
-            "\u2581undulating",
-            "bundes",
-            "Refer\u00e8ncies"
-        ],
-        "positive_strings": [
-            "eks",
-            "eping",
-            "eking",
-            "eps",
-            "eting",
-            "ople",
-            "eker",
-            "ek",
-            "ared",
-            "isure"
-        ],
-        "description": "certain phonetic patterns, particularly focusing on words containing the \"ble\" sound"
+        "description": " programming code and structural components of a software framework"
     }
 ]

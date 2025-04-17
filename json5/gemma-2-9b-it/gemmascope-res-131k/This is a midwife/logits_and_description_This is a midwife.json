@@ -1,8 +1,158 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "24992",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_24992.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_24992.json",
         "negative_strings": [
             "titleMargin",
             "complexContent",
@@ -30,9 +180,249 @@
         "description": " phrases related to childbirth experiences and pain management"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "54929",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_54929.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
+        ],
+        "positive_strings": [
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
+        ],
+        "description": " phrases indicating significant events or opportunities"
+    },
+    {
+        "index": "56588",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_56588.json",
+        "negative_strings": [
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581disambiguazione",
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
+        ],
+        "description": " occurrences of the word \"a\""
+    },
+    {
+        "index": "97342",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_97342.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
+        ],
+        "description": "articles, particularly the word \"a.\""
+    },
+    {
         "index": "54583",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_54583.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_54583.json",
         "negative_strings": [
             "\u2581Fing",
             "\u2581\u0635\u0648\u062a\u064a\u0647",
@@ -60,423 +450,33 @@
         "description": "terms related to midwifery and maternal care"
     },
     {
-        "index": "27561",
+        "index": "64092",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_27561.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a midwife\\data_for_feature_64092.json",
         "negative_strings": [
-            "IntoConstraints",
-            "addGap",
-            "\u2581\u0645\u0631\u0626\u064a\u0647",
-            "Selfer",
-            "addContainerGap",
-            "\u2581transfieras",
-            "ReusableCell",
-            "jspb",
-            "\u062a\u0641\u0635\u06cc\u0644\u0627\u062a",
-            "\u2581utafitiHapana"
-        ],
-        "positive_strings": [
-            "\u2581baby",
-            "\u2581Baby",
-            "Baby",
-            "baby",
-            "\u2581babies",
-            "\u2581infant",
-            "\u2581BABY",
-            "\u2581Babies",
-            "Babies",
-            "BABY"
-        ],
-        "description": "references to diaper-related care and products for infants"
-    },
-    {
-        "index": "2293",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_2293.json",
-        "negative_strings": [
-            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581metav",
-            "\u2581contextLoads",
-            "\u2581nonUne",
-            "MigrationBuilder",
-            "\u2581poveznice",
-            "del\u00e0",
-            "\u2581kayna\u011f\u0131ndan",
-            "\u03c0\u03c9\u03c2"
-        ],
-        "positive_strings": [
-            "\u2581duties",
-            "\u3092\u52d9",
-            "\u2581services",
-            "\u2581training",
-            "\u2581assistants",
-            "\u2581Salary",
-            "\u2581Training",
-            "\u2581profession",
-            "\u2581job",
-            "\u2581TRAINING"
-        ],
-        "description": "specific job roles and titles within various contexts"
-    },
-    {
-        "index": "110292",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_110292.json",
-        "negative_strings": [
-            "endphp",
-            "\u2581strtok",
-            "\u2581HasFactory",
-            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986",
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "InjectAttribute",
-            "UrlResolution",
             "featureID",
-            "\u2581kasarigan",
-            "\u2581haji"
-        ],
-        "positive_strings": [
-            "Mid",
-            "\u2581Mid",
-            "\u2581MID",
-            "\u2581mid",
-            "MID",
-            "mid",
-            "dling",
-            "dled",
-            "\u2581Middel",
-            "\u2581Midtown"
-        ],
-        "description": " references to specific geographic locations or entities, especially related to the Midwest"
-    },
-    {
-        "index": "97378",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_97378.json",
-        "negative_strings": [
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            ">{@",
-            "Aiheesta",
-            "Tall",
-            "\u2581vectorielle",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "anzug",
-            "ActionEvent",
-            "OCCURRED",
-            "onicus"
-        ],
-        "positive_strings": [
-            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
-            "\u2581Mi",
-            "CodedInputStream",
-            "ConstraintMaker",
-            "migrationBuilder",
-            "\u2581MI",
-            "Mi",
-            "RTCK",
-            "letoe",
-            "\u2581\u0633\u0643\u0627\u0646\u064a\u0629"
-        ],
-        "description": "references to specific genes, genetic variants, or conditions"
-    },
-    {
-        "index": "95404",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_95404.json",
-        "negative_strings": [
-            "GEBURTSDATUM",
-            "IsMutable",
-            "\u2581AssemblyCulture",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u2581\u043d\u0430\u0441\u0435\u0459\u0443",
-            "Rohy",
-            "BagConstraints",
-            "InjectAttribute",
-            "GroupLayout",
-            "\u2581propOrder"
-        ],
-        "positive_strings": [
-            "Mid",
-            "\u2581MID",
-            "\u2581Mid",
-            "\u2581mid",
-            "MID",
-            "mid",
-            "\u2581Midsummer",
-            "\u2581mida",
             "bootstrapcdn",
-            "Rare"
-        ],
-        "description": "references to the prefix \"Mid\" or related to the term \"Midland.\""
-    },
-    {
-        "index": "87857",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_87857.json",
-        "negative_strings": [
-            "\u2581Wikimedijinoj",
-            "Vidite",
-            "\u2581disambiguazione",
-            "ti\u00e9rrez",
-            "+/**",
-            "\u2581ujednoznacz",
-            "OGND",
-            "Uwagi",
-            "InstrumentedTest",
-            "\u2581Konzentration"
-        ],
-        "positive_strings": [
-            "\u2581parto",
-            "yntaxException",
-            "\u2581childbirth",
-            "\u2581birth",
-            "CPtr",
-            "\u2581sker",
-            "\u2581Rescue",
-            "birth",
-            "\u2581obstet",
-            "\u2581dy"
-        ],
-        "description": "words related to labor and delivery experiences"
-    },
-    {
-        "index": "39675",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_39675.json",
-        "negative_strings": [
-            "PreInfinity",
-            "\u2581Numerade",
-            "\u2581okuyay\u0131m",
-            "\u2581LABORATOR",
-            "\u2581DIN",
-            "BagConstraints",
-            "ragalactic",
-            "\u5bb0",
-            "\u2581MEASURES",
-            "ugc"
-        ],
-        "positive_strings": [
-            "webElementGuid",
-            "ast\u00e9ro\u00efdes",
-            "conium",
-            "\u2581\u00e5t",
-            "liceerd",
-            "\u2581fa\u017ft",
-            "astify",
-            "\u2581ab\u017f",
-            "\u2581\u010dier",
-            "\u2581f\u00f6rr"
-        ],
-        "description": "terms related to maternal and neonatal health issues"
-    },
-    {
-        "index": "93161",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_93161.json",
-        "negative_strings": [
-            "\u062a\u0642\u0627\u0648\u0649",
-            "MockMvc",
-            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
-            "\u2581Schilder",
-            "\u2581Flu",
-            "\u2581pene",
-            "\u2581Pene",
-            "\u2581filters",
-            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
-            "InjectMocks"
-        ],
-        "positive_strings": [
-            "\u2581midwife",
-            "\u2581nursing",
-            "\u2581\u0645\u0634\u064a\u0646",
-            "\u2581n\u00f8d",
-            "\u2581Nursing",
-            "Nursing",
-            "wifery",
-            "Mid",
-            "wi\u017fe",
-            "nurse"
-        ],
-        "description": " terms related to obstetrics and gynecology"
-    },
-    {
-        "index": "28864",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_28864.json",
-        "negative_strings": [
-            "fastjson",
-            "\u2581birth",
-            "\u2581melahirkan",
-            "\u516c",
-            "\u2581ustedes",
-            "\u2581supuesto",
-            "\u2581geboren",
-            "\u00e9cou",
-            "\u2581basura",
-            "\u2581Umum"
-        ],
-        "positive_strings": [
-            "DockStyle",
-            "\u2581noDo",
-            "RTCK",
-            "\u044c\u0430\u0436",
-            "RectangleBorder",
-            "\u0440\u0438\u0442\u043e\u0440\u0438",
-            "WriteTagHelper",
-            "\u2581CreateTagHelper",
-            "DeleteBehavior",
-            "agisse"
-        ],
-        "description": " terms related to pregnancy and obstetric care"
-    },
-    {
-        "index": "68566",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_68566.json",
-        "negative_strings": [
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
             "Rohy",
-            "\u5e16\u6700\u540e\u7531",
-            "\u0417\u043d\u043e\u0441\u043a\u0456",
-            "+:+",
-            "\u2581CURIAM",
-            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
-            "\u2581Numerade",
-            "oredCriteria",
-            "\u2581\u064a\u062a\u064a\u0645\u0647",
-            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430"
+            "RUnlock"
         ],
         "positive_strings": [
-            "iots",
-            "IOT",
-            "iosync",
-            "entity",
-            "ias",
-            "dy",
-            "ding",
-            "\u2581R\u00e9alisation",
-            "ion",
-            "ivot"
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
         ],
-        "description": "references to unique identifiers and their relationships"
-    },
-    {
-        "index": "66437",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_66437.json",
-        "negative_strings": [
-            "ActionEvent",
-            "cinogenicity",
-            "mlung",
-            "\u2581getConnection",
-            "getConnection",
-            "requireNonNull",
-            "\u2581Charlene",
-            "\u2581appName",
-            "ATK",
-            "\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986"
-        ],
-        "positive_strings": [
-            "\u2581mid",
-            "\u2581Mid",
-            "Mid",
-            "\u2581MID",
-            "MID",
-            "mid",
-            "\u2581Midland",
-            "\u2581Middle",
-            "\u2581middle",
-            "\u2581Middel"
-        ],
-        "description": "references to time periods or midpoints in various contexts"
-    },
-    {
-        "index": "97270",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_97270.json",
-        "negative_strings": [
-            "AnimationsModule",
-            "Diwedd",
-            "\u2581ujednoznacz",
-            "RenderAtEndOf",
-            "\u2581Excursion",
-            "\u2581enclosures",
-            "FormTagHelper",
-            "\u2581fl\u00e8che",
-            "\u2581renovables",
-            "bledon"
-        ],
-        "positive_strings": [
-            "\u2581birth",
-            "\u2581births",
-            "birth",
-            "\u2581delivery",
-            "\u2581BIRTH",
-            "\u2581born",
-            "\u2581Birth",
-            "\u2581childbirth",
-            "Birth",
-            "delivery"
-        ],
-        "description": "terms related to pregnancy and childbirth complications"
-    },
-    {
-        "index": "21251",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_21251.json",
-        "negative_strings": [
-            "SerializedSize",
-            "\u2581lenker",
-            "Hozz\u00e1f\u00e9r\u00e9s",
-            "localctx",
-            "\u2581fotogr\u00e1fico",
-            "FieldNumber",
-            "\u2581fotografico",
-            "\u2581pitchers",
-            "\u2581\u00eens",
-            "pecabezas"
-        ],
-        "positive_strings": [
-            "\u2581consultant",
-            "\u2581certific",
-            "\u2581profession",
-            "\u2581specializing",
-            "\u2581lic",
-            "BASEPATH",
-            "\u2581Consultant",
-            "\u2581licensed",
-            "\u2581practitioner",
-            "\u2581certified"
-        ],
-        "description": "medical and healthcare-related professions and titles"
-    },
-    {
-        "index": "84660",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a midwife/data_for_feature_84660.json",
-        "negative_strings": [
-            "\u2581\u0635\u0648\u062a\u064a\u0647",
-            "\u2581kasarigan",
-            "tvguidetime",
-            "\u2581f\u00e9d\u00e9",
-            "jupiter",
-            "\u2581chilen",
-            "Hentet",
-            "Clik",
-            "detroit",
-            "endphp"
-        ],
-        "positive_strings": [
-            "\u2581Middleware",
-            "\u2581middleware",
-            "Middleware",
-            "middleware",
-            "\u2581Normdatei",
-            "MIDDLEWARE",
-            "matchCondition",
-            "\u2581Middle",
-            "\u4ef6",
-            "Middle"
-        ],
-        "description": "terms and references related to middleware and midwifery"
+        "description": "questions beginning with \"What\" or \"How.\""
     }
 ]

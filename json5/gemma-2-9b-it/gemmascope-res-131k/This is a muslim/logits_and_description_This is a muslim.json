@@ -1,8 +1,158 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "42564",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_42564.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_42564.json",
         "negative_strings": [
             "oredCriteria",
             "sweise",
@@ -32,7 +182,7 @@
     {
         "index": "69205",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_69205.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_69205.json",
         "negative_strings": [
             "PYX",
             "SequentialGroup",
@@ -62,7 +212,7 @@
     {
         "index": "49434",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_49434.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_49434.json",
         "negative_strings": [
             "\u2581L\u00e4nge",
             "utuhkan",
@@ -90,9 +240,99 @@
         "description": "references to Muslims and Islam"
     },
     {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "123834",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_123834.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_123834.json",
         "negative_strings": [
             "verwijspagina",
             "Ford\u00edt\u00e1s",
@@ -122,7 +362,7 @@
     {
         "index": "34852",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_34852.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_34852.json",
         "negative_strings": [
             "parsedMessage",
             "\u2581resourceCulture",
@@ -150,303 +390,123 @@
         "description": "references to various religious groups, particularly Catholicism and Buddhism"
     },
     {
-        "index": "52188",
+        "index": "55904",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_52188.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_55904.json",
         "negative_strings": [
-            "\u2581aanbod",
-            "h\u00f6he",
-            "\u9644\u52a0",
-            "stufe",
-            "artigen",
-            "\u2581legacy",
-            "\u2581Price",
-            "\u2581price",
-            "zeiti",
-            "\u2581pracy"
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
         ],
         "positive_strings": [
-            "\u2581Muslim",
-            "Muslim",
-            "\u2581Muslims",
-            "\u2581muslim",
-            "muslim",
-            "Muslims",
-            "\u2581musul",
-            "\u2581Moslem",
-            "\u2581musli",
-            "\u2581Islam"
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
         ],
-        "description": "references to Muslims or Islamic identity"
+        "description": " occurrences of the word \"is.\""
     },
     {
-        "index": "126292",
+        "index": "50047",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_126292.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_50047.json",
         "negative_strings": [
-            "\u2581HasFactory",
-            "\u2581coroa",
-            "eraard",
-            "manera",
-            "rawDesc",
-            "cciale",
-            "\u2581sanitaria",
-            "at\u00f3rios",
-            "ECONDS",
-            "\u30d7\u30ea\u30f3\u30b0"
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
         ],
         "positive_strings": [
-            "\u2581mosques",
-            "\u2581mosque",
-            "\u2581Mosque",
-            "\u2581Muslims",
-            "\u2581Muslim",
-            "\u2581muslim",
-            "Mos",
-            "\u2581mos",
-            "\u2581Moslem",
-            "Muslim"
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
         ],
-        "description": "references to Islamic places of worship and related cultural context"
+        "description": " the word \"is\" in various contexts"
     },
     {
-        "index": "49711",
+        "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_49711.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_54929.json",
         "negative_strings": [
-            "\u2581Umfang",
-            "\u2581infine",
-            "hline",
-            "berikut",
-            "\u2581pamamagitan",
-            "verlauf",
-            "\u2581nhi\u00eau",
-            "situation",
-            "\u2581respectivas",
-            "\ud83e\uddb5"
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
         ],
         "positive_strings": [
-            "########.",
-            "\u043d\u043e\u0432\u043d\u0438\u0448",
-            "\udb40\udc6e",
-            "bootstrapcdn",
-            "HandlerContext",
-            "mogat",
-            "__*/",
-            "\u2581saites",
-            "iddhar",
-            "webElementGuid"
-        ],
-        "description": "references to Christianity and religious topics"
-    },
-    {
-        "index": "26146",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_26146.json",
-        "negative_strings": [
-            "c",
-            "\u2581folgenden",
-            "\u2581halben",
-            "\u2581sebesar",
-            "b",
-            "(",
-            "\u2581folgende",
-            "pro",
-            "\u2581lehet\u0151s",
-            "\u2581gesamten"
-        ],
-        "positive_strings": [
-            "\u2581betweenstory",
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
             "rungsseite",
-            "\u2581kasarigan",
-            "exitRule",
-            "\u2581singer",
-            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
-            "\u2581cuisines",
-            "\u2581\u017fche",
-            "\u2581novelist",
-            "\u2581actress"
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
         ],
-        "description": "mentions of specific nationalities or ethnicities"
+        "description": " phrases indicating significant events or opportunities"
     },
     {
-        "index": "5520",
+        "index": "56588",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_5520.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a muslim\\data_for_feature_56588.json",
         "negative_strings": [
-            "parsedMessage",
-            "\u2581Merdeka",
-            "\u2581Brutus",
-            "UALA",
-            "arsus",
-            "\u2581Shakspeare",
-            "\u2581seepage",
-            "Bravo",
-            "MLLoader",
-            "\"])){"
-        ],
-        "positive_strings": [
-            "\u2581religi\u00f3n",
-            "\u2581religions",
-            "\u2581religion",
-            "\u2581religious",
-            "\u2581religione",
-            "\u2581faiths",
-            "\u2581Religious",
-            "religious",
-            "\u2581religiosas",
-            "\u2581Muslim"
-        ],
-        "description": "references to different religions and faith traditions, particularly in the context of interfaith interactions and relationships"
-    },
-    {
-        "index": "94614",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_94614.json",
-        "negative_strings": [
-            "pulseira",
-            "convite",
-            "accompag",
-            "\u2581kepad",
-            "\u2581Umfang",
-            "\u2581penanganan",
-            "\u2581Aufwand",
-            "\u2581serangan",
-            "\u2581traseiro",
-            "\u2581financeira"
-        ],
-        "positive_strings": [
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
             "\u2581disambiguazione",
-            "webElementXpaths",
-            "\u2581artists",
-            "\u2581youth",
-            "NameInMap",
-            "providedIn",
-            "\u2581millennial",
-            "\u2581voices",
-            "ValueStyle",
-            "\u2581\u064a\u062a\u064a\u0645\u0647"
-        ],
-        "description": "references to Indigenous and Pacific identities and cultures"
-    },
-    {
-        "index": "37529",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_37529.json",
-        "negative_strings": [
-            "CloseOperation",
-            "Personendaten",
-            "gr\u00e0",
-            "\u2581Ratna",
-            "FileDescriptor",
-            "jeeling",
-            "NSIndexPath",
-            "asih",
-            "shadowRadius",
-            "\u2581Inf\u00f3rmanos"
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
         ],
         "positive_strings": [
-            "\u2581Islam",
-            "\u2581Islamic",
-            "\u2581Muslim",
-            "Islam",
-            "\u2581Muslims",
-            "Islamic",
-            "Muslim",
-            "islam",
-            "\u2581mosques",
-            "\u2581ISLAM"
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
         ],
-        "description": " terms and references related to Islam and its practices"
-    },
-    {
-        "index": "129402",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_129402.json",
-        "negative_strings": [
-            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627\u06cc",
-            "PostInfinity",
-            "\u2581nakalista",
-            "UnusedPrivate",
-            "\u2581besk",
-            "\u21d1",
-            "(!__",
-            "\u2581typelib",
-            "\u2581snippetHide",
-            "\u2581kaarangay"
-        ],
-        "positive_strings": [
-            "AddTagHelper",
-            "Referencies",
-            "\u2581actionMode",
-            "readlines",
-            "LabelTagHelper",
-            "ParallelGroup",
-            "WriteLiteral",
-            "RSpec",
-            "\u2581JSTOR",
-            "\u2581rowspan"
-        ],
-        "description": "references to women and racial minorities in various contexts"
-    },
-    {
-        "index": "74369",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_74369.json",
-        "negative_strings": [
-            "PYX",
-            "\u2581ganzen",
-            "typeorm",
-            "\u2581Kauai",
-            "arakhand",
-            "gef\u00fc",
-            "\u2581gust\u00f3",
-            "\u2581statunit",
-            "UVWXYZ",
-            "ama\u00f1o"
-        ],
-        "positive_strings": [
-            "\u2581Islamic",
-            "\u2581mosques",
-            "\u2581mosque",
-            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
-            "Islamic",
-            "\u2581Muslims",
-            "\u2581Islam",
-            "\u2581Mosque",
-            "MENAFN",
-            "\u2581Muslim"
-        ],
-        "description": " references to historical figures and governing bodies in the context of leadership and politics"
-    },
-    {
-        "index": "68938",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a muslim/data_for_feature_68938.json",
-        "negative_strings": [
-            "\u2581SimpleName",
-            "TheReal",
-            "\u2581TextAppearance",
-            "Jest",
-            "\u2581Frankrijk",
-            "IAm",
-            "Whatever",
-            "Has",
-            "berdayakan",
-            "\u2581Grecs"
-        ],
-        "positive_strings": [
-            "\u2581okuyay\u0131m",
-            "\u2581jadx",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "\u2581@\"/",
-            "\u062d\u064a\u0627\u062a\u0647",
-            "\u2581resourceCulture",
-            "\u2581maths",
-            ":\u2728",
-            "\u062d\u064a\u0627\u062a\u0647\u0627",
-            "\u2581mouseY"
-        ],
-        "description": " references to geographical locations and institutions"
+        "description": " occurrences of the word \"a\""
     }
 ]

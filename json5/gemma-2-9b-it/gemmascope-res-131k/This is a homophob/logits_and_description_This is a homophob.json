@@ -1,8 +1,68 @@
 [
     {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
         "index": "2123",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_2123.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_2123.json",
         "negative_strings": [
             "\u2581autorytatywna",
             "DoubleQuotes",
@@ -30,9 +90,99 @@
         "description": "terms related to \"homo\" or \"homogeneity\" in various contexts"
     },
     {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
         "index": "46073",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_46073.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_46073.json",
         "negative_strings": [
             "\u2581Redacci\u00f3n",
             "ufac",
@@ -60,9 +210,129 @@
         "description": " variations and mentions related to the term \"home\""
     },
     {
+        "index": "126094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_126094.json",
+        "negative_strings": [
+            "parsedMessage",
+            "IVEREF",
+            "\u2581autorytatywna",
+            "MigrationBuilder",
+            "\u064a\u0645\u064a\u062f\u064a\u0627",
+            "R\u00fcyada",
+            "BufferException",
+            "utilisons",
+            "\u2581ModelExpression",
+            "endcsname"
+        ],
+        "positive_strings": [
+            "\u2581gay",
+            "\u2581LGBTQ",
+            "\u2581LGBT",
+            "LGBT",
+            "\u2581homosexual",
+            "gay",
+            "\u2581queer",
+            "\u2581lesbian",
+            "\u2581homophobic",
+            "\u2581gays"
+        ],
+        "description": " mentions of sexual orientation and LGBTQ+ identities"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
         "index": "20328",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_20328.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_20328.json",
         "negative_strings": [
             "ValueStyle",
             "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
@@ -90,243 +360,93 @@
         "description": " terms related to homicides and the concept of \"homicide\" in various contexts"
     },
     {
-        "index": "18540",
+        "index": "55904",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_18540.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_55904.json",
         "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2581GetData",
-            "protoimpl",
-            "SizeF",
-            "*</",
-            "\u2581psal",
-            "\u2750",
-            "\u2581Sri",
-            "\u2581Persia",
-            "\u2581PEI"
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
         ],
         "positive_strings": [
-            "\u2581Hom",
-            "hom",
-            "\u2581HOM",
-            "Hom",
-            "\u2581hom",
-            "HOM",
-            "Home",
-            "Homer",
-            "home",
-            "\u2581Home"
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
         ],
-        "description": " terms related to homology and its applications in mathematics and biology"
+        "description": " occurrences of the word \"is.\""
     },
     {
-        "index": "49642",
+        "index": "50047",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_49642.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_50047.json",
         "negative_strings": [
-            "\u2581CreateTagHelper",
-            "\u2750",
-            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
-            "\u2581GetData",
-            "++];",
-            "************/",
-            "\u00c9gypte",
-            "psia",
-            "R\u00fcyada",
-            "\u2581Pisa"
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
         ],
         "positive_strings": [
-            "\u2581hom",
-            "\u2581Hom",
-            "Hom",
-            "hom",
-            "\u2581HOM",
-            "HOM",
-            "\u2581homo",
-            "\u2581homophobic",
-            "\u2581Homo",
-            "homo"
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
         ],
-        "description": " words related to homogeneity or home environments"
+        "description": " the word \"is\" in various contexts"
     },
     {
-        "index": "51179",
+        "index": "54929",
         "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_51179.json",
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a homophob\\data_for_feature_54929.json",
         "negative_strings": [
-            "adays",
-            "The",
-            "TotalCount",
-            "F\u00fcr",
-            "\u2581wich",
-            "po\u015bred",
-            "neath",
-            "\u2581Emeritus",
-            "amphetamine",
-            "La"
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
         ],
         "positive_strings": [
-            "\u00e9sult",
-            "\u2581\u043c\u04d9\u043a\u0430\u043b",
-            "mybatisplus",
-            "\u2581MainAxisSize",
-            "\u2581lizenzfreies",
-            "\u2581resourceCulture",
-            "Rhestr",
-            "\u2581kaarangay",
-            "\u2581defaultstate",
-            "VIAF"
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
         ],
-        "description": "terms related to body functionality and physiological processes"
-    },
-    {
-        "index": "36531",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_36531.json",
-        "negative_strings": [
-            "\u2581confronti",
-            "indest",
-            "acyj",
-            "\u2581AssemblyTitle",
-            "acyjnych",
-            "Czytaj",
-            "\u2581corazones",
-            "\u2581\u0123",
-            "struzioni",
-            "\u2581Mitteln"
-        ],
-        "positive_strings": [
-            "\u2581\u017fche",
-            "\u2581pok\u00e9mon",
-            "\u2581WooCommerce",
-            "\u2581Reiki",
-            "\u2581UEFI",
-            "\u2581streetwear",
-            "\u2581Bandcamp",
-            "\u2581Dogecoin",
-            "\u2581CrossFit",
-            "\u017fammen"
-        ],
-        "description": " references to cross-cutting concepts or themes"
-    },
-    {
-        "index": "15320",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_15320.json",
-        "negative_strings": [
-            "\u2581Ressource",
-            "\u2581u\u017fed",
-            "\u1ee1ng",
-            "\u2581\u043a\u04c0\u043e\u0448",
-            "\u2581it\u017felf",
-            "jidad",
-            "\u2581Briefe",
-            "Dynamo",
-            "RefreshToken",
-            "\u2581Pintura"
-        ],
-        "positive_strings": [
-            "Parcelize",
-            "\u00e9sult",
-            "\u2581ligiloj",
-            "\u2581mergeFrom",
-            "\u2581inform\u00e9e",
-            "\u2b95",
-            "InstanceState",
-            "PositiveButton",
-            "\u2581surla",
-            "Slf"
-        ],
-        "description": "names of characters or entities from a story or context"
-    },
-    {
-        "index": "93065",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_93065.json",
-        "negative_strings": [
-            "ModelAdmin",
-            "\ud83d\udc54",
-            "setVerticalGroup",
-            "addContainerGap",
-            "\u2581TextAppearance",
-            "\u2581BoxDecoration",
-            "rsiniz",
-            "\u2581p\u00fablicos",
-            "\u2581financiamiento",
-            "\u2581Ellos"
-        ],
-        "positive_strings": [
-            "\u2581assignment",
-            "\u2581Assignment",
-            "\u2581homework",
-            "\u2581assignments",
-            "Assignment",
-            "assignment",
-            "\u2581Assignments",
-            "\u2581Homework",
-            "homework",
-            "\u2581ASSIGNMENT"
-        ],
-        "description": " components and structure related to coding or programming in Java"
-    },
-    {
-        "index": "60867",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_60867.json",
-        "negative_strings": [
-            "a",
-            "in",
-            "able",
-            "\u0627",
-            "\u093e",
-            "aa",
-            "ability",
-            "\u306e\u3067",
-            "ao",
-            "en"
-        ],
-        "positive_strings": [
-            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
-            "\u2581BoxFit",
-            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
-            "\u2581desmotivaciones",
-            "mers",
-            "ming",
-            "\u2581AttributeSet",
-            "titleMargin",
-            "mmmmmm",
-            "AsUp"
-        ],
-        "description": "words related to names and animal references"
-    },
-    {
-        "index": "102714",
-        "layer": null,
-        "url": "json5/gemma-2-9b-it/gemmascope-res-131k/This is a homophob/data_for_feature_102714.json",
-        "negative_strings": [
-            "oredCriteria",
-            "\u2581\u017ftand",
-            "IntoConstraints",
-            "\u2581Administrativna",
-            "SharedDtor",
-            "vertising",
-            "msgTypes",
-            "\u2725",
-            "\u2581u\u017fe",
-            "SPJ"
-        ],
-        "positive_strings": [
-            "UnusedPrivate",
-            "addPreferredGap",
-            "WriteBarrier",
-            "lateinit",
-            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
-            "\u2581\u091a\u0940\u095b\u094b\u0902",
-            "iomanip",
-            "\u2581*/,",
-            "(@\"%@\",",
-            "IntPtr"
-        ],
-        "description": "evaluative phrases expressing quality or significance"
+        "description": " phrases indicating significant events or opportunities"
     }
 ]
