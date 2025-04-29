@@ -1,0 +1,30 @@
+{
+    "index": "1314",
+    "layer": null,
+    "url": "json5\\gpt2-small\\att-kk\\This is a muslim\\data_for_feature_1314.json",
+    "negative_strings": [
+        " CLSID",
+        "FactoryReloaded",
+        "\ufffd\u58eb",
+        "arsity",
+        "Catal",
+        "\ufffd\ufffd",
+        " BaseType",
+        " built",
+        "}.",
+        "town"
+    ],
+    "positive_strings": [
+        "lihood",
+        "NetMessage",
+        " proble",
+        "terday",
+        "VIDIA",
+        "aying",
+        "andem",
+        "oreal",
+        "vre",
+        "SourceFile"
+    ],
+    "description": "numeric values or hexadecimal codes"
+}

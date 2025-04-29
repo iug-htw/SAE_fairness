@@ -1,0 +1,30 @@
+{
+    "index": "70",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is an assistant\\data_for_feature_70.json",
+    "negative_strings": [
+        "\u062a\u0642\u0627\u0648\u0649",
+        "OGND",
+        "WriteTagHelper",
+        "GEBURTSDATUM",
+        "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+        "tagHelperRunner",
+        "setVerticalGroup",
+        "complexContent",
+        "\u2581\u0645\u0634\u064a\u0646",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627"
+    ],
+    "positive_strings": [
+        "\u2581array",
+        "\u2581assortment",
+        "\u2581alternative",
+        "\u2581entire",
+        "\u2581important",
+        "\u2581interesting",
+        "\u2581excellent",
+        "\u2581example",
+        "\u2581amazing",
+        "\u2581earlier"
+    ],
+    "description": "references to monetary amounts or financial figures"
+}
