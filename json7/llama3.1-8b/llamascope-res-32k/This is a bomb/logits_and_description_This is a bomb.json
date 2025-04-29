@@ -1,0 +1,392 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "22901",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_22901.json",
+        "negative_strings": [
+            "hire",
+            "ceae",
+            "gue",
+            "oldemort",
+            "OF",
+            "ynamo",
+            "\u00d8\u00a8\u00d9\u012a\u00d9\u0126",
+            "UPER",
+            "antha",
+            "pered"
+        ],
+        "positive_strings": [
+            "shell",
+            "arding",
+            "astic",
+            "arded",
+            "adier",
+            " disposal",
+            "astically",
+            "ard",
+            "proof",
+            " shelter"
+        ],
+        "description": "references to bombs or explosive devices"
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "29250",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_29250.json",
+        "negative_strings": [
+            "ceae",
+            "hire",
+            "edio",
+            "zure",
+            "\u00e8\u00af\u012b",
+            "htable",
+            "gue",
+            "lify",
+            "OF",
+            "umbnail"
+        ],
+        "positive_strings": [
+            "shell",
+            "astic",
+            "arded",
+            "arding",
+            "astically",
+            "ard",
+            "adier",
+            "ast",
+            " disposal",
+            "sh"
+        ],
+        "description": " references to bombs or explosive devices"
+    },
+    {
+        "index": "12068",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_12068.json",
+        "negative_strings": [
+            "ceae",
+            "edb",
+            " vitae",
+            "hire",
+            "lify",
+            "yte",
+            "\u00e8\u00af\u012b",
+            "lies",
+            "OF",
+            "\u00e0\u00a5\u0122\u00e0\u00a4\u00b8"
+        ],
+        "positive_strings": [
+            "shell",
+            "arded",
+            "astic",
+            "arding",
+            "ard",
+            "astically",
+            "adier",
+            " shell",
+            " disposal",
+            "ast"
+        ],
+        "description": " references to bombs or explosive devices in various contexts"
+    },
+    {
+        "index": "26542",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_26542.json",
+        "negative_strings": [
+            "ceae",
+            "edb",
+            "ogue",
+            "lify",
+            "\u00e8\u00af\u012b",
+            "ync",
+            " vitae",
+            "umbs",
+            "yte",
+            "\u00e0\u00a5\u0122\u00e0\u00a4\u00b8"
+        ],
+        "positive_strings": [
+            "shell",
+            "arded",
+            "arding",
+            "astic",
+            "ard",
+            "astically",
+            "ast",
+            "adier",
+            "(shell",
+            " shell"
+        ],
+        "description": "references to bombs and explosive devices"
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "24123",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_24123.json",
+        "negative_strings": [
+            "ceae",
+            " vitae",
+            "ync",
+            "ogue",
+            "yte",
+            "izer",
+            "utton",
+            "lies",
+            "lify",
+            "edb"
+        ],
+        "positive_strings": [
+            "shell",
+            "arded",
+            "arding",
+            "astic",
+            "ard",
+            "adier",
+            "astically",
+            "ast",
+            " disposal",
+            "(shell"
+        ],
+        "description": "references to bombs and explosive devices"
+    },
+    {
+        "index": "3630",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_3630.json",
+        "negative_strings": [
+            " vitae",
+            "lies",
+            "ceae",
+            "OF",
+            "lify",
+            "yte",
+            "izer",
+            "gewater",
+            "ful",
+            "lop"
+        ],
+        "positive_strings": [
+            "shell",
+            "arded",
+            "arding",
+            "ard",
+            "astic",
+            "adier",
+            "astically",
+            " shell",
+            "(shell",
+            "ination"
+        ],
+        "description": " mentions of bombs and explosive devices"
+    },
+    {
+        "index": "5281",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_5281.json",
+        "negative_strings": [
+            " vitae",
+            "yte",
+            "izer",
+            "lify",
+            "ynamo",
+            "ful",
+            "gewater",
+            "antics",
+            "ibold",
+            "OF"
+        ],
+        "positive_strings": [
+            "shell",
+            "arded",
+            "arding",
+            "ard",
+            "astic",
+            "adier",
+            "astically",
+            "ination",
+            "(shell",
+            "ards"
+        ],
+        "description": "references to explosive devices or bombs"
+    },
+    {
+        "index": "29380",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_29380.json",
+        "negative_strings": [
+            " vitae",
+            "ibold",
+            "yte",
+            "ernals",
+            "lify",
+            " ngu",
+            "yt",
+            "oldem",
+            "ynamo",
+            "\u00e8\u00b2\u00a8"
+        ],
+        "positive_strings": [
+            "shell",
+            "arding",
+            "arded",
+            "ard",
+            "astic",
+            "astically",
+            "(shell",
+            "ards",
+            "adier",
+            " shell"
+        ],
+        "description": "terms related to explosive devices or bomb-related contexts"
+    },
+    {
+        "index": "28950",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "16424",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bomb\\data_for_feature_16424.json",
+        "negative_strings": [
+            "ernals",
+            "yte",
+            "ful",
+            "oldem",
+            ".slim",
+            " ngu",
+            " vitae",
+            "lify",
+            "yt",
+            "ogue"
+        ],
+        "positive_strings": [
+            "shell",
+            "arding",
+            "arded",
+            "ard",
+            "astic",
+            "astically",
+            "(shell",
+            "ards",
+            "ast",
+            "adier"
+        ],
+        "description": " references to explosive devices or bomb-related terms"
+    }
+]

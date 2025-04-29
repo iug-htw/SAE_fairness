@@ -1,0 +1,362 @@
+[
+    {
+        "index": "1112",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_1112.json",
+        "negative_strings": [
+            "oa",
+            "w",
+            "r\u00c3\u00a9",
+            "\u00d9\u012a",
+            "\u00d9\u0123",
+            "\u00ce\u00b7\u00cf\u0124",
+            "olik",
+            "oj",
+            "it",
+            "ol"
+        ],
+        "positive_strings": [
+            "aylor",
+            "rolley",
+            "igers",
+            "uesday",
+            "ress",
+            "etr",
+            "ailed",
+            "ourn",
+            "inker",
+            "akedown"
+        ],
+        "description": " occurrences of the letter \"t\""
+    },
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "32347",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_32347.json",
+        "negative_strings": [
+            "vanished",
+            "HTTPHeader",
+            " \u00d0\u00be\u00d0\u00b1\u00d0\u00be\u00d1\u0122",
+            "\u00d0\u00a1\u00d0\u0142",
+            "hours",
+            "nier",
+            "hythm",
+            "\">//",
+            " guarante",
+            "nonnull"
+        ],
+        "positive_strings": [
+            " cell",
+            " his",
+            " cells",
+            " he",
+            "innitus",
+            "20",
+            " shirts",
+            "utorials",
+            " shirt",
+            " here"
+        ],
+        "description": " occurrences of the letter 'T' in various contexts"
+    },
+    {
+        "index": "27100",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_27100.json",
+        "negative_strings": [
+            "\u00c3\u00a2y",
+            "rc",
+            "rt",
+            "rl",
+            "rang",
+            "\u00e1\u00bb\u00af",
+            "agt",
+            "\u00d9\u0123",
+            " (){",
+            "halt"
+        ],
+        "positive_strings": [
+            "issue",
+            "arry",
+            "inker",
+            "atum",
+            "etr",
+            "uck",
+            "rolley",
+            "onne",
+            " wo",
+            "ilda"
+        ],
+        "description": "multiple instances of the letter 'T' in various contexts"
+    },
+    {
+        "index": "20290",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_20290.json",
+        "negative_strings": [
+            "\u00d9\u0123",
+            " tap",
+            "oj",
+            " Appeal",
+            " Weber",
+            "rij",
+            "\u00ce\u00b7\u00cf\u0124",
+            "\u00d8\u00ac",
+            "\u00c3\u00a2y",
+            " BOT"
+        ],
+        "positive_strings": [
+            "aut",
+            "enuous",
+            "iring",
+            "edium",
+            "unic",
+            "angle",
+            "angles",
+            "armac",
+            "ingle",
+            "rolley"
+        ],
+        "description": " instances of the letter 't' in various contexts"
+    },
+    {
+        "index": "3326",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_3326.json",
+        "negative_strings": [
+            "rc",
+            "\u00e1\u00bb\u00af",
+            "\u00c3\u00a2y",
+            "agher",
+            "rt",
+            "rid",
+            "rl",
+            "RT",
+            "\u00d9\u0123",
+            " (){"
+        ],
+        "positive_strings": [
+            "issue",
+            "uck",
+            "inker",
+            " wo",
+            "onne",
+            "ars",
+            "old",
+            "arry",
+            "etr",
+            "atum"
+        ],
+        "description": " occurrences of specific typographical symbols or punctuation in text"
+    },
+    {
+        "index": "28950",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "15496",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_15496.json",
+        "negative_strings": [
+            "\u00c3\u00a2y",
+            "rc",
+            "\u00e1\u00bb\u00af",
+            "rt",
+            "agher",
+            "RT",
+            "rid",
+            "rl",
+            "rpc",
+            " (){"
+        ],
+        "positive_strings": [
+            "issue",
+            "inker",
+            "uck",
+            "old",
+            "arry",
+            "etr",
+            "atum",
+            "rolley",
+            "ilda",
+            " rue"
+        ],
+        "description": "capitalized letters at the beginning of sentences and after punctuation"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6553",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_6553.json",
+        "negative_strings": [
+            " behavi",
+            " pods",
+            " \u00e8\u00a3\u0131\u00e8",
+            " slic",
+            " prevail",
+            " defamation",
+            " mileage",
+            " Fargo",
+            " downhill",
+            " totality"
+        ],
+        "positive_strings": [
+            "oddy",
+            "rapnel",
+            "abby",
+            "akedown",
+            "apeshifter",
+            "unning",
+            "apesh",
+            "ivering",
+            "ackle",
+            "oving"
+        ],
+        "description": "names of people or characters with a strong emphasis on the letter \"h.\""
+    },
+    {
+        "index": "20701",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "11500",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_11500.json",
+        "negative_strings": [
+            " Gutenberg",
+            " balloon",
+            " Prairie",
+            " Petro",
+            " Bundy",
+            " Patriot",
+            " turrets",
+            " Nex",
+            " Garrison",
+            " convol"
+        ],
+        "positive_strings": [
+            "inical",
+            "inic",
+            "inate",
+            "ogi",
+            "its",
+            "azor",
+            "iah",
+            "erences",
+            "inates",
+            "rief"
+        ],
+        "description": "names related to Jewish rabbis, such as \"rabbi\" and various specific rabbi names"
+    },
+    {
+        "index": "5671",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_5671.json",
+        "negative_strings": [
+            "lda",
+            "IZE",
+            "govtrack",
+            "animate",
+            "most",
+            " Mongolia",
+            " Tigers",
+            "piece",
+            " Takeru",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9\u00e3\u0124\u00b4\u00e3\u0125\u00b3"
+        ],
+        "positive_strings": [
+            "ucket",
+            "abb",
+            "itt",
+            "arella",
+            "arre",
+            "azz",
+            "abis",
+            "its",
+            "alon",
+            "atel"
+        ],
+        "description": "names that contain the string \"abb\""
+    },
+    {
+        "index": "5015",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_5015.json",
+        "negative_strings": [
+            "lda",
+            "IZE",
+            "piece",
+            " CONTROL",
+            "stal",
+            " Tigers",
+            "govtrack",
+            "most",
+            " Takeru",
+            "animate"
+        ],
+        "positive_strings": [
+            "abb",
+            "ucket",
+            "itt",
+            "abis",
+            "azz",
+            "arella",
+            "arre",
+            "alon",
+            "aii",
+            "aday"
+        ],
+        "description": "references to Sabbath mode or related terms"
+    },
+    {
+        "index": "5778",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_5778.json",
+        "negative_strings": [
+            " miles",
+            " descend",
+            " suit",
+            " descending",
+            " moons",
+            " phone",
+            " angels",
+            " chant",
+            " viewers",
+            " LDS"
+        ],
+        "positive_strings": [
+            "ghai",
+            "\u0138\u013c",
+            "bole",
+            "reen",
+            "kat",
+            "lain",
+            "\u013c\u00e9\u0128\u0134",
+            "hei",
+            "tty",
+            "ogun"
+        ],
+        "description": "names of individuals or specific locations with potential significance"
+    },
+    {
+        "index": "10676",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_10676.json",
+        "negative_strings": [
+            "IZE",
+            " Tigers",
+            "stal",
+            "most",
+            " CONTROL",
+            "lda",
+            "piece",
+            " mobilize",
+            " appreciate",
+            " isolate"
+        ],
+        "positive_strings": [
+            "abb",
+            "ucket",
+            "itt",
+            "azz",
+            "abis",
+            "arella",
+            "agn",
+            "arre",
+            "alist",
+            "oyle"
+        ],
+        "description": "references to the Sabbath"
+    },
+    {
+        "index": "22114",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_22114.json",
+        "negative_strings": [
+            " Ajax",
+            "etheless",
+            "OLOGY",
+            " Reach",
+            "anwhile",
+            " Leth",
+            "ertodd",
+            "DragonMagazine",
+            "swer",
+            "PsyNetMessage"
+        ],
+        "positive_strings": [
+            "atters",
+            "uff",
+            "ooting",
+            "ippers",
+            "ifts",
+            "oddy",
+            "aku",
+            "irts",
+            "agged",
+            "apesh"
+        ],
+        "description": "words related to actions involving force or intensity"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "1759",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_1759.json",
+        "negative_strings": [
+            "etheless",
+            "swer",
+            " Ajax",
+            " Reach",
+            "icted",
+            "ertodd",
+            "ortium",
+            "rontal",
+            "OLOGY",
+            " Sons"
+        ],
+        "positive_strings": [
+            "atters",
+            "uff",
+            "apesh",
+            "osh",
+            "ifts",
+            "irts",
+            "aku",
+            "ooting",
+            "UFF",
+            "rapnel"
+        ],
+        "description": "keywords related to the concept of \"sh\""
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "1639",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_1639.json",
+        "negative_strings": [
+            " dwarf",
+            " Verse",
+            " snipp",
+            " straw",
+            " phenomen",
+            " skelet",
+            " discrimination",
+            " astronomical",
+            " dormant",
+            " jealousy"
+        ],
+        "positive_strings": [
+            "uilding",
+            "urger",
+            "assador",
+            "assadors",
+            "urg",
+            "iar",
+            "ria",
+            "uca",
+            "odied",
+            "augh"
+        ],
+        "description": "the word 'amb' in different contexts and possibly names or terms related to law or prosecution"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "21960",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_21960.json",
+        "negative_strings": [
+            "elaide",
+            " Django",
+            " Cambodia",
+            " Laos",
+            " Cambod",
+            " Philippine",
+            " Philippines",
+            " Rodrigo",
+            " Newfoundland",
+            " Yugoslav"
+        ],
+        "positive_strings": [
+            " Yose",
+            "aretz",
+            " Schne",
+            "\u00d7\u0136",
+            "\u00d7",
+            "\u00d7\u00aa",
+            " Mord",
+            " \u00d7",
+            " Herz",
+            "\u00d7\u013e"
+        ],
+        "description": "references to official statements or announcements"
+    },
+    {
+        "index": "22087",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_22087.json",
+        "negative_strings": [
+            " recurring",
+            " totality",
+            " timely",
+            " heartbeat",
+            " prevail",
+            " behavi",
+            " prev",
+            " differently",
+            " Tonight",
+            " epis"
+        ],
+        "positive_strings": [
+            "utterstock",
+            "akespeare",
+            "annon",
+            "ooting",
+            "ogun",
+            "ameless",
+            "opping",
+            "awn",
+            "adows",
+            "oulder"
+        ],
+        "description": "names of churches and locations"
+    },
+    {
+        "index": "18946",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_18946.json",
+        "negative_strings": [
+            " relying",
+            " doubling",
+            " proportion",
+            " today",
+            " right",
+            " multiplied",
+            " longer",
+            " shortened",
+            " now",
+            " showing"
+        ],
+        "positive_strings": [
+            "ALT",
+            "ANG",
+            "ANS",
+            "ONDON",
+            "ENG",
+            "ANA",
+            "ARR",
+            "ERE",
+            "reetings",
+            "ALE"
+        ],
+        "description": "names of places or people starting with the letter 'H'"
+    },
+    {
+        "index": "1210",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_1210.json",
+        "negative_strings": [
+            " totality",
+            " Lans",
+            " pressure",
+            " Bun",
+            " spitting",
+            " feed",
+            " prevail",
+            " advers",
+            " intermitt",
+            " Ajax"
+        ],
+        "positive_strings": [
+            "apes",
+            "ampoo",
+            "irts",
+            "ipment",
+            "rimp",
+            "uffle",
+            "apeshifter",
+            "ooter",
+            "orts",
+            "ifting"
+        ],
+        "description": "mentions of a specific brand of rock climbing shoes"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "3236",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is shabbat\\data_for_feature_3236.json",
+        "negative_strings": [
+            "rils",
+            "ospels",
+            " Cosponsors",
+            "rals",
+            "ousands",
+            "viks",
+            " IMAGES",
+            "ATURES",
+            " Flavoring",
+            "osures"
+        ],
+        "positive_strings": [
+            "speak",
+            " territory",
+            " shorthand",
+            " jargon",
+            " heaven",
+            " slang",
+            " fodder",
+            " nonsense",
+            " bullshit",
+            " bait"
+        ],
+        "description": "terms related to technology and hacking"
+    }
+]

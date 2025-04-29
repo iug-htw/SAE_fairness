@@ -1,0 +1,392 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "12586",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_12586.json",
+        "negative_strings": [
+            "illez",
+            "erator",
+            "erap",
+            "eration",
+            "erton",
+            " rabbit",
+            "ihil",
+            "enance",
+            "onso",
+            "prise"
+        ],
+        "positive_strings": [
+            "ocese",
+            "urnal",
+            "aries",
+            "agonal",
+            " rect",
+            "agnost",
+            "RECT",
+            "ablo",
+            "rect",
+            "abol"
+        ],
+        "description": "terms associated with diabetes and related medical conditions"
+    },
+    {
+        "index": "26141",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_26141.json",
+        "negative_strings": [
+            " rabbit",
+            "erator",
+            "PLIER",
+            " Rabbit",
+            "rabbit",
+            "flix",
+            "illez",
+            "erton",
+            "imir",
+            "licant"
+        ],
+        "positive_strings": [
+            "aries",
+            "ocese",
+            "abol",
+            "urnal",
+            " rect",
+            "rect",
+            "RECT",
+            "agnost",
+            "odes",
+            "agonal"
+        ],
+        "description": "words related to dietary restrictions and health conditions, particularly diabetes"
+    },
+    {
+        "index": "19387",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_19387.json",
+        "negative_strings": [
+            "utter",
+            " rabbit",
+            "uli",
+            "rabbit",
+            " Rabbit",
+            ".nodeType",
+            "itten",
+            "\u00d8\u00a7\u00d8\u00a6\u00d8\u00b2",
+            " Hubb",
+            "mente"
+        ],
+        "positive_strings": [
+            "urnal",
+            "aphrag",
+            "ocese",
+            "abol",
+            "agnost",
+            "abolic",
+            "abet",
+            "atrib",
+            "abetic",
+            "rect"
+        ],
+        "description": "terms related to dioceses and ecclesiastical structures"
+    },
+    {
+        "index": "30363",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_30363.json",
+        "negative_strings": [
+            "erator",
+            "illez",
+            "utter",
+            "ihil",
+            "rowable",
+            "WithMany",
+            "icao",
+            "anh",
+            "enance",
+            "amoto"
+        ],
+        "positive_strings": [
+            "ocese",
+            " rect",
+            "aries",
+            "urnal",
+            "RECT",
+            "agonal",
+            "ablo",
+            "rect",
+            "\u00e1\u00bb",
+            "abol"
+        ],
+        "description": "terms related to various medical conditions and diseases"
+    },
+    {
+        "index": "13205",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_13205.json",
+        "negative_strings": [
+            "ihil",
+            "erator",
+            "prise",
+            "icao",
+            "onso",
+            "amoto",
+            "throp",
+            "umber",
+            "illez",
+            "\u00d8\u00a7\u00d8\u00a6\u00d8\u00b2"
+        ],
+        "positive_strings": [
+            "aries",
+            "ocese",
+            "urnal",
+            "agonal",
+            " rect",
+            "RECT",
+            "rect",
+            "ablo",
+            "abetes",
+            "odes"
+        ],
+        "description": "the presence of the prefix \"di-\" indicating different medical conditions or terms"
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "18964",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_18964.json",
+        "negative_strings": [
+            "ihil",
+            "aning",
+            "erator",
+            "clk",
+            "illez",
+            "\u00d1\u0138\u00d1\u0124\u00d1\u012e",
+            "_RCC",
+            "prise",
+            "throp",
+            "\u00d1\u012b"
+        ],
+        "positive_strings": [
+            "ocese",
+            "aries",
+            "agonal",
+            "urnal",
+            "rect",
+            " rect",
+            "RECT",
+            "ethyl",
+            "abetes",
+            "\u00e1\u00bb"
+        ],
+        "description": "terms related to diabetes and its medical aspects"
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "9109",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_9109.json",
+        "negative_strings": [
+            "an",
+            "aning",
+            "clk",
+            "irk",
+            "ihil",
+            "anou",
+            "erator",
+            "throp",
+            "_RCC",
+            "alis"
+        ],
+        "positive_strings": [
+            "aries",
+            "agonal",
+            "rect",
+            "ocese",
+            " Di",
+            "RECT",
+            "urnal",
+            ".Di",
+            "abetes",
+            " di"
+        ],
+        "description": "terms related to diabetes and its classification"
+    },
+    {
+        "index": "944",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_944.json",
+        "negative_strings": [
+            "o",
+            "ood",
+            "yat",
+            "y",
+            "ie",
+            "ar",
+            "ords",
+            "ww",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u0129",
+            "ell"
+        ],
+        "positive_strings": [
+            "v",
+            "es",
+            "heels",
+            "heat",
+            "itness",
+            "olves",
+            "onder",
+            "et",
+            "avelength",
+            "esen"
+        ],
+        "description": " instances of the letter 'w' in the text"
+    },
+    {
+        "index": "20513",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_20513.json",
+        "negative_strings": [
+            "aning",
+            "oring",
+            "an",
+            "irk",
+            "illez",
+            "ihil",
+            "clk",
+            "ilyn",
+            " Seks",
+            " \u00e7\u013f"
+        ],
+        "positive_strings": [
+            "aries",
+            "rect",
+            "RECT",
+            " Di",
+            ".Di",
+            "agonal",
+            "ocese",
+            " rect",
+            "urnal",
+            "Di"
+        ],
+        "description": "terms related to diabetes and medical classifications"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is diwali\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    }
+]

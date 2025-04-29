@@ -1,0 +1,362 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "22216",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_22216.json",
+        "negative_strings": [
+            "\u00e0\u00a4\u00a6",
+            "u",
+            "\u00d8\u00aa\u00d9\u0127",
+            "i",
+            "ak",
+            "\u00d9\u012a\u00d9\u0128",
+            "an",
+            "uan",
+            "osh",
+            "en"
+        ],
+        "positive_strings": [
+            "ields",
+            "vette",
+            "ea",
+            "acht",
+            "eo",
+            "achts",
+            "ves",
+            "asmine",
+            "ogi",
+            "OUN"
+        ],
+        "description": " mentions of the letter 'Y' in various contexts"
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "2178",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_2178.json",
+        "negative_strings": [
+            "ledo",
+            "ioned",
+            "lete",
+            "killer",
+            "\u00d9\u0128\u00d8\u00b2",
+            "\u00e9\u00a1",
+            "reds",
+            "\u00d0\u00bc\u00d0\u00be\u00d1\u0123",
+            "ysi",
+            "issance"
+        ],
+        "positive_strings": [
+            "psilon",
+            "ields",
+            "achts",
+            "tainment",
+            " chromosome",
+            "\u00e1\u00ba\u00bfu",
+            "acht",
+            "uforia",
+            "pres",
+            "\u00c3\u00aau"
+        ],
+        "description": "the letter 'Y' and its variations in different contexts"
+    },
+    {
+        "index": "18631",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_18631.json",
+        "negative_strings": [
+            "yer",
+            "\u00d9\u0128\u00d8\u00b2",
+            "izon",
+            "yield",
+            "ething",
+            "esine",
+            "ycler",
+            "iero",
+            "affer",
+            "\u00eb\u00a1"
+        ],
+        "positive_strings": [
+            "OUTH",
+            "ves",
+            "acht",
+            " chromosome",
+            "pres",
+            "ogy",
+            "OUN",
+            "von",
+            "oke",
+            "ucc"
+        ],
+        "description": " occurrences of the letter \"Y\" in various contexts"
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "26394",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_26394.json",
+        "negative_strings": [
+            "nya",
+            "sw",
+            "line",
+            "me",
+            "ti",
+            "sp",
+            "m",
+            "top",
+            "de",
+            "tr"
+        ],
+        "positive_strings": [
+            "frica",
+            "ught",
+            "conda",
+            "ugh",
+            "qua",
+            "fter",
+            "issance",
+            "ughty",
+            "stra",
+            "ughter"
+        ],
+        "description": " references to specific locations or identifiers related to articles or webpages"
+    },
+    {
+        "index": "31092",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_31092.json",
+        "negative_strings": [
+            "killer",
+            "OperationException",
+            "\u00d0\u00bc\u00d0\u00be\u00d1\u0123",
+            "\u00d9\u0128\u00d8\u00b2",
+            "\u00e0\u00b8\u00b8\u00e0\u00b8\u0137",
+            "ieg",
+            "ledo",
+            "ieve",
+            "resent",
+            "ysts"
+        ],
+        "positive_strings": [
+            "psilon",
+            "achts",
+            "ea",
+            "ves",
+            "acht",
+            "onder",
+            "ogi",
+            " chromosome",
+            "ields",
+            "von"
+        ],
+        "description": " occurrences of the letter \"Y\" in various contexts"
+    },
+    {
+        "index": "15935",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_15935.json",
+        "negative_strings": [
+            "iero",
+            "icher",
+            "alore",
+            "apore",
+            "killer",
+            "lete",
+            "\u00e5\u0142",
+            "\u00c3\u00a1st",
+            "icode",
+            "ysts"
+        ],
+        "positive_strings": [
+            "ea",
+            "psilon",
+            "atra",
+            "achts",
+            "acht",
+            "VES",
+            "ves",
+            "ields",
+            "von",
+            "ogi"
+        ],
+        "description": " instances of the letter 'Y' in various contexts"
+    },
+    {
+        "index": "9104",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_9104.json",
+        "negative_strings": [
+            "_mE",
+            "_tD",
+            "_mD",
+            "IFn",
+            "_mB",
+            "yalty",
+            "opus",
+            "chos",
+            "_tC",
+            "rosis"
+        ],
+        "positive_strings": [
+            "ves",
+            "vette",
+            "v",
+            "asmine",
+            "asser",
+            "von",
+            "ousse",
+            "usra",
+            "annis",
+            "van"
+        ],
+        "description": " occurrences of the letter 'Y'"
+    },
+    {
+        "index": "16318",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_16318.json",
+        "negative_strings": [
+            "yer",
+            "\u00d9\u0128\u00d8\u00b2",
+            "iero",
+            "izon",
+            "\u00d1\u0131\u00d0\u00b4",
+            "ething",
+            "affer",
+            "esine",
+            "issance",
+            "orean"
+        ],
+        "positive_strings": [
+            "acht",
+            "ucc",
+            "oke",
+            "psilon",
+            "\u00c3\u00aau",
+            "achts",
+            "pres",
+            " chromosome",
+            "\u00e1\u00ba\u00bfu",
+            "arn"
+        ],
+        "description": " the letter 'Y' in various contexts"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is Yajna\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    }
+]

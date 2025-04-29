@@ -1,0 +1,362 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "24891",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_24891.json",
+        "negative_strings": [
+            "odi",
+            "elect",
+            "\u00c6\u00b0\u00e1\u00bb\u013fi",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "issor",
+            "ignum",
+            "aurus",
+            "odyn",
+            "\u00eb\u00aa\u00a9",
+            "overlap"
+        ],
+        "positive_strings": [
+            "pow",
+            "shots",
+            "ned",
+            "smith",
+            "fight",
+            "ning",
+            "ners",
+            " violence",
+            "ner",
+            "fighter"
+        ],
+        "description": "terms related to guns and gun control"
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "8939",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_8939.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "issor",
+            "gard",
+            "vore",
+            "inject",
+            "uard",
+            " gunshot",
+            "cin",
+            " firearms",
+            "aurus"
+        ],
+        "positive_strings": [
+            "pow",
+            "metal",
+            "ned",
+            "ners",
+            "ny",
+            "ning",
+            "play",
+            "ner",
+            "smith",
+            "shots"
+        ],
+        "description": "references to guns and gun-related terminology"
+    },
+    {
+        "index": "11676",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_11676.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "tte",
+            "cue",
+            "hid",
+            "een",
+            "crast",
+            "cin",
+            "hra",
+            "gor",
+            "AsStream"
+        ],
+        "positive_strings": [
+            "pow",
+            "metal",
+            "ned",
+            "ning",
+            "ny",
+            "ners",
+            "shots",
+            "ner",
+            "boat",
+            "fight"
+        ],
+        "description": "references to guns and gun-related terminology"
+    },
+    {
+        "index": "27481",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_27481.json",
+        "negative_strings": [
+            "hra",
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "HORT",
+            "acus",
+            "cue",
+            "hid",
+            "\u00d8\u00aa\u00d9\u0128",
+            "Injection",
+            "aurus",
+            "oha"
+        ],
+        "positive_strings": [
+            "pow",
+            "ning",
+            "shots",
+            "ned",
+            "metal",
+            "smith",
+            "play",
+            "linger",
+            "ny",
+            "boat"
+        ],
+        "description": " terms related to firearms and gun control"
+    },
+    {
+        "index": "28950",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "18026",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_18026.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "hra",
+            "HORT",
+            "\u00a9",
+            "cue",
+            "\u00d8\u00aa\u00d9\u0128",
+            " bombing",
+            "merc",
+            "cloth",
+            "acus"
+        ],
+        "positive_strings": [
+            "pow",
+            "ned",
+            "ning",
+            "shots",
+            "metal",
+            "ny",
+            "linger",
+            "erals",
+            "ners",
+            "smith"
+        ],
+        "description": " references to firearms and gun-related terminology"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "10905",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a gun\\data_for_feature_10905.json",
+        "negative_strings": [
+            "\u00d0\u00b5\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "\u00a9",
+            "hra",
+            "cue",
+            "hid",
+            "acus",
+            " bombing",
+            "casts",
+            "cloth",
+            "cin"
+        ],
+        "positive_strings": [
+            "pow",
+            "ned",
+            "ning",
+            "erals",
+            "metal",
+            "linger",
+            "smith",
+            "ny",
+            "boat",
+            "play"
+        ],
+        "description": "references to guns and gun-related terms"
+    }
+]

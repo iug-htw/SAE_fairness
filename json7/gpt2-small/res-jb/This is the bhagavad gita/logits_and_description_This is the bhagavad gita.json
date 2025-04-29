@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6012",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_6012.json",
+        "negative_strings": [
+            " dispos",
+            " proprietary",
+            " bare",
+            " alone",
+            " legacy",
+            " captive",
+            " UP",
+            " NX",
+            " Grave",
+            " dup"
+        ],
+        "positive_strings": [
+            "illet",
+            "ibli",
+            "razil",
+            "rawling",
+            "antam",
+            "ingo",
+            "ilaterally",
+            "rawler",
+            "ribing",
+            "ribed"
+        ],
+        "description": "words related to political and social unrest, discontent, and conflict"
+    },
+    {
+        "index": "20701",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "1499",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_1499.json",
+        "negative_strings": [
+            " wanting",
+            " ever",
+            " Bears",
+            " compliments",
+            " greater",
+            " complete",
+            " helium",
+            " Admir",
+            " timet",
+            " homemade"
+        ],
+        "positive_strings": [
+            "opal",
+            "auri",
+            "urga",
+            "oyal",
+            "urb",
+            "aur",
+            "aut",
+            "anes",
+            "urd",
+            "iri"
+        ],
+        "description": "names of political figures, such as Gurchran Singh, along with relevant details about them"
+    },
+    {
+        "index": "16728",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_16728.json",
+        "negative_strings": [
+            "LOAD",
+            "backer",
+            " clim",
+            " thermal",
+            " welfare",
+            " stunning",
+            " worth",
+            " displacement",
+            " hint",
+            " speaking"
+        ],
+        "positive_strings": [
+            "enture",
+            "irtual",
+            "ilion",
+            "endish",
+            "antage",
+            "ocado",
+            "iolet",
+            "lov",
+            "irus",
+            "alli"
+        ],
+        "description": "phrases related to election outcomes"
+    },
+    {
+        "index": "12366",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_12366.json",
+        "negative_strings": [
+            " backwards",
+            " downhill",
+            " silence",
+            " sterling",
+            " NTS",
+            " Maker",
+            " sadd",
+            " ens",
+            " salv",
+            " backward"
+        ],
+        "positive_strings": [
+            "urai",
+            "ahime",
+            "onna",
+            "illac",
+            "orean",
+            "visor",
+            "rill",
+            "ragon",
+            "elta",
+            "emy"
+        ],
+        "description": "names of locations or organizations, particularly related to sports and other events"
+    },
+    {
+        "index": "9694",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_9694.json",
+        "negative_strings": [
+            "\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2",
+            " Tec",
+            "e",
+            " Neph",
+            " outstanding",
+            " AMERICA",
+            " Kaepernick",
+            " trademark",
+            " academics",
+            " captcha"
+        ],
+        "positive_strings": [
+            "reement",
+            "glers",
+            "azine",
+            "glomer",
+            "reements",
+            "oras",
+            "reed",
+            "lio",
+            "roup",
+            "ittal"
+        ],
+        "description": "astrological terms related to planetary alignments and their effects"
+    },
+    {
+        "index": "16831",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_16831.json",
+        "negative_strings": [
+            " reversible",
+            " sto",
+            " motion",
+            " supplemental",
+            " steroids",
+            " Grizzlies",
+            " victim",
+            " uneven",
+            " uniformly",
+            " couch"
+        ],
+        "positive_strings": [
+            "utan",
+            "ikk",
+            "awan",
+            "avan",
+            "ogle",
+            "agy",
+            "ush",
+            "adra",
+            "ui",
+            "ag"
+        ],
+        "description": "mentions of names or terms related to a specific person or entity (Bhargava)"
+    },
+    {
+        "index": "7734",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_7734.json",
+        "negative_strings": [
+            "oros",
+            "ividual",
+            "furt",
+            "otte",
+            "usters",
+            "igs",
+            "anches",
+            "forms",
+            "isco",
+            "rils"
+        ],
+        "positive_strings": [
+            " gist",
+            " extent",
+            " hardest",
+            " case",
+            " easiest",
+            " conclusion",
+            " toughest",
+            " biggest",
+            " essence",
+            " dilemma"
+        ],
+        "description": "definite articles 'the' in phrases pointing to a specific idea or message"
+    },
+    {
+        "index": "231",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_231.json",
+        "negative_strings": [
+            " Ideal",
+            "etheless",
+            " PATH",
+            " questioning",
+            " starters",
+            " derog",
+            " nutshell",
+            " antioxid",
+            " Manit",
+            " BAS"
+        ],
+        "positive_strings": [
+            "auntlet",
+            "ourmet",
+            "ilded",
+            "erman",
+            "urus",
+            "iddy",
+            "eeks",
+            "hou",
+            "umption",
+            "ushing"
+        ],
+        "description": "**adjectives starting with 'g'.**"
+    },
+    {
+        "index": "22820",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_22820.json",
+        "negative_strings": [
+            "e",
+            "enhagen",
+            "a",
+            " Weeks",
+            "eering",
+            " latch",
+            "aah",
+            "eus",
+            " FIFA",
+            " hitters"
+        ],
+        "positive_strings": [
+            "ulhu",
+            "ofer",
+            "ythm",
+            "agen",
+            "atever",
+            "uana",
+            "merga",
+            "ilde",
+            "llor",
+            "arel"
+        ],
+        "description": "Names of individuals"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "8555",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_8555.json",
+        "negative_strings": [
+            " Parenthood",
+            " Hurricanes",
+            " defendant",
+            " numbered",
+            " comma",
+            " stead",
+            " plaintiff",
+            " fossil",
+            " hurry",
+            " Commonwealth"
+        ],
+        "positive_strings": [
+            "agging",
+            "gers",
+            "reement",
+            "raf",
+            "roup",
+            "gress",
+            "ogo",
+            "aming",
+            "uild",
+            "reements"
+        ],
+        "description": "word parts related to the fictional character \"Aragorn\" from \"The Lord of the Rings.\""
+    },
+    {
+        "index": "13763",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_13763.json",
+        "negative_strings": [
+            " hypert",
+            " predis",
+            " Turing",
+            "ween",
+            " unfor",
+            "sofar",
+            "utenant",
+            " inclined",
+            " tightening",
+            " hierarchical"
+        ],
+        "positive_strings": [
+            "irus",
+            "atars",
+            "ille",
+            "ihara",
+            "arro",
+            "oided",
+            "atar",
+            "av",
+            "ascular",
+            "ocado"
+        ],
+        "description": "terms related to a specific word ending with \"av\""
+    },
+    {
+        "index": "6108",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_6108.json",
+        "negative_strings": [
+            "OPLE",
+            "\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            "\u00e6\u00a9\u0141",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            " Deity",
+            " XY",
+            "?????-?????-",
+            "tenance",
+            "Plex",
+            " Resurrection"
+        ],
+        "positive_strings": [
+            "ibli",
+            "abb",
+            "ibliography",
+            "rows",
+            "idd",
+            "raid",
+            "aked",
+            "uch",
+            "rawn",
+            "imb"
+        ],
+        "description": "words starting with the letter 'b' with a high level of activation"
+    },
+    {
+        "index": "66",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_66.json",
+        "negative_strings": [
+            "\u0143\u00b7",
+            " shorth",
+            " sidx",
+            "\u0128\u0134",
+            " Purg",
+            " Impossible",
+            "ANGE",
+            " Ragnarok",
+            " Oo",
+            " Weir"
+        ],
+        "positive_strings": [
+            "venture",
+            "vance",
+            "ventures",
+            "apter",
+            "idas",
+            "rill",
+            "roit",
+            "vertis",
+            "mir",
+            "enza"
+        ],
+        "description": "the word \"ad\" with the numerical value 9 or 10"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "21361",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_21361.json",
+        "negative_strings": [
+            " tremend",
+            "EStream",
+            " nomine",
+            "\u00e3\u0125\u00af",
+            " notor",
+            " mosqu",
+            " confir",
+            " Collider",
+            "enhagen",
+            " indo"
+        ],
+        "positive_strings": [
+            "awk",
+            "orses",
+            "anging",
+            "oused",
+            "airy",
+            "ulk",
+            "oney",
+            "wy",
+            "onest",
+            "anks"
+        ],
+        "description": "names or words with the letter 'h' with activation value of 9 or 10"
+    },
+    {
+        "index": "1850",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_1850.json",
+        "negative_strings": [
+            " Parenthood",
+            " Hurricanes",
+            " defendant",
+            " AMERICA",
+            " stead",
+            " Sons",
+            " Long",
+            " Cue",
+            " Chr",
+            " pot"
+        ],
+        "positive_strings": [
+            "raf",
+            "ag",
+            "reens",
+            "agging",
+            "reement",
+            "rap",
+            "ogo",
+            "reements",
+            "gers",
+            "inning"
+        ],
+        "description": "words related to 'ag' such as \"saccharine\""
+    },
+    {
+        "index": "7544",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is the bhagavad gita\\data_for_feature_7544.json",
+        "negative_strings": [
+            " Macron",
+            " Alger",
+            " Liberia",
+            " Canary",
+            " Levant",
+            " Libyan",
+            " McCl",
+            " Belgian",
+            " DW",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            "akra",
+            "\u00e1\u00b9",
+            "arya",
+            "\u00c4\u0123",
+            "atha",
+            "atri",
+            "anas",
+            "aram",
+            "aya",
+            "adh"
+        ],
+        "description": "spiritual and religious concepts and terminology"
+    }
+]

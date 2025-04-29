@@ -1,0 +1,572 @@
+[
+    {
+        "index": "18516",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_18516.json",
+        "negative_strings": [
+            " proceeds",
+            " clipboard",
+            " Minority",
+            " slope",
+            " commercially",
+            " prem",
+            " downhill",
+            " nowhere",
+            " reciprocal",
+            " only"
+        ],
+        "positive_strings": [
+            "arrass",
+            "uddled",
+            "overed",
+            "ormon",
+            "odge",
+            "ouston",
+            "iked",
+            "uddle",
+            "atching",
+            "ounding"
+        ],
+        "description": "words related to financial news and market data"
+    },
+    {
+        "index": "20701",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "8911",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_8911.json",
+        "negative_strings": [
+            " Garden",
+            "e",
+            " survival",
+            " defe",
+            " innocence",
+            " positives",
+            " unforeseen",
+            " liberties",
+            " ignorance",
+            " mission"
+        ],
+        "positive_strings": [
+            "uyomi",
+            "ngth",
+            "ansas",
+            "irk",
+            "ileaks",
+            "iewicz",
+            "umar",
+            "isson",
+            "istani",
+            "ilde"
+        ],
+        "description": "names of individuals"
+    },
+    {
+        "index": "13838",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_13838.json",
+        "negative_strings": [
+            " alike",
+            " treat",
+            " juices",
+            " arts",
+            " rule",
+            " Rica",
+            " attention",
+            " JUSTICE",
+            " fill",
+            " balance"
+        ],
+        "positive_strings": [
+            "awks",
+            "awk",
+            "olics",
+            "renheit",
+            "olic",
+            "ouston",
+            "ouse",
+            "uman",
+            "atche",
+            "annah"
+        ],
+        "description": "phrases related to kitchen knives and their quality"
+    },
+    {
+        "index": "22403",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_22403.json",
+        "negative_strings": [
+            "saf",
+            " Fior",
+            "Links",
+            " Abby",
+            " Elven",
+            "Proof",
+            " laureate",
+            " elves",
+            "Rew",
+            "Reloaded"
+        ],
+        "positive_strings": [
+            "ulkan",
+            "hov",
+            "htar",
+            "wu",
+            "hari",
+            "hin",
+            "umar",
+            "kies",
+            "ushima",
+            "unin"
+        ],
+        "description": "names or mentions of specific individuals"
+    },
+    {
+        "index": "16829",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_16829.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00af",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "\u00e9\u0139\u013a",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            "DragonMagazine",
+            "*/(",
+            "ortium",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "terday",
+            "\u00d4"
+        ],
+        "positive_strings": [
+            "oused",
+            "ousing",
+            "olly",
+            "acking",
+            "awk",
+            "ulk",
+            "anging",
+            "idd",
+            "oney",
+            "arrison"
+        ],
+        "description": "words related to height or emphasis"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "4443",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_4443.json",
+        "negative_strings": [
+            " Rollins",
+            " Collider",
+            " CPC",
+            "GROUP",
+            " Spoiler",
+            " Caribbean",
+            " Spotlight",
+            " Opportunity",
+            " Compass",
+            " Challenger"
+        ],
+        "positive_strings": [
+            "ahi",
+            " ja",
+            " ki",
+            "\u00c4\u00b1",
+            "\u00c3\u00a4",
+            " ke",
+            "inen",
+            " ka",
+            " kan",
+            "ku"
+        ],
+        "description": "Finnish words and phrases"
+    },
+    {
+        "index": "19188",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_19188.json",
+        "negative_strings": [
+            "\u013b\u0124",
+            "Flight",
+            "staking",
+            " Scal",
+            " fertile",
+            "STE",
+            " Perspective",
+            "Parts",
+            " trace",
+            "weights"
+        ],
+        "positive_strings": [
+            "ulkan",
+            "umar",
+            "ovych",
+            "uk",
+            "irk",
+            "raine",
+            "erala",
+            "ileaks",
+            "eness",
+            "akis"
+        ],
+        "description": "the term \"UK\" or mentions related to the UK"
+    },
+    {
+        "index": "19846",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_19846.json",
+        "negative_strings": [
+            "upon",
+            "\u00ef\u00b8\u0131",
+            " zero",
+            " sadd",
+            "gently",
+            " bells",
+            "s",
+            " course",
+            " liar",
+            " deficits"
+        ],
+        "positive_strings": [
+            "igans",
+            "ufact",
+            "ctuary",
+            "onymous",
+            "ghai",
+            "kees",
+            "thus",
+            "alyst",
+            "\u00c3\u00a7a",
+            "omaly"
+        ],
+        "description": "names that appear to end in 'an'"
+    },
+    {
+        "index": "9314",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_9314.json",
+        "negative_strings": [
+            " insured",
+            " fict",
+            " paycheck",
+            " fixation",
+            " advoc",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " totality",
+            " gobl",
+            " nomine",
+            " ubiquitous"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "awks",
+            "aha",
+            "olics",
+            "onda",
+            "ttp",
+            "oe",
+            "aban",
+            "ghan"
+        ],
+        "description": "the word \"ah\" with variations in intensity"
+    },
+    {
+        "index": "13874",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_13874.json",
+        "negative_strings": [
+            "Parts",
+            " Scal",
+            "cycles",
+            "Textures",
+            "Redditor",
+            "Flight",
+            " scales",
+            " actionGroup",
+            "strength",
+            "\u00d4"
+        ],
+        "positive_strings": [
+            "ulkan",
+            "uk",
+            "umar",
+            "irk",
+            "hov",
+            "ovych",
+            "erala",
+            "raine",
+            "akis",
+            "imura"
+        ],
+        "description": "mentions of the term \"UK\" and related terms"
+    },
+    {
+        "index": "16929",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_16929.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00af",
+            "\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            "\u00e9\u0139\u013a",
+            "DragonMagazine",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "*/(",
+            "ortium",
+            "\u00e3\u0125\u0137\u00e3\u0124\u00a9",
+            "ventus"
+        ],
+        "positive_strings": [
+            "oused",
+            "ousing",
+            "anging",
+            "olly",
+            "wy",
+            "arrison",
+            "acking",
+            "amed",
+            "awk",
+            "ulk"
+        ],
+        "description": "words related to heights or physical locations"
+    },
+    {
+        "index": "23303",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_23303.json",
+        "negative_strings": [
+            " fict",
+            " insured",
+            " totality",
+            " tremend",
+            " secretaries",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " insepar",
+            " advoc",
+            " ubiquitous",
+            " notor"
+        ],
+        "positive_strings": [
+            "renheit",
+            "awk",
+            "ttp",
+            "awks",
+            "ah",
+            "aha",
+            "tml",
+            "onda",
+            "olics",
+            "ghan"
+        ],
+        "description": "words related to a specific individual named \"Shah\" or \"Shahid.\""
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "15706",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_15706.json",
+        "negative_strings": [
+            "\u00ef\u00b8\u0131",
+            "\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124\u00c3\u0125\u00c3\u0124",
+            " guiIcon",
+            " WATCHED",
+            " ACTIONS",
+            "hovah",
+            "SOURCE",
+            "\u00e5\u012d",
+            "ensional",
+            "\u00e5\u00a7\u00ab"
+        ],
+        "positive_strings": [
+            "igans",
+            "onymous",
+            "esthetic",
+            "xiety",
+            "apolis",
+            "agher",
+            "alyst",
+            "thus",
+            "cient",
+            "than"
+        ],
+        "description": "the word \u201can\u201d followed by a word starting with a lowercase letter"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "1129",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is hanukkah\\data_for_feature_1129.json",
+        "negative_strings": [
+            " mosqu",
+            " behavi",
+            " emergencies",
+            " Harm",
+            " Palestin",
+            " decay",
+            " contraceptives",
+            "\u00e3\u0125\u00af",
+            " CLSID",
+            " recreate"
+        ],
+        "positive_strings": [
+            "ansas",
+            "rieg",
+            "idding",
+            "won",
+            "irk",
+            "oe",
+            "anski",
+            "k",
+            "orea",
+            "ulk"
+        ],
+        "description": "words related to modifications or alterations"
+    }
+]

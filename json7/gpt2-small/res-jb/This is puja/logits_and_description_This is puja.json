@@ -1,0 +1,572 @@
+[
+    {
+        "index": "20701",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "23593",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_23593.json",
+        "negative_strings": [
+            " Cosponsors",
+            " GOODMAN",
+            "hips",
+            "Interstitial",
+            "rawdownloadcloneembedreportprint",
+            "tyard",
+            "\u00e3\u0124\u00b7\u00e3\u0125\u00a3",
+            " Corinth",
+            "seeing",
+            "Irish"
+        ],
+        "positive_strings": [
+            " Pu",
+            "pport",
+            " pu",
+            "Fu",
+            "cci",
+            "ente",
+            "etooth",
+            "asa",
+            "pees",
+            "eco"
+        ],
+        "description": "words related to a common name or surname \"Pu\" along with different variations"
+    },
+    {
+        "index": "4763",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_4763.json",
+        "negative_strings": [
+            "ships",
+            "sheet",
+            "Catal",
+            "thumbnails",
+            "sworth",
+            "Interstitial",
+            "tile",
+            "ergy",
+            "sheets",
+            " ancest"
+        ],
+        "positive_strings": [
+            "ja",
+            "ivas",
+            "terday",
+            "udeau",
+            "\u00c5\u00a1",
+            "\u00c3\u00b1",
+            "avascript",
+            "quez",
+            "ataka",
+            "ury"
+        ],
+        "description": "words or phrases related to the name \"Smanja.\""
+    },
+    {
+        "index": "3236",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_3236.json",
+        "negative_strings": [
+            "rils",
+            "ospels",
+            " Cosponsors",
+            "rals",
+            "ousands",
+            "viks",
+            " IMAGES",
+            "ATURES",
+            " Flavoring",
+            "osures"
+        ],
+        "positive_strings": [
+            "speak",
+            " territory",
+            " shorthand",
+            " jargon",
+            " heaven",
+            " slang",
+            " fodder",
+            " nonsense",
+            " bullshit",
+            " bait"
+        ],
+        "description": "terms related to technology and hacking"
+    },
+    {
+        "index": "7794",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_7794.json",
+        "negative_strings": [
+            "cens",
+            "bread",
+            "edly",
+            "nz",
+            "liest",
+            "ez",
+            "court",
+            " Cruise",
+            "lain",
+            "fully"
+        ],
+        "positive_strings": [
+            "enna",
+            "agra",
+            "agara",
+            "abilities",
+            "plom",
+            "abetes",
+            "rosis",
+            "endish",
+            "pless",
+            "ocene"
+        ],
+        "description": "Spanish words"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "12794",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_12794.json",
+        "negative_strings": [
+            " Cosponsors",
+            "\u00e3\u0124\u00b7\u00e3\u0125\u00a3",
+            " GOODMAN",
+            "hips",
+            "tyard",
+            "\u00e3\u0125\u0142",
+            "seeing",
+            "Irish",
+            "ropolitan",
+            " UNIVERS"
+        ],
+        "positive_strings": [
+            " Pu",
+            " mosqu",
+            "Fu",
+            "pport",
+            "etooth",
+            " pu",
+            "ente",
+            "conservancy",
+            "eteenth",
+            "pload"
+        ],
+        "description": "words related to names containing \"Pu\""
+    },
+    {
+        "index": "4619",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_4619.json",
+        "negative_strings": [
+            " UKIP",
+            "\u00e5\u00a5\u00b3",
+            "abet",
+            "mone",
+            "CTV",
+            "redd",
+            " Sly",
+            "alez",
+            " Wiz",
+            "stros"
+        ],
+        "positive_strings": [
+            " meditation",
+            " Meditation",
+            " practice",
+            " Buddhism",
+            " teachings",
+            " retreat",
+            " practices",
+            " contempl",
+            " practise",
+            " Sut"
+        ],
+        "description": "words related to mindfulness and meditation"
+    },
+    {
+        "index": "24566",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_24566.json",
+        "negative_strings": [
+            "uese",
+            " peg",
+            "inav",
+            "aturdays",
+            " slips",
+            " encounters",
+            " hatch",
+            " muster",
+            " Towers",
+            "enture"
+        ],
+        "positive_strings": [
+            "rael",
+            "nt",
+            "cussion",
+            " hereby",
+            "senal",
+            "olate",
+            " definitely",
+            "\u0124\u0130",
+            " unlikely",
+            "claimer"
+        ],
+        "description": "phrases related to exposing or revealing information"
+    },
+    {
+        "index": "7544",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_7544.json",
+        "negative_strings": [
+            " Macron",
+            " Alger",
+            " Liberia",
+            " Canary",
+            " Levant",
+            " Libyan",
+            " McCl",
+            " Belgian",
+            " DW",
+            " Mexicans"
+        ],
+        "positive_strings": [
+            "akra",
+            "\u00e1\u00b9",
+            "arya",
+            "\u00c4\u0123",
+            "atha",
+            "atri",
+            "anas",
+            "aram",
+            "aya",
+            "adh"
+        ],
+        "description": "spiritual and religious concepts and terminology"
+    },
+    {
+        "index": "19832",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_19832.json",
+        "negative_strings": [
+            "itiz",
+            " respons",
+            " thereafter",
+            " thereof",
+            " accordingly",
+            "\u00e2\u0138\u00ba",
+            " outwe",
+            " thereto",
+            " moreover",
+            "?,"
+        ],
+        "positive_strings": [
+            "reetings",
+            "anmar",
+            " SHARES",
+            "zbollah",
+            "stanbul",
+            "avascript",
+            " Vegan",
+            " Updated",
+            " Introduction",
+            "o\u00c4\u0141an"
+        ],
+        "description": "phrases indicating the beginning of a story or anecdote"
+    },
+    {
+        "index": "4669",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_4669.json",
+        "negative_strings": [
+            " Cerberus",
+            " SPD",
+            "edly",
+            " POST",
+            " Abbey",
+            " indications",
+            " THREE",
+            " Colossus",
+            " reasonably",
+            " Athe"
+        ],
+        "positive_strings": [
+            "fts",
+            "ition",
+            "cci",
+            "pper",
+            "ber",
+            "ft",
+            "omas",
+            "iler",
+            "ples",
+            "fty"
+        ],
+        "description": "organizations or locations with the abbreviation \"Tu\" followed by a number"
+    },
+    {
+        "index": "7543",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_7543.json",
+        "negative_strings": [
+            "liness",
+            "mort",
+            " Eliot",
+            " English",
+            " Helpful",
+            " Remastered",
+            " unaffected",
+            "theless",
+            " POLITICO",
+            " Episcopal"
+        ],
+        "positive_strings": [
+            " Klux",
+            "ber",
+            "ente",
+            "lde",
+            "cci",
+            "bert",
+            "wait",
+            "ettel",
+            "berman",
+            "pping"
+        ],
+        "description": "mentions of political organizations"
+    },
+    {
+        "index": "8589",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is puja\\data_for_feature_8589.json",
+        "negative_strings": [
+            "owship",
+            "DERR",
+            "gers",
+            " Samar",
+            "iencies",
+            "ivism",
+            "ways",
+            "enance",
+            "sle",
+            "Beck"
+        ],
+        "positive_strings": [
+            "asus",
+            "ilon",
+            "sylvania",
+            "ongyang",
+            "emonium",
+            "atell",
+            "agate",
+            "ublic",
+            "lication",
+            "insula"
+        ],
+        "description": "places or events related to entertainment and local businesses"
+    }
+]

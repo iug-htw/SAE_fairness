@@ -1,0 +1,602 @@
+[
+    {
+        "index": "20701",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_20701.json",
+        "negative_strings": [
+            "aires",
+            "aws",
+            "zos",
+            "ials",
+            "isms",
+            "units",
+            "nings",
+            "iations",
+            "seen",
+            "mates"
+        ],
+        "positive_strings": [
+            " article",
+            " slideshow",
+            " concludes",
+            " repository",
+            " page",
+            " tutorial",
+            " week",
+            " is",
+            " isn",
+            " infographic"
+        ],
+        "description": "specific mention of dates, years, or events in a text"
+    },
+    {
+        "index": "19540",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_19540.json",
+        "negative_strings": [
+            "ses",
+            "anguages",
+            "Delete",
+            "\u00e2\u0135\u013a",
+            "forts",
+            "luaj",
+            "nesses",
+            "dozen",
+            "ysis",
+            "olls"
+        ],
+        "positive_strings": [
+            " why",
+            " how",
+            " where",
+            " happening",
+            " definitely",
+            " what",
+            " gonna",
+            " NOT",
+            " supposed",
+            " probably"
+        ],
+        "description": "the word \"is\" at a high activation level"
+    },
+    {
+        "index": "6986",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_6986.json",
+        "negative_strings": [
+            " dec",
+            " Nazis",
+            " occurrences",
+            " unions",
+            " Thousand",
+            " Twelve",
+            " Union",
+            " Titanic",
+            " shout",
+            " Devil"
+        ],
+        "positive_strings": [
+            "mediate",
+            "mediately",
+            "perial",
+            "plementation",
+            "minent",
+            "prison",
+            "agin",
+            "plement",
+            "manuel",
+            "agine"
+        ],
+        "description": "technical cooking terms and instructions"
+    },
+    {
+        "index": "2243",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_2243.json",
+        "negative_strings": [
+            "lyak",
+            "pert",
+            "venge",
+            "verting",
+            "kas",
+            "mson",
+            " dozen",
+            "kel",
+            "lf",
+            "veyard"
+        ],
+        "positive_strings": [
+            " understatement",
+            " exaggeration",
+            " indication",
+            " integral",
+            " embarrassment",
+            " impossibility",
+            "ody",
+            " anomaly",
+            " insult",
+            " example"
+        ],
+        "description": "adjectives followed by nouns to describe opinions or issues"
+    },
+    {
+        "index": "24537",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_24537.json",
+        "negative_strings": [
+            "NetMessage",
+            "OPLE",
+            " Sack",
+            " royalties",
+            " slash",
+            " Mississ",
+            " Crus",
+            " Colleges",
+            " Morales",
+            " Waters"
+        ],
+        "positive_strings": [
+            "unity",
+            "itates",
+            "medi",
+            "itated",
+            "balanced",
+            "imi",
+            "itating",
+            "mediate",
+            "moral",
+            "ugi"
+        ],
+        "description": "the prefix \"im\" followed by various endings or suffixes"
+    },
+    {
+        "index": "23750",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_23750.json",
+        "negative_strings": [
+            " reflex",
+            " reim",
+            " elevated",
+            " Bir",
+            " revolving",
+            " sorely",
+            "hibit",
+            " MUCH",
+            " required",
+            " drawing"
+        ],
+        "positive_strings": [
+            "balanced",
+            "esters",
+            "bal",
+            "manent",
+            "itative",
+            "uning",
+            "itations",
+            "it",
+            "bec",
+            "amins"
+        ],
+        "description": "words related to Islamic terminology and institutions"
+    },
+    {
+        "index": "6572",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_6572.json",
+        "negative_strings": [
+            "verting",
+            "mson",
+            "ware",
+            "kel",
+            "selves",
+            "pes",
+            " Punk",
+            "foot",
+            "mann",
+            "lyak"
+        ],
+        "positive_strings": [
+            "cients",
+            "abolic",
+            "ointed",
+            "oint",
+            "OTHER",
+            "inventoryQuantity",
+            " assortment",
+            " ordinary",
+            " imaginary",
+            "alogue"
+        ],
+        "description": "numbers in a text document"
+    },
+    {
+        "index": "22559",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_22559.json",
+        "negative_strings": [
+            "NetMessage",
+            " Whitman",
+            "yards",
+            " Hitch",
+            " Bever",
+            " Sack",
+            "OPLE",
+            " slash",
+            " Rudd",
+            " Colleges"
+        ],
+        "positive_strings": [
+            " im",
+            "balanced",
+            "unity",
+            "medi",
+            "imi",
+            "itated",
+            "itates",
+            "ugi",
+            "mediate",
+            "manent"
+        ],
+        "description": "the prefix \"im-\" followed by a word"
+    },
+    {
+        "index": "18089",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_18089.json",
+        "negative_strings": [
+            " Phelps",
+            " hereafter",
+            " these",
+            "\u00e2\u0122\u0142",
+            " Waters",
+            "lessness",
+            "icides",
+            " Saban",
+            "\u2014\"",
+            "\u2014"
+        ],
+        "positive_strings": [
+            " item",
+            " addon",
+            "catentry",
+            " article",
+            " gem",
+            " repository",
+            " recipe",
+            " episode",
+            " widget",
+            " week"
+        ],
+        "description": "information related to current events and news articles"
+    },
+    {
+        "index": "7040",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_7040.json",
+        "negative_strings": [
+            "Shape",
+            "Iv",
+            " looms",
+            "conn",
+            "ahu",
+            "eness",
+            " jaws",
+            "ibles",
+            "burgh",
+            "Bir"
+        ],
+        "positive_strings": [
+            " copyrighted",
+            " reprinted",
+            " deprecated",
+            " archived",
+            " sponsored",
+            " adapted",
+            " excerpt",
+            " outdated",
+            " incomplete",
+            " reproduced"
+        ],
+        "description": "time-related information such as age or duration"
+    },
+    {
+        "index": "22015",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_22015.json",
+        "negative_strings": [
+            "%:",
+            "lihood",
+            "ths",
+            "iphate",
+            ">]",
+            "witz",
+            "scl",
+            "querade",
+            "ership",
+            "thood"
+        ],
+        "positive_strings": [
+            " guest",
+            " transcription",
+            " transcript",
+            " subscriber",
+            " rush",
+            " newsp",
+            "catentry",
+            " stub",
+            " advertis",
+            " newcom"
+        ],
+        "description": "news-related terms"
+    },
+    {
+        "index": "13887",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_13887.json",
+        "negative_strings": [
+            "rils",
+            "effects",
+            "bats",
+            "byss",
+            "IED",
+            "acers",
+            "Effects",
+            "Versions",
+            "units",
+            "nces"
+        ],
+        "positive_strings": [
+            " continuation",
+            " VERY",
+            " tricky",
+            " rush",
+            " FANT",
+            " HUGE",
+            " topic",
+            " fantastic",
+            " pity",
+            " GREAT"
+        ],
+        "description": "discussions or mentions related to environmental impacts and concerns"
+    },
+    {
+        "index": "958",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_958.json",
+        "negative_strings": [
+            " Frazier",
+            " certain",
+            " given",
+            " Bott",
+            " Piper",
+            " McKay",
+            " knowing",
+            " rather",
+            " Chili",
+            " minus"
+        ],
+        "positive_strings": [
+            "cients",
+            "onymous",
+            "onym",
+            "notations",
+            "notation",
+            "agram",
+            "iversary",
+            "ointed",
+            "alysed",
+            "omaly"
+        ],
+        "description": "instances of the word \"an\""
+    },
+    {
+        "index": "21800",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_21800.json",
+        "negative_strings": [
+            " eleph",
+            " hub",
+            " hypot",
+            " displacement",
+            " prud",
+            " habit",
+            " offending",
+            " affected",
+            " contempor",
+            " contingency"
+        ],
+        "positive_strings": [
+            "WASHINGTON",
+            "Untitled",
+            "Abstract",
+            "CLOSE",
+            "Description",
+            "Overview",
+            "Welcome",
+            "SAN",
+            "LOS",
+            "TOR"
+        ],
+        "description": "phrases related to specific names or entities, potentially as part of a larger context"
+    },
+    {
+        "index": "8078",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_8078.json",
+        "negative_strings": [
+            "verting",
+            "ching",
+            "lyak",
+            "hem",
+            "pes",
+            " Punk",
+            " Brach",
+            "################",
+            "pert",
+            " Tyrann"
+        ],
+        "positive_strings": [
+            "alyses",
+            "notation",
+            "onym",
+            "alys",
+            "abolic",
+            " optional",
+            "notations",
+            "cill",
+            "inventoryQuantity",
+            "icipated"
+        ],
+        "description": "technical terms or concepts related to computer systems, networks, software, and algorithms"
+    },
+    {
+        "index": "17006",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_17006.json",
+        "negative_strings": [
+            "enges",
+            "atives",
+            "ernels",
+            "outs",
+            "ptions",
+            "rosso",
+            "downs",
+            "hips",
+            "sts",
+            "folios"
+        ],
+        "positive_strings": [
+            " poem",
+            " addon",
+            " theorem",
+            " subreddit",
+            " commenter",
+            " manuscript",
+            " playthrough",
+            " reviewer",
+            " trope",
+            " sermon"
+        ],
+        "description": "adjectives and nouns indicating personal experiences or stories"
+    },
+    {
+        "index": "22426",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_22426.json",
+        "negative_strings": [
+            "chuk",
+            "\u00e5\u012d",
+            " Vaugh",
+            "Things",
+            " Jagu",
+            "Allow",
+            "\u00e2\u0122\u0130",
+            "\u00e8\u00aa",
+            "=[",
+            " Wid"
+        ],
+        "positive_strings": [
+            "esthetic",
+            "omal",
+            "onymous",
+            "onym",
+            "versely",
+            "ointed",
+            "natureconservancy",
+            " glimpse",
+            "othes",
+            " unusually"
+        ],
+        "description": "phrases related to political statements or positions"
+    },
+    {
+        "index": "4865",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_4865.json",
+        "negative_strings": [
+            " edges",
+            " corners",
+            " occupants",
+            " tremend",
+            " dimensions",
+            " resemb",
+            " stakes",
+            " Sketch",
+            " masks",
+            " Dimensions"
+        ],
+        "positive_strings": [
+            "nesty",
+            "endment",
+            "sterdam",
+            "am",
+            "essage",
+            "ilies",
+            "bitious",
+            "ihara",
+            "borgh",
+            "urai"
+        ],
+        "description": "the word \"am\" preceded by different words"
+    },
+    {
+        "index": "18025",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_18025.json",
+        "negative_strings": [
+            "enaries",
+            "sburg",
+            "eers",
+            "seat",
+            "forts",
+            "Tour",
+            "eor",
+            "abal",
+            "score",
+            "bid"
+        ],
+        "positive_strings": [
+            " deprecated",
+            " hereby",
+            "omorphic",
+            "ometric",
+            " advisable",
+            " incompatible",
+            "rael",
+            " inherently",
+            " derived",
+            " defined"
+        ],
+        "description": "words related to policies and regulations"
+    },
+    {
+        "index": "19268",
+        "layer": null,
+        "url": "json7\\gpt2-small\\res-jb\\This is an imam\\data_for_feature_19268.json",
+        "negative_strings": [
+            "sters",
+            "MEN",
+            " Invalid",
+            "Parser",
+            " VICE",
+            "STDOUT",
+            " prosecutors",
+            "runners",
+            " libertarians",
+            " Soldiers"
+        ],
+        "positive_strings": [
+            "'s",
+            "ial",
+            "stration",
+            "\u00c3\u0143s",
+            "abase",
+            "ially",
+            "ship",
+            "SHIP",
+            "iate",
+            "oute"
+        ],
+        "description": "occupations"
+    }
+]
