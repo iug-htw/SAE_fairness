@@ -1,0 +1,30 @@
+{
+    "index": "4831",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is a casualty\\data_for_feature_4831.json",
+    "negative_strings": [
+        "\u2581AssemblyCulture",
+        "TagMode",
+        "\u2581&___",
+        "bootstrapcdn",
+        "\u2581AssemblyTitle",
+        "\u2581intptr",
+        "\u66d6\u6627\u3055\u56de\u907f",
+        "\u2581betweenstory",
+        "\u2581CreateTagHelper",
+        "RectangleBorder"
+    ],
+    "positive_strings": [
+        "Cash",
+        "\u2581Cash",
+        "Cas",
+        "\u2581CASH",
+        "\u2581Cas",
+        "cash",
+        "CASH",
+        "\u2581Kas",
+        "\u2581flow",
+        "Kas"
+    ],
+    "description": "references to money or cash in various contexts"
+}

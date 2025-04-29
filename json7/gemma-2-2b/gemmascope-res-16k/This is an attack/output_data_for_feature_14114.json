@@ -1,0 +1,30 @@
+{
+    "index": "14114",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is an attack\\data_for_feature_14114.json",
+    "negative_strings": [
+        "\u0421\u0422\u0412\u0410",
+        "GEBURTSDATUM",
+        "trl",
+        "(\"$.",
+        "OOO",
+        "caine",
+        "haltens",
+        "guli",
+        "Bett",
+        "NESS"
+    ],
+    "positive_strings": [
+        "\u2581Attacks",
+        "Attacks",
+        "\u2581attacks",
+        "attacks",
+        "\u2581ATTACK",
+        "ATTACK",
+        "\u2581MessageBoxIcon",
+        "\u2581Attack",
+        "WireFormatLite",
+        "\u2581Taktlose"
+    ],
+    "description": "references to attacks and violence"
+}

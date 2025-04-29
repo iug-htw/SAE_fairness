@@ -1,0 +1,30 @@
+{
+    "index": "2740",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is an injured person\\data_for_feature_2740.json",
+    "negative_strings": [
+        "\ueb9a",
+        "OGND",
+        "Port\u00e1ly",
+        "\u24e7",
+        "scribers",
+        "iastical",
+        "KommentareTeilen",
+        "\u2581Plague",
+        "tvguidetime",
+        "bolite"
+    ],
+    "positive_strings": [
+        "\u2581Person",
+        "Person",
+        "PERSON",
+        "\u2581\u0645\u0631\u0626\u064a\u0647",
+        "\u2581Persson",
+        "\u2581PERSON",
+        "als",
+        "Oso",
+        "\u2581person",
+        "ification"
+    ],
+    "description": " references to individuals or concepts related to 'person.'"
+}

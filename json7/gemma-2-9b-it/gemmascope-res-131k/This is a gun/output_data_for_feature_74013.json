@@ -1,0 +1,30 @@
+{
+    "index": "74013",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a gun\\data_for_feature_74013.json",
+    "negative_strings": [
+        "\u2581CreateTagHelper",
+        "ALLY",
+        "hithe",
+        "Personendaten",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "\u0bbf\u0b95\u0bcd\u0b95",
+        "RTSC",
+        "\u041f\u0440\u0438\u043c\u0456\u0442\u043a\u0438",
+        "RegressionTest",
+        "WriteTagHelper"
+    ],
+    "positive_strings": [
+        "\u2581GUN",
+        "Gun",
+        "\u2581guns",
+        "\u2581Gun",
+        "\u2581gun",
+        "Guns",
+        "GUN",
+        "\u2581Guns",
+        "gun",
+        "guns"
+    ],
+    "description": " terms related to firearms and weaponry"
+}

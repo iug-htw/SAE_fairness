@@ -1,0 +1,30 @@
+{
+    "index": "15771",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is a terror attack\\data_for_feature_15771.json",
+    "negative_strings": [
+        "<eos>",
+        ".",
+        "</i>",
+        "</b>",
+        ",",
+        "</code>",
+        "\u2581[",
+        "</em>",
+        "</strong>",
+        "</blockquote>"
+    ],
+    "positive_strings": [
+        "\u2581ujednoznacz",
+        "<bos>",
+        "\u2581Bioaccumulative",
+        "\u2581Paglinawan",
+        "utilisons",
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "\u2581cherch\u00e9s",
+        "StoryboardSegue",
+        "\u2581Italijani",
+        "oneofs"
+    ],
+    "description": "the character 'A' at the beginning of sentences or phrases"
+}

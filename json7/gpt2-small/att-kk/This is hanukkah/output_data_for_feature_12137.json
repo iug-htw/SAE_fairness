@@ -1,0 +1,30 @@
+{
+    "index": "12137",
+    "layer": null,
+    "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_12137.json",
+    "negative_strings": [
+        " CLSID",
+        "foundland",
+        "Discussion",
+        " Hilbert",
+        "arsity",
+        " SetTextColor",
+        " [|",
+        " BaseType",
+        " Period",
+        " referen"
+    ],
+    "positive_strings": [
+        "NetMessage",
+        "terness",
+        "terday",
+        "lihood",
+        " proble",
+        "bda",
+        "hess",
+        "etheless",
+        "esson",
+        "SourceFile"
+    ],
+    "description": "words related to specific place names, perhaps landmarks or locations"
+}

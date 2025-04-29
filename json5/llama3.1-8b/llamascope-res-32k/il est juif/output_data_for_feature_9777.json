@@ -1,0 +1,30 @@
+{
+    "index": "9777",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\il est juif\\data_for_feature_9777.json",
+    "negative_strings": [
+        "orthand",
+        "ecial",
+        "rophy",
+        "\u00c3\u00b3\u00c5\u0124",
+        "Ymd",
+        "\u00e1\u00ba\u00a5m",
+        "_REPLACE",
+        "urai",
+        "ProgressHUD",
+        "ABL"
+    ],
+    "positive_strings": [
+        "licit",
+        "logical",
+        "LEGAL",
+        "ustr",
+        "inois",
+        "legal",
+        "leg",
+        "umin",
+        "logic",
+        "frac"
+    ],
+    "description": "the Italian article \"Il\" and its variations in context"
+}
