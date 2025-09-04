@@ -1,0 +1,30 @@
+{
+    "index": "1811",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is a victim\\data_for_feature_1811.json",
+    "negative_strings": [
+        "\u2581\u05e9\u05d5\u05dc\u05d9\u05d9\u05dd",
+        "Diwedd",
+        "\u2581AssemblyCulture",
+        "\u0445\u044c\u0442\u0430\u043d",
+        "Referencies",
+        "mberto",
+        "KommentareTeilen",
+        "SpringRunner",
+        "AndEndTag",
+        "Diweddarwch"
+    ],
+    "positive_strings": [
+        "ized",
+        "ization",
+        "izer",
+        "izers",
+        "hood",
+        "HOOD",
+        "ize",
+        "izations",
+        "izing",
+        "ised"
+    ],
+    "description": "references to victims in various contexts, particularly related to abuse and discrimination"
+}

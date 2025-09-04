@@ -1,0 +1,30 @@
+{
+    "index": "2491",
+    "layer": null,
+    "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_2491.json",
+    "negative_strings": [
+        "EngineDebug",
+        "ILLE",
+        "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+        "\u00e3\u0125\u012b\u00e3\u0125\u00a9\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+        "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
+        "=~=~",
+        "\u00e5\u0143\u0132",
+        "\u00e3\u0123\u00a6",
+        "\u00e3\u0123\u00ae\u00e9\u0143\u0136",
+        "ARDS"
+    ],
+    "positive_strings": [
+        "Op",
+        " Op",
+        "osite",
+        "yright",
+        "aque",
+        "etr",
+        "ensibly",
+        "ober",
+        "uph",
+        "olicy"
+    ],
+    "description": "links or calls to action within text"
+}

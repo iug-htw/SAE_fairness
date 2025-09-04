@@ -1,0 +1,30 @@
+{
+    "index": "55302",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a terrorist\\data_for_feature_55302.json",
+    "negative_strings": [
+        "\u2581betreft",
+        "\u2581voran",
+        "middels",
+        "YPE",
+        "\u2581ucapnya",
+        "\u10e3\u10e0\u10d8",
+        "dracht",
+        "\u2581geluk",
+        "Medium",
+        "\u2581Medium"
+    ],
+    "positive_strings": [
+        "\u2581Terror",
+        "terror",
+        "Terror",
+        "\u2581terrorism",
+        "\u2581terror",
+        "\u2581Terrorism",
+        "\u2581terrorismo",
+        "\u2581terrorist",
+        "\u2581attack",
+        "\u2581threat"
+    ],
+    "description": "terms related to terrorism and terrorist organizations"
+}

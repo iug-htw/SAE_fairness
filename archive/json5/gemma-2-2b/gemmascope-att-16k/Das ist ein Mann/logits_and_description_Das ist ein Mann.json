@@ -1,0 +1,152 @@
+[
+    {
+        "index": "13166",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\Das ist ein Mann\\data_for_feature_13166.json",
+        "negative_strings": [
+            "\u2581Loew",
+            "brides",
+            "chossen",
+            "arkhand",
+            "CLUD",
+            "ceaux",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "ALLY",
+            "alition",
+            "\u2581het"
+        ],
+        "positive_strings": [
+            "Portail",
+            "\u2581geos",
+            "atguigu",
+            "FormTagHelper",
+            "\u2581Dimit",
+            "RectangleBorder",
+            "\u2581Doge",
+            "<h5>",
+            "\u2581ARP",
+            "\u2581<<<<<<<<<<<<<<"
+        ],
+        "description": " attends to the earliest token in the sequence from subsequent tokens marked by \"first.\""
+    },
+    {
+        "index": "12301",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\Das ist ein Mann\\data_for_feature_12301.json",
+        "negative_strings": [
+            "AndEndTag",
+            "GraphicsUnit",
+            "\u2581CreateTagHelper",
+            "AddTagHelper",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u24e7",
+            "\u2581MainAxisSize",
+            "GEBURTSDATUM",
+            "SequentialGroup",
+            "fillType"
+        ],
+        "positive_strings": [
+            "Demografia",
+            "\u2581Poche",
+            "rim",
+            "\u2581Moreno",
+            "\u2581kontrol",
+            "pov",
+            "esseract",
+            "\u2581Mancini",
+            "\u2581Entra",
+            "\u2581t\u00ecnh"
+        ],
+        "description": " attends to names or identifiers associated with notable figures or entities from various contexts"
+    },
+    {
+        "index": "3725",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\Das ist ein Mann\\data_for_feature_3725.json",
+        "negative_strings": [
+            "\u2581ein",
+            "\u2581nahilalakip",
+            "DockStyle",
+            "principalColumn",
+            "\u2581initComponents",
+            "Personendaten",
+            "SequentialGroup",
+            "Ein",
+            "\u2581EconPapers",
+            "CodedInputStream"
+        ],
+        "positive_strings": [
+            "\u2581gendar",
+            "\u2581montanha",
+            "\u2581inaczej",
+            "\u2581spolupr\u00e1",
+            "\u2581ravens",
+            "\u2581Humanos",
+            "\u2581&___",
+            "pography",
+            "tenham",
+            "\u2581\")["
+        ],
+        "description": " attends to tokens marked \"ein\" from subsequent tokens involving various forms of verb constructions"
+    },
+    {
+        "index": "5656",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\Das ist ein Mann\\data_for_feature_5656.json",
+        "negative_strings": [
+            "']?>",
+            "})*/",
+            "Musa",
+            "\u2581Lucerne",
+            "\u2581Musa",
+            "\u2581Arque",
+            "])))",
+            "\u0446\u0435\u0440\u0442",
+            "\u2581Veracruz",
+            "\u2581MSR"
+        ],
+        "positive_strings": [
+            "readystatechange",
+            "\u2581\ub530",
+            "\u5e16\u6700\u540e\u7531",
+            "LLocation",
+            "\u2581k\u00e6",
+            "orianCalendar",
+            "a\u017c",
+            "SuppressLint",
+            "\u043d\u0443\u0442\u0440\u0435\u043d",
+            "\u2581apport\u00e9"
+        ],
+        "description": " attends to capitalized acronyms or abbreviations from relevant contexts or terms in later positions"
+    },
+    {
+        "index": "12260",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\Das ist ein Mann\\data_for_feature_12260.json",
+        "negative_strings": [
+            "WriteTagHelper",
+            "Composable",
+            "ollectionView",
+            "\u2581posthum",
+            "\u2581extranjero",
+            "AsUp",
+            "\u2581affari",
+            "\u2581neg\u00f3cios",
+            "ItemBackground",
+            "IndentedString"
+        ],
+        "positive_strings": [
+            "\ue315",
+            "\u2581pinulongan",
+            "\u24e7",
+            "+:+",
+            "\u2581Eri\u015fim",
+            "}\")]",
+            "\u4f8b\u6587\u5e33\u306b\u8ffd\u52a0",
+            "(\"'\"",
+            "RoutingModule",
+            "\u2581***!"
+        ],
+        "description": "attends to ellipses from various surface elements or topics in the text"
+    }
+]

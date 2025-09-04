@@ -1,0 +1,30 @@
+{
+    "index": "11489",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a professor\\data_for_feature_11489.json",
+    "negative_strings": [
+        "yonel",
+        "providedIn",
+        "\u2581inform\u00e9e",
+        "Client",
+        "\u2581scouts",
+        "\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456",
+        "getClient",
+        "Skor",
+        "\u2581\u0935\u093f\u0936\u094d\u0935\u0938\u0928\u0940\u092f\u0924\u093e",
+        "\u2581Client"
+    ],
+    "positive_strings": [
+        "\u2581professor",
+        "\u2581Professor",
+        "Professor",
+        "professor",
+        "\u2581professors",
+        "\u2581faculty",
+        "\u2581PROFESSOR",
+        "\u2581Professors",
+        "\u2581profesor",
+        "\u2581lecturer"
+    ],
+    "description": "references to academic titles and positions"
+}

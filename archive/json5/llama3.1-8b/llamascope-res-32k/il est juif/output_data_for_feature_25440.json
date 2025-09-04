@@ -1,0 +1,30 @@
+{
+    "index": "25440",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\il est juif\\data_for_feature_25440.json",
+    "negative_strings": [
+        " who",
+        " whom",
+        "who",
+        " whose",
+        " quienes",
+        " kte\u00c5\u013b\u00c3\u0143",
+        "whose",
+        " Who",
+        " \u00d0\u00ba\u00d0\u00be\u00d1\u0124\u00d0\u00be\u00d1\u0122\u00d1\u012d\u00d0\u00b5",
+        "Who"
+    ],
+    "positive_strings": [
+        "ime",
+        " un",
+        " le",
+        " l",
+        " une",
+        "-il",
+        " conn",
+        "iment",
+        "udiant",
+        " consid"
+    ],
+    "description": "instances of the verb \"\u00eatre\" (to be) and its conjugations"
+}

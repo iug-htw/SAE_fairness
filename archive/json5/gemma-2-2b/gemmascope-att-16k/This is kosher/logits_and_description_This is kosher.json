@@ -1,0 +1,122 @@
+[
+    {
+        "index": "13166",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is kosher\\data_for_feature_13166.json",
+        "negative_strings": [
+            "\u2581Loew",
+            "brides",
+            "chossen",
+            "arkhand",
+            "CLUD",
+            "ceaux",
+            "\u2581\u0645\u062a\u0639\u0644\u0642\u0647",
+            "ALLY",
+            "alition",
+            "\u2581het"
+        ],
+        "positive_strings": [
+            "Portail",
+            "\u2581geos",
+            "atguigu",
+            "FormTagHelper",
+            "\u2581Dimit",
+            "RectangleBorder",
+            "\u2581Doge",
+            "<h5>",
+            "\u2581ARP",
+            "\u2581<<<<<<<<<<<<<<"
+        ],
+        "description": " attends to the earliest token in the sequence from subsequent tokens marked by \"first.\""
+    },
+    {
+        "index": "12301",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is kosher\\data_for_feature_12301.json",
+        "negative_strings": [
+            "AndEndTag",
+            "GraphicsUnit",
+            "\u2581CreateTagHelper",
+            "AddTagHelper",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u24e7",
+            "\u2581MainAxisSize",
+            "GEBURTSDATUM",
+            "SequentialGroup",
+            "fillType"
+        ],
+        "positive_strings": [
+            "Demografia",
+            "\u2581Poche",
+            "rim",
+            "\u2581Moreno",
+            "\u2581kontrol",
+            "pov",
+            "esseract",
+            "\u2581Mancini",
+            "\u2581Entra",
+            "\u2581t\u00ecnh"
+        ],
+        "description": " attends to names or identifiers associated with notable figures or entities from various contexts"
+    },
+    {
+        "index": "15364",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is kosher\\data_for_feature_15364.json",
+        "negative_strings": [
+            "OGND",
+            "\u2581kasarigan",
+            "MigrationBuilder",
+            "\u2581beginnetje",
+            "\u2581externi",
+            "\u2581Chwiliwch",
+            "oredCriteria",
+            "GEBURTSDATUM",
+            "\u2581protoimpl",
+            "\u2581himo"
+        ],
+        "positive_strings": [
+            "FirstResponder",
+            "timme",
+            "bear",
+            "\u05d9\u05e1\u05d8\u05d5\u05e8",
+            "wijk",
+            "\u00fcy\u00fc",
+            "airro",
+            "tiba",
+            "\u2581amis",
+            "\u2581Metropolitana"
+        ],
+        "description": " attends to files and code-related tokens from their descriptive text or content"
+    },
+    {
+        "index": "5656",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-att-16k\\This is kosher\\data_for_feature_5656.json",
+        "negative_strings": [
+            "']?>",
+            "})*/",
+            "Musa",
+            "\u2581Lucerne",
+            "\u2581Musa",
+            "\u2581Arque",
+            "])))",
+            "\u0446\u0435\u0440\u0442",
+            "\u2581Veracruz",
+            "\u2581MSR"
+        ],
+        "positive_strings": [
+            "readystatechange",
+            "\u2581\ub530",
+            "\u5e16\u6700\u540e\u7531",
+            "LLocation",
+            "\u2581k\u00e6",
+            "orianCalendar",
+            "a\u017c",
+            "SuppressLint",
+            "\u043d\u0443\u0442\u0440\u0435\u043d",
+            "\u2581apport\u00e9"
+        ],
+        "description": " attends to capitalized acronyms or abbreviations from relevant contexts or terms in later positions"
+    }
+]

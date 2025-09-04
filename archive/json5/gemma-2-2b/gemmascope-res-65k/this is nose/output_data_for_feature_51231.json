@@ -1,0 +1,30 @@
+{
+    "index": "51231",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\this is nose\\data_for_feature_51231.json",
+    "negative_strings": [
+        "\u24e7",
+        "ThroughAttribute",
+        "a\u017c",
+        "jago",
+        "Statement",
+        "\u2581transf\u00e9rez",
+        "\u03c5\u03bc\u03b1",
+        "\ufeff#",
+        "MLLoader",
+        "FontOfSize"
+    ],
+    "positive_strings": [
+        "bleed",
+        "dive",
+        "ble",
+        "diving",
+        "dives",
+        "\u2581bleeds",
+        "\u2581bleed",
+        "\u2581cone",
+        "\u2581job",
+        "BLE"
+    ],
+    "description": "references to the nose or related sensory experiences"
+}

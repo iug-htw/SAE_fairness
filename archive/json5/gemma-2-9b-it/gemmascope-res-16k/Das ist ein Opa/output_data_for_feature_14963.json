@@ -1,0 +1,30 @@
+{
+    "index": "14963",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Opa\\data_for_feature_14963.json",
+    "negative_strings": [
+        "\u2581Penh",
+        "r\u00e9n\u00e9es",
+        "AndEndTag",
+        "scen",
+        "RuleContext",
+        "antMatchers",
+        "RTGC",
+        "///</",
+        "orianCalendar",
+        "\u2581Hangzhou"
+    ],
+    "positive_strings": [
+        "\u2581why",
+        "\u2581how",
+        "\u2581where",
+        "\u2581what",
+        "\u2581pourquoi",
+        "\u2581exactly",
+        "Exactly",
+        "\u2581pretty",
+        "why",
+        "\u2581fine"
+    ],
+    "description": " instances of the pronoun \"s\" and its various usages in context"
+}

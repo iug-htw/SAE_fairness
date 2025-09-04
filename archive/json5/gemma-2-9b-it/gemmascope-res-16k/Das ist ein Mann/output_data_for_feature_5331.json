@@ -1,0 +1,30 @@
+{
+    "index": "5331",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_5331.json",
+    "negative_strings": [
+        "\u2581espoir",
+        "\u2581honneur",
+        "\u2581Mexique",
+        "de",
+        "\u2581lendemain",
+        "\u2581\u00e2ge",
+        ";",
+        "\u2581autorit\u00e9",
+        "\u2581peuple",
+        "4"
+    ],
+    "positive_strings": [
+        "\u2581CreateTagHelper",
+        "expandindo",
+        "OGND",
+        "GEBURTSDATUM",
+        "\u2581\u064a\u062a\u064a\u0645\u0647",
+        "<unused52>",
+        "\u2581'\\\\;'",
+        "<unused41>",
+        "[@BOS@]",
+        "<unused8>"
+    ],
+    "description": "articles and determiners related to nouns"
+}

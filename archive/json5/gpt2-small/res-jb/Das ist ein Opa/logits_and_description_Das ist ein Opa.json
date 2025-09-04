@@ -1,0 +1,572 @@
+[
+    {
+        "index": "14254",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_14254.json",
+        "negative_strings": [
+            " nothing",
+            " Galile",
+            " Afric",
+            " Io",
+            " Speedway",
+            " shorter",
+            " Irma",
+            " renown",
+            " mileage",
+            " dealing"
+        ],
+        "positive_strings": [
+            "owntown",
+            "erek",
+            "ennis",
+            "uterte",
+            "iscovery",
+            "irty",
+            "rake",
+            "olphins",
+            "umbledore",
+            "arling"
+        ],
+        "description": "information related to events and announcements in a local community"
+    },
+    {
+        "index": "14195",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_14195.json",
+        "negative_strings": [
+            "sounding",
+            "imposed",
+            "ahead",
+            "tesy",
+            "acho",
+            "ared",
+            "looking",
+            "ICAN",
+            "calling",
+            "istas"
+        ],
+        "positive_strings": [
+            " Bundes",
+            " Spiel",
+            " Zeit",
+            " Ges",
+            " Aus",
+            " \u00c3\u013e",
+            " Sie",
+            " Jah",
+            " aber",
+            " Mens"
+        ],
+        "description": "German words and phrases, particularly related to identity and sexuality"
+    },
+    {
+        "index": "10987",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_10987.json",
+        "negative_strings": [
+            " backdrop",
+            " setting",
+            " Crystal",
+            " planning",
+            " background",
+            " cart",
+            " longer",
+            " follows",
+            " surve",
+            " Jeep"
+        ],
+        "positive_strings": [
+            "tymology",
+            "ternally",
+            "gypt",
+            "fter",
+            "ller",
+            "igent",
+            "inem",
+            "thereal",
+            "ugen",
+            "pee"
+        ],
+        "description": "German words related to legal and political matters and the European Union"
+    },
+    {
+        "index": "11289",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_11289.json",
+        "negative_strings": [
+            " Alexandria",
+            " Xavier",
+            " streetcar",
+            " Rivera",
+            " procedural",
+            " Maduro",
+            " Lima",
+            " Venus",
+            " CRA",
+            " Arizona"
+        ],
+        "positive_strings": [
+            "inen",
+            "hend",
+            "ichen",
+            "hr",
+            "\u00c3\u0141",
+            "icht",
+            "itsch",
+            "iche",
+            "cht",
+            "ich"
+        ],
+        "description": "German words and phrases"
+    },
+    {
+        "index": "2071",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_2071.json",
+        "negative_strings": [
+            "APD",
+            "ACP",
+            "politics",
+            "SPONSORED",
+            " Accountability",
+            "APH",
+            " McGill",
+            " Nieto",
+            " McM",
+            "FUL"
+        ],
+        "positive_strings": [
+            "igen",
+            "lich",
+            " hier",
+            "eln",
+            "lic",
+            "ige",
+            " aber",
+            " dies",
+            " die",
+            "ellen"
+        ],
+        "description": "German language text related to finance and economics"
+    },
+    {
+        "index": "5358",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_5358.json",
+        "negative_strings": [
+            " Venezuelan",
+            " Inquis",
+            " CRA",
+            " Manila",
+            " curly",
+            " Maduro",
+            " compounded",
+            " Brotherhood",
+            " Alexandria",
+            " revolving"
+        ],
+        "positive_strings": [
+            "icht",
+            "\u00c3\u00a4",
+            "\u00c3\u00b6",
+            "\u00c3\u00bc",
+            "\u00c3\u00bcr",
+            "acht",
+            "\u00c3\u00b6n",
+            "\u00c3\u00b6r",
+            "ied",
+            "essen"
+        ],
+        "description": "German language text"
+    },
+    {
+        "index": "7185",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_7185.json",
+        "negative_strings": [
+            " mileage",
+            " lifting",
+            " recall",
+            " slash",
+            " religiously",
+            " confounding",
+            " driveway",
+            " predict",
+            " devils",
+            " fine"
+        ],
+        "positive_strings": [
+            "aque",
+            "ener",
+            "ulence",
+            "ulent",
+            "iate",
+            "inion",
+            "iates",
+            "acity",
+            "ened",
+            "rah"
+        ],
+        "description": "references to medical content, specifically related to drug addiction and medical conditions like overdoses"
+    },
+    {
+        "index": "14234",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_14234.json",
+        "negative_strings": [
+            " Ange",
+            " Sussex",
+            " Squid",
+            " Trident",
+            " Presbyterian",
+            "OUGH",
+            "\u00e2\u0138\u0142",
+            "s",
+            " ethic",
+            " Hedge"
+        ],
+        "positive_strings": [
+            "utra",
+            "aurus",
+            "daq",
+            "adena",
+            "cius",
+            "semble",
+            "pora",
+            "bestos",
+            "querade",
+            "earch"
+        ],
+        "description": "names of places"
+    },
+    {
+        "index": "3742",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_3742.json",
+        "negative_strings": [
+            " Caldwell",
+            " Cherokee",
+            " chorus",
+            " Dawson",
+            " corporation",
+            " Livingston",
+            " Accountability",
+            " unanimous",
+            " Shirley",
+            " accountability"
+        ],
+        "positive_strings": [
+            "sten",
+            "lass",
+            "fen",
+            "hal",
+            "fol",
+            "lag",
+            "wart",
+            "mitt",
+            "zl",
+            "ste"
+        ],
+        "description": "words related to specific dates and technical terms"
+    },
+    {
+        "index": "16229",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_16229.json",
+        "negative_strings": [
+            "\u00e5\u0143\u0132",
+            "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "ILLE",
+            "EngineDebug",
+            "ARDS",
+            "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
+            "wagen",
+            "\u00e3\u0123\u00ae\u00e5\u00ae",
+            "\u00e3\u0123\u00a6"
+        ],
+        "positive_strings": [
+            "aque",
+            "Op",
+            "yright",
+            " Op",
+            "osite",
+            "ober",
+            "osta",
+            "ensibly",
+            "orter",
+            "etr"
+        ],
+        "description": "websites or clickable interactions"
+    },
+    {
+        "index": "4497",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_4497.json",
+        "negative_strings": [
+            " Bliss",
+            "INO",
+            "cise",
+            " bonded",
+            " background",
+            " cassette",
+            "icable",
+            " watch",
+            " Prec",
+            "assetsadobe"
+        ],
+        "positive_strings": [
+            "lich",
+            "heit",
+            "geist",
+            "hent",
+            "velt",
+            "enegger",
+            "hander",
+            "igs",
+            "enthal",
+            "ster"
+        ],
+        "description": "German words and phrases"
+    },
+    {
+        "index": "18946",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_18946.json",
+        "negative_strings": [
+            " relying",
+            " doubling",
+            " proportion",
+            " today",
+            " right",
+            " multiplied",
+            " longer",
+            " shortened",
+            " now",
+            " showing"
+        ],
+        "positive_strings": [
+            "ALT",
+            "ANG",
+            "ANS",
+            "ONDON",
+            "ENG",
+            "ANA",
+            "ARR",
+            "ERE",
+            "reetings",
+            "ALE"
+        ],
+        "description": "names of places or people starting with the letter 'H'"
+    },
+    {
+        "index": "3222",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_3222.json",
+        "negative_strings": [
+            " Poles",
+            " Cou",
+            " wishes",
+            " drives",
+            " others",
+            " ceilings",
+            "sburg",
+            " senses",
+            " Communists",
+            " sides"
+        ],
+        "positive_strings": [
+            "senal",
+            "ometric",
+            "omorphic",
+            " srf",
+            "rael",
+            "othermal",
+            " pione",
+            "omorph",
+            "cloneembedreportprint",
+            "Offline"
+        ],
+        "description": "phrases related to present tense verbs expressing reasoning or explanation"
+    },
+    {
+        "index": "11921",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_11921.json",
+        "negative_strings": [
+            "er",
+            "VERTISEMENT",
+            "e",
+            "y",
+            "ONSORED",
+            " either",
+            "o",
+            " probation",
+            "TPPStreamerBot",
+            " precedent"
+        ],
+        "positive_strings": [
+            "ronics",
+            "sov",
+            "ucket",
+            "anium",
+            "iful",
+            "astic",
+            "itles",
+            "ribune",
+            "ulhu",
+            "ivist"
+        ],
+        "description": "phrases related to political, scientific, and historical topics"
+    },
+    {
+        "index": "2491",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_2491.json",
+        "negative_strings": [
+            "EngineDebug",
+            "ILLE",
+            "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00a9\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+            "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
+            "=~=~",
+            "\u00e5\u0143\u0132",
+            "\u00e3\u0123\u00a6",
+            "\u00e3\u0123\u00ae\u00e9\u0143\u0136",
+            "ARDS"
+        ],
+        "positive_strings": [
+            "Op",
+            " Op",
+            "osite",
+            "yright",
+            "aque",
+            "etr",
+            "ensibly",
+            "ober",
+            "uph",
+            "olicy"
+        ],
+        "description": "links or calls to action within text"
+    },
+    {
+        "index": "18981",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_18981.json",
+        "negative_strings": [
+            " attendance",
+            " Warren",
+            " Mellon",
+            " Wizards",
+            " Athletics",
+            " CPS",
+            " Vanderbilt",
+            " particularly",
+            " Maxwell",
+            " athletics"
+        ],
+        "positive_strings": [
+            "\u00c3\u0142",
+            "\u00de",
+            "\u00c3\u00a9n",
+            "\u00c3\u00bb",
+            " exting",
+            "\u00c9",
+            "\u00c3\u00b3n",
+            " este",
+            "\u00d4",
+            "\u00c4"
+        ],
+        "description": "Spanish words related to medical conditions and treatments"
+    },
+    {
+        "index": "18867",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_18867.json",
+        "negative_strings": [
+            " Rice",
+            " McInt",
+            " Mayweather",
+            " Caldwell",
+            " McCoy",
+            " Livingston",
+            " Carey",
+            " Whale",
+            " Guerrero",
+            " Rivera"
+        ],
+        "positive_strings": [
+            "heit",
+            "wagen",
+            " mit",
+            "ung",
+            " von",
+            "lich",
+            " und",
+            " der",
+            " vom",
+            "ischer"
+        ],
+        "description": "words and phrases related to business and leadership"
+    },
+    {
+        "index": "15429",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_15429.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            " Kitchen",
+            "ablishment",
+            " Painter",
+            "\u00e3\u0125\u00b4\u00e3\u0124\u00a1",
+            " Katz",
+            " sinks",
+            "abouts",
+            "rans",
+            " Anthem"
+        ],
+        "positive_strings": [
+            "arthed",
+            "tymology",
+            "agles",
+            "ugen",
+            "ighth",
+            "gypt",
+            "ternally",
+            "resp",
+            "thereum",
+            "ucl"
+        ],
+        "description": "the letter 'e' appearing in various contexts within the text"
+    },
+    {
+        "index": "14533",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_14533.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a1",
+            "\u00e9\u0139\u013a",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            " Bulg",
+            " BaseType",
+            " Nun",
+            "catentry",
+            "\u0124\u0130",
+            " actionGroup",
+            " Pastebin"
+        ],
+        "positive_strings": [
+            "olph",
+            "ownt",
+            "ollar",
+            "rown",
+            "etermin",
+            "etermination",
+            "ynam",
+            "ried",
+            "erm",
+            "etermined"
+        ],
+        "description": "names of politicians and individuals as well as parties and titles related to politics"
+    }
+]

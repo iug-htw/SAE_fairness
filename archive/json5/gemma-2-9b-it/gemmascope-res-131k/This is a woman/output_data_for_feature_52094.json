@@ -1,0 +1,30 @@
+{
+    "index": "52094",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a woman\\data_for_feature_52094.json",
+    "negative_strings": [
+        "\u2581",
+        "\u2581(",
+        "\u2581and",
+        "\u2581[",
+        "\u2581or",
+        "\u2581&",
+        "_",
+        "\u2581/",
+        "\u2581et",
+        "\u2581\""
+    ],
+    "positive_strings": [
+        "\u2581que\u017fta",
+        "\u2581Administrativna",
+        "\u2581imagui",
+        "ni\u017f\u017fe",
+        "\u2581be\u017fch",
+        "\u2581ver\u017fch",
+        "\u017ficht",
+        "\u2581zwi\u017fchen",
+        "<pad>",
+        "<unused51>"
+    ],
+    "description": " pronouns and demonstratives highlighting ownership or existence"
+}

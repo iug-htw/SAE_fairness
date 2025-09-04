@@ -1,0 +1,452 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "124959",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_124959.json",
+        "negative_strings": [
+            "\u2581\u0440\u0430",
+            "\u2581Ram",
+            "\u2581l\u00e9gales",
+            "\u3068\u3053\u308d",
+            "\u2581Pauly",
+            "\u2581dem",
+            "\u2581ra",
+            "tembro",
+            "\u741b",
+            "\u2581Tom"
+        ],
+        "positive_strings": [
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581renang",
+            "\u2581NSCoder",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "contentLoaded",
+            "parsedMessage",
+            "\u2581Administrativna",
+            "\u0442\u0430\u0440\u0430\u0442\u0443\u0440\u0430",
+            "\u2581Numerade",
+            "Co"
+        ],
+        "description": "references to legal and organizational terminology"
+    },
+    {
+        "index": "26921",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_26921.json",
+        "negative_strings": [
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581nahilalakip",
+            "gebraucht",
+            "enterOuterAlt",
+            "metheus",
+            "clusal",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "WithIOException",
+            "\u2581\u010dlanak",
+            "GEBURTSDATUM"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581Cocaine",
+            "\u2581hydrochloride",
+            "\u2581coca\u00edna",
+            "\u2581addiction",
+            "+#+",
+            "\u2581poffe",
+            "\u2581addict",
+            "\u2581Olympedia",
+            "\u2581addicts"
+        ],
+        "description": "references to cocaine and its various contexts in discussions of drug-related crimes"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "87076",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_87076.json",
+        "negative_strings": [
+            "DockStyle",
+            "RenderAtEndOf",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+            "\u00edncia",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581c\u00e1ps",
+            "lihatan",
+            "\u2581protegida",
+            "\u2581CanadaChoose",
+            "WithIOException"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581methamphetamine",
+            "amphetamine",
+            "hetamine",
+            "\u2581Cocaine",
+            "\u2581meth",
+            "\u2581heroin",
+            "\u2581coca\u00edna",
+            "\u2581Meth",
+            "casio"
+        ],
+        "description": "terms related to various drugs and their usage"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "73980",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_73980.json",
+        "negative_strings": [
+            "ifrance",
+            "\u2581mempel",
+            "t\u011bte",
+            "\u2581democr\u00e1tica",
+            "niksi",
+            "\u2581Percival",
+            "\u2581clim\u00e1",
+            "juma",
+            "\u2581kontaktieren",
+            "tener"
+        ],
+        "positive_strings": [
+            "\u2581drug",
+            "\u2581heroin",
+            "\u2581Drug",
+            "drug",
+            "Drug",
+            "\u2581drugs",
+            "\u2581addiction",
+            "\u2581addicts",
+            "\u2581cocaine",
+            "\u2581Drogen"
+        ],
+        "description": "terms related to addiction treatment and medication management"
+    },
+    {
+        "index": "67362",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_67362.json",
+        "negative_strings": [
+            "\u2581miniaturka",
+            "adaptiveStyles",
+            "Portail",
+            "OSD",
+            "\u2581MPL",
+            "regard",
+            "\u2581OSD",
+            "\u2581MPR",
+            "bleshooting",
+            "\u702c\u6238"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581Cocaine",
+            "\u2581coca\u00edna",
+            "caine",
+            "\u2581coke",
+            "\u2581coca",
+            "Coca",
+            "\u2581Coca",
+            "coke",
+            "Coke"
+        ],
+        "description": " references to cocaine"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "70099",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_70099.json",
+        "negative_strings": [
+            "\u2581sorte",
+            "\u2581redund",
+            "\u2581iron",
+            "\u2581Hierro",
+            "\u2581IRON",
+            "\u2581Iron",
+            "\u2581Recurrent",
+            "QFont",
+            "totalCount",
+            "\u00e1ul"
+        ],
+        "positive_strings": [
+            "\u2581cocaine",
+            "\u2581narkoba",
+            "\u2581Drug",
+            "\u2581drug",
+            "Drug",
+            "\u2581coca\u00edna",
+            "\u2581heroin",
+            "\u2581Cocaine",
+            "\u2581drugs",
+            "\u2581Drugs"
+        ],
+        "description": "terms associated with drug-related activities, particularly involving cocaine and crack"
+    },
+    {
+        "index": "64092",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_64092.json",
+        "negative_strings": [
+            "featureID",
+            "bootstrapcdn",
+            "Leg\u0103turi",
+            "\u2581propOrder",
+            "GraphicsUnit",
+            "webElementXpaths",
+            "principalColumn",
+            "EndGlobalSection",
+            "Rohy",
+            "RUnlock"
+        ],
+        "positive_strings": [
+            "bibfield",
+            "bibinfo",
+            "Beware",
+            "Medical",
+            "Science",
+            "Alg",
+            "\u2581MCU",
+            "\u2581m\u00e9dicale",
+            "Interesting",
+            "Apar"
+        ],
+        "description": "questions beginning with \"What\" or \"How.\""
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "6002",
+    "layer": null,
+    "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a homophob\\data_for_feature_6002.json",
+    "negative_strings": [
+        "ArrowToggle",
+        "\u2581autorytatywna",
+        "\u2581AssemblyTitle",
+        "UnsafeEnabled",
+        "\u2581Schlie\u00dflich",
+        "ValueStyle",
+        "\u2581ma\u00eetres",
+        "pumpe",
+        "tableFuture",
+        "AddHtmlAttribute"
+    ],
+    "positive_strings": [
+        "\u2581hom",
+        "\u2581Hom",
+        "Hom",
+        "hom",
+        "\u2581homo",
+        "\u2581heter",
+        "\u2581HOM",
+        "\u2581homogen",
+        "HOM",
+        "\u2581Heter"
+    ],
+    "description": "terms related to homogeneity and heterogeneity, particularly in biological contexts"
+}

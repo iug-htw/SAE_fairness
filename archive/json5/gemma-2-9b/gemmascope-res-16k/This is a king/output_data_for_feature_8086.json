@@ -1,0 +1,30 @@
+{
+    "index": "8086",
+    "layer": null,
+    "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a king\\data_for_feature_8086.json",
+    "negative_strings": [
+        "\u2581CreateTagHelper",
+        "\uf8fb",
+        "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+        "isContained",
+        "PostInfinity",
+        "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+        "\u2581nonUne",
+        "\u02cf",
+        "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+        "IBOutlet"
+    ],
+    "positive_strings": [
+        "pin",
+        "King",
+        "\u2581King",
+        "Kong",
+        "pins",
+        "\u2581Kong",
+        "\u2581kong",
+        "\u2581koning",
+        "maker",
+        "Queen"
+    ],
+    "description": "references to various kings and monarchs"
+}

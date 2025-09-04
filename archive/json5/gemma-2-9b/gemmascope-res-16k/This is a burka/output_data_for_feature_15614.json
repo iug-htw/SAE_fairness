@@ -1,0 +1,30 @@
+{
+    "index": "15614",
+    "layer": null,
+    "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is a burka\\data_for_feature_15614.json",
+    "negative_strings": [
+        "\u2581tabindex",
+        "\\{\\\\",
+        "UnusedPrivate",
+        "BeginContext",
+        "balleur",
+        "\u2581Typical",
+        "ITECH",
+        "\u2581referenties",
+        "UPAC",
+        "KeySpec"
+    ],
+    "positive_strings": [
+        "Personendaten",
+        "\u2581Bur",
+        "Sucesor",
+        "Bur",
+        "\u0627\u0644\u062d\u064a\u0627\u0647",
+        "\u2581bur",
+        "\u2581ioutil",
+        "gemeester",
+        "\u2581gynhyrchwyd",
+        "\u2581@\"/"
+    ],
+    "description": "references to a specific entity or organization associated with fundraising events"
+}

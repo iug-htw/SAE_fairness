@@ -1,0 +1,212 @@
+[
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "5798",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_5798.json",
+        "negative_strings": [
+            "opause",
+            "soever",
+            "vis",
+            "there",
+            " there",
+            "uba",
+            "763",
+            "ystals",
+            " camps",
+            "ver"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            "how",
+            "why",
+            " hoe",
+            " true",
+            " accomplished",
+            " occurring"
+        ],
+        "description": "affirmative statements or declarations"
+    },
+    {
+        "index": "6154",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_6154.json",
+        "negative_strings": [
+            "ial",
+            "lds",
+            "azzi",
+            "2",
+            "that",
+            "<",
+            "ting",
+            "1",
+            "base",
+            "("
+        ],
+        "positive_strings": [
+            " particular",
+            " PARTICULAR",
+            "/th",
+            " particul",
+            "/her",
+            " latest",
+            " same",
+            " week",
+            " latter",
+            " entire"
+        ],
+        "description": " references to specific moments or elements that evoke emotion or significance"
+    },
+    {
+        "index": "13709",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_13709.json",
+        "negative_strings": [
+            "lds",
+            "theless",
+            "eday",
+            "ting",
+            "ial",
+            " circumstances",
+            "tings",
+            "REDENTIAL",
+            "ueblo",
+            " steps"
+        ],
+        "positive_strings": [
+            " particular",
+            "/th",
+            " PARTICULAR",
+            "/her",
+            " particul",
+            " latest",
+            " kind",
+            " entire",
+            " sort",
+            " same"
+        ],
+        "description": " instances of the word \"this\" and related descriptors"
+    },
+    {
+        "index": "19578",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\this is nose\\data_for_feature_19578.json",
+        "negative_strings": [
+            "lds",
+            "ial",
+            " steps",
+            "\u00e5\u00a6\u0124\u00e4\u00b8\u012d",
+            "eday",
+            " reasons",
+            "REDENTIAL",
+            "adius",
+            "ies",
+            "AMP"
+        ],
+        "positive_strings": [
+            " particular",
+            "/th",
+            " PARTICULAR",
+            "/her",
+            " latest",
+            " entire",
+            " guy",
+            " particul",
+            "zelf",
+            " mornings"
+        ],
+        "description": "references to significant events or moments that evoke strong emotional responses"
+    }
+]

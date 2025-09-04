@@ -1,0 +1,30 @@
+{
+    "index": "24148",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is a boss\\data_for_feature_24148.json",
+    "negative_strings": [
+        "/*---",
+        "\u0928\u0932\u093f\u0916\u093f\u0924",
+        "tr\u00e4ger",
+        "voorbeeld",
+        "Pemer",
+        "thn",
+        "\u0633\u062a\u0645",
+        "ksan",
+        "tichetta",
+        "CodeAttribute"
+    ],
+    "positive_strings": [
+        "\u2581BOSS",
+        "\u2581boss",
+        "boss",
+        "\u2581bosses",
+        "\u2581lady",
+        "Boss",
+        "\u2581Boss",
+        "\u0420\u0435\u0444\u0435\u0440\u0435\u043d\u0446\u0435",
+        "\u2581Hogg",
+        "BOSS"
+    ],
+    "description": "mentions of the word \"boss\" and its variations"
+}

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "4667",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_4667.json",
+        "negative_strings": [
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
+        ],
+        "positive_strings": [
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
+        ],
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
+    },
+    {
+        "index": "12010",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_12010.json",
+        "negative_strings": [
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "WriteTagHelper",
+            "OGND",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "complexContent",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "setVerticalGroup",
+            "\u2581ligiloj",
+            "assembl\u00e9e"
+        ],
+        "positive_strings": [
+            "\u2581assortment",
+            "\u2581array",
+            "\u2581entire",
+            "\u2581alternative",
+            "\u2581important",
+            "\u2581amazing",
+            "\u2581active",
+            "\u2581excellent",
+            "\u2581example",
+            "\u2581abundance"
+        ],
+        "description": "the presence of the article \"an\" in various contexts"
+    },
+    {
+        "index": "13423",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_13423.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581monasterio",
+            "\u2581k\u00fcche",
+            "\u2581beina",
+            "\u2581and",
+            "\u2581essentially",
+            "\u2581nemlig",
+            "isela"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "\u2019",
+            "'",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2019\uff0c",
+            "expandindo"
+        ],
+        "description": "repeated structural patterns or sections in code or text"
+    },
+    {
+        "index": "12010",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_12010.json",
+        "negative_strings": [
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "WriteTagHelper",
+            "OGND",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "complexContent",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "setVerticalGroup",
+            "\u2581ligiloj",
+            "assembl\u00e9e"
+        ],
+        "positive_strings": [
+            "\u2581assortment",
+            "\u2581array",
+            "\u2581entire",
+            "\u2581alternative",
+            "\u2581important",
+            "\u2581amazing",
+            "\u2581active",
+            "\u2581excellent",
+            "\u2581example",
+            "\u2581abundance"
+        ],
+        "description": "the presence of the article \"an\" in various contexts"
+    },
+    {
+        "index": "6528",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_6528.json",
+        "negative_strings": [
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u2581OFDb",
+            "OGND",
+            "\u2581Roskov",
+            "tagHelperRunner",
+            "GEBURTSDATUM",
+            "WriteTagHelper",
+            "setVerticalGroup",
+            "\u2581ligiloj",
+            "\u2581nahilalakip"
+        ],
+        "positive_strings": [
+            "\u2581entire",
+            "\u2581actual",
+            "\u2581array",
+            "\u2581alternative",
+            "\u2581important",
+            "\u2581excellent",
+            "\u2581entirely",
+            "\u2581initial",
+            "\u2581extra",
+            "\u2581active"
+        ],
+        "description": " articles, specifically the word \"an\" and its variations"
+    },
+    {
+        "index": "3736",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_3736.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581compr\u00e9hen",
+            "\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "\u2581Infatti",
+            "isela",
+            "\u2581essentially",
+            "\u2581Jerusal\u00e9n",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "expandindo",
+            "\u2581Paglinawan"
+        ],
+        "description": " isolated or standalone numeric values"
+    },
+    {
+        "index": "16123",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_16123.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "ingu\u00e9m",
+            "isela",
+            "\u2581ennemis",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581s\u00e6rlig",
+            "erar",
+            "unna",
+            "\u2581espagne",
+            "\u2581Infatti"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nahilalakip",
+            "\u2581Baillargeon"
+        ],
+        "description": " code snippets or syntax elements in programming"
+    },
+    {
+        "index": "15743",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_15743.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "setVerticalGroup",
+            "WriteTagHelper",
+            "\u2581Paglinawan",
+            "\u2581nahilalakip",
+            "OGND",
+            "principalTable",
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u2581Roskov",
+            "\u2581ligiloj"
+        ],
+        "positive_strings": [
+            "\u2581entire",
+            "\u2581excellent",
+            "\u2581extremely",
+            "\u2581important",
+            "\u2581enormous",
+            "\u2581active",
+            "\u2581incredibly",
+            "\u2581entirely",
+            "\u2581impressive",
+            "\u2581extra"
+        ],
+        "description": "the indefinite article \"an\" in various contexts"
+    },
+    {
+        "index": "12317",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_12317.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "principalTable",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "\u2581that",
+            "\u2581CURLOPT",
+            "\u2581rencontr",
+            "KommentareTeilen",
+            "\u2581rest\u00e9",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581year",
+            "\u2581particular",
+            "\u2581month",
+            "\u2581past",
+            "\u2581Week",
+            "\u2581morning",
+            "\u2581weeks",
+            "\u2581amazing",
+            "\u2581unique"
+        ],
+        "description": " instances of the word \"this.\""
+    },
+    {
+        "index": "4575",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_4575.json",
+        "negative_strings": [
+            "\u2581Baillargeon",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u2581nakalista",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u305d\u3053\u306f",
+            "this",
+            "InjectAttribute",
+            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+            "THERE"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581because",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581done",
+            "\u2581true",
+            "\u2581especially",
+            "\u2581allemaal",
+            "\u2581happened"
+        ],
+        "description": "the presence of the verb \"is\" and instances of the word \"not\" used to negate"
+    },
+    {
+        "index": "9139",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_9139.json",
+        "negative_strings": [
+            "\u2581slightest",
+            "\u2581quelconque",
+            "\u2581stesso",
+            "\u2581sz\u00fcks",
+            "\u2581anymore",
+            "\u2581gotten",
+            "\u2581diff\u00e9rent",
+            "\u2581fewest",
+            "migrationBuilder",
+            "\u2581moindre"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581Week",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581year",
+            "\u2581month",
+            "\u2581is",
+            "\u2581Month",
+            "\u2581weeks",
+            "\u2581Is",
+            "MigrationBuilder"
+        ],
+        "description": " instances of the word \"This\" at the beginning of sentences"
+    },
+    {
+        "index": "1479",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_1479.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581nakalista",
+            "\u2581EconPapers",
+            "InjectAttribute",
+            "\ue315",
+            ":\u2728",
+            "\u2581betweenstory",
+            "\u2581therein",
+            "\u2581BIBSYS",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581allemaal",
+            "true",
+            "\u2581despite",
+            "\u2581done"
+        ],
+        "description": "the presence of the word \"is\" and its variations in different contexts"
+    },
+    {
+        "index": "9011",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_9011.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\ue315",
+            "InjectAttribute",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "StoryboardSegue",
+            "\u2581therein",
+            "OGND",
+            ":\u2728",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581done",
+            "\u2581despite"
+        ],
+        "description": "statements asserting the quality or characteristics of something"
+    },
+    {
+        "index": "9625",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_9625.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "\ue315",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "OGND",
+            "\u2581betweenstory",
+            "StoryboardSegue",
+            "theless",
+            "\u2581autorytatywna"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581where",
+            "\u2581true",
+            "\u2581why",
+            "\u2581the",
+            "\u2581my",
+            "\u2581allemaal",
+            "\u2581truly",
+            "\u2581all",
+            "\u2581done"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "932",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_932.json",
+        "negative_strings": [
+            "prefixer",
+            "others",
+            "\u2581Baillargeon",
+            "THERE",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u2581istnieje",
+            "this",
+            "\u2581\u0111\u00e2y"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581because",
+            "\u2581where",
+            "\u2581how",
+            "\u2581true",
+            "\u2581porque",
+            "\u2581perch\u00e9",
+            "\u2581despite",
+            "mybatisplus",
+            "\u2581assuming"
+        ],
+        "description": "assertions of opinion or statements about facts"
+    },
+    {
+        "index": "14781",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_14781.json",
+        "negative_strings": [
+            "<eos>",
+            "</i>",
+            "jenih",
+            "</u>",
+            "</em>",
+            "\uff09\u300f",
+            "</code>",
+            "()]",
+            "\u2581\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e",
+            "\u6642\u306b\u306f"
+        ],
+        "positive_strings": [
+            "SourceChecksum",
+            "\u2581resourceCulture",
+            "Autoritn\u00ed",
+            "IUrlHelper",
+            "mergeFrom",
+            "BASEPATH",
+            "\u2581cherch\u00e9s",
+            "\u2581ujednoznacz",
+            "\u2581unknownFields",
+            "\u2581Roskov"
+        ],
+        "description": "the letter 'A' as it appears in different contexts"
+    },
+    {
+        "index": "11795",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_11795.json",
+        "negative_strings": [
+            "<eos>",
+            "</b>",
+            "</i>",
+            "</code>",
+            "jenih",
+            ",",
+            ".",
+            "\u2581see",
+            "</blockquote>",
+            "</strong>"
+        ],
+        "positive_strings": [
+            "^(@)",
+            "verwijspagina",
+            "\u2581ujednoznacz",
+            "\u2581Forumite",
+            "utilisons",
+            "\u2581Bioaccumulative",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "WebElementEntity",
+            "\u2581cherch\u00e9s",
+            "\u2581Italijani"
+        ],
+        "description": "the phrase \"The\" at the start of sentences"
+    },
+    {
+        "index": "13966",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_13966.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "StoryboardSegue",
+            "\ue315",
+            "\u2581autorytatywna",
+            "OGND",
+            "\u2581nakalista",
+            ":\u2728",
+            "principalColumn",
+            "\u2581BIBSYS"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581where",
+            "\u2581the",
+            "\u2581done",
+            "\u2581allemaal",
+            "\u2581true",
+            "\u2581because",
+            "\u2581especially",
+            "\u2581happening"
+        ],
+        "description": "statements that assert the existence or importance of a subject"
+    },
+    {
+        "index": "12746",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_12746.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "OGND",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581\u062f\u06cc\u06a9\u06be\u06cc\u06d2",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "NameInMap",
+            "IUrlHelper",
+            "\u2581OFDb",
+            "\u2581Roskov",
+            "featureID"
+        ],
+        "positive_strings": [
+            "\u2581alternative",
+            "\u2581appropriate",
+            "\u2581entire",
+            "\u2581additional",
+            "\u2581initial",
+            "\u2581important",
+            "esthetics",
+            "\u2581extra",
+            "\u2581array",
+            "\u2581existing"
+        ],
+        "description": "the article \"an\" in various contexts"
+    },
+    {
+        "index": "11527",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is an assistant\\data_for_feature_11527.json",
+        "negative_strings": [
+            "OrEqualTo",
+            ",",
+            "RuleContext",
+            "\u2581effect",
+            "usercontent",
+            "MLLoader",
+            ".",
+            "jenih",
+            "\u8a00\u3063\u3066",
+            "\u2581\u0442\u0435\u043c"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "\u2581Italijani",
+            "zzleHttp",
+            "\u2581cherch\u00e9s",
+            "\u2581Paglinawan",
+            "bewerken",
+            "\u2581ujednoznacz",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "\u0627\u0646\u064a\u0641"
+        ],
+        "description": "the word \"The\" and related grammatical constructs used to introduce statements or topics"
+    }
+]

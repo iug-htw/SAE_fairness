@@ -1,0 +1,30 @@
+{
+    "index": "43450",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-65k\\This is an attack\\data_for_feature_43450.json",
+    "negative_strings": [
+        "uesa",
+        "\u2581sangu\u00ed",
+        "\\{\\\\",
+        "\u0421\u0422\u0412\u0410",
+        "Bism",
+        "caine",
+        "\u03c1\u03af\u03bf\u03c5",
+        "\u2581bint",
+        "icali",
+        "casecmp"
+    ],
+    "positive_strings": [
+        "\u2581Attacks",
+        "Attacks",
+        "\u2581attacks",
+        "\u2581MessageBoxIcon",
+        "WireFormatLite",
+        "attacks",
+        "HasAnnotation",
+        "\u2581Paglinawan",
+        "\u2581ATTACK",
+        "ATTACK"
+    ],
+    "description": " references to attacks or violent incidents"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "22506",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist ein Mann\\data_for_feature_22506.json",
+    "negative_strings": [
+        "Den",
+        " seinen",
+        " Den",
+        " keinen",
+        " Ihren",
+        " ihren",
+        " einen",
+        " unseren",
+        " DEN",
+        " meinen"
+    ],
+    "positive_strings": [
+        " der",
+        " das",
+        " die",
+        " es",
+        "der",
+        " dieser",
+        " ein",
+        " DER",
+        "Der",
+        "die"
+    ],
+    "description": " grammatical structures and phrases that indicate relationships or comparisons"
+}

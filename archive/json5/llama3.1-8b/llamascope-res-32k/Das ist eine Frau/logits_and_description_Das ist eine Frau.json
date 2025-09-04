@@ -1,0 +1,362 @@
+[
+    {
+        "index": "19549",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_19549.json",
+        "negative_strings": [
+            " Cologne",
+            "Germany",
+            " Germany",
+            " Munich",
+            " germany",
+            "German",
+            " Germans",
+            " German",
+            " Bav",
+            " Austrian"
+        ],
+        "positive_strings": [
+            " entsprech",
+            " bisher",
+            " ebenfalls",
+            " bekannt",
+            " zwar",
+            " bestimm",
+            " etwa",
+            " besonders",
+            " dar\u00c3\u00bcber",
+            " bereits"
+        ],
+        "description": "relationships between characters in a narrative"
+    },
+    {
+        "index": "31615",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_31615.json",
+        "negative_strings": [
+            "ritten",
+            "ischen",
+            " neuen",
+            "lichen",
+            " ersten",
+            "enden",
+            " deutschen",
+            " professionnel",
+            " letzten",
+            "esehen"
+        ],
+        "positive_strings": [
+            " kleine",
+            " deutsche",
+            " neue",
+            " junge",
+            " gro\u00c3\u0141e",
+            " erste",
+            " weitere",
+            " andere",
+            " sch\u00c3\u00b6ne",
+            " lokale"
+        ],
+        "description": " significant nouns and adjectives related to characters and settings in narratives"
+    },
+    {
+        "index": "13189",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_13189.json",
+        "negative_strings": [
+            " Erotische",
+            "heiten",
+            " \u00d0\u00b7\u00d0\u00b2\u00d0\u00b8\u00d1\u0129\u00d0\u00b0\u00d0\u00b9",
+            "beeld",
+            " verschiedene",
+            "rende",
+            " Prostitutas",
+            "alsy",
+            " name",
+            "isches"
+        ],
+        "positive_strings": [
+            " Woche",
+            " Rei",
+            " Phase",
+            " Seite",
+            " Minute",
+            " Episode",
+            " Serie",
+            " Familie",
+            " gan",
+            "lei"
+        ],
+        "description": " grammatical articles and possessive pronouns in context"
+    },
+    {
+        "index": "575",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_575.json",
+        "negative_strings": [
+            " Verf\u00c3\u00bcg",
+            " M\u00c3\u00b6glich",
+            " nackte",
+            " Ihren",
+            " Antworten",
+            " buurt",
+            " aktuellen",
+            " n\u00c3\u00b8",
+            " Bav",
+            " erotische"
+        ],
+        "positive_strings": [
+            " der",
+            "basis",
+            " die",
+            " mit",
+            " dies",
+            " gut",
+            " als",
+            "orts",
+            " im",
+            "unge"
+        ],
+        "description": "discussion of film criticism and analysis"
+    },
+    {
+        "index": "4941",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_4941.json",
+        "negative_strings": [
+            " Leben",
+            " Antworten",
+            "jay",
+            " Unternehmen",
+            "FC",
+            " Angebot",
+            " Thema",
+            "ja",
+            " Fragen",
+            "jin"
+        ],
+        "positive_strings": [
+            " Sz",
+            " Phase",
+            " Minute",
+            " Offensive",
+            " Serie",
+            " Eb",
+            " Palette",
+            " Episode",
+            " Exist",
+            "uong"
+        ],
+        "description": " nouns and definite articles in German language texts"
+    },
+    {
+        "index": "18838",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_18838.json",
+        "negative_strings": [
+            "beeld",
+            "jay",
+            "FC",
+            " Unternehmen",
+            " Thema",
+            "label",
+            " Leben",
+            " Angebot",
+            "heiten",
+            " Antworten"
+        ],
+        "positive_strings": [
+            " Minute",
+            " Phase",
+            " Serie",
+            " Palette",
+            " Episode",
+            " Pause",
+            " Rei",
+            " Sz",
+            " Situation",
+            " Eb"
+        ],
+        "description": " definite and indefinite articles along with some modifiers in descriptive phrases"
+    },
+    {
+        "index": "31047",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_31047.json",
+        "negative_strings": [
+            " \n\n",
+            " \n",
+            " \u00e2\u0122\u00a6\n\n",
+            "\n\n",
+            " Lutheran",
+            "beer",
+            "FormatException",
+            " Johann",
+            "PLICATION",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a"
+        ],
+        "positive_strings": [
+            " GRAT",
+            " sexkontakte",
+            " kannst",
+            " kostenlose",
+            " gratis",
+            " CHIP",
+            " Handy",
+            " mooie",
+            " m\u00c3\u00b6chten",
+            " geile"
+        ],
+        "description": " technical terms and error codes related to appliances"
+    },
+    {
+        "index": "8091",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_8091.json",
+        "negative_strings": [
+            " Verf\u00c3\u00bcg",
+            " M\u00c3\u00b6glich",
+            " Bav",
+            " Ihren",
+            " Antworten",
+            " Jahres",
+            " aktuellen",
+            " buurt",
+            " Angebot",
+            " f\u00c3\u00b8"
+        ],
+        "positive_strings": [
+            "basis",
+            " gut",
+            "t\u00c3\u0143",
+            " ent",
+            "itia",
+            "abwe",
+            " dies",
+            " der",
+            " quasi",
+            " uns"
+        ],
+        "description": " elements related to film critique and storytelling"
+    },
+    {
+        "index": "18592",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_18592.json",
+        "negative_strings": [
+            "ischen",
+            " Ihren",
+            "enden",
+            "lichen",
+            "ieten",
+            " respectively",
+            "uellen",
+            " Antworten",
+            "genden",
+            "oden"
+        ],
+        "positive_strings": [
+            " erste",
+            " kleine",
+            " neue",
+            " gro\u00c3\u0141e",
+            "ige",
+            " weitere",
+            " deutsche",
+            " andere",
+            " ganze",
+            " perman"
+        ],
+        "description": "terms related to gender and family structures"
+    },
+    {
+        "index": "23137",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_23137.json",
+        "negative_strings": [
+            " Bav",
+            " n\u00c3\u00b8",
+            " Verf\u00c3\u00bcg",
+            " Prostitutas",
+            " eldre",
+            " Ihren",
+            " M\u00c3\u00b6glich",
+            " f\u00c3\u00b8",
+            "ance",
+            " comb"
+        ],
+        "positive_strings": [
+            " saison",
+            " als",
+            "eing",
+            " theoret",
+            " pl\u00c3\u00a1",
+            " eig",
+            "basis",
+            " rosa",
+            " sow",
+            "itia"
+        ],
+        "description": " terms related to cryptocurrency and blockchain technology"
+    },
+    {
+        "index": "21690",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_21690.json",
+        "negative_strings": [
+            " Verf\u00c3\u00bcg",
+            " M\u00c3\u00b6glich",
+            " Ihren",
+            " aktuellen",
+            " Antworten",
+            " Bav",
+            " Auswahl",
+            " Angebot",
+            " Jahres",
+            " Nutzung"
+        ],
+        "positive_strings": [
+            "importe",
+            "#ab",
+            " ent",
+            "t\u00c3\u0143",
+            "basis",
+            "abwe",
+            "iven",
+            " dies",
+            " mit",
+            "iale"
+        ],
+        "description": " narratives involving relationships and personal connections"
+    },
+    {
+        "index": "7866",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ist eine Frau\\data_for_feature_7866.json",
+        "negative_strings": [
+            "sehen",
+            " Unternehmen",
+            " Bereich",
+            "ismo",
+            " Leben",
+            "orado",
+            " Thema",
+            "nement",
+            "562",
+            "achten"
+        ],
+        "positive_strings": [
+            "erin",
+            "ierung",
+            "\u00c4\u0129e",
+            "rede",
+            "altung",
+            "subst",
+            "rente",
+            " Serie",
+            "igkeit",
+            "axe"
+        ],
+        "description": " references to people and organizations in narrative contexts"
+    }
+]

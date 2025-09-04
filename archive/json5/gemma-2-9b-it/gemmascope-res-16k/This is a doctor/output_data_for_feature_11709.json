@@ -1,0 +1,30 @@
+{
+    "index": "11709",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\This is a doctor\\data_for_feature_11709.json",
+    "negative_strings": [
+        "\u2581plain",
+        "downe",
+        "\u2581desen",
+        "ilung",
+        "rou",
+        "\u2581especially",
+        "\u2581Non",
+        "tem",
+        "\u2581non",
+        "\u2581Material"
+    ],
+    "positive_strings": [
+        "\u2581Dr",
+        "\u2581Drs",
+        "Dr",
+        "Doctor",
+        "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+        "\u2581Docteur",
+        "principalTable",
+        "\u2581Doctor",
+        "\u2581DOCTOR",
+        "\u2581docteur"
+    ],
+    "description": "references to medical professionals, specifically the title \"Dr.\" followed by a name"
+}

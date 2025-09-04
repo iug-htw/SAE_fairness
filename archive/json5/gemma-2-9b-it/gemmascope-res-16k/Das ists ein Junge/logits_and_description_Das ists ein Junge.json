@@ -1,0 +1,422 @@
+[
+    {
+        "index": "5331",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_5331.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581honneur",
+            "\u2581Mexique",
+            "de",
+            "\u2581lendemain",
+            "\u2581\u00e2ge",
+            ";",
+            "\u2581autorit\u00e9",
+            "\u2581peuple",
+            "4"
+        ],
+        "positive_strings": [
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "OGND",
+            "GEBURTSDATUM",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "<unused52>",
+            "\u2581'\\\\;'",
+            "<unused41>",
+            "[@BOS@]",
+            "<unused8>"
+        ],
+        "description": "articles and determiners related to nouns"
+    },
+    {
+        "index": "12107",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_12107.json",
+        "negative_strings": [
+            "\u2581EconPapers",
+            "UnknownFields",
+            "\u2581mergeFrom",
+            "BeginInit",
+            "\u2581linkovi",
+            "unknownFields",
+            "hipping",
+            "divarius",
+            "\ue70a",
+            "Autowired"
+        ],
+        "positive_strings": [
+            "Boy",
+            "boy",
+            "boys",
+            "\u2581Boy",
+            "\u2581scout",
+            "\u2581boys",
+            "Boys",
+            "\u2581scouts",
+            "\u2581boy",
+            "\u2581BOY"
+        ],
+        "description": "references to boys and related themes"
+    },
+    {
+        "index": "14228",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_14228.json",
+        "negative_strings": [
+            "\u2581nahilalakip",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "Parcelize",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u06e3",
+            "mybatisplus",
+            "\u2581Bluestacks",
+            "\u0628\u0648\u0627\u0628\u0629",
+            "\u2581sur",
+            "OGND"
+        ],
+        "positive_strings": [
+            "esterday",
+            "contentLoaded",
+            "\u2581Jamb",
+            "ientras",
+            "\u2581}{@",
+            "J",
+            "\u2581J",
+            "tifications",
+            "setQuery",
+            "\u062c\u0648\u06cc"
+        ],
+        "description": "references to specific genes or proteins related to JEV (Japanese Encephalitis Virus)"
+    },
+    {
+        "index": "10145",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_10145.json",
+        "negative_strings": [
+            "\u2158",
+            "\u2581betweenstory",
+            "DrawerToggle",
+            "addWidget",
+            "transQ",
+            "\u2581(",
+            "psack",
+            "FailureListener",
+            "ito",
+            "lets"
+        ],
+        "positive_strings": [
+            "tagHelperRunner",
+            "\u2581plea\u017fure",
+            "\u2581ju\u017f",
+            "\u2581transf\u00e9rez",
+            "\u2581purpo\u017fe",
+            "\u2581\u017ftate",
+            "\u2581nece\u017f\u017f",
+            "\u2581Autorisations",
+            "\u2581\u017fta",
+            "\u2581him\u017felf"
+        ],
+        "description": "the user-related content in documents"
+    },
+    {
+        "index": "6590",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_6590.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Wolken",
+            "\u2581Kleid",
+            "\u2581Glied",
+            "\u2581Wikimedijinoj",
+            "\u2581Reifen",
+            "tagext",
+            "\u2581Liebes",
+            "Lycka",
+            "\u2581Fleisch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "\u2581Photocase",
+            "Transkript",
+            "Personensuche",
+            "\u2581Euro",
+            "Telefax",
+            "\u2581Pots",
+            "\u2581DPA"
+        ],
+        "description": " phrases related to requests and technical instructions"
+    },
+    {
+        "index": "68",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_68.json",
+        "negative_strings": [
+            "\u2581malheur",
+            "\u2581malheureux",
+            "\u2581v\u00fdro",
+            "\u2581d\u00e9sert",
+            "\u2581precioso",
+            "\u2581d\u00e9truit",
+            "\u2581valioso",
+            "-//",
+            "\u2581fant\u00e1stico",
+            "Vod"
+        ],
+        "positive_strings": [
+            "IBOutlet",
+            "AddTagHelper",
+            "\u5e16\u6700\u540e\u7531",
+            "UnusedPrivate",
+            "webElementXpaths",
+            "CppMethod",
+            "DoubleQuotes",
+            "ENIX",
+            "webElement",
+            "\u2581nahilalakip"
+        ],
+        "description": "variations of the verb \"to be\" in different contexts"
+    },
+    {
+        "index": "7771",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_7771.json",
+        "negative_strings": [
+            "municipi",
+            "\u2581propOrder",
+            "\u2581OFDb",
+            "\u2581rekke",
+            "\u2581r\u00e6kke",
+            "\u2581tenerife",
+            "\u2581itself",
+            "\u2581berikutnya",
+            "protoc",
+            "\u2581\u0e46"
+        ],
+        "positive_strings": [
+            "\u2581coincidence",
+            "\u2581mistake",
+            "AndEndTag",
+            "\u2581nakalista",
+            "\u2581stupid",
+            "UnusedPrivate",
+            "\u2581weird",
+            "\u2581pretty",
+            "\u2581shame",
+            "\u2581tricky"
+        ],
+        "description": "phrases that emphasize the quality or significance of something, often using adjectives"
+    },
+    {
+        "index": "8262",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_8262.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "_",
+            "\u2581&",
+            "\u2581The",
+            "/",
+            "\u2581/"
+        ],
+        "positive_strings": [
+            "\u2581imagui",
+            "\u2581Gei\u017ft",
+            "\u2581ver\u017fch",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581incre\u00ed",
+            "\u2581zwi\u017fchen",
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581Wei\u017fe"
+        ],
+        "description": " instances of the phrase \"I don\u2019t\" and its variations"
+    },
+    {
+        "index": "2138",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_2138.json",
+        "negative_strings": [
+            "\u2581Italijanski",
+            "r\u00e9n\u00e9es",
+            "AISSEE",
+            "reordered",
+            "\u8ac7\u793e",
+            "rawDesc",
+            "chuga",
+            "\u2581therein",
+            "MigrationBuilder",
+            "ftagPool"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581guy",
+            "\u2581how",
+            "awtextra",
+            "\u591a\u4e48",
+            "\u2581truly",
+            "DoubleQuotes",
+            "\u2581FixedUpdate",
+            "\u2581happen",
+            "V\u00e9xase"
+        ],
+        "description": "statements indicating existence or identity"
+    },
+    {
+        "index": "14963",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_14963.json",
+        "negative_strings": [
+            "\u2581Penh",
+            "r\u00e9n\u00e9es",
+            "AndEndTag",
+            "scen",
+            "RuleContext",
+            "antMatchers",
+            "RTGC",
+            "///</",
+            "orianCalendar",
+            "\u2581Hangzhou"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581where",
+            "\u2581what",
+            "\u2581pourquoi",
+            "\u2581exactly",
+            "Exactly",
+            "\u2581pretty",
+            "why",
+            "\u2581fine"
+        ],
+        "description": " instances of the pronoun \"s\" and its various usages in context"
+    },
+    {
+        "index": "8406",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_8406.json",
+        "negative_strings": [
+            "OGND",
+            "\u2581MainAxisSize",
+            "\u2581\u043c\u04d9\u043a\u0430\u043b",
+            "\u2581propOrder",
+            "rungsseite",
+            "DockStyle",
+            "\u2581ujednoznacz",
+            "i\u017fchen",
+            "\u2581Administrativna",
+            "\u062a\u0642\u0627\u0648\u0649"
+        ],
+        "positive_strings": [
+            "\u2581in",
+            "\u2581des",
+            ",",
+            "\u2581a",
+            "\u2581(",
+            "\u2581",
+            "\u2581an",
+            "re",
+            "um",
+            "\u2581of"
+        ],
+        "description": "technical terms and operational details related to web functionality and programming"
+    },
+    {
+        "index": "12525",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_12525.json",
+        "negative_strings": [
+            "\u2581indisponible",
+            "\u23a8",
+            "\u2581\u091a\u0940\u095b\u094b\u0902",
+            "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "WriteBarrier",
+            "\u2581\u0938\u092e\u0940\u0915\u094d\u0937\u093e\u0913\u0902",
+            "\u2581GenerationType",
+            "\u2581resourceCulture",
+            "Hentet"
+        ],
+        "positive_strings": [
+            "ophyllum",
+            "\u2581tenue",
+            "\u0414\u0438\u043d\u0430",
+            "ALUM",
+            "\u2581Doing",
+            "retum",
+            "holdet",
+            "\u2581obdob",
+            "statement",
+            "\u2581atlik"
+        ],
+        "description": "specific grammatical structures or patterns associated with definite articles and nouns in German"
+    },
+    {
+        "index": "1560",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_1560.json",
+        "negative_strings": [
+            "\u2581parezca",
+            "\u2581generally",
+            "Qui\u00e9n",
+            "\u2581directly",
+            "\u2581greatly",
+            "\u2581berechtigt",
+            "\u2581looking",
+            "\u2581totally",
+            "\u2581d\u00f3nde",
+            "enti\u00e8re"
+        ],
+        "positive_strings": [
+            "\u2581defaultstate",
+            "OGND",
+            "########.",
+            "\u2581CreateTagHelper",
+            "Diwedd",
+            "ViewImports",
+            "aarrggbb",
+            "rungsseite",
+            "\u2581inform\u00e9e",
+            "\u2581Administrativna"
+        ],
+        "description": " mentions of programming packages and classes"
+    },
+    {
+        "index": "10751",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-16k\\Das ists ein Junge\\data_for_feature_10751.json",
+        "negative_strings": [
+            "sprogramm",
+            "\u2581\u043a\u043e\u0442\u043e\u0440\u043e\u0435",
+            "\u2581naselje",
+            "\u2581\u044f\u043a\u0435",
+            "\u2581bylo",
+            "\u2581dommage",
+            "gesch\u00e4ft",
+            "\u00f6pf",
+            "lioth\u00e8",
+            "\u2581Volkes"
+        ],
+        "positive_strings": [
+            "\u2581propOrder",
+            "\u2581purpo\u017fe",
+            "RotationOrder",
+            "\u2581ind\u00edgen",
+            "AddTagHelper",
+            "ReusableCell",
+            "\u2581la\u017ft",
+            "EndInit",
+            "TypedDataSet",
+            "homonymie"
+        ],
+        "description": " references to specific numerical and scientific data"
+    }
+]

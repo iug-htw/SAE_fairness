@@ -1,0 +1,30 @@
+{
+    "index": "3326",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_3326.json",
+    "negative_strings": [
+        "rc",
+        "\u00e1\u00bb\u00af",
+        "\u00c3\u00a2y",
+        "agher",
+        "rt",
+        "rid",
+        "rl",
+        "RT",
+        "\u00d9\u0123",
+        " (){"
+    ],
+    "positive_strings": [
+        "issue",
+        "uck",
+        "inker",
+        " wo",
+        "onne",
+        "ars",
+        "old",
+        "arry",
+        "etr",
+        "atum"
+    ],
+    "description": " occurrences of specific typographical symbols or punctuation in text"
+}

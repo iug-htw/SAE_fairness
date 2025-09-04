@@ -1,0 +1,30 @@
+{
+    "index": "10302",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is money\\data_for_feature_10302.json",
+    "negative_strings": [
+        "SourceChecksum",
+        "ServletException",
+        "\u2581ExecuteAsync",
+        "ViewFeatures",
+        "ByExample",
+        "\u2581CreateTagHelper",
+        "etzten",
+        "ContentAsync",
+        "\u2581nakalista",
+        "\u2581AssemblyTitle"
+    ],
+    "positive_strings": [
+        "\u2581money",
+        "\u2581Money",
+        "\u2581MONEY",
+        "\u2581laundering",
+        "MONEY",
+        "Money",
+        "money",
+        "\u2581spent",
+        "\ud83d\udcb0",
+        "\ud83d\udcb8"
+    ],
+    "description": "terms and phrases associated with money and its various uses"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "11125",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_11125.json",
+    "negative_strings": [
+        "\ud0b5",
+        "ilaire",
+        "\u2581hint",
+        "\u2581Peralta",
+        "\u2581Ghi",
+        "bypass",
+        "\u2581Sanford",
+        "\u2581Kennt",
+        "\u2581Coronation",
+        "\u2581Belvedere"
+    ],
+    "positive_strings": [
+        "Woman",
+        "\u2581Woman",
+        "\u2581woman",
+        "\u2581WOMAN",
+        "WOMAN",
+        "\u2581women",
+        "Women",
+        "\u2581Women",
+        "woman",
+        "women"
+    ],
+    "description": "references to women and their experiences"
+}

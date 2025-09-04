@@ -1,0 +1,30 @@
+{
+    "index": "27057",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_27057.json",
+    "negative_strings": [
+        "\"",
+        ".",
+        "-",
+        ",",
+        "(",
+        "[",
+        "/",
+        "*",
+        ":",
+        ")"
+    ],
+    "positive_strings": [
+        " a",
+        " an",
+        " the",
+        " in",
+        " at",
+        " to",
+        " on",
+        " one",
+        " is",
+        " as"
+    ],
+    "description": " percentages and numerical data related to financial or statistical comparisons"
+}
