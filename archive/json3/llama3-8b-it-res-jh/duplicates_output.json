@@ -1,0 +1,964 @@
+{
+    "message": "Duplicate feature numbers found:",
+    "duplicates": {
+        "14762": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_14762.json",
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_14762.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_14762.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_14762.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_14762.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_14762.json"
+        ],
+        "4513": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_4513.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_4513.json",
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_4513.json"
+        ],
+        "16968": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_16968.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_16968.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_16968.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_16968.json"
+        ],
+        "22497": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_22497.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_22497.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_22497.json"
+        ],
+        "42863": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_42863.json",
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_42863.json"
+        ],
+        "53654": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_53654.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_53654.json"
+        ],
+        "20728": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_20728.json",
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_20728.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_20728.json"
+        ],
+        "51021": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_51021.json",
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_51021.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_51021.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_51021.json"
+        ],
+        "55478": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_55478.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_55478.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_55478.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_55478.json"
+        ],
+        "79": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_79.json",
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_79.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_79.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_79.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_79.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_79.json"
+        ],
+        "34576": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_34576.json",
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_34576.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_34576.json"
+        ],
+        "23558": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_23558.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_23558.json"
+        ],
+        "23170": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_23170.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_23170.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_23170.json"
+        ],
+        "58849": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_58849.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_58849.json"
+        ],
+        "62797": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_62797.json",
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_62797.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_62797.json"
+        ],
+        "32252": [
+            "json3/llama3-8b-it-res-jh/gospel/data_for_feature_32252.json",
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_32252.json"
+        ],
+        "51285": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_51285.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_51285.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_51285.json"
+        ],
+        "29522": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_29522.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_29522.json"
+        ],
+        "37331": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_37331.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_37331.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_37331.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_37331.json"
+        ],
+        "16295": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_16295.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_16295.json"
+        ],
+        "11736": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_11736.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_11736.json"
+        ],
+        "52183": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_52183.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_52183.json",
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_52183.json"
+        ],
+        "56971": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_56971.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_56971.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_56971.json"
+        ],
+        "19317": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_19317.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_19317.json"
+        ],
+        "61633": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_61633.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_61633.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_61633.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_61633.json"
+        ],
+        "52531": [
+            "json3/llama3-8b-it-res-jh/girl/data_for_feature_52531.json",
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_52531.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_52531.json"
+        ],
+        "57494": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_57494.json",
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_57494.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_57494.json"
+        ],
+        "35693": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_35693.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_35693.json"
+        ],
+        "5077": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_5077.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_5077.json"
+        ],
+        "23570": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_23570.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_23570.json"
+        ],
+        "43001": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_43001.json",
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_43001.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_43001.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_43001.json"
+        ],
+        "45159": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_45159.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_45159.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_45159.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_45159.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_45159.json"
+        ],
+        "57745": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_57745.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_57745.json"
+        ],
+        "61182": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_61182.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_61182.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_61182.json"
+        ],
+        "46972": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_46972.json",
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_46972.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_46972.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_46972.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_46972.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_46972.json"
+        ],
+        "42882": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_42882.json",
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_42882.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_42882.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_42882.json"
+        ],
+        "16601": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_16601.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_16601.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_16601.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_16601.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_16601.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_16601.json"
+        ],
+        "43531": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_43531.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_43531.json"
+        ],
+        "43071": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_43071.json",
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_43071.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_43071.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_43071.json",
+            "json3/llama3-8b-it-res-jh/mecca/data_for_feature_43071.json"
+        ],
+        "43387": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_43387.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_43387.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_43387.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_43387.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_43387.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_43387.json"
+        ],
+        "50546": [
+            "json3/llama3-8b-it-res-jh/synagogue/data_for_feature_50546.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_50546.json"
+        ],
+        "41115": [
+            "json3/llama3-8b-it-res-jh/gentleman/data_for_feature_41115.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_41115.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_41115.json"
+        ],
+        "50043": [
+            "json3/llama3-8b-it-res-jh/gentleman/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_50043.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_50043.json"
+        ],
+        "2677": [
+            "json3/llama3-8b-it-res-jh/gentleman/data_for_feature_2677.json",
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_2677.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_2677.json"
+        ],
+        "11703": [
+            "json3/llama3-8b-it-res-jh/gentleman/data_for_feature_11703.json",
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_11703.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_11703.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_11703.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_11703.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_11703.json"
+        ],
+        "42826": [
+            "json3/llama3-8b-it-res-jh/gentleman/data_for_feature_42826.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_42826.json"
+        ],
+        "10522": [
+            "json3/llama3-8b-it-res-jh/homemaker/data_for_feature_10522.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_10522.json"
+        ],
+        "13910": [
+            "json3/llama3-8b-it-res-jh/homemaker/data_for_feature_13910.json",
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_13910.json"
+        ],
+        "57985": [
+            "json3/llama3-8b-it-res-jh/homemaker/data_for_feature_57985.json",
+            "json3/llama3-8b-it-res-jh/assistant/data_for_feature_57985.json"
+        ],
+        "1828": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_1828.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_1828.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_1828.json"
+        ],
+        "32640": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_32640.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_32640.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_32640.json"
+        ],
+        "39652": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_39652.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_39652.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_39652.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_39652.json"
+        ],
+        "215": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_215.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_215.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_215.json"
+        ],
+        "47103": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_47103.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_47103.json"
+        ],
+        "32146": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_32146.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_32146.json"
+        ],
+        "59697": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_59697.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_59697.json"
+        ],
+        "2356": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_2356.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_2356.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_2356.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_2356.json"
+        ],
+        "9621": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_9621.json",
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_9621.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_9621.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_9621.json"
+        ],
+        "12193": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_12193.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_12193.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_12193.json"
+        ],
+        "49418": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_49418.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_49418.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_49418.json"
+        ],
+        "2808": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_2808.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_2808.json"
+        ],
+        "13501": [
+            "json3/llama3-8b-it-res-jh/M\u00e4dchen/data_for_feature_13501.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_13501.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_13501.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_13501.json"
+        ],
+        "48499": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_48499.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_48499.json"
+        ],
+        "47967": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_47967.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_47967.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_47967.json"
+        ],
+        "26919": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_26919.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_26919.json"
+        ],
+        "60673": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_60673.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_60673.json"
+        ],
+        "33664": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_33664.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_33664.json"
+        ],
+        "59358": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_59358.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_59358.json"
+        ],
+        "49605": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_49605.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_49605.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_49605.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_49605.json"
+        ],
+        "24555": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_24555.json",
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_24555.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_24555.json"
+        ],
+        "39004": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_39004.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_39004.json"
+        ],
+        "12451": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_12451.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_12451.json"
+        ],
+        "24970": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_24970.json",
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_24970.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_24970.json"
+        ],
+        "30370": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_30370.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_30370.json"
+        ],
+        "11644": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_11644.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_11644.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_11644.json"
+        ],
+        "40954": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_40954.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_40954.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_40954.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_40954.json"
+        ],
+        "32512": [
+            "json3/llama3-8b-it-res-jh/islam/data_for_feature_32512.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_32512.json"
+        ],
+        "55095": [
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_55095.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_55095.json"
+        ],
+        "22874": [
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_22874.json",
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_22874.json"
+        ],
+        "37498": [
+            "json3/llama3-8b-it-res-jh/fundamentalist/data_for_feature_37498.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_37498.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_37498.json"
+        ],
+        "52678": [
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_52678.json",
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_52678.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_52678.json"
+        ],
+        "21737": [
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_21737.json",
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_21737.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_21737.json"
+        ],
+        "56435": [
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_56435.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_56435.json",
+            "json3/llama3-8b-it-res-jh/mecca/data_for_feature_56435.json"
+        ],
+        "52948": [
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_52948.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_52948.json"
+        ],
+        "52435": [
+            "json3/llama3-8b-it-res-jh/temple/data_for_feature_52435.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_52435.json",
+            "json3/llama3-8b-it-res-jh/mecca/data_for_feature_52435.json"
+        ],
+        "1900": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_1900.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_1900.json"
+        ],
+        "58918": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_58918.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_58918.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_58918.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_58918.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_58918.json"
+        ],
+        "13985": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_13985.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_13985.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_13985.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_13985.json"
+        ],
+        "46239": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_46239.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_46239.json"
+        ],
+        "44138": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_44138.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_44138.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_44138.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_44138.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_44138.json"
+        ],
+        "64745": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_64745.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_64745.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_64745.json"
+        ],
+        "34504": [
+            "json3/llama3-8b-it-res-jh/kosher/data_for_feature_34504.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_34504.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_34504.json",
+            "json3/llama3-8b-it-res-jh/shabbat/data_for_feature_34504.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_34504.json"
+        ],
+        "2747": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_2747.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_2747.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_2747.json"
+        ],
+        "30004": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_30004.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_30004.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_30004.json"
+        ],
+        "10623": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_10623.json",
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_10623.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_10623.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_10623.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_10623.json"
+        ],
+        "11799": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_11799.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_11799.json"
+        ],
+        "1103": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_1103.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_1103.json"
+        ],
+        "6479": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_6479.json",
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_6479.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_6479.json"
+        ],
+        "54783": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_54783.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_54783.json"
+        ],
+        "24105": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_24105.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_24105.json"
+        ],
+        "60198": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_60198.json",
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_60198.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_60198.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_60198.json",
+            "json3/llama3-8b-it-res-jh/Frau/data_for_feature_60198.json",
+            "json3/llama3-8b-it-res-jh/Junge/data_for_feature_60198.json"
+        ],
+        "12718": [
+            "json3/llama3-8b-it-res-jh/male/data_for_feature_12718.json",
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_12718.json",
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_12718.json",
+            "json3/llama3-8b-it-res-jh/boy/data_for_feature_12718.json"
+        ],
+        "32575": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_32575.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_32575.json"
+        ],
+        "28863": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_28863.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_28863.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_28863.json"
+        ],
+        "14363": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_14363.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_14363.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_14363.json"
+        ],
+        "5820": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_5820.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_5820.json"
+        ],
+        "18728": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_18728.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_18728.json"
+        ],
+        "50315": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_50315.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_50315.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_50315.json"
+        ],
+        "34756": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_34756.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_34756.json"
+        ],
+        "42854": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_42854.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_42854.json"
+        ],
+        "58804": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_58804.json",
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_58804.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_58804.json"
+        ],
+        "23754": [
+            "json3/llama3-8b-it-res-jh/grandpa/data_for_feature_23754.json",
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_23754.json"
+        ],
+        "40642": [
+            "json3/llama3-8b-it-res-jh/burka/data_for_feature_40642.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_40642.json"
+        ],
+        "64295": [
+            "json3/llama3-8b-it-res-jh/burka/data_for_feature_64295.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_64295.json"
+        ],
+        "23344": [
+            "json3/llama3-8b-it-res-jh/burka/data_for_feature_23344.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_23344.json"
+        ],
+        "11092": [
+            "json3/llama3-8b-it-res-jh/burka/data_for_feature_11092.json",
+            "json3/llama3-8b-it-res-jh/muslim/data_for_feature_11092.json"
+        ],
+        "25393": [
+            "json3/llama3-8b-it-res-jh/burka/data_for_feature_25393.json",
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_25393.json"
+        ],
+        "13857": [
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_13857.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_13857.json"
+        ],
+        "36476": [
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_36476.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_36476.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_36476.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_36476.json"
+        ],
+        "36487": [
+            "json3/llama3-8b-it-res-jh/kippah/data_for_feature_36487.json",
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_36487.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_36487.json",
+            "json3/llama3-8b-it-res-jh/judaism/data_for_feature_36487.json"
+        ],
+        "43034": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_43034.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_43034.json"
+        ],
+        "1097": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_1097.json",
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_1097.json"
+        ],
+        "63705": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_63705.json",
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_63705.json"
+        ],
+        "55776": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_55776.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_55776.json"
+        ],
+        "18861": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_18861.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_18861.json"
+        ],
+        "48997": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_48997.json",
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_48997.json"
+        ],
+        "57805": [
+            "json3/llama3-8b-it-res-jh/church/data_for_feature_57805.json",
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_57805.json"
+        ],
+        "42443": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_42443.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_42443.json"
+        ],
+        "27500": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_27500.json",
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_27500.json"
+        ],
+        "28843": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_28843.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_28843.json"
+        ],
+        "37644": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_37644.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_37644.json"
+        ],
+        "11995": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_11995.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_11995.json"
+        ],
+        "5190": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_5190.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_5190.json"
+        ],
+        "31244": [
+            "json3/llama3-8b-it-res-jh/christian/data_for_feature_31244.json",
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_31244.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_31244.json"
+        ],
+        "48551": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_48551.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_48551.json"
+        ],
+        "27923": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_27923.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_27923.json"
+        ],
+        "39357": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_39357.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_39357.json"
+        ],
+        "11232": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_11232.json",
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_11232.json"
+        ],
+        "57522": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_57522.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_57522.json"
+        ],
+        "33533": [
+            "json3/llama3-8b-it-res-jh/queen/data_for_feature_33533.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_33533.json"
+        ],
+        "63790": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_63790.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_63790.json"
+        ],
+        "4026": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_4026.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_4026.json"
+        ],
+        "36172": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_36172.json",
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_36172.json"
+        ],
+        "19135": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_19135.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_19135.json"
+        ],
+        "19943": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_19943.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_19943.json"
+        ],
+        "20326": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_20326.json",
+            "json3/llama3-8b-it-res-jh/assistant/data_for_feature_20326.json"
+        ],
+        "56561": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_56561.json",
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_56561.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_56561.json"
+        ],
+        "30968": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_30968.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_30968.json"
+        ],
+        "778": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_778.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_778.json"
+        ],
+        "270": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_270.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_270.json"
+        ],
+        "18442": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_18442.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_18442.json"
+        ],
+        "3632": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_3632.json",
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_3632.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_3632.json"
+        ],
+        "34262": [
+            "json3/llama3-8b-it-res-jh/nurse/data_for_feature_34262.json",
+            "json3/llama3-8b-it-res-jh/doctor/data_for_feature_34262.json"
+        ],
+        "46787": [
+            "json3/llama3-8b-it-res-jh/grandma/data_for_feature_46787.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_46787.json"
+        ],
+        "38798": [
+            "json3/llama3-8b-it-res-jh/midwife/data_for_feature_38798.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_38798.json"
+        ],
+        "33251": [
+            "json3/llama3-8b-it-res-jh/Mann/data_for_feature_33251.json",
+            "json3/llama3-8b-it-res-jh/man/data_for_feature_33251.json"
+        ],
+        "40775": [
+            "json3/llama3-8b-it-res-jh/mosque/data_for_feature_40775.json",
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_40775.json"
+        ],
+        "61829": [
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_61829.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_61829.json"
+        ],
+        "48466": [
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_48466.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_48466.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_48466.json"
+        ],
+        "36641": [
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_36641.json",
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_36641.json"
+        ],
+        "2456": [
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_2456.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_2456.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_2456.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_2456.json"
+        ],
+        "46642": [
+            "json3/llama3-8b-it-res-jh/baptsim/data_for_feature_46642.json",
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_46642.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_46642.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_46642.json"
+        ],
+        "48413": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_48413.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_48413.json"
+        ],
+        "28509": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_28509.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_28509.json"
+        ],
+        "4859": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_4859.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_4859.json"
+        ],
+        "11729": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_11729.json",
+            "json3/llama3-8b-it-res-jh/daughter/data_for_feature_11729.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_11729.json"
+        ],
+        "16657": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_16657.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_16657.json"
+        ],
+        "25788": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_25788.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_25788.json"
+        ],
+        "33491": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_33491.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_33491.json"
+        ],
+        "39664": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_39664.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_39664.json"
+        ],
+        "56477": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_56477.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_56477.json"
+        ],
+        "47874": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_47874.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_47874.json"
+        ],
+        "39598": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_39598.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_39598.json"
+        ],
+        "62086": [
+            "json3/llama3-8b-it-res-jh/husband/data_for_feature_62086.json",
+            "json3/llama3-8b-it-res-jh/wife/data_for_feature_62086.json"
+        ],
+        "3965": [
+            "json3/llama3-8b-it-res-jh/juif/data_for_feature_3965.json",
+            "json3/llama3-8b-it-res-jh/jew/data_for_feature_3965.json"
+        ],
+        "29482": [
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_29482.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_29482.json"
+        ],
+        "28691": [
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_28691.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_28691.json"
+        ],
+        "33361": [
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_33361.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_33361.json"
+        ],
+        "40773": [
+            "json3/llama3-8b-it-res-jh/woman/data_for_feature_40773.json",
+            "json3/llama3-8b-it-res-jh/lady/data_for_feature_40773.json"
+        ],
+        "52638": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_52638.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_52638.json"
+        ],
+        "17328": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_17328.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_17328.json"
+        ],
+        "27723": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_27723.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_27723.json"
+        ],
+        "58476": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_58476.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_58476.json"
+        ],
+        "31730": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_31730.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_31730.json"
+        ],
+        "28650": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_28650.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_28650.json"
+        ],
+        "21548": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_21548.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_21548.json"
+        ],
+        "6488": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_6488.json",
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_6488.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_6488.json"
+        ],
+        "1426": [
+            "json3/llama3-8b-it-res-jh/bible/data_for_feature_1426.json",
+            "json3/llama3-8b-it-res-jh/torah/data_for_feature_1426.json"
+        ],
+        "59213": [
+            "json3/llama3-8b-it-res-jh/jesus/data_for_feature_59213.json",
+            "json3/llama3-8b-it-res-jh/Jude/data_for_feature_59213.json"
+        ],
+        "29795": [
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_29795.json",
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_29795.json"
+        ],
+        "8919": [
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_8919.json",
+            "json3/llama3-8b-it-res-jh/professor/data_for_feature_8919.json"
+        ],
+        "55879": [
+            "json3/llama3-8b-it-res-jh/pope/data_for_feature_55879.json",
+            "json3/llama3-8b-it-res-jh/professor/data_for_feature_55879.json"
+        ],
+        "8962": [
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_8962.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_8962.json"
+        ],
+        "15477": [
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_15477.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_15477.json"
+        ],
+        "62076": [
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_62076.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_62076.json"
+        ],
+        "22380": [
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_22380.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_22380.json"
+        ],
+        "59404": [
+            "json3/llama3-8b-it-res-jh/she/data_for_feature_59404.json",
+            "json3/llama3-8b-it-res-jh/king/data_for_feature_59404.json"
+        ],
+        "11104": [
+            "json3/llama3-8b-it-res-jh/professor/data_for_feature_11104.json",
+            "json3/llama3-8b-it-res-jh/assistant/data_for_feature_11104.json"
+        ],
+        "23108": [
+            "json3/llama3-8b-it-res-jh/professor/data_for_feature_23108.json",
+            "json3/llama3-8b-it-res-jh/assistant/data_for_feature_23108.json"
+        ]
+    }
+}

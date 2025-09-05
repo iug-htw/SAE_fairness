@@ -1,0 +1,602 @@
+[
+    {
+        "index": "513",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_513.json",
+        "negative_strings": [
+            " Rivals",
+            " Collider",
+            " Wolves",
+            " CFR",
+            " Tycoon",
+            " Forge",
+            "20439",
+            " tits",
+            " Stories",
+            " park"
+        ],
+        "positive_strings": [
+            "rahim",
+            "afia",
+            " Rahman",
+            "renheit",
+            "allah",
+            "rah",
+            "aina",
+            "usal",
+            "jit",
+            "le"
+        ],
+        "description": "names related to the Muslim community"
+    },
+    {
+        "index": "41781",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_41781.json",
+        "negative_strings": [
+            "osal",
+            "inventoryQuantity",
+            "\u0138\u013c",
+            " Myster",
+            "ATURE",
+            "ertodd",
+            "uracy",
+            "ucha",
+            " Cosponsors",
+            "Lex"
+        ],
+        "positive_strings": [
+            " extremists",
+            " supremacist",
+            " Arabs",
+            " militant",
+            " Islamist",
+            " Muslim",
+            " Arab",
+            " militants",
+            " Muslims",
+            " nationalist"
+        ],
+        "description": " references to different sects of Islam, particularly Sunni and Shia"
+    },
+    {
+        "index": "13955",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_13955.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "cold",
+            " WD",
+            " Vaugh",
+            "anke",
+            "ATA",
+            "angled",
+            "ainer",
+            " Rockefeller"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "abad",
+            "istani",
+            "ophobic",
+            "majority",
+            " supremacist",
+            "ophobia",
+            " cleric",
+            " supremacists",
+            " fundamentalist"
+        ],
+        "description": " words related to the Muslim population or Islam"
+    },
+    {
+        "index": "29659",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_29659.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            " WD",
+            " Vaugh",
+            "amina",
+            "angled",
+            "ATA",
+            "cold",
+            "anke",
+            "ainer",
+            "TOP"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "istani",
+            "abad",
+            " supremacist",
+            "majority",
+            "ophobic",
+            " supremacists",
+            " cleric",
+            "ophobia",
+            " fundamentalist"
+        ],
+        "description": "references to the Muslim community"
+    },
+    {
+        "index": "81173",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_81173.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "anke",
+            " Vaugh",
+            "angled",
+            "cold",
+            " WD",
+            "ngth",
+            "wcsstore",
+            "ainer"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "istani",
+            "abad",
+            " cleric",
+            "ophobic",
+            " supremacist",
+            "majority",
+            " clerics",
+            " supremacists",
+            "ophobia"
+        ],
+        "description": "references to Muslims or the Muslim community"
+    },
+    {
+        "index": "81173",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_81173.json",
+        "negative_strings": [
+            "\u00e6\u00a9",
+            "amina",
+            "anke",
+            " Vaugh",
+            "angled",
+            "cold",
+            " WD",
+            "ngth",
+            "wcsstore",
+            "ainer"
+        ],
+        "positive_strings": [
+            " Brotherhood",
+            "istani",
+            "abad",
+            " cleric",
+            "ophobic",
+            " supremacist",
+            "majority",
+            " clerics",
+            " supremacists",
+            "ophobia"
+        ],
+        "description": "references to Muslims or the Muslim community"
+    },
+    {
+        "index": "10394",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_10394.json",
+        "negative_strings": [
+            " WD",
+            "\u00e6\u00a9",
+            "cold",
+            "amina",
+            " Vaugh",
+            "ATA",
+            "anke",
+            " Rockefeller",
+            "TOP",
+            "angled"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            " Brotherhood",
+            "istani",
+            "ophobia",
+            "majority",
+            " supremacist",
+            " cleric",
+            " fundamentalist",
+            " supremacists"
+        ],
+        "description": "mentions of Islam, Muslims, mosques, and multiculturalism"
+    },
+    {
+        "index": "7230",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_7230.json",
+        "negative_strings": [
+            " Rober",
+            " WD",
+            "cold",
+            " Panasonic",
+            " Seah",
+            " heights",
+            "berries",
+            " EAR",
+            " Ong",
+            " Acer"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "ophobia",
+            "ophob",
+            "abad",
+            "oph",
+            "iyah",
+            "ization",
+            "aph",
+            "icals",
+            "ocide"
+        ],
+        "description": "mentions related to Islam and Muslims in a contentious context"
+    },
+    {
+        "index": "47776",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_47776.json",
+        "negative_strings": [
+            "theless",
+            "\u00e3\u0123\u0128",
+            "anwhile",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " Clicker",
+            "*/(",
+            "\u00e3\u0125\u00ac",
+            "orative",
+            " Aval"
+        ],
+        "positive_strings": [
+            "kees",
+            "pton",
+            "ya",
+            "riors",
+            "pload",
+            "pling",
+            "isha",
+            "arma",
+            "agar",
+            "omi"
+        ],
+        "description": "references to the Shia Muslim community"
+    },
+    {
+        "index": "5707",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_5707.json",
+        "negative_strings": [
+            " WD",
+            "cold",
+            "\u00e6\u00a9",
+            " Vaugh",
+            " Rockefeller",
+            "amina",
+            "anke",
+            "ATA",
+            "leneck",
+            "angled"
+        ],
+        "positive_strings": [
+            "abad",
+            "ophobic",
+            "istani",
+            " Brotherhood",
+            "ophobia",
+            " cleric",
+            "majority",
+            " supremacist",
+            " fundamentalist",
+            " supremacists"
+        ],
+        "description": "references to Muslims, Islamic practices, and related incidents in news articles"
+    },
+    {
+        "index": "40617",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_40617.json",
+        "negative_strings": [
+            "CLASSIFIED",
+            " Expend",
+            "\u00e3\u0123\u00ae\u00e9\u0143\u0136",
+            "enegger",
+            " BMC",
+            "anwhile",
+            " unfocusedRange",
+            " Philipp",
+            "\u00e3\u0123\u0128",
+            " confir"
+        ],
+        "positive_strings": [
+            "eless",
+            "vel",
+            "pper",
+            "emaker",
+            "hei",
+            "isha",
+            "ichi",
+            "ving",
+            "osh",
+            "ogi"
+        ],
+        "description": "references to a specific individual named \"Shoebat\""
+    },
+    {
+        "index": "1997",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_1997.json",
+        "negative_strings": [
+            "\u0138\u013c",
+            "osal",
+            "inventoryQuantity",
+            " Turing",
+            "obyl",
+            "Agent",
+            "ptroller",
+            " Wonderland",
+            " Myster",
+            "yrinth"
+        ],
+        "positive_strings": [
+            " extremists",
+            " militias",
+            " Muslims",
+            "majority",
+            " militant",
+            " nationalist",
+            " extremist",
+            " Muslim",
+            " supremacist",
+            " sect"
+        ],
+        "description": "terms related to religious and ethnic groups, particularly Sunni Muslims and related sects"
+    },
+    {
+        "index": "14139",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_14139.json",
+        "negative_strings": [
+            "heet",
+            "age",
+            " Cobb",
+            " Spielberg",
+            "aday",
+            " posit",
+            "rier",
+            " Stam",
+            " Hitch",
+            "busters"
+        ],
+        "positive_strings": [
+            "anmar",
+            " Myanmar",
+            "aution",
+            " Buddhist",
+            "jin",
+            "ORPG",
+            "hari",
+            "istani",
+            " Uz",
+            "pas"
+        ],
+        "description": "names of countries and areas related to a specific context or crisis, particularly focused on the Rohingya Muslim crisis in Myanmar"
+    },
+    {
+        "index": "49107",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_49107.json",
+        "negative_strings": [
+            "acly",
+            "\u00e3\u0124\u00aa",
+            " Conan",
+            "Ocean",
+            "essee",
+            "raught",
+            "isu",
+            "\u00e3\u0124\u00a9",
+            "aterasu",
+            "alez"
+        ],
+        "positive_strings": [
+            " affiliates",
+            " dictatorship",
+            " Brotherhood",
+            "ollah",
+            " members",
+            " operatives",
+            " leaders",
+            "hemy",
+            " affili",
+            " dissidents"
+        ],
+        "description": "references to the Muslim Brotherhood"
+    },
+    {
+        "index": "85831",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_85831.json",
+        "negative_strings": [
+            "estern",
+            "orative",
+            "anwhile",
+            "worthiness",
+            "sers",
+            "iard",
+            "ment",
+            "nih",
+            "resp",
+            "lished"
+        ],
+        "positive_strings": [
+            " militias",
+            " cleric",
+            " militia",
+            " clergy",
+            " sect",
+            " milit",
+            " bloc",
+            " clerics",
+            "majority",
+            " affiliation"
+        ],
+        "description": " references to the Shiite sect or community"
+    },
+    {
+        "index": "53386",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_53386.json",
+        "negative_strings": [
+            "inventoryQuantity",
+            "\u00e5\u00a7",
+            " Vaugh",
+            "amina",
+            "ATA",
+            "\u00e6\u00a9",
+            "Accessory",
+            "\u00e6\u00a9\u0141",
+            "Owner",
+            "clip"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "abad",
+            "ophobia",
+            "folk",
+            "hammad",
+            " praying",
+            "majority",
+            "ervative",
+            " slaughtered",
+            "istani"
+        ],
+        "description": " references to Muslims and their societal perceptions or experiences"
+    },
+    {
+        "index": "53386",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_53386.json",
+        "negative_strings": [
+            "inventoryQuantity",
+            "\u00e5\u00a7",
+            " Vaugh",
+            "amina",
+            "ATA",
+            "\u00e6\u00a9",
+            "Accessory",
+            "\u00e6\u00a9\u0141",
+            "Owner",
+            "clip"
+        ],
+        "positive_strings": [
+            "ophobic",
+            "abad",
+            "ophobia",
+            "folk",
+            "hammad",
+            " praying",
+            "majority",
+            "ervative",
+            " slaughtered",
+            "istani"
+        ],
+        "description": " references to Muslims and their societal perceptions or experiences"
+    },
+    {
+        "index": "3352",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_3352.json",
+        "negative_strings": [
+            " Winc",
+            "ovie",
+            " Unreal",
+            " Vaugh",
+            "asio",
+            "coni",
+            " Purg",
+            " SEN",
+            "icio",
+            " STOR"
+        ],
+        "positive_strings": [
+            " hijab",
+            " veil",
+            "cloth",
+            " worn",
+            " scarf",
+            " cloth",
+            " shaving",
+            " selfie",
+            " wearer",
+            " shave"
+        ],
+        "description": "references to the hijab and related head coverings"
+    },
+    {
+        "index": "33051",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_33051.json",
+        "negative_strings": [
+            "\u00e3\u0123\u00a6",
+            " hurd",
+            " Feder",
+            "uality",
+            "pport",
+            "xual",
+            "FTWARE",
+            "agara",
+            " variance",
+            " constitu"
+        ],
+        "positive_strings": [
+            "stein",
+            "pedia",
+            "roth",
+            "wig",
+            "bart",
+            "idge",
+            "enstein",
+            "bj",
+            " Classical",
+            "iak"
+        ],
+        "description": "words related to anti-Muslim activism and associated commentary"
+    },
+    {
+        "index": "33051",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/muslim/data_for_feature_33051.json",
+        "negative_strings": [
+            "\u00e3\u0123\u00a6",
+            " hurd",
+            " Feder",
+            "uality",
+            "pport",
+            "xual",
+            "FTWARE",
+            "agara",
+            " variance",
+            " constitu"
+        ],
+        "positive_strings": [
+            "stein",
+            "pedia",
+            "roth",
+            "wig",
+            "bart",
+            "idge",
+            "enstein",
+            "bj",
+            " Classical",
+            "iak"
+        ],
+        "description": "words related to anti-Muslim activism and associated commentary"
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": "6296",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_6296.json",
+        "negative_strings": [
+            " Erotische",
+            "illance",
+            "imentary",
+            " NUIT",
+            "vangst",
+            "\u00d1\u0131\u00d0\u00b6",
+            "\u00c5\u013beba",
+            "ModelAttribute",
+            "ureau",
+            ";element"
+        ],
+        "positive_strings": [
+            " Christianity",
+            " church",
+            " Bible",
+            " Church",
+            " Christians",
+            " prayer",
+            " Gospel",
+            " Jesus",
+            " theological",
+            " Christian"
+        ],
+        "description": " terms and phrases related to Christian beliefs and practices"
+    },
+    {
+        "index": "652",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_652.json",
+        "negative_strings": [
+            " Erotische",
+            "illance",
+            ";element",
+            "opard",
+            " NUIT",
+            "ModelAttribute",
+            "IODevice",
+            "\u00c5\u013beba",
+            "imentary",
+            "\u00d1\u0131\u00d0\u00b1"
+        ],
+        "positive_strings": [
+            " Christianity",
+            " church",
+            " Bible",
+            " Church",
+            " Christians",
+            " theological",
+            " Christian",
+            " religious",
+            " Gospel",
+            " churches"
+        ],
+        "description": "references to Christian beliefs and teachings related to faith and salvation"
+    },
+    {
+        "index": "19642",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_19642.json",
+        "negative_strings": [
+            "ervoir",
+            "inspace",
+            "rada",
+            "ULAR",
+            "\u00d0\u00be\u00d1\u0122\u00d0\u00be\u00d0\u00b2",
+            " Christians",
+            "elin",
+            "nika",
+            "uitive",
+            "atcher"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "-Muslim",
+            "izing",
+            "ities",
+            "ese",
+            " Bale",
+            "ITY",
+            "ize",
+            "ization"
+        ],
+        "description": "references to Christianity and related concepts"
+    },
+    {
+        "index": "85759",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_85759.json",
+        "negative_strings": [
+            " Christians",
+            "ervoir",
+            " Christian",
+            " Christianity",
+            "\u00ec\u00a7\u00b8",
+            "guard",
+            "ULAR",
+            " \u00d1\u0127\u00d1\u0122\u00d0\u00b8\u00d1\u0123\u00d1\u0124\u00d0\u00b8",
+            "Christian",
+            "rada"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "izing",
+            "ities",
+            "ese",
+            "-Muslim",
+            "ize",
+            "ization",
+            "ITY",
+            "ised"
+        ],
+        "description": " references to Christianity and related concepts"
+    },
+    {
+        "index": "119323",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_119323.json",
+        "negative_strings": [
+            "ata",
+            "ins",
+            "ate",
+            "ank",
+            "avage",
+            "bs",
+            "atars",
+            "ility",
+            "zk",
+            "ecz"
+        ],
+        "positive_strings": [
+            "IST",
+            "ISTA",
+            "ISTS",
+            "ISCO",
+            "isti",
+            "ISTIC",
+            "hdl",
+            "ISTER",
+            "IRST",
+            "ANDLE"
+        ],
+        "description": " acronyms and characters suggesting Christian themes or references"
+    },
+    {
+        "index": "22308",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_22308.json",
+        "negative_strings": [
+            "church",
+            "Church",
+            " relig",
+            "olon",
+            "Muslim",
+            " bishop",
+            " Religious",
+            " Mosque",
+            "-Muslim",
+            " theolog"
+        ],
+        "positive_strings": [
+            " Him",
+            " Christ",
+            " His",
+            " Jesus",
+            " Our",
+            " HIM",
+            " Himself",
+            " Someone",
+            " Your",
+            " Chr"
+        ],
+        "description": " phrases related to the concepts of faith and the Christian Gospel"
+    },
+    {
+        "index": "20798",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_20798.json",
+        "negative_strings": [
+            "\u00c3\u00b3nico",
+            "oru",
+            " dostan",
+            "xico",
+            "ault",
+            "icher",
+            "acle",
+            "ies",
+            "ULAR",
+            "\u00e0\u00b9\u012b\u00e0\u00b8\u0129"
+        ],
+        "positive_strings": [
+            " Himself",
+            " Christ",
+            " himself",
+            "Christ",
+            "/Y",
+            "alem",
+            "-follow",
+            " Who",
+            " cruc",
+            " Cruc"
+        ],
+        "description": " references to Jesus Christ and concepts related to Christianity"
+    },
+    {
+        "index": "13244",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_13244.json",
+        "negative_strings": [
+            "NavItem",
+            "\u00e6\u00be",
+            "\u00e3\u0122\u0127",
+            ">tag",
+            "+-+-",
+            ".Selenium",
+            "achers",
+            "\u00e4\u00bf\u013f\u00e9\u013c\u013e",
+            "\u00c5\u013ben",
+            "mey"
+        ],
+        "positive_strings": [
+            "ical",
+            "icals",
+            "ism",
+            "istic",
+            "ization",
+            "ist",
+            "ists",
+            "izing",
+            "ize",
+            "ista"
+        ],
+        "description": "terms related to evangelism and evangelical Christianity"
+    },
+    {
+        "index": "24449",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_24449.json",
+        "negative_strings": [
+            "elin",
+            "gaard",
+            "IES",
+            "gli",
+            "recision",
+            "china",
+            "soles",
+            "j\u00c5\u00a1\u00c3\u0143",
+            "ULAR",
+            "ikip"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "-Muslim",
+            "izing",
+            "ITY",
+            "ization",
+            "ities",
+            "ize",
+            "\u00e5\u00be\u0134",
+            "ese"
+        ],
+        "description": " mentions of Christianity and related concepts"
+    },
+    {
+        "index": "32455",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_32455.json",
+        "negative_strings": [
+            "china",
+            "IES",
+            "\u00c3\u00abn",
+            "ULAR",
+            "ervoir",
+            "ustr",
+            "\u00e3\u0123\u00a1\u00e3\u0124\u0125\u00e3\u0124\u0135",
+            "inspace",
+            "TURE",
+            " Christianity"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            " Bale",
+            "izing",
+            "-Muslim",
+            "ITY",
+            "ize",
+            "ization",
+            "\u00e5\u00be\u0134",
+            "ities"
+        ],
+        "description": "references to Christian themes and concepts"
+    },
+    {
+        "index": "70318",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_70318.json",
+        "negative_strings": [
+            ".sax",
+            "<quote",
+            "ODB",
+            " ngh\u00e1\u00bb\u012d",
+            "xda",
+            "okie",
+            "antt",
+            "\u00ce\u00b1\u00ce\u00bd\u00ce\u00b4",
+            "bi\u00c3\u00aan",
+            "xia"
+        ],
+        "positive_strings": [
+            " Jesus",
+            " Christ",
+            "Jesus",
+            "Christ",
+            " JC",
+            " Jes",
+            "JC",
+            " CHRIST",
+            "jes",
+            " Chr"
+        ],
+        "description": " references to theological concepts and figures related to Christianity"
+    },
+    {
+        "index": "26604",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_26604.json",
+        "negative_strings": [
+            "agra",
+            " Martins",
+            "Stripe",
+            "\u00e8\u012a\u00aa",
+            "PLEX",
+            ".scalablytyped",
+            "INavigation",
+            "RTOS",
+            "\u00d9\u012a\u00d8\u00aa\u00d8\u00b1",
+            "bands"
+        ],
+        "positive_strings": [
+            "atholic",
+            "optic",
+            "ister",
+            "elib",
+            "ath",
+            "athed",
+            "redo",
+            "elts",
+            " Cathedral",
+            "elt"
+        ],
+        "description": " references to terms related to the Christian calendar and saints"
+    },
+    {
+        "index": "29011",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_29011.json",
+        "negative_strings": [
+            "china",
+            "IES",
+            "ULAR",
+            "ustr",
+            "ervoir",
+            " Christianity",
+            "inspace",
+            "TURE",
+            "\u00c3\u00abn",
+            "\u00e3\u0123\u00a1\u00e3\u0124\u0125\u00e3\u0124\u0135"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            "-Muslim",
+            " Bale",
+            "izing",
+            "ITY",
+            "ities",
+            "ize",
+            " Scientists",
+            "ization"
+        ],
+        "description": " terms related to Christianity and Christian organizations"
+    },
+    {
+        "index": "3932",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_3932.json",
+        "negative_strings": [
+            "NavItem",
+            "\u00e0\u00b8\u00a1\u00e0\u00b8\u0143",
+            ">tag",
+            ".Selenium",
+            "\u00e0\u00b8\u00a5\u00e0\u00b8\u00b3",
+            "\u00e4\u00bf\u013f\u00e9\u013c\u013e",
+            "emens",
+            "mey",
+            "meld",
+            "\u00ec\u00a7\u0135"
+        ],
+        "positive_strings": [
+            "ical",
+            "icals",
+            "ization",
+            "istic",
+            "ism",
+            "ists",
+            "ize",
+            "ICAL",
+            "izing",
+            "ica"
+        ],
+        "description": "terms related to evangelical Christian beliefs and practices"
+    },
+    {
+        "index": "19224",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_19224.json",
+        "negative_strings": [
+            "china",
+            "ervoir",
+            "IES",
+            " Christianity",
+            "dk",
+            "elon",
+            "ikip",
+            "inspace",
+            "inch",
+            "ULAR"
+        ],
+        "positive_strings": [
+            "ity",
+            "ized",
+            " Bale",
+            "-Muslim",
+            "izing",
+            "ize",
+            "ITY",
+            "\u00e5\u00be\u0134",
+            "ities",
+            "ization"
+        ],
+        "description": "references to Christianity and related concepts"
+    },
+    {
+        "index": "74996",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_74996.json",
+        "negative_strings": [
+            "arendra",
+            "cisi",
+            "getter",
+            "(operator",
+            "AndGet",
+            "\u00c3\u00bcf",
+            "\u00e3\u0125\u00ab\u00e3\u0125\u0137",
+            "VML",
+            " letra",
+            "amac"
+        ],
+        "positive_strings": [
+            "ies",
+            " Church",
+            "oxy",
+            " jurisdictions",
+            " Christian",
+            " jurisdiction",
+            "Wiki",
+            "odox",
+            "-C",
+            " Christianity"
+        ],
+        "description": "references to various Orthodox Christian groups and entities"
+    },
+    {
+        "index": "120640",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_120640.json",
+        "negative_strings": [
+            "sob",
+            "erties",
+            "china",
+            "untime",
+            "\u00e6\u012c\u0140",
+            "ths",
+            "inx",
+            "gether",
+            "arta",
+            "\u00d1\u0129\u00d1\u0125\u00d0\u00ba"
+        ],
+        "positive_strings": [
+            "end",
+            "like",
+            " Jesus",
+            "li",
+            " cruc",
+            "mast",
+            "i",
+            "ians",
+            "iant",
+            " Cruc"
+        ],
+        "description": " references to Christ and Christianity"
+    },
+    {
+        "index": "28633",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/christianity/data_for_feature_28633.json",
+        "negative_strings": [
+            " ngh\u00e1\u00bb\u012d",
+            "okie",
+            "\u00ec\u00b0\u00b0",
+            "\u00e6\u0130\u012a",
+            "ODB",
+            "\u00ce\u00b1\u00ce\u00bd\u00ce\u00b4",
+            "<quote",
+            "_BOOT",
+            ".sul",
+            "\u00ea\u00b0\u0123"
+        ],
+        "positive_strings": [
+            " Christ",
+            " Jesus",
+            "Christ",
+            "Jesus",
+            " CHRIST",
+            " christ",
+            " Crist",
+            " JC",
+            " Chr",
+            " Jes"
+        ],
+        "description": " concepts related to faith, belief, and actions within Christianity"
+    },
+    {
+        "index": "74144",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_74144.json",
+        "negative_strings": [
+            "chart",
+            " Christianity",
+            "elin",
+            " Christians",
+            "china",
+            "gaard",
+            "ents",
+            "ustr",
+            "gest",
+            "lements"
+        ],
+        "positive_strings": [
+            "ized",
+            "ity",
+            "izing",
+            "\u00e5\u00be\u0134",
+            "ization",
+            "ize",
+            "-Muslim",
+            "ised",
+            "ophobic",
+            "isation"
+        ],
+        "description": "references to Christianity and its related concepts, especially in the context of critique or discussion of Christian nationalism"
+    },
+    {
+        "index": "107817",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/christianity/data_for_feature_107817.json",
+        "negative_strings": [
+            "rganization",
+            "warts",
+            "ryptography",
+            "relude",
+            ".uf",
+            "ivre",
+            "assed",
+            "/WebAPI",
+            "ederland",
+            "jspx"
+        ],
+        "positive_strings": [
+            "church",
+            "cur",
+            "urch",
+            "Church",
+            "hur",
+            "chr",
+            " Church",
+            "leton",
+            "h",
+            " church"
+        ],
+        "description": " references to Christ and Christian-related terms"
+    }
+]

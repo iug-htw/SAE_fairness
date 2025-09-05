@@ -1,0 +1,482 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "104357",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_104357.json",
+        "negative_strings": [
+            "ni\u0161tvo",
+            "\u2581EconPapers",
+            "Bitte",
+            "DataAnnotations",
+            "conocimiento",
+            "\u2581Bi\u00f4grafia",
+            "\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+            "ifikationer",
+            "ItemBackground",
+            "dersfield"
+        ],
+        "positive_strings": [
+            "\u2581Tor",
+            "\u2581TOR",
+            "Tor",
+            "\u2581tor",
+            "tor",
+            "TOR",
+            "\u2581\u0422\u043e\u0440",
+            "\u2581\u0442\u043e\u0440",
+            "\u2581torsion",
+            "\u2581torus"
+        ],
+        "description": "references to the term \"Tor\" and its variations in context"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
+        "index": "12125",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_12125.json",
+        "negative_strings": [
+            "\u51fa\u7248\u5e74",
+            "\u2581kasarigan",
+            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
+            "\u2581disambiguazione",
+            "\u2581ar\u015fivlendi",
+            "\u2581gynhyrchwyd",
+            "\u2581newBuilder",
+            "MigrationBuilder",
+            "tagHelperRunner",
+            "\udb40\udc6e"
+        ],
+        "positive_strings": [
+            "\u2581Jewish",
+            "Jewish",
+            "\u2581Rabbi",
+            "\u2581Judaism",
+            "\u2581Hebrew",
+            "\u2581rabbi",
+            "\u2581Jews",
+            "Rabbi",
+            "\u2581synagogue",
+            "\u2581synag"
+        ],
+        "description": " references to cultural holidays and family traditions"
+    },
+    {
+        "index": "89713",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_89713.json",
+        "negative_strings": [
+            "VersionUID",
+            "\u2581EconPapers",
+            "hematical",
+            "ExtendWith",
+            "po\u015bred",
+            "Merkmale",
+            "\u2581\ub530",
+            "Amicalement",
+            "\u2581Senhora",
+            "\u2581bpy"
+        ],
+        "positive_strings": [
+            "\u2581ujednoznacz",
+            "To",
+            "notch",
+            "\u2581Normdatei",
+            "\u1369",
+            "########.",
+            "WireFormatLite",
+            "\u2581To",
+            "\u2581transfieras",
+            "\ue315"
+        ],
+        "description": "specific scientific terms and concepts related to topological theory and associated parameters"
+    },
+    {
+        "index": "124905",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_124905.json",
+        "negative_strings": [
+            "hyrchwyd",
+            "\u10e3\u10e0\u10d8",
+            "\u27ec",
+            "tative",
+            "\u2581Bi\u00f4grafia",
+            "gaci\u00f3n",
+            "\u2581EconPapers",
+            "UnusedPrivate",
+            "\u2581intStringLen",
+            "PyExc"
+        ],
+        "positive_strings": [
+            "\u2581Tor",
+            "Tor",
+            "\u2581TOR",
+            "DoubleQuotes",
+            "\u2581tor",
+            "Vorte",
+            "\u2581\u0422\u043e\u0440",
+            "tore",
+            "tor",
+            "Torch"
+        ],
+        "description": "references to the word \"Tor\" and its variations, indicating a focus on topics related to that term or name in various contexts"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "122034",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_122034.json",
+        "negative_strings": [
+            "CloseOperation",
+            "\u2581CreateTagHelper",
+            "autoconfigure",
+            "RTLR",
+            "UnsafeEnabled",
+            "EndGlobalSection",
+            "\u2581UITableViewCell",
+            "\u2581terecht",
+            "vitis",
+            "defaults"
+        ],
+        "positive_strings": [
+            "\u2581\u0627\u0644\u0643\u0631\u064a\u0645",
+            "\u2581interpreter",
+            "\u2581Bookstore",
+            "\u2581audiobooks",
+            "\u2581audiobook",
+            "Quran",
+            "\u2581TextEditing",
+            "\u2581WebDriver",
+            "ranet",
+            "\u2581bookstore"
+        ],
+        "description": "references to religious texts, particularly the Quran"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "109228",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_109228.json",
+        "negative_strings": [
+            "\u2581Ressource",
+            "ece",
+            "\u2581pique",
+            "\u2581Juventud",
+            "Ford\u00edt\u00e1s",
+            "sweise",
+            "Cu\u00e1nto",
+            "\u2581Pozna\u0144",
+            "\u00f3lica",
+            "HashCode"
+        ],
+        "positive_strings": [
+            "\u00e9sult",
+            "\u2581endwhile",
+            "Parcelize",
+            "Slf",
+            "\u2581MainAxisSize",
+            "rans",
+            "\u2581Ter",
+            "\u2581ligiloj",
+            "\u2581Cor",
+            "ran"
+        ],
+        "description": "proper nouns, particularly names or titles"
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a torah\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    }
+]

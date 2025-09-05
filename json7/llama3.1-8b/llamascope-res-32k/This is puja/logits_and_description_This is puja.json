@@ -1,0 +1,392 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "15794",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_15794.json",
+        "negative_strings": [
+            "agem",
+            "ramework",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "ager",
+            " Feinstein",
+            "manuel",
+            "iveau",
+            "gaard",
+            "AGE",
+            " Kemal"
+        ],
+        "positive_strings": [
+            "erto",
+            "erta",
+            "issance",
+            "ertas",
+            "ente",
+            "TTY",
+            "ENTE",
+            "ERT",
+            "ertos",
+            "issant"
+        ],
+        "description": "references to Puerto Rico in the text"
+    },
+    {
+        "index": "14537",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_14537.json",
+        "negative_strings": [
+            "agem",
+            "AGE",
+            "ages",
+            "ager",
+            " Feinstein",
+            "age",
+            " tri",
+            " Kemal",
+            " Trip",
+            "ramework"
+        ],
+        "positive_strings": [
+            "erto",
+            "ertino",
+            "ENTE",
+            "issance",
+            "ente",
+            "issant",
+            "ertos",
+            "ertas",
+            "jabi",
+            "erta"
+        ],
+        "description": " references to the word \"Puerto.\""
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "29045",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_29045.json",
+        "negative_strings": [
+            "ager",
+            "agem",
+            "manuel",
+            "AGE",
+            "vere",
+            " kazan",
+            "acia",
+            "mith",
+            "gaard",
+            "\u00e9\u00a9"
+        ],
+        "positive_strings": [
+            "erto",
+            "issance",
+            "ertino",
+            "ertos",
+            "erta",
+            "TTY",
+            "ertas",
+            "ENTE",
+            "ERT",
+            "ente"
+        ],
+        "description": "references to Puerto Rico in a variety of contexts"
+    },
+    {
+        "index": "25864",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_25864.json",
+        "negative_strings": [
+            "z",
+            "i",
+            "e",
+            "t",
+            "iens",
+            "tz",
+            "st",
+            "ded",
+            "sp",
+            "tar"
+        ],
+        "positive_strings": [
+            "ks",
+            "ji",
+            "hr",
+            "ju",
+            "ft",
+            "va",
+            "ken",
+            "pe",
+            "ja",
+            "cho"
+        ],
+        "description": " words associated with familial relationships or connections"
+    },
+    {
+        "index": "30264",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_30264.json",
+        "negative_strings": [
+            "AGE",
+            "ager",
+            "gaard",
+            "agem",
+            "manuel",
+            "age",
+            "shal",
+            "agle",
+            "acia",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab\u00e3\u0125\u012b"
+        ],
+        "positive_strings": [
+            "erto",
+            "TTY",
+            "issance",
+            "ertas",
+            "ertos",
+            "ERT",
+            "ertino",
+            "erta",
+            "ENTE",
+            "issant"
+        ],
+        "description": " variations of the word \"Puerto.\""
+    },
+    {
+        "index": "4339",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_4339.json",
+        "negative_strings": [
+            "AGE",
+            "ager",
+            "achen",
+            "acia",
+            "shal",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u012f",
+            "manuel",
+            "gaard",
+            "agle",
+            " kazan"
+        ],
+        "positive_strings": [
+            "erto",
+            "issance",
+            "TTY",
+            "ENTE",
+            "ERT",
+            "ertas",
+            "ertos",
+            "ertino",
+            "erta",
+            "ente"
+        ],
+        "description": "references to Puerto Rico"
+    },
+    {
+        "index": "22791",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_22791.json",
+        "negative_strings": [
+            "ager",
+            "AGE",
+            "achen",
+            "shal",
+            "agle",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab\u00e3\u0125\u012b",
+            "manuel",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u012f",
+            " kazan",
+            " Einsatz"
+        ],
+        "positive_strings": [
+            "erto",
+            "issance",
+            "ERT",
+            "TTY",
+            "ertas",
+            "pu",
+            "erta",
+            "ertos",
+            " pu",
+            "ENTE"
+        ],
+        "description": " occurrences of the word \"puerto\" and its variations"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    },
+    {
+        "index": "28824",
+        "layer": null,
+        "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is puja\\data_for_feature_28824.json",
+        "negative_strings": [
+            "AGE",
+            "achen",
+            "shal",
+            "manuel",
+            "irus",
+            "\u00d8\u00a8\u00d8\u00a7\u00d9\u0126",
+            "uchs",
+            "rap",
+            "ager",
+            "rex"
+        ],
+        "positive_strings": [
+            "erto",
+            "issance",
+            "ERT",
+            "\u00e0\u00a5\u012f\u00e0\u00a4\u00a4\u00e0\u00a4\u0137",
+            "TTY",
+            "erta",
+            "pu",
+            "ertas",
+            " pu",
+            "\u00e0\u00b9\u0123\u00e0\u00b8\u00ab"
+        ],
+        "description": "references to Puerto Rico"
+    }
+]

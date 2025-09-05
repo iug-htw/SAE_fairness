@@ -1,0 +1,212 @@
+[
+    {
+        "index": "24305",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_24305.json",
+        "negative_strings": [
+            "cott",
+            "iqueta",
+            "otec",
+            "\u00ec\u00b9\u013e",
+            "bject",
+            "lec",
+            "allas",
+            "\u00e0\u00b9\u0125\u00e0\u00b8\u012a",
+            "ted",
+            "eph"
+        ],
+        "positive_strings": [
+            " of",
+            "-of",
+            "OfWork",
+            " upon",
+            "RuleContext",
+            "_of",
+            " Of",
+            " Upon",
+            "Upon",
+            ".of"
+        ],
+        "description": " monetary values in the context of large sums of money"
+    },
+    {
+        "index": "36626",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_36626.json",
+        "negative_strings": [
+            "olid",
+            "enco",
+            "olon",
+            "otr",
+            " Pension",
+            "\u00e7\u00b6",
+            "\u00cf\u0126\u00ce\u00b9\u00cf\u0125",
+            "ashes",
+            "ished",
+            " ETA"
+        ],
+        "positive_strings": [
+            " interest",
+            " Interest",
+            "Interest",
+            "interest",
+            "-interest",
+            "_interest",
+            " interests",
+            " interesse",
+            " interes",
+            " \u00d0\u00b8\u00d0\u00bd\u00d1\u0124\u00d0\u00b5\u00d1\u0122\u00d0\u00b5\u00d1\u0123"
+        ],
+        "description": " concepts related to credit ratings and their implications for borrowing money"
+    },
+    {
+        "index": "8494",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_8494.json",
+        "negative_strings": [
+            "mgr",
+            "@brief",
+            ".ds",
+            "\u00e3\u0123\u00b0\u00e3\u0123\u012d\u00e3\u0124\u012c",
+            "Neutral",
+            "HD",
+            ":animated",
+            "avage",
+            "undos",
+            " '{@"
+        ],
+        "positive_strings": [
+            " traditional",
+            " Traditional",
+            " conventional",
+            "traditional",
+            " fiat",
+            "Traditional",
+            "fi",
+            " FI",
+            " classical",
+            " fi"
+        ],
+        "description": " references to the nature and characteristics of cryptocurrency in comparison to traditional money"
+    },
+    {
+        "index": "35084",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_35084.json",
+        "negative_strings": [
+            "auer",
+            "dings",
+            "\u00e0\u00b8\u00a7\u00e0\u00b8\u0129",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00b4",
+            " Milf",
+            "\u00e1\u00bb\u0125m",
+            ".atom",
+            "urb",
+            "321",
+            " setUsername"
+        ],
+        "positive_strings": [
+            "900",
+            "700",
+            " Gard",
+            "600",
+            "haft",
+            "400",
+            "eza",
+            "(\"\"),",
+            "300",
+            "kul"
+        ],
+        "description": " financial figures and large amounts of money"
+    },
+    {
+        "index": "47546",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_47546.json",
+        "negative_strings": [
+            "ulp",
+            " Fortune",
+            "allen",
+            "\u00ec\u00b9",
+            " Caption",
+            "akan",
+            "uhe",
+            ".auto",
+            "AQ",
+            ".libs"
+        ],
+        "positive_strings": [
+            " currency",
+            " inflation",
+            " currencies",
+            " money",
+            " paper",
+            " circulation",
+            " fiat",
+            " gold",
+            " Fiat",
+            " exchange"
+        ],
+        "description": " concepts related to the nature and valuation of money"
+    },
+    {
+        "index": "55159",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_55159.json",
+        "negative_strings": [
+            "\u00c3\u00a9v",
+            " \u00e0\u00a4\u00a2",
+            "nech",
+            "\u00e5\u00ae\u00b9",
+            "lop",
+            "steder",
+            "\u00c3\u00b3b",
+            "\u00d8\u00a8\u00d9\u012a\u00d9\u0126",
+            "unky",
+            "\u00cf\u0126\u00cf\u0130\u00ce\u00bd"
+        ],
+        "positive_strings": [
+            " saving",
+            " Saving",
+            " save",
+            " saves",
+            " savings",
+            " Save",
+            "Save",
+            " budget",
+            "Saving",
+            "-saving"
+        ],
+        "description": " phrases related to financial dependence and the ability to save money"
+    },
+    {
+        "index": "27480",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/money/data_for_feature_27480.json",
+        "negative_strings": [
+            " their",
+            "their",
+            " Their",
+            "Their",
+            " they",
+            "\u00e5\u00a5\u00b9\u00e4\u00bb\u00ac",
+            " loro",
+            "they",
+            " THEIR",
+            " leur"
+        ],
+        "positive_strings": [
+            " himself",
+            " his",
+            "his",
+            "\u00e4\u00bb\u0138\u00e7\u013c\u0126",
+            " zijn",
+            "His",
+            "\u00e4\u00bb\u0138",
+            " \u00d0\u00b5\u00d0\u00bc\u00d1\u0125",
+            " Himself",
+            " seinem"
+        ],
+        "description": " references to money, political influence, and implications of wrongdoing"
+    }
+]

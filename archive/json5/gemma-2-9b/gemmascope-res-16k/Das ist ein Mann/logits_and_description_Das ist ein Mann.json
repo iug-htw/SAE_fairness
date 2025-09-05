@@ -1,0 +1,572 @@
+[
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "6540",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_6540.json",
+        "negative_strings": [
+            "\u2581namin",
+            "\u2581sya",
+            "\u2581tayo",
+            "\u2581kuta",
+            "\u2581doon",
+            "\u2581patas",
+            "\u2581niya",
+            "\u2581siya",
+            "\u2581bago",
+            "\u2581muna"
+        ],
+        "positive_strings": [
+            "\u2581und",
+            "\u2581mit",
+            "\u2581f\u00fcr",
+            "\u2581ohne",
+            "\u2581der",
+            "\u2581stockbild",
+            "\u2581auf",
+            "\u2581aus",
+            "\u2581oder",
+            "\u2581zwischen"
+        ],
+        "description": "modal verbs and related structures in German"
+    },
+    {
+        "index": "9893",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_9893.json",
+        "negative_strings": [
+            "\u2581plumas",
+            "\u2581v\u00f4tre",
+            "\u2581cortinas",
+            "\u2581n\u00f4tre",
+            "\u2581orejas",
+            "\u2581enfans",
+            "\u2581oreille",
+            "\u2581Wikiseite",
+            "\u2581cejas",
+            "\u2581velas"
+        ],
+        "positive_strings": [
+            "\u2581und",
+            "\u2581mit",
+            "\u2581die",
+            "\u2581neu",
+            "\u2581der",
+            "\u2581bis",
+            "\u2581aus",
+            "\u2581ver",
+            "\u2581von",
+            "\u2581des"
+        ],
+        "description": " technical vocabulary related to language and communication"
+    },
+    {
+        "index": "5150",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_5150.json",
+        "negative_strings": [
+            "\u2581inhoud",
+            "\u2581illustratie",
+            "\u2581afbeelding",
+            "\u2581gevallen",
+            "\u2581jongen",
+            "\u2581applicazioni",
+            "\u2581aandacht",
+            "\u2581indruk",
+            "\u2581c\u00e2te",
+            "\u2581moeite"
+        ],
+        "positive_strings": [
+            "\u2581Angebot",
+            "\u2581Thema",
+            "\u2581Verh\u00e4ltnis",
+            "\u2581Auge",
+            "\u2581Problem",
+            "\u2581Gebiet",
+            "ACKNOWLEDGEMENTS",
+            "\u2581Maximum",
+            "quantum",
+            "\u2581Projekt"
+        ],
+        "description": " mentions of modal verbs and their usage in sentences"
+    },
+    {
+        "index": "4645",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_4645.json",
+        "negative_strings": [
+            "\u2581nakalista",
+            "\u2581kasarigan",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "WriteBarrier",
+            "\u2581viewType",
+            "\u2581hidr\u00e1ulica",
+            "\u2581newOwner",
+            "\u2581copii",
+            "\u2581cat\u00f3lica"
+        ],
+        "positive_strings": [
+            "\u0414\u0438\u043d\u0430",
+            "\u2581Arrangement",
+            "\u6599",
+            "\u2581Thema",
+            "\u2581determine",
+            "\u2581Ding",
+            "\u2581Studium",
+            "Determine",
+            "\u2581Optimum",
+            "\u2581\u0148"
+        ],
+        "description": " references to the word \"Honig\" (honey) and modal verbs in various contexts"
+    },
+    {
+        "index": "10914",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_10914.json",
+        "negative_strings": [
+            "\u2581enfans",
+            "\u2581Menschheit",
+            "\u2581Wikiseite",
+            "\u2581F\u00fc\u00dfen",
+            "\u2581Geruch",
+            "\u2581plumas",
+            "\u2581Gr\u00fcsse",
+            "\u2581S\u00fcnde",
+            "\u2581M\u00e4nnern",
+            "\u2581Feinde"
+        ],
+        "positive_strings": [
+            "\u2581ver",
+            "\u2581mit",
+            "\u2581sch",
+            "\u2581neu",
+            "\u2581dyna",
+            "\u2581ent",
+            "\u2581bis",
+            "\u2581ge",
+            "\u2581die",
+            "\u2581analy"
+        ],
+        "description": " modal verbs and their usage in sentences"
+    },
+    {
+        "index": "9893",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_9893.json",
+        "negative_strings": [
+            "\u2581plumas",
+            "\u2581v\u00f4tre",
+            "\u2581cortinas",
+            "\u2581n\u00f4tre",
+            "\u2581orejas",
+            "\u2581enfans",
+            "\u2581oreille",
+            "\u2581Wikiseite",
+            "\u2581cejas",
+            "\u2581velas"
+        ],
+        "positive_strings": [
+            "\u2581und",
+            "\u2581mit",
+            "\u2581die",
+            "\u2581neu",
+            "\u2581der",
+            "\u2581bis",
+            "\u2581aus",
+            "\u2581ver",
+            "\u2581von",
+            "\u2581des"
+        ],
+        "description": " technical vocabulary related to language and communication"
+    },
+    {
+        "index": "1672",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_1672.json",
+        "negative_strings": [
+            "\u2581inhoud",
+            "\u2581c\u00e2te",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ma\u0219",
+            "\u2581gevallen",
+            "\u2581bun\u0103",
+            "\u2581met\u00e1lica",
+            "\u2581jongen",
+            "seamn\u0103",
+            "\u2581noastr\u0103"
+        ],
+        "positive_strings": [
+            "\u2581Arrangement",
+            "\u2581Thema",
+            "\u2581Engagement",
+            "createCanvas",
+            "\u2581Highlight",
+            "\u2581Studium",
+            "mathematical",
+            "parsedMessage",
+            "\u2581Stadium",
+            "\u2581Setup"
+        ],
+        "description": " instances of modal verbs and their usage in context"
+    },
+    {
+        "index": "10101",
+        "layer": null,
+        "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_10101.json",
+        "negative_strings": [
+            "StackNavigator",
+            "\u2581Stu",
+            "\u2581\u0ab5",
+            "\u2581Walkover",
+            "mbggenerated",
+            "\u0440\u043e\u0434",
+            "AddHtmlAttribute",
+            "\u2581\u0440\u043e\u0434",
+            "Carriera",
+            "styleable"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581Administrativna",
+            "\u2581CreateTagHelper",
+            "\ufeff<?",
+            "\u2581poveznice",
+            "\u2581be\u017fte",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0648\u064a\u0643\u064a\u067e",
+            "\u017felben",
+            "\u017fammen"
+        ],
+        "description": "proper nouns, particularly names of people, places, or specific entities"
+    }
+]

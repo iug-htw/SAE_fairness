@@ -1,0 +1,92 @@
+[
+    {
+        "index": "1778",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/teacher/data_for_feature_1778.json",
+        "negative_strings": [
+            "ilet",
+            "ModelProperty",
+            "olini",
+            "ompiler",
+            " Race",
+            " race",
+            "ystore",
+            "noop",
+            " brains",
+            "\u00e3\u0125\u00a9\u00e3\u0124\u00b9"
+        ],
+        "positive_strings": [
+            " styles",
+            "Styles",
+            " Throws",
+            " style",
+            " estilo",
+            "\u00e7\u00b3\u00bb\u00e7\u00b5\u00b1",
+            " system",
+            " schools",
+            "style",
+            "/styles"
+        ],
+        "description": "concepts related to martial arts instruction and the challenges faced by teachers in effectively conveying knowledge"
+    },
+    {
+        "index": "24387",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/teacher/data_for_feature_24387.json",
+        "negative_strings": [
+            "\u00d1\u0124\u00d1\u0122\u00d0\u00be",
+            "svp",
+            "IOD",
+            "ikip",
+            "onga",
+            "ponsored",
+            "AAD",
+            "ibold",
+            "exion",
+            "ikit"
+        ],
+        "positive_strings": [
+            " teacher",
+            " teachers",
+            " Teachers",
+            " Teacher",
+            " teaching",
+            "teacher",
+            "teachers",
+            "Teacher",
+            "Teachers",
+            " Teaching"
+        ],
+        "description": " text related to educational or disciplinary actions taken on students or teachers"
+    },
+    {
+        "index": "12296",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/teacher/data_for_feature_12296.json",
+        "negative_strings": [
+            " scouts",
+            "Trivia",
+            " Quar",
+            ".Automation",
+            " Scouts",
+            "nish",
+            "estone",
+            "obel",
+            "\u00d8\u00a7\u00d8\u00b1\u00d9\u0123",
+            " Homework"
+        ],
+        "positive_strings": [
+            " Teaching",
+            " Teacher",
+            " teacher",
+            " teaching",
+            " Teach",
+            " Teachers",
+            "Teacher",
+            " ped",
+            "teacher",
+            " teachers"
+        ],
+        "description": "information related to teachers and their working conditions"
+    }
+]

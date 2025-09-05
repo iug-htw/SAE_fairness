@@ -1,0 +1,30 @@
+{
+    "index": "101322",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a terror attack\\data_for_feature_101322.json",
+    "negative_strings": [
+        "ftagPool",
+        "bildeten",
+        "makeConstraints",
+        "\u2581\ub41c",
+        "ce\u011fine",
+        "\u2581estrat\u00e9gica",
+        "chaften",
+        "<bos>",
+        "\u2581bulundu",
+        "\u2581ba\u015f\u0131na"
+    ],
+    "positive_strings": [
+        "\u2581Terror",
+        "\u2581terror",
+        "terror",
+        "Terror",
+        "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+        "\u2581terrorism",
+        "imetsu",
+        "\u2581terrors",
+        "izing",
+        "istic"
+    ],
+    "description": "terms related to terrorism and its effects"
+}

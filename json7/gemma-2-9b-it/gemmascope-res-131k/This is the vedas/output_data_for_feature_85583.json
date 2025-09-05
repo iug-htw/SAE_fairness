@@ -1,0 +1,30 @@
+{
+    "index": "85583",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is the vedas\\data_for_feature_85583.json",
+    "negative_strings": [
+        "SP",
+        "AP",
+        "mod",
+        "<em>",
+        "US",
+        "PT",
+        "\u2581quim",
+        "board",
+        "CL",
+        "K"
+    ],
+    "positive_strings": [
+        "\u2581Inf\u00f3rmanos",
+        "\ud804\udd2e",
+        "\ud804\udd28",
+        "<unused52>",
+        "<unused74>",
+        "<unused28>",
+        "<unused41>",
+        "<unused16>",
+        "<pad>",
+        "<unused8>"
+    ],
+    "description": "instances of the word \"the.\""
+}

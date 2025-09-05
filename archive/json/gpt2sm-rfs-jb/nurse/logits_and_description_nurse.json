@@ -1,0 +1,482 @@
+[
+    {
+        "index": "34258",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_34258.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "inatory",
+            " attm",
+            "inations",
+            "\u00e3\u0125\u012a",
+            "\u00d9\u0127",
+            " Ramadan",
+            " SX",
+            "ipher",
+            "inates"
+        ],
+        "positive_strings": [
+            "maid",
+            " nursing",
+            " practitioner",
+            "hurst",
+            "home",
+            " nurse",
+            " nurs",
+            " care",
+            " lact",
+            "otin"
+        ],
+        "description": " references to nursing and related healthcare professions"
+    },
+    {
+        "index": "71500",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_71500.json",
+        "negative_strings": [
+            " attm",
+            "\u00e7\u012b\u012a",
+            "\u00e3\u0125\u012a",
+            "\u00d9\u0127",
+            "inatory",
+            " counterfe",
+            " SX",
+            " Ramadan",
+            "itars",
+            "ieg"
+        ],
+        "positive_strings": [
+            "maid",
+            " nursing",
+            " practitioner",
+            "hurst",
+            "home",
+            " care",
+            "otin",
+            "yard",
+            "atal",
+            " Nurs"
+        ],
+        "description": "references to nursing and related terms"
+    },
+    {
+        "index": "71500",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_71500.json",
+        "negative_strings": [
+            " attm",
+            "\u00e7\u012b\u012a",
+            "\u00e3\u0125\u012a",
+            "\u00d9\u0127",
+            "inatory",
+            " counterfe",
+            " SX",
+            " Ramadan",
+            "itars",
+            "ieg"
+        ],
+        "positive_strings": [
+            "maid",
+            " nursing",
+            " practitioner",
+            "hurst",
+            "home",
+            " care",
+            "otin",
+            "yard",
+            "atal",
+            " Nurs"
+        ],
+        "description": "references to nursing and related terms"
+    },
+    {
+        "index": "19492",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_19492.json",
+        "negative_strings": [
+            "displayText",
+            "lessly",
+            "cover",
+            " Kickstarter",
+            " hitch",
+            " disparate",
+            " bearer",
+            " underest",
+            " hindsight",
+            " undecided"
+        ],
+        "positive_strings": [
+            "daq",
+            "ium",
+            "ulty",
+            "ques",
+            "hip",
+            "cul",
+            "isters",
+            "heed",
+            "oda",
+            "ority"
+        ],
+        "description": " terms related to nursing or veterinary care"
+    },
+    {
+        "index": "19492",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_19492.json",
+        "negative_strings": [
+            "displayText",
+            "lessly",
+            "cover",
+            " Kickstarter",
+            " hitch",
+            " disparate",
+            " bearer",
+            " underest",
+            " hindsight",
+            " undecided"
+        ],
+        "positive_strings": [
+            "daq",
+            "ium",
+            "ulty",
+            "ques",
+            "hip",
+            "cul",
+            "isters",
+            "heed",
+            "oda",
+            "ority"
+        ],
+        "description": " terms related to nursing or veterinary care"
+    },
+    {
+        "index": "28553",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_28553.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "inations",
+            "izons",
+            "eering",
+            "izoph",
+            "azeera",
+            "inates",
+            "ozy",
+            "rencies",
+            "omsky"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " nurse",
+            " examiner",
+            " practitioners",
+            " nurs",
+            " nursing",
+            " Nurs",
+            " anesthesia",
+            "ess"
+        ],
+        "description": "references to nurses and nursing roles"
+    },
+    {
+        "index": "15372",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_15372.json",
+        "negative_strings": [
+            "\u00e7\u012b\u012a",
+            "inations",
+            "izons",
+            "izoph",
+            "azeera",
+            "eering",
+            " Unch",
+            " Ramadan",
+            "\u00e3\u0125\u012a",
+            "ridges"
+        ],
+        "positive_strings": [
+            "maid",
+            " practitioner",
+            " examiner",
+            " nurse",
+            " nursing",
+            " nurs",
+            " practitioners",
+            " nurses",
+            "ess",
+            " anesthesia"
+        ],
+        "description": "terms related to nursing and healthcare professionals"
+    },
+    {
+        "index": "7863",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_7863.json",
+        "negative_strings": [
+            " Ramos",
+            "ISON",
+            " Manip",
+            " Clarkson",
+            " Fernand",
+            "Bey",
+            " Takeru",
+            " Swed",
+            " Yamato",
+            " Slater"
+        ],
+        "positive_strings": [
+            "uits",
+            "hip",
+            "uit",
+            "chwitz",
+            "heed",
+            "cript",
+            "pread",
+            "ury",
+            "orrow",
+            "geons"
+        ],
+        "description": "words related to nursing"
+    },
+    {
+        "index": "5163",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_5163.json",
+        "negative_strings": [
+            "inations",
+            "\u00e7\u012b\u012a",
+            "\u00e2\u0138\u00ac",
+            "\u00e3\u0125\u012a",
+            "izons",
+            "gered",
+            "eering",
+            " Ramadan",
+            "\u00d9\u0127",
+            " Enlight"
+        ],
+        "positive_strings": [
+            " practitioner",
+            "maid",
+            " nurse",
+            " nursing",
+            " Nurs",
+            " nurs",
+            " doctor",
+            " practitioners",
+            " nurses",
+            " examiner"
+        ],
+        "description": "phrases and words related to nursing and healthcare"
+    },
+    {
+        "index": "7995",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_7995.json",
+        "negative_strings": [
+            "ORGE",
+            " MacArthur",
+            " Cheong",
+            " Scotia",
+            " Feld",
+            " Nile",
+            " Lith",
+            " rounding",
+            " Situation",
+            " Gupta"
+        ],
+        "positive_strings": [
+            "estone",
+            "emouth",
+            "eworks",
+            "etooth",
+            "etry",
+            "erver",
+            "igree",
+            "etsk",
+            "estones",
+            "ename"
+        ],
+        "description": "references to puppets and nursing"
+    },
+    {
+        "index": "65057",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_65057.json",
+        "negative_strings": [
+            "istically",
+            " conclud",
+            "ildo",
+            "isal",
+            "staking",
+            "DoS",
+            "inez",
+            " Faw",
+            "xxxxxxxx",
+            "xtap"
+        ],
+        "positive_strings": [
+            " babies",
+            " infants",
+            "feeding",
+            "maid",
+            "fed",
+            " puppies",
+            " mothers",
+            " moms",
+            " animals",
+            " diapers"
+        ],
+        "description": "terms related to breastfeeding and its associated practices"
+    },
+    {
+        "index": "8814",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_8814.json",
+        "negative_strings": [
+            " wishes",
+            " sums",
+            " Write",
+            "wrote",
+            "Tour",
+            "sburg",
+            " orbits",
+            " write",
+            " Rak",
+            " Yon"
+        ],
+        "positive_strings": [
+            " commonplace",
+            " rife",
+            " prevalent",
+            " rampant",
+            " paramount",
+            " ubiquitous",
+            " frowned",
+            " synonymous",
+            " prohibited",
+            " abound"
+        ],
+        "description": "phrases related to nursing and medical care"
+    },
+    {
+        "index": "22356",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_22356.json",
+        "negative_strings": [
+            " Limits",
+            "bug",
+            "THING",
+            " Sta",
+            " SPORTS",
+            " Dust",
+            "BIL",
+            " Romanian",
+            " radius",
+            " Germans"
+        ],
+        "positive_strings": [
+            "essee",
+            "eries",
+            "aults",
+            "etics",
+            "erate",
+            "ique",
+            "etically",
+            "essed",
+            "es",
+            "etic"
+        ],
+        "description": "references to nurses in various contexts"
+    },
+    {
+        "index": "845",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_845.json",
+        "negative_strings": [
+            " iPads",
+            "ravings",
+            " Scenes",
+            "zees",
+            " Puzzles",
+            " interfaces",
+            "rooms",
+            "isms",
+            " Beasts",
+            " VIDEOS"
+        ],
+        "positive_strings": [
+            " member",
+            " lawyer",
+            " accountant",
+            " graduate",
+            " supporter",
+            " biologist",
+            " educator",
+            " attorney",
+            " researcher",
+            " consultant"
+        ],
+        "description": "individuals' ages and their roles or positions, such as high school seniors or registered nurses"
+    },
+    {
+        "index": "54713",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_54713.json",
+        "negative_strings": [
+            " Tropical",
+            " Territories",
+            "osure",
+            "okemon",
+            "bush",
+            " Virus",
+            "SPONSORED",
+            "izoph",
+            " Poke",
+            " Stage"
+        ],
+        "positive_strings": [
+            "hip",
+            "hips",
+            "paces",
+            "mith",
+            " themselves",
+            "'",
+            " careers",
+            " unions",
+            " who",
+            " practicing"
+        ],
+        "description": "references to healthcare professionals, particularly nurses, and aspects of their employment"
+    },
+    {
+        "index": "54713",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/nurse/data_for_feature_54713.json",
+        "negative_strings": [
+            " Tropical",
+            " Territories",
+            "osure",
+            "okemon",
+            "bush",
+            " Virus",
+            "SPONSORED",
+            "izoph",
+            " Poke",
+            " Stage"
+        ],
+        "positive_strings": [
+            "hip",
+            "hips",
+            "paces",
+            "mith",
+            " themselves",
+            "'",
+            " careers",
+            " unions",
+            " who",
+            " practicing"
+        ],
+        "description": "references to healthcare professionals, particularly nurses, and aspects of their employment"
+    }
+]

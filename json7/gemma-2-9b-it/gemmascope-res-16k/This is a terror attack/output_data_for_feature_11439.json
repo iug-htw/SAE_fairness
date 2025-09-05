@@ -1,0 +1,30 @@
+{
+    "index": "11439",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is a terror attack\\data_for_feature_11439.json",
+    "negative_strings": [
+        "\u041f\u043e\u043f\u0438\u0441",
+        "Services",
+        "\u2581hacerlo",
+        "sphase",
+        "\u2581tego",
+        "\u2581inf\u00e9rieur",
+        "Format",
+        "Required",
+        "\u2581cl\u00ednico",
+        "dientemente"
+    ],
+    "positive_strings": [
+        "\u2581perpetrated",
+        "\u2581committed",
+        "\u2581prevention",
+        "\u0627\u0644\u062d\u064a\u0627\u0647",
+        "\u2581Prevention",
+        "prevention",
+        "\u2581Committed",
+        "Prevention",
+        "committed",
+        "PasswordEncoder"
+    ],
+    "description": "references to fraud and associated legal terminology"
+}

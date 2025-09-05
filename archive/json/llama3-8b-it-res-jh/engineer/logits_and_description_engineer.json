@@ -1,0 +1,152 @@
+[
+    {
+        "index": "21076",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/engineer/data_for_feature_21076.json",
+        "negative_strings": [
+            "\u00cc\u0125",
+            " nackte",
+            " Daemon",
+            "rung",
+            "edelta",
+            "odash",
+            "Dash",
+            "currentColor",
+            "ocha",
+            "zzarella"
+        ],
+        "positive_strings": [
+            " design",
+            " designs",
+            " Design",
+            " designing",
+            "design",
+            "Design",
+            " designed",
+            "\u00e8\u00ae\u00be\u00e8\u00ae\u00a1",
+            " DESIGN",
+            "-design"
+        ],
+        "description": " references to engineering and design details"
+    },
+    {
+        "index": "56694",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/engineer/data_for_feature_56694.json",
+        "negative_strings": [
+            "/vendors",
+            "\u00d0\u00b5\u00d0\u00bd\u00d0\u00bd\u00d1\u0138",
+            "atcher",
+            "illard",
+            " jot",
+            "\u00d0\u00b5\u00d1\u012b",
+            " Spears",
+            "_wire",
+            "\u00d0\u00b2\u00d1\u0138",
+            "STYPE"
+        ],
+        "positive_strings": [
+            " engine",
+            " engines",
+            " inline",
+            " Engines",
+            " Engine",
+            "engine",
+            "_engine",
+            "Engine",
+            "Inline",
+            " Inline"
+        ],
+        "description": " technical specifications and details related to automotive engines"
+    },
+    {
+        "index": "20984",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/engineer/data_for_feature_20984.json",
+        "negative_strings": [
+            "ivicrm",
+            "endar",
+            "adians",
+            "\u00e9\u0125\u0130",
+            " polled",
+            "oplan",
+            "aland",
+            "nee",
+            " chi\u00e1\u00bb\u0123u",
+            "adian"
+        ],
+        "positive_strings": [
+            " static",
+            " lint",
+            " Static",
+            "Static",
+            "static",
+            "lint",
+            " warnings",
+            "style",
+            "\u00e9\u013f\u013b",
+            " Son"
+        ],
+        "description": " references to software engineering concepts and practices"
+    },
+    {
+        "index": "56514",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/engineer/data_for_feature_56514.json",
+        "negative_strings": [
+            " intake",
+            " ag",
+            " chemical",
+            " meteor",
+            " Tap",
+            "oman",
+            " experiment",
+            " antid",
+            "bat",
+            "oj"
+        ],
+        "positive_strings": [
+            " device",
+            "-device",
+            " Device",
+            "device",
+            " devices",
+            "Device",
+            " Devices",
+            "devices",
+            " NOTES",
+            "robot"
+        ],
+        "description": " references to medical products and techniques related to tissue engineering and repair"
+    },
+    {
+        "index": "460",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/engineer/data_for_feature_460.json",
+        "negative_strings": [
+            "ampo",
+            "@brief",
+            "lech",
+            "pson",
+            "\u00cf\u0127\u00ce\u00ba",
+            "eson",
+            "abox",
+            "uido",
+            "lemn",
+            "cheme"
+        ],
+        "positive_strings": [
+            " expertise",
+            "expert",
+            " experience",
+            " knowledge",
+            " Expert",
+            " skills",
+            "Expert",
+            " experts",
+            " expert",
+            " know"
+        ],
+        "description": " references to expertise and knowledge sharing in engineering and construction contexts"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "123007",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a hostage\\data_for_feature_123007.json",
+    "negative_strings": [
+        "SequentialGroup",
+        "Erstellt",
+        "VIAF",
+        "\u2581AssemblyCompany",
+        "Linn",
+        "OGND",
+        ")++;",
+        "fjspx",
+        "\u2581rhestr",
+        "\u2581(_."
+    ],
+    "positive_strings": [
+        "\u2581hostage",
+        "\u2581hostages",
+        "\u2581captive",
+        "\u2581captives",
+        "\u2581prisoner",
+        "\u2581captivity",
+        "\u2581ransom",
+        "\u2581victim",
+        "\u2581prisoners",
+        "\u2581slave"
+    ],
+    "description": "references to hostages and hostage situations"
+}

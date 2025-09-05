@@ -1,0 +1,392 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "60885",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_60885.json",
+        "negative_strings": [
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "\u2581aanz",
+            "stacles",
+            "\u2778",
+            "D\u1eef",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "\u5e16\u6700\u540e\u7531",
+            "interno",
+            "graphique",
+            "\u2581d\u00e9lai"
+        ],
+        "positive_strings": [
+            "\u2581ha",
+            "Ha",
+            "\u2581Ha",
+            "\u2581Haver",
+            "\u2581HA",
+            "\u0425\u0430",
+            "\u2581Haag",
+            "\u2581hama",
+            "\u2581Hap",
+            "\u2581Haul"
+        ],
+        "description": " occurrences of the sound \"Ha\" in various contexts"
+    },
+    {
+        "index": "54260",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_54260.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "\u2581namorados",
+            "phrine",
+            "classnames",
+            "Personendaten",
+            "aarrggbb",
+            "\u2581Neuk",
+            "\u2581Donnelly",
+            "ftig",
+            "Abend"
+        ],
+        "positive_strings": [
+            "\u2581Hajj",
+            "\u2581pilgrims",
+            "\u2581pilgrimage",
+            "\u2581pilgrim",
+            "\u2581pilgri",
+            "\u2581Pilgri",
+            "\u2581\u062d\u062c",
+            "\u2581Pilgrims",
+            "\u2581haji",
+            "\u2581p\u00e8"
+        ],
+        "description": " geographic locations or neighborhoods"
+    },
+    {
+        "index": "49472",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_49472.json",
+        "negative_strings": [
+            "\u2581initComponents",
+            "XmlAttribute",
+            "glement",
+            "sauce",
+            "\u2581Dider",
+            "syl",
+            "\u2581Hift",
+            "acty",
+            "\u2581Feedback",
+            "omethyl"
+        ],
+        "positive_strings": [
+            "\u2581pilgrimage",
+            "\u2581pilgri",
+            "\u2581Pilgri",
+            "\u2581pilgrims",
+            "\u2581p\u00e8",
+            "\u2581pilgrim",
+            "\u2581Pilgrims",
+            "\u2581spirituale",
+            "\u2581tur\u00edstica",
+            "\u2581espiritual"
+        ],
+        "description": "references to pilgrimage and holy sites"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "31901",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_31901.json",
+        "negative_strings": [
+            "\u5f53\u4ee3",
+            "\u7736",
+            "oreille",
+            "\u2581sociala",
+            "apparent",
+            "\u2581prove",
+            "\u7cbe\u5f69",
+            "\u9762",
+            "\u2581apparent",
+            "\u2581clear"
+        ],
+        "positive_strings": [
+            "\u2581MainAxisSize",
+            "+#+#",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581defaultstate",
+            "RTEX",
+            "\u2581EconPapers",
+            "Hentet",
+            "LookAnd",
+            "\u2581disambiguazione",
+            "DrawerToggle"
+        ],
+        "description": " occurrences of the letter 'H'"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "51273",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is hajj\\data_for_feature_51273.json",
+        "negative_strings": [
+            "\u2581\u0627\u0644\u062d\u0631\u0647",
+            "IntoConstraints",
+            "ValueGeneration",
+            "\u2581otomatig",
+            "MessageTagHelper",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "mergeFrom",
+            "setcounter",
+            "XtraReports",
+            "URLException"
+        ],
+        "positive_strings": [
+            "\u2581Kaj",
+            "Dj",
+            "gj",
+            "Lij",
+            "\u2581BJ",
+            "\u2581FJ",
+            "Haj",
+            "\u2581SJ",
+            "\u2581Kej",
+            "\u2581Kij"
+        ],
+        "description": "references to a specific character or entity named \"Kaj\" and its various forms"
+    }
+]

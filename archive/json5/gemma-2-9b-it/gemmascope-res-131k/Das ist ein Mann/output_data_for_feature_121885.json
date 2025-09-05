@@ -1,0 +1,30 @@
+{
+    "index": "121885",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein Mann\\data_for_feature_121885.json",
+    "negative_strings": [
+        "totic",
+        "\u064a",
+        "willi",
+        "\u2581futile",
+        "\u2581dini",
+        "lewati",
+        "\u2581interrump",
+        "8",
+        "\u2581gratuitous",
+        "uque"
+    ],
+    "positive_strings": [
+        "\u2581man",
+        "\u2581Man",
+        "\u2581woman",
+        "\u2581Woman",
+        "Man",
+        "\u2581homme",
+        "man",
+        "\u2581men",
+        "\u2581WOMAN",
+        "hombre"
+    ],
+    "description": "references to male individuals"
+}

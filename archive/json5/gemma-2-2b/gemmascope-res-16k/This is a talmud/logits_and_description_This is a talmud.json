@@ -1,0 +1,482 @@
+[
+    {
+        "index": "4667",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_4667.json",
+        "negative_strings": [
+            "<eos>",
+            "\ufb00",
+            "jeta",
+            "ffar",
+            "<bos>",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "pri",
+            "pe",
+            "\u03bb\u03bf\u03b9",
+            "te"
+        ],
+        "positive_strings": [
+            "\u2581The\u017fe",
+            "\u2581becau\u017fe",
+            "\u2581my\u017felf",
+            "AddTagHelper",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "expandindo",
+            "\u2581Jefus",
+            "\u2581\u017feveral"
+        ],
+        "description": "words that indicate agreement, concession, or logical consequence, such as \"allows\", \"agree\", \"therefore\", \"however\", and \"accordingly\"."
+    },
+    {
+        "index": "13423",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_13423.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581monasterio",
+            "\u2581k\u00fcche",
+            "\u2581beina",
+            "\u2581and",
+            "\u2581essentially",
+            "\u2581nemlig",
+            "isela"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "\u2019",
+            "'",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2019\uff0c",
+            "expandindo"
+        ],
+        "description": "repeated structural patterns or sections in code or text"
+    },
+    {
+        "index": "6508",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_6508.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "AddWithValue",
+            "buttonBar",
+            "\u2581invokevirtual",
+            "\u2581Signalez",
+            "Hochspringen",
+            "Aiheesta",
+            "Fprintf",
+            "\u062d\u064a\u0627\u062a\u0647\u0627",
+            "Leg\u0103turi"
+        ],
+        "positive_strings": [
+            "ented",
+            "\u2581oprot",
+            "hassee",
+            "\u2581proposito",
+            "\u2581<>\",",
+            "\u2581Cual",
+            "Tal",
+            "\u2581springfox",
+            "\u2581Tal",
+            "BufferException"
+        ],
+        "description": "mentions of the term \"Tal\" in various contexts"
+    },
+    {
+        "index": "14668",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_14668.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "buttonBar",
+            "Fprintf",
+            "AddWithValue",
+            "\u2581Khe",
+            "\u2581Crim",
+            "subplots",
+            "\u2581StatelessWidget",
+            "Handlung",
+            "\u2581StringTokenizer"
+        ],
+        "positive_strings": [
+            "hassee",
+            "ented",
+            "\u2581oprot",
+            "mergeFrom",
+            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+            "\u2581proposito",
+            "\ud07c",
+            "TextSpan",
+            "EntryPoint",
+            "\u2581p\u00e8re"
+        ],
+        "description": "references to the word \"Tal\" in various contexts"
+    },
+    {
+        "index": "11063",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_11063.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "cicle",
+            "\u2581invokevirtual",
+            "\u2581Condens",
+            "\u2581Sound",
+            "\u00e9ment",
+            "\u2581Reim",
+            "\u2581condens",
+            "\u2581Biss",
+            "sound"
+        ],
+        "positive_strings": [
+            "ented",
+            "Tal",
+            "\u2581TAL",
+            "\u2581Tal",
+            "\ufeff<?",
+            "\u2581springfox",
+            "\u2581proposito",
+            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443",
+            "tal",
+            "ImageContext"
+        ],
+        "description": " mentions of the word \"Tal\" and its variations"
+    },
+    {
+        "index": "1735",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_1735.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "\u00e9ment",
+            "ocellular",
+            "\u2581Sound",
+            "\u2581Prova",
+            "togen",
+            "\u2581Condens",
+            "\u2581K\u00e4r",
+            "urgency",
+            "\u2581sva"
+        ],
+        "positive_strings": [
+            "\u2581TAL",
+            "Tal",
+            "\u2581Tal",
+            "ented",
+            "Tembelea",
+            "ngOn",
+            "\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629",
+            "tal",
+            "\u2581Talon",
+            "\u2581proposito"
+        ],
+        "description": "references to a specific place or location"
+    },
+    {
+        "index": "3736",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_3736.json",
+        "negative_strings": [
+            "\u2581ennemis",
+            "\u2581namelijk",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581compr\u00e9hen",
+            "\u4e92\u8054\u7f51\u6863\u6848\u9986",
+            "\u2581Infatti",
+            "isela",
+            "\u2581essentially",
+            "\u2581Jerusal\u00e9n",
+            "\u2581k\u00fcche"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "expandindo",
+            "\u2581Paglinawan"
+        ],
+        "description": " isolated or standalone numeric values"
+    },
+    {
+        "index": "16123",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_16123.json",
+        "negative_strings": [
+            "\u2014\u200a",
+            "ingu\u00e9m",
+            "isela",
+            "\u2581ennemis",
+            "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+            "\u2581s\u00e6rlig",
+            "erar",
+            "unna",
+            "\u2581espagne",
+            "\u2581Infatti"
+        ],
+        "positive_strings": [
+            "<bos>",
+            "'",
+            "\u2019",
+            "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+            "begin",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581nahilalakip",
+            "\u2581Baillargeon"
+        ],
+        "description": " code snippets or syntax elements in programming"
+    },
+    {
+        "index": "12317",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_12317.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "principalTable",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "\u2581that",
+            "\u2581CURLOPT",
+            "\u2581rencontr",
+            "KommentareTeilen",
+            "\u2581rest\u00e9",
+            "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581year",
+            "\u2581particular",
+            "\u2581month",
+            "\u2581past",
+            "\u2581Week",
+            "\u2581morning",
+            "\u2581weeks",
+            "\u2581amazing",
+            "\u2581unique"
+        ],
+        "description": " instances of the word \"this.\""
+    },
+    {
+        "index": "2347",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_2347.json",
+        "negative_strings": [
+            "IUrlHelper",
+            "\u00e9ment",
+            "sound",
+            "\u0414\u0435\u0439",
+            "ocellular",
+            "ADVERTISEMENT",
+            "om\u00e9trique",
+            "\u2581StringTokenizer",
+            "saraba",
+            "\u2581existential"
+        ],
+        "positive_strings": [
+            "\u2581TAL",
+            "WaitGroup",
+            "Tal",
+            "\u2581Tal",
+            "ented",
+            "Tembelea",
+            "\u2581proposito",
+            "sizeCache",
+            "\u2581Talley",
+            "\u2581\u043e\u0440\u0438\u0433\u0456\u043d\u0430\u043b\u0443"
+        ],
+        "description": "references to a specific location or entity associated with the term \"Tal.\""
+    },
+    {
+        "index": "4575",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_4575.json",
+        "negative_strings": [
+            "\u2581Baillargeon",
+            "there",
+            "\u2581\u0111\u00f3",
+            "\u2581nakalista",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "\u305d\u3053\u306f",
+            "this",
+            "InjectAttribute",
+            "\u2581\u0430\u0440\u0445\u0438\u0432\u043b\u0430\u043d",
+            "THERE"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581because",
+            "\u2581where",
+            "\u2581happening",
+            "\u2581done",
+            "\u2581true",
+            "\u2581especially",
+            "\u2581allemaal",
+            "\u2581happened"
+        ],
+        "description": "the presence of the verb \"is\" and instances of the word \"not\" used to negate"
+    },
+    {
+        "index": "9139",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_9139.json",
+        "negative_strings": [
+            "\u2581slightest",
+            "\u2581quelconque",
+            "\u2581stesso",
+            "\u2581sz\u00fcks",
+            "\u2581anymore",
+            "\u2581gotten",
+            "\u2581diff\u00e9rent",
+            "\u2581fewest",
+            "migrationBuilder",
+            "\u2581moindre"
+        ],
+        "positive_strings": [
+            "\u2581week",
+            "\u2581Week",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581year",
+            "\u2581month",
+            "\u2581is",
+            "\u2581Month",
+            "\u2581weeks",
+            "\u2581Is",
+            "MigrationBuilder"
+        ],
+        "description": " instances of the word \"This\" at the beginning of sentences"
+    },
+    {
+        "index": "1479",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_1479.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\u2581nakalista",
+            "\u2581EconPapers",
+            "InjectAttribute",
+            "\ue315",
+            ":\u2728",
+            "\u2581betweenstory",
+            "\u2581therein",
+            "\u2581BIBSYS",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581allemaal",
+            "true",
+            "\u2581despite",
+            "\u2581done"
+        ],
+        "description": "the presence of the word \"is\" and its variations in different contexts"
+    },
+    {
+        "index": "9011",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_9011.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "\ue315",
+            "InjectAttribute",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "StoryboardSegue",
+            "\u2581therein",
+            "OGND",
+            ":\u2728",
+            "\u0627\u0644\u062f\u0631\u0627\u0633\u0647"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581done",
+            "\u2581despite"
+        ],
+        "description": "statements asserting the quality or characteristics of something"
+    },
+    {
+        "index": "9625",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_9625.json",
+        "negative_strings": [
+            "\u2581ModelExpression",
+            "InjectAttribute",
+            "\ue315",
+            "\u2581EconPapers",
+            "\u2581nakalista",
+            "OGND",
+            "\u2581betweenstory",
+            "StoryboardSegue",
+            "theless",
+            "\u2581autorytatywna"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581where",
+            "\u2581true",
+            "\u2581why",
+            "\u2581the",
+            "\u2581my",
+            "\u2581allemaal",
+            "\u2581truly",
+            "\u2581all",
+            "\u2581done"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "2604",
+        "layer": null,
+        "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\This is a talmud\\data_for_feature_2604.json",
+        "negative_strings": [
+            "\u00e9ment",
+            "\u0451\u0440",
+            "\u6df1\u5ea6",
+            "\u2581biological",
+            "\u2581cardia",
+            "\u2581Inseln",
+            "ICLE",
+            "\u2581Versch",
+            "togen",
+            "\u01e7"
+        ],
+        "positive_strings": [
+            "\u2581TAL",
+            "\u2581Tal",
+            "Tal",
+            "\u2581Talley",
+            "WaitGroup",
+            "TAL",
+            "sizeCache",
+            "\u2581Talon",
+            "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+            "\u2581tal"
+        ],
+        "description": "terms related to the \"talus\" bone and its context in medical discussions"
+    }
+]

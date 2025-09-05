@@ -1,0 +1,30 @@
+{
+    "index": "68484",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist ein M\u00e4dchen\\data_for_feature_68484.json",
+    "negative_strings": [
+        "\u2581his",
+        "himself",
+        "\u2581himself",
+        "\u2581him\u017felf",
+        "\u2581h\u00e4nen",
+        "\u2581herself",
+        "his",
+        "\u5f7c\u306e",
+        "\u2581Administrativna",
+        "herself"
+    ],
+    "positive_strings": [
+        "\u2581\u043a\u043e\u0442\u043e\u0440\u043e\u0435",
+        "\u2581its",
+        "\u2581\u044f\u043a\u0435",
+        "\u2581\u041e\u043d\u043e",
+        "Its",
+        "\u2581\u043e\u043d\u043e",
+        "\u2581Its",
+        "\u2581itself",
+        "\u5b83\u7684",
+        "its"
+    ],
+    "description": "words related to chemical compounds and their properties in a scientific context"
+}

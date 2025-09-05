@@ -1,0 +1,602 @@
+[
+    {
+        "index": "39715",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_39715.json",
+        "negative_strings": [
+            " cruc",
+            " ashore",
+            " setback",
+            " handc",
+            " leash",
+            "MENTS",
+            " routed",
+            " ranger",
+            "boat",
+            " cramped"
+        ],
+        "positive_strings": [
+            "essors",
+            "iles",
+            "iciency",
+            "icient",
+            "essor",
+            "ession",
+            "umo",
+            "ound",
+            "edes",
+            "illing"
+        ],
+        "description": "mentions of university professors and their roles or actions"
+    },
+    {
+        "index": "44",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_44.json",
+        "negative_strings": [
+            " ashore",
+            " cruc",
+            " routed",
+            " handc",
+            " leash",
+            " setback",
+            " cramped",
+            "boat",
+            " ranger",
+            " overboard"
+        ],
+        "positive_strings": [
+            "essors",
+            "iles",
+            "iciency",
+            "icient",
+            "ession",
+            "essor",
+            "umo",
+            "ound",
+            "edes",
+            "illing"
+        ],
+        "description": "references to professors or academic professionals"
+    },
+    {
+        "index": "44",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_44.json",
+        "negative_strings": [
+            " ashore",
+            " cruc",
+            " routed",
+            " handc",
+            " leash",
+            " setback",
+            " cramped",
+            "boat",
+            " ranger",
+            " overboard"
+        ],
+        "positive_strings": [
+            "essors",
+            "iles",
+            "iciency",
+            "icient",
+            "ession",
+            "essor",
+            "umo",
+            "ound",
+            "edes",
+            "illing"
+        ],
+        "description": "references to professors or academic professionals"
+    },
+    {
+        "index": "37264",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_37264.json",
+        "negative_strings": [
+            "MENTS",
+            "doors",
+            " Nebula",
+            " halfway",
+            "MENT",
+            " Mali",
+            " Blazers",
+            "wolves",
+            "boat",
+            " PAL"
+        ],
+        "positive_strings": [
+            "essor",
+            "iciency",
+            "ession",
+            "iles",
+            "essors",
+            "ound",
+            "icient",
+            "essed",
+            "iling",
+            "iled"
+        ],
+        "description": "references to professors or academic titles"
+    },
+    {
+        "index": "97409",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_97409.json",
+        "negative_strings": [
+            " destro",
+            " compr",
+            " queen",
+            " takeoff",
+            " fracture",
+            "aukee",
+            " routed",
+            " rebound",
+            " leash",
+            " cramped"
+        ],
+        "positive_strings": [
+            "essors",
+            " Laure",
+            " emer",
+            " Hawking",
+            " Emer",
+            " Stephen",
+            " Alan",
+            " Dawkins",
+            " Richard",
+            " Michel"
+        ],
+        "description": "references to academic titles, specifically \"Professor\" and associated names"
+    },
+    {
+        "index": "97409",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_97409.json",
+        "negative_strings": [
+            " destro",
+            " compr",
+            " queen",
+            " takeoff",
+            " fracture",
+            "aukee",
+            " routed",
+            " rebound",
+            " leash",
+            " cramped"
+        ],
+        "positive_strings": [
+            "essors",
+            " Laure",
+            " emer",
+            " Hawking",
+            " Emer",
+            " Stephen",
+            " Alan",
+            " Dawkins",
+            " Richard",
+            " Michel"
+        ],
+        "description": "references to academic titles, specifically \"Professor\" and associated names"
+    },
+    {
+        "index": "15773",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_15773.json",
+        "negative_strings": [
+            " destro",
+            " compr",
+            "aukee",
+            " fracture",
+            " sled",
+            " queen",
+            " routed",
+            " takeoff",
+            " leash",
+            " tame"
+        ],
+        "positive_strings": [
+            "essors",
+            " Laure",
+            " Hawking",
+            " Stephen",
+            " emer",
+            " Richard",
+            " Emer",
+            " Alan",
+            " Cornel",
+            " Christopher"
+        ],
+        "description": " mentions of people with the title \"Professor.\""
+    },
+    {
+        "index": "64654",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_64654.json",
+        "negative_strings": [
+            " Bundy",
+            " leash",
+            " spont",
+            "opter",
+            "MSN",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " strang",
+            " territ",
+            " Pradesh",
+            " gratification"
+        ],
+        "positive_strings": [
+            " emer",
+            "essors",
+            " specializing",
+            "itatively",
+            "iate",
+            "essor",
+            " professor",
+            " PhD",
+            " doctoral",
+            "hips"
+        ],
+        "description": "references to academic positions, particularly the term \"professor\""
+    },
+    {
+        "index": "64654",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_64654.json",
+        "negative_strings": [
+            " Bundy",
+            " leash",
+            " spont",
+            "opter",
+            "MSN",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " strang",
+            " territ",
+            " Pradesh",
+            " gratification"
+        ],
+        "positive_strings": [
+            " emer",
+            "essors",
+            " specializing",
+            "itatively",
+            "iate",
+            "essor",
+            " professor",
+            " PhD",
+            " doctoral",
+            "hips"
+        ],
+        "description": "references to academic positions, particularly the term \"professor\""
+    },
+    {
+        "index": "13453",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_13453.json",
+        "negative_strings": [
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            "avorite",
+            "76561",
+            " shack",
+            " mileage",
+            "isSpecialOrderable",
+            " absorb",
+            " captcha",
+            "20439",
+            " bip"
+        ],
+        "positive_strings": [
+            "gencies",
+            "gent",
+            "gence",
+            "itus",
+            "gency",
+            "mberg",
+            "usalem",
+            "ging",
+            "iat",
+            "inary"
+        ],
+        "description": "terms related to individuals who hold academic or esteemed titles, especially in the context of emeritus professors"
+    },
+    {
+        "index": "2860",
+        "layer": "8-res_fs3072-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_2860.json",
+        "negative_strings": [
+            " \\'",
+            "Results",
+            " trunc",
+            " ponies",
+            "Decre",
+            "urally",
+            " idiots",
+            "rats",
+            "planes",
+            "RGB"
+        ],
+        "positive_strings": [
+            " dean",
+            " director",
+            " Managing",
+            " lecturer",
+            " professor",
+            "director",
+            " spokesman",
+            " associate",
+            " vice",
+            " managing"
+        ],
+        "description": "information related to professionals such as professors, members of committees, researchers, and advisors in various fields"
+    },
+    {
+        "index": "17375",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_17375.json",
+        "negative_strings": [
+            " Bundy",
+            " territ",
+            " Pradesh",
+            "opter",
+            " deployment",
+            " spont",
+            " leash",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " launchers",
+            "tera"
+        ],
+        "positive_strings": [
+            "essors",
+            " emer",
+            "iate",
+            "essor",
+            "itatively",
+            "ials",
+            "hips",
+            "sonian",
+            " specializing",
+            "onym"
+        ],
+        "description": "mentions of academic positions, particularly the title \"professor\""
+    },
+    {
+        "index": "7686",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_7686.json",
+        "negative_strings": [
+            " territ",
+            " Bundy",
+            " leash",
+            " Pradesh",
+            "opter",
+            " launchers",
+            " deployment",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " spont",
+            " thee"
+        ],
+        "positive_strings": [
+            "essors",
+            " emer",
+            "iate",
+            "essor",
+            "itatively",
+            "hips",
+            "ials",
+            " specializing",
+            " professors",
+            "onym"
+        ],
+        "description": "academics, such as professors, across various fields and topics"
+    },
+    {
+        "index": "48794",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_48794.json",
+        "negative_strings": [
+            " Pradesh",
+            " Bundy",
+            " territ",
+            "opter",
+            " launchers",
+            "tera",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3",
+            " leash",
+            " Passage",
+            " Clan"
+        ],
+        "positive_strings": [
+            " emer",
+            "essors",
+            "itatively",
+            "iate",
+            "essor",
+            "ials",
+            "hips",
+            " specializing",
+            " professor",
+            " professors"
+        ],
+        "description": "references to academic titles and professions, specifically those related to professors"
+    },
+    {
+        "index": "24986",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_24986.json",
+        "negative_strings": [
+            "CVE",
+            " marrow",
+            "ibaba",
+            " princ",
+            " exha",
+            " gobl",
+            " silence",
+            "atch",
+            " unprepared",
+            " appropriation"
+        ],
+        "positive_strings": [
+            "idget",
+            "uously",
+            "own",
+            "robe",
+            "uous",
+            "oad",
+            "oggle",
+            "te",
+            "tic",
+            "yll"
+        ],
+        "description": "words related to academic titles, particularly references to professors and their positions"
+    },
+    {
+        "index": "73248",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_73248.json",
+        "negative_strings": [
+            "MENTS",
+            " halfway",
+            "warm",
+            "MENT",
+            " Mali",
+            "doors",
+            "forth",
+            " shortened",
+            " Weir",
+            " Warriors"
+        ],
+        "positive_strings": [
+            "essor",
+            "iles",
+            "iciency",
+            "ound",
+            "essors",
+            "iler",
+            "ession",
+            "icient",
+            "iling",
+            "ilers"
+        ],
+        "description": " occurrences of the word \"Prof\" and its variations, indicating references to professors or professional titles"
+    },
+    {
+        "index": "73248",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_73248.json",
+        "negative_strings": [
+            "MENTS",
+            " halfway",
+            "warm",
+            "MENT",
+            " Mali",
+            "doors",
+            "forth",
+            " shortened",
+            " Weir",
+            " Warriors"
+        ],
+        "positive_strings": [
+            "essor",
+            "iles",
+            "iciency",
+            "ound",
+            "essors",
+            "iler",
+            "ession",
+            "icient",
+            "iling",
+            "ilers"
+        ],
+        "description": " occurrences of the word \"Prof\" and its variations, indicating references to professors or professional titles"
+    },
+    {
+        "index": "16714",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_16714.json",
+        "negative_strings": [
+            " tremend",
+            "\u012a\u0134",
+            " stocking",
+            "\u00a9\u00b6\u00e6",
+            " mathemat",
+            " sidew",
+            " preval",
+            " princ",
+            " tradem",
+            " governance"
+        ],
+        "positive_strings": [
+            "strom",
+            "stown",
+            "TAIN",
+            "ries",
+            "hoff",
+            "bach",
+            "tha",
+            "stein",
+            "lein",
+            "ager"
+        ],
+        "description": "references to individuals associated with medical or academic roles"
+    },
+    {
+        "index": "18146",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_18146.json",
+        "negative_strings": [
+            " Vengeance",
+            "venge",
+            "Spider",
+            "tumblr",
+            "Bound",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3",
+            "akings",
+            "Santa",
+            "aunt",
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00b3"
+        ],
+        "positive_strings": [
+            " believes",
+            " concedes",
+            " explained",
+            " says",
+            " explains",
+            " cites",
+            " oversaw",
+            " advises",
+            " admits",
+            " told"
+        ],
+        "description": "names of individuals, such as professors or attorneys"
+    },
+    {
+        "index": "6631",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/professor/data_for_feature_6631.json",
+        "negative_strings": [
+            "Reviewer",
+            "LEASE",
+            "SIGN",
+            " precon",
+            " Gleaming",
+            " confidentiality",
+            "CLASSIFIED",
+            "FAULT",
+            " satellite",
+            "REDACTED"
+        ],
+        "positive_strings": [
+            "ources",
+            "inki",
+            "linger",
+            "aurus",
+            "wered",
+            "idy",
+            "angu",
+            "ued",
+            "acks",
+            "arah"
+        ],
+        "description": "references to individuals with the title 'Dr.' or 'Professor.'"
+    }
+]

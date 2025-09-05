@@ -1,0 +1,30 @@
+{
+    "index": "21027",
+    "layer": null,
+    "url": "json7\\gpt2-small\\res-jb\\This is hajj\\data_for_feature_21027.json",
+    "negative_strings": [
+        "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+        "geist",
+        " guiActiveUnfocused",
+        "sburg",
+        "icipated",
+        "heses",
+        " Annotations",
+        "\u00e2\u0137\u0132",
+        "\u00e9\u00be\u012f\u00e5",
+        "\u00e7\u0136\u0141"
+    ],
+    "positive_strings": [
+        " ha",
+        "ugh",
+        "jj",
+        "pless",
+        "uling",
+        "HAHAHAHA",
+        "ahah",
+        "HAHA",
+        "Ha",
+        "ilst"
+    ],
+    "description": "words that have the substring 'ha' with a high relevance to the letters 'ha' occurring consecutively"
+}

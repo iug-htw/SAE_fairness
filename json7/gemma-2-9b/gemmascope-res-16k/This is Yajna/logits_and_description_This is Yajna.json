@@ -1,0 +1,602 @@
+[
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_938.json",
+        "negative_strings": [
+            "styleable",
+            "AddHtmlAttribute",
+            "mbggenerated",
+            "tonode",
+            "\u4f1d",
+            "SharedCtor",
+            "GeneratedMessage",
+            "ngdoc",
+            "\u2581Su",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "JAKARTA",
+            "\u2019",
+            "\u2581incre\u00ed",
+            "i\u017fen",
+            "\u2581almohada",
+            "\u2019.\u201d",
+            "\u017fammen",
+            "\u2019\u201d",
+            "\u017fchen"
+        ],
+        "description": " prepositions indicating relationships or contextual connections"
+    },
+    {
+        "index": "422",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_422.json",
+        "negative_strings": [
+            "\u2581externi",
+            "JpaRepository",
+            "\u2581lenker",
+            "mbggenerated",
+            "Soluci\u00f3n",
+            "\u306f\u3058\u3081\u306b",
+            "elp",
+            "ExtendWith",
+            "protoimpl",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "findpost",
+            "MLLoader",
+            "MMV",
+            "ester",
+            "\u2581recombination",
+            "GeoNames",
+            "oussef",
+            "ultati",
+            "YYYY",
+            "ARD"
+        ],
+        "description": "the letter 'Y' in various contexts within the text"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "9930",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_9930.json",
+        "negative_strings": [
+            "\u2581aikaa",
+            "sizeCache",
+            "\u2581StatelessWidget",
+            "fromnode",
+            "\u2581istitu",
+            "\u2581koti",
+            "ItemName",
+            "UnknownFieldSet",
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
+            "didSet"
+        ],
+        "positive_strings": [
+            "ReusableCell",
+            "\u2581ffilmiau",
+            "\u2581AllAfrica",
+            "viewDidLoad",
+            "\u2581Catawiki",
+            "sab",
+            "\u2581PPA",
+            "sis",
+            "MCM",
+            "\u2581Vanguard"
+        ],
+        "description": " instances of the letter 'Y'"
+    },
+    {
+        "index": "2196",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_2196.json",
+        "negative_strings": [
+            "ou",
+            "UnknownFieldSet",
+            "OU",
+            "our",
+            "esterday",
+            "nodoc",
+            "ears",
+            "outube",
+            "eah",
+            "\u2581OnTriggerEnter"
+        ],
+        "positive_strings": [
+            "d",
+            "ed",
+            "ReusableCell",
+            "satis",
+            "\u2581betweenstory",
+            "setViewportView",
+            "avadoc",
+            "Q",
+            "DST",
+            "p"
+        ],
+        "description": "references to the letter \"Y\" in various contexts"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "4001",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_4001.json",
+        "negative_strings": [
+            "UnusedPrivate",
+            "lcccc",
+            "fromnode",
+            "providedIn",
+            "inctions",
+            "\u2581neder",
+            "\u2581CreateTagHelper",
+            "\u0628\u0648\u0627\u0628\u0629",
+            "Bioaccumulative",
+            "LookAnd"
+        ],
+        "positive_strings": [
+            "elp",
+            "hyrchwyd",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "oyo",
+            "achting",
+            "akuza",
+            "complexContent",
+            "orkshire",
+            "ugio",
+            "ikes"
+        ],
+        "description": " occurrences of the letter 'y' or variations of it in different contexts"
+    },
+    {
+        "index": "8248",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_8248.json",
+        "negative_strings": [
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
+            "\u2581aikaa",
+            "Prze",
+            "JNIEnv",
+            "\u2581conmigo",
+            "\u2581aprobado",
+            "OpenHelper",
+            "\u2581Griechen",
+            "\u2581Interview",
+            "Interview"
+        ],
+        "positive_strings": [
+            "\u2581kasarigan",
+            "\u0645\u0635\u0627\u062f\u0631",
+            "PerformLayout",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "eper",
+            "\u2581Roskov",
+            "Personensuche",
+            "viewDidLoad",
+            "setupUi",
+            "MLLoader"
+        ],
+        "description": " instances of the character \"Y\" and its variations"
+    },
+    {
+        "index": "1448",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_1448.json",
+        "negative_strings": [
+            "\u2581StatelessWidget",
+            "sizeCache",
+            "R\u00fcyada",
+            "\u2581v\u0153",
+            "fromnode",
+            "\u2581aikaa",
+            "\u2581obligado",
+            "\u2581Di\u017f",
+            "\u2581aprobado",
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a"
+        ],
+        "positive_strings": [
+            "\u2581ffilmiau",
+            "\u2581AllAfrica",
+            "*/].",
+            "Aholisi",
+            "\u2581Vanguard",
+            "sis",
+            "LabelTagHelper",
+            "\u2581pres",
+            "ReusableCell",
+            "sen"
+        ],
+        "description": " the letter 'Y' in various contexts"
+    },
+    {
+        "index": "2864",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_2864.json",
+        "negative_strings": [
+            "uxxxx",
+            "JNIEnv",
+            "OGND",
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
+            "ViewFeatures",
+            "\u30d5\u30a3\u30b7\u30e3\u30eb",
+            "javac",
+            "\u2581DBNull",
+            "ForValue",
+            "setBold"
+        ],
+        "positive_strings": [
+            "bootstrapcdn",
+            "OUR",
+            "our",
+            "\u2581'\\\\;'",
+            "awn",
+            "oure",
+            "\u2581ou",
+            "\u51fa\u7248\u5e74",
+            "ours",
+            "\u0645\u0635\u0627\u062f\u0631"
+        ],
+        "description": " instances of the letter 'Y' in various forms and contexts"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "11384",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_11384.json",
+        "negative_strings": [
+            "\u2581StatelessWidget",
+            "R\u00fcyada",
+            "sizeCache",
+            "\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0627\u062a",
+            "findpost",
+            "fromnode",
+            "\u2581snippetHide",
+            "\u2581aikaa",
+            "\u2581Di\u017f",
+            "\u2581Monfieur"
+        ],
+        "positive_strings": [
+            "\u2581AllAfrica",
+            "ur",
+            "odas",
+            "ancy",
+            "OLO",
+            "ate",
+            "\u2581ffilmiau",
+            "\u0c3f\u0c02",
+            "ated",
+            "oker"
+        ],
+        "description": " variations of the letter 'Y' and its occurrences in different contexts"
+    },
+    {
+        "index": "1793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is Yajna\\data_for_feature_1793.json",
+        "negative_strings": [
+            "\u2581StatelessWidget",
+            "expandindo",
+            "ouri",
+            "ah",
+            "BeforeMethod",
+            "NotBe",
+            "lcccc",
+            "cznych",
+            "NSMutable",
+            "\u2581typelib"
+        ],
+        "positive_strings": [
+            "Ou",
+            "\u0631\u0634\u0641",
+            "ReusableCell",
+            "AnchorStyles",
+            "\u4e0b\u8f7d\u9644\u4ef6",
+            "\u2581\u0418\u0442\u0430\u043b\u0438\u0458\u0430\u043d\u0438",
+            "\u2581ob\u017f",
+            "\u2581Schengen",
+            "achting",
+            "stem"
+        ],
+        "description": "the letter 'Y' in various contexts"
+    }
+]

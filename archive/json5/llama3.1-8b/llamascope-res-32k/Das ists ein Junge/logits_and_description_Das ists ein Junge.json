@@ -1,0 +1,242 @@
+[
+    {
+        "index": "27057",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_27057.json",
+        "negative_strings": [
+            "\"",
+            ".",
+            "-",
+            ",",
+            "(",
+            "[",
+            "/",
+            "*",
+            ":",
+            ")"
+        ],
+        "positive_strings": [
+            " a",
+            " an",
+            " the",
+            " in",
+            " at",
+            " to",
+            " on",
+            " one",
+            " is",
+            " as"
+        ],
+        "description": " percentages and numerical data related to financial or statistical comparisons"
+    },
+    {
+        "index": "19549",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_19549.json",
+        "negative_strings": [
+            " Cologne",
+            "Germany",
+            " Germany",
+            " Munich",
+            " germany",
+            "German",
+            " Germans",
+            " German",
+            " Bav",
+            " Austrian"
+        ],
+        "positive_strings": [
+            " entsprech",
+            " bisher",
+            " ebenfalls",
+            " bekannt",
+            " zwar",
+            " bestimm",
+            " etwa",
+            " besonders",
+            " dar\u00c3\u00bcber",
+            " bereits"
+        ],
+        "description": "relationships between characters in a narrative"
+    },
+    {
+        "index": "3328",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_3328.json",
+        "negative_strings": [
+            "\u00cf\u0129\u00cf\u012e",
+            "ezi",
+            "enden",
+            "idget",
+            "gamber",
+            "d\u00c3\u00bcl",
+            "ersed",
+            "\u00ec\u00a6",
+            "dm",
+            "\u00d9\u0128\u00d8\u00af\u00da\u00af\u00db\u012e"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ipers",
+            "cker",
+            "venile",
+            "ct",
+            "ta",
+            "ete",
+            "ius",
+            "ger"
+        ],
+        "description": " occurrences of the word \"jun\" and variations of it, likely related to dates or events in June"
+    },
+    {
+        "index": "10562",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_10562.json",
+        "negative_strings": [
+            "ignon",
+            "vertiser",
+            "rias",
+            "cheng",
+            "inson",
+            "i",
+            " blessed",
+            "ilden",
+            "aucoup",
+            "\u00ec\u00a6"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "IOR",
+            "ipers",
+            "ior",
+            "cker",
+            "ct",
+            "venile",
+            "ius",
+            "aid"
+        ],
+        "description": " instances of the word \"junior\" and variations of the word \"jun.\""
+    },
+    {
+        "index": "23941",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_23941.json",
+        "negative_strings": [
+            "vertiser",
+            "ignon",
+            "inson",
+            "ills",
+            " blessed",
+            "badge",
+            "ilden",
+            "RYPT",
+            " arbitr",
+            "365"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "IOR",
+            "ior",
+            "ipers",
+            "ius",
+            "cker",
+            "eydi",
+            "venile",
+            "alus"
+        ],
+        "description": "references to the month of June and related plant types"
+    },
+    {
+        "index": "25783",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_25783.json",
+        "negative_strings": [
+            "ignon",
+            "cheng",
+            "vertiser",
+            "rias",
+            "\u00ec\u00a6",
+            "gamber",
+            " blessed",
+            "endas",
+            "enden",
+            "\u00e3\u0125\u00aa\u00e3\u0125\u00bc\u00e3\u0124\u00ba"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ipers",
+            "cker",
+            "ta",
+            "venile",
+            "IOR",
+            "ct",
+            "aid",
+            "ius"
+        ],
+        "description": " occurrences and references to the word \"jun\" along with dates"
+    },
+    {
+        "index": "24613",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_24613.json",
+        "negative_strings": [
+            "rias",
+            "lore",
+            "vertiser",
+            "ewan",
+            "colo",
+            "fully",
+            "ilden",
+            "enden",
+            "UME",
+            " Cage"
+        ],
+        "positive_strings": [
+            "iper",
+            "iors",
+            "ior",
+            "IOR",
+            "iores",
+            "Jun",
+            "ct",
+            "swick",
+            "cker",
+            "alus"
+        ],
+        "description": " occurrences of the word \"jun\" and its variations"
+    },
+    {
+        "index": "27000",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\Das ists ein Junge\\data_for_feature_27000.json",
+        "negative_strings": [
+            "dess",
+            "eon",
+            " Erotische",
+            "istically",
+            "ead",
+            "ISTER",
+            "agnostic",
+            "daf",
+            "inium",
+            "inaire"
+        ],
+        "positive_strings": [
+            "zel",
+            "heit",
+            "zig",
+            "wo",
+            "heiten",
+            "igen",
+            "ige",
+            "heim",
+            "lad",
+            "iges"
+        ],
+        "description": " occurrences of the word \"ein\" and its variations in German"
+    }
+]

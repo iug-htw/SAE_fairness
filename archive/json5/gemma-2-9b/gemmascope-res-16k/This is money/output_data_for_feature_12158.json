@@ -1,0 +1,30 @@
+{
+    "index": "12158",
+    "layer": null,
+    "url": "json5\\gemma-2-9b\\gemmascope-res-16k\\This is money\\data_for_feature_12158.json",
+    "negative_strings": [
+        "parsedMessage",
+        "\u2581protoimpl",
+        "XmlAccessorType",
+        "ContentAsync",
+        "sme",
+        "MLLoader",
+        "ScopeManager",
+        "GroupLayout",
+        "\u2581AssemblyCulture",
+        "richTextPanel"
+    ],
+    "positive_strings": [
+        "\u2581laundering",
+        "bags",
+        "\u2581spent",
+        "\u2581earned",
+        "laund",
+        "\u2581owed",
+        "\u2581raised",
+        "\u2581flow",
+        "\u2581Spent",
+        "earned"
+    ],
+    "description": " references to financial transactions, particularly those involving money, payments, and money laundering activities"
+}

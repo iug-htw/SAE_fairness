@@ -1,0 +1,602 @@
+[
+    {
+        "index": "32896",
+        "layer": "10-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_32896.json",
+        "negative_strings": [
+            "ript",
+            "nesota",
+            "\u00d1\u012e",
+            "rha",
+            "Sov",
+            " Wonderland",
+            "ipeg",
+            "uld",
+            "awks",
+            " Hawth"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " pope",
+            " Archbishop",
+            "Pope",
+            " XVI",
+            "Franc",
+            " bishops",
+            " Vatican",
+            " Patriarch"
+        ],
+        "description": " references to the Pope and related ecclesiastical terminology"
+    },
+    {
+        "index": "43998",
+        "layer": "10-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_43998.json",
+        "negative_strings": [
+            "ript",
+            "\u00d1\u012e",
+            "nesota",
+            "ties",
+            "nel",
+            "mental",
+            "selves",
+            "uld",
+            "orset",
+            " Brawl"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "Franc",
+            " Leo",
+            " Clement",
+            " Gregory",
+            "Pope",
+            " XVI",
+            " laureate",
+            " Pope"
+        ],
+        "description": " references to the Pope and other high-ranking officials within the Catholic Church"
+    },
+    {
+        "index": "52",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_52.json",
+        "negative_strings": [
+            "awks",
+            "ript",
+            "sbm",
+            "yrinth",
+            "stract",
+            "nesota",
+            "uld",
+            "rha",
+            "\u00e9\u00be",
+            "mingham"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Pope",
+            " Clement",
+            " pope",
+            " Pablo",
+            " infall",
+            "Pope",
+            " pont",
+            " laureate"
+        ],
+        "description": "references related to the Pope, the Vatican, and the Catholic Church"
+    },
+    {
+        "index": "32890",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_32890.json",
+        "negative_strings": [
+            "awks",
+            "ript",
+            "nesota",
+            "sbm",
+            "yrinth",
+            "stract",
+            "\u00d1\u012e",
+            "\u00e9\u00be",
+            "uld",
+            "mingham"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            " Pope",
+            " Clement",
+            " pope",
+            " Pablo",
+            " infall",
+            "Pope",
+            " pont",
+            " Father"
+        ],
+        "description": "mentions of the Pope and related religious figures or concepts"
+    },
+    {
+        "index": "3490",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_3490.json",
+        "negative_strings": [
+            "uyomi",
+            "nesota",
+            "phis",
+            "iable",
+            "oided",
+            " Ukrain",
+            "yrinth",
+            "ocaust",
+            "rador",
+            "arijuana"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            " Xavier",
+            "olini",
+            " Bacon",
+            "olate",
+            " Benedict",
+            "zek",
+            " XVI",
+            "enne"
+        ],
+        "description": " references to religious figures, particularly Pope Francis and elements of Catholicism"
+    },
+    {
+        "index": "36068",
+        "layer": "6-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_36068.json",
+        "negative_strings": [
+            "ARP",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            "avorite",
+            "mble",
+            "ITNESS",
+            "\u0127\u012d",
+            "EEK",
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            " thriving",
+            "LLOW"
+        ],
+        "positive_strings": [
+            "ificate",
+            "ific",
+            "ified",
+            "ifications",
+            "iff",
+            "ification",
+            "ifying",
+            "iffs",
+            "rovers",
+            "ifier"
+        ],
+        "description": " references to \"Pontiac\" and associated terms, as well as mentions of the Pope"
+    },
+    {
+        "index": "45600",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_45600.json",
+        "negative_strings": [
+            "nesota",
+            "yrinth",
+            "ript",
+            "awks",
+            "ahime",
+            "mental",
+            "rg",
+            "\u00e9\u00be",
+            "bil",
+            "erry"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Pope",
+            "Pope",
+            " Benedict",
+            " pope",
+            " pont",
+            " Father",
+            " Clement",
+            " Archbishop",
+            " Pablo"
+        ],
+        "description": " references to the Pope and the Vatican"
+    },
+    {
+        "index": "13959",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_13959.json",
+        "negative_strings": [
+            "yrinth",
+            "nesota",
+            "ript",
+            "ahime",
+            "mental",
+            "awks",
+            "ership",
+            "sbm",
+            "stract",
+            "erry"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Pope",
+            "Pope",
+            " pont",
+            " pope",
+            " Benedict",
+            " Clement",
+            " Father",
+            "orio",
+            " Madonna"
+        ],
+        "description": "mentions of Catholicism, the Pope, and related events or individuals"
+    },
+    {
+        "index": "13959",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_13959.json",
+        "negative_strings": [
+            "yrinth",
+            "nesota",
+            "ript",
+            "ahime",
+            "mental",
+            "awks",
+            "ership",
+            "sbm",
+            "stract",
+            "erry"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Pope",
+            "Pope",
+            " pont",
+            " pope",
+            " Benedict",
+            " Clement",
+            " Father",
+            "orio",
+            " Madonna"
+        ],
+        "description": "mentions of Catholicism, the Pope, and related events or individuals"
+    },
+    {
+        "index": "11206",
+        "layer": "2-res_sll-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_11206.json",
+        "negative_strings": [
+            "azeera",
+            "mble",
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            "umbai",
+            "iable",
+            "nesota",
+            "ruciating",
+            "isse",
+            "ohyd",
+            " \u00e0\u00a8"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            " Xavier",
+            " Bacon",
+            "olini",
+            " Benedict",
+            " Pope",
+            "ervative",
+            "olate",
+            " pope"
+        ],
+        "description": " mentions of Pope Francis"
+    },
+    {
+        "index": "35654",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_35654.json",
+        "negative_strings": [
+            "claimer",
+            "EAR",
+            "\u00e3\u0125\u00a3",
+            "perse",
+            "MAG",
+            "PLAY",
+            "ODUCT",
+            "place",
+            "MIC",
+            "Agent"
+        ],
+        "positive_strings": [
+            " Cumber",
+            " XVI",
+            " Benedict",
+            "itude",
+            "itial",
+            "icum",
+            "olini",
+            "batch",
+            "icts",
+            "inas"
+        ],
+        "description": "references to religious figures and related terms, particularly focusing on the actions and interactions of Pope Benedict"
+    },
+    {
+        "index": "27835",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_27835.json",
+        "negative_strings": [
+            "mble",
+            "daq",
+            "jriwal",
+            "ochond",
+            "mental",
+            "hooting",
+            "\u00d5",
+            "phis",
+            "nesota",
+            "orset"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "Franc",
+            " XVI",
+            " Basil",
+            " Ferdinand",
+            " Pablo",
+            " John",
+            " XIII",
+            " Francisco"
+        ],
+        "description": " references to the Pope and the Catholic Church"
+    },
+    {
+        "index": "27025",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_27025.json",
+        "negative_strings": [
+            "Assembly",
+            "oday",
+            "eering",
+            "izations",
+            "\u00e8\u00a6\u013c\u00e9\u0128\u0134",
+            " comprom",
+            "ratulations",
+            " owl",
+            "isse",
+            " assembly"
+        ],
+        "positive_strings": [
+            " Francis",
+            "Franc",
+            " Bacon",
+            "olini",
+            " Benedict",
+            " Xavier",
+            " Fuk",
+            "borough",
+            "olate",
+            "burgh"
+        ],
+        "description": "references to specific individuals named \"Francis\""
+    },
+    {
+        "index": "31261",
+        "layer": "6-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_31261.json",
+        "negative_strings": [
+            "\u00e0\u00b8",
+            "nesota",
+            "ript",
+            "awks",
+            "DonaldTrump",
+            "ilater",
+            "gered",
+            "eter",
+            "orph",
+            "atives"
+        ],
+        "positive_strings": [
+            " Francis",
+            " priests",
+            " bishops",
+            " priest",
+            " XVI",
+            " Fathers",
+            " pope",
+            " Benedict",
+            "esan",
+            " nuns"
+        ],
+        "description": "mentions of different popes and religious figures within the Catholic Church"
+    },
+    {
+        "index": "3770",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_3770.json",
+        "negative_strings": [
+            "atri",
+            "mble",
+            "ooth",
+            "WAR",
+            "wrap",
+            "LLOW",
+            " Lans",
+            " Antar",
+            "yip",
+            "analysis"
+        ],
+        "positive_strings": [
+            "ificate",
+            "Pont",
+            "ific",
+            " pont",
+            " Pont",
+            "iff",
+            "inez",
+            "ificial",
+            "itas",
+            "rovers"
+        ],
+        "description": "proper nouns related to religious and historical figures and events"
+    },
+    {
+        "index": "30117",
+        "layer": "10-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_30117.json",
+        "negative_strings": [
+            "netflix",
+            "\u00ef\u00b8\u0131",
+            "avorite",
+            "pees",
+            "hower",
+            " fung",
+            "taboola",
+            "\u00cb\u012a",
+            "ptive",
+            "PF"
+        ],
+        "positive_strings": [
+            " Stevens",
+            "ius",
+            " Emperor",
+            "wrote",
+            "agall",
+            " preach",
+            " Apostle",
+            "yrus",
+            "orus",
+            " Dalai"
+        ],
+        "description": "references to Pope John Paul II"
+    },
+    {
+        "index": "6427",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_6427.json",
+        "negative_strings": [
+            "\u00e3\u0124\u012b",
+            "enegger",
+            "unction",
+            " Cheong",
+            " Seah",
+            "cheon",
+            "Indian",
+            " Luck",
+            "Tea",
+            " Bolton"
+        ],
+        "positive_strings": [
+            " bishop",
+            " bishops",
+            "abase",
+            "iscopal",
+            "rics",
+            "bsite",
+            "catentry",
+            "ric",
+            "bishop",
+            "ocese"
+        ],
+        "description": "religious titles such as bishop and pope"
+    },
+    {
+        "index": "1380",
+        "layer": "6-res_sle-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_1380.json",
+        "negative_strings": [
+            "ratulations",
+            "tymology",
+            "Pros",
+            " Nordic",
+            " Ukrain",
+            "atari",
+            "anguage",
+            "raine",
+            "rium",
+            " taxp"
+        ],
+        "positive_strings": [
+            "olate",
+            "Franc",
+            "anus",
+            "ional",
+            "furt",
+            "zek",
+            "ilon",
+            " Fuk",
+            "quez",
+            "icular"
+        ],
+        "description": "references to the name \"Francis,\" particularly in the context of influential figures, such as Pope Francis"
+    },
+    {
+        "index": "26963",
+        "layer": "6-res_sce-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_26963.json",
+        "negative_strings": [
+            "ript",
+            "ties",
+            "nesota",
+            "atives",
+            "mingham",
+            "urden",
+            "yrinth",
+            "aryl",
+            "aze",
+            "alities"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Galile",
+            " Pope",
+            " Theo",
+            " Direction",
+            " Nicholas",
+            " pope",
+            " Lucius",
+            "ographically",
+            " Flip"
+        ],
+        "description": "references to various Popes and their influence within the Catholic Church"
+    },
+    {
+        "index": "14384",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/pope/data_for_feature_14384.json",
+        "negative_strings": [
+            "ript",
+            " Kin",
+            " Rail",
+            " Mit",
+            " disadvantage",
+            " Dund",
+            " Miz",
+            " Ax",
+            " Raz",
+            "Kin"
+        ],
+        "positive_strings": [
+            "Leaks",
+            "angel",
+            "mallow",
+            "enf",
+            "ango",
+            "angelo",
+            "scl",
+            " baptized",
+            "atican",
+            "cius"
+        ],
+        "description": "references to religious figures and institutions, particularly related to statements, actions, and appointments made by Pope Francis"
+    }
+]

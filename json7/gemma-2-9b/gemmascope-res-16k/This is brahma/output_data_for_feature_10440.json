@@ -1,0 +1,30 @@
+{
+    "index": "10440",
+    "layer": null,
+    "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is brahma\\data_for_feature_10440.json",
+    "negative_strings": [
+        "tonode",
+        "PerformLayout",
+        "AddHtmlAttribute",
+        "SharedCtor",
+        "webElementXpaths",
+        "contentLoaded",
+        "MessageTagHelper",
+        "NamedQueries",
+        "\u2581R\u00e9ponses",
+        "InitVars"
+    ],
+    "positive_strings": [
+        "\ufeff/**",
+        "\ufeff<?",
+        "JAKARTA",
+        "\u2019",
+        "\u3014",
+        "\ufeff#",
+        "Transkript",
+        "\ufeff//",
+        "\u2581importaci\u00f3n",
+        "<h1>"
+    ],
+    "description": " references to mathematical notations or expressions"
+}

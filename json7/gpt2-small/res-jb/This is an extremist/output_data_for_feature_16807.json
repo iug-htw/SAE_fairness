@@ -1,0 +1,30 @@
+{
+    "index": "16807",
+    "layer": null,
+    "url": "json7\\gpt2-small\\res-jb\\This is an extremist\\data_for_feature_16807.json",
+    "negative_strings": [
+        "FACE",
+        "pty",
+        "fman",
+        "BLE",
+        "\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2\u00e2\u0122\u00a2",
+        "stick",
+        "theless",
+        "luster",
+        "aird",
+        " Speedway"
+    ],
+    "positive_strings": [
+        " Islamists",
+        "ization",
+        " Islam",
+        "isation",
+        " Islamist",
+        "ized",
+        " Islamic",
+        "izing",
+        "izers",
+        " feminists"
+    ],
+    "description": "words related to radicalization, extremism, and terrorism, particularly focused on radical Islamists"
+}

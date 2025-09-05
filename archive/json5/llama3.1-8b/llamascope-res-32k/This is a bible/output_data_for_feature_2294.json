@@ -1,0 +1,30 @@
+{
+    "index": "2294",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a bible\\data_for_feature_2294.json",
+    "negative_strings": [
+        "APA",
+        "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+        "\u00c4\u00b1rak",
+        "BuilderInterface",
+        "\u00d1\u0123\u00d1\u0131",
+        "atori",
+        "abouts",
+        "spirit",
+        "eties",
+        "essional"
+    ],
+    "positive_strings": [
+        " passage",
+        " passages",
+        "gateway",
+        " Belt",
+        "Gateway",
+        "-bel",
+        " Passage",
+        " verse",
+        " story",
+        " text"
+    ],
+    "description": "references to the Bible and related religious concepts"
+}

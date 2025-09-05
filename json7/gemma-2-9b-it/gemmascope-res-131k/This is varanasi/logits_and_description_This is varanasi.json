@@ -1,0 +1,422 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "91264",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_91264.json",
+        "negative_strings": [
+            "abetes",
+            "adget",
+            "shund",
+            "\u2581sdk",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627",
+            "\u2581fix",
+            "Nub",
+            "nub",
+            "\u2581gefeiert",
+            "\u4e2d"
+        ],
+        "positive_strings": [
+            "\u2581Varanasi",
+            "\u2581lymph",
+            "RTLR",
+            "\u272d\u272d",
+            "MessageTagHelper",
+            "\u2581\u0434\u043e\u043f\u0438\u0441\u0430\u0432\u0448\u0438",
+            "\u2581lymphoid",
+            "\u2581ligiloj",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581lymphatic"
+        ],
+        "description": "references to immune system components and tissue types"
+    },
+    {
+        "index": "30108",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_30108.json",
+        "negative_strings": [
+            "\u2581\u043f\u0440\u0435\u043f\u0440\u0430\u0442\u043a\u0438",
+            "migrationBuilder",
+            "Referanser",
+            "\u2581d\u00e9sol\u00e9s",
+            "Identyfik",
+            "\u2581higher",
+            "\u2581d\u00e9p",
+            "enschaften",
+            "\u2581bony",
+            "\u021bul"
+        ],
+        "positive_strings": [
+            "\u2581Vari",
+            "VAR",
+            "Vari",
+            "\u2581Var",
+            "\u2581vare",
+            "\u2581uVar",
+            "vari",
+            "Var",
+            "anguard",
+            "\u2581VAR"
+        ],
+        "description": "mentions of the term \"varicose\" and related variations in the context of medical conditions"
+    },
+    {
+        "index": "64018",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_64018.json",
+        "negative_strings": [
+            "\u2581Sink",
+            "?}\",",
+            "\u5ea6",
+            "C\u00f2n",
+            "\u8bf4\u51fa",
+            "\u2581Insert",
+            "\uace7",
+            "\u2581sink",
+            "\u2581lifeline",
+            "\u2581pico"
+        ],
+        "positive_strings": [
+            "War",
+            "\u2581War",
+            "\u2581WAR",
+            "\u2581war",
+            "\u2581Warwick",
+            "Tracce",
+            "SpringRunner",
+            "\u2581disambiguazione",
+            "\u0417\u043d\u043e\u0441\u043a\u0456",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647"
+        ],
+        "description": "proper nouns and terms associated with war"
+    },
+    {
+        "index": "124304",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_124304.json",
+        "negative_strings": [
+            "uxxxx",
+            "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+            "AndEndTag",
+            "\u2581lea\u017ft",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "SequentialGroup",
+            "ViewImports",
+            "Hozz\u00e1f\u00e9r\u00e9s",
+            "jface",
+            "\u539f\u59cb\u5185\u5bb9\u5b58\u6863\u4e8e"
+        ],
+        "positive_strings": [
+            "var",
+            "\u2581Var",
+            "\u2581var",
+            "\u2581Ortsteil",
+            "avar",
+            "argout",
+            "Var",
+            "sproz",
+            "r\u00f5es",
+            "\u2581b\u016bt"
+        ],
+        "description": " occurrences of variable declarations in programming code"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "100498",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_100498.json",
+        "negative_strings": [
+            "\u2581\u0645\u0634\u064a\u0646",
+            "\u2581\u0570\u0572\u0578\u0582\u0574\u0576\u0565\u0580",
+            "expandindo",
+            "\u2581linkovi",
+            "Tikang",
+            "\u2581henvisninger",
+            "Vanjske",
+            "\u2581inform\u00e9e",
+            "\u51fa\u7248\u5e74",
+            "\u06dc"
+        ],
+        "positive_strings": [
+            "\u2581city",
+            "\u2581City",
+            "city",
+            "\u2581CITY",
+            "City",
+            "\u5e02",
+            "\u2581ciudad",
+            "\u2581Stadt",
+            "\u2581\u0936\u0939\u0930",
+            "\u2581citt\u00e0"
+        ],
+        "description": "geographical locations and proper nouns related to cities or regions"
+    },
+    {
+        "index": "14187",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_14187.json",
+        "negative_strings": [
+            "\u0631\u0634\u0641",
+            "horabuena",
+            "Osi",
+            "\u2581tuc",
+            "K\u1ebft",
+            "Liber",
+            "verwijspagina",
+            "\u2581Osi",
+            "lgica",
+            "\u2581equal"
+        ],
+        "positive_strings": [
+            "\u2581HasFactory",
+            "leau",
+            "LookAnd",
+            "\u2581endregion",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "\u2581intptr",
+            "\u2581invokingState",
+            "\u0004",
+            "\u2581wikipagina",
+            "fromnode"
+        ],
+        "description": " names or keywords related to specific individuals or locations"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is varanasi\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    }
+]

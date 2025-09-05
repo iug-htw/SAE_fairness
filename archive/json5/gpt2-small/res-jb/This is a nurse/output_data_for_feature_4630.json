@@ -1,0 +1,30 @@
+{
+    "index": "4630",
+    "layer": null,
+    "url": "json5\\gpt2-small\\res-jb\\This is a nurse\\data_for_feature_4630.json",
+    "negative_strings": [
+        "\u00e7\u012b\u012a",
+        "arta",
+        "inations",
+        "AIN",
+        "RFC",
+        "\u00d9\u0127",
+        "OPA",
+        "upon",
+        "izons",
+        "\u00d8\u00a7\u00d9\u0126"
+    ],
+    "positive_strings": [
+        "maid",
+        " practitioner",
+        " nurse",
+        " nurs",
+        " examiner",
+        " practitioners",
+        " nursing",
+        " nurses",
+        " Nurs",
+        " Nurse"
+    ],
+    "description": "mentions of nurses and related topics"
+}

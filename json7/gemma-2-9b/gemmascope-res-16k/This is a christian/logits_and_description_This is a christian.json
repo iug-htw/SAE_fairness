@@ -1,0 +1,542 @@
+[
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "7839",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_7839.json",
+        "negative_strings": [
+            "tonode",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "\u2581Al",
+            "evaluated",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "stateMutability",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "\u2581Su",
+            "HasForeignKey"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "ni\u017f\u017fe",
+            "i\u017fen",
+            "\ufeff/**",
+            "\u2581\u017fei",
+            "\u2581\u017feine",
+            "\u2581be\u017fte",
+            "\u017fchaft",
+            "\u2581incre\u00ed",
+            "i\u017fchen"
+        ],
+        "description": "sentences starting with \"It,\" \"There,\" or \"The.\""
+    },
+    {
+        "index": "7564",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_7564.json",
+        "negative_strings": [
+            "\u2581and",
+            "\u2581\u0ab5",
+            "with",
+            "R",
+            "\u2581Sch",
+            "\u2581\u03c4\u1fc6\u03c2",
+            "\u2581\u0ab0",
+            "\u2581\u0441",
+            "\u2581c",
+            "\u2581("
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "i\u017fchen",
+            "\u017felben",
+            "i\u017fen",
+            "\u2581\u017feine",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "IsContent",
+            "\u017fchaft",
+            "\u2581zwi\u017fchen"
+        ],
+        "description": "capital letters at the beginning of words"
+    },
+    {
+        "index": "15844",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_15844.json",
+        "negative_strings": [
+            "\u2581and",
+            "with",
+            "for",
+            "\u2581\u2581",
+            "R",
+            "A",
+            "\u4e4b",
+            "of",
+            "\n\n",
+            "B"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused16>",
+            "<unused17>",
+            "<unused8>",
+            "<unused3>"
+        ],
+        "description": " specific data formatting or structural elements within the text"
+    },
+    {
+        "index": "2894",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_2894.json",
+        "negative_strings": [
+            "R",
+            "for",
+            "\u2581and",
+            "with",
+            "O",
+            "\u2581\u0432\u043e",
+            "a",
+            "B",
+            "V\u00e0",
+            "o"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "<unused79>",
+            "<unused28>",
+            "<unused14>",
+            "<unused16>",
+            "[@BOS@]",
+            "<unused68>",
+            "<unused74>",
+            "<unused23>",
+            "<unused3>"
+        ],
+        "description": "specific prefixes related to micro- or small-scale entities in various contexts"
+    },
+    {
+        "index": "10440",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_10440.json",
+        "negative_strings": [
+            "tonode",
+            "PerformLayout",
+            "AddHtmlAttribute",
+            "SharedCtor",
+            "webElementXpaths",
+            "contentLoaded",
+            "MessageTagHelper",
+            "NamedQueries",
+            "\u2581R\u00e9ponses",
+            "InitVars"
+        ],
+        "positive_strings": [
+            "\ufeff/**",
+            "\ufeff<?",
+            "JAKARTA",
+            "\u2019",
+            "\u3014",
+            "\ufeff#",
+            "Transkript",
+            "\ufeff//",
+            "\u2581importaci\u00f3n",
+            "<h1>"
+        ],
+        "description": " references to mathematical notations or expressions"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "15688",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_15688.json",
+        "negative_strings": [
+            "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+            "AddHtmlAttribute",
+            "principalColumn",
+            "ConstraintMaker",
+            "MLLoader",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "verwijspagina",
+            "EDEFAULT",
+            "\u0410\u0440\u0445\u0456\u0432\u043e\u0432\u0430\u043d\u043e",
+            "addCriterion"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "JAKARTA",
+            "'",
+            "<h1>",
+            "\u672c\u6587",
+            "\ufeff//",
+            "Transkript",
+            "<h2>",
+            "Jakarta",
+            "Liverpool"
+        ],
+        "description": "mathematical symbols and notations"
+    },
+    {
+        "index": "14964",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_14964.json",
+        "negative_strings": [
+            "\u2581R\u00e9ponses",
+            "styleable",
+            "NamedQueries",
+            "mbggenerated",
+            "ModelForm",
+            "carried",
+            "GHIJKLM",
+            "\uf5bf",
+            "elect",
+            "lccn"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u2581CreateTagHelper",
+            "\ufeff/**",
+            "\u2581Administrativna",
+            "\ufeff<?",
+            "\ufeff#",
+            "\u2581poveznice",
+            "findpost",
+            "\ufeff//",
+            "\u2581esternos"
+        ],
+        "description": " symbols and notation related to mathematical expressions or equations"
+    },
+    {
+        "index": "8854",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_8854.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "tonode",
+            "NamedQueries",
+            "\u2581\u0ab0",
+            "b\u00ecnh",
+            "\u2581\u0432\u043e",
+            "\u2581\u0ab5",
+            "\u2581\u0d2e",
+            "\u4e4b",
+            "au"
+        ],
+        "positive_strings": [
+            "ni\u017f\u017fe",
+            "IsContent",
+            "\u2581\u017fei",
+            "\u2581be\u017fte",
+            "i\u017fchen",
+            "\u2581\u017feine",
+            "i\u017fen",
+            "\u017felben",
+            "\u017fammen",
+            "\u017fchaft"
+        ],
+        "description": " proper nouns, particularly names of people and places"
+    },
+    {
+        "index": "14201",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_14201.json",
+        "negative_strings": [
+            "\u2581Sch",
+            "\u2581\u0432\u043e",
+            "V\u00e0",
+            "\u2581\u2581",
+            "<unused63>",
+            "nmgp",
+            "\u2581\u0644\u0631",
+            "OVERR",
+            "for",
+            "\u2581nomb"
+        ],
+        "positive_strings": [
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused14>",
+            "<unused51>",
+            "<unused23>",
+            "<unused47>",
+            "<unused28>",
+            "<unused16>",
+            "<unused17>"
+        ],
+        "description": " full stops or periods in text"
+    },
+    {
+        "index": "938",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_938.json",
+        "negative_strings": [
+            "mbggenerated",
+            "\u0627\u0646\u062c\u0644\u064a\u0632",
+            "abestanden",
+            "\u2581kaarangay",
+            "ngdoc",
+            "styleable",
+            "AddHtmlAttribute",
+            "tonode",
+            "\u0425\u044c\u0430\u0436\u043e\u0440\u0433\u0430\u0448",
+            "\u2581R\u00e9ponses"
+        ],
+        "positive_strings": [
+            "\u2019",
+            "'",
+            "IsContent",
+            "\u2581cepillo",
+            "\u2581gr\u00e1ficos",
+            "\u2581d\u00e9lais",
+            "\u2581conscientes",
+            "\u2581Zeitraum",
+            "JAKARTA",
+            "\u2581'\\\\;'"
+        ],
+        "description": " mathematical notations or symbols"
+    },
+    {
+        "index": "10101",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_10101.json",
+        "negative_strings": [
+            "\u2581Masyarakat",
+            "\u2581\u00c9l",
+            "against",
+            "\u2581\u0432\u043e",
+            "evaluated",
+            "\u2581ba\u015flad",
+            "\u2581\u03c4\u1f78\u03bd",
+            "\u2581Sch",
+            "whose",
+            "\u2581and"
+        ],
+        "positive_strings": [
+            "IsContent",
+            "\u017felben",
+            "ni\u017f\u017fe",
+            "\ufeff/**",
+            "\u017fchaft",
+            "<unused28>",
+            "<unused79>",
+            "<unused68>",
+            "[@BOS@]",
+            "<unused3>"
+        ],
+        "description": " programming code and structural components of a software framework"
+    },
+    {
+        "index": "4657",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_4657.json",
+        "negative_strings": [
+            "\u2581therein",
+            "\u2581dabei",
+            "\u2581there",
+            "\u2581\u0111\u00f3",
+            "\u2581this",
+            "reordered",
+            "\u3053\u3053\u3067\u306f",
+            "\u2581those",
+            "there",
+            "\u2581Italijanski"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581GenerationType",
+            "ConstraintMaker",
+            "\u2581geschieht",
+            "complexContent",
+            "happens",
+            "awtextra"
+        ],
+        "description": " sentences that assert existence or define something"
+    },
+    {
+        "index": "2077",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_2077.json",
+        "negative_strings": [
+            "\u2581\u0111\u00f3",
+            "\u2581itself",
+            "\u2581therein",
+            "\u2581this",
+            "\u3053\u3053\u3067\u306f",
+            "those",
+            "itself",
+            "\u2581dabei",
+            "\u2581those",
+            "\u2581\u0939\u0940"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581happens",
+            "happens",
+            "\u2581resourceCulture",
+            "\u2581Happening",
+            "\u2581geschieht",
+            "sizeCache"
+        ],
+        "description": " occurrences of the word \"is\" in various contexts"
+    },
+    {
+        "index": "8999",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_8999.json",
+        "negative_strings": [
+            "\u2581Administrativna",
+            "\u3053\u3053\u3067\u306f",
+            "\u0e19\u0e31\u0e49\u0e19",
+            "RTEX",
+            "\u2581thereunder",
+            "mybatisplus",
+            "\u2581\u0437\u0434\u0435\u0441\u044c",
+            "\u24e7",
+            "hoedd",
+            "\u2581aqu\u00ed"
+        ],
+        "positive_strings": [
+            "\u2581why",
+            "\u2581how",
+            "\u2581true",
+            "\u2581where",
+            "\u2581because",
+            "\u2581happening",
+            "\u2581despite",
+            "\u2581precisely",
+            "true",
+            "\u2581exactly"
+        ],
+        "description": "instances of the verb \"is\" in various contexts"
+    },
+    {
+        "index": "285",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_285.json",
+        "negative_strings": [
+            "r\u00e9n\u00e9es",
+            "\u2581therein",
+            "\u2581this",
+            "\u2581\u0111\u00f3",
+            "AISSEE",
+            "reordered",
+            "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+            "\u2581acesta",
+            "\u2581\u0647\u0645\u06cc\u0646",
+            "\u2581there"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581truly",
+            "\u2581why",
+            "\u2581how",
+            "\u2581virkelig",
+            "\u2581where",
+            "\u2581true",
+            "\u2581serious",
+            "\u2581gonna",
+            "\u2581bukan"
+        ],
+        "description": "instances of the word \"is\" to identify statements or descriptions"
+    },
+    {
+        "index": "8139",
+        "layer": null,
+        "url": "json7\\gemma-2-9b\\gemmascope-res-16k\\This is a christian\\data_for_feature_8139.json",
+        "negative_strings": [
+            "\u2581this",
+            "those",
+            "\u2581\u044d\u0442\u0438\u043c",
+            "\u2581\u0111\u00f3",
+            "this",
+            "\u2581NSCoder",
+            "there",
+            "\u3053\u3053\u3067\u306f",
+            "these",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581happening",
+            "\u2581true",
+            "\u2581why",
+            "Happ",
+            "\u2581done",
+            "\u2581geschieht",
+            "\u2581truer",
+            "sizeCache",
+            "\u2581untrue",
+            "\u2581because"
+        ],
+        "description": " the presence of the word \"is\" in various contexts"
+    }
+]

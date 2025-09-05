@@ -1,0 +1,602 @@
+[
+    {
+        "index": "112128",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_112128.json",
+        "negative_strings": [
+            "\u00e9\u0143\u0124",
+            "iveness",
+            " bacterial",
+            "rite",
+            "\u00d1\u0123\u00d1\u0131",
+            "\u00ec\u013f\u00b4\u00ed\u0126\u00b0",
+            "ensburg",
+            "\u00d8\u00b8\u00d8\u00a7\u00d9\u0127",
+            "eness",
+            " Deus"
+        ],
+        "positive_strings": [
+            "gateway",
+            " Belt",
+            "Gateway",
+            " passages",
+            "-bel",
+            " Study",
+            " study",
+            " verse",
+            " translation",
+            " passage"
+        ],
+        "description": " mentions of the Bible and related scripture-focused concepts"
+    },
+    {
+        "index": "46780",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_46780.json",
+        "negative_strings": [
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "_firestore",
+            "\u00d1\u0124\u00d0\u00be\u00d0\u00bc",
+            "\u00d8\u00b8\u00d8\u00a7\u00d9\u0127",
+            "\u00d1\u0123\u00d1\u0131",
+            "ima",
+            "\u00c3\u00a9ry",
+            " Deus",
+            "PHY",
+            "\u00c4\u00b1rak"
+        ],
+        "positive_strings": [
+            "gateway",
+            " study",
+            "Gateway",
+            " Gateway",
+            "study",
+            " Study",
+            " studies",
+            "-bel",
+            " verse",
+            " characters"
+        ],
+        "description": "references to the Bible and Bible study"
+    },
+    {
+        "index": "2294",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/bible/data_for_feature_2294.json",
+        "negative_strings": [
+            "APA",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "\u00c4\u00b1rak",
+            "BuilderInterface",
+            "\u00d1\u0123\u00d1\u0131",
+            "atori",
+            "abouts",
+            "spirit",
+            "eties",
+            "essional"
+        ],
+        "positive_strings": [
+            " passage",
+            " passages",
+            "gateway",
+            " Belt",
+            "Gateway",
+            "-bel",
+            " Passage",
+            " verse",
+            " story",
+            " text"
+        ],
+        "description": "references to the Bible and related religious concepts"
+    },
+    {
+        "index": "59592",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_59592.json",
+        "negative_strings": [
+            "olet",
+            "\u00e4\u00bf",
+            "flip",
+            "'gc",
+            "Flip",
+            "zw",
+            "enie",
+            "edm",
+            "erli",
+            "wj"
+        ],
+        "positive_strings": [
+            "antine",
+            "itt",
+            "itation",
+            "itating",
+            "elling",
+            "ellers",
+            "itic",
+            "itate",
+            "ante",
+            "itical"
+        ],
+        "description": "references to the book of Leviticus in the Bible, particularly in contexts related to laws and social justice"
+    },
+    {
+        "index": "85244",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_85244.json",
+        "negative_strings": [
+            "\u00d1\u0123\u00d1\u0131",
+            "ima",
+            "PHY",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "\u00e9\u0142\u0127",
+            "ertools",
+            "\u00d1\u0124\u00d0\u00be\u00d0\u00bc",
+            "_firestore",
+            "HING",
+            "\u00e6\u00bf"
+        ],
+        "positive_strings": [
+            "gateway",
+            "Gateway",
+            " Belt",
+            " Gateway",
+            " passages",
+            " passage",
+            " verse",
+            " study",
+            " verses",
+            " belt"
+        ],
+        "description": "references to the Bible and religious studies"
+    },
+    {
+        "index": "30065",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_30065.json",
+        "negative_strings": [
+            " Deus",
+            "nde",
+            "forder",
+            "\u00d8\u00a8\u00db\u012e\u00d8\u00b1",
+            "nodoc",
+            "HING",
+            "Palindrome",
+            "\u00c3\u00a3n",
+            "_firestore",
+            "\u00d1\u0123\u00d1\u0131"
+        ],
+        "positive_strings": [
+            " Gateway",
+            " study",
+            "gateway",
+            "Gateway",
+            "study",
+            " Study",
+            " college",
+            "\u00e9\u0141",
+            " gateway",
+            "probe"
+        ],
+        "description": " references to the Bible and Bible study"
+    },
+    {
+        "index": "22925",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_22925.json",
+        "negative_strings": [
+            "rema",
+            "\u00d1\u0123\u00d1\u0131",
+            "HING",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "ima",
+            "\u00e9\u0142\u0127",
+            "\u00e8\u00a7\u012a",
+            " bible",
+            "soever",
+            "ospel"
+        ],
+        "positive_strings": [
+            " passage",
+            "gateway",
+            " passages",
+            " Belt",
+            "Gateway",
+            " verse",
+            " Gateway",
+            " Passage",
+            " study",
+            " verses"
+        ],
+        "description": "references to the Bible and related biblical concepts"
+    },
+    {
+        "index": "18461",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/bible/data_for_feature_18461.json",
+        "negative_strings": [
+            "alez",
+            "ode",
+            "AccessException",
+            "udit",
+            "fty",
+            "rase",
+            "oom",
+            " Voll",
+            "odes",
+            "\u00e6\u013e"
+        ],
+        "positive_strings": [
+            " testament",
+            " Testament",
+            "Test",
+            " Treatment",
+            " Test",
+            " TEST",
+            "-test",
+            " covenant",
+            "ament",
+            " treatment"
+        ],
+        "description": " references to the Old and New Testaments of the Bible"
+    },
+    {
+        "index": "13866",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/bible/data_for_feature_13866.json",
+        "negative_strings": [
+            "\u00d1\u0123\u00d1\u0131",
+            "APA",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            " Bible",
+            "atori",
+            "_firestore",
+            "\u00e9\u0143\u0124",
+            "ima",
+            "spirit",
+            " bible"
+        ],
+        "positive_strings": [
+            "gateway",
+            " Belt",
+            " passages",
+            " passage",
+            "Gateway",
+            "-bel",
+            " belt",
+            " Gateway",
+            " verse",
+            " verses"
+        ],
+        "description": "references to the Bible and biblical studies"
+    },
+    {
+        "index": "12109",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_12109.json",
+        "negative_strings": [
+            "esthesia",
+            " th\u00e1\u00bb\u00a5",
+            "jabi",
+            "flip",
+            "EdgeInsets",
+            "\u00ab\u013a",
+            "\u00c3\u00b3l",
+            "aliz",
+            "'gc",
+            "zw"
+        ],
+        "positive_strings": [
+            "itt",
+            "itic",
+            "antine",
+            "itation",
+            "ellers",
+            "iton",
+            "itical",
+            "iston",
+            "itate",
+            "itin"
+        ],
+        "description": " references to the book of Leviticus in the Bible"
+    },
+    {
+        "index": "35503",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_35503.json",
+        "negative_strings": [
+            "rema",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            " Canal",
+            "jon",
+            "\u00e6\u0130\u00aa",
+            "soever",
+            "PHY",
+            "etto",
+            "spirit",
+            "setter"
+        ],
+        "positive_strings": [
+            " study",
+            "study",
+            "gateway",
+            " passage",
+            " Belt",
+            " studies",
+            " passages",
+            " Study",
+            " verse",
+            "lical"
+        ],
+        "description": " references to the Bible or related biblical studies"
+    },
+    {
+        "index": "32606",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_32606.json",
+        "negative_strings": [
+            "ONO",
+            "\u00d0\u00b5\u00d0\u00b1",
+            ".community",
+            "eyen",
+            "+xml",
+            ".Foundation",
+            "-columns",
+            "-urlencoded",
+            "storybook",
+            "emailer"
+        ],
+        "positive_strings": [
+            " chapter",
+            "\u00e2\u0122\u00ac",
+            " Chapter",
+            " chapters",
+            "chapter",
+            "Chapter",
+            " Chapters",
+            ".chapter",
+            " ch",
+            " chap"
+        ],
+        "description": "references to specific books and chapters in the Bible"
+    },
+    {
+        "index": "2066",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/bible/data_for_feature_2066.json",
+        "negative_strings": [
+            " religious",
+            " Religious",
+            " relig",
+            "religious",
+            " cleric",
+            " Religion",
+            "rite",
+            " bishop",
+            " Churches",
+            " religion"
+        ],
+        "positive_strings": [
+            " study",
+            " Study",
+            " studies",
+            "study",
+            " dev",
+            " lesson",
+            " studying",
+            "Study",
+            " passage",
+            "_study"
+        ],
+        "description": " references to Bible study and Christian community activities"
+    },
+    {
+        "index": "47123",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_47123.json",
+        "negative_strings": [
+            "loys",
+            "\u00d1\u0129\u00d0\u00b0\u00d1\u0124",
+            "\u00e0\u00b8\u00b5\u00e0\u00b8\u00a2\u00e0\u00b8\u00a1",
+            ".sponge",
+            "evice",
+            "PressEvent",
+            "ousand",
+            "><![",
+            "greg",
+            "\u00d0\u00be\u00d1\u0123\u00d1\u012e"
+        ],
+        "positive_strings": [
+            " Recorded",
+            "ansson",
+            " Nic",
+            " pil",
+            "olland",
+            " \u00c5\u013dw",
+            " Rig",
+            "ohana",
+            "\u00d1\u0125\u00d1\u0127",
+            "endtime"
+        ],
+        "description": " references to the Bible and biblical figures"
+    },
+    {
+        "index": "122713",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_122713.json",
+        "negative_strings": [
+            "rema",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "ritz",
+            "PHY",
+            "abouts",
+            "\u00e9\u0143\u0124",
+            "ima",
+            "etto",
+            "(er",
+            "\u00d1\u0123\u00d1\u0131"
+        ],
+        "positive_strings": [
+            " study",
+            "study",
+            "gateway",
+            " Belt",
+            " passage",
+            " verse",
+            " passages",
+            " studies",
+            "lical",
+            "Gateway"
+        ],
+        "description": " mentions of the Bible and related terms"
+    },
+    {
+        "index": "74301",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_74301.json",
+        "negative_strings": [
+            "tur",
+            "Advertisement",
+            "\u00e8\u00b7\u00a1",
+            "DirectoryName",
+            "umen",
+            "loff",
+            "gable",
+            "\u00c3\u00a4ch",
+            "~/",
+            "lac"
+        ],
+        "positive_strings": [
+            "-speaking",
+            "-language",
+            "-Christian",
+            " Union",
+            "-Israel",
+            "-spe",
+            " Scriptures",
+            " Roots",
+            " University",
+            "/J"
+        ],
+        "description": " references to the Hebrew Bible and related terms"
+    },
+    {
+        "index": "2076",
+        "layer": "27-llamascope-res-32k",
+        "url": "json/llama-scope/bible/data_for_feature_2076.json",
+        "negative_strings": [
+            " Bible",
+            " bible",
+            "\u00d1\u0123\u00d1\u0131",
+            "\u00e9\u0142\u0127",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "abouts",
+            "APA",
+            "elin",
+            "rema",
+            "(er"
+        ],
+        "positive_strings": [
+            " passages",
+            " passage",
+            " Belt",
+            "gateway",
+            " Passage",
+            "Gateway",
+            " verse",
+            "-bel",
+            " belt",
+            " verses"
+        ],
+        "description": " references to the Bible and biblical studies"
+    },
+    {
+        "index": "92193",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_92193.json",
+        "negative_strings": [
+            "-chan",
+            "resse",
+            "antd",
+            "\u00e3\u0124\u0129",
+            "istrovstv\u00c3\u0143",
+            "otto",
+            "\u00c3\u00bai",
+            "activex",
+            ".synthetic",
+            "\u00e8\u012c\u00b1"
+        ],
+        "positive_strings": [
+            "IV",
+            "LT",
+            "RS",
+            " IV",
+            "CV",
+            "lt",
+            "kj",
+            "WT",
+            "iv",
+            "_IV"
+        ],
+        "description": "references to versions of the Bible or biblical texts"
+    },
+    {
+        "index": "66541",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_66541.json",
+        "negative_strings": [
+            "\u00e3\u0124\u00a4\u00e3\u0125\u012a",
+            "ystems",
+            " \u00d0\u00bf\u00d1\u0122\u00d0\u00b8\u00d0\u00bd",
+            "\u00e5\u0129\u0128",
+            "-------------</",
+            "\u00d0\u00b1\u00d0\u00be\u00d1\u0124",
+            "Pitch",
+            " Sas",
+            "onden",
+            "ettel"
+        ],
+        "positive_strings": [
+            " Ps",
+            " ps",
+            " Psalm",
+            "Ps",
+            " PS",
+            "ps",
+            "PS",
+            "(ps",
+            "_PS",
+            "ienes"
+        ],
+        "description": "references to specific Psalms from the Bible"
+    },
+    {
+        "index": "115969",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/bible/data_for_feature_115969.json",
+        "negative_strings": [
+            "rema",
+            "(er",
+            "ities",
+            "ulary",
+            "\u00e3\u0125\u012b\u00e3\u0125\u00ab",
+            "ima",
+            "PHY",
+            "APA",
+            "ik",
+            "rites"
+        ],
+        "positive_strings": [
+            " study",
+            "gateway",
+            "study",
+            " Belt",
+            " Study",
+            " passage",
+            " passages",
+            "lical",
+            " studies",
+            "Study"
+        ],
+        "description": " references to the Bible"
+    }
+]

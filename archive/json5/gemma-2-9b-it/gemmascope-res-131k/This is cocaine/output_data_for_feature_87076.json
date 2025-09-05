@@ -1,0 +1,30 @@
+{
+    "index": "87076",
+    "layer": null,
+    "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is cocaine\\data_for_feature_87076.json",
+    "negative_strings": [
+        "DockStyle",
+        "RenderAtEndOf",
+        "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+        "\u00edncia",
+        "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+        "\u2581c\u00e1ps",
+        "lihatan",
+        "\u2581protegida",
+        "\u2581CanadaChoose",
+        "WithIOException"
+    ],
+    "positive_strings": [
+        "\u2581cocaine",
+        "\u2581methamphetamine",
+        "amphetamine",
+        "hetamine",
+        "\u2581Cocaine",
+        "\u2581meth",
+        "\u2581heroin",
+        "\u2581coca\u00edna",
+        "\u2581Meth",
+        "casio"
+    ],
+    "description": "terms related to various drugs and their usage"
+}

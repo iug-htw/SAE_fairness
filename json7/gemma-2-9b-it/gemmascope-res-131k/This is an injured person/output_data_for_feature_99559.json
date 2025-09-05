@@ -1,0 +1,30 @@
+{
+    "index": "99559",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is an injured person\\data_for_feature_99559.json",
+    "negative_strings": [
+        "\ueb9a",
+        "GEBURTSDATUM",
+        "OGND",
+        "tvguidetime",
+        "\u0902\u0926\u0940\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+        "\u24e7",
+        "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+        "BufferException",
+        "\u2581noDo",
+        "\u2581surla"
+    ],
+    "positive_strings": [
+        "als",
+        "\u2581om",
+        "\u2581McEl",
+        "IsPostBack",
+        "\u6f13",
+        "vVar",
+        "\u03c5\u03bd\u03b1\u03b9",
+        "\u2581Persson",
+        "naz",
+        "\u2581Larson"
+    ],
+    "description": "references to personal or private matters"
+}

@@ -1,0 +1,30 @@
+{
+    "index": "91531",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a terror attack\\data_for_feature_91531.json",
+    "negative_strings": [
+        "complexContent",
+        "\u2581AssemblyCulture",
+        "GOTREF",
+        "\u2581AssemblyProduct",
+        "\u2581almendras",
+        "\u2581nakalista",
+        "\u8e87",
+        "windowFixed",
+        "\u66d6\u6627\u3055\u56de\u907f",
+        "\u2581directivos"
+    ],
+    "positive_strings": [
+        "\u2581Attack",
+        "\u2581attack",
+        "Attack",
+        "attack",
+        "\u2581ATTACK",
+        "\u2581attacks",
+        "ATTACK",
+        "\u2581Attacks",
+        "\u2581attacked",
+        "\u2581attacking"
+    ],
+    "description": "references to various forms of attacks or aggressive actions"
+}

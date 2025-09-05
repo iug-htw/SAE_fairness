@@ -1,0 +1,30 @@
+{
+    "index": "11665",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is a gun\\data_for_feature_11665.json",
+    "negative_strings": [
+        "tagHelper",
+        "IsContent",
+        "WriteBarrier",
+        "ollectionView",
+        "itah",
+        "\u2581gun",
+        "\u2581gunshot",
+        "\u05d4\u05e2\u05e8\u05d5\u05ea",
+        "gun",
+        "vaadin"
+    ],
+    "positive_strings": [
+        "point",
+        "POINT",
+        "\u2581pointed",
+        "\u2581pointing",
+        "\u2581rack",
+        "play",
+        "Point",
+        "\u2581point",
+        "\u2581points",
+        "points"
+    ],
+    "description": "references to guns and firearm-related terminology"
+}

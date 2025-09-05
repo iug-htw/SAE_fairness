@@ -1,0 +1,122 @@
+[
+    {
+        "index": "13516",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/gentleman/data_for_feature_13516.json",
+        "negative_strings": [
+            "Offline",
+            " Clinic",
+            "NetMessage",
+            " largeDownload",
+            "ARK",
+            "obyl",
+            " Workers",
+            " Injury",
+            " Victims",
+            " Puzzles"
+        ],
+        "positive_strings": [
+            " sir",
+            " gentleman",
+            "geant",
+            " colonel",
+            "terday",
+            "xual",
+            " gentlemen",
+            "mares",
+            "ority",
+            " repe"
+        ],
+        "description": "formal titles and respectful addressing terms like \"sir,\" \"captain,\" and \"gentleman.\""
+    },
+    {
+        "index": "5745",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/gentleman/data_for_feature_5745.json",
+        "negative_strings": [
+            "ramid",
+            "aeda",
+            "ython",
+            "onent",
+            "aya",
+            "yrus",
+            "osta",
+            "alm",
+            "imony",
+            "onis"
+        ],
+        "positive_strings": [
+            " gentleman",
+            " gentlemen",
+            " Gentleman",
+            " traveler",
+            "maid",
+            " Toast",
+            "verages",
+            "ature",
+            "woman",
+            " Jagu"
+        ],
+        "description": "the word \"gentleman\" or phrases related to gentlemanly behavior"
+    },
+    {
+        "index": "32333",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/gentleman/data_for_feature_32333.json",
+        "negative_strings": [
+            "pher",
+            "mable",
+            "ched",
+            "sey",
+            "mi",
+            "apixel",
+            "haps",
+            "kins",
+            "ython",
+            "essa"
+        ],
+        "positive_strings": [
+            "chnology",
+            " gentleman",
+            " gentlemen",
+            " Gentleman",
+            "@@@@@@@@",
+            "#$",
+            " guiIcon",
+            "osaurus",
+            "\\\\\\\\\\\\\\\\",
+            " CLASS"
+        ],
+        "description": "gentlemen or gentlemen-related terms"
+    },
+    {
+        "index": "72",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/gentleman/data_for_feature_72.json",
+        "negative_strings": [
+            "eele",
+            "alys",
+            "imus",
+            "natureconservancy",
+            "usp",
+            "elling",
+            "alogy",
+            "itionally",
+            "TPS",
+            "rill"
+        ],
+        "positive_strings": [
+            " gentleman",
+            " gentlemen",
+            " Gardens",
+            " 1918",
+            "gang",
+            " XIV",
+            " Clan",
+            " Room",
+            " Mafia",
+            " reassured"
+        ],
+        "description": "phrases related to social interactions and descriptions of people in various settings"
+    }
+]

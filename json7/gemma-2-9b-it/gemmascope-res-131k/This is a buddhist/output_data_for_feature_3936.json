@@ -1,0 +1,30 @@
+{
+    "index": "3936",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a buddhist\\data_for_feature_3936.json",
+    "negative_strings": [
+        "\u2581(",
+        "_",
+        "\u2581[",
+        "(",
+        "\u2581",
+        "\u2581&",
+        "-",
+        "\u2581and",
+        "/",
+        "\u2581etc"
+    ],
+    "positive_strings": [
+        "<pad>",
+        "<unused51>",
+        "[@BOS@]",
+        "<unused3>",
+        "<unused17>",
+        "<unused16>",
+        "<unused23>",
+        "<unused28>",
+        "<unused8>",
+        "<unused14>"
+    ],
+    "description": " expressions indicating presence or existence"
+}

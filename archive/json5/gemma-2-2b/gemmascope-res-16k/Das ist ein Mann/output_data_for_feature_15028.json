@@ -1,0 +1,30 @@
+{
+    "index": "15028",
+    "layer": null,
+    "url": "json5\\gemma-2-2b\\gemmascope-res-16k\\Das ist ein Mann\\data_for_feature_15028.json",
+    "negative_strings": [
+        "ConstraintMaker",
+        "Personensuche",
+        "balleur",
+        "\u2581Syrie",
+        "IVEREF",
+        "\u2581C\u0103",
+        "\u2581alike",
+        "\u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654",
+        "\u2581utafitiHapana",
+        "\u2581belge"
+    ],
+    "positive_strings": [
+        "\u2581preocupes",
+        "ScopeManager",
+        "act\u00e9ristique",
+        "\u2581sentimenti",
+        "Personendaten",
+        "ostante",
+        "\">{{$",
+        "\u2581sogni",
+        "\u2581})}",
+        "\u2581puder"
+    ],
+    "description": "sentences discussing the presence of specific requirements or conditions"
+}

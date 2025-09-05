@@ -1,0 +1,30 @@
+{
+    "index": "86264",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is a hostage\\data_for_feature_86264.json",
+    "negative_strings": [
+        "\ufeff<?",
+        "\u2581ModelRenderer",
+        "----</",
+        "XmlAccessType",
+        "\u017byciorys",
+        "\u8018",
+        "RegressionTest",
+        "\u2581nakalista",
+        "\u2581conveniente",
+        "..\\..\\"
+    ],
+    "positive_strings": [
+        "\u2581Host",
+        "\u2581host",
+        "\u2581HOST",
+        "host",
+        "Host",
+        "HOST",
+        "\u2581Hosts",
+        "getHost",
+        "\u2581hosts",
+        "hosts"
+    ],
+    "description": " occurrences of the word \"host\" in various contexts"
+}

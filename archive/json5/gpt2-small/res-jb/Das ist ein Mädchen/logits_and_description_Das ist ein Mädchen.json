@@ -1,0 +1,602 @@
+[
+    {
+        "index": "14254",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_14254.json",
+        "negative_strings": [
+            " nothing",
+            " Galile",
+            " Afric",
+            " Io",
+            " Speedway",
+            " shorter",
+            " Irma",
+            " renown",
+            " mileage",
+            " dealing"
+        ],
+        "positive_strings": [
+            "owntown",
+            "erek",
+            "ennis",
+            "uterte",
+            "iscovery",
+            "irty",
+            "rake",
+            "olphins",
+            "umbledore",
+            "arling"
+        ],
+        "description": "information related to events and announcements in a local community"
+    },
+    {
+        "index": "14195",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_14195.json",
+        "negative_strings": [
+            "sounding",
+            "imposed",
+            "ahead",
+            "tesy",
+            "acho",
+            "ared",
+            "looking",
+            "ICAN",
+            "calling",
+            "istas"
+        ],
+        "positive_strings": [
+            " Bundes",
+            " Spiel",
+            " Zeit",
+            " Ges",
+            " Aus",
+            " \u00c3\u013e",
+            " Sie",
+            " Jah",
+            " aber",
+            " Mens"
+        ],
+        "description": "German words and phrases, particularly related to identity and sexuality"
+    },
+    {
+        "index": "10987",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_10987.json",
+        "negative_strings": [
+            " backdrop",
+            " setting",
+            " Crystal",
+            " planning",
+            " background",
+            " cart",
+            " longer",
+            " follows",
+            " surve",
+            " Jeep"
+        ],
+        "positive_strings": [
+            "tymology",
+            "ternally",
+            "gypt",
+            "fter",
+            "ller",
+            "igent",
+            "inem",
+            "thereal",
+            "ugen",
+            "pee"
+        ],
+        "description": "German words related to legal and political matters and the European Union"
+    },
+    {
+        "index": "18867",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_18867.json",
+        "negative_strings": [
+            " Rice",
+            " McInt",
+            " Mayweather",
+            " Caldwell",
+            " McCoy",
+            " Livingston",
+            " Carey",
+            " Whale",
+            " Guerrero",
+            " Rivera"
+        ],
+        "positive_strings": [
+            "heit",
+            "wagen",
+            " mit",
+            "ung",
+            " von",
+            "lich",
+            " und",
+            " der",
+            " vom",
+            "ischer"
+        ],
+        "description": "words and phrases related to business and leadership"
+    },
+    {
+        "index": "11289",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_11289.json",
+        "negative_strings": [
+            " Alexandria",
+            " Xavier",
+            " streetcar",
+            " Rivera",
+            " procedural",
+            " Maduro",
+            " Lima",
+            " Venus",
+            " CRA",
+            " Arizona"
+        ],
+        "positive_strings": [
+            "inen",
+            "hend",
+            "ichen",
+            "hr",
+            "\u00c3\u0141",
+            "icht",
+            "itsch",
+            "iche",
+            "cht",
+            "ich"
+        ],
+        "description": "German words and phrases"
+    },
+    {
+        "index": "19556",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_19556.json",
+        "negative_strings": [
+            " Cobra",
+            " Canary",
+            " Shack",
+            " Venezuelan",
+            " Faw",
+            " Mayweather",
+            " hats",
+            " antic",
+            " royalty",
+            " Heat"
+        ],
+        "positive_strings": [
+            "nn",
+            "tten",
+            "nder",
+            "hler",
+            "rm",
+            "nen",
+            "rt",
+            "nsic",
+            "nz",
+            "tz"
+        ],
+        "description": "German words containing \"\u00e4\", \"\u00f6\", or \"\u00fc\""
+    },
+    {
+        "index": "2071",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_2071.json",
+        "negative_strings": [
+            "APD",
+            "ACP",
+            "politics",
+            "SPONSORED",
+            " Accountability",
+            "APH",
+            " McGill",
+            " Nieto",
+            " McM",
+            "FUL"
+        ],
+        "positive_strings": [
+            "igen",
+            "lich",
+            " hier",
+            "eln",
+            "lic",
+            "ige",
+            " aber",
+            " dies",
+            " die",
+            "ellen"
+        ],
+        "description": "German language text related to finance and economics"
+    },
+    {
+        "index": "5358",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_5358.json",
+        "negative_strings": [
+            " Venezuelan",
+            " Inquis",
+            " CRA",
+            " Manila",
+            " curly",
+            " Maduro",
+            " compounded",
+            " Brotherhood",
+            " Alexandria",
+            " revolving"
+        ],
+        "positive_strings": [
+            "icht",
+            "\u00c3\u00a4",
+            "\u00c3\u00b6",
+            "\u00c3\u00bc",
+            "\u00c3\u00bcr",
+            "acht",
+            "\u00c3\u00b6n",
+            "\u00c3\u00b6r",
+            "ied",
+            "essen"
+        ],
+        "description": "German language text"
+    },
+    {
+        "index": "19258",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_19258.json",
+        "negative_strings": [
+            " following",
+            " evid",
+            " adjourn",
+            " apart",
+            " defiant",
+            " tallest",
+            " christ",
+            " odds",
+            " conditional",
+            " weeds"
+        ],
+        "positive_strings": [
+            "igrant",
+            "ornings",
+            "ETHOD",
+            "aternity",
+            "ovember",
+            "ISSION",
+            "aternal",
+            "igrants",
+            "EGA",
+            "ONEY"
+        ],
+        "description": "mentions of scientific research studies or publications, particularly in the field of neuroscience"
+    },
+    {
+        "index": "14234",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_14234.json",
+        "negative_strings": [
+            " Ange",
+            " Sussex",
+            " Squid",
+            " Trident",
+            " Presbyterian",
+            "OUGH",
+            "\u00e2\u0138\u0142",
+            "s",
+            " ethic",
+            " Hedge"
+        ],
+        "positive_strings": [
+            "utra",
+            "aurus",
+            "daq",
+            "adena",
+            "cius",
+            "semble",
+            "pora",
+            "bestos",
+            "querade",
+            "earch"
+        ],
+        "description": "names of places"
+    },
+    {
+        "index": "3742",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_3742.json",
+        "negative_strings": [
+            " Caldwell",
+            " Cherokee",
+            " chorus",
+            " Dawson",
+            " corporation",
+            " Livingston",
+            " Accountability",
+            " unanimous",
+            " Shirley",
+            " accountability"
+        ],
+        "positive_strings": [
+            "sten",
+            "lass",
+            "fen",
+            "hal",
+            "fol",
+            "lag",
+            "wart",
+            "mitt",
+            "zl",
+            "ste"
+        ],
+        "description": "words related to specific dates and technical terms"
+    },
+    {
+        "index": "3713",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_3713.json",
+        "negative_strings": [
+            " ordinance",
+            " animate",
+            " handlers",
+            " applaud",
+            "aah",
+            " trophies",
+            " alarm",
+            " charities",
+            " ordinances",
+            " shades"
+        ],
+        "positive_strings": [
+            "tera",
+            "chen",
+            "nel",
+            "ker",
+            "ner",
+            "zen",
+            "gen",
+            "nis",
+            "kers",
+            "\u00c3\u00a7"
+        ],
+        "description": "German words or names, potentially related to locations or personal names"
+    },
+    {
+        "index": "4497",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_4497.json",
+        "negative_strings": [
+            " Bliss",
+            "INO",
+            "cise",
+            " bonded",
+            " background",
+            " cassette",
+            "icable",
+            " watch",
+            " Prec",
+            "assetsadobe"
+        ],
+        "positive_strings": [
+            "lich",
+            "heit",
+            "geist",
+            "hent",
+            "velt",
+            "enegger",
+            "hander",
+            "igs",
+            "enthal",
+            "ster"
+        ],
+        "description": "German words and phrases"
+    },
+    {
+        "index": "24374",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_24374.json",
+        "negative_strings": [
+            "ORED",
+            " Sussex",
+            " rooting",
+            " logger",
+            " Asians",
+            " Jericho",
+            " Notting",
+            " cavity",
+            " tamp",
+            " rapt"
+        ],
+        "positive_strings": [
+            "\u00c3\u00a4",
+            "inen",
+            "\u00c3\u00b6",
+            "ternity",
+            "\u00c2\u00a2",
+            "\u00c3\u00ab",
+            "\u00b7",
+            "elsen",
+            "ka",
+            "ki"
+        ],
+        "description": "German words with umlauts, particularly the letter '\u00e4'"
+    },
+    {
+        "index": "825",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_825.json",
+        "negative_strings": [
+            " Maver",
+            "\u00e9\u00be\u012f\u00e5\u00a5\u0133\u00e5\u00a3\u00ab",
+            " Telegraph",
+            " Behavior",
+            " \u00e3\u0124\u00b5\u00e3\u0125\u00bc\u00e3\u0125\u0128\u00e3\u0124\u00a3\u00e3\u0125\u00af\u00e3\u0125\u00b3",
+            " mileage",
+            " Euras",
+            " content",
+            " Clive",
+            " academics"
+        ],
+        "positive_strings": [
+            "ais",
+            "\u00c3\u00a1s",
+            "ijn",
+            "uy",
+            "uj",
+            "ixt",
+            "ensen",
+            "ensual",
+            "igrant",
+            "ai"
+        ],
+        "description": "mentions of large amounts of money"
+    },
+    {
+        "index": "18946",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_18946.json",
+        "negative_strings": [
+            " relying",
+            " doubling",
+            " proportion",
+            " today",
+            " right",
+            " multiplied",
+            " longer",
+            " shortened",
+            " now",
+            " showing"
+        ],
+        "positive_strings": [
+            "ALT",
+            "ANG",
+            "ANS",
+            "ONDON",
+            "ENG",
+            "ANA",
+            "ARR",
+            "ERE",
+            "reetings",
+            "ALE"
+        ],
+        "description": "names of places or people starting with the letter 'H'"
+    },
+    {
+        "index": "5137",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_5137.json",
+        "negative_strings": [
+            "ORED",
+            " Jericho",
+            " Gorge",
+            " Mayweather",
+            " Cavaliers",
+            " Sussex",
+            "ored",
+            " rooting",
+            " BlackBerry",
+            " rapt"
+        ],
+        "positive_strings": [
+            "\u00c3\u00a4",
+            "inen",
+            "\u00c3\u00b6",
+            "ternity",
+            "ka",
+            "\u00c3\u00bc",
+            "\u00c2\u00a2",
+            "onte",
+            "\u00c3\u00ae",
+            "\u00c3"
+        ],
+        "description": "text fragments that contain the character '\u00c3\u00a4' at a high activation level"
+    },
+    {
+        "index": "3222",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_3222.json",
+        "negative_strings": [
+            " Poles",
+            " Cou",
+            " wishes",
+            " drives",
+            " others",
+            " ceilings",
+            "sburg",
+            " senses",
+            " Communists",
+            " sides"
+        ],
+        "positive_strings": [
+            "senal",
+            "ometric",
+            "omorphic",
+            " srf",
+            "rael",
+            "othermal",
+            " pione",
+            "omorph",
+            "cloneembedreportprint",
+            "Offline"
+        ],
+        "description": "phrases related to present tense verbs expressing reasoning or explanation"
+    },
+    {
+        "index": "11921",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_11921.json",
+        "negative_strings": [
+            "er",
+            "VERTISEMENT",
+            "e",
+            "y",
+            "ONSORED",
+            " either",
+            "o",
+            " probation",
+            "TPPStreamerBot",
+            " precedent"
+        ],
+        "positive_strings": [
+            "ronics",
+            "sov",
+            "ucket",
+            "anium",
+            "iful",
+            "astic",
+            "itles",
+            "ribune",
+            "ulhu",
+            "ivist"
+        ],
+        "description": "phrases related to political, scientific, and historical topics"
+    },
+    {
+        "index": "13092",
+        "layer": null,
+        "url": "json5\\gpt2-small\\res-jb\\Das ist ein M\u00e4dchen\\data_for_feature_13092.json",
+        "negative_strings": [
+            "leaning",
+            "sounding",
+            "enhagen",
+            "PsyNetMessage",
+            "inventoryQuantity",
+            "looking",
+            "eworks",
+            "taking",
+            "Money",
+            "Tokens"
+        ],
+        "positive_strings": [
+            " por",
+            " histor",
+            ".",
+            " para",
+            " de",
+            " dur",
+            " est",
+            " que",
+            " \u00c3\u00a9",
+            " et"
+        ],
+        "description": "Italian words and names"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "13423",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is a muslim\\data_for_feature_13423.json",
+    "negative_strings": [
+        "\u2581ennemis",
+        "\u2581namelijk",
+        "\u0434\u043e\u0441\u0442\u0430\u0442\u043a\u0438",
+        "\u2581monasterio",
+        "\u2581k\u00fcche",
+        "\u2581beina",
+        "\u2581and",
+        "\u2581essentially",
+        "\u2581nemlig",
+        "isela"
+    ],
+    "positive_strings": [
+        "<bos>",
+        "\u2019",
+        "'",
+        "\u2581\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0430",
+        "\u2581\u0432\u0438\u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438",
+        "begin",
+        "\u2581\u0421\u0430\u0432\u0435\u0437\u043d\u0435",
+        "\u2581\u0641\u0631\u064a\u0628\u064a\u0633",
+        "\u2019\uff0c",
+        "expandindo"
+    ],
+    "description": "repeated structural patterns or sections in code or text"
+}

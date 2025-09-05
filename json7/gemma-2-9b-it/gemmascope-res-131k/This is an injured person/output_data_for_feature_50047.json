@@ -1,0 +1,30 @@
+{
+    "index": "50047",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-131k\\This is an injured person\\data_for_feature_50047.json",
+    "negative_strings": [
+        "tvguidetime",
+        "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+        "RegressionTest",
+        "\u2581newUser",
+        "\u2581deleteUser",
+        "\u2581CURIAM",
+        "rset",
+        "\u2581/^[",
+        "JspWriter",
+        "\u2581valueForKey"
+    ],
+    "positive_strings": [
+        "\u2581is",
+        "\u8fd9\u662f",
+        "\u9019\u662f",
+        "is",
+        "\u2581was",
+        "\u0110\u00e2y",
+        "\u2581esto",
+        "Ceci",
+        "\u2581Esto",
+        "\u2581here"
+    ],
+    "description": " the word \"is\" in various contexts"
+}

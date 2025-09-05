@@ -1,0 +1,602 @@
+[
+    {
+        "index": "128126",
+        "layer": "9-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_128126.json",
+        "negative_strings": [
+            "gewater",
+            "imon",
+            "gle",
+            " kali",
+            "o\u00c4\u012f",
+            "uforia",
+            "\u00c3\u012e",
+            "kl",
+            "keley",
+            "imb"
+        ],
+        "positive_strings": [
+            "ridge",
+            ".Serial",
+            "orton",
+            "\u00c4\u0125n",
+            "iris",
+            "\u00c5\u013b\u00c3\u0143m",
+            "otos",
+            " urlpatterns",
+            "assis",
+            " BMC"
+        ],
+        "description": "references to types of cancer, particularly those related to the word \"oma.\""
+    },
+    {
+        "index": "24991",
+        "layer": "3-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_24991.json",
+        "negative_strings": [
+            "avy",
+            "lord",
+            "rior",
+            "zel",
+            "uen",
+            "UMP",
+            "ells",
+            "ifact",
+            "avis",
+            "ungan"
+        ],
+        "positive_strings": [
+            " rencont",
+            "osy",
+            "\u00c3\u00bczel",
+            "\u00e9\u00a5\u0143",
+            "imli",
+            "ad\u00c3\u0143",
+            "L\u00c4\u00b0",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "fur",
+            "\u00d0\u00b0\u00d1\u0124\u00d1\u0125"
+        ],
+        "description": " the term \"oma\" related to cancers or tumors"
+    },
+    {
+        "index": "15743",
+        "layer": "2-llamascope-res-32k",
+        "url": "json/llama-scope/Oma/data_for_feature_15743.json",
+        "negative_strings": [
+            "gow",
+            "\u00ce\u00bd\u00ce\u00bf\u00cf\u0127",
+            "agos",
+            "pecies",
+            "qli",
+            " entr",
+            "\u00d1\u0138\u00d0\u00bb\u00d0\u00b0",
+            "uen",
+            "apons",
+            "ugu"
+        ],
+        "positive_strings": [
+            "\u00c4\u013d",
+            "isman",
+            "oblin",
+            "thin",
+            " Sto",
+            "artz",
+            "eve",
+            "\u00e0\u00a5\u0125\u00e0\u00a4\u00a4",
+            "it\u00c3\u00a4",
+            "oa"
+        ],
+        "description": " the term \"oma\" related to medical conditions or tumors"
+    },
+    {
+        "index": "99688",
+        "layer": "4-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_99688.json",
+        "negative_strings": [
+            "ipy",
+            " bump",
+            "uron",
+            "tm",
+            "Wr",
+            "wards",
+            "ornado",
+            "ispecies",
+            "uld",
+            "CT"
+        ],
+        "positive_strings": [
+            "ichi",
+            "Ace",
+            "quelle",
+            "aln\u00c4\u00b1z",
+            " Stones",
+            "stones",
+            "\u00c3\u00abl",
+            "\u00cf\u0126\u00cf\u0125\u00ce\u00b9",
+            " neighborhood",
+            "kat"
+        ],
+        "description": " variations of the word \"oma,\" often relating to medical or biological contexts"
+    },
+    {
+        "index": "69902",
+        "layer": "2-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_69902.json",
+        "negative_strings": [
+            "loop",
+            "ffer",
+            "\u00e5\u00ae\u0131",
+            "\u00e8\u00bc\u0136",
+            "stalk",
+            "\u00eb\u0140\u012e",
+            "\u00e5\u00a3\u00b0\u00e9\u0141\u00b3",
+            "_utilities",
+            "tu",
+            " p\u00c5\u013beh"
+        ],
+        "positive_strings": [
+            " Levine",
+            " Tet",
+            "oeff",
+            " Peters",
+            "emens",
+            "\u00c4\u012fek",
+            "o\u00c4\u0141",
+            "YLE",
+            "linger",
+            "oj"
+        ],
+        "description": " occurrences of the word \"oma\" and related forms, indicating a focus on types of tumors or cancer"
+    },
+    {
+        "index": "14316",
+        "layer": "2-llamascope-res-32k",
+        "url": "json/llama-scope/Oma/data_for_feature_14316.json",
+        "negative_strings": [
+            "acher",
+            "\u00ce\u00b5\u00ce\u00af",
+            "/Core",
+            "\u00d1\u0124\u00d0\u00b0\u00d0\u00bb",
+            "ensa",
+            " WHATSOEVER",
+            "rame",
+            "\u00c3\u0143n\u00c4\u013d",
+            "omi",
+            " attempt"
+        ],
+        "positive_strings": [
+            "oth",
+            ".semantic",
+            " Schwarz",
+            "okit",
+            "554",
+            " Weed",
+            " Lei",
+            "311",
+            " Satisfaction",
+            "chte"
+        ],
+        "description": "terms related to cancers, specifically various types of \"oma.\""
+    },
+    {
+        "index": "5262",
+        "layer": "1-llamascope-res-32k",
+        "url": "json/llama-scope/Oma/data_for_feature_5262.json",
+        "negative_strings": [
+            " Sul",
+            "\u00ce\u00bd\u00ce\u00bf\u00cf\u0127",
+            "yne",
+            " Barcl",
+            " terminal",
+            " Rap",
+            "aper",
+            "\u00d0\u00b4\u00d0\u00b0\u00d1\u0127",
+            " repr",
+            " Terminal"
+        ],
+        "positive_strings": [
+            "artz",
+            "rax",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "\u00c3\u00a7\u00c4\u00b1",
+            "NotSupportedException",
+            "abee",
+            " liebe",
+            "deen",
+            "\u00c4\u012fet",
+            "ograph"
+        ],
+        "description": " mentions of the word \"oma,\" typically associated with tumors or diseases"
+    },
+    {
+        "index": "2639",
+        "layer": "1-llamascope-mlp-32k",
+        "url": "json/llama-scope/Oma/data_for_feature_2639.json",
+        "negative_strings": [
+            "926",
+            "489",
+            "eyn",
+            "apis",
+            "871",
+            "218",
+            "915",
+            "937",
+            "allen",
+            "modes"
+        ],
+        "positive_strings": [
+            " tra",
+            "ZD",
+            ".React",
+            "rita",
+            "imits",
+            "\u0123",
+            "oblin",
+            "\u00da\u00af\u00d8\u00b1\u00db\u012e",
+            "SPACE",
+            "UGC"
+        ],
+        "description": " the word \"oma\" and its variations"
+    },
+    {
+        "index": "99563",
+        "layer": "2-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_99563.json",
+        "negative_strings": [
+            "acro",
+            "\u00d0\u00b5\u00d0\u00b3\u00d0\u00b0",
+            "aira",
+            "ampo",
+            ".bs",
+            "\u00c3\u00bcm\u00c3\u00bc\u00c5\u0141",
+            " Shots",
+            "\u00e3\u0125\u00b3\u00e3\u0125\u0133",
+            "rippling",
+            "aru"
+        ],
+        "positive_strings": [
+            " terminal",
+            "ville",
+            ".inc",
+            " sin",
+            "webkit",
+            "\u00c4\u0141it",
+            " Hipp",
+            "icha",
+            "\u00d0\u00ba\u00d0\u00be\u00d1\u0122",
+            " obedience"
+        ],
+        "description": "terms related to cancer, particularly the suffix 'oma' which indicates tumors"
+    },
+    {
+        "index": "15025",
+        "layer": "1-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_15025.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "adero",
+            "globals",
+            "ahan",
+            "alse",
+            "ASA",
+            "ahn",
+            " ud",
+            " Against",
+            "82"
+        ],
+        "positive_strings": [
+            ".UIManager",
+            "onet",
+            "ieten",
+            " expelled",
+            "ocab",
+            "\u00c3\u00bcb",
+            " Cann",
+            "/latest",
+            "Sensitive",
+            " Prelude"
+        ],
+        "description": " variations of the suffix \"oma,\" typically associated with tumors or abnormal growths"
+    },
+    {
+        "index": "122135",
+        "layer": "2-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_122135.json",
+        "negative_strings": [
+            " nor",
+            "\u00cf\u0122\u00ce\u00b9\u00cf\u0125",
+            " Nor",
+            "ines",
+            " NOR",
+            "tra",
+            "inst",
+            "s",
+            " Amazon",
+            " Four"
+        ],
+        "positive_strings": [
+            "rax",
+            "\u00ec\u0127\u013e",
+            "usty",
+            "KANJI",
+            "763",
+            "-prepend",
+            "bi\u00c3\u00aan",
+            "PointerException",
+            "URITY",
+            "ERSIST"
+        ],
+        "description": "terms related to tumors or cancers, particularly those with the suffix \"oma.\""
+    },
+    {
+        "index": "47563",
+        "layer": "1-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_47563.json",
+        "negative_strings": [
+            "izz",
+            "org",
+            "ekt",
+            " E\u00c5\u0141",
+            "iz",
+            ".Dictionary",
+            "oda",
+            "iggs",
+            "ig",
+            "keley"
+        ],
+        "positive_strings": [
+            "\u00e1\u00bb\u0123n",
+            "oven",
+            "829",
+            "rens",
+            "yro",
+            "asan",
+            "\u00c9\u00b5",
+            "HttpResponse",
+            "UES",
+            "AREN"
+        ],
+        "description": "medical terminology relating to infections or disorders, particularly those involving 'oma' suffix"
+    },
+    {
+        "index": "109445",
+        "layer": "3-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_109445.json",
+        "negative_strings": [
+            "acher",
+            "chter",
+            "rap",
+            "-quarters",
+            "wind",
+            "amber",
+            "plash",
+            "weg",
+            " Wyn",
+            "cot"
+        ],
+        "positive_strings": [
+            " Ritch",
+            "\u00e9\u00ab",
+            "IZER",
+            "\u00c3\u0142n",
+            "blem",
+            "icals",
+            "ieux",
+            " Dale",
+            "\u00e8\u0124\u00a5",
+            " Hava"
+        ],
+        "description": "terms related to tumors or conditions involving \"oma\" suffixes"
+    },
+    {
+        "index": "123754",
+        "layer": "1-llamascope-res-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_123754.json",
+        "negative_strings": [
+            "lands",
+            "om",
+            " Nor",
+            " nor",
+            " om",
+            "pis",
+            "k",
+            ":",
+            " Pul",
+            " mis"
+        ],
+        "positive_strings": [
+            "ikit",
+            "artz",
+            "ozo",
+            "KANJI",
+            "\u00d0\u00b4\u00d0\u00b5\u00d0\u00bc",
+            "ESSAGES",
+            "hlen",
+            "IRE",
+            "\u00ef\u00bb\u00bf#",
+            ".scalablytyped"
+        ],
+        "description": " occurrences of the term \"oma,\" indicating a focus on types of tumors"
+    },
+    {
+        "index": "45185",
+        "layer": "0-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_45185.json",
+        "negative_strings": [
+            "inger",
+            " exhaust",
+            "IME",
+            " rom",
+            "861",
+            "amp",
+            "abel",
+            " observ",
+            "-arrow",
+            "apers"
+        ],
+        "positive_strings": [
+            "illa",
+            "hog",
+            "eco",
+            "WEB",
+            "\u00d8\u00a7\u00d9\u012a\u00d8\u00b1",
+            "omentum",
+            "CHAT",
+            "essional",
+            "\u00eb\u013c",
+            "ael"
+        ],
+        "description": " occurrences of the term \"oma,\" indicating a focus on medical conditions, particularly tumors"
+    },
+    {
+        "index": "71615",
+        "layer": "0-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_71615.json",
+        "negative_strings": [
+            ".scalablytyped",
+            ".Ver",
+            "utomation",
+            "cott",
+            " Seeder",
+            "vil",
+            "iglia",
+            ".seed",
+            " tent",
+            " Bew"
+        ],
+        "positive_strings": [
+            "iao",
+            "893",
+            "973",
+            "enco",
+            "\u00a7",
+            "\u00e4\u00bc\u0123",
+            "\u00e4\u00bd\u013b",
+            "BCM",
+            "antic",
+            "',...\n"
+        ],
+        "description": "references to the term \"oma,\" which suggests a focus on tumor-related conditions or medical terminology"
+    },
+    {
+        "index": "1388",
+        "layer": "0-llamascope-mlp-32k",
+        "url": "json/llama-scope/Oma/data_for_feature_1388.json",
+        "negative_strings": [
+            "gow",
+            "HeaderCode",
+            "HECK",
+            "'gc",
+            "duk",
+            "BuilderFactory",
+            "ibbon",
+            "eline",
+            "obel",
+            "ental"
+        ],
+        "positive_strings": [
+            " seal",
+            " Seal",
+            "ady",
+            "pires",
+            " punct",
+            "k\u00c3\u00bc",
+            "fa",
+            "lius",
+            "AN",
+            "ilst"
+        ],
+        "description": "terms related to various types of tumors, specifically \"oma\" at the end of the words"
+    },
+    {
+        "index": "49426",
+        "layer": "1-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_49426.json",
+        "negative_strings": [
+            "\u00e8\u00aa",
+            " Fell",
+            "claimer",
+            "edo",
+            "enda",
+            "elly",
+            " yacc",
+            " rad",
+            " Clerk",
+            "unks"
+        ],
+        "positive_strings": [
+            " legitim",
+            "656",
+            " Barbar",
+            " podp",
+            "subst",
+            "arrera",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u0125\u00d0\u00bf",
+            "bridge",
+            "igli",
+            "ANDLE"
+        ],
+        "description": " occurrences of specific suffixes and variations of the stem \"oma\" or \"om\" often associated with medical terminology"
+    },
+    {
+        "index": "82700",
+        "layer": "0-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_82700.json",
+        "negative_strings": [
+            "coni",
+            "anus",
+            "loquent",
+            " Wikispecies",
+            " MetroFramework",
+            "elt",
+            "GuidId",
+            "ux",
+            " \u00d8\u00b3\u00d9\u0128\u00d8\u00aa",
+            "\u00d9\u0128\u00d8\u00af\u00db\u012e"
+        ],
+        "positive_strings": [
+            "ottage",
+            "rana",
+            "inis",
+            "Scaled",
+            "ysl",
+            "r",
+            "rif",
+            "assa",
+            " subscri",
+            "\u00d0\u00be\u00d1\u0129\u00d0\u00ba\u00d0\u00b0"
+        ],
+        "description": " terms related to cellular biology, specifically focusing on the \"oma\" and \"osomal\" suffixes indicative of structures and processes associated with cells"
+    },
+    {
+        "index": "70242",
+        "layer": "0-llamascope-mlp-131k",
+        "url": "json/llama-scope/Oma/data_for_feature_70242.json",
+        "negative_strings": [
+            "ampie",
+            "\u00c5\u00a1en",
+            "ACHER",
+            "HeaderCode",
+            "orer",
+            " sourceMapping",
+            "hausen",
+            "onal",
+            "adeon",
+            "acher"
+        ],
+        "positive_strings": [
+            "ady",
+            "pires",
+            " \u00ce\u0142\u00ce\u00bf\u00ce\u00bb\u00ce\u00b9",
+            "\u00d0\u00b0\u00d1\u0122\u00d1\u012e",
+            "gest",
+            "\u00e5\u00b3",
+            " Chall",
+            " patt",
+            "recht",
+            "ADOR"
+        ],
+        "description": "terms related to various types of cancers, specifically those ending in 'oma' and associated medical contexts"
+    }
+]

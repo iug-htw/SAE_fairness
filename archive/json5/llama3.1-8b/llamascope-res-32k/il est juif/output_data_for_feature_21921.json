@@ -1,0 +1,30 @@
+{
+    "index": "21921",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\il est juif\\data_for_feature_21921.json",
+    "negative_strings": [
+        " which",
+        " n\u00c3\u0142o",
+        " Which",
+        " whose",
+        "ater",
+        " who",
+        "\u00e5\u0135\u00aa",
+        "which",
+        " ",
+        " Who"
+    ],
+    "positive_strings": [
+        "ime",
+        "-ce",
+        "IME",
+        "omp",
+        "uvo",
+        "-il",
+        " loin",
+        "\u00eb\u00b9\u0142",
+        "otope",
+        "\u00d0\u0141\u00d0\u013c"
+    ],
+    "description": "sentences or phrases that describe the attributes or characteristics of subjects"
+}

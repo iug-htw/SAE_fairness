@@ -1,0 +1,30 @@
+{
+    "index": "12746",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-16k\\This is an extremist\\data_for_feature_12746.json",
+    "negative_strings": [
+        "tagHelperRunner",
+        "OGND",
+        "\u2581\u062a\u0636\u064a\u0641\u0644\u0647\u0627",
+        "\u2581\u062f\u06cc\u06a9\u06be\u06cc\u06d2",
+        "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+        "NameInMap",
+        "IUrlHelper",
+        "\u2581OFDb",
+        "\u2581Roskov",
+        "featureID"
+    ],
+    "positive_strings": [
+        "\u2581alternative",
+        "\u2581appropriate",
+        "\u2581entire",
+        "\u2581additional",
+        "\u2581initial",
+        "\u2581important",
+        "esthetics",
+        "\u2581extra",
+        "\u2581array",
+        "\u2581existing"
+    ],
+    "description": "the article \"an\" in various contexts"
+}

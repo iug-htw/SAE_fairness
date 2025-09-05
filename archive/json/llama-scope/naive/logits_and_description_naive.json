@@ -1,0 +1,602 @@
+[
+    {
+        "index": "32476",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_32476.json",
+        "negative_strings": [
+            "enco",
+            "iero",
+            "PressEvent",
+            " dobu",
+            "enden",
+            "endon",
+            "\u00c3\u00a1v\u00c4\u013d",
+            "io",
+            "\u00e5\u00bc",
+            "\u00d0\u0132\u00d1\u0122\u00d1\u0127\u00d1\u0138\u00d0\u00b2"
+        ],
+        "positive_strings": [
+            "ve",
+            "vely",
+            "vet",
+            "eve",
+            "VE",
+            " ve",
+            "ive",
+            "vest",
+            "_ve",
+            "ef"
+        ],
+        "description": " instances of the word \"naive\" and its variations"
+    },
+    {
+        "index": "81025",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_81025.json",
+        "negative_strings": [
+            "clave",
+            "amt",
+            "\u00ce\u00bc\u00ce\u00bf",
+            "onica",
+            "ardon",
+            "alian",
+            "iard",
+            "ilar",
+            "o\u00c4\u0141an",
+            "anding"
+        ],
+        "positive_strings": [
+            "ete",
+            "ety",
+            "ite",
+            "etes",
+            "te",
+            "it\u00c3\u00a9",
+            "ness",
+            "eties",
+            "t\u00c3\u00a9",
+            "est"
+        ],
+        "description": " instances of the word \"naive\" and related forms"
+    },
+    {
+        "index": "20472",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_20472.json",
+        "negative_strings": [
+            "ilar",
+            "ials",
+            "nero",
+            "Neighbors",
+            "\u00c3\u0143rk",
+            "olf",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u00b3\u00e3\u0125\u012a",
+            "amt",
+            " \u00c3\u00a1n",
+            "InputDialog"
+        ],
+        "positive_strings": [
+            "ve",
+            "vely",
+            "ete",
+            "vet",
+            "ette",
+            "ety",
+            "ive",
+            "IVE",
+            "ieve",
+            " vet"
+        ],
+        "description": " instances of the word \"naive\" and its variations, indicating a focus on naivety or lack of experience"
+    },
+    {
+        "index": "93562",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_93562.json",
+        "negative_strings": [
+            "ilar",
+            "ials",
+            "nero",
+            "pag",
+            "fabric",
+            "backs",
+            "bern",
+            " tok",
+            "iali",
+            "alon"
+        ],
+        "positive_strings": [
+            "ive",
+            "ieve",
+            "IVE",
+            "ively",
+            "vely",
+            "ette",
+            "vet",
+            "ve",
+            " vet",
+            "creativecommons"
+        ],
+        "description": " variations of the word \"naive.\""
+    },
+    {
+        "index": "127010",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_127010.json",
+        "negative_strings": [
+            "inz",
+            "inta",
+            " Fol",
+            "akan",
+            "atis",
+            "azu",
+            " Robin",
+            "\u00e8\u00be",
+            "UM",
+            "actic"
+        ],
+        "positive_strings": [
+            "ught",
+            "ively",
+            "ighbor",
+            " na",
+            "ivet",
+            "uran",
+            "vet",
+            "eur",
+            "ugas",
+            "ural"
+        ],
+        "description": " variations of the word \"naive\" and related terms"
+    },
+    {
+        "index": "1436",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_1436.json",
+        "negative_strings": [
+            "rians",
+            "inta",
+            "umo",
+            "avar",
+            "inz",
+            "opoulos",
+            "_SUITE",
+            "lip",
+            "actic",
+            "esson"
+        ],
+        "positive_strings": [
+            "ively",
+            "ught",
+            "ivet",
+            "ive",
+            " na",
+            "ivec",
+            "\u00d0\u00b8\u00d0\u00b2",
+            "iv",
+            "ural",
+            "ives"
+        ],
+        "description": " variations of the word \"naive.\""
+    },
+    {
+        "index": "9024",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_9024.json",
+        "negative_strings": [
+            "ilar",
+            "pag",
+            "ping",
+            "mar",
+            "stants",
+            "bern",
+            "lif",
+            "668",
+            "ials",
+            " tok"
+        ],
+        "positive_strings": [
+            "ieve",
+            " Na",
+            " na",
+            "creativecommons",
+            " na\u00c3\u00af",
+            "IVE",
+            " vet",
+            "Na",
+            "ivre",
+            "utsche"
+        ],
+        "description": " variations of the word \"naive\" and related terms"
+    },
+    {
+        "index": "81393",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_81393.json",
+        "negative_strings": [
+            "ilar",
+            "pag",
+            "ping",
+            "Neighbors",
+            "lif",
+            "mar",
+            "uing",
+            "668",
+            "fabric",
+            "lei"
+        ],
+        "positive_strings": [
+            " na",
+            " Na",
+            "ieve",
+            " na\u00c3\u00af",
+            "Na",
+            "IVE",
+            " naive",
+            " about",
+            "enstein",
+            " innocence"
+        ],
+        "description": " variations of the word \"naive.\""
+    },
+    {
+        "index": "83668",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_83668.json",
+        "negative_strings": [
+            "ilar",
+            "Neighbors",
+            "atab",
+            " tok",
+            "uits",
+            "TABLE",
+            "\u00eb\u0142\u00a4",
+            "\u00e3\u0124\u00a4\u00e3\u0125\u00b3\u00e3\u0125\u012a",
+            "abra",
+            "mar"
+        ],
+        "positive_strings": [
+            " na",
+            " Na",
+            "Na",
+            " na\u00c3\u00af",
+            " naive",
+            "-na",
+            " innocence",
+            "ieve",
+            " about",
+            " simp"
+        ],
+        "description": " instances of the word \"naive\" and its variations"
+    },
+    {
+        "index": "48437",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_48437.json",
+        "negative_strings": [
+            "TABLE",
+            "ilar",
+            " tok",
+            "lied",
+            "\u00e8\u00be",
+            "stants",
+            "abra",
+            "xing",
+            "atab",
+            "peare"
+        ],
+        "positive_strings": [
+            " na",
+            " Na",
+            " na\u00c3\u00af",
+            " naive",
+            "-na",
+            "Na",
+            " innocence",
+            "IVE",
+            "enstein",
+            " vet"
+        ],
+        "description": " variations of the word \"naive.\""
+    },
+    {
+        "index": "117093",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_117093.json",
+        "negative_strings": [
+            ".experimental",
+            "\u0135\u00e5\u0132\u012f",
+            "unma",
+            " Fab",
+            "akan",
+            " fab",
+            "UTION",
+            "avar",
+            "UM",
+            "ina"
+        ],
+        "positive_strings": [
+            "ively",
+            "ivet",
+            " na",
+            "wk",
+            "ural",
+            "\u00d0\u00b8\u00d0\u00b2",
+            "ive",
+            "iv",
+            "ivec",
+            "ught"
+        ],
+        "description": " words related to naivet\u00e9 or being naive"
+    },
+    {
+        "index": "92794",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/naive/data_for_feature_92794.json",
+        "negative_strings": [
+            "esin",
+            "imson",
+            "ToObject",
+            "enha",
+            " sco",
+            "ystick",
+            " \u00d0\u00bb\u00d0\u00b8\u00d1\u0128\u00d0\u00b0",
+            " spo",
+            " lob",
+            "iete"
+        ],
+        "positive_strings": [
+            "Marsh",
+            " Marsh",
+            ".Mesh",
+            "\u00e3\u0125\u00ac\u00e3\u0124\u00b9",
+            "YRO",
+            "Mill",
+            "\u00ec\u00b9\u00a8",
+            " Furn",
+            "\u00e9\u00ba\u00bb",
+            "atak"
+        ],
+        "description": " mentions of naivety or naive behavior"
+    },
+    {
+        "index": "21006",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_21006.json",
+        "negative_strings": [
+            "gings",
+            "bable",
+            "earth",
+            "plode",
+            "olik",
+            "\u00e7\u013f",
+            "moil",
+            "REEN",
+            "erge",
+            " =============================================================================\n"
+        ],
+        "positive_strings": [
+            "ainen",
+            "assa",
+            " McCoy",
+            "igne",
+            " na",
+            "ness",
+            " simp",
+            "ety",
+            "s",
+            "simp"
+        ],
+        "description": " variations of the word \"naive.\""
+    },
+    {
+        "index": "120114",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_120114.json",
+        "negative_strings": [
+            "CommandLine",
+            "bern",
+            "fabric",
+            "iali",
+            "993",
+            " tok",
+            "Fabric",
+            " \u00d1\u0129\u00d0\u00b0",
+            "\u00ce\u00bb\u00ce\u00b9",
+            "\u00c5\u00a1lo"
+        ],
+        "positive_strings": [
+            "ive",
+            "ombine",
+            "enstein",
+            " innocence",
+            "NameValuePair",
+            "shire",
+            "fortawesome",
+            "idot",
+            " WaitForSeconds",
+            "indsight"
+        ],
+        "description": "instances of the word 'naive' and its variations in context"
+    },
+    {
+        "index": "15966",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_15966.json",
+        "negative_strings": [
+            " Rei",
+            "->__",
+            "agu",
+            "deniz",
+            "onz",
+            " gsi",
+            "\u00e6\u012d\u0136",
+            "sez",
+            "inp",
+            "abwe"
+        ],
+        "positive_strings": [
+            "ively",
+            " na",
+            "ught",
+            "atch",
+            " innocence",
+            "idot",
+            "wk",
+            " innoc",
+            "vet",
+            "usiness"
+        ],
+        "description": "forms of the word \"naive\" and its related variations"
+    },
+    {
+        "index": "20931",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_20931.json",
+        "negative_strings": [
+            "nero",
+            "cla",
+            "ilar",
+            "lover",
+            "anye",
+            "reich",
+            "rei",
+            "nts",
+            "lue",
+            "entai"
+        ],
+        "positive_strings": [
+            " about",
+            " na\u00c3\u00af",
+            " na",
+            " naive",
+            " Na",
+            "/simple",
+            " enough",
+            " mistakes",
+            "nes",
+            " trust"
+        ],
+        "description": "references to naivety or being naive in various contexts"
+    },
+    {
+        "index": "89321",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/naive/data_for_feature_89321.json",
+        "negative_strings": [
+            "yon",
+            "pei",
+            "rust",
+            "rell",
+            "ppy",
+            "ulo",
+            "pez",
+            "eba",
+            "984",
+            "bottom"
+        ],
+        "positive_strings": [
+            "able",
+            "ertino",
+            " ti",
+            "LEC",
+            "ety",
+            " Pas",
+            "ILLE",
+            " armor",
+            " eff",
+            "\u00e3\u0124\u00b8\u00e3\u0124\u00a2"
+        ],
+        "description": "words related to naivety or being naive"
+    },
+    {
+        "index": "92670",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_92670.json",
+        "negative_strings": [
+            "rei",
+            "lue",
+            "nts",
+            "reich",
+            "erli",
+            "entai",
+            "ardo",
+            "lover",
+            "(\u00e6\u0139\u00a5",
+            "flare"
+        ],
+        "positive_strings": [
+            " about",
+            " na",
+            " na\u00c3\u00af",
+            " innocence",
+            "/simple",
+            " naive",
+            " simplicity",
+            "ishly",
+            "ism",
+            "ness"
+        ],
+        "description": " references to naivety or naive perceptions"
+    },
+    {
+        "index": "83701",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_83701.json",
+        "negative_strings": [
+            "\u00c5\u013b",
+            "\u00e5\u013b\u00a8",
+            "elop",
+            "\u00d1\u0123\u00d1\u0124\u00d1\u0130",
+            "icrous",
+            "\u00e0\u00a4\u00ae\u00e0\u00a4\u00b0",
+            "eah",
+            "aze",
+            "\u00c3\u00a6k",
+            "atre"
+        ],
+        "positive_strings": [
+            " unsus",
+            " innoc",
+            " innocent",
+            " innocence",
+            " inoc",
+            " victims",
+            "iable",
+            "oin",
+            "pecting",
+            "ingly"
+        ],
+        "description": "references to individuals being naive or oblivious to their circumstances"
+    },
+    {
+        "index": "69413",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/naive/data_for_feature_69413.json",
+        "negative_strings": [
+            "oons",
+            "elda",
+            "hints",
+            "regnum",
+            "abella",
+            "ania",
+            "olik",
+            "aac",
+            "uars",
+            "arda"
+        ],
+        "positive_strings": [
+            "-na",
+            "dog",
+            " Shame",
+            " Seal",
+            " \u00d9\u0123\u00d9\u0129\u00d8\u00b1\u00d8\u00b3\u00d8\u00aa",
+            " Cout",
+            "acht",
+            "andle",
+            " Turnbull",
+            " simp"
+        ],
+        "description": " words related to the concept of being naughty or naive"
+    }
+]

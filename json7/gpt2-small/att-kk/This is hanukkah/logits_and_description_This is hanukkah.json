@@ -1,0 +1,572 @@
+[
+    {
+        "index": "6218",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_6218.json",
+        "negative_strings": [
+            "chio",
+            " Cosponsors",
+            "ioxide",
+            "taboola",
+            " Prosecut",
+            "o\u011f",
+            "HCR",
+            " \u24d8",
+            " Rican",
+            " Tsukuyomi"
+        ],
+        "positive_strings": [
+            "undreds",
+            "boarding",
+            "ftime",
+            "quarters",
+            "lich",
+            "ournals",
+            "anked",
+            " backfield",
+            " reel",
+            " seminars"
+        ],
+        "description": "strong verbs associated with physical actions"
+    },
+    {
+        "index": "21450",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_21450.json",
+        "negative_strings": [
+            "ioxide",
+            " Cosponsors",
+            "\ufffd\ufffd",
+            "taboola",
+            " guiActiveUnfocused",
+            " Sorce",
+            "Spons",
+            "irie",
+            " Rican",
+            "\u30fc\u30c6"
+        ],
+        "positive_strings": [
+            " pains",
+            "wed",
+            " deer",
+            " sorts",
+            "inki",
+            " calves",
+            "igans",
+            "angs",
+            " tune",
+            "assetsadobe"
+        ],
+        "description": " terms related to various forms of violent actions and their consequences"
+    },
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "10680",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_10680.json",
+        "negative_strings": [
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
+        ],
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "19921",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_19921.json",
+        "negative_strings": [
+            "advertisement",
+            "\u5c06",
+            "kefeller",
+            "croft",
+            " Paddock",
+            "Large",
+            "Newsletter",
+            " Figures",
+            "Shape",
+            "phony"
+        ],
+        "positive_strings": [
+            " VK",
+            "\ufffd",
+            "ovi",
+            "\ufffd",
+            " Lumpur",
+            "ikuman",
+            "adesh",
+            "jri",
+            "orthy",
+            "\ufffd\ufffd"
+        ],
+        "description": "suffixes and morphological forms of words"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "6760",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_6760.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            "awaru",
+            "terness",
+            " citiz",
+            " mathemat",
+            "ysical",
+            "rolet",
+            "merce",
+            "espie",
+            " metic"
+        ],
+        "positive_strings": [
+            "nd",
+            "147",
+            "ADS",
+            "131",
+            "181",
+            "187",
+            "140",
+            "VI",
+            "105",
+            "160"
+        ],
+        "description": "numerical data and specifications"
+    },
+    {
+        "index": "4519",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_4519.json",
+        "negative_strings": [
+            "theless",
+            "ascript",
+            "PDATE",
+            " Qiao",
+            "SOURCE",
+            " withd",
+            "Newsletter",
+            "anwhile",
+            "PsyNetMessage",
+            " @@"
+        ],
+        "positive_strings": [
+            " Lumpur",
+            "ikuman",
+            "EStreamFrame",
+            " Puzzles",
+            "akra",
+            "ovi",
+            "lyak",
+            " Kod",
+            "chy",
+            "osis"
+        ],
+        "description": "European names"
+    },
+    {
+        "index": "41726",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_41726.json",
+        "negative_strings": [
+            "ngth",
+            "ificial",
+            " intersection",
+            "pection",
+            "\u5c06",
+            "perture",
+            "HAEL",
+            "rity",
+            " dissatisfaction",
+            " breadth"
+        ],
+        "positive_strings": [
+            "ovi",
+            "si",
+            "istan",
+            "achu",
+            "hai",
+            "li",
+            " Haku",
+            "yu",
+            "chen",
+            "pei"
+        ],
+        "description": "unique and complex names or identifiers"
+    },
+    {
+        "index": "39494",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_39494.json",
+        "negative_strings": [
+            "\u30b4\u30f3",
+            "paper",
+            "papers",
+            "Indian",
+            "determination",
+            "afety",
+            "maker",
+            " currency",
+            " pes",
+            "Af"
+        ],
+        "positive_strings": [
+            "ONSORED",
+            "icable",
+            "ilic",
+            "aneous",
+            "andowski",
+            "emi",
+            "erved",
+            "ussions",
+            " guiName",
+            " Daniels"
+        ],
+        "description": " variations of the letter \"o\" and its occurrences within words"
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
+        "index": "19272",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_19272.json",
+        "negative_strings": [
+            "taboola",
+            " guiActiveUn",
+            "ioxide",
+            "usterity",
+            "vier",
+            " soph",
+            "invoke",
+            " elig",
+            "Cola",
+            "HCR"
+        ],
+        "positive_strings": [
+            "inki",
+            "awei",
+            " respects",
+            "itual",
+            "ersive",
+            "wed",
+            "kamp",
+            " audition",
+            "orically",
+            "gow"
+        ],
+        "description": "names of individuals with the surname \"Henderson\" that are involved in different events, occupations, or activities"
+    },
+    {
+        "index": "35355",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_35355.json",
+        "negative_strings": [
+            " Polo",
+            "bery",
+            " Guinness",
+            " appra",
+            " Scare",
+            " BM",
+            " Pers",
+            "berus",
+            " Civic",
+            "Newsletter"
+        ],
+        "positive_strings": [
+            "\u30c7\u30a3",
+            "usterity",
+            "ql",
+            "\"]=>",
+            "rete",
+            "eteenth",
+            "aden",
+            "\u30f4\u30a1",
+            "estate",
+            "uble"
+        ],
+        "description": "phrases indicating qualifications or essential roles"
+    },
+    {
+        "index": "7603",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_7603.json",
+        "negative_strings": [
+            "ascript",
+            "nces",
+            " Thumbnails",
+            " Applicant",
+            " Painter",
+            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
+            "tyard",
+            " Holl",
+            " DRAG",
+            " Helpful"
+        ],
+        "positive_strings": [
+            "atri",
+            "arts",
+            "\u2011",
+            " fever",
+            "roup",
+            "vin",
+            "EStreamFrame",
+            "chuk",
+            "ikuman",
+            "onet"
+        ],
+        "description": "phrases related to pet care and dog crates"
+    },
+    {
+        "index": "11877",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_11877.json",
+        "negative_strings": [
+            "strength",
+            "BALL",
+            "\u5929",
+            " Danger",
+            "Battery",
+            "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+            "FORMATION",
+            "Enough",
+            "kernel",
+            "said"
+        ],
+        "positive_strings": [
+            "ite",
+            "azo",
+            "ernel",
+            "icho",
+            "iev",
+            "atcher",
+            "eness",
+            "erala",
+            "incinn",
+            "erk"
+        ],
+        "description": "place names, especially multiple occurrences of the same place name"
+    },
+    {
+        "index": "10545",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_10545.json",
+        "negative_strings": [
+            "theless",
+            "ificial",
+            "Newsletter",
+            "VICE",
+            "autions",
+            "ascript",
+            "PsyNetMessage",
+            "phant",
+            "ruction",
+            "aqu"
+        ],
+        "positive_strings": [
+            "ikuman",
+            "hai",
+            "ulu",
+            "urat",
+            " Mercenary",
+            " supra",
+            "addle",
+            "lyak",
+            " Merry",
+            "atri"
+        ],
+        "description": "variations of the syllables \"ma,\" \"or,\" \"ze,\" and similar phonetic patterns"
+    },
+    {
+        "index": "9262",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_9262.json",
+        "negative_strings": [
+            "theless",
+            "DATA",
+            "UID",
+            "Versions",
+            " prosecut",
+            "\u5c06",
+            "mentioned",
+            "\u9f8d\ufffd",
+            "amac",
+            "gotten"
+        ],
+        "positive_strings": [
+            " Lumpur",
+            "EStreamFrame",
+            " Yoga",
+            "urat",
+            " Hover",
+            " Tags",
+            "cycles",
+            "ombo",
+            " Puzzles",
+            " hereafter"
+        ],
+        "description": "mentions of the name \"Martin Shkreli\""
+    },
+    {
+        "index": "12137",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is hanukkah\\data_for_feature_12137.json",
+        "negative_strings": [
+            " CLSID",
+            "foundland",
+            "Discussion",
+            " Hilbert",
+            "arsity",
+            " SetTextColor",
+            " [|",
+            " BaseType",
+            " Period",
+            " referen"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "terness",
+            "terday",
+            "lihood",
+            " proble",
+            "bda",
+            "hess",
+            "etheless",
+            "esson",
+            "SourceFile"
+        ],
+        "description": "words related to specific place names, perhaps landmarks or locations"
+    }
+]

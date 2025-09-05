@@ -1,0 +1,32 @@
+[
+    {
+        "index": "24701",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/pope/data_for_feature_24701.json",
+        "negative_strings": [
+            "922",
+            "\u00e7\u00bb\u00a9",
+            " Haut",
+            " mosques",
+            "eper",
+            " EVP",
+            "\u00b5",
+            "orna",
+            " Fuel",
+            "sono"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "Pont",
+            " pap",
+            " Berg",
+            "ency",
+            " pont",
+            " Innoc",
+            " Leo",
+            " Emer"
+        ],
+        "description": "references to the Pope and events surrounding the papacy"
+    }
+]

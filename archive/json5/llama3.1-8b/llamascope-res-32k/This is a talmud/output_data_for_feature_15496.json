@@ -1,0 +1,30 @@
+{
+    "index": "15496",
+    "layer": null,
+    "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a talmud\\data_for_feature_15496.json",
+    "negative_strings": [
+        "\u00c3\u00a2y",
+        "rc",
+        "\u00e1\u00bb\u00af",
+        "rt",
+        "agher",
+        "RT",
+        "rid",
+        "rl",
+        "rpc",
+        " (){"
+    ],
+    "positive_strings": [
+        "issue",
+        "inker",
+        "uck",
+        "old",
+        "arry",
+        "etr",
+        "atum",
+        "rolley",
+        "ilda",
+        " rue"
+    ],
+    "description": "capitalized letters at the beginning of sentences and after punctuation"
+}

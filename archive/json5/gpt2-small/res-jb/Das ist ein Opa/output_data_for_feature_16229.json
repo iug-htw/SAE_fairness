@@ -1,0 +1,30 @@
+{
+    "index": "16229",
+    "layer": null,
+    "url": "json5\\gpt2-small\\res-jb\\Das ist ein Opa\\data_for_feature_16229.json",
+    "negative_strings": [
+        "\u00e5\u0143\u0132",
+        "\u00e3\u0124\u00bc\u00e3\u0124\u00a6\u00e3\u0124\u00b9",
+        "\u00e3\u0125\u012b\u00e3\u0125\u00a9\u00e3\u0124\u00b4\u00e3\u0125\u00b3",
+        "ILLE",
+        "EngineDebug",
+        "ARDS",
+        "\u00e3\u0124\u00a8\u00e3\u0125\u00ab",
+        "wagen",
+        "\u00e3\u0123\u00ae\u00e5\u00ae",
+        "\u00e3\u0123\u00a6"
+    ],
+    "positive_strings": [
+        "aque",
+        "Op",
+        "yright",
+        " Op",
+        "osite",
+        "ober",
+        "osta",
+        "ensibly",
+        "orter",
+        "etr"
+    ],
+    "description": "websites or clickable interactions"
+}

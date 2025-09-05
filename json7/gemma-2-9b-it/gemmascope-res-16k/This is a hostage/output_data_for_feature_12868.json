@@ -1,0 +1,30 @@
+{
+    "index": "12868",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is a hostage\\data_for_feature_12868.json",
+    "negative_strings": [
+        "----</",
+        "NoSuchAlgorithm",
+        "\u2581nakalista",
+        "\ufeff<?",
+        "Kaynak\u00e7a",
+        "Delimited",
+        "D\u00e9mographie",
+        "\u2581Muck",
+        "flashdata",
+        "\u2581CreateTagHelper"
+    ],
+    "positive_strings": [
+        "\u2581host",
+        "\u2581Host",
+        "host",
+        "\u2581HOST",
+        "Host",
+        "getHost",
+        "\u2581hosts",
+        "\u2581Hosts",
+        "HOST",
+        "hosts"
+    ],
+    "description": "references to \"host\" in various contexts, particularly in scientific or technical discussions"
+}

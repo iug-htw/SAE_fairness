@@ -1,0 +1,30 @@
+{
+    "index": "7797",
+    "layer": null,
+    "url": "json7\\gpt2-small\\res-jb\\This is vesak\\data_for_feature_7797.json",
+    "negative_strings": [
+        " pint",
+        " Prol",
+        " balloons",
+        " Founders",
+        " prost",
+        " Weasley",
+        " istg",
+        "drops",
+        " Fenrir",
+        " steroids"
+    ],
+    "positive_strings": [
+        "arak",
+        "ota",
+        "unin",
+        "umar",
+        "ak",
+        "ansas",
+        "unta",
+        "owski",
+        "udo",
+        "usk"
+    ],
+    "description": "proper nouns starting with \"ak\" or sequences of \"ak\" followed by a number"
+}

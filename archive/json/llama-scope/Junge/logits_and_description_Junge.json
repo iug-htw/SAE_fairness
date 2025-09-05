@@ -1,0 +1,602 @@
+[
+    {
+        "index": "51167",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_51167.json",
+        "negative_strings": [
+            "e",
+            "_DECL",
+            "eck",
+            "eos",
+            "erate",
+            "o\u00c4\u0141",
+            "ece",
+            " sign",
+            "er",
+            "pond"
+        ],
+        "positive_strings": [
+            "les",
+            "ernaut",
+            "lesc",
+            "gle",
+            "GLE",
+            "ASON",
+            "LES",
+            "lands",
+            "ly",
+            "frau"
+        ],
+        "description": "references to the name \"Jung.\""
+    },
+    {
+        "index": "121040",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_121040.json",
+        "negative_strings": [
+            " Locke",
+            "azen",
+            "ech",
+            " galaxy",
+            "\u00d8\u00a7\u00d9\u012b",
+            "ots",
+            "ecies",
+            "zen",
+            " Bour",
+            "acci"
+        ],
+        "positive_strings": [
+            " Jung",
+            " arch",
+            " archetype",
+            " Arch",
+            "arch",
+            "Symbols",
+            " Hero",
+            " hero",
+            " jung",
+            " Collective"
+        ],
+        "description": " concepts related to Carl Jung and his psychological theories"
+    },
+    {
+        "index": "64434",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_64434.json",
+        "negative_strings": [
+            "etto",
+            "eto",
+            "pond",
+            "nesc",
+            "]={\n",
+            "/umd",
+            "eck",
+            "_DIP",
+            "deme",
+            "ection"
+        ],
+        "positive_strings": [
+            "frau",
+            "fra",
+            "ernaut",
+            "frauen",
+            "quist",
+            "les",
+            "lescope",
+            "ian",
+            "bl",
+            "mann"
+        ],
+        "description": " occurrences of the name \"Jung.\""
+    },
+    {
+        "index": "92322",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_92322.json",
+        "negative_strings": [
+            ".XR",
+            "\u00e5\u0133\u00bd",
+            "\u00e6\u00b8",
+            "umen",
+            "_DECL",
+            "zen",
+            "\u00e6\u013f\u00af",
+            "WithPath",
+            "PerPixel",
+            "sticks"
+        ],
+        "positive_strings": [
+            "ernaut",
+            "les",
+            "quist",
+            "/lists",
+            "endo",
+            "frau",
+            "ASON",
+            "enever",
+            "klady",
+            "holm"
+        ],
+        "description": "the presence of the name \"Jung\" and its variations, along with associated linguistic patterns"
+    },
+    {
+        "index": "65440",
+        "layer": "25-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_65440.json",
+        "negative_strings": [
+            "olik",
+            "\u00c4\u012fan",
+            "cesso",
+            "etto",
+            "\u00e8\u0129\u00a3",
+            "/gtest",
+            "#__",
+            "passed",
+            "bid",
+            "argent"
+        ],
+        "positive_strings": [
+            "oog",
+            "tero",
+            "fra",
+            "iability",
+            "iac",
+            "frau",
+            "emma",
+            "quist",
+            "lescope",
+            "lings"
+        ],
+        "description": "the name \"Jung\" and its variations in different contexts"
+    },
+    {
+        "index": "30039",
+        "layer": "22-llamascope-res-32k",
+        "url": "json/llama-scope/Junge/data_for_feature_30039.json",
+        "negative_strings": [
+            "ivar",
+            "\u00d8\u00a7\u00d9\u012b",
+            "mus",
+            " Locke",
+            "azen",
+            " Mus",
+            " zen",
+            " Zen",
+            "zen",
+            " galaxy"
+        ],
+        "positive_strings": [
+            " Jung",
+            " arch",
+            " archetype",
+            " jung",
+            " Collective",
+            " Arch",
+            " Symbols",
+            " unconscious",
+            "arch",
+            " shadow"
+        ],
+        "description": "references to Carl Jung and his theories or works"
+    },
+    {
+        "index": "47024",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_47024.json",
+        "negative_strings": [
+            "etto",
+            "/umd",
+            "_DIP",
+            "eto",
+            "pond",
+            "\u00e6\u00bd",
+            "chy",
+            "ethyst",
+            "gmt",
+            "tx"
+        ],
+        "positive_strings": [
+            "frau",
+            "fra",
+            "ernaut",
+            "frauen",
+            "quist",
+            "lescope",
+            "mann",
+            "inger",
+            "woo",
+            "Fra"
+        ],
+        "description": "references to the name \"Jung\" or variations of it"
+    },
+    {
+        "index": "106575",
+        "layer": "24-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_106575.json",
+        "negative_strings": [
+            "etch",
+            "icari",
+            "etto",
+            " Verd",
+            ".encoding",
+            " Duch",
+            "passed",
+            "#__",
+            " Haram",
+            "ethyst"
+        ],
+        "positive_strings": [
+            "quist",
+            "frau",
+            "ernaut",
+            ".nd",
+            "fra",
+            "597",
+            "mann",
+            "ues",
+            "lero",
+            "oog"
+        ],
+        "description": " mentions of the name \"Jung\" and its variations"
+    },
+    {
+        "index": "24469",
+        "layer": "19-llamascope-res-32k",
+        "url": "json/llama-scope/Junge/data_for_feature_24469.json",
+        "negative_strings": [
+            "acci",
+            "ivar",
+            "uilder",
+            "iras",
+            "ypo",
+            " universe",
+            "_cpus",
+            "\u00e6\u0124",
+            "lassen",
+            "\u00ec\u00a7\u0126"
+        ],
+        "positive_strings": [
+            " Jung",
+            " archetype",
+            " arch",
+            " unconscious",
+            " jung",
+            " Projection",
+            " projections",
+            " Collective",
+            " projection",
+            "projection"
+        ],
+        "description": " references to Carl Jung and his associated concepts"
+    },
+    {
+        "index": "3937",
+        "layer": "20-llamascope-res-32k",
+        "url": "json/llama-scope/Junge/data_for_feature_3937.json",
+        "negative_strings": [
+            " universe",
+            "izador",
+            " Laud",
+            "azen",
+            "uilder",
+            "erras",
+            "iras",
+            " galaxy",
+            " Universe",
+            " Colbert"
+        ],
+        "positive_strings": [
+            " Jung",
+            " jung",
+            " unconscious",
+            " arch",
+            " Projection",
+            "Symbols",
+            " Collective",
+            " archetype",
+            " projections",
+            " Symbols"
+        ],
+        "description": " references to Carl Jung and his psychological theories, particularly related to archetypes"
+    },
+    {
+        "index": "125516",
+        "layer": "26-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_125516.json",
+        "negative_strings": [
+            "chy",
+            "etto",
+            "260",
+            "\u00e8\u0129\u00a3",
+            "etch",
+            "\u00e1\u00bb\u0143a",
+            "\u00e1\u00ba\u00a5y",
+            "passed",
+            "hole",
+            "561"
+        ],
+        "positive_strings": [
+            "fra",
+            "frau",
+            "ernaut",
+            "fern",
+            "quist",
+            "oins",
+            "ouver",
+            "\u00e4\u00bb",
+            "luet",
+            "lings"
+        ],
+        "description": "references to the name \"Jung\" and related derivatives"
+    },
+    {
+        "index": "21258",
+        "layer": "20-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_21258.json",
+        "negative_strings": [
+            "etto",
+            "assin",
+            "eo",
+            "icari",
+            "_TRACE",
+            "izada",
+            "flux",
+            "ponent",
+            "dest",
+            "prox"
+        ],
+        "positive_strings": [
+            "ues",
+            "ernaut",
+            "frau",
+            "ible",
+            "quist",
+            "\u00ec\u00bb\u00a4\u00ec\u012c\u00a4",
+            "su",
+            "els",
+            "mann",
+            "unci"
+        ],
+        "description": "the name \"Jung\" and its variations"
+    },
+    {
+        "index": "57528",
+        "layer": "23-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_57528.json",
+        "negative_strings": [
+            "etto",
+            "_TRACE",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u012f",
+            "ethyst",
+            " Verd",
+            "aghan",
+            "intl",
+            " Duch",
+            "/gtest",
+            "icari"
+        ],
+        "positive_strings": [
+            "quist",
+            "ernaut",
+            ".nd",
+            "frau",
+            "oog",
+            "597",
+            "alara",
+            "iper",
+            "mann",
+            "unci"
+        ],
+        "description": "names, particularly those that include variations of the name \"Jung.\""
+    },
+    {
+        "index": "21311",
+        "layer": "21-llamascope-res-32k",
+        "url": "json/llama-scope/Junge/data_for_feature_21311.json",
+        "negative_strings": [
+            "uilder",
+            "ixels",
+            "erras",
+            ".abstract",
+            "zen",
+            " Ballard",
+            "odom",
+            ".ogg",
+            " galaxy",
+            "zim"
+        ],
+        "positive_strings": [
+            " Jung",
+            " Freud",
+            " unconscious",
+            " psycho",
+            " Analyst",
+            " jung",
+            " analytic",
+            " Projection",
+            " analyst",
+            " defensively"
+        ],
+        "description": "references to Carl Jung and concepts related to depth psychology"
+    },
+    {
+        "index": "6958",
+        "layer": "22-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_6958.json",
+        "negative_strings": [
+            "icari",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u012f",
+            "_TRACE",
+            " Duch",
+            "etto",
+            "hid",
+            "gross",
+            "ethyst",
+            "flux",
+            " xu"
+        ],
+        "positive_strings": [
+            "ernaut",
+            "quist",
+            "frau",
+            ".nd",
+            "597",
+            "frauen",
+            "ible",
+            "mann",
+            "ues",
+            "iper"
+        ],
+        "description": "names and variations of the name \"Jung.\""
+    },
+    {
+        "index": "114995",
+        "layer": "19-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_114995.json",
+        "negative_strings": [
+            "hid",
+            "dest",
+            "flux",
+            "assin",
+            "_TRACE",
+            "etto",
+            "icari",
+            "\u00e1\u00bb\u0143a",
+            "goto",
+            "prox"
+        ],
+        "positive_strings": [
+            "ernaut",
+            ".nd",
+            "ues",
+            "uetooth",
+            "ible",
+            "\u00ec\u00bb\u00a4\u00ec\u012c\u00a4",
+            "leground",
+            "mant",
+            "597",
+            "unci"
+        ],
+        "description": "references to a specific individual or the Jung family"
+    },
+    {
+        "index": "81105",
+        "layer": "21-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_81105.json",
+        "negative_strings": [
+            "etch",
+            "flux",
+            "bid",
+            " Ding",
+            "hid",
+            "gross",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u012f",
+            "assin",
+            "_TRACE",
+            "voke"
+        ],
+        "positive_strings": [
+            "ernaut",
+            ".nd",
+            "frau",
+            "597",
+            "quist",
+            "ible",
+            "mann",
+            " Rare",
+            " rarity",
+            "ues"
+        ],
+        "description": "variations of the name \"Jung\" and related terms, highlighting their prominence in the text"
+    },
+    {
+        "index": "104262",
+        "layer": "29-llamascope-mlp-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_104262.json",
+        "negative_strings": [
+            "\u00d9\u012a\u00d8\u00b1\u00d8\u00b4",
+            "stro",
+            "usk",
+            " Param",
+            ".PropTypes",
+            "iez",
+            "IDI",
+            "edback",
+            "ayar",
+            "ivery"
+        ],
+        "positive_strings": [
+            "als",
+            "ly",
+            "lo",
+            "\u0124\u00a8",
+            "icle",
+            "ick",
+            "ull",
+            "lle",
+            "ule",
+            "itin"
+        ],
+        "description": " references to Carl Jung or related Jungian concepts"
+    },
+    {
+        "index": "28567",
+        "layer": "19-llamascope-mlp-32k",
+        "url": "json/llama-scope/Junge/data_for_feature_28567.json",
+        "negative_strings": [
+            "/org",
+            "\u00ec\u00a7\u0126",
+            "(",
+            "acci",
+            " pump",
+            " Antonio",
+            "\u00e4\u00bb\u00a3",
+            " overall",
+            " transporter",
+            "ankan"
+        ],
+        "positive_strings": [
+            " Jung",
+            " unconscious",
+            "projection",
+            " Projection",
+            " projections",
+            " arch",
+            " jung",
+            " projection",
+            "arch",
+            "Projection"
+        ],
+        "description": "references to Carl Jung and related psychological concepts"
+    },
+    {
+        "index": "75354",
+        "layer": "18-llamascope-res-131k",
+        "url": "json/llama-scope/Junge/data_for_feature_75354.json",
+        "negative_strings": [
+            "estroy",
+            "ibold",
+            "hid",
+            "goto",
+            "_TRACE",
+            "OE",
+            "\u00d8\u00ae\u00d9\u0127",
+            "onso",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u012f",
+            "ishment"
+        ],
+        "positive_strings": [
+            "quist",
+            "swick",
+            "ues",
+            "uetooth",
+            "uest",
+            "ests",
+            "iens",
+            "fra",
+            "ettel",
+            ".nd"
+        ],
+        "description": "names with the syllable \"Jung\" or \"Jing\""
+    }
+]

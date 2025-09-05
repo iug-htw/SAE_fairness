@@ -1,0 +1,30 @@
+{
+    "index": "23822",
+    "layer": null,
+    "url": "json7\\llama3.1-8b\\llamascope-res-32k\\This is a bar mitzvah\\data_for_feature_23822.json",
+    "negative_strings": [
+        "Barrier",
+        "eve",
+        "tir",
+        "ept",
+        " Barrier",
+        " barrier",
+        "y",
+        "epam",
+        "arily",
+        " barriers"
+    ],
+    "positive_strings": [
+        "bers",
+        "oque",
+        "bec",
+        "itone",
+        "ista",
+        "be",
+        "rio",
+        "ometer",
+        "bell",
+        "tering"
+    ],
+    "description": "references to bars and drinking establishments"
+}

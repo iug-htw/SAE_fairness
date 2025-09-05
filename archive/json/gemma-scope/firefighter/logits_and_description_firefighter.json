@@ -1,0 +1,514 @@
+[
+    {
+        "index": "10557",
+        "layer": "41-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_10557.json",
+        "negative_strings": [
+            "\u2581fire",
+            "fire",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "\u2581Fire",
+            "Fire",
+            "\u2581fires",
+            "\u2581FIRE",
+            "FIRE",
+            "eluarkan",
+            "\u2581fired"
+        ],
+        "positive_strings": [
+            "cracker",
+            "flies",
+            "crackers",
+            "nze",
+            "storm",
+            "starter",
+            "fly",
+            "fights",
+            "fight",
+            "truck"
+        ],
+        "description": "references to fire and firefighting activities"
+    },
+    {
+        "index": "13609",
+        "layer": "39-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_13609.json",
+        "negative_strings": [
+            "TagMode",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "principalColumn",
+            "Aholisi",
+            "scriptcase",
+            "\u00e9die",
+            "complexContent",
+            "tinya",
+            "ViewImports",
+            "\ucff5"
+        ],
+        "positive_strings": [
+            "cracker",
+            "flies",
+            "crackers",
+            "\u2581hyd",
+            "\u2581extinguisher",
+            "fights",
+            "fight",
+            "fly",
+            "storm",
+            "fighters"
+        ],
+        "description": "terms and concepts related to fire and firefighting"
+    },
+    {
+        "index": "1346",
+        "layer": "35-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_1346.json",
+        "negative_strings": [
+            "complexContent",
+            "\u2581Paglinawan",
+            "kh\u00e1u",
+            "PropertyChanging",
+            "TypedDataSet",
+            "\u2581memoized",
+            "TagMode",
+            "DebuggerStep",
+            "nloa",
+            "+#+#"
+        ],
+        "positive_strings": [
+            "\u2581Fire",
+            "Fire",
+            "\u2581extinguisher",
+            "\u2581\ud83d\udd25",
+            "cracker",
+            "V\u00e4lislingid",
+            "flies",
+            "fight",
+            "fights",
+            "crackers"
+        ],
+        "description": "Various nouns and phrases related to fire, flames, heat, and sparks, often used in idiomatic expressions or literal descriptions of fires, blazes, and flames, as well as terms related to firearms and firefighting."
+    },
+    {
+        "index": "90274",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_90274.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Words and phrases related to fire, including \"fire\", \"firefighters\", \"fires\", and other variations, often used in contexts involving emergencies, accidents, or occupations."
+    },
+    {
+        "index": "12930",
+        "layer": "38-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_12930.json",
+        "negative_strings": [
+            "TagMode",
+            "\u00e9rt",
+            "Aholisi",
+            "principalColumn",
+            "emlrt",
+            "tinya",
+            "sa",
+            "DebuggerStep",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "spraak"
+        ],
+        "positive_strings": [
+            "flies",
+            "cracker",
+            "crackers",
+            "fight",
+            "fights",
+            "fly",
+            "proof",
+            "storm",
+            "\u2581extinguisher",
+            "\u2581hyd"
+        ],
+        "description": "references to fire or firefighting"
+    },
+    {
+        "index": "5377",
+        "layer": "41-gemmascope-res-131k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_5377.json",
+        "negative_strings": [
+            "contentLoaded",
+            "+#+",
+            "\u2581kasarigan",
+            "\u2581resourceCulture",
+            "\u2581betweenstory",
+            "\u2581JpaRepository",
+            "\u2581createSlice",
+            "Bibliograf",
+            "DllImport",
+            "ChildScrollView"
+        ],
+        "positive_strings": [
+            "\u2581suppression",
+            "\u2581Incident",
+            "\u2581Suppression",
+            "\u2581incident",
+            "\u2581firefighting",
+            "\u2581Type",
+            "\u2581retard",
+            "\u2581Structure",
+            "Incident",
+            "\u2581wild"
+        ],
+        "description": "terms related to wildfires and firefighting efforts"
+    },
+    {
+        "index": "2642",
+        "layer": "37-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_2642.json",
+        "negative_strings": [
+            "+#+#",
+            "TagMode",
+            "DebuggerStep",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "complexContent",
+            "Aholisi",
+            "spraak",
+            "\u2581Paglinawan",
+            "kh\u00e1u",
+            "\u00e9rt"
+        ],
+        "positive_strings": [
+            "flies",
+            "cracker",
+            "fights",
+            "crackers",
+            "\u2581extinguisher",
+            "V\u00e4lislingid",
+            "storm",
+            "fight",
+            "fly",
+            "\u2581hyd"
+        ],
+        "description": "terms related to fire and firefighting activities"
+    },
+    {
+        "index": "503",
+        "layer": "25-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_503.json",
+        "negative_strings": [
+            "rungsseite",
+            "WebVitals",
+            "itel",
+            "tered",
+            "pdp",
+            "N\u00e9pess\u00e9g",
+            "midler",
+            "metrist",
+            "\u2581c\u00e2te",
+            "\u2581d\u00e9mocr"
+        ],
+        "positive_strings": [
+            "cracker",
+            "flies",
+            "crackers",
+            "nze",
+            "nds",
+            "fly",
+            "IBarButtonItem",
+            "\u2581extinguisher",
+            "\u2581hyd",
+            "brands"
+        ],
+        "description": "references to fire and firefighting"
+    },
+    {
+        "index": "117367",
+        "layer": "40-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_117367.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Nouns related to fire, firefighting, or fire-related incidents, often indicating an event, location, or organization associated with fire."
+    },
+    {
+        "index": "10129",
+        "layer": "36-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_10129.json",
+        "negative_strings": [
+            "complexContent",
+            "TagMode",
+            "DebuggerStep",
+            "PropertyChanging",
+            "+#+#",
+            "BatchNorm",
+            "kh\u00e1u",
+            "ajat",
+            "\u2581CWE",
+            "\u2581Paglinawan"
+        ],
+        "positive_strings": [
+            "\u2581Fire",
+            "Fire",
+            "\u2581extinguisher",
+            "\u2581\ud83d\udd25",
+            "\u2581hyd",
+            "V\u00e4lislingid",
+            "cracker",
+            "\u2581extinguish",
+            "\u2581fire",
+            "\u2581FIRE"
+        ],
+        "description": "terms related to fire and firefighting"
+    },
+    {
+        "index": "14759",
+        "layer": "35-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_14759.json",
+        "negative_strings": [
+            "complexContent",
+            "TagMode",
+            "+#+#",
+            "PropertyChanging",
+            "TypedDataSet",
+            "kh\u00e1u",
+            "RTSN",
+            "ajat",
+            "\u2581Paglinawan",
+            "TintMode"
+        ],
+        "positive_strings": [
+            "\u2581Fire",
+            "\u2581extinguisher",
+            "cracker",
+            "V\u00e4lislingid",
+            "\u2581\ud83d\udd25",
+            "Fire",
+            "flies",
+            "\u2581hyd",
+            "\u2581extinguish",
+            "fight"
+        ],
+        "description": "references to fire and firefighting contexts"
+    },
+    {
+        "index": "5238",
+        "layer": "23-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_5238.json",
+        "negative_strings": [
+            "WebVitals",
+            "InjectAttribute",
+            "tered",
+            "rungsseite",
+            "\u2581***!",
+            "Diweddarwch",
+            "simo",
+            "GEBURTSDATUM",
+            "CodedInputStream",
+            "\u06c7"
+        ],
+        "positive_strings": [
+            "cracker",
+            "crackers",
+            "flies",
+            "\u2581extinguisher",
+            "fly",
+            "place",
+            "places",
+            "fight",
+            "walls",
+            "proof"
+        ],
+        "description": " references to fire and firefighting situations"
+    },
+    {
+        "index": "125088",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_125088.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "The word \"fire\" appears in various contexts, often related to actual fires, firefighting, or metaphorical uses of fire."
+    },
+    {
+        "index": "13615",
+        "layer": "33-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_13615.json",
+        "negative_strings": [
+            "complexContent",
+            "TagMode",
+            "RTSN",
+            "nloa",
+            "+#+#",
+            "\u2581CWE",
+            "AsUp",
+            "PropertyChanging",
+            "Jsp",
+            "BatchNorm"
+        ],
+        "positive_strings": [
+            "\u2581Fire",
+            "Fire",
+            "\u2581fire",
+            "\u2581\ud83d\udd25",
+            "\u2581extinguisher",
+            "V\u00e4lislingid",
+            "\u2581FIRE",
+            "\u2581Feuer",
+            "\u2581fires",
+            "FIRE"
+        ],
+        "description": "references to fire and firefighting"
+    },
+    {
+        "index": "120883",
+        "layer": "41-gemmascope-res-131k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_120883.json",
+        "negative_strings": [],
+        "positive_strings": [],
+        "description": "Articles, prepositions, and conjunctions preceding a noun or a phrase, and nouns related to fire, firefighting, and safety."
+    },
+    {
+        "index": "15294",
+        "layer": "22-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_15294.json",
+        "negative_strings": [
+            "WebVitals",
+            "InjectAttribute",
+            "tered",
+            "rungsseite",
+            "\u2581Exacts",
+            "\u2581ErrIntOverflow",
+            "ergies",
+            "HttpFoundation",
+            "Diweddarwch",
+            "\u2581h\u00e2te"
+        ],
+        "positive_strings": [
+            "\u2581burns",
+            "cracker",
+            "\u2581extinguisher",
+            "\u2581extinguish",
+            "nze",
+            "flies",
+            "crackers",
+            "fly",
+            "\u2581burning",
+            "brand"
+        ],
+        "description": "terms related to fire and firefighting"
+    },
+    {
+        "index": "536",
+        "layer": "32-gemmascope-res-16k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_536.json",
+        "negative_strings": [
+            "complexContent",
+            "TagMode",
+            "RTSN",
+            "AsUp",
+            "+#+#",
+            "\u2581ModelExpression",
+            "nloa",
+            "AnchorStyles",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "\u2581nahilalakip"
+        ],
+        "positive_strings": [
+            "\u2581Fire",
+            "Fire",
+            "\u2581fire",
+            "\u2581FIRE",
+            "\u2581fires",
+            "FIRE",
+            "\u2581Feuer",
+            "\u2581Fires",
+            "\u2581\ud83d\udd25",
+            "fire"
+        ],
+        "description": "references to fire and its various contexts, including fire fighters and firefighting"
+    },
+    {
+        "index": "9449",
+        "layer": "33-gemmascope-res-16k-l0_32plus",
+        "url": "json/gemma-scope/firefighter/data_for_feature_9449.json",
+        "negative_strings": [
+            "tagHelperRunner",
+            "Tikang",
+            "RotationOrder",
+            "InitVars",
+            "frastructure",
+            "\u2581>=\",",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "Conclus\u00e3o",
+            "__*/",
+            "iyor"
+        ],
+        "positive_strings": [
+            "\u2581officers",
+            "\u2581officer",
+            "\u2581OFFICERS",
+            "\u2581Officers",
+            "\u2581forces",
+            "\u2581force",
+            "\u2581Officer",
+            "Officers",
+            "officers",
+            "\u2581OFFICER"
+        ],
+        "description": "References to law enforcement, emergency services, and government agencies such as police, firefighters, and intelligence agencies, often in contexts where their roles are being discussed, their involvement is being reported, or their actions are being described."
+    },
+    {
+        "index": "110418",
+        "layer": "40-gemmascope-res-131k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_110418.json",
+        "negative_strings": [
+            "\u2581resourceCulture",
+            "httphttps",
+            "\u24e7",
+            "\u2581tartalomaj\u00e1nl\u00f3",
+            "Erreferentziak",
+            "Bibliograf",
+            "fjspx",
+            "\u2581\u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd",
+            "ChrTalk",
+            "GeoNames"
+        ],
+        "positive_strings": [
+            "\u2581suppression",
+            "\u2581firefighting",
+            "\u2581Suppression",
+            "\u2581wild",
+            "\u2581retard",
+            "\u2581Incident",
+            "\u2581fighting",
+            "\u2581firefighters",
+            "\u2581Retard",
+            "\u2581resources"
+        ],
+        "description": " terms related to firefighting efforts"
+    },
+    {
+        "index": "61986",
+        "layer": "38-gemmascope-res-131k",
+        "url": "json/gemma-scope/firefighter/data_for_feature_61986.json",
+        "negative_strings": [
+            "\u2581lenker",
+            "MessageOf",
+            "\u2581BrowserModule",
+            "nutie",
+            "onomics",
+            "parsedMessage",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "WriteBarrier",
+            "Poppins",
+            "exitRule"
+        ],
+        "positive_strings": [
+            "\u2581Tur",
+            "ThroughAttribute",
+            "RegressionTest",
+            "\u2581Crows",
+            "BufferException",
+            "\u2581Hil",
+            "TableAdapter",
+            "\u2581Salida",
+            "\u2581Merced",
+            "Tur"
+        ],
+        "description": " geographic locations and references related to firefighting efforts"
+    }
+]

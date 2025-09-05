@@ -1,0 +1,452 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "40731",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_40731.json",
+        "negative_strings": [
+            "\u2581S\u00fcnde",
+            "\u2581enfans",
+            "\u2581Menschheit",
+            "\u2581mijne",
+            "\u2581Wikiseite",
+            "\u2581Feinde",
+            "\u2581cejas",
+            "\u2581S\u00fcnden",
+            "\u2581Ge\u017fch",
+            "\u2581Tieren"
+        ],
+        "positive_strings": [
+            "\u2581\u201e",
+            "\u2581ver",
+            "\u2581rech",
+            "\u2581authenti",
+            "\u2581hin",
+            "\u2581horizont",
+            "\u2581\u00b4",
+            "\u2581\u201a",
+            "\u2581dyna",
+            "\u2581blin"
+        ],
+        "description": " requests related to file handling and permissions"
+    },
+    {
+        "index": "96637",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_96637.json",
+        "negative_strings": [
+            "URLException",
+            "szy",
+            "\u304f\u3093\u306e",
+            "\u2581Beacon",
+            "\u2581Sonny",
+            "HEET",
+            "titleMargin",
+            "tenor",
+            "primaryKey",
+            "../"
+        ],
+        "positive_strings": [
+            "folk",
+            "\u043d\u043e\u0432\u043d\u0438\u0448\u0442\u0432\u043e",
+            "\u2581m\u00e9decin",
+            "\u2581AssemblyProduct",
+            "\u2581CanadaChoose",
+            "izer",
+            "\u2581Woman",
+            "\u2581embarazada",
+            "\u2581folk",
+            "ronesia"
+        ],
+        "description": "words that refer to women and their experiences"
+    },
+    {
+        "index": "13512",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_13512.json",
+        "negative_strings": [
+            "\u2581autorit\u00e9",
+            "\u2581honneur",
+            "\u2581espoir",
+            "\u2581peuple",
+            "\u2581enfance",
+            "\u2581Herkunft",
+            "\u2581lendemain",
+            "ss",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9sert"
+        ],
+        "positive_strings": [
+            "OGND",
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581CanadaChoose",
+            "RTEE",
+            "GEBURTSDATUM",
+            "\u2581very",
+            "\u2581huge",
+            "\u2581few"
+        ],
+        "description": "articles and determiners indicating quantity or specification"
+    },
+    {
+        "index": "32117",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_32117.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Kleid",
+            "\u2581Wikimedijinoj",
+            "\u2581Wolken",
+            "tagext",
+            "\u2581Glied",
+            "Lycka",
+            "\u2581Reifen",
+            "\u2581Liebes",
+            "\u2581Ge\u017fch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "\u2581Photocase",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "Transkript",
+            "Telefax",
+            "\u2581utafitiHapana",
+            "Personensuche",
+            "\u2581Euro",
+            "\u2581EURO"
+        ],
+        "description": " expressions related to writing and documentation"
+    },
+    {
+        "index": "115251",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_115251.json",
+        "negative_strings": [
+            ".*\")]",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "BagConstraints",
+            "\u2581ProtoMessage",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "ulescu",
+            "\u2581'\\\\;'",
+            "awtextra",
+            "MarshalTo",
+            "\u2581noDo"
+        ],
+        "positive_strings": [
+            "\u2581blevet",
+            "\u2581mukana",
+            "\u2581available",
+            "\u2581capable",
+            "applicable",
+            "available",
+            "\u2581able",
+            "\u2581comigo",
+            "\u2581Bestandteil",
+            "\u2581applicable"
+        ],
+        "description": " expressions of personal opinions and subjective assessments"
+    },
+    {
+        "index": "11125",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_11125.json",
+        "negative_strings": [
+            "\ud0b5",
+            "ilaire",
+            "\u2581hint",
+            "\u2581Peralta",
+            "\u2581Ghi",
+            "bypass",
+            "\u2581Sanford",
+            "\u2581Kennt",
+            "\u2581Coronation",
+            "\u2581Belvedere"
+        ],
+        "positive_strings": [
+            "Woman",
+            "\u2581Woman",
+            "\u2581woman",
+            "\u2581WOMAN",
+            "WOMAN",
+            "\u2581women",
+            "Women",
+            "\u2581Women",
+            "woman",
+            "women"
+        ],
+        "description": "references to women and their experiences"
+    },
+    {
+        "index": "50988",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_50988.json",
+        "negative_strings": [
+            "rawDesc",
+            "DockStyle",
+            "Cyfeiriadau",
+            "Tikang",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "TacToe",
+            "\u2581StatelessWidget",
+            "\u2581testigos",
+            "ronpa",
+            "\u2581normalidad"
+        ],
+        "positive_strings": [
+            "\u2581nice",
+            "nice",
+            "\u2581awesome",
+            "\u2581funny",
+            "\u2581cool",
+            "\u2581AMAZING",
+            "awesome",
+            "\u2581nicest",
+            "\u2581amazing",
+            "\u2581aDecoder"
+        ],
+        "description": " forms of the verb \"to be.\""
+    },
+    {
+        "index": "71616",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_71616.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581tr\u00f4ne",
+            "\u2581v\u00f4tre",
+            "\u2581enfance",
+            "\u2581identit\u00e9",
+            "\u2581espoir",
+            "\u2581wiedzie\u0107",
+            "\u2581del\u00e0",
+            "\u2581autorit\u00e9"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u2581\u098f\u0995\u099f\u09bf",
+            "\u2581\u0b92\u0bb0\u0bc1",
+            "\u017ficht",
+            "\u2581another",
+            "\u2581utafitiHapana",
+            "\u2581unid",
+            "\u2581aDecoder"
+        ],
+        "description": " articles and determiners in various languages"
+    },
+    {
+        "index": "77286",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_77286.json",
+        "negative_strings": [
+            "\u2581QUESTION",
+            "\u2581Question",
+            "\u2581question",
+            "\u2581Q",
+            "Question",
+            "adaptiveStyles",
+            "QUESTION",
+            "Q",
+            "\u2581fr\u00e5ga",
+            "\u2581Numerade"
+        ],
+        "positive_strings": [
+            "\u2581rhetorical",
+            "\u2581Rhetor",
+            "rhe",
+            "\u2581rhetor",
+            "\u2581silly",
+            "\u2581retor",
+            "Rhe",
+            "\u2581autorytatywna",
+            "\u2581stupid",
+            "\u2581dumb"
+        ],
+        "description": "various aspects of questioning and inquiry in dialogue"
+    },
+    {
+        "index": "33782",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_33782.json",
+        "negative_strings": [
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581rekke",
+            "RefNanny",
+            "\u2581adhering",
+            "\u2581m\u016f\u017eete",
+            "\u2581schein",
+            "\u2581yyr",
+            "\u2581plads",
+            "\u2581entering",
+            "\u2581f\u00f6ljande"
+        ],
+        "positive_strings": [
+            "\u2581bummer",
+            "\u2581coincidence",
+            "\u2581joke",
+            "\u2581weird",
+            "\u2581stupid",
+            "\u2581wierd",
+            "weird",
+            "stupid",
+            "\u2581ProtoMessage",
+            "\u2581mistake"
+        ],
+        "description": " phrases indicating the presence of articles or descriptors, particularly the word \"a\""
+    },
+    {
+        "index": "127090",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_127090.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581nakalista",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "msgTypes",
+            "sidemargin",
+            "Diweddarwch",
+            "CloseOperation",
+            "MigrationBuilder",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u2581lenker"
+        ],
+        "positive_strings": [
+            "\u2581not",
+            "\u2581actually",
+            "\u0e04\u0e37\u0e2d",
+            "\u2581really",
+            "\u2581certainly",
+            "\u2581bukan",
+            "\u2581exactly",
+            "\u2581probably",
+            "\u2581definitely",
+            "mek"
+        ],
+        "description": " phrases indicating perceptions or evaluations of things"
+    },
+    {
+        "index": "85963",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_85963.json",
+        "negative_strings": [
+            "\u2581INTERESAR",
+            "\u3069\u3046\u3084\u3063\u3066",
+            "PerformLayout",
+            "\u2581OFDb",
+            "ChildScrollView",
+            "GEBURTSDATUM",
+            "\u2581ED",
+            "\u2581FE",
+            "Eli",
+            "\u2581LE"
+        ],
+        "positive_strings": [
+            "\u2581\u0628\u0631\u0627\u0646\u064a\u0647",
+            "tanleria",
+            "\u2581allts\u00e5",
+            "ricians",
+            "IsString",
+            "\u2581indeed",
+            "\u2581toti\u017e",
+            "\u0e09\u0e31\u0e19",
+            "\u2581\u0643\u0648\u0645\u0648\u0646\u0632",
+            "fassen"
+        ],
+        "description": "verbs related to existence, identity, and modal verbs in conversational contexts"
+    },
+    {
+        "index": "73240",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ist eine Frau\\data_for_feature_73240.json",
+        "negative_strings": [
+            "\u2581enfans",
+            "\u2581plea\u017fure",
+            "\u2581Gr\u00fcsse",
+            "\u2581purpo\u017fe",
+            "bootstrapcdn",
+            "\u2581hou\u017fe",
+            "\u2581\u017fer",
+            "\u2581surla",
+            "\u2581rai\u017f",
+            "\u2581S\u00fcnde"
+        ],
+        "positive_strings": [
+            "\u2581disambiguazione",
+            "\u2581LEDs",
+            "mulos",
+            "\u2581([]",
+            "\u2581linkovi",
+            "\u2581gevol",
+            "\u2581mici",
+            "\u0c32\u0c3e\u0c32\u0c41",
+            "\u2581voordelen",
+            "\u2581horen"
+        ],
+        "description": " occurrences of determiners and articles in the text"
+    }
+]

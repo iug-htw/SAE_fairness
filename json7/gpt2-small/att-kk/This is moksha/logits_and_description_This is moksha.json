@@ -1,0 +1,542 @@
+[
+    {
+        "index": "19849",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_19849.json",
+        "negative_strings": [
+            " LINE",
+            " Mate",
+            " Choi",
+            " Boat",
+            " Factor",
+            " Belt",
+            " Borough",
+            " Notting",
+            " Nem",
+            " scrambled"
+        ],
+        "positive_strings": [
+            "waukee",
+            "ographed",
+            "////////////////////////////////",
+            "ufact",
+            "pod",
+            "intosh",
+            "pring",
+            "politics",
+            "ose",
+            "pees"
+        ],
+        "description": "words related to confusion or uncertainty"
+    },
+    {
+        "index": "5272",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_5272.json",
+        "negative_strings": [
+            "\ufffd",
+            " \ufffd",
+            " \ufffd",
+            "___",
+            " \u2014",
+            " -",
+            "\ufffd",
+            "?:",
+            "\u0336",
+            "\ufffd"
+        ],
+        "positive_strings": [
+            "senal",
+            " carbohyd",
+            "ikuman",
+            "dayName",
+            "20439",
+            "theless",
+            "\ufffd\ufffd",
+            "riched",
+            "etheless",
+            "inventoryQuantity"
+        ],
+        "description": " references indicating the publication status of an article or story"
+    },
+    {
+        "index": "2895",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_2895.json",
+        "negative_strings": [
+            " neighb",
+            " slic",
+            " [*]",
+            " succession",
+            "Args",
+            " CBI",
+            " mantle",
+            " buck",
+            " condem",
+            " cuff"
+        ],
+        "positive_strings": [
+            "oka",
+            "gage",
+            "nih",
+            "waukee",
+            "intosh",
+            "ogi",
+            "vati",
+            "hiba",
+            "ashtra",
+            "uzz"
+        ],
+        "description": "names or specific terms, especially those related to law, technology, or current events"
+    },
+    {
+        "index": "14094",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_14094.json",
+        "negative_strings": [
+            " Vaugh",
+            " backdoor",
+            " JPM",
+            " dotted",
+            " Deadpool",
+            " disg",
+            "\ufffd\ufffd",
+            " sugg",
+            " Dull",
+            " Xu"
+        ],
+        "positive_strings": [
+            "intosh",
+            "waukee",
+            "gage",
+            "aina",
+            "ufact",
+            "ogi",
+            "oppable",
+            "alloc",
+            "zee",
+            "nih"
+        ],
+        "description": "proper nouns containing a mix of letters and numbers"
+    },
+    {
+        "index": "2745",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_2745.json",
+        "negative_strings": [
+            "advertisement",
+            "PsyNetMessage",
+            "enegger",
+            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
+            "enser",
+            "catentry",
+            "rance",
+            "ascript",
+            "enhagen",
+            " Monarch"
+        ],
+        "positive_strings": [
+            "bye",
+            " Lumpur",
+            "uru",
+            "\u0107",
+            "\u30b4\u30f3",
+            "iazep",
+            "uchi",
+            "iru",
+            "ashi",
+            "ovi"
+        ],
+        "description": "locations"
+    },
+    {
+        "index": "10680",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_10680.json",
+        "negative_strings": [
+            " horizont",
+            " challeng",
+            "theless",
+            "ometimes",
+            " conduc",
+            " detrim",
+            "\u3093",
+            " skelet",
+            "haps",
+            " fundament"
+        ],
+        "positive_strings": [
+            " \u00ad",
+            " resurrect",
+            " Final",
+            " Roz",
+            " Renew",
+            " Restore",
+            " Sl",
+            " Background",
+            " eff",
+            " Bad"
+        ],
+        "description": "technical terms related to electronics and hardware"
+    },
+    {
+        "index": "2302",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_2302.json",
+        "negative_strings": [
+            " Firm",
+            " Lobby",
+            " AUTHOR",
+            " COUNTY",
+            " Consortium",
+            " Participant",
+            "encia",
+            " Studio",
+            "POSE",
+            "\ufffd\ufffd"
+        ],
+        "positive_strings": [
+            "intosh",
+            "waukee",
+            "chief",
+            "ographed",
+            "ammad",
+            "leground",
+            "lov",
+            "ufact",
+            "iphate",
+            "arella"
+        ],
+        "description": "references to natural disasters and tragic events"
+    },
+    {
+        "index": "10983",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_10983.json",
+        "negative_strings": [
+            "uese",
+            "town",
+            "edIn",
+            "\u30fc\u30c6",
+            "chuk",
+            "ageddon",
+            " Mub",
+            " Moroc",
+            "ieri",
+            "ogether"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "bleacher",
+            "SourceFile",
+            "ktop",
+            "nt",
+            "taboola",
+            "rael",
+            "SELECT",
+            "odes",
+            "doi"
+        ],
+        "description": "phrases that emphasize a key point or highlight key information"
+    },
+    {
+        "index": "1314",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_1314.json",
+        "negative_strings": [
+            " CLSID",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "arsity",
+            "Catal",
+            "\ufffd\ufffd",
+            " BaseType",
+            " built",
+            "}.",
+            "town"
+        ],
+        "positive_strings": [
+            "lihood",
+            "NetMessage",
+            " proble",
+            "terday",
+            "VIDIA",
+            "aying",
+            "andem",
+            "oreal",
+            "vre",
+            "SourceFile"
+        ],
+        "description": "numeric values or hexadecimal codes"
+    },
+    {
+        "index": "18366",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_18366.json",
+        "negative_strings": [
+            " unden",
+            " oun",
+            " agre",
+            " cryst",
+            " misunder",
+            " challeng",
+            "\ufffd\u58eb",
+            " destro",
+            " princ",
+            " tiss"
+        ],
+        "positive_strings": [
+            "natureconservancy",
+            "inventoryQuantity",
+            "NetMessage",
+            "assetsadobe",
+            "soDeliveryDate",
+            " ];",
+            "dayName",
+            "displayText",
+            " dstg",
+            "];"
+        ],
+        "description": " words related to the evaluation and consequences of actions or conditions"
+    },
+    {
+        "index": "22297",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_22297.json",
+        "negative_strings": [
+            "PsyNetMessage",
+            " \u30b5\u30fc\u30c6\u30a3\u30ef\u30f3",
+            "ascript",
+            "ertation",
+            "\ufffd\ufffd",
+            " trademarks",
+            "ription",
+            "anwhile",
+            " cracked",
+            "\u899a\u9192"
+        ],
+        "positive_strings": [
+            "wagen",
+            "ovi",
+            "vs",
+            "gew",
+            "akura",
+            "bye",
+            "atsu",
+            "ava",
+            "uchi",
+            "gs"
+        ],
+        "description": "terms related to the brand \"Pentax\" and \"Photokina\""
+    },
+    {
+        "index": "16549",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_16549.json",
+        "negative_strings": [
+            "arsity",
+            "town",
+            "\u30fc\u30c6",
+            " CLSID",
+            " Cay",
+            "}.",
+            " [|",
+            "Bull",
+            " }}",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "VIDIA",
+            "SourceFile",
+            " proble",
+            "ktop",
+            "terness",
+            "terday",
+            " nutrit",
+            " condem",
+            " confir"
+        ],
+        "description": "phrases related to news articles and personal stories"
+    },
+    {
+        "index": "15380",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_15380.json",
+        "negative_strings": [
+            " mantle",
+            "pmwiki",
+            " captcha",
+            "umerable",
+            "=-=-",
+            " elig",
+            "Reviewer",
+            "rawdownloadcloneembedreportprint",
+            "\ufffd",
+            "\u5973"
+        ],
+        "positive_strings": [
+            "gage",
+            "anie",
+            " GDDR",
+            "aan",
+            "ache",
+            " Madness",
+            "illus",
+            "non",
+            "strom",
+            "ishi"
+        ],
+        "description": "various forms of the word \"to be,\" including its uses in grammatical contexts"
+    },
+    {
+        "index": "18744",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_18744.json",
+        "negative_strings": [
+            "gins",
+            "obbies",
+            "bats",
+            " jams",
+            "terness",
+            " vans",
+            "cius",
+            " cabinets",
+            " buses",
+            "iliary"
+        ],
+        "positive_strings": [
+            "OULD",
+            "MpServer",
+            "\u9ed2",
+            "\u306e\u9b54",
+            "recated",
+            "\":[\"",
+            " belonged",
+            " belongs",
+            "BuyableInstoreAndOnline",
+            "pire"
+        ],
+        "description": " topics related to assessment and critique"
+    },
+    {
+        "index": "19955",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_19955.json",
+        "negative_strings": [
+            "Discussion",
+            "arsity",
+            "asel",
+            "FactoryReloaded",
+            "\ufffd\u58eb",
+            "Tokens",
+            " Mexicans",
+            " later",
+            "Eventually",
+            "}."
+        ],
+        "positive_strings": [
+            "VIDIA",
+            " confir",
+            "NetMessage",
+            " proble",
+            "oreal",
+            "SourceFile",
+            "eatures",
+            "atform",
+            "untary",
+            "iband"
+        ],
+        "description": "terms related to programming, specifically discord commands and code snippets"
+    },
+    {
+        "index": "19236",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_19236.json",
+        "negative_strings": [
+            "iots",
+            "arms",
+            " administrations",
+            " wills",
+            " seize",
+            " clears",
+            "sheets",
+            "ipeg",
+            " Ukrain",
+            " heads"
+        ],
+        "positive_strings": [
+            "omorphic",
+            "IRED",
+            "ozyg",
+            " TBD",
+            "PLIED",
+            "Rated",
+            "ptin",
+            "ometimes",
+            " Eater",
+            "veland"
+        ],
+        "description": "adjectives describing states or conditions"
+    },
+    {
+        "index": "8429",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_8429.json",
+        "negative_strings": [
+            "cknow",
+            " Talks",
+            " roofs",
+            "\\<",
+            " vans",
+            "ouf",
+            "undreds",
+            "DERR",
+            "draft",
+            "umps"
+        ],
+        "positive_strings": [
+            " abundantly",
+            "!--",
+            "ebin",
+            "illet",
+            " Posted",
+            " XD",
+            " \ufffd",
+            "mone",
+            "erala",
+            " Lifetime"
+        ],
+        "description": "details and discussions related to specific events, cases, or topics"
+    },
+    {
+        "index": "12137",
+        "layer": null,
+        "url": "json7\\gpt2-small\\att-kk\\This is moksha\\data_for_feature_12137.json",
+        "negative_strings": [
+            " CLSID",
+            "foundland",
+            "Discussion",
+            " Hilbert",
+            "arsity",
+            " SetTextColor",
+            " [|",
+            " BaseType",
+            " Period",
+            " referen"
+        ],
+        "positive_strings": [
+            "NetMessage",
+            "terness",
+            "terday",
+            "lihood",
+            " proble",
+            "bda",
+            "hess",
+            "etheless",
+            "esson",
+            "SourceFile"
+        ],
+        "description": "words related to specific place names, perhaps landmarks or locations"
+    }
+]

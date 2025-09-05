@@ -1,0 +1,30 @@
+{
+    "index": "7600",
+    "layer": null,
+    "url": "json7\\gpt2-small\\res-jb\\This is a casualty\\data_for_feature_7600.json",
+    "negative_strings": [
+        "nder",
+        "perm",
+        "ramid",
+        "bor",
+        "por",
+        "cer",
+        " Gos",
+        "chain",
+        "hist",
+        "aired"
+    ],
+    "positive_strings": [
+        " casualties",
+        " casualty",
+        "oided",
+        " bystanders",
+        " losses",
+        "espie",
+        " fatalities",
+        " veter",
+        " bombers",
+        " hostages"
+    ],
+    "description": "mentions of casualties in a military or conflict context"
+}

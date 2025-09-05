@@ -1,0 +1,512 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "119785",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_119785.json",
+        "negative_strings": [
+            "\u8e87",
+            "Personensuche",
+            "rosin",
+            "enforce",
+            "rost",
+            "ups",
+            "\u2581Pingback",
+            "ros",
+            "\u0648\u062f\u06cc",
+            "error"
+        ],
+        "positive_strings": [
+            "\u2581Temple",
+            "\u2581AppCompatTheme",
+            "ChildScrollView",
+            "lapsingToolbar",
+            "Temple",
+            "\u2581tabPage",
+            "AsUp",
+            "\u2581temple",
+            "\u2581TEMPLE",
+            "webElementGuid"
+        ],
+        "description": " references to \"temple\" in various contexts"
+    },
+    {
+        "index": "65793",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_65793.json",
+        "negative_strings": [
+            "TintMode",
+            "ViewImports",
+            "bootstrapcdn",
+            "principalTable",
+            "DIPSETTING",
+            "\u2581propOrder",
+            "EDEFAULT",
+            "\u2581\u0644\u0644\u0627\u0633\u0645\u0627\u0621",
+            "MIDDLEWARE",
+            "MigrationBuilder"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581tricky",
+            "\u2581continuation",
+            "\u2581strange",
+            "question",
+            "\u2581weird",
+            "\u2581topic",
+            "\u2581concerning",
+            "\u2581embarrassing"
+        ],
+        "description": " instances of the verb \"is\" emphasizing the state of being"
+    },
+    {
+        "index": "83515",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_83515.json",
+        "negative_strings": [
+            "zelfde",
+            "k\u00f6nnen",
+            "\u2581kohdetta",
+            "\u2581ditemui",
+            "\u2581\u0645\u0631\u0626\u064a\u0647",
+            "\u2581getSource",
+            "\u2581intptr",
+            "\u2581onderstaande",
+            "\u2581ausencia",
+            "Gweler"
+        ],
+        "positive_strings": [
+            "\u2581continuation",
+            "\u2581test",
+            "\u2581tests",
+            "\u2581\u092c\u094d\u0930\u0947\u0915\u0921\u093e\u0909\u0928",
+            "continuation",
+            "\u2581repost",
+            "\u2581Continuation",
+            "Continuation",
+            "\u2581testing",
+            "\u2581hypothetical"
+        ],
+        "description": " articles and specific nouns that indicate a subject or topic"
+    },
+    {
+        "index": "113111",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_113111.json",
+        "negative_strings": [
+            "\u2581espoir",
+            "\u2581odeur",
+            "\u2581\u00e9mission",
+            "\u2581autorit\u00e9",
+            "\u2581\u00e9glise",
+            "\u2581enfance",
+            "\u2581\u00e9conomie",
+            "\u2581alimentazione",
+            "\u2581honneur",
+            "\u2581espace"
+        ],
+        "positive_strings": [
+            "\u2581few",
+            "\u2581lot",
+            "OGND",
+            "\u2581very",
+            "\u2581variety",
+            "\u2581handful",
+            "\u2581couple",
+            "\u2581multitude",
+            "\u2581certain",
+            "\u2581dozen"
+        ],
+        "description": " occurrences of the article \"a\" in various contexts"
+    },
+    {
+        "index": "67870",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_67870.json",
+        "negative_strings": [
+            "\u2581Borough",
+            "theore",
+            "\u00daBL",
+            "\u2581bVar",
+            "\u2581b\u00fcrger",
+            "enumi",
+            "\u0e13\u0e32",
+            "\u2581borough",
+            "%=",
+            "loved"
+        ],
+        "positive_strings": [
+            "\u2581DbType",
+            "aarrggbb",
+            "\u0418\u0437\u0442\u043e\u0447\u043d\u0438\u0446\u0438",
+            "\u2581utafitiHapana",
+            "\u2581Celsius",
+            "OGND",
+            "th\u00e2u",
+            "\u2581PeEnEo",
+            "########.",
+            "posedge"
+        ],
+        "description": "terms related to temperature and associated concepts"
+    },
+    {
+        "index": "12666",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_12666.json",
+        "negative_strings": [
+            "risk",
+            "\u2581A",
+            "Krank",
+            "ness",
+            "\u0648\u0631\u062f\u0627\u0631",
+            "Boris",
+            "bias",
+            "Rourke",
+            "\u8e87",
+            "rag"
+        ],
+        "positive_strings": [
+            "\u2581Temple",
+            "Temple",
+            "\u2581temple",
+            "\u2581TEMPLE",
+            "\u2581Temples",
+            "\u2581temples",
+            "\u2581tempio",
+            "temple",
+            "\u2581templo",
+            "\u2581Templo"
+        ],
+        "description": " references to temples and religious institutions"
+    },
+    {
+        "index": "40392",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_40392.json",
+        "negative_strings": [
+            "\u2581deleteUser",
+            "\u2581newUser",
+            "\u2581lendemain",
+            "bandcamp",
+            "printStats",
+            "ENODEV",
+            "setMode",
+            "\u2581updateUser",
+            "ttemberg",
+            "\u2581deleteById"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u2581are",
+            "is",
+            "\u2581Is",
+            "\u2581was",
+            "\u2581adalah",
+            "Is",
+            "\u2581\u0644\u0644\u0645\u0639\u0627\u0631\u0641",
+            "\u2581always",
+            "\u03af\u03bd\u03b1\u03b9"
+        ],
+        "description": " affirmations or declarative statements about existence or conditions"
+    },
+    {
+        "index": "98303",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_98303.json",
+        "negative_strings": [
+            "\u2581fallu",
+            "SharedCtor",
+            ":\u2728",
+            "ftagPool",
+            "\u2581andererseits",
+            "tagHelperRunner",
+            "\u2581t\u00e4ss\u00e4",
+            "\u2581Gegenteil",
+            "\u2581dudas",
+            "\u2581daleko"
+        ],
+        "positive_strings": [
+            "JUST",
+            "Manifest",
+            "\u0441\u044b\u043b\u043a\u0456",
+            "UserScript",
+            "\u2581what",
+            "centralwidget",
+            "GIVEREF",
+            "\u2581Excerpt",
+            "\u2581excerpts",
+            "EMENT"
+        ],
+        "description": "forms of the verb \"to be\" used in the context of explanations or descriptions"
+    },
+    {
+        "index": "112329",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_112329.json",
+        "negative_strings": [
+            "MigrationBuilder",
+            "\u2581kohdetta",
+            "\u2581CreateTagHelper",
+            "\u2581Italijanski",
+            "GEBURTSDATUM",
+            "r\u00e9n\u00e9es",
+            "\u2581referenties",
+            "chuga",
+            "\u2581valueForKey",
+            "\u2581therein"
+        ],
+        "positive_strings": [
+            "\u2581guy",
+            "\u2581happening",
+            "\u2581happen",
+            "makeText",
+            "\u2581onAnimation",
+            "ValueStyle",
+            "tehenden",
+            "\u2581happened",
+            "\u2581allemaal",
+            "\u2581happens"
+        ],
+        "description": "statements of existence or affirmation"
+    },
+    {
+        "index": "55904",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_55904.json",
+        "negative_strings": [
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "\u062a\u0642\u0627\u0648\u0649",
+            "GEBURTSDATUM",
+            "\u24e7",
+            "SourceChecksum",
+            "\u2581VizieR",
+            "\u0445\u044c\u0442\u0430\u043d",
+            "\u2581ar\u015fivlendi",
+            "\u2581invokingState",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc"
+        ],
+        "positive_strings": [
+            "\u2581how",
+            "\u2581your",
+            "\u2581our",
+            "\u2581the",
+            "\u2581just",
+            "\u2581a",
+            "\u2581where",
+            "\u2581introductory",
+            "\u2581what",
+            "\u2581kako"
+        ],
+        "description": " occurrences of the word \"is.\""
+    },
+    {
+        "index": "99449",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_99449.json",
+        "negative_strings": [
+            "risk",
+            "Boris",
+            "sonar",
+            "Rourke",
+            "politics",
+            "\u9332",
+            "rias",
+            "big",
+            "h\u00ed",
+            "Ryan"
+        ],
+        "positive_strings": [
+            "\u2581Temple",
+            "Temple",
+            "\u2581temple",
+            "\u2581TEMPLE",
+            "temple",
+            "\u2581Temples",
+            "\u2581temples",
+            "\u2581tempio",
+            "\u2581Tempel",
+            "\u2581templo"
+        ],
+        "description": "references to temples, specifically in the context of religious or cultural significance"
+    },
+    {
+        "index": "50047",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_50047.json",
+        "negative_strings": [
+            "tvguidetime",
+            "\u2581\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc",
+            "RegressionTest",
+            "\u2581newUser",
+            "\u2581deleteUser",
+            "\u2581CURIAM",
+            "rset",
+            "\u2581/^[",
+            "JspWriter",
+            "\u2581valueForKey"
+        ],
+        "positive_strings": [
+            "\u2581is",
+            "\u8fd9\u662f",
+            "\u9019\u662f",
+            "is",
+            "\u2581was",
+            "\u0110\u00e2y",
+            "\u2581esto",
+            "Ceci",
+            "\u2581Esto",
+            "\u2581here"
+        ],
+        "description": " the word \"is\" in various contexts"
+    },
+    {
+        "index": "54929",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_54929.json",
+        "negative_strings": [
+            "\u2581OFDb",
+            "\u2581pr\u00e9c\u00e9dente",
+            "zelfde",
+            "\u2581others",
+            "Others",
+            "\u2581therein",
+            "\u2581lainnya",
+            "\u2581itself",
+            "others",
+            "j\u0105c\u0105"
+        ],
+        "positive_strings": [
+            "NewUrlParser",
+            "\u2581moment",
+            "ituation",
+            "rungsseite",
+            "fxml",
+            "GIVEREF",
+            "makeText",
+            "tralight",
+            "httphttps",
+            "\u2581happening"
+        ],
+        "description": " phrases indicating significant events or opportunities"
+    },
+    {
+        "index": "56588",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_56588.json",
+        "negative_strings": [
+            "SourceChecksum",
+            "\u2581<<<<<<<<<<<<<<",
+            "\u2581disambiguazione",
+            "hoeddwyd",
+            "\u2581Italijanski",
+            "sidemargin",
+            "windowFixed",
+            "\u2581mergeFrom",
+            "\u2581\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0647",
+            "\u2581ComVisible"
+        ],
+        "positive_strings": [
+            "\u2581question",
+            "\u2581questions",
+            "\u2581game",
+            "\u2581theory",
+            "\u2581simple",
+            "\u2581rog",
+            "\u2581smut",
+            "\u2581bird",
+            "issy",
+            "\u2581Wander"
+        ],
+        "description": " occurrences of the word \"a\""
+    },
+    {
+        "index": "97342",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\This is a temple\\data_for_feature_97342.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581lendemain",
+            "\u2581v\u00f4tre",
+            "\u2581preto\u017ee",
+            "\u2581tr\u00f4ne",
+            "\u2581inten\u00e7\u00e3o",
+            "\u2581identit\u00e9",
+            "\u2581\u00e9v\u00eaque",
+            "\u2581utilisateur",
+            "\u2581avenir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u017f\u017fung",
+            "<unused3>",
+            "[@BOS@]",
+            "<unused8>",
+            "<unused41>",
+            "<unused14>",
+            "<unused43>"
+        ],
+        "description": "articles, particularly the word \"a.\""
+    }
+]

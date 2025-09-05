@@ -1,0 +1,482 @@
+[
+    {
+        "index": "20094",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_20094.json",
+        "negative_strings": [
+            ".appspot",
+            "antis",
+            "raya",
+            "ushman",
+            " antib",
+            "aux",
+            "(tol",
+            " \u00d0\u00bc\u00d0\u00b8\u00d0\u00bb",
+            "INLINE",
+            "andas"
+        ],
+        "positive_strings": [
+            " entry",
+            "entry",
+            " admission",
+            " ENTRY",
+            " Entry",
+            "Entry",
+            " entrances",
+            " admitting",
+            " entrance",
+            " Entrance"
+        ],
+        "description": " references to proposed travel bans related to Muslim immigration"
+    },
+    {
+        "index": "19572",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_19572.json",
+        "negative_strings": [
+            "itzer",
+            ".sax",
+            "otts",
+            "\u00e4\u00be\u00bf",
+            " Judaism",
+            "\u00e0\u00b8\u013e\u00e0\u00b8\u00a5",
+            " nackte",
+            "ODE",
+            " Mormon",
+            " Mormons"
+        ],
+        "positive_strings": [
+            "-major",
+            " Brotherhood",
+            " majority",
+            "ischer",
+            " cler",
+            " Majority",
+            "-owned",
+            "osate",
+            "-dominated",
+            "-friendly"
+        ],
+        "description": "mentions of the term \"Muslim\" and related discussions about Muslim communities and issues"
+    },
+    {
+        "index": "8112",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_8112.json",
+        "negative_strings": [
+            " Tune",
+            " Transcript",
+            "erif",
+            "lero",
+            "atura",
+            "\u00d8\u00ae\u00d8\u00aa\u00d9\u0129",
+            "\u00e5\u0143\u00a4",
+            " nich",
+            "Europe",
+            "\u00e3\u0124\u0124\u00e3\u0123\u00ae"
+        ],
+        "positive_strings": [
+            " majority",
+            " Majority",
+            " Muslim",
+            "Muslim",
+            "ynn",
+            " muslim",
+            "WAR",
+            " backward",
+            " Middle",
+            " \u00d8\u00a7\u00d9\u0126\u00d8\u00af\u00d9\u012a\u00d9\u0126"
+        ],
+        "description": "references to national security concerns, particularly regarding immigration from predominantly Muslim countries"
+    },
+    {
+        "index": "64295",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_64295.json",
+        "negative_strings": [
+            "loys",
+            "ohana",
+            "foy",
+            "oso",
+            " \u00da\u0128\u00db\u012e\u00d9\u0128",
+            "ileo",
+            "\u00ea\u00b4\u0122",
+            "uby",
+            "lete",
+            " nues"
+        ],
+        "positive_strings": [
+            " turb",
+            " dj",
+            " Hij",
+            " veil",
+            " Kor",
+            " hij",
+            " ni",
+            " mue",
+            " Bur",
+            " ve"
+        ],
+        "description": " expressions related to negative stereotypes or discriminatory comments toward Muslims"
+    },
+    {
+        "index": "30962",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_30962.json",
+        "negative_strings": [
+            ".scalablytyped",
+            "bens",
+            "adoras",
+            "armac",
+            "IXEL",
+            "\u00e3\u0125\u0122\u00e3\u0125\u00bc",
+            "lider",
+            "\u00d8\u00a7\u00d8\u00b1\u00d8\u00a7\u00d9\u0128",
+            "\u00e3\u0124\u0125",
+            " \u00d8\u00a2\u00d9\u0126"
+        ],
+        "positive_strings": [
+            " Shake",
+            " Sy",
+            " Alta",
+            " Barr",
+            "Sy",
+            " Danish",
+            "ongoose",
+            " Kaiser",
+            " Abr",
+            "owl"
+        ],
+        "description": " mentions of individuals in leadership positions related to Muslim communities"
+    },
+    {
+        "index": "64907",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_64907.json",
+        "negative_strings": [
+            "\u00cf\u0128\u00ce\u00b1",
+            "ivan",
+            "ivent",
+            "inston",
+            "quer",
+            " cmdline",
+            "ffa",
+            "\u00d0\u00b5\u00d0\u00b3\u00d0\u00be\u00d1\u0122",
+            " b\u00e1\u00ba\u0143c",
+            "tdown"
+        ],
+        "positive_strings": [
+            "aligned",
+            " resident",
+            " combat",
+            "resident",
+            "-aligned",
+            " Combat",
+            "\u00e6\u00b4\u00b2",
+            "native",
+            " ALIGN",
+            " aligned"
+        ],
+        "description": " references to non-Muslim or non-state entities"
+    },
+    {
+        "index": "23618",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_23618.json",
+        "negative_strings": [
+            "ods",
+            "sts",
+            "elin",
+            "\u00cf\u0125\u00cf\u0126\u00ce\u00bf",
+            "isin",
+            "ensis",
+            "olves",
+            "ialect",
+            "olders",
+            "jin"
+        ],
+        "positive_strings": [
+            "-major",
+            " majority",
+            "-pop",
+            "major",
+            " leaning",
+            " Majority",
+            " dominated",
+            " populated",
+            " controlled",
+            " stronghold"
+        ],
+        "description": " references to Muslim-majority countries and their related contexts"
+    },
+    {
+        "index": "53881",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_53881.json",
+        "negative_strings": [
+            "\u00ce\u00bb\u00ce\u00b5\u00ce\u00b9",
+            "\u00e5\u012f\u00b7",
+            " rij",
+            " plunder",
+            "itn\u00c3\u0143",
+            "alar",
+            "745",
+            "rians",
+            " handjob",
+            "pendicular"
+        ],
+        "positive_strings": [
+            " vit",
+            " epith",
+            " hurl",
+            " hate",
+            " venom",
+            " abuse",
+            " bile",
+            " threats",
+            " threatened",
+            " hur"
+        ],
+        "description": "references to abuse and hostility, particularly towards individuals identified as Muslim or LGBTQ+"
+    },
+    {
+        "index": "26679",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_26679.json",
+        "negative_strings": [
+            "ober",
+            "oller",
+            " seeing",
+            "oice",
+            " Greenwood",
+            "ibs",
+            " intent",
+            "\u00d1\u0122\u00d1\u0138\u00d0\u00b4",
+            "386",
+            "rary"
+        ],
+        "positive_strings": [
+            " even",
+            "even",
+            " aware",
+            " awareness",
+            "aware",
+            " Even",
+            " Aware",
+            "Aware",
+            "-aware",
+            " Awareness"
+        ],
+        "description": " references to perceptions and stereotypes about Muslims in the context of societal issues"
+    },
+    {
+        "index": "54186",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_54186.json",
+        "negative_strings": [
+            "bon",
+            ".mas",
+            " dudes",
+            "QRS",
+            "ibo",
+            "viz",
+            "\u00cf\u0123\u00cf\u012e\u00cf\u0124",
+            "esar",
+            "ston",
+            "_EXTENDED"
+        ],
+        "positive_strings": [
+            " trait",
+            " pig",
+            "trait",
+            " Tra",
+            " bast",
+            " pigs",
+            "_trait",
+            " Pig",
+            "Trait",
+            " Bast"
+        ],
+        "description": "instances of derogatory language directed towards Muslims"
+    },
+    {
+        "index": "8502",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_8502.json",
+        "negative_strings": [
+            " Armenian",
+            " wine",
+            "plier",
+            "535",
+            " Presbyterian",
+            " Harry",
+            " Taipei",
+            " Armen",
+            "tere",
+            "Harry"
+        ],
+        "positive_strings": [
+            " Jordan",
+            " Dear",
+            " Ace",
+            " Medina",
+            " Turkey",
+            " Bradford",
+            "bakan",
+            "SEN",
+            " Bosnia",
+            "_MPI"
+        ],
+        "description": "references to Muslims and their representation within society"
+    },
+    {
+        "index": "32894",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_32894.json",
+        "negative_strings": [
+            " flat",
+            " Reed",
+            " tang",
+            " flats",
+            "inery",
+            " Flat",
+            " law",
+            " Site",
+            " last",
+            " Rolling"
+        ],
+        "positive_strings": [
+            "ATUS",
+            "imension",
+            " Question",
+            "celik",
+            "sphere",
+            "\u00c4\u00b1s",
+            "fila",
+            "\u00eb\u00af\u00bc\u00ea\u00b5\u0143",
+            "enties",
+            "ardin"
+        ],
+        "description": " references to Shia and Muslim identities within political contexts"
+    },
+    {
+        "index": "32398",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_32398.json",
+        "negative_strings": [
+            "hardt",
+            "iotic",
+            "\u00e0\u00a4\u013a",
+            "imet",
+            " Winner",
+            " winner",
+            "opsis",
+            "ibaba",
+            "odable",
+            "zer"
+        ],
+        "positive_strings": [
+            " entire",
+            " general",
+            " generalize",
+            " g\u00c3\u00a9n\u00c3\u00a9ral",
+            "general",
+            " entirety",
+            " ALL",
+            " stereotype",
+            " Entire",
+            "\u00e6\u012b\u0122\u00e6\u013e\u012b"
+        ],
+        "description": " phrases that discuss stereotypes and misconceptions about Muslims"
+    },
+    {
+        "index": "52343",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_52343.json",
+        "negative_strings": [
+            "TL",
+            " Xia",
+            "ICY",
+            "zers",
+            "iod",
+            "oulos",
+            "\u00e0\u00b8\u00b5\u00e0\u00b8\u00a2\u00e0\u00b8\u013c",
+            "iron",
+            "_MARKER",
+            "ariat"
+        ],
+        "positive_strings": [
+            " terror",
+            " terrorist",
+            " Terror",
+            " terrorism",
+            "terror",
+            " terrorists",
+            " Terrorism",
+            "-terrorism",
+            "terrorism",
+            " terr"
+        ],
+        "description": " references to perceptions and attitudes towards Muslims and terrorism"
+    },
+    {
+        "index": "26919",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_26919.json",
+        "negative_strings": [
+            " Biblical",
+            "ecome",
+            "\u00ce\u00b3\u00ce\u00ba\u00ce\u00b1",
+            " kvin",
+            "olon",
+            " biblical",
+            " Celt",
+            "pped",
+            " Tribal",
+            "acher"
+        ],
+        "positive_strings": [
+            " followers",
+            " follower",
+            " Followers",
+            " minority",
+            "followers",
+            " adher",
+            " practicing",
+            " pract",
+            " anim",
+            "minor"
+        ],
+        "description": " references to religious and political issues related to Islam and Muslims"
+    },
+    {
+        "index": "10536",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/muslim/data_for_feature_10536.json",
+        "negative_strings": [
+            " Krishna",
+            " Sinh",
+            " Mao",
+            " Armen",
+            " Athen",
+            "Hong",
+            " Armenian",
+            " Rahul",
+            " Krish",
+            " biblical"
+        ],
+        "positive_strings": [
+            " Muslim",
+            " Muslims",
+            "Muslim",
+            " Islam",
+            " Islamic",
+            " muslim",
+            "uslim",
+            " \u00d0\u00bc\u00d1\u0125\u00d1\u0123",
+            " Mus",
+            " Isl"
+        ],
+        "description": "references to community actions and sentiments related to Muslims and their experiences"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "index": "3936",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_3936.json",
+        "negative_strings": [
+            "\u2581(",
+            "_",
+            "\u2581[",
+            "(",
+            "\u2581",
+            "\u2581&",
+            "-",
+            "\u2581and",
+            "/",
+            "\u2581etc"
+        ],
+        "positive_strings": [
+            "<pad>",
+            "<unused51>",
+            "[@BOS@]",
+            "<unused3>",
+            "<unused17>",
+            "<unused16>",
+            "<unused23>",
+            "<unused28>",
+            "<unused8>",
+            "<unused14>"
+        ],
+        "description": " expressions indicating presence or existence"
+    },
+    {
+        "index": "52094",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_52094.json",
+        "negative_strings": [
+            "\u2581",
+            "\u2581(",
+            "\u2581and",
+            "\u2581[",
+            "\u2581or",
+            "\u2581&",
+            "_",
+            "\u2581/",
+            "\u2581et",
+            "\u2581\""
+        ],
+        "positive_strings": [
+            "\u2581que\u017fta",
+            "\u2581Administrativna",
+            "\u2581imagui",
+            "ni\u017f\u017fe",
+            "\u2581be\u017fch",
+            "\u2581ver\u017fch",
+            "\u017ficht",
+            "\u2581zwi\u017fchen",
+            "<pad>",
+            "<unused51>"
+        ],
+        "description": " pronouns and demonstratives highlighting ownership or existence"
+    },
+    {
+        "index": "40731",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_40731.json",
+        "negative_strings": [
+            "\u2581S\u00fcnde",
+            "\u2581enfans",
+            "\u2581Menschheit",
+            "\u2581mijne",
+            "\u2581Wikiseite",
+            "\u2581Feinde",
+            "\u2581cejas",
+            "\u2581S\u00fcnden",
+            "\u2581Ge\u017fch",
+            "\u2581Tieren"
+        ],
+        "positive_strings": [
+            "\u2581\u201e",
+            "\u2581ver",
+            "\u2581rech",
+            "\u2581authenti",
+            "\u2581hin",
+            "\u2581horizont",
+            "\u2581\u00b4",
+            "\u2581\u201a",
+            "\u2581dyna",
+            "\u2581blin"
+        ],
+        "description": " requests related to file handling and permissions"
+    },
+    {
+        "index": "13512",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_13512.json",
+        "negative_strings": [
+            "\u2581autorit\u00e9",
+            "\u2581honneur",
+            "\u2581espoir",
+            "\u2581peuple",
+            "\u2581enfance",
+            "\u2581Herkunft",
+            "\u2581lendemain",
+            "ss",
+            "\u2581col\u00e8re",
+            "\u2581d\u00e9sert"
+        ],
+        "positive_strings": [
+            "OGND",
+            "\u2581CreateTagHelper",
+            "expandindo",
+            "\u2581\u0645\u062d\u0641\u0648\u0638\u0629",
+            "\u2581CanadaChoose",
+            "RTEE",
+            "GEBURTSDATUM",
+            "\u2581very",
+            "\u2581huge",
+            "\u2581few"
+        ],
+        "description": "articles and determiners indicating quantity or specification"
+    },
+    {
+        "index": "32117",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_32117.json",
+        "negative_strings": [
+            "\u2581Nieren",
+            "\u2581Kleid",
+            "\u2581Wikimedijinoj",
+            "\u2581Wolken",
+            "tagext",
+            "\u2581Glied",
+            "Lycka",
+            "\u2581Reifen",
+            "\u2581Liebes",
+            "\u2581Ge\u017fch"
+        ],
+        "positive_strings": [
+            "Einzelnachweise",
+            "\u2581Photocase",
+            "Hochspringen",
+            "\u2581\u0627\u0633\u062a\u0646\u0627\u062f\u0649",
+            "Transkript",
+            "Telefax",
+            "\u2581utafitiHapana",
+            "Personensuche",
+            "\u2581Euro",
+            "\u2581EURO"
+        ],
+        "description": " expressions related to writing and documentation"
+    },
+    {
+        "index": "115251",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_115251.json",
+        "negative_strings": [
+            ".*\")]",
+            "\u043d\u043e\u0432\u043d\u0438\u0448",
+            "BagConstraints",
+            "\u2581ProtoMessage",
+            "\u0561\u0563\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
+            "ulescu",
+            "\u2581'\\\\;'",
+            "awtextra",
+            "MarshalTo",
+            "\u2581noDo"
+        ],
+        "positive_strings": [
+            "\u2581blevet",
+            "\u2581mukana",
+            "\u2581available",
+            "\u2581capable",
+            "applicable",
+            "available",
+            "\u2581able",
+            "\u2581comigo",
+            "\u2581Bestandteil",
+            "\u2581applicable"
+        ],
+        "description": " expressions of personal opinions and subjective assessments"
+    },
+    {
+        "index": "27068",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_27068.json",
+        "negative_strings": [
+            "\u2581honneur",
+            "\u2581tr\u00f4ne",
+            "\u2581identit\u00e9",
+            "\u2581v\u00f4tre",
+            "\u2581lendemain",
+            "\u2581del\u00e0",
+            "\u2581tarko",
+            "paravant",
+            "\u2581v\u00eatement",
+            "\u2581espoir"
+        ],
+        "positive_strings": [
+            "\u2581a",
+            "\u2581an",
+            "ni\u017f\u017fe",
+            "\u2581\u0b92\u0bb0\u0bc1",
+            "\u2581another",
+            "\u017ficht",
+            "\u2581\u098f\u0995\u099f\u09bf",
+            "\u017f\u017fung",
+            "\u017fehen",
+            "\u2581small"
+        ],
+        "description": " occurrences of the word \"ein\" and its variations in German text"
+    },
+    {
+        "index": "128387",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_128387.json",
+        "negative_strings": [
+            "AISSEE",
+            "mybatisplus",
+            "Spolja\u0161nje",
+            "\u2581nonUne",
+            "EndContext",
+            "\u2068",
+            "impan",
+            "\u2581estekak",
+            "UnusedPrivate",
+            "\u2581kaarangay"
+        ],
+        "positive_strings": [
+            "\u2581autorytatywna",
+            "\u2581\u0627\u0644\u0645\u0639\u064a\u0627\u0631\u0649",
+            "\u2581fallu",
+            "\u2581rained",
+            "\u2581snowing",
+            "\u2581raining",
+            "\u2581dawned",
+            "Depends",
+            "\u2581handelt",
+            "\u2581habido"
+        ],
+        "description": "discussions about potential issues or errors"
+    },
+    {
+        "index": "8207",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_8207.json",
+        "negative_strings": [
+            "UnknownFields",
+            "\u2581la\u00e7o",
+            "HasBeenSet",
+            "TAWA",
+            "MergeFrom",
+            "\u2581antidesliz",
+            "complexContent",
+            "\u2581senderismo",
+            "\u2581silicona",
+            "\u2581Polda"
+        ],
+        "positive_strings": [
+            "Boy",
+            "\u2581Boy",
+            "boy",
+            "boys",
+            "\u2581BOY",
+            "Boys",
+            "BOY",
+            "\u2581Boys",
+            "\u2581boys",
+            "\u2581scouts"
+        ],
+        "description": "references to boys in various contexts"
+    },
+    {
+        "index": "50988",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_50988.json",
+        "negative_strings": [
+            "rawDesc",
+            "DockStyle",
+            "Cyfeiriadau",
+            "Tikang",
+            "\u2581\u064a\u062a\u064a\u0645\u0647",
+            "TacToe",
+            "\u2581StatelessWidget",
+            "\u2581testigos",
+            "ronpa",
+            "\u2581normalidad"
+        ],
+        "positive_strings": [
+            "\u2581nice",
+            "nice",
+            "\u2581awesome",
+            "\u2581funny",
+            "\u2581cool",
+            "\u2581AMAZING",
+            "awesome",
+            "\u2581nicest",
+            "\u2581amazing",
+            "\u2581aDecoder"
+        ],
+        "description": " forms of the verb \"to be.\""
+    },
+    {
+        "index": "25514",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_25514.json",
+        "negative_strings": [
+            "contentLoaded",
+            "\u811a\u6ce8\u306e\u4f7f\u3044\u65b9",
+            "InjectAttribute",
+            "\u5e16\u6700\u540e\u7531",
+            "\u2581CreateTagHelper",
+            "\u2581Inf\u00f3rmanos",
+            "tagext",
+            "\u2581surla",
+            "\u2581disambiguazione",
+            "PostInfinity"
+        ],
+        "positive_strings": [
+            "\u2581stupid",
+            "\u2581stuff",
+            "\u2581stupidly",
+            "\u2581pretty",
+            "\u2581shit",
+            "\u2581silly",
+            "\u2581shitty",
+            "\u2581fucking",
+            "\u2581something",
+            "\u2581fucked"
+        ],
+        "description": " expressions related to modal verbs and their usage"
+    },
+    {
+        "index": "33782",
+        "layer": null,
+        "url": "json5\\gemma-2-9b-it\\gemmascope-res-131k\\Das ists ein Junge\\data_for_feature_33782.json",
+        "negative_strings": [
+            "\u0446\u0435\u0437\u0434\u0430\u0442\u043d\u0438\u0439",
+            "\u2581rekke",
+            "RefNanny",
+            "\u2581adhering",
+            "\u2581m\u016f\u017eete",
+            "\u2581schein",
+            "\u2581yyr",
+            "\u2581plads",
+            "\u2581entering",
+            "\u2581f\u00f6ljande"
+        ],
+        "positive_strings": [
+            "\u2581bummer",
+            "\u2581coincidence",
+            "\u2581joke",
+            "\u2581weird",
+            "\u2581stupid",
+            "\u2581wierd",
+            "weird",
+            "stupid",
+            "\u2581ProtoMessage",
+            "\u2581mistake"
+        ],
+        "description": " phrases indicating the presence of articles or descriptors, particularly the word \"a\""
+    }
+]

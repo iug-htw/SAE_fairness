@@ -1,0 +1,602 @@
+[
+    {
+        "index": "44671",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_44671.json",
+        "negative_strings": [
+            "\u00ce\u00ba\u00cf\u012e",
+            "[__",
+            "ostel",
+            "ebi",
+            "AVA",
+            "duk",
+            "ick\u00c3\u00bd",
+            "\u00c5\u0141am",
+            "licht",
+            "ModelProperty"
+        ],
+        "positive_strings": [
+            "igator",
+            "usion",
+            " encompass",
+            "ages",
+            "iter",
+            "male",
+            "uring",
+            " female",
+            "female",
+            "usive"
+        ],
+        "description": " references to all-girl groups and female empowerment"
+    },
+    {
+        "index": "13579",
+        "layer": "31-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_13579.json",
+        "negative_strings": [
+            "eer",
+            "eload",
+            "ecial",
+            "eti",
+            "nable",
+            "othy",
+            "eut",
+            "ebb",
+            "raman",
+            "etr"
+        ],
+        "positive_strings": [
+            "friends",
+            "ie",
+            "friend",
+            " scout",
+            "-next",
+            "hood",
+            " Scout",
+            " Scouts",
+            "boss",
+            " scouts"
+        ],
+        "description": " references to \"girl\" in various contexts"
+    },
+    {
+        "index": "127416",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_127416.json",
+        "negative_strings": [
+            " Knoxville",
+            "ROTO",
+            "MOTE",
+            "idla",
+            "aylight",
+            " Appalach",
+            " Ku",
+            " Kohana",
+            "orate",
+            " Kub"
+        ],
+        "positive_strings": [
+            " Spice",
+            " spice",
+            " Ger",
+            " Ginger",
+            " Mel",
+            " Sport",
+            " Victoria",
+            " spices",
+            " Sp",
+            "Ger"
+        ],
+        "description": "references to the Spice Girls and their activities"
+    },
+    {
+        "index": "82972",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_82972.json",
+        "negative_strings": [
+            "tea",
+            "ting",
+            "techn",
+            "\u00c3\u00bcrn",
+            "tee",
+            "tes",
+            "evin",
+            "izzo",
+            "tight",
+            "CJK"
+        ],
+        "positive_strings": [
+            "aged",
+            "agers",
+            "ager",
+            "-aged",
+            "yb",
+            "age",
+            "AGED",
+            "-age",
+            "ages",
+            "aging"
+        ],
+        "description": " references to teenage girls and their experiences"
+    },
+    {
+        "index": "27049",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_27049.json",
+        "negative_strings": [
+            " Fet",
+            " fog",
+            " paran",
+            "ov\u00c3\u00a1",
+            "ova",
+            "yonel",
+            "i\u00c3\u00a7\u00c3\u00a3o",
+            "/ion",
+            "\u00d9\u012a\u00d9\u0123",
+            "oned"
+        ],
+        "positive_strings": [
+            "affe",
+            "lish",
+            "friend",
+            "aff",
+            "AFF",
+            "ly",
+            "anja",
+            "friends",
+            "affer",
+            "der"
+        ],
+        "description": " instances of the word 'girl' and its variations"
+    },
+    {
+        "index": "60324",
+        "layer": "31-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_60324.json",
+        "negative_strings": [
+            "owitz",
+            "/umd",
+            " sons",
+            "_DAC",
+            " son",
+            "onet",
+            "603",
+            "RAINT",
+            "porte",
+            "/goto"
+        ],
+        "positive_strings": [
+            "irl",
+            "url",
+            "urls",
+            "IR",
+            "rl",
+            "als",
+            "URL",
+            " Girls",
+            "-girl",
+            "irling"
+        ],
+        "description": " variations of the word \"girl\" and related terms that express gender identity"
+    },
+    {
+        "index": "90925",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_90925.json",
+        "negative_strings": [
+            "/ion",
+            "\u00c4\u0125m",
+            "etal",
+            "vely",
+            "hya",
+            "ayette",
+            "trim",
+            "\u00c3\u00a5de",
+            "NSSet",
+            " comm"
+        ],
+        "positive_strings": [
+            "Town",
+            "cout",
+            " Republic",
+            " Town",
+            " town",
+            " ranch",
+            " Ranch",
+            "\u00c5\u013be",
+            "inen",
+            "Republic"
+        ],
+        "description": " mentions of the Boys and Girls Club"
+    },
+    {
+        "index": "57967",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_57967.json",
+        "negative_strings": [
+            " egt",
+            "nowled",
+            "/ion",
+            " \u00d0\u00bf\u00d0\u00b0\u00d0\u00bc",
+            "etur",
+            "GES",
+            "seat",
+            "oko",
+            "alars",
+            "asse"
+        ],
+        "positive_strings": [
+            " Clubs",
+            " Aid",
+            "\u00e5\u0132\u00b9",
+            " Supplies",
+            " Harbor",
+            "uby",
+            "\u00e0\u00b8\u00b2\u00e0\u00b8\u0123\u00e0\u00b8\u00a3",
+            " clubs",
+            "\u00e8\u00be\u0127",
+            " Club"
+        ],
+        "description": " references to youth organizations, specifically Boys and Girls Clubs"
+    },
+    {
+        "index": "63233",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_63233.json",
+        "negative_strings": [
+            "steen",
+            "loom",
+            "velt",
+            "sons",
+            "gart",
+            "UILD",
+            "WithPath",
+            "ULO",
+            "\u00e0\u00b9\u0123\u00e0\u00b8\u0140",
+            " IPT"
+        ],
+        "positive_strings": [
+            " Spice",
+            " spice",
+            " Ger",
+            " Ginger",
+            " Atomic",
+            " Sport",
+            " ginger",
+            " ger",
+            " spices",
+            "Ger"
+        ],
+        "description": " references to the Spice Girls and their reunion"
+    },
+    {
+        "index": "16632",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_16632.json",
+        "negative_strings": [
+            "-uri",
+            "\u00d1\u0131\u00d1\u0127",
+            "ined",
+            "\u00cf\u012b\u00ce\u00bc\u00ce\u00b1",
+            "mark",
+            " fog",
+            "lom",
+            " Wayback",
+            "cx",
+            "racat"
+        ],
+        "positive_strings": [
+            "affe",
+            "aff",
+            "AFF",
+            "affer",
+            " Gir",
+            "ardin",
+            "oux",
+            "friend",
+            "aud",
+            " gir"
+        ],
+        "description": "references to the word \"girl\" in various forms and contexts"
+    },
+    {
+        "index": "46292",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_46292.json",
+        "negative_strings": [
+            "/ion",
+            "ette",
+            "GES",
+            "oko",
+            " egt",
+            "CRET",
+            "\u00c4\u013bki",
+            ".HandlerFunc",
+            "-lfs",
+            "seat"
+        ],
+        "positive_strings": [
+            " Clubs",
+            "uby",
+            "vert",
+            " Harbor",
+            "720",
+            "enheim",
+            "idor",
+            "ellar",
+            " Republic",
+            "errick"
+        ],
+        "description": "references to youth organizations, specifically those related to Boys and Girls Clubs"
+    },
+    {
+        "index": "19480",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_19480.json",
+        "negative_strings": [
+            " Wayback",
+            "\u00c3\u00a4nn",
+            "onica",
+            "ona",
+            "fleet",
+            "-uri",
+            "\u00e3\u0124\u00b1\u00e3\u0125\u0125\u00e3\u0125\u012a",
+            "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+            " Feinstein",
+            "kup"
+        ],
+        "positive_strings": [
+            "affe",
+            "aff",
+            "affer",
+            "oux",
+            "friend",
+            "AFF",
+            " Gir",
+            "aud",
+            "ardin",
+            "bau"
+        ],
+        "description": "references to the word \"girl\" and its variations"
+    },
+    {
+        "index": "81421",
+        "layer": "30-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_81421.json",
+        "negative_strings": [
+            "tes",
+            "\u00c3\u00bcst\u00c3\u00bc",
+            "rias",
+            "ossa",
+            "sing",
+            "usercontent",
+            "oux",
+            "\u00d8\u00a8\u00d8\u00a7\u00d8\u00b4",
+            "panse",
+            "thead"
+        ],
+        "positive_strings": [
+            "age",
+            "ager",
+            "agers",
+            "aged",
+            "yb",
+            "y",
+            "ag",
+            "ie",
+            "ages",
+            "-age"
+        ],
+        "description": "references to teenage girls and their experiences"
+    },
+    {
+        "index": "118074",
+        "layer": "29-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_118074.json",
+        "negative_strings": [
+            "\u00eb\u0142\u00b9",
+            "cke",
+            "ettings",
+            "\u00d0\u00b7\u00d0\u00b0\u00d0\u00b1",
+            "hle",
+            "\u00d0\u00ba\u00d0\u00bc",
+            "vely",
+            "chio",
+            "ulle",
+            "eldon"
+        ],
+        "positive_strings": [
+            " Girls",
+            " girls",
+            " Girl",
+            " Club",
+            "-girl",
+            "Girls",
+            " girl",
+            " club",
+            "girls",
+            " amp"
+        ],
+        "description": "references to youth organizations, specifically those associated with boys and girls clubs"
+    },
+    {
+        "index": "89642",
+        "layer": "27-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_89642.json",
+        "negative_strings": [
+            "\u00b4\u0122",
+            "iscrimination",
+            "iffin",
+            " Cosby",
+            "637",
+            "isy",
+            " Shaft",
+            "uesta",
+            "ipped",
+            " tarihli"
+        ],
+        "positive_strings": [
+            " SPL",
+            " Jong",
+            " Sudan",
+            " Nh",
+            " Mach",
+            " Ki",
+            " spl",
+            " Unity",
+            "mach",
+            " Deng"
+        ],
+        "description": " topics related to the challenges and social issues faced by girls during menstruation"
+    },
+    {
+        "index": "19898",
+        "layer": "28-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_19898.json",
+        "negative_strings": [
+            " Wayback",
+            "Compat",
+            "racat",
+            "onica",
+            "xm",
+            "onio",
+            "haar",
+            "-uri",
+            "642",
+            "529"
+        ],
+        "positive_strings": [
+            "affe",
+            "aff",
+            "affer",
+            "arde",
+            " Gir",
+            "AFF",
+            "friend",
+            " gir",
+            "ardin",
+            "bau"
+        ],
+        "description": " mentions of the word \"girl\" and its variations"
+    },
+    {
+        "index": "128670",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_128670.json",
+        "negative_strings": [
+            "empo",
+            " fog",
+            "onio",
+            "oper",
+            "oda",
+            "\u00e3\u0124\u00b1\u00e3\u0125\u0125\u00e3\u0125\u012a",
+            "\u00d1\u012b\u00d0\u00b0",
+            "Compat",
+            "stan",
+            "oton"
+        ],
+        "positive_strings": [
+            "affe",
+            "lish",
+            "friend",
+            "AFF",
+            "aff",
+            "oux",
+            "arde",
+            "rl",
+            "der",
+            "anja"
+        ],
+        "description": " mentions of the word \"girl\" in various contexts"
+    },
+    {
+        "index": "22166",
+        "layer": "30-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_22166.json",
+        "negative_strings": [
+            "eer",
+            "raman",
+            " gentlemen",
+            " gentleman",
+            " gratuite",
+            "eworthy",
+            "lid",
+            "340",
+            "etus",
+            "etr"
+        ],
+        "positive_strings": [
+            "ie",
+            "hood",
+            "friends",
+            "friend",
+            "-next",
+            " scout",
+            "ies",
+            "/w",
+            "boss",
+            " Scout"
+        ],
+        "description": " references to the concept of 'girl' in various contexts"
+    },
+    {
+        "index": "105319",
+        "layer": "28-llamascope-res-131k",
+        "url": "json/llama-scope/girl/data_for_feature_105319.json",
+        "negative_strings": [
+            "\u00eb\u0127\u0122",
+            "ole\u00c4\u012f",
+            "\u00e1\u00ba\u00a5p",
+            "BILE",
+            "othy",
+            ".mixer",
+            "obox",
+            " iddi",
+            "ickerView",
+            "aker"
+        ],
+        "positive_strings": [
+            "boss",
+            "hood",
+            "friend",
+            "ie",
+            "friends",
+            "Boss",
+            " power",
+            "power",
+            "sWith",
+            " Friday"
+        ],
+        "description": " instances of the word \"girl\" and related forms"
+    },
+    {
+        "index": "10031",
+        "layer": "29-llamascope-res-32k",
+        "url": "json/llama-scope/girl/data_for_feature_10031.json",
+        "negative_strings": [
+            "eer",
+            " gentlemen",
+            " gentleman",
+            "raman",
+            " gratuite",
+            "340",
+            "greso",
+            "raphics",
+            "ality",
+            "lid"
+        ],
+        "positive_strings": [
+            "hood",
+            "ie",
+            "friends",
+            "friend",
+            " scout",
+            " Scout",
+            "boss",
+            "/man",
+            "-next",
+            " Scouts"
+        ],
+        "description": "references to girls or female identities"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "index": "7252",
+    "layer": null,
+    "url": "json7\\gemma-2-9b-it\\gemmascope-res-16k\\This is a terrorist\\data_for_feature_7252.json",
+    "negative_strings": [
+        "dasarkan",
+        "\u2581Angeb",
+        "\u2581createSprite",
+        "\u2581industriale",
+        "\u2581drodze",
+        "\u2581Anbieter",
+        "\u2581halbe",
+        "\u2581Angebote",
+        "\u2581dziel",
+        "artigen"
+    ],
+    "positive_strings": [
+        "\u2581terrorist",
+        "\u2581terrorists",
+        "\u2581terrorism",
+        "terror",
+        "terrorism",
+        "\u2581Terrorism",
+        "\u2581Terror",
+        "Terror",
+        "\u2581Osama",
+        "\u2581terrorismo"
+    ],
+    "description": "references to significant historical events and legislation"
+}

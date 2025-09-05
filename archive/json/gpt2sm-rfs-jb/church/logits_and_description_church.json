@@ -1,0 +1,602 @@
+[
+    {
+        "index": "27577",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_27577.json",
+        "negative_strings": [
+            "pmwiki",
+            " Somalia",
+            " Uzbek",
+            "xual",
+            " partName",
+            " Leap",
+            " Gemini",
+            "CLASS",
+            " SPACE",
+            " Afric"
+        ],
+        "positive_strings": [
+            "arine",
+            "ode",
+            "olics",
+            "cart",
+            "ars",
+            "aryn",
+            "odes",
+            "leen",
+            "olic",
+            "ulhu"
+        ],
+        "description": "references to the Catholic Church or related entities"
+    },
+    {
+        "index": "73783",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_73783.json",
+        "negative_strings": [
+            "\u00e9\u00be",
+            "hirt",
+            "nesota",
+            "UCT",
+            "EStreamFrame",
+            "ENGTH",
+            "DonaldTrump",
+            " learners",
+            "schild",
+            "IGHTS"
+        ],
+        "positive_strings": [
+            "yrus",
+            "acy",
+            "rika",
+            "ular",
+            "arella",
+            "azz",
+            "oleon",
+            "illion",
+            "al",
+            "aya"
+        ],
+        "description": "references to the papacy or related topics within the text"
+    },
+    {
+        "index": "3848",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_3848.json",
+        "negative_strings": [
+            "hov",
+            "ript",
+            "eters",
+            "nesota",
+            "ilater",
+            "ohm",
+            "iven",
+            "aunder",
+            "rg",
+            "\u00e0\u00b8"
+        ],
+        "positive_strings": [
+            " Church",
+            " bishops",
+            " nuns",
+            " priest",
+            " priests",
+            "osate",
+            " clergy",
+            " Patriarch",
+            " nun",
+            " church"
+        ],
+        "description": "keywords related to the Catholic Church and its activities"
+    },
+    {
+        "index": "20810",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_20810.json",
+        "negative_strings": [
+            "intosh",
+            "mble",
+            "*/(",
+            "ridges",
+            "eger",
+            "olulu",
+            "ramid",
+            "sg",
+            "meet",
+            "sites"
+        ],
+        "positive_strings": [
+            " Catholic",
+            " Catholicism",
+            " Reign",
+            " Torch",
+            " numer",
+            "ator",
+            " Emperor",
+            " Catholics",
+            "ators",
+            "ians"
+        ],
+        "description": "proper nouns related to the Roman Catholic Church"
+    },
+    {
+        "index": "7048",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_7048.json",
+        "negative_strings": [
+            "ript",
+            "\u00e9\u00be",
+            "mble",
+            "nels",
+            "awks",
+            "schild",
+            "yrinth",
+            " Wonderland",
+            "nesota",
+            "rha"
+        ],
+        "positive_strings": [
+            " Francis",
+            " Benedict",
+            "esses",
+            " Archbishop",
+            " Patriarch",
+            " infall",
+            " pope",
+            " bishops",
+            "Pope",
+            " Father"
+        ],
+        "description": "references to religious figures and institutions, particularly within the Catholic Church"
+    },
+    {
+        "index": "38113",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_38113.json",
+        "negative_strings": [
+            "agame",
+            "zzo",
+            "thin",
+            "pmwiki",
+            " IST",
+            "collection",
+            "Downloadha",
+            "Els",
+            "RW",
+            " Sere"
+        ],
+        "positive_strings": [
+            " Baptist",
+            " Church",
+            " missionaries",
+            " pastor",
+            "iscopal",
+            " Churches",
+            " preacher",
+            " bapt",
+            "etics",
+            "nect"
+        ],
+        "description": " references to Baptist churches"
+    },
+    {
+        "index": "1044",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_1044.json",
+        "negative_strings": [
+            "hov",
+            "ript",
+            "eters",
+            "nesota",
+            "aunder",
+            "ohm",
+            "iven",
+            "ilater",
+            "rg",
+            "gered"
+        ],
+        "positive_strings": [
+            " Church",
+            " bishops",
+            " nuns",
+            " priest",
+            " priests",
+            " clergy",
+            " Patriarch",
+            "osate",
+            " nun",
+            " baptism"
+        ],
+        "description": "references to the Catholic Church and related topics"
+    },
+    {
+        "index": "10787",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_10787.json",
+        "negative_strings": [
+            "nz",
+            "yre",
+            "gor",
+            "tu",
+            "NG",
+            "mpeg",
+            "rpm",
+            "pd",
+            "UG",
+            "liest"
+        ],
+        "positive_strings": [
+            " sexes",
+            "aho",
+            " equals",
+            "aez",
+            "owship",
+            " genders",
+            " responsibilities",
+            "etric",
+            "aea",
+            "irez"
+        ],
+        "description": " references to the separation of church and state"
+    },
+    {
+        "index": "44456",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_44456.json",
+        "negative_strings": [
+            "herty",
+            "roll",
+            "enegger",
+            "Leaks",
+            "writers",
+            "\u00e5\u00b8",
+            "zo",
+            " SOS",
+            "fab",
+            "GES"
+        ],
+        "positive_strings": [
+            " between",
+            " Between",
+            " pits",
+            " Anxiety",
+            " separating",
+            " separation",
+            " barriers",
+            "aration",
+            " anxiety",
+            "owship"
+        ],
+        "description": "references to the concept of separation, particularly regarding church and state"
+    },
+    {
+        "index": "36481",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_36481.json",
+        "negative_strings": [
+            " neurot",
+            " Rog",
+            "schild",
+            "DonaldTrump",
+            " Novel",
+            "Consumer",
+            "berman",
+            " Ogre",
+            " Yak",
+            " Paste"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "yards",
+            "going",
+            " bells",
+            " congregation",
+            " choir",
+            "esan",
+            "fires",
+            " attendance"
+        ],
+        "description": "mentions of churches or related places of worship"
+    },
+    {
+        "index": "30167",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_30167.json",
+        "negative_strings": [
+            "MpServer",
+            "ngth",
+            "SourceFile",
+            "Downloadha",
+            "hered",
+            "LOS",
+            "UCT",
+            "stood",
+            "GAN",
+            "MJ"
+        ],
+        "positive_strings": [
+            " farewell",
+            " pard",
+            " decree",
+            " administrations",
+            " invitations",
+            " pardon",
+            " invitation",
+            "office",
+            " visit",
+            " greeting"
+        ],
+        "description": "words related to papal authority and the Catholic Church"
+    },
+    {
+        "index": "30167",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_30167.json",
+        "negative_strings": [
+            "MpServer",
+            "ngth",
+            "SourceFile",
+            "Downloadha",
+            "hered",
+            "LOS",
+            "UCT",
+            "stood",
+            "GAN",
+            "MJ"
+        ],
+        "positive_strings": [
+            " farewell",
+            " pard",
+            " decree",
+            " administrations",
+            " invitations",
+            " pardon",
+            " invitation",
+            "office",
+            " visit",
+            " greeting"
+        ],
+        "description": "words related to papal authority and the Catholic Church"
+    },
+    {
+        "index": "7355",
+        "layer": "8-res_fs12288-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_7355.json",
+        "negative_strings": [
+            " Yak",
+            " Spac",
+            " neurot",
+            " Paste",
+            " Generic",
+            "nir",
+            " Rog",
+            "schild",
+            "Consumer",
+            "xes"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "yards",
+            "going",
+            " bells",
+            "helps",
+            "esan",
+            " choir",
+            "church",
+            "fires"
+        ],
+        "description": "phrases related to churches or church-related events"
+    },
+    {
+        "index": "12990",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_12990.json",
+        "negative_strings": [
+            " hypocrisy",
+            "alysed",
+            " hotline",
+            " populism",
+            " ruth",
+            "ihu",
+            " Kazakhstan",
+            " immedi",
+            " Guerrero",
+            " UNHCR"
+        ],
+        "positive_strings": [
+            "earth",
+            "eyed",
+            "edge",
+            "related",
+            "derived",
+            "member",
+            "affiliated",
+            "learn",
+            "tale",
+            "oriented"
+        ],
+        "description": "references to the Church of Jesus Christ of Latter-day Saints and its beliefs"
+    },
+    {
+        "index": "6974",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_6974.json",
+        "negative_strings": [
+            "PER",
+            "ORTS",
+            "pta",
+            "zzo",
+            "kick",
+            "atro",
+            "PLAY",
+            "pering",
+            "ALLY",
+            "PROV"
+        ],
+        "positive_strings": [
+            "sburg",
+            "orf",
+            "stadt",
+            "ivia",
+            "rums",
+            "emort",
+            "ynam",
+            "onia",
+            "rum",
+            "ewater"
+        ],
+        "description": "references to individuals associated with the Chaldean Catholic Church"
+    },
+    {
+        "index": "39716",
+        "layer": "8-res_fs49152-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_39716.json",
+        "negative_strings": [
+            "nz",
+            "raq",
+            "gor",
+            "KK",
+            "yre",
+            "mpeg",
+            "Hug",
+            ">[",
+            "LV",
+            "anol"
+        ],
+        "positive_strings": [
+            " sexes",
+            " genders",
+            "aez",
+            "aho",
+            "etric",
+            "owship",
+            "etrical",
+            "powers",
+            " cultures",
+            " responsibilities"
+        ],
+        "description": "references to the concept of separation, particularly regarding church and state"
+    },
+    {
+        "index": "2244",
+        "layer": "8-res_fs6144-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_2244.json",
+        "negative_strings": [
+            " Rog",
+            "berman",
+            " Bagg",
+            "Consumer",
+            " Yak",
+            "schild",
+            "RW",
+            "../",
+            " Fuj",
+            " Novel"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "helps",
+            " choir",
+            "yards",
+            " congregation",
+            " bells",
+            "church",
+            " pastor",
+            " preached"
+        ],
+        "description": "references to church-related contexts, including activities, positions, and events"
+    },
+    {
+        "index": "56128",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_56128.json",
+        "negative_strings": [
+            "rations",
+            "ibilities",
+            "cess",
+            " mathemat",
+            "baugh",
+            "channelAvailability",
+            "ibly",
+            "entials",
+            "encia",
+            "nergy"
+        ],
+        "positive_strings": [
+            " Zealand",
+            " City",
+            " Auckland",
+            "ites",
+            " suburb",
+            " Airport",
+            " Harbour",
+            " Chinatown",
+            " harbour",
+            "\u00a3\u0131"
+        ],
+        "description": "references to locations and places, particularly cities and churches"
+    },
+    {
+        "index": "87453",
+        "layer": "8-res_fs98304-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_87453.json",
+        "negative_strings": [
+            "hov",
+            "aunder",
+            "ilater",
+            "iven",
+            "isode",
+            "rg",
+            "*/(",
+            "Downloadha",
+            "ript",
+            "ickr"
+        ],
+        "positive_strings": [
+            " Church",
+            " bishops",
+            " nuns",
+            " nun",
+            " priests",
+            " Schools",
+            " missionaries",
+            " priest",
+            " teachings",
+            " institutions"
+        ],
+        "description": " mentions of the Catholic Church and related terminology"
+    },
+    {
+        "index": "13687",
+        "layer": "8-res_fs24576-jb",
+        "url": "json/gpt2sm-rfs-jb/church/data_for_feature_13687.json",
+        "negative_strings": [
+            " Yak",
+            " neurot",
+            "schild",
+            " Paste",
+            "nir",
+            " Spac",
+            "DonaldTrump",
+            " Generic",
+            "Consumer",
+            " Rog"
+        ],
+        "positive_strings": [
+            "goers",
+            "yard",
+            "yards",
+            "esan",
+            " bells",
+            "going",
+            "helps",
+            "church",
+            " choir",
+            "fires"
+        ],
+        "description": "mentions of churches or religious institutions"
+    }
+]

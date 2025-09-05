@@ -1,0 +1,30 @@
+{
+    "index": "32850",
+    "layer": null,
+    "url": "json7\\gemma-2-2b\\gemmascope-res-65k\\This is a hostage\\data_for_feature_32850.json",
+    "negative_strings": [
+        "TypedDataSet",
+        "\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3",
+        "\u2581\u043d\u0435\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430",
+        "rinfo",
+        "Newswire",
+        "hedra",
+        "-------\f",
+        "\u2581\u0909\u0938\u0947",
+        "\u2581fi\u00e8vre",
+        "AutoresizingMask"
+    ],
+    "positive_strings": [
+        "\u2581study",
+        "createClass",
+        "\u2581studies",
+        "\u2581studie",
+        "baomidou",
+        "\u0012",
+        "\u2581AssemblyTitle",
+        "\u2581Study",
+        "study",
+        "\u7814\u7a76"
+    ],
+    "description": "phrases that begin with the word \"This.\""
+}

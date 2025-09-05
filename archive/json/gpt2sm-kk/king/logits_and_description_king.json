@@ -1,0 +1,602 @@
+[
+    {
+        "index": "8721",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_8721.json",
+        "negative_strings": [
+            " vec",
+            " \u2588",
+            "acco",
+            "bestos",
+            "vec",
+            " Vec",
+            " McInt",
+            " asbestos",
+            " chirop",
+            "milo"
+        ],
+        "positive_strings": [
+            "King",
+            " King",
+            " Kingdom",
+            " kingdom",
+            " KING",
+            " kingdoms",
+            "KING",
+            " king",
+            " monarch",
+            "king"
+        ],
+        "description": " references to Martin Luther King Jr. and discussions surrounding his legacy and impact"
+    },
+    {
+        "index": "8327",
+        "layer": "9-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_8327.json",
+        "negative_strings": [
+            " Puzzles",
+            " Niagara",
+            "iOS",
+            " Qin",
+            "ships",
+            " Jian",
+            "MpServer",
+            " Zhang",
+            " Surviv",
+            "UGC"
+        ],
+        "positive_strings": [
+            " Luther",
+            " nonviolent",
+            " Negro",
+            " sermon",
+            " Reverend",
+            " Loving",
+            " Klan",
+            " Lutheran",
+            " emancipation",
+            " Rosa"
+        ],
+        "description": "references to Martin Luther King Jr. and his legacy"
+    },
+    {
+        "index": "6977",
+        "layer": "11-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_6977.json",
+        "negative_strings": [
+            " superpower",
+            " NEO",
+            " Unified",
+            "VPN",
+            "Global",
+            "\u30a2\u30eb",
+            "DNA",
+            " DUI",
+            " Transparency",
+            "readable"
+        ],
+        "positive_strings": [
+            ",\u2014",
+            " bred",
+            " supper",
+            " pige",
+            " poultry",
+            " pasture",
+            " negro",
+            " chickens",
+            " horses",
+            " servants"
+        ],
+        "description": "narrative elements related to a king and dramatic events"
+    },
+    {
+        "index": "23001",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_23001.json",
+        "negative_strings": [
+            "76561",
+            " cellar",
+            "pec",
+            " inexper",
+            "\ufffd",
+            "elist",
+            "\u2500\u2500\u2500\u2500",
+            " Mits",
+            " unfocusedRange",
+            " inexperienced"
+        ],
+        "positive_strings": [
+            "ukemia",
+            "AIDS",
+            " Statue",
+            " ACLU",
+            " AIDS",
+            "OTUS",
+            " martyr",
+            " assassinated",
+            " Jr",
+            " measles"
+        ],
+        "description": "references to Martin Luther King Jr"
+    },
+    {
+        "index": "13658",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_13658.json",
+        "negative_strings": [
+            " corridors",
+            " stump",
+            "imentary",
+            " acknow",
+            " locker",
+            " airspace",
+            " limb",
+            " arenas",
+            " wreckage",
+            "\":[\""
+        ],
+        "positive_strings": [
+            "utenberg",
+            "arte",
+            "rams",
+            "ames",
+            " Salvador",
+            " Masters",
+            "verty",
+            " masters",
+            "ateur",
+            "aunder"
+        ],
+        "description": "references to historical reigns and the associated kings or rulers"
+    },
+    {
+        "index": "39300",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_39300.json",
+        "negative_strings": [
+            "iola",
+            "wic",
+            "riage",
+            "ippi",
+            "chnology",
+            "ern",
+            "ptions",
+            "STEM",
+            "avia",
+            "cki"
+        ],
+        "positive_strings": [
+            " pits",
+            " centres",
+            " analys",
+            " Ash",
+            " detract",
+            " **",
+            " fav",
+            " Lash",
+            " faire",
+            " Shak"
+        ],
+        "description": " words associated with the act of \"king\" and its derivatives"
+    },
+    {
+        "index": "6805",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_6805.json",
+        "negative_strings": [
+            "milo",
+            " shame",
+            "afety",
+            "HAEL",
+            "sembly",
+            "ngth",
+            " apologies",
+            "amiya",
+            "resy",
+            "SourceFile"
+        ],
+        "positive_strings": [
+            "essen",
+            " Sutherland",
+            "ounters",
+            "parts",
+            " Olson",
+            "uron",
+            "velt",
+            "lez",
+            "ichick",
+            " Souls"
+        ],
+        "description": " mentions of Martin Luther King Jr"
+    },
+    {
+        "index": "27946",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_27946.json",
+        "negative_strings": [
+            " Helpful",
+            "inarily",
+            " omission",
+            "ibilities",
+            " trustworthy",
+            "atform",
+            "etitive",
+            "chnology",
+            "PLIED",
+            "pter"
+        ],
+        "positive_strings": [
+            "\u738b",
+            " Shogun",
+            "ikuman",
+            " Mania",
+            " Sioux",
+            " XVI",
+            " Decay",
+            " Answers",
+            " Spirits",
+            "agos"
+        ],
+        "description": "references to kings and their associations"
+    },
+    {
+        "index": "6775",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_6775.json",
+        "negative_strings": [
+            "cakes",
+            "cake",
+            "ords",
+            "\u899a\u9192",
+            "dress",
+            "sheets",
+            "worms",
+            " skirt",
+            "worm",
+            " lodging"
+        ],
+        "positive_strings": [
+            " Luther",
+            " preached",
+            " Tsarnaev",
+            " convict",
+            "\ufffd\ufffd",
+            " rall",
+            "die",
+            " Educ",
+            "steen",
+            "thood"
+        ],
+        "description": "references to historical figures and civil rights leaders, particularly Martin Luther King Jr"
+    },
+    {
+        "index": "11283",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_11283.json",
+        "negative_strings": [
+            "gom",
+            " skelet",
+            " spons",
+            "ortium",
+            "tracking",
+            "afety",
+            " deceptive",
+            " KY",
+            "KY",
+            "farious"
+        ],
+        "positive_strings": [
+            "\u30bc\u30a6\u30b9",
+            " Browne",
+            " Reagan",
+            " Michaels",
+            " majority",
+            "amines",
+            " Sandwich",
+            " presidents",
+            "\u30b7",
+            " Ended"
+        ],
+        "description": "mentions of Martin Luther King Jr. and related contextual information"
+    },
+    {
+        "index": "32485",
+        "layer": "5-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_32485.json",
+        "negative_strings": [
+            "igation",
+            "urat",
+            "ibur",
+            "iations",
+            "ensions",
+            "obbies",
+            " condol",
+            "UI",
+            "rouse",
+            " incur"
+        ],
+        "positive_strings": [
+            " 2048",
+            "hess",
+            " Kong",
+            " fructose",
+            "corn",
+            " tomat",
+            " watts",
+            " dominance",
+            " overcl",
+            " entropy"
+        ],
+        "description": "references to \"king\" and phrases indicating superiority or prominence"
+    },
+    {
+        "index": "2456",
+        "layer": "4-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_2456.json",
+        "negative_strings": [
+            " anomalies",
+            " alley",
+            "catch",
+            " inconsistencies",
+            " glitches",
+            " anomal",
+            " drifting",
+            "holes",
+            " inaccur",
+            " bott"
+        ],
+        "positive_strings": [
+            " ordered",
+            " XIV",
+            " XVI",
+            " Lod",
+            "ogun",
+            " Empress",
+            "azon",
+            "\u00cd",
+            " proclamation",
+            " TAMADRA"
+        ],
+        "description": "references to historical kings and rulers"
+    },
+    {
+        "index": "21625",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_21625.json",
+        "negative_strings": [
+            "gio",
+            "nces",
+            "uci",
+            "amera",
+            "oute",
+            " Typh",
+            "\ufffd\u58eb",
+            " lia",
+            " consultancy",
+            "angelo"
+        ],
+        "positive_strings": [
+            " Shepard",
+            " Whitman",
+            "\ufffd\ufffd",
+            "INA",
+            " meme",
+            " dogma",
+            "umblr",
+            " partName",
+            " suppressed",
+            " millennial"
+        ],
+        "description": "references to Martin Luther King Jr. and related figures or movements"
+    },
+    {
+        "index": "5503",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_5503.json",
+        "negative_strings": [
+            "pees",
+            "minecraft",
+            "dylib",
+            "=~=~",
+            " Chilean",
+            "Scotland",
+            " Confederation",
+            "earchers",
+            "netflix",
+            "Frameworks"
+        ],
+        "positive_strings": [
+            "essen",
+            "ull",
+            "oulos",
+            "acca",
+            "zek",
+            "igham",
+            "SON",
+            "wer",
+            "umann",
+            "arkin"
+        ],
+        "description": "names of individuals named \"Stephen\" or related to Stephen King"
+    },
+    {
+        "index": "2534",
+        "layer": "2-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_2534.json",
+        "negative_strings": [
+            " disparities",
+            " flows",
+            " absorption",
+            " Effective",
+            " Expend",
+            "parable",
+            "ERG",
+            "iosity",
+            " outburst",
+            " departures"
+        ],
+        "positive_strings": [
+            "chers",
+            "agons",
+            "guided",
+            "chery",
+            "ettes",
+            "masters",
+            "mire",
+            " Yanuk",
+            "ername",
+            "araoh"
+        ],
+        "description": "information related to the concept of pawns and kings"
+    },
+    {
+        "index": "8283",
+        "layer": "8-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_8283.json",
+        "negative_strings": [
+            "senal",
+            "\ufffd\u58eb",
+            " portals",
+            " sul",
+            "ushima",
+            "uno",
+            " \u2588",
+            "fit",
+            "inet",
+            " Qin"
+        ],
+        "positive_strings": [
+            " Luther",
+            " ML",
+            " NAACP",
+            " Declaration",
+            " LDS",
+            " blacks",
+            " Negro",
+            " African",
+            " nonviolent",
+            "Jr"
+        ],
+        "description": " references to Martin Luther King Jr. and related civil rights themes"
+    },
+    {
+        "index": "5164",
+        "layer": "6-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_5164.json",
+        "negative_strings": [
+            "rued",
+            "Bottom",
+            "quit",
+            "staff",
+            "VERTISEMENT",
+            "Reviewer",
+            "lining",
+            "WD",
+            "glers",
+            "tub"
+        ],
+        "positive_strings": [
+            " resil",
+            " Jr",
+            " :=",
+            "rocal",
+            " mascul",
+            "MpServer",
+            "irgin",
+            "nesota",
+            " Fourth",
+            "utics"
+        ],
+        "description": "references to Martin Luther King Jr. and other civil rights figures"
+    },
+    {
+        "index": "11761",
+        "layer": "7-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_11761.json",
+        "negative_strings": [
+            "76561",
+            "adjust",
+            " Adjust",
+            "onyms",
+            "ackets",
+            " Texture",
+            "oids",
+            " folds",
+            "elist",
+            "rx"
+        ],
+        "positive_strings": [
+            " Jr",
+            " Parkway",
+            " concert",
+            " preached",
+            " assassinated",
+            " passionately",
+            " marches",
+            " loudly",
+            " Memorial",
+            " marathon"
+        ],
+        "description": "references to Martin Luther King Jr. and related figures"
+    },
+    {
+        "index": "3985",
+        "layer": "3-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_3985.json",
+        "negative_strings": [
+            " actionGroup",
+            "matically",
+            " composition",
+            "\ufffd\ufffd",
+            "inav",
+            " autonom",
+            " peripher",
+            "imilar",
+            " (%)",
+            " neighbourhoods"
+        ],
+        "positive_strings": [
+            "uggets",
+            "rice",
+            "rices",
+            "gage",
+            " Spears",
+            "izzy",
+            " Cabrera",
+            "onsense",
+            " Fowler",
+            "lees"
+        ],
+        "description": "mentioned the name \"Maddie King\" and \"Maddow\" in the text"
+    },
+    {
+        "index": "3142",
+        "layer": "1-att-kk",
+        "url": "json/gpt2sm-kk/king/data_for_feature_3142.json",
+        "negative_strings": [
+            "\ufffd\ufffd",
+            " Verb",
+            " strat",
+            " Akira",
+            " withholding",
+            " unintended",
+            " slow",
+            "izoph",
+            " decomp",
+            "cgi"
+        ],
+        "positive_strings": [
+            "itte",
+            "League",
+            "CTV",
+            "ufact",
+            "estine",
+            "lege",
+            "antle",
+            "ilver",
+            "ongo",
+            "Sport"
+        ],
+        "description": "proper abbreviations like \"MLAs\" (Members of Legislative Assembly) and \"MLK\" (Martin Luther King)"
+    }
+]

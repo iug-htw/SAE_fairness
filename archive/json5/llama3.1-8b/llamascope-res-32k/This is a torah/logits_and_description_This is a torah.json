@@ -1,0 +1,332 @@
+[
+    {
+        "index": "4992",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_4992.json",
+        "negative_strings": [
+            "zelf",
+            "\n",
+            " particular",
+            "elez",
+            "ost",
+            "specific",
+            "ACHER",
+            "\u00e6\u0142\u00b7\u00e7\u013c\u0126",
+            "likle",
+            " likes"
+        ],
+        "positive_strings": [
+            " entry",
+            " Week",
+            "Is",
+            " Month",
+            "Week",
+            " Weeks",
+            " page",
+            " Is",
+            " Page",
+            " Entry"
+        ],
+        "description": "instances of the word \"This.\""
+    },
+    {
+        "index": "12048",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_12048.json",
+        "negative_strings": [
+            "\u00e3\u0125\u00bc\u00e3\u0125\u00ab",
+            "thalm",
+            "tru",
+            "strukce",
+            "atern",
+            "enus",
+            "\u00e4\u00bf\u0124",
+            "arsers",
+            "[string",
+            "timezone"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "pedo",
+            "mentor",
+            "ched",
+            "onto",
+            "oidal",
+            "ped",
+            "rid",
+            "qu"
+        ],
+        "description": " instances of the word \"Tor\" and its variations, indicating a focus on that specific term or name"
+    },
+    {
+        "index": "18701",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_18701.json",
+        "negative_strings": [
+            "soever",
+            " therein",
+            "this",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b3\u00d0\u00be",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d0\u00b9",
+            "there",
+            " t\u00c3\u00a9to",
+            " Ulus",
+            " \u00d1\u012f\u00d1\u0124\u00d0\u00be\u00d1\u0124",
+            " \u00e1\u00ba\u00a5y"
+        ],
+        "positive_strings": [
+            " how",
+            " where",
+            " why",
+            " happening",
+            " because",
+            " gonna",
+            " despite",
+            " shaping",
+            " when",
+            " going"
+        ],
+        "description": "sentences that contain the verb \"is.\""
+    },
+    {
+        "index": "30003",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_30003.json",
+        "negative_strings": [
+            "k\u00c3\u00bc",
+            "InputElement",
+            "spath",
+            "m\u00c3\u00ae",
+            "enus",
+            "strukce",
+            "izi",
+            "OrFail",
+            "irs",
+            "thalm"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "mentor",
+            "qu",
+            "reon",
+            "ched",
+            "oidal",
+            "ped",
+            "pedo"
+        ],
+        "description": "mentions of the name \"Tor\" and related variations"
+    },
+    {
+        "index": "31318",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_31318.json",
+        "negative_strings": [
+            "izi",
+            "spath",
+            "ivities",
+            "k\u00c3\u00bc",
+            "InputElement",
+            "irs",
+            "edly",
+            "allet",
+            "argent",
+            "thalm"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "mentor",
+            "ched",
+            "reon",
+            "oidal",
+            "pid",
+            "ment",
+            "adol"
+        ],
+        "description": "references to the name \"Torre\" or related forms"
+    },
+    {
+        "index": "1364",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_1364.json",
+        "negative_strings": [
+            "izi",
+            "edly",
+            "ivities",
+            "k\u00c3\u00bc",
+            "egen",
+            "InputElement",
+            "\u00ec\u00b8\u0142",
+            "spath",
+            "yard",
+            "agle"
+        ],
+        "positive_strings": [
+            "mented",
+            "rance",
+            "onto",
+            "rens",
+            "oidal",
+            "ment",
+            "mentor",
+            "pid",
+            "adol",
+            "reon"
+        ],
+        "description": "references to the term \"Tor,\" likely related to anonymity and privacy in internet communications"
+    },
+    {
+        "index": "12648",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_12648.json",
+        "negative_strings": [
+            "isty",
+            "vale",
+            "\u00eb\u012d\u00b9",
+            "acht",
+            "adi",
+            "abis",
+            "berger",
+            "esco",
+            "_goal",
+            "\u00e8\u012c\u00b8"
+        ],
+        "positive_strings": [
+            " course",
+            " week",
+            "amps",
+            " article",
+            " listing",
+            " weeks",
+            " episode",
+            " pack",
+            " topic",
+            "\u00b7"
+        ],
+        "description": "the word \"This\" and phrases indicating the beginning of a statement or description"
+    },
+    {
+        "index": "28950",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_28950.json",
+        "negative_strings": [
+            " pile",
+            "\\Carbon",
+            "BI",
+            "raphics",
+            "awi",
+            "agu",
+            "pawn",
+            "cope",
+            "bios",
+            "\u00d0\u00b3\u00d1\u0125"
+        ],
+        "positive_strings": [
+            " placeholder",
+            "ies",
+            "\u0134\u012a",
+            " Sponsored",
+            "insn",
+            " sponsored",
+            "uts",
+            " diseases",
+            "_rpc",
+            "ington"
+        ],
+        "description": "specific phrases that imply an introductory statement or definition"
+    },
+    {
+        "index": "14904",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_14904.json",
+        "negative_strings": [
+            "buquerque",
+            "\u00d8\u00b6\u00d8\u00a9",
+            "PTS",
+            "itus",
+            "arend",
+            "sit",
+            "berra",
+            "icontrol",
+            "spath",
+            "irty"
+        ],
+        "positive_strings": [
+            "mented",
+            " Tor",
+            " tor",
+            "Tor",
+            "adol",
+            " TOR",
+            "oidal",
+            "onto",
+            "pid",
+            "rence"
+        ],
+        "description": " references to \"Tor\" and related names, suggesting a focus on identifying specific individuals or entities"
+    },
+    {
+        "index": "23320",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_23320.json",
+        "negative_strings": [
+            ".imgur",
+            " Hlav",
+            "plier",
+            "\u00e9\u0122\u0123\u00e6\u0138\u013b\u00e7\u0126\u00a1\u00e6\u0138\u013b",
+            "actionDate",
+            "AFX",
+            "EMPLARY",
+            "uniacid",
+            "dden",
+            "\u00d0\u00b6\u00d0\u00b4\u00d0\u00b8"
+        ],
+        "positive_strings": [
+            "\n",
+            "\n\n",
+            " \n",
+            " npm",
+            " \\(",
+            "<|end_of_text|>",
+            " Xiaomi",
+            "=int",
+            " NSF",
+            " hotel"
+        ],
+        "description": " instances of the word \"The.\""
+    },
+    {
+        "index": "30911",
+        "layer": null,
+        "url": "json5\\llama3.1-8b\\llamascope-res-32k\\This is a torah\\data_for_feature_30911.json",
+        "negative_strings": [
+            "the",
+            " equivalents",
+            " fortunes",
+            "theless",
+            "that",
+            " the",
+            "askell",
+            " synonyms",
+            " strides",
+            " repercussions"
+        ],
+        "positive_strings": [
+            " particular",
+            " type",
+            " kind",
+            " same",
+            "/th",
+            " latest",
+            " sort",
+            " entire",
+            " week",
+            " year"
+        ],
+        "description": " occurrences of the word \"this.\""
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "index": "45218",
+        "layer": "6-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_45218.json",
+        "negative_strings": [
+            "umbnail",
+            "swick",
+            " Hurricanes",
+            "xit",
+            " Lima",
+            "zie",
+            "itives",
+            " Balkans",
+            "neau",
+            " Tigers"
+        ],
+        "positive_strings": [
+            " rabb",
+            " rabbi",
+            " Uriel",
+            " Rabbi",
+            " Instruct",
+            "iflower",
+            " Judaism",
+            "ided",
+            "avorite",
+            "\u00d7\u013e"
+        ],
+        "description": "references to Jewish religious figures and institutions, particularly rabbis and synagogues"
+    },
+    {
+        "index": "7705",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_7705.json",
+        "negative_strings": [
+            " Surviv",
+            "riott",
+            "PLA",
+            " WWF",
+            "meal",
+            "debian",
+            "mma",
+            "ESA",
+            "WARD",
+            "aeda"
+        ],
+        "positive_strings": [
+            "agog",
+            "agogue",
+            "ues",
+            "ically",
+            "uing",
+            "urations",
+            "ued",
+            "atory",
+            "illus",
+            " Uriel"
+        ],
+        "description": "references to religious places or practices, particularly related to synagogues"
+    },
+    {
+        "index": "6863",
+        "layer": "2-res_scefr-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_6863.json",
+        "negative_strings": [
+            "ESA",
+            " Surviv",
+            " Relief",
+            " Michaels",
+            "bid",
+            "riott",
+            " WWF",
+            "EVA",
+            " Warrant",
+            " CES"
+        ],
+        "positive_strings": [
+            "agog",
+            "agogue",
+            "ues",
+            "ically",
+            "uably",
+            "ancies",
+            "uing",
+            "illus",
+            "icons",
+            "icals"
+        ],
+        "description": "terms related to political figures, actions, and rhetoric"
+    },
+    {
+        "index": "34853",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_34853.json",
+        "negative_strings": [
+            " ASA",
+            " durability",
+            " Morph",
+            "Rare",
+            " Psychological",
+            "Cap",
+            " Quality",
+            ">>>>",
+            " TP",
+            "Ax"
+        ],
+        "positive_strings": [
+            "ivari",
+            "itory",
+            "andise",
+            "owship",
+            "phabet",
+            "tyard",
+            "achers",
+            "rees",
+            "ornings",
+            "furt"
+        ],
+        "description": "mentions of religious institutions like churches, synagogues, and mosques and their related events or activities"
+    },
+    {
+        "index": "15538",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_15538.json",
+        "negative_strings": [
+            "olon",
+            "ving",
+            "sis",
+            "IJ",
+            "iot",
+            "yles",
+            "estine",
+            "ternal",
+            "wyn",
+            "ylene"
+        ],
+        "positive_strings": [
+            "regate",
+            "\":[{\"",
+            "EStream",
+            "eer",
+            "dule",
+            " Slash",
+            " Sessions",
+            " bats",
+            "Activity",
+            "ARI"
+        ],
+        "description": "references to places of worship, specifically synagogues, and related historical, community, and religious themes"
+    },
+    {
+        "index": "15538",
+        "layer": "2-res_scl-ajt",
+        "url": "json/gpt2sm-apollojt/synagogue/data_for_feature_15538.json",
+        "negative_strings": [
+            "olon",
+            "ving",
+            "sis",
+            "IJ",
+            "iot",
+            "yles",
+            "estine",
+            "ternal",
+            "wyn",
+            "ylene"
+        ],
+        "positive_strings": [
+            "regate",
+            "\":[{\"",
+            "EStream",
+            "eer",
+            "dule",
+            " Slash",
+            " Sessions",
+            " bats",
+            "Activity",
+            "ARI"
+        ],
+        "description": "references to places of worship, specifically synagogues, and related historical, community, and religious themes"
+    }
+]

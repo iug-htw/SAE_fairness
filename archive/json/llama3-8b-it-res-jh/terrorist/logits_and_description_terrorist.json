@@ -1,0 +1,392 @@
+[
+    {
+        "index": "40205",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_40205.json",
+        "negative_strings": [
+            ".BorderFactory",
+            "\u00e3\u0123\u0138",
+            "ardin",
+            "imest",
+            "\u00e3\u0124\u00b7\u00e3\u0125\u00a7\u00e3\u0125\u00b3",
+            "\u00e3\u0123\u00ab\u00e3\u0123\u0124\u00e3\u0124\u012d",
+            "anja",
+            " GetLastError",
+            "allen",
+            " hust"
+        ],
+        "positive_strings": [
+            "usra",
+            " Fate",
+            " Ans",
+            " Front",
+            " al",
+            " Mask",
+            " Lev",
+            " Dawn",
+            " Fur",
+            "\u00e6\u013d"
+        ],
+        "description": "references to specific terrorist groups and their actions"
+    },
+    {
+        "index": "26589",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_26589.json",
+        "negative_strings": [
+            "erte",
+            "itan",
+            "geh",
+            "herits",
+            "odos",
+            "\u00d1\u0123\u00d0\u00be\u00d1\u0124",
+            "enko",
+            "/team",
+            "\u00e7\u0130\u0129",
+            "riad"
+        ],
+        "positive_strings": [
+            " financing",
+            "ozo",
+            " acts",
+            "ppo",
+            "/ext",
+            " Financing",
+            "-related",
+            "ToDevice",
+            "\u00d1\u0136\u00d0\u00bc",
+            " suspect"
+        ],
+        "description": " terms related to terrorism and terrorist activities"
+    },
+    {
+        "index": "28706",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_28706.json",
+        "negative_strings": [
+            "bubble",
+            "amac",
+            "\u00e6\u00b3\u00a5",
+            "ahi",
+            "RAIN",
+            ".scalablytyped",
+            "\u00e0\u00b8\u00ab\u00e0\u00b8\u00a7",
+            "uela",
+            ".mainloop",
+            "\u00e0\u00b9\u0122\u00e0\u00b8\u0123\u00e0\u00b8\u00a5"
+        ],
+        "positive_strings": [
+            " responsibility",
+            " Responsibility",
+            "Respons",
+            "respons",
+            " responsible",
+            " RESPONS",
+            " responsable",
+            " responsibilities",
+            " \u00d0\u00be\u00d1\u0124\u00d0\u00b2\u00d0\u00b5\u00d1\u0124\u00d1\u0123\u00d1\u0124\u00d0\u00b2\u00d0\u00b5\u00d0\u00bd",
+            " Responsible"
+        ],
+        "description": " references to terrorist organizations and their activities"
+    },
+    {
+        "index": "25472",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_25472.json",
+        "negative_strings": [
+            "quot",
+            "810",
+            " Taiwan",
+            " thief",
+            " jclass",
+            "\u00d0\u00b3\u00d0\u00be\u00d1\u0122",
+            "\u00e3\u0123\u00ab\u00e3\u0123\u00aa",
+            "\u0131a",
+            "-agent",
+            "\u00e6\u013b\u00a8"
+        ],
+        "positive_strings": [
+            " Paris",
+            " attacks",
+            " Brussels",
+            "Paris",
+            " coordinated",
+            " attack",
+            " Bast",
+            " Charlie",
+            " canl\u00c4\u00b1",
+            " Nice"
+        ],
+        "description": " references to terrorist activities and related security responses"
+    },
+    {
+        "index": "23535",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_23535.json",
+        "negative_strings": [
+            "allas",
+            " Alive",
+            " \u00d1\u0122\u00d0\u00b0\u00d0\u00b7\u00d0\u00b4\u00d0\u00b5\u00d0\u00bb",
+            "olina",
+            "\u00e6\u012b\u0122\u00e5\u00b1\u0140",
+            "ndx",
+            " Powell",
+            "ni\u00c5\u00be",
+            "gnu",
+            "868"
+        ],
+        "positive_strings": [
+            " against",
+            "against",
+            " Against",
+            "Against",
+            " gegen",
+            " contre",
+            " proti",
+            " tegen",
+            " \u00d0\u00bf\u00d1\u0122\u00d0\u00be\u00d1\u0124\u00d0\u00b8",
+            " \u00d8\u00b6\u00d8\u00af"
+        ],
+        "description": " references to military actions and operations against terrorist groups"
+    },
+    {
+        "index": "30980",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_30980.json",
+        "negative_strings": [
+            "efa",
+            "oke",
+            "ena",
+            "idi",
+            "athi",
+            " jihadists",
+            " Jihad",
+            "immer",
+            " insurgents",
+            "iant"
+        ],
+        "positive_strings": [
+            "_FREE",
+            "Ans",
+            " Ja",
+            " Ans",
+            "uth",
+            " Wagner",
+            "ocks",
+            "AllowAnonymous",
+            "\u00d0\u00b8\u00d1\u0122\u00d0\u00be\u00d0\u00b2",
+            " Fors"
+        ],
+        "description": " mentions of Islamic terrorist groups and their activities"
+    },
+    {
+        "index": "28892",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_28892.json",
+        "negative_strings": [
+            " central",
+            "Central",
+            " Central",
+            "uren",
+            "Son",
+            "central",
+            "urer",
+            " ent",
+            " le",
+            "\u00ea\u00b2\u00bd\u00ea\u00b8\u00b0"
+        ],
+        "positive_strings": [
+            "\u00e6\u00bd\u00ae",
+            "afen",
+            "/tiny",
+            "\u00e1\u00ba",
+            "bstract",
+            " Mouth",
+            " Withdraw",
+            " bi\u00c3\u00aan",
+            ".Interop",
+            "BorderColor"
+        ],
+        "description": " references to terrorist activities and incidents"
+    },
+    {
+        "index": "43606",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_43606.json",
+        "negative_strings": [
+            "borne",
+            " invasion",
+            ".uni",
+            "tir",
+            "iah",
+            "biased",
+            " Blog",
+            " Trap",
+            "campo",
+            "aptor"
+        ],
+        "positive_strings": [
+            " pros",
+            " designated",
+            " spl",
+            " terror",
+            " outlaw",
+            " organization",
+            " splitter",
+            "istencia",
+            " banned",
+            " param"
+        ],
+        "description": "references to specific terrorist groups"
+    },
+    {
+        "index": "28885",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_28885.json",
+        "negative_strings": [
+            "canf",
+            "chal",
+            " Gazette",
+            ".appspot",
+            "heimer",
+            " gim",
+            " Crud",
+            "jsc",
+            "v\u00c3\u00a1l",
+            " \u00d0\u013f\u00d0\u00b0\u00d1\u0123\u00d0\u00b5\u00d0\u00bb\u00d0\u00b5\u00d0\u00bd\u00d0\u00b8\u00d0\u00b5"
+        ],
+        "positive_strings": [
+            "fid",
+            "otas",
+            "ements",
+            " Marty",
+            " Zionist",
+            " clashes",
+            " Yesterday",
+            " PIC",
+            " Hawai",
+            " dawn"
+        ],
+        "description": " references to military actions and conflicts involving terrorist organizations"
+    },
+    {
+        "index": "26127",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_26127.json",
+        "negative_strings": [
+            "idden",
+            " Theft",
+            "swer",
+            "erk",
+            "\u00e5\u012a\u0133",
+            "bulan",
+            " theft",
+            "ahren",
+            "iffin",
+            "\u00da\u00af\u00d8\u00b1\u00d8\u00a7\u00d9\u0128"
+        ],
+        "positive_strings": [
+            " leader",
+            " leaders",
+            " wanted",
+            "leader",
+            " Wanted",
+            "wanted",
+            "Leader",
+            "leaders",
+            "ranking",
+            " Leader"
+        ],
+        "description": " information related to terrorism and terrorist organizations"
+    },
+    {
+        "index": "10389",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_10389.json",
+        "negative_strings": [
+            "ariat",
+            "ersh",
+            "ivors",
+            ".osgi",
+            "ERA",
+            " jeu",
+            "raw",
+            "egl",
+            "atem",
+            "ichel"
+        ],
+        "positive_strings": [
+            " enemy",
+            " Enemy",
+            "enemy",
+            "Enemy",
+            " enemies",
+            " combat",
+            "ellig",
+            " foreign",
+            " Combat",
+            " Enemies"
+        ],
+        "description": " references to legal or military custody situations involving suspected terrorists"
+    },
+    {
+        "index": "20038",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_20038.json",
+        "negative_strings": [
+            "hiba",
+            ".uni",
+            " hustle",
+            "iar",
+            " Berry",
+            "\u00d9\u0127\u00db\u012e\u00d8\u00b1",
+            "Spy",
+            "\u00d0\u00b0\u00d1\u0124\u00d0\u00b5\u00d0\u00bb\u00d1\u012e",
+            " richness",
+            "_barrier"
+        ],
+        "positive_strings": [
+            " groups",
+            " radical",
+            " outfits",
+            " Ans",
+            "groups",
+            "-groups",
+            " terror",
+            " fundamental",
+            " al",
+            " militant"
+        ],
+        "description": " references to terrorist groups and their activities"
+    },
+    {
+        "index": "15605",
+        "layer": "25-res-jh",
+        "url": "json/llama3-8b-it-res-jh/terrorist/data_for_feature_15605.json",
+        "negative_strings": [
+            " persona",
+            "anj",
+            "\u00d8\u00af\u00d9\u012b",
+            " Sanayi",
+            "\u0143",
+            "lfw",
+            "ogui",
+            "okie",
+            "ICAST",
+            "jury"
+        ],
+        "positive_strings": [
+            " activity",
+            " tactics",
+            " connection",
+            " Activity",
+            " Practices",
+            " training",
+            " agent",
+            " leader",
+            "activity",
+            "agent"
+        ],
+        "description": "references to terrorist organizations and related themes"
+    }
+]
