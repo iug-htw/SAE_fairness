@@ -15,7 +15,7 @@ This repository supports our paper:
 
 **"Mechanistic Interpretability with SAEs: Probing Religion, Violence, and Geography in Large Language Models"**
 Presented at: <br/>
-_AEQUITAS 2025: Workshop on Fairness and Bias in AI,_
+_AEQUITAS 2025: 3rd Workshop on Fairness and Bias in AI,_
 <br/> _co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025),_
 <br/> _Bologna, Italy_.
 
@@ -50,10 +50,10 @@ The key research questions:
 
 ## Research Team
 
-This project was conducted at **HTW Berlin (Hochschule für Technik und Wirtschaft Berlin)** by:
+This project was conducted at **HTW Berlin – Hochschule für Technik und Wirtschaft Berlin** within the **KIWI Project**.
 
-- **Prof. Dr. Katharina Simbeck** – Professor of Business Informatics (Information Management) - HTW Berlin
-- **Mariam Mahran** – Research Assistant, AI & Interpretability - HTW Berlin
+- [**Prof. Dr. Katharina Simbeck**](https://iug.htw-berlin.de) – Professor of Business Informatics (Information Management) - HTW Berlin
+- [**Mariam Mahran**](https://mariamkhmahran.github.io/) – Research Assistant, AI & Interpretability - HTW Berlin
 
 ---
 
@@ -166,7 +166,7 @@ SAE_FAIRNESS/
 git clone https://github.com/iug-htw/SAE_fairness.git
 cd SAE_fairness
 
-# Create a virtual environment (Python 3.9+)
+# Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
@@ -229,6 +229,7 @@ If you use this code, please cite:
 
 ## Credits & Acknowledgments
 
-This research was carried out at HTW Berlin with support from the KIWI Project, whose funding made this work possible.
+This work was carried out as part of the **KIWI Project**, generously funded by the **Federal Ministry of Education and Research (BMBF)**. We gratefully acknowledge their support, which enabled this research.
+
 We also gratefully acknowledge the Neuronpedia API, which provided access to SAE activations and feature explanations.
 Their open infrastructure was essential for the experiments conducted in this study.
